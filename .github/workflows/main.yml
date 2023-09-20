@@ -27,7 +27,7 @@ jobs:
           git pull origin main
 
       - name: Run scraper
-        run: python src/scrape.py
+        run: python src/01-scrape.py
 
       - name: Commit files
         run: |

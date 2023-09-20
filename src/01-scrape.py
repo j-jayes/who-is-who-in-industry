@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 import json
 
 resume_book_id = "vemindu"
-resume_page = 15
+resume_page = 12
 
 def extract_bio_data(page_source):
     start_tag = "<!-- mode=normal -->"
