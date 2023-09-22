@@ -3,7 +3,6 @@ import openai
 import json
 import yaml
 from pathlib import Path
-import argparse
 
 # Get the current working directory (root directory of the project)
 root_dir = Path.cwd()
@@ -23,19 +22,14 @@ else:
 
 openai.api_key = openai_api_key
 
-parser = argparse.ArgumentParser(description="Process a range of files.")
-parser.add_argument("--start", type=int, required=True, help="Start of the file range.")
-parser.add_argument("--end", type=int, required=True, help="End of the file range.")
-args = parser.parse_args()
-
-FILE_RANGE = [args.start, args.end]
+FILE_RANGE = [0, 20]
 
 def translate_and_structure_text(swedish_text):
     try:
         # Translate the Swedish text to English
-        translate_prompt = f"Translate the following abbreviated Swedish biography to English: {swedish_text}. Note that '\\d\\d m. partners name' means that the person married in the year 19xx."
+        translate_prompt = f"Translate the following abbreviated Swedish biography from the mid 20th century to English: {swedish_text}. Note that '\\d\\d m. partners name' means that the person married in the year 19xx."
         translation_response = openai.ChatCompletion.create(
-            model="gpt-3.5-turbo",
+            model="gpt-3.5-turbo-16k",
             messages=[
                 {"role": "system", "content": "You are an expert on Swedish family history."},
                 {"role": "user", "content": f"{translate_prompt}"}
@@ -45,10 +39,10 @@ def translate_and_structure_text(swedish_text):
         english_text = translation_response.choices[0].message.content
 
         structure_prompt = f"Given the original Swedish biography: {swedish_text}\nAnd its English translation: {english_text}\n"\
-                           "Structure the biography in Schema.org/Person format as a JSON object. Include dates wherever possible. Only provide a  RFC8259 compliant JSON response."
+                           "Structure the biography in Schema.org/Person format as a JSON object. Include dates wherever possible. Only provide a RFC8259 compliant JSON response."
 
         structure_response = openai.ChatCompletion.create(
-            model="gpt-3.5-turbo",
+            model="gpt-3.5-turbo-16k",
             messages=[
                     {"role": "system", "content": "You are an expert on Swedish family history and the Schema.org/Person format."},
                     {"role": "user", "content": f"{structure_prompt}"}
@@ -59,9 +53,22 @@ def translate_and_structure_text(swedish_text):
 
         structured_biography = json.loads(structure_response.choices[0].message.content)
 
-        print(f"Translated text: {english_text}", flush=True)
+        occupations_prompt = f"Given the original Swedish biography: {swedish_text}\nAnd its English translation: {english_text}\n"\
+                             "I care about the persons career trajectory. Can you return their occupational titles, workplaces, industries and start dates (if possible) for each occupation listed in JSON format? It should have the key  'career' at the top level and then the keys 'occupational_title', 'workplace', 'industry', and 'start_date' at the next level. Only provide a RFC8259 compliant JSON response." 
 
-        return english_text, structured_biography, structured_biography_raw
+        occupations_response = openai.ChatCompletion.create(
+            model="gpt-3.5-turbo-16k",
+            messages=[
+                {"role": "system", "content": "You are an expert on Swedish family history and occupational stucture of the 20th century."},
+                {"role": "user", "content": occupations_prompt},
+            ]
+        )
+
+        occupations = json.loads(occupations_response.choices[0].message.content)
+
+        print(f"Translated text: {english_text}")
+
+        return english_text, structured_biography, occupations
 
     except Exception as e:
         print(f"Error in translate_and_structure_text: {e}")
@@ -86,14 +93,14 @@ def main():
                 original_biography = file.read()
 
             # Translate the biography to English and structure it
-            translated_biography, structured_biography, structured_biography_raw = translate_and_structure_text(original_biography)
+            translated_biography, structured_biography, occupations = translate_and_structure_text(original_biography)
 
             if translated_biography is not None and structured_biography is not None:
                 # Prepare JSON data
                 data = {
                     "original": original_biography,
                     "translated": translated_biography,
-                    "structured": structured_biography,
+                    "occupations": occupations,
                 }
 
                 # Save the JSON data to the output directory
