@@ -1,0 +1,86 @@
+{
+    "original": "ALMQUIST, Robert Alexander Fredrik, Urmakarmästare, Kristianstad, f N :a Åsum 15/12 88 av folkskollär G A o Hanna Nilsson, gm Ingeborg Vahlberg. Urmakarlärl 03, prakt Sthlm, Kristianst o Ronneby, start eg fma i Kristianst 14. Styr.led Fabr- o Hantv.frn i Kristianst.",
+    "translated": "ALMQUIST, Robert Alexander Fredrik, Watchmaker Master, Kristianstad, born in Åsum on December 15, 1888, son of elementary school teacher G A and Hanna Nilsson, married to Ingeborg Vahlberg. Started as an apprentice watchmaker in 1903, gained experience in Stockholm, Kristianstad, and Ronneby, established own watchmaking business in Kristianstad in 1914. Director and board member of Factory and Crafts Association in Kristianstad.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Robert Alexander Fredrik Almquist",
+        "birthDate": "1888-12-15",
+        "birthPlace": "Åsum",
+        "nationality": "Swedish",
+        "jobTitle": "Watchmaker Master",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Kristianstad"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "G A Nilsson"
+            },
+            {
+                "@type": "Person",
+                "name": "Hanna Nilsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ingeborg Vahlberg"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Apprenticeship",
+            "startDate": "1903",
+            "endDate": "1914",
+            "issuer": {
+                "@type": "Organization",
+                "name": "Various watchmaking establishments in Stockholm, Kristianstad, and Ronneby"
+            }
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Factory and Crafts Association",
+                "jobTitle": "Director"
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Own watchmaking business"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Watchmaker Apprentice",
+                "workplace": "Kristianstad",
+                "industry": "Watchmaking",
+                "start_date": "1903"
+            },
+            {
+                "occupational_title": "Watchmaker",
+                "workplace": "Stockholm",
+                "industry": "Watchmaking",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Watchmaker",
+                "workplace": "Kristianstad",
+                "industry": "Watchmaking",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Watchmaker",
+                "workplace": "Ronneby",
+                "industry": "Watchmaking",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Watchmaker Master",
+                "workplace": "Kristianstad",
+                "industry": "Watchmaking",
+                "start_date": "1914"
+            }
+        ]
+    }
+}

@@ -1,0 +1,136 @@
+{
+    "original": "A:LM, Gösta Theodor, Civilingenjör, Stocksund, f Karlst 3/4 05 av stationsskriv O H T A o Ingeborg Wallinder, gm Dagmar Liljedal. Studex Karlst 25. KTH (V o V) 26—30. Anst AB Vattenbyggn.byrån Sthlm sed. 30 (bl a bitr ing v vattenkraftanläggn i Ryssl 31—32, v f mans avd f vattenledn o avlopp 34). Ass i geodesi KTH 31—34, vik ass i beskriv geometri där 34, lär i planmätn o avvägn v Vasa realsk 34. Stud (stip ur C Nyströmers fond) vattenren o byggn.konstr i Tyskl, Holl o Engl. Led Sv Tekn.frn.",
+    "translated": "A:LM, Gösta Theodor, Civil Engineer, Stocksund. Born in Karlstad on March 4, 1905, the son of station clerk O.H.T.A. and Ingeborg Wallinder. Married to Dagmar Liljedal. Completed secondary school in Karlstad in 1925. Attended the Royal Institute of Technology (V and V departments) from 1926 to 1930. Employed at AB Vattenbyggnadsbyrån in Stockholm since 1930 (including working as an assistant engineer at a hydroelectric power plant in Russia from 1931 to 1932 and assistant head of the water supply and sewage department in 1934). Assistant in geodesy at the Royal Institute of Technology from 1931 to 1934, temporary assistant in descriptive geometry there in 1934, and teacher in land surveying and levelling at Vasa Real School in 1934. Studied water treatment and building construction in Germany, the Netherlands, and England with a scholarship from the C. Nyströmer Foundation. Member of the Swedish Society of Technical Sciences (Svenska Teknologföreningen).",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Gösta Theodor A:LM",
+        "birthDate": "1905-03-04",
+        "birthPlace": "Karlstad",
+        "nationality": "Swedish",
+        "jobTitle": "Civil Engineer",
+        "memberOf": {
+            "@type": "Organization",
+            "name": "AB Vattenbyggnadsbyrån"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stocksund",
+            "addressCountry": "Sweden"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "O.H.T.A.",
+                "jobTitle": "Station Clerk"
+            },
+            {
+                "@type": "Person",
+                "name": "Ingeborg Wallinder"
+            }
+        ],
+        "spouse": "Dagmar Liljedal",
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Karlstad Secondary School",
+                "startDate": "1925"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Royal Institute of Technology",
+                "startDate": "1926",
+                "endDate": "1930"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "C. Nyströmer Foundation"
+            }
+        ],
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "AB Vattenbyggnadsbyrån",
+                "startDate": "1930"
+            },
+            {
+                "@type": "Organization",
+                "name": "Hydroelectric Power Plant in Russia",
+                "startDate": "1931",
+                "endDate": "1932",
+                "jobTitle": "Assistant Engineer"
+            },
+            {
+                "@type": "Organization",
+                "name": "Royal Institute of Technology",
+                "startDate": "1931",
+                "endDate": "1934",
+                "jobTitle": "Assistant in Geodesy"
+            },
+            {
+                "@type": "Organization",
+                "name": "Vasa Real School",
+                "startDate": "1934",
+                "jobTitle": "Teacher in Land Surveying and Levelling"
+            }
+        ],
+        "studyAbroad": [
+            {
+                "@type": "Place",
+                "name": "Germany"
+            },
+            {
+                "@type": "Place",
+                "name": "Netherlands"
+            },
+            {
+                "@type": "Place",
+                "name": "England"
+            }
+        ],
+        "affiliation": {
+            "@type": "Organization",
+            "name": "Swedish Society of Technical Sciences"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "AB Vattenbyggnadsbyrån",
+                "industry": "Water Engineering",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Assistant Engineer",
+                "workplace": "Hydroelectric Power Plant in Russia",
+                "industry": "Energy",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Assistant Head",
+                "workplace": "Water Supply and Sewage Department",
+                "industry": "Infrastructure",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Assistant in Geodesy",
+                "workplace": "Royal Institute of Technology",
+                "industry": "Education",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Temporary Assistant",
+                "workplace": "Royal Institute of Technology",
+                "industry": "Education",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Teacher",
+                "workplace": "Vasa Real School",
+                "industry": "Education",
+                "start_date": "1934"
+            }
+        ]
+    }
+}

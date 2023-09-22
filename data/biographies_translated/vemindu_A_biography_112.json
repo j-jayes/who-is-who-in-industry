@@ -1,0 +1,156 @@
+{
+    "original": "ALMQUIST, Ernst Oskar, Civilingenjör, Ålsten (Sthlm), f 27/8 95 av överste E O A o Elsa Didron, gm Margareta (Gean) Söderlund. Studex Upps 14, KTH 15—19, avg.ex där sistn år. Ulöjtn Fortif res 19, avsked 23, bitr ing Vattenfallsstyr 19—23, löjtn VVK 23, studieresa USA 23—25, anst h AB Gerh Arehns Mek Verkst (numera Arenco AB) Sthlm sed. 26, kapt VVK 30, avsk ur VVK 44. Resor: Belg, Frankr, Litauen o Turkiet 26, Rumänien 28, Iran o Ital 35. Hobbies: Friluftsliv o resor.",
+    "translated": "ALMQUIST, Ernst Oskar, Civil Engineer, Ålsten (Sthlm), b. 27/8 95 to Colonel E O A and Elsa Didron, m. Margareta (Gean) Söderlund. Graduated from Uppsala University in 1914, KTH (Royal Institute of Technology) 1915-1919, final exam completed there. Second Lieutenant in the Fortress Artillery from 1919, discharged in 1923, assistant engineer at Vattenfall's board 1919-1923, Lieutenant in the Water and Fortification Corps (WVK) in 1923, studying in the USA from 1923-1925, employed at AB Gerh Arehns Mek Verkst (now Arenco AB) in Stockholm since 1926, Captain in the Water and Fortification Corps (WVK) in 1930, resigned from WVK in 1944. Travelled to Belgium, France, Lithuania, and Turkey in 1926, Romania in 1928, Iran and Italy in 1935. Hobbies: Outdoor life and travelling.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Ernst Oskar Almquist",
+        "birthDate": "1895-08-27",
+        "birthPlace": "Ålsten, Stockholm",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "E O A"
+            },
+            {
+                "@type": "Person",
+                "name": "Elsa Didron"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Margareta Söderlund",
+            "alternateName": "Gean"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "description": "Studex at Uppsala University, 1914"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "description": "KTH (Royal Institute of Technology), 1915-1919"
+            }
+        ],
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1919",
+                "endDate": "1923",
+                "roleName": "Assistant Engineer",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Vattenfall"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1923",
+                "endDate": "1925",
+                "roleName": "Studying in the USA",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Gerh Arehns Mek Verkst (Arenco AB)"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1926",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Gerh Arehns Mek Verkst (Arenco AB)"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Fortress Artillery",
+                "startDate": "1919",
+                "endDate": "1923",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Swedish Armed Forces"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Water and Fortification Corps (WVK)",
+                "startDate": "1923",
+                "endDate": "1944",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Swedish Armed Forces"
+                }
+            }
+        ],
+        "travel": [
+            {
+                "@type": "Trip",
+                "startDate": "1926",
+                "endDate": "1926",
+                "description": "Travelled to Belgium, France, Lithuania, and Turkey"
+            },
+            {
+                "@type": "Trip",
+                "startDate": "1928",
+                "endDate": "1928",
+                "description": "Travelled to Romania"
+            },
+            {
+                "@type": "Trip",
+                "startDate": "1935",
+                "endDate": "1935",
+                "description": "Travelled to Iran and Italy"
+            }
+        ],
+        "hasOccupation": {
+            "@type": "Occupation",
+            "name": "Civil Engineer"
+        },
+        "hobbies": [
+            {
+                "@type": "Thing",
+                "name": "Outdoor life"
+            },
+            {
+                "@type": "Thing",
+                "name": "Travelling"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "AB Gerh Arehns Mek Verkst (now Arenco AB)",
+                "industry": "Mechanical Engineering",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Second Lieutenant",
+                "workplace": "Fortress Artillery",
+                "industry": "Military",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Assistant Engineer",
+                "workplace": "Vattenfall's board",
+                "industry": "Energy",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Lieutenant",
+                "workplace": "Water and Fortification Corps (WVK)",
+                "industry": "Military",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Captain",
+                "workplace": "Water and Fortification Corps (WVK)",
+                "industry": "Military",
+                "start_date": "1930"
+            }
+        ]
+    }
+}

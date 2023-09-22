@@ -22,7 +22,7 @@ else:
 
 openai.api_key = openai_api_key
 
-FILE_RANGE = [0, 20]
+FILE_RANGE = [21, 25]
 
 def translate_and_structure_text(swedish_text):
     try:
@@ -54,7 +54,7 @@ def translate_and_structure_text(swedish_text):
         structured_biography = json.loads(structure_response.choices[0].message.content)
 
         occupations_prompt = f"Given the original Swedish biography: {swedish_text}\nAnd its English translation: {english_text}\n"\
-                             "I care about the persons career trajectory. Can you return their occupational titles, workplaces, industries and start dates (if possible) for each occupation listed in JSON format? It should have the key  'career' at the top level and then the keys 'occupational_title', 'workplace', 'industry', and 'start_date' at the next level. Only provide a RFC8259 compliant JSON response." 
+                             "I care about the persons career trajectory. Can you return their occupational titles (in English), workplaces, industries and start dates (if possible) for each occupation listed in JSON format? It should have the key  'career' at the top level and then the keys 'occupational_title', 'workplace', 'industry', and 'start_date' at the next level. Only provide a RFC8259 compliant JSON response." 
 
         occupations_response = openai.ChatCompletion.create(
             model="gpt-3.5-turbo-16k",
@@ -100,6 +100,7 @@ def main():
                 data = {
                     "original": original_biography,
                     "translated": translated_biography,
+                    "structured": structured_biography,
                     "occupations": occupations,
                 }
 

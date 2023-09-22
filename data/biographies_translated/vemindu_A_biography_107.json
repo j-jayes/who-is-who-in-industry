@@ -1,0 +1,98 @@
+{
+    "original": "ALMGREN, Nils Gustaf Hjalmar, Försäk-rinssdirektör, Stockholm, f Sthlm 10/4 81 av köpm C A o Hanna Larsson. Ex Schartaus 00. Anst Försäkr.AB Norden Sthlm sed. 00, kamr där 16 o v. dir sed. 19. KSSSis GM.",
+    "translated": "ALMGREN, Nils Gustaf Hjalmar, Insurance Director, Stockholm, b. Stockholm 10/4 81, son of merchant C A and Hanna Larsson. Former student of Schartaus in 1900. Employed at Insurance AB Norden in Stockholm since 1900, became a colleague there in 1916 and vice director since 1919. Married GM in year unknown.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Nils Gustaf Hjalmar Almgren",
+        "birthDate": "1881-04-10",
+        "birthPlace": "Stockholm",
+        "father": {
+            "@type": "Person",
+            "name": "C A Almgren",
+            "occupation": "Merchant"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Hanna Larsson"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Schartaus",
+            "startDate": "1900"
+        },
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Försäkr.AB Norden",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm"
+                    }
+                },
+                "startDate": "1900",
+                "title": "Employee"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Försäkr.AB Norden",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm"
+                    }
+                },
+                "startDate": "1916",
+                "title": "Colleague"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Försäkr.AB Norden",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm"
+                    }
+                },
+                "startDate": "1919",
+                "title": "Vice Director"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "GM"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Former student",
+                "workplace": "Schartaus",
+                "industry": "Unknown",
+                "start_date": "1900"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Insurance AB Norden",
+                "industry": "Insurance",
+                "start_date": "1900"
+            },
+            {
+                "occupational_title": "Colleague",
+                "workplace": "Insurance AB Norden",
+                "industry": "Insurance",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Vice Director",
+                "workplace": "Insurance AB Norden",
+                "industry": "Insurance",
+                "start_date": "1919"
+            }
+        ]
+    }
+}

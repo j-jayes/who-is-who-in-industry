@@ -1,0 +1,92 @@
+{
+    "original": "ALMKVIST, Sven Ragnar, Civilingenjör, Stockholm, f Karlsborg 1/10 06 av A G Almkvist o Maria Eriksson, gm Birgit Frigell. Studex, civingex KTH (el.tekn), språkstud fr o ryska. Anst Sv Ackumulator AB Jungner Sthlm sed. 32. Aff.res Schweiz o Belg. Medarb i El.tekn Handb.",
+    "translated": "ALMKVIST, Sven Ragnar, Civil engineer, Stockholm, born in Karlsborg on October 1, 1906, to A G Almkvist and Maria Eriksson, married to Birgit Frigell. Studied at KTH (Royal Institute of Technology) and received a degree in electrical engineering. Also studied languages, including Russian. Employed at the Swedish Accumulator AB Jungner in Stockholm since 1932. Traveled on business to Switzerland and Belgium. Collaborated in the field of electrical engineering handbooks.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Sven Ragnar Almkvist",
+        "birthDate": "1906-10-01",
+        "birthPlace": "Karlsborg",
+        "nationality": "Swedish",
+        "jobTitle": "Civil engineer",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Accumulator AB Jungner"
+            }
+        ],
+        "affiliation": "Stockholm",
+        "spouse": "Birgit Frigell",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "A G Almkvist",
+                "gender": "Male"
+            },
+            {
+                "@type": "Person",
+                "name": "Maria Eriksson",
+                "gender": "Female"
+            }
+        ],
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Studex",
+            "educationalLevel": "Civingex",
+            "educationalProgram": "Electrical Engineering",
+            "educationalInstitution": {
+                "@type": "CollegeOrUniversity",
+                "name": "Royal Institute of Technology",
+                "location": "Stockholm"
+            }
+        },
+        "hasLanguage": [
+            {
+                "@type": "Language",
+                "name": "Russian"
+            }
+        ],
+        "businessAddress": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "businessAffiliation": [
+            {
+                "@type": "Organization",
+                "name": "Switzerland"
+            },
+            {
+                "@type": "Organization",
+                "name": "Belgium"
+            }
+        ],
+        "hasOccupation": [
+            {
+                "@type": "Occupation",
+                "name": "Collaborator"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil engineer",
+                "workplace": "Swedish Accumulator AB Jungner",
+                "industry": "Electrical engineering",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Collaborator in electrical engineering",
+                "workplace": "N/A",
+                "industry": "N/A",
+                "start_date": "N/A"
+            },
+            {
+                "occupational_title": "Affiliate in electrical technical handbooks",
+                "workplace": "N/A",
+                "industry": "N/A",
+                "start_date": "N/A"
+            }
+        ]
+    }
+}

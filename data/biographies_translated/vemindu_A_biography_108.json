@@ -1,0 +1,117 @@
+{
+    "original": "ALMGREN, Nils Hugo, Försäljningschef, Stockholm, f Gbg 5/5 96 av kont.ch R A o Anny Lannge, gm Ethel Egelin. Realstudex Nrkp 16, bkstud i Tyskl 22. Anst ASEA i Nrkp, V.ås o Jkp 18—21, Sthlm 23, kommersiell chef Liljeholmens kabelfabr 23—32, försäljn.ch där sed. 32.",
+    "translated": "ALMGREN, Nils Hugo, Sales Manager, Stockholm, b. Gothenburg on May 5, 1896, son of bank manager R.A. Almgren and Anny Lannge, married to Ethel Egelin. Attended real school in Norrköping until the age of 16, attended business school in Germany until the age of 22. Employed at ASEA in Norrköping, Västerås, and Jönköping from 1918 to 1921, Stockholm from 1923, commercial manager at Liljeholmens cable factory from 1923 to 1932, sales manager there since 1932.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Nils Hugo Almgren",
+        "birthDate": "1896-05-05",
+        "birthPlace": "Gothenburg",
+        "father": {
+            "name": "R.A. Almgren",
+            "jobTitle": "Bank Manager"
+        },
+        "mother": {
+            "name": "Anny Lannge"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Ethel Egelin"
+        },
+        "jobTitle": "Sales Manager",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Realstudex Nrkp",
+                "startDate": "Date of attending real school in Norrköping until age 16"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Business School in Germany",
+                "startDate": "Date of attending business school in Germany until age 22"
+            }
+        ],
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "ASEA",
+                "location": [
+                    {
+                        "@type": "Place",
+                        "name": "Norrköping"
+                    },
+                    {
+                        "@type": "Place",
+                        "name": "Västerås"
+                    },
+                    {
+                        "@type": "Place",
+                        "name": "Jönköping"
+                    }
+                ],
+                "startDate": "1918",
+                "endDate": "1921"
+            },
+            {
+                "@type": "Organization",
+                "name": "ASEA",
+                "location": {
+                    "@type": "Place",
+                    "name": "Stockholm"
+                },
+                "startDate": "1923"
+            },
+            {
+                "@type": "Organization",
+                "name": "Liljeholmens cable factory",
+                "jobTitle": "Commercial Manager",
+                "startDate": "1923",
+                "endDate": "1932"
+            },
+            {
+                "@type": "Organization",
+                "name": "Liljeholmens cable factory",
+                "jobTitle": "Sales Manager",
+                "startDate": "1932"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Sales Manager",
+                "workplace": "Liljeholmens cable factory",
+                "industry": "Manufacturing",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Commercial Manager",
+                "workplace": "Liljeholmens cable factory",
+                "industry": "Manufacturing",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Employed at ASEA",
+                "workplace": "Stockholm",
+                "industry": "Engineering",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Employed at ASEA",
+                "workplace": "Jönköping",
+                "industry": "Engineering",
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Employed at ASEA",
+                "workplace": "Västerås",
+                "industry": "Engineering",
+                "start_date": "1918"
+            }
+        ]
+    }
+}

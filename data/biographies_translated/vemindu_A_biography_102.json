@@ -1,0 +1,136 @@
+{
+    "original": "AL.M, Oscar Georg, Musikdirektör, Karlskrona, f Gårdsby, Kronob., av reg.trumsl P M A o Maria K Olsson, gm Sigrid Lindqvist. Mil. mus.dir.ex. 11. Anst Kronob reg 90—03. Karlskr gren.reg 04—27, ss mus.dir fr 12. Ag Alms radio- o musikaffär. Resor: Tyskl 93, 02, 19—23, 37, Tjeckoslov. 20 samt Danmark, Norge. RVO, Skyttem. guld. Medl. Odd Fellow, Gillet i K-krona.",
+    "translated": "AL.M, Oscar Georg, Music Director, Karlskrona, born in Gårdsby, Kronoberg county. Son of regimental drummer P.M.A and Maria K. Olsson, married to Sigrid Lindqvist. Military Music Director Exam in 1911. Employed at Kronoberg regiment from 1890 to 1903. Karlskrona grenadier regiment from 1904 to 1927, as Music Director from 1912. Owned Alm's radio and music store. Travels: Germany in 1893, 1902, 1919-1923, and 1937, Czechoslovakia in 1920, also visited Denmark and Norway. Recipient of the Royal Order of Vasa (RVO) and Gold Shooting Medal. Member of Odd Fellow and the Gillet in Karlskrona.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "AL.M, Oscar Georg",
+        "jobTitle": "Music Director",
+        "birthPlace": "Gårdsby, Kronoberg county",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "P.M.A",
+                "jobTitle": "Regimental Drummer"
+            },
+            {
+                "@type": "Person",
+                "name": "Maria K. Olsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Sigrid Lindqvist"
+        },
+        "memberOf": [
+            "Odd Fellow",
+            "Gillet i K-krona"
+        ],
+        "award": [
+            {
+                "@type": "Order",
+                "name": "Royal Order of Vasa",
+                "awardedBy": "Sweden"
+            },
+            {
+                "@type": "Medal",
+                "name": "Gold Shooting Medal"
+            }
+        ],
+        "employment": [
+            {
+                "@type": "JobPosting",
+                "title": "Music Director",
+                "startDate": "1912"
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Employed at Kronoberg regiment",
+                "startDate": "1890",
+                "endDate": "1903"
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Employed at Karlskrona grenadier regiment",
+                "startDate": "1904",
+                "endDate": "1927"
+            }
+        ],
+        "owns": {
+            "@type": "Store",
+            "name": "Alm's radio and music store"
+        },
+        "hasTravelled": [
+            {
+                "@type": "Place",
+                "name": "Germany"
+            },
+            {
+                "@type": "Place",
+                "name": "Czechoslovakia"
+            },
+            {
+                "@type": "Place",
+                "name": "Denmark"
+            },
+            {
+                "@type": "Place",
+                "name": "Norway"
+            }
+        ],
+        "hasTravelledPeriod": [
+            {
+                "@type": "Period",
+                "startDate": "1893",
+                "endDate": "1893",
+                "location": "Germany"
+            },
+            {
+                "@type": "Period",
+                "startDate": "1902",
+                "endDate": "1902",
+                "location": "Germany"
+            },
+            {
+                "@type": "Period",
+                "startDate": "1919",
+                "endDate": "1923",
+                "location": "Germany"
+            },
+            {
+                "@type": "Period",
+                "startDate": "1937",
+                "endDate": "1937",
+                "location": "Germany"
+            },
+            {
+                "@type": "Period",
+                "startDate": "1920",
+                "endDate": "1920",
+                "location": "Czechoslovakia"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Music Director",
+                "workplace": "Kronoberg regiment",
+                "industry": "Military",
+                "start_date": "1890"
+            },
+            {
+                "occupational_title": "Music Director",
+                "workplace": "Karlskrona grenadier regiment",
+                "industry": "Military",
+                "start_date": "1904"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "Alm's radio and music store",
+                "industry": "Retail",
+                "start_date": ""
+            }
+        ]
+    }
+}

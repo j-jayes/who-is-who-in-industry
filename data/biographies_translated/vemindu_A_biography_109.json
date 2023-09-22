@@ -1,0 +1,171 @@
+{
+    "original": "ALMIN, Magnus Erik, Disponent, Koskullskulle, f Sthlm 18/11 86 av folkskoll K A A o Anna Pettersson, gm Märta Jansson. Studex Sthlm 05, ex KTH (bergs) 10. Lab.förest o gruvmät mm Grängesbergs gruvförvaltn 10— 12, gruving o förvalt AB Svartviks Gruvor o Bastkärns Gruv AB 12—14, 1:e gruving v Gruv AB Dalarne, Idkerberget, 14—20, disp Ervalla mfl gruv (Sthlms Superfosfatfabr AB) 20—21, gruving o disp Bergvks AB Frejas gruvor o skeppningar sed. 21. Tj.resor t Tjeckoslov. Av trycket: Ett par upps i Tekn Tidskr, avd f bergsvetenskap. RVO. Hobby: Gruvor.",
+    "translated": "ALMIN, Magnus Erik, Manager, Koskullskulle, b. Stockholm 18/11 1886, son of elementary school teacher K A A and Anna Pettersson, married to Märta Jansson. Graduated from Stockholm 1905, graduated from Royal Institute of Technology (mining) 1910. Laboratory supervisor and mine surveyor at Grängesbergs Mining Administration 1910–1912, mining and administration at AB Svartviks Mines and Bastkärns Mines 1912–1914, chief mining engineer at Gruv AB Dalarne, Idkerberget, 1914–1920, manager at Ervalla and other mines (Stockholm Superphosphate Factory AB) 1920–1921, mining and management at Bergvks AB Frejas mines and shipments since 1921. Business trips to Czechoslovakia. Published a couple of articles in the Technical Journal, mining department. Knight of the Royal Order of Vasa. Hobby: Mines.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Magnus Erik Almin",
+        "birthDate": "1886-11-18",
+        "birthPlace": "Stockholm",
+        "nationality": "Swedish",
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "educationalLevel": [
+                {
+                    "@type": "DefinedTerm",
+                    "name": "Studex",
+                    "inDefinedTermSet": "https://schema.org/DefinedTermSet/Mining"
+                },
+                {
+                    "@type": "DefinedTerm",
+                    "name": "KTH",
+                    "inDefinedTermSet": "https://schema.org/DefinedTermSet/Mining"
+                }
+            ],
+            "alumniOf": [
+                {
+                    "@type": "CollegeOrUniversity",
+                    "name": "Stockholm"
+                },
+                {
+                    "@type": "CollegeOrUniversity",
+                    "name": "Royal Institute of Technology"
+                }
+            ],
+            "startDate": "1905",
+            "endDate": "1910"
+        },
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "title": "Laboratory Supervisor",
+                "startDate": "1910",
+                "endDate": "1912",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Grängesbergs Mining Administration"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Mine Surveyor",
+                "startDate": "1910",
+                "endDate": "1912",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Grängesbergs Mining Administration"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Mining and Administration",
+                "startDate": "1912",
+                "endDate": "1914",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Svartviks Mines"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Mining and Administration",
+                "startDate": "1912",
+                "endDate": "1914",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Bastkärns Mines"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Chief Mining Engineer",
+                "startDate": "1914",
+                "endDate": "1920",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Gruv AB Dalarne"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Manager",
+                "startDate": "1920",
+                "endDate": "1921",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Ervalla"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Manager",
+                "startDate": "1921",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Bergvks AB Frejas"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Stockholm Superphosphate Factory AB"
+            }
+        ],
+        "citation": {
+            "@type": "ScholarlyArticle",
+            "author": "Magnus Erik Almin",
+            "articleSection": "Mining",
+            "articleBody": "A couple of articles in the Technical Journal, mining department."
+        },
+        "award": {
+            "@type": "Order",
+            "name": "Knight of the Royal Order of Vasa"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Märta Jansson"
+        },
+        "hobby": "Mines",
+        "businessLocation": [
+            {
+                "@type": "Country",
+                "name": "Czechoslovakia"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Laboratory supervisor and mine surveyor",
+                "workplace": "Grängesbergs Mining Administration",
+                "industry": "Mining",
+                "start_date": "1910"
+            },
+            {
+                "occupational_title": "Mining and administration",
+                "workplace": "AB Svartviks Mines and Bastkärns Mines",
+                "industry": "Mining",
+                "start_date": "1912"
+            },
+            {
+                "occupational_title": "Chief mining engineer",
+                "workplace": "Gruv AB Dalarne, Idkerberget",
+                "industry": "Mining",
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Stockholm Superphosphate Factory AB",
+                "industry": "Mining",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Mining and management",
+                "workplace": "Bergvks AB Frejas mines and shipments",
+                "industry": "Mining",
+                "start_date": "1921"
+            }
+        ]
+    }
+}
