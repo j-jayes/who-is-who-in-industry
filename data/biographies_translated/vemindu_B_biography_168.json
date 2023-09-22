@@ -1,0 +1,90 @@
+{
+    "original": "BERGSTRAND, Knut Harald Gudmundsson, Direktör, Djursholm, f Malmö 13/12 99 av kontr.prost N A G B o Ellen Gudmundsson, gm Kerstin Wullt. Studex, Offex. Off Hall reg 22—26. V. vkst dir o styr.led Sv Petroleum AB Standard Sthlm. Ag villafas-tigh Rindaväg 18 Djh. Resor: Engl 38. Sthlms Köpm.klb, KAK mfl.",
+    "translated": "BERGSTRAND, Knut Harald Gudmundsson, Director, Djursholm, born in Malmö on December 13, 1899 to Canon N A G B and Ellen Gudmundsson, married to Kerstin Wullt. Studied at Stockholm University, worked as an officer in the Royal Hall regiment from 1922 to 1926. Vice Managing Director and Board Member of Svenska Petroleum AB Standard Stockholm. Owned residential property at Rindaväg 18 in Djursholm. Traveled to England in 1938. Member of Stockholm Merchants Club, Swedish Automobile Club (KAK), and others.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Knut Harald Gudmundsson Bergstrand",
+        "birthDate": "1899-12-13",
+        "birthPlace": "Malmö",
+        "parents": {
+            "@type": "Person",
+            "father": "N A G B",
+            "mother": "Ellen Gudmundsson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Kerstin Wullt"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Stockholm University"
+        },
+        "occupation": "Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Djursholm"
+        },
+        "work": {
+            "@type": "Organization",
+            "name": "Royal Hall regiment",
+            "startDate": "1922",
+            "endDate": "1926"
+        },
+        "careerStation": {
+            "@type": "Organization",
+            "name": "Svenska Petroleum AB Standard Stockholm"
+        },
+        "residence": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Rindaväg 18",
+                "addressLocality": "Djursholm"
+            }
+        },
+        "travelHistory": [
+            {
+                "@type": "Event",
+                "name": "England",
+                "startDate": "1938"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Stockholm Merchants Club"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Automobile Club (KAK)"
+            },
+            {
+                "@type": "Organization",
+                "name": "other organizations"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Djursholm",
+                "industry": null,
+                "start_date": null
+            },
+            {
+                "occupational_title": "Officer",
+                "workplace": "Royal Hall regiment",
+                "industry": null,
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Vice Managing Director",
+                "workplace": "Svenska Petroleum AB Standard Stockholm",
+                "industry": "Petroleum",
+                "start_date": null
+            }
+        ]
+    }
+}

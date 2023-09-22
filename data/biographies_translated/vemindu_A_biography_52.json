@@ -1,0 +1,108 @@
+{
+    "original": "AHLSTEDT, Karl Sigurd, Fabrikör, Kristinehamn, f Krsthmn 98 av skräddarm S G A o Ida Nymark, gm Emma Eugenia Svensson. Realex o hdlssk. Korresp o avd.ch på olika ind. o. aff.kont. 15—20, etabl Ahlstedts Soda-fabr 21, K S Ahlstedts Chokladfabr 23, Ahlstedts Vattenglasfabr 36, styr.ordf o dir i Gefle KaramellAB, ch f Krsthmns Omnibus-stn, ag Kilshammars kvarn. FrimO, W6.",
+    "translated": "AHLSTEDT, Karl Sigurd, Manufacturer, Kristinehamn, b. Kristinehamn in 1898 to tailor S G A and Ida Nymark, m. Emma Eugenia Svensson. Completed secondary school and trade school. Correspondence and department head at various industrial and commercial establishments from 1915 to 1920. Established Ahlstedts Soda Factory in 1921, K S Ahlstedts Chocolate Factory in 1923, Ahlstedts Water Glass Factory in 1936. Chairman and director of Gefle Caramel AB, chairman of Kristinehamn Omnibus Station, agent for Kilshammars mill. Member of the Swedish Postal Association, W6.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Karl Sigurd Ahlstedt",
+        "birthDate": "1898-01-01",
+        "birthPlace": "Kristinehamn, Sweden",
+        "father": {
+            "@type": "Person",
+            "name": "S G A",
+            "occupation": "Tailor"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Ida Nymark",
+            "occupation": "Unknown"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Emma Eugenia Svensson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "educationalLevel": "SecondarySchool"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "educationalLevel": "TradeSchool"
+            }
+        ],
+        "occupation": "Manufacturer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Kristinehamn",
+            "addressCountry": "Sweden"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Ahlstedts Soda Factory",
+                "startDate": "1921-01-01"
+            },
+            {
+                "@type": "Organization",
+                "name": "K S Ahlstedts Chocolate Factory",
+                "startDate": "1923-01-01"
+            },
+            {
+                "@type": "Organization",
+                "name": "Ahlstedts Water Glass Factory",
+                "startDate": "1936-01-01"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Gefle Caramel AB",
+                "position": "Chairman, Director"
+            },
+            {
+                "@type": "Organization",
+                "name": "Kristinehamn Omnibus Station",
+                "position": "Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Kilshammars mill",
+                "position": "Agent"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Postal Association",
+                "membershipNumber": "W6"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Correspondence and department head",
+                "workplace": "Various industrial and commercial establishments",
+                "industry": "Unknown",
+                "start_date": "1915"
+            },
+            {
+                "occupational_title": "Manufacturer",
+                "workplace": "Ahlstedts Soda Factory",
+                "industry": "Beverage",
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Manufacturer",
+                "workplace": "K S Ahlstedts Chocolate Factory",
+                "industry": "Food",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Manufacturer",
+                "workplace": "Ahlstedts Water Glass Factory",
+                "industry": "Glass",
+                "start_date": "1936"
+            }
+        ]
+    }
+}

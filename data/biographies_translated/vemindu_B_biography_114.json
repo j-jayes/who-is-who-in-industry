@@ -1,0 +1,89 @@
+{
+    "original": "BERGGREN, Berndt Gotthard, Grosshandlare, Stockholm, f Ystad 4/3 86 av järnh C A G B o Hilda Forsberg, gm Anna Rossmann (d. 40). Lunds katedr.sk o stud under utl.-vist 05—15. Ineh fma Berndt G Berggren &amp; Co, etabl i Hmbrg 13, flytt t Sthlm 15, imp o exp av hudar, skinn, garvämnen, tagel, borst, fiber mm. Styr.led o skattm Frn Sthlm Lstkamr sed. 37. Fd Istkapten. Resor: Tyskl, Schweiz, Holl, Ungern, Baltikum uppr ggr. Skyttem s, Lst idr.m g, Sthlms Lstfrbs ftj-SM, Frn Sahlins Lstkamr ftJM. Hobby: Det friv. försv.",
+    "translated": "BERGGREN, Berndt Gotthard, Wholesale Merchant, Stockholm, born in Ystad on March 4th, 1886, son of ironmonger C.A.G.B. and Hilda Forsberg, married to Anna Rossmann (d. 1940). Studied at Lund University and abroad from 1905 to 1915. Co-founded Berndt G Berggren & Co, established in Hamburg in 1913, relocated to Stockholm in 1915, specializing in import and export of hides, skins, tanning agents, bristles, fibers, etc. Board member and treasurer of Stockholm East Chamber of Commerce since 1937. Former Captain of Infantry. Traveled to Germany, Switzerland, the Netherlands, Hungary, and the Baltics frequently. Active in shooting clubs, member of Stockholm East Sports Association, winner of Stockholm East Rifle Association's military shooting championship, and runner-up in Sahlins East Chamber of Commerce shooting competition. Hobby: Voluntary defense (military).",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Berndt Gotthard Berggren",
+        "birthDate": "1886-03-04",
+        "birthPlace": "Ystad, Sweden",
+        "deathDate": null,
+        "nationality": "Swedish",
+        "jobTitle": "Wholesale Merchant",
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Stockholm East Chamber of Commerce",
+            "startDate": "1937"
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Berndt G Berggren & Co",
+            "startDate": "1915-01-01",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Sweden",
+                "addressLocality": "Stockholm"
+            },
+            "hasSpecialization": "Import and export of hides, skins, tanning agents, bristles, fibers, etc."
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "C. A. G. B. Berggren",
+                "jobTitle": "Ironmonger"
+            },
+            {
+                "@type": "Person",
+                "name": "Hilda Forsberg"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Anna Rossmann",
+            "deathDate": "1940"
+        },
+        "education": {
+            "@type": "CollegeOrUniversity",
+            "name": "Lund University",
+            "startDate": "1905",
+            "endDate": "1915"
+        },
+        "militaryService": "Captain of Infantry",
+        "hobbies": "Voluntary defense (military)",
+        "travels": [
+            "Germany",
+            "Switzerland",
+            "Netherlands",
+            "Hungary",
+            "Baltics"
+        ],
+        "shootingCompetitions": [
+            {
+                "@type": "Organization",
+                "name": "Stockholm East Sports Association",
+                "honor": "Winner of Stockholm East Rifle Association's military shooting championship"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sahlins East Chamber of Commerce",
+                "honor": "Runner-up in Sahlins East Chamber of Commerce shooting competition"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Wholesale Merchant",
+                "workplace": "Berndt G Berggren & Co",
+                "industry": "Import and export of hides, skins, tanning agents, bristles, fibers",
+                "start_date": "1913"
+            },
+            {
+                "occupational_title": "Board member and Treasurer",
+                "workplace": "Stockholm East Chamber of Commerce",
+                "industry": "Trade",
+                "start_date": "1937"
+            }
+        ]
+    }
+}

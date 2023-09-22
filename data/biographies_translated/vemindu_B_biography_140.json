@@ -1,0 +1,78 @@
+{
+    "original": "BERGLÖF, Sten Axel, Disponent, Uppsala, f Upps 11/11 06 av fabr J B o Anna Lindblom, gm Anna Pettersson, Realex 23, hdlssk 25—26. Disp AB Gustaf A Berglöf Trikåfabr (gr 65, AB 35) Upps 27, disp o vkst dir sed. 37. Borgare; Upps hdlsfrn, Sv Hdlsresandefrn, Mercurii Sällsk m fi. Hobbies: Friluftsliv, segling.",
+    "translated": "BERGLÖF, Sten Axel, Manager, Uppsala, born in Upps on November 11th, 1906, son of factory owner J B and Anna Lindblom, married to Anna Pettersson. Completed elementary school in 1923, attended commercial school in 1925-1926. Became manager of AB Gustaf A Berglöf Trikåfabr (established in 1865, became a limited company in 1935) in Uppsala in 1927, and has been the manager and director of growth since 1937. Holds citizenship in Uppsala's Chamber of Commerce, Swedish Trader and Traveler Society, and Mercurii Society, among others. Hobbies: Outdoor life, sailing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Sten Axel Berglöf",
+        "jobTitle": "Manager",
+        "birthPlace": "Uppsala",
+        "birthDate": "1906-11-11",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "J B Berglöf"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Lindblom"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Anna Pettersson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Elementary school",
+                "endDate": "1923"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Commercial school",
+                "startDate": "1925",
+                "endDate": "1926"
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "AB Gustaf A Berglöf Trikåfabr",
+            "foundingDate": "1865"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Uppsala's Chamber of Commerce"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Trader and Traveler Society"
+            },
+            {
+                "@type": "Organization",
+                "name": "Mercurii Society"
+            }
+        ],
+        "hobbies": [
+            "Outdoor life",
+            "Sailing"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Manager",
+                "workplace": "AB Gustaf A Berglöf Trikåfabr",
+                "industry": "Textile manufacturing",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Manager and Director of Growth",
+                "workplace": "AB Gustaf A Berglöf Trikåfabr",
+                "industry": "Textile manufacturing",
+                "start_date": "1937"
+            }
+        ]
+    }
+}

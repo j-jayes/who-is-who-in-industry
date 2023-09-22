@@ -1,0 +1,100 @@
+{
+    "original": "BJÖRKLUND, Carl Johan, Direktör, Kristianstad, f ö Sönnarslöv, Krist län, 1/8 75 av trädg.mäst N B o Christina Paulson, gm Jenny Ellen Svärd. Lärov 4 år. Anst h fadern, prakt i hdlsträdg 5 år i Engl o 5 år i USA. Eget föret: Bröderna Björklunds nejlikodl. (start av Nils B i Kristianstad 76, flytt t Hammarslund 94). Resor: Engl 94—99, USA 00—05. Hobbies: Naturstud o filateli. RVO.",
+    "translated": "BJÖRKLUND, Carl Johan, Director, Kristianstad, born in Sönnarslöv, Kristianstad County, August 1, 1875, son of gardener Nils Bengtsson and Christina Paulson, married to Jenny Ellen Svärd. Completed 4 years of schooling. Worked for his father, practiced in horticulture for 5 years in England and 5 years in the USA. Own business: Bröderna Björklunds carnation cultivation (started by Nils B in Kristianstad in 1876, moved to Hammarslund in 1894). Travelled to England from 1894 to 1899, and to the USA from 1900 to 1905. Hobbies: nature studies and philately. Awarded with the Royal Order of Vasa (RVO).",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Johan Björklund",
+        "birthDate": "1875-08-01",
+        "birthPlace": "Sönnarslöv, Kristianstad County",
+        "spouse": "Jenny Ellen Svärd",
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Unnamed School",
+            "yearsOfStudy": "4"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Nils Bengtsson"
+            },
+            {
+                "@type": "Person",
+                "name": "Christina Paulson"
+            }
+        ],
+        "occupation": "Director",
+        "workLocation": "Kristianstad",
+        "worksFor": "Father",
+        "business": {
+            "@type": "Organization",
+            "name": "Bröderna Björklunds carnation cultivation",
+            "foundingDate": "1876",
+            "founder": "Nils Björklund"
+        },
+        "businessLocation": "Hammarslund",
+        "careerTimeline": [
+            {
+                "@type": "OccupationalExperience",
+                "employer": "Father",
+                "position": "Horticulturalist",
+                "startDate": "Engl-StartDate",
+                "endDate": "Engl-EndDate"
+            },
+            {
+                "@type": "OccupationalExperience",
+                "employer": "Father",
+                "position": "Horticulturalist",
+                "startDate": "USA-StartDate",
+                "endDate": "USA-EndDate"
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "TravelAction",
+                "fromLocation": "Kristianstad",
+                "toLocation": "England",
+                "startDate": "1894",
+                "endDate": "1899"
+            },
+            {
+                "@type": "TravelAction",
+                "fromLocation": "Kristianstad",
+                "toLocation": "USA",
+                "startDate": "1900",
+                "endDate": "1905"
+            }
+        ],
+        "hobbies": [
+            "Nature studies",
+            "Philately"
+        ],
+        "award": {
+            "@type": "Order",
+            "name": "Royal Order of Vasa",
+            "abbreviation": "RVO"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Kristianstad",
+                "industry": "",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Practiced in horticulture",
+                "workplace": "England",
+                "industry": "Horticulture",
+                "start_date": "1894"
+            },
+            {
+                "occupational_title": "Practiced in horticulture",
+                "workplace": "USA",
+                "industry": "Horticulture",
+                "start_date": "1900"
+            }
+        ]
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "original": "BACKL.UND, B Alvar J E, Köpman, Kramfors, f Kramfors 12/8 12 av grhdl E E B o Anna Eriksson. Studex 32. Ch AB Em. Backlund Kramfors sed. 32.",
+    "translated": "BACKL.UND, B Alvar J E, Merchant, Kramfors, born in Kramfors on 12/8 12, son of estate owner E E B and Anna Eriksson. Completed studies in 1932. Married to a partner named Em. Backlund in Kramfors since 1932.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "B Alvar J E Backlund",
+        "jobTitle": "Merchant",
+        "birthPlace": "Kramfors",
+        "birthDate": "1912-08-12",
+        "parent": {
+            "@type": "Person",
+            "name": "E E B"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Anna Eriksson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "Studex",
+                "dateReceived": "1932"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Em. Backlund"
+        },
+        "marriageDate": "1932",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Kramfors"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Kramfors",
+                "industry": "Retail",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Partner",
+                "workplace": "Backlund",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

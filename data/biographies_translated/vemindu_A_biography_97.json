@@ -1,0 +1,219 @@
+{
+    "original": "AL.LVIN, Carl Gustaf, JLäderhandlare, Arboga, f 3/1 76 av badkamr C G A o Emelia Jonsson, gm Anna Carlsson. Folksk, Själv-stud. Anst C E Dahlins Garveri 92—98, Long-bergs Sko- &amp; Läderhdl Gamleby 98—00, T A Torstensson &amp; Co Gamleby 00—10, Gillbergs läderlager Örebro 10—12, resande AB Dan Lundgrens Läderfabr Falkenberg 12—18. Eg läderhdl und fma Carl Allvin Arboga sed. 18. Ag gård Oxenstjärna nr l o 2 Arboga o Or-mesta nr 2 Örebro. Stdsflm t 42, dräts.kamm, kristidsnmdn, tax.nmd, länsprövn.nmd. Ordf i Mälardalens Köpm.frb, styr.led Sv Köpm.frb, kassör i Sv Läderhandl Riksfrb. Resor: Tyskl 32, Tyskl, Belg, Frankr, Schweiz 36, Ital 37, Ung, Tjeckoslov, Holl, Belg 38, Finl 36, Norge, Danm v öl tillf. Sv Köpm.frbs gm; Odd Fellow.",
+    "translated": "AL.LVIN, Carl Gustaf, Leather Merchant, Arboga, b. 3/1 76 to carpenter C G A and Emelia Jonsson, m. Anna Carlsson. Elementary school, self-study. Employed at C E Dahlins Tannery 92-98, Longberg's Shoe and Leather Store Gamleby 98-00, T A Torstensson & Co Gamleby 00-10, Gillberg's Leather Warehouse Örebro 10-12, traveling for AB Dan Lundgren's Leather Factory Falkenberg 12-18. Owns a leather store in partnership with Carl Allvin Arboga since 18. Owns farms Oxenstjärna no. 1 and 2 Arboga, and Ormesta no. 2 Örebro. Participated in municipal film association 42, served on the municipal council, wartime committee, tax committee, and county trial committee. Chairman of the Mälardalens Merchants' Association, board member of the Swedish Merchants' Association, treasurer of the Swedish Leather Merchants' National Association. Traveled to Germany in 32, Germany, Belgium, France, Switzerland in 36, Italy in 37, Hungary, Czechoslovakia, Netherlands, Belgium in 38, Finland in 36, Norway, Denmark on various occasions at the expense of the Swedish Merchants' Association. Member of Odd Fellows.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Gustaf Alvin",
+        "birthDate": "1876-01-03",
+        "birthPlace": "Arboga, Sweden",
+        "father": {
+            "@type": "Person",
+            "name": "C G A",
+            "occupation": "Carpenter"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Emelia Jonsson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Anna Carlsson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Elementary school"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Self-study"
+            }
+        ],
+        "occupation": {
+            "@type": "Occupation",
+            "name": "Leather Merchant"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "C E Dahlins Garveri",
+                "startDate": "1892",
+                "endDate": "1898"
+            },
+            {
+                "@type": "Organization",
+                "name": "Longbergs Sko- & Läderhdl Gamleby",
+                "startDate": "1898",
+                "endDate": "1900"
+            },
+            {
+                "@type": "Organization",
+                "name": "T A Torstensson & Co Gamleby",
+                "startDate": "1900",
+                "endDate": "1910"
+            },
+            {
+                "@type": "Organization",
+                "name": "Gillbergs läderlager Örebro",
+                "startDate": "1910",
+                "endDate": "1912"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Dan Lundgrens Läderfabr Falkenberg",
+                "startDate": "1912",
+                "endDate": "1918"
+            }
+        ],
+        "owns": [
+            {
+                "@type": "Place",
+                "name": "farm",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Arboga, Sweden"
+                },
+                "identifier": [
+                    "Oxenstjärna no. 1",
+                    "Oxenstjärna no. 2"
+                ]
+            },
+            {
+                "@type": "Place",
+                "name": "Ormesta no. 2",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Örebro, Sweden"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Mälardalens Köpm.frb"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sv Köpm.frb",
+                "roleName": "Board member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sv Läderhandl Riksfrb",
+                "roleName": "Treasurer"
+            }
+        ],
+        "relatedTo": [
+            {
+                "@type": "Organization",
+                "name": "AB Dan Lundgrens Läderfabr Falkenberg"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sv Köpm.frbs"
+            }
+        ],
+        "traveler": [
+            {
+                "@type": "Place",
+                "name": "Germany",
+                "startDate": "1932"
+            },
+            {
+                "@type": "Place",
+                "name": "Belgium",
+                "startDate": "1936"
+            },
+            {
+                "@type": "Place",
+                "name": "France",
+                "startDate": "1936"
+            },
+            {
+                "@type": "Place",
+                "name": "Switzerland",
+                "startDate": "1936"
+            },
+            {
+                "@type": "Place",
+                "name": "Italy",
+                "startDate": "1937"
+            },
+            {
+                "@type": "Place",
+                "name": "Hungary",
+                "startDate": "1938"
+            },
+            {
+                "@type": "Place",
+                "name": "Czechoslovakia",
+                "startDate": "1938"
+            },
+            {
+                "@type": "Place",
+                "name": "Netherlands",
+                "startDate": "1938"
+            },
+            {
+                "@type": "Place",
+                "name": "Finland",
+                "startDate": "1936"
+            },
+            {
+                "@type": "Place",
+                "name": "Norway",
+                "startDate": "1938"
+            },
+            {
+                "@type": "Place",
+                "name": "Denmark",
+                "startDate": "1938"
+            }
+        ],
+        "affiliation": {
+            "@type": "Organization",
+            "name": "Odd Fellow"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Leather Merchant",
+                "workplace": "C E Dahlins Tannery",
+                "industry": "Leather industry",
+                "start_date": "1892"
+            },
+            {
+                "occupational_title": "Leather Merchant",
+                "workplace": "Longberg's Shoe and Leather Store",
+                "industry": "Leather industry",
+                "start_date": "1898"
+            },
+            {
+                "occupational_title": "Leather Merchant",
+                "workplace": "T A Torstensson & Co",
+                "industry": "Leather industry",
+                "start_date": "1900"
+            },
+            {
+                "occupational_title": "Leather Merchant",
+                "workplace": "Gillberg's Leather Warehouse",
+                "industry": "Leather industry",
+                "start_date": "1910"
+            },
+            {
+                "occupational_title": "Traveling Salesman",
+                "workplace": "AB Dan Lundgren's Leather Factory",
+                "industry": "Leather industry",
+                "start_date": "1912"
+            },
+            {
+                "occupational_title": "Leather Merchant",
+                "workplace": "Own leather store (with Carl Allvin)",
+                "industry": "Leather industry",
+                "start_date": "1918"
+            }
+        ]
+    }
+}

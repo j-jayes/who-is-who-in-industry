@@ -1,0 +1,125 @@
+{
+    "original": "BJÖRGERD, Johan Theodor, överingenjör, Malmö, f Grums, Vrml l, 25/3 82 av gårdsäg A G Johansson o Emma Eriksson, gm Elisabeth Ohlson. CTL 00—05, avg.ex (E) där sistn år. Anst v Seattle Electric Co, Seattle, Wash, USA, 06—09 och v Gen Electric Co, Schenec-tady, NY, USA, 09—10, avd.chef f elektr byggn.avd v Hemsjö Kraft AB, Karlshamn, 11—20 och v Sydsv Kraft AB, Mmö, 20—30, övering där fr 31. Av trycket: Div upps i Tekn Tidskr, Sv Vattenkraftfrns publmer o Ingeni0ren. Led Sv Tekn.frn sed. 21.",
+    "translated": "BJÖRGERD, Johan Theodor, chief engineer, Malmö, born in Grums, Värmland county, on March 25, 1882, to farmer A G Johansson and Emma Eriksson, married Elisabeth Ohlson in 19xx. Graduated from CTL 00—05, received engineering degree (E) in the last year. Employed at Seattle Electric Co, Seattle, Wash, USA, from 1906 to 1909, and at General Electric Co, Schenectady, NY, USA, from 1909 to 1910. Department head of the electrical construction department at Hemsjö Kraft AB, Karlshamn, from 1911 to 1920, and at Sydsvenska Kraft AB, Malmö, from 1920 to 1930. Promoted to chief engineer in 1931. Published articles in Technical Journal, Swedish Hydroelectric Association publications, and Ingeni0ren [The Engineer]. Member of the Swedish Technical Association since 1921.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Johan Theodor Björgerd",
+        "birthDate": "1882-03-25",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Grums",
+                "addressRegion": "Värmland",
+                "addressCountry": "Sweden"
+            }
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "A G Johansson"
+            },
+            {
+                "@type": "Person",
+                "name": "Emma Eriksson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Elisabeth Ohlson"
+        },
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Swedish Technical Association",
+            "startDate": "1921"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "engineering degree",
+            "offeredBy": "CTL",
+            "startDate": "1900",
+            "endDate": "1905"
+        },
+        "workExperience": [
+            {
+                "@type": "Organization",
+                "name": "Seattle Electric Co",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Seattle",
+                    "addressRegion": "WA",
+                    "addressCountry": "USA"
+                },
+                "startDate": "1906",
+                "endDate": "1909"
+            },
+            {
+                "@type": "Organization",
+                "name": "General Electric Co",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Schenectady",
+                    "addressRegion": "NY",
+                    "addressCountry": "USA"
+                },
+                "startDate": "1909",
+                "endDate": "1910"
+            },
+            {
+                "@type": "Organization",
+                "name": "Hemsjö Kraft AB",
+                "department": "Electrical Construction Department",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Karlshamn",
+                    "addressCountry": "Sweden"
+                },
+                "startDate": "1911",
+                "endDate": "1920"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sydsvenska Kraft AB",
+                "department": "Electrical Construction Department",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Malmö",
+                    "addressCountry": "Sweden"
+                },
+                "startDate": "1920",
+                "endDate": "1930"
+            }
+        ],
+        "additionalName": "Chief Engineer",
+        "description": "Published articles in Technical Journal, Swedish Hydroelectric Association, and Ingeni0ren [The Engineer]"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Chief Engineer",
+                "workplace": "Seattle Electric Co",
+                "industry": "Electricity",
+                "start_date": "1906"
+            },
+            {
+                "occupational_title": "Chief Engineer",
+                "workplace": "General Electric Co",
+                "industry": "Electricity",
+                "start_date": "1909"
+            },
+            {
+                "occupational_title": "Department Head",
+                "workplace": "Hemsjö Kraft AB",
+                "industry": "Electricity",
+                "start_date": "1911"
+            },
+            {
+                "occupational_title": "Department Head",
+                "workplace": "Sydsvenska Kraft AB",
+                "industry": "Electricity",
+                "start_date": "1920"
+            }
+        ]
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "original": "BJÖRKLUND, Erik Olof, Avdelningschef, Äppelviken, f Sthlm 21/1 10 av redogör O B 0 Selma Pettersson, gm Inga-Maja Möllerberg. Hdlsutbildn. Försäkr-utbildn gn Sv Försäkr.frn. Syssels inom kolon.- foderämn.-br 30- 32, eg föret i kem tekn br 30—34, ch f Sträd AUm Brandstodsbol adv.kont å Söder 1 Sthlm sed 35. Medl Sv Försäkr.frn o ös-terbysällsk Wallonättlingarna. Hobbies: Sportfiske, jakt o tennis.",
+    "translated": "BJÖRKLUND, Erik Olof, Department Manager, Äppelviken, b. Stockholm 21/1 1910, son of account manager Olof Bernhard Björklund and Selma Pettersson, married to Inga-Maja Möllerberg. Commercial education. Insurance education from the Swedish Insurance Company. Employed in the colon feed industry from 1930-1932. Owned his own business in chemical technology from 1930-1934. Chief of the Sträd Algum Fire Insurance Company's advertising department on Söder 1, Stockholm since 1935. Member of the Swedish Insurance Company and the Wallonian Society. Hobbies: Sport fishing, hunting, and tennis.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Erik Olof Björklund",
+        "birthDate": "1910-01-21",
+        "birthPlace": "Stockholm",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Olof Bernhard Björklund",
+                "jobTitle": "Account Manager"
+            },
+            {
+                "@type": "Person",
+                "name": "Selma Pettersson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Inga-Maja Möllerberg"
+        },
+        "jobTitle": "Department Manager",
+        "workLocation": "Äppelviken",
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Swedish Insurance Company",
+                "endDate": "Present"
+            }
+        ],
+        "employment": [
+            {
+                "@type": "Organization",
+                "name": "Colon Feed Industry",
+                "startDate": "1930",
+                "endDate": "1932"
+            },
+            {
+                "@type": "Organization",
+                "name": "Own Business in Chemical Technology",
+                "startDate": "1930",
+                "endDate": "1934"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sträd Algum Fire Insurance Company",
+                "department": "Advertising",
+                "startDate": "1935",
+                "location": "Söder 1, Stockholm"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Insurance Company"
+            },
+            {
+                "@type": "Organization",
+                "name": "Wallonian Society"
+            }
+        ],
+        "sameAs": {
+            "@type": "URL",
+            "url": "https://example.com/erik-bjorklund"
+        },
+        "hobbies": [
+            "Sport fishing",
+            "Hunting",
+            "Tennis"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Department Manager",
+                "workplace": "Äppelviken",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Employed in the colon feed industry",
+                "workplace": "Unknown",
+                "industry": "Colon feed",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Owner of a business in chemical technology",
+                "workplace": "Unknown",
+                "industry": "Chemical technology",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Chief of the Sträd Algum Fire Insurance Company's advertising department",
+                "workplace": "Söder 1, Stockholm",
+                "industry": "Fire Insurance",
+                "start_date": "1935"
+            }
+        ]
+    }
+}

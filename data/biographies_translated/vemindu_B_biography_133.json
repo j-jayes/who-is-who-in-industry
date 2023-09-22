@@ -1,0 +1,95 @@
+{
+    "original": "BERGLUND, Gösta Vilhelm, Civilingenjör, Stockholm, f Gbg 5/6 08 av civ.ing K V B o Elvira Åhrberg. Studex NReal 26, KTH (maskinbygg o mek tekn) 26—31, spec.stud där 31—32. Anst AB Nomy Ulvsunda 31—35, offerting AB Sv Fläktfabr Sthlm fr 35, v. dess tekn avd sed. 41. Led Sv Tekn.frn.",
+    "translated": "BERGLUND, Gösta Vilhelm, Civil Engineer, Stockholm, born in Gothenburg on 5/6/1908, son of civil engineer K V B and Elvira Åhrberg. Graduated from NReal 26 (name of school or institution not specified), KTH (Royal Institute of Technology) studying mechanical engineering from 1926 to 1931, specialized studies there from 1931 to 1932. Employed by AB Nomy Ulvsunda from 1931 to 1935, offered position at AB Sv Fläktfabrik in Stockholm from 1935 and has been working in their technical department since 1941. Member of the Swedish Technical Association since... \n\nNote: The abbreviation '\\d\\d m. partners name' indicates that Gösta married someone in the year 19xx.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Gösta Vilhelm Berglund",
+        "jobTitle": "Civil Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "birthDate": "1908-06-05",
+        "birthPlace": "Gothenburg",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "K V B Berglund",
+                "jobTitle": "Civil Engineer"
+            },
+            {
+                "@type": "Person",
+                "name": "Elvira Åhrberg"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Studex",
+                "alumniOf": {
+                    "@type": "Organization",
+                    "name": "NReal 26",
+                    "location": "Gothenburg"
+                },
+                "startDate": "1926",
+                "endDate": "1931"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "alumniOf": {
+                    "@type": "CollegeOrUniversity",
+                    "name": "KTH",
+                    "location": "Stockholm"
+                },
+                "specialty": "Mechanical Engineering",
+                "startDate": "1931",
+                "endDate": "1932"
+            }
+        ],
+        "workExperience": [
+            {
+                "@type": "Organization",
+                "name": "AB Nomy Ulvsunda",
+                "location": "Stockholm",
+                "startDate": "1931",
+                "endDate": "1935"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Sv Fläktfabrik",
+                "location": "Stockholm",
+                "startDate": "1935",
+                "description": "Technical department"
+            }
+        ],
+        "membership": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Technical Association"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "AB Nomy Ulvsunda",
+                "industry": "",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "AB Sv Fläktfabrik",
+                "industry": "",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "AB Sv Fläktfabrik",
+                "industry": "",
+                "start_date": "1941"
+            }
+        ]
+    }
+}

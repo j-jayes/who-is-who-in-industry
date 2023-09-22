@@ -1,0 +1,105 @@
+{
+    "original": "BERGLUND, Gunnar Olof, Disponent, Wäija, f Härnösand 16/2 91 av sjökapt O B o Wendla Berglund, gm Sigrid Hammargren. Hsands hal, stud i Engl. Anst h Trävaru-agent J Ekman Hsand 09—11, h kons O Gullander Träagentur 19—20, i Dynas AB 11—19 o sed. 20; styr.led där samt i Wäija AB o Svanö AB. Resor: Danm, Tyskl, Holl, Belg, Frankr, Nordafr, Engl, Span, USA 21—39. Italien, Norge, Nordafr, Engl, Span, USA 21— 39. Frimurare, KFUM. Hobby: Idrott.",
+    "translated": "BERGLUND, Gunnar Olof, Manager, Wäija, born in Härnösand on February 16, 1891 to the sea captain O.B. and Wendla Berglund. Married to Sigrid Hammargren. Completed studies in England. Employed at Trävaru-agent J Ekman, Härnösand, from 1909 to 1911, and then at the timber agency of O. Gullander from 1919 to 1920. Joined Dynas AB in 1911 and worked there until 1919, and again from 1920 onwards. Serves on the board of directors for Dynas AB, Wäija AB, and Svanö AB. Traveled to Denmark, Germany, Netherlands, Belgium, France, North Africa, England, Spain, and the USA from 1921 to 1939. Also visited Italy, Norway, North Africa, England, Spain, and the USA from 1921 to 1939. Member of the Freemasons and YMCA. Hobby: Sports.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Gunnar Olof Berglund",
+        "birthDate": "1891-02-16",
+        "birthPlace": "Härnösand",
+        "father": {
+            "@type": "Person",
+            "name": "O.B. Berglund",
+            "occupation": "Sea Captain",
+            "birthPlace": "Härnösand"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Wendla Berglund",
+            "birthPlace": "Härnösand"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Sigrid Hammargren"
+        },
+        "occupation": "Manager",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Freemasons"
+            },
+            {
+                "@type": "Organization",
+                "name": "YMCA"
+            }
+        ],
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "England"
+        },
+        "workExperience": [
+            {
+                "@type": "Organization",
+                "name": "Trävaru-agent J Ekman",
+                "location": "Härnösand",
+                "startDate": "1909",
+                "endDate": "1911"
+            },
+            {
+                "@type": "Organization",
+                "name": "Timber agency of O. Gullander",
+                "location": "Härnösand",
+                "startDate": "1919",
+                "endDate": "1920"
+            }
+        ],
+        "travelHistory": [
+            "Denmark",
+            "Germany",
+            "Netherlands",
+            "Belgium",
+            "France",
+            "North Africa",
+            "England",
+            "Spain",
+            "USA",
+            "Italy",
+            "Norway"
+        ],
+        "hobby": "Sports"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Disponent",
+                "workplace": "Wäija",
+                "industry": null,
+                "start_date": null
+            },
+            {
+                "occupational_title": "Trävaru-agent",
+                "workplace": "J Ekman",
+                "industry": null,
+                "start_date": "1909"
+            },
+            {
+                "occupational_title": "Kons",
+                "workplace": "O Gullander Träagentur",
+                "industry": null,
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": null,
+                "workplace": "Dynas AB",
+                "industry": null,
+                "start_date": "1911"
+            },
+            {
+                "occupational_title": null,
+                "workplace": "Dynas AB",
+                "industry": null,
+                "start_date": "1920"
+            }
+        ]
+    }
+}

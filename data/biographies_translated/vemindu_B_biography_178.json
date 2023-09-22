@@ -1,0 +1,223 @@
+{
+    "original": "BERGSTRÖM, Carl Johan Oscar, Disponent, Huskvarna, f Södertälje 25/11 72 av L J B o Louise Schenlund, gm Elsa Sten. Nya elem.-lärov Sthlm (6 kl), maskinyrk.sk Sthlm 92— 94. Anst v Wiklunds verkst 94—98, Graham Brothers 98—03, Sturtevant Engineering, London 99, Ebbes bruk 03—07, National Blower Works, Milwaukee 05, Alingsås verkst 07—13, Ebbes bruk sed. 14, inköpte detta 41. Led av tax.nmdn. Resor: Engl, Irland 99, 12, stip t världsutst S:t Louis 04. Av trycket: Rese-berätt i Tekn tidskr 07—08.",
+    "translated": "BERGSTRÖM, Carl Johan Oscar, Executive, Huskvarna, born in Södertälje on November 25th, 1872, son of L J B and Louise Schenlund, married to Elsa Sten. Attended new elementary and secondary school in Stockholm (6 years), studied mechanical engineering in Stockholm from 1892 to 1894. Employed at Wiklunds works from 1894 to 1898, Graham Brothers from 1898 to 1903, Sturtevant Engineering in London in 1899, Ebbes bruk from 1903 to 1907, National Blower Works in Milwaukee in 1905, Alingsås verkst from 1907 to 1913, and returned to Ebbes bruk thereafter. Acquired this business in 1941. Member of the tax board. Travelled to England and Ireland in 1899 and 1912, received a scholarship for the World's Fair in St. Louis in 1904. Published travel reports in the Technical Journal from 1907 to 1908.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Carl Johan Oscar",
+        "familyName": "Bergström",
+        "jobTitle": "Executive",
+        "birthDate": "1872-11-25",
+        "birthPlace": "Södertälje",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "L J B"
+            },
+            {
+                "@type": "Person",
+                "name": "Louise Schenlund"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Elsa Sten"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "New elementary and secondary school",
+                "educationalLevel": "6 years",
+                "educationalRole": "Student",
+                "provider": "Stockholm"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Mechanical Engineering",
+                "educationalLevel": "2 years",
+                "educationalRole": "Student",
+                "provider": "Stockholm"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1894",
+                "endDate": "1898",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Wiklunds Verkst"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1898",
+                "endDate": "1903",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Graham Brothers"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1899",
+                "endDate": null,
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Sturtevant Engineering"
+                },
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "London"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1903",
+                "endDate": "1907",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Ebbes Bruk"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1905",
+                "endDate": null,
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "National Blower Works"
+                },
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Milwaukee"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1907",
+                "endDate": "1913",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Alingsås Verkst"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1914",
+                "endDate": null,
+                "roleName": "Owner",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Ebbes Bruk"
+                }
+            }
+        ],
+        "membership": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Tax Board Member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Tax Board"
+                }
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "Trip",
+                "departureTime": "1899",
+                "arrivalTime": "1899",
+                "name": "England and Ireland"
+            },
+            {
+                "@type": "Trip",
+                "departureTime": "1912",
+                "arrivalTime": "1912",
+                "name": "England and Ireland"
+            },
+            {
+                "@type": "Trip",
+                "departureTime": "1904",
+                "arrivalTime": "1904",
+                "name": "World's Fair - St. Louis"
+            }
+        ],
+        "publication": [
+            {
+                "@type": "PublicationEvent",
+                "startDate": "1907",
+                "endDate": "1908",
+                "location": {
+                    "@type": "PublicationEvent",
+                    "name": "Technical Journal"
+                },
+                "workFeatured": "Travel Reports"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Executive",
+                "workplace": "Huskvarna",
+                "industry": "Unknown",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Wiklunds verkst",
+                "industry": "Unknown",
+                "start_date": "1894"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Graham Brothers",
+                "industry": "Unknown",
+                "start_date": "1898"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Sturtevant Engineering",
+                "industry": "Unknown",
+                "start_date": "1899"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Ebbes bruk",
+                "industry": "Unknown",
+                "start_date": "1903"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "National Blower Works",
+                "industry": "Unknown",
+                "start_date": "1905"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Alingsås verkst",
+                "industry": "Unknown",
+                "start_date": "1907"
+            },
+            {
+                "occupational_title": "Business Owner",
+                "workplace": "Ebbes bruk",
+                "industry": "Unknown",
+                "start_date": "1941"
+            }
+        ]
+    }
+}

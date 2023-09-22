@@ -1,0 +1,237 @@
+{
+    "original": "BJARME, Johan Alfred, överingenjör, Arboga, f Långsele 29/5 86 av Jan Petter Jansson o Sara Katarina Westerlund, gm Ida Olivia Jönsson. KTH, bergsing, bergsmek. Rit v Holmens mek verkst, Nyby bruk, 10, kon-strukt v Deut. Maschinenfabr. AG, Duisburg, 11, arb.förm v Bräden Copper Co :s kopp.vk, Rancagua, Chile, 12—13, vik. lär i bergsmek v Filip st bergssk 13—14, konstrukt o ritkont.ch h Morgardshammars mek verkst AB 14—36, avd.ch ASEA, Västerås, 36—40, tf prof i gruv-mek mm v KTH 38—40, övering o tekn ch v AB Arboga mek verkst sed. 40. Stud.res t USA 11, 19, 26, 30, stud- o aff.resor Engl, Tyskl, Span.",
+    "translated": "BJARME, Johan Alfred, Chief Engineer, Arboga, born in Långsele on May 29, 1886, to Jan Petter Jansson and Sara Katarina Westerlund, married to Ida Olivia Jönsson. Education at KTH (Royal Institute of Technology), specialized in mining engineering and metallurgy. Worked as a draftsman at Holmens Mechanical Workshop, Nyby Bruk, until 1910, then as a design engineer at Deut. Maschinenfabr. AG in Duisburg in 1911. Afterwards, worked as a foreman at Bräden Copper Co.'s copper mines in Rancagua, Chile, from 1912 to 1913. Temporarily worked as a substitute lecturer in mining engineering at Filip st Mountain School from 1913 to 1914. From 1914 to 1936, worked as a design engineer and head of the design department at Morgardshammars Mechanical Workshop AB. From 1936 to 1940, department manager at ASEA in Västerås. Temporarily served as a professor in mining engineering and other related subjects at KTH from 1938 to 1940. Became Chief Engineer and Technical Director at AB Arboga Mechanical Workshop in 1940. Undertook study and business trips to the USA in 1911, 1919, 1926, and 1930, as well as to England, Germany, and Spain.\nNote: \"f \\d\\d mm yy av partner's name\" indicates the birth date of the person.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Johan Alfred Bjarme",
+        "birthDate": "1886-05-29",
+        "birthPlace": "Långsele",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Jan Petter Jansson"
+            },
+            {
+                "@type": "Person",
+                "name": "Sara Katarina Westerlund"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ida Olivia Jönsson"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "educationalLevel": "Specialization in Mining Engineering and Metallurgy",
+            "alumniOf": {
+                "@type": "CollegeOrUniversity",
+                "name": "Royal Institute of Technology (KTH)"
+            }
+        },
+        "profession": "Chief Engineer",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "AB Arboga Mechanical Workshop"
+        },
+        "workLocation": "Arboga",
+        "workHistory": [
+            {
+                "@type": "EmploymentEvent",
+                "startDate": "1910",
+                "endDate": "1911",
+                "position": "Draftsman",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Holmens Mechanical Workshop"
+                }
+            },
+            {
+                "@type": "EmploymentEvent",
+                "startDate": "1911",
+                "endDate": "1912",
+                "position": "Design Engineer",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Deut. Maschinenfabr. AG"
+                },
+                "location": "Duisburg"
+            },
+            {
+                "@type": "EmploymentEvent",
+                "startDate": "1912",
+                "endDate": "1913",
+                "position": "Foreman",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Bräden Copper Co.'s Copper Mines"
+                },
+                "location": "Rancagua, Chile"
+            },
+            {
+                "@type": "EmploymentEvent",
+                "startDate": "1913",
+                "endDate": "1914",
+                "position": "Substitute Lecturer",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Filip st Mountain School"
+                },
+                "location": "Sweden"
+            },
+            {
+                "@type": "EmploymentEvent",
+                "startDate": "1914",
+                "endDate": "1936",
+                "position": "Design Engineer and Head of Design Department",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Morgardshammars Mechanical Workshop AB"
+                },
+                "location": "Sweden"
+            },
+            {
+                "@type": "EmploymentEvent",
+                "startDate": "1936",
+                "endDate": "1940",
+                "position": "Department Manager",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "ASEA"
+                },
+                "location": "Västerås"
+            },
+            {
+                "@type": "EmploymentEvent",
+                "startDate": "1938",
+                "endDate": "1940",
+                "position": "Professor",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Royal Institute of Technology (KTH)"
+                },
+                "location": "Stockholm"
+            },
+            {
+                "@type": "EmploymentEvent",
+                "startDate": "1940",
+                "position": "Chief Engineer and Technical Director",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "AB Arboga Mechanical Workshop"
+                },
+                "location": "Arboga"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Royal Institute of Technology (KTH)"
+            }
+        ],
+        "nationality": {
+            "@type": "Country",
+            "name": "Sweden"
+        },
+        "studyAbroad": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Study",
+                "studyLocation": "USA",
+                "startDate": "1911"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Study",
+                "studyLocation": "USA",
+                "startDate": "1919"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Study",
+                "studyLocation": "USA",
+                "startDate": "1926"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Study",
+                "studyLocation": "USA",
+                "startDate": "1930"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Travel",
+                "studyLocation": "England"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Travel",
+                "studyLocation": "Germany"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Travel",
+                "studyLocation": "Spain"
+            }
+        ],
+        "description": "Johan Alfred Bjarme was a Swedish Chief Engineer born in Långsele on May 29, 1886. He studied mining engineering and metallurgy at the Royal Institute of Technology (KTH). Throughout his career, he worked at various organizations including Holmens Mechanical Workshop, Deut. Maschinenfabr. AG, Bräden Copper Co.'s copper mines, Filip st Mountain School, Morgardshammars Mechanical Workshop AB, ASEA, and AB Arboga Mechanical Workshop. He also served as a professor at KTH. Johan undertook study and business trips to the USA, as well as to England, Germany, and Spain. He played a significant role in the field of mining engineering and contributed to the technological advancements in Sweden."
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Draftsman",
+                "workplace": "Holmens Mechanical Workshop, Nyby Bruk",
+                "industry": "Mechanical industry",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Design Engineer",
+                "workplace": "Deut. Maschinenfabr. AG, Duisburg",
+                "industry": "Mechanical industry",
+                "start_date": "1911"
+            },
+            {
+                "occupational_title": "Foreman",
+                "workplace": "Bräden Copper Co.'s copper mines, Rancagua, Chile",
+                "industry": "Mining",
+                "start_date": "1912"
+            },
+            {
+                "occupational_title": "Substitute Lecturer",
+                "workplace": "Filip st Mountain School",
+                "industry": "Education",
+                "start_date": "1913"
+            },
+            {
+                "occupational_title": "Design Engineer",
+                "workplace": "Morgardshammars Mechanical Workshop AB",
+                "industry": "Mechanical industry",
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Head of Design Department",
+                "workplace": "Morgardshammars Mechanical Workshop AB",
+                "industry": "Mechanical industry",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Department Manager",
+                "workplace": "ASEA, Västerås",
+                "industry": "Electrical engineering",
+                "start_date": "1936"
+            },
+            {
+                "occupational_title": "Professor",
+                "workplace": "KTH",
+                "industry": "Education",
+                "start_date": "1938"
+            },
+            {
+                "occupational_title": "Chief Engineer and Technical Director",
+                "workplace": "AB Arboga Mechanical Workshop",
+                "industry": "Mechanical industry",
+                "start_date": "1940"
+            }
+        ]
+    }
+}

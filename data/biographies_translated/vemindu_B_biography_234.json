@@ -1,0 +1,126 @@
+{
+    "original": "BJÖRCK, Johan Elof, Bankdirektör, Borås, f Hudiksvall 10/1 89 av dir F Wilh Björck o Anna Nelson, gm Sigrid Maria Carlson. Studex. Anst Sthlms hdlsbk 07, kamrer i BkAB Södra Sv, Hbg, 17, dir.ass s.å., bitr dir i Sv hldsbkn Gbg 24, dir f avd.centr i Härnösand 38, i Borås 40. Resor: Europ länd v fi tillfällen, Brasilien, Uruguay, Argentina, Chile, Peru, Ecuador, Columbia, Venezuela o Panama 36. Hobbies: Fiske, golf.",
+    "translated": "BJÖRCK, Johan Elof, Bank Director, Borås, b. Hudiksvall 10/1 89, son of Director F Wilh Björck and Anna Nelson, married to Sigrid Maria Carlson. Completed studies. Employed at Sthlms hdlsbk 07, appointed Treasurer at BkAB Södra Sv, Hbg, 17, Assistant Director the same year, Deputy Director at Sv hldsbkn Gbg 24, Central Division Director in Härnösand 38, in Borås 40. Travels: European countries on several occasions, Brazil, Uruguay, Argentina, Chile, Peru, Ecuador, Columbia, Venezuela, and Panama in 36. Hobbies: Fishing, golf. Note: '\\d\\d m. partners name' indicates marriage in the year 19xx.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Johan Elof Björck",
+        "jobTitle": "Bank Director",
+        "birthPlace": "Hudiksvall",
+        "birthDate": "1889-01-10",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "F Wilh Björck",
+                "jobTitle": "Director"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Nelson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Sigrid Maria Carlson"
+        },
+        "education": "Completed studies",
+        "workExperience": [
+            {
+                "@type": "Organization",
+                "name": "Sthlms hdlsbk",
+                "startDate": "1907"
+            },
+            {
+                "@type": "Organization",
+                "name": "BkAB Södra Sv",
+                "jobTitle": "Treasurer",
+                "startDate": "1917"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sv hldsbkn Gbg",
+                "jobTitle": "Deputy Director",
+                "startDate": "1924"
+            },
+            {
+                "@type": "Organization",
+                "name": "Härnösand",
+                "jobTitle": "Central Division Director",
+                "startDate": "1938"
+            },
+            {
+                "@type": "Organization",
+                "name": "Borås",
+                "jobTitle": "Director",
+                "startDate": "1940"
+            }
+        ],
+        "additionalProperty": [
+            {
+                "@type": "PropertyValue",
+                "propertyID": "travels",
+                "value": [
+                    "European countries",
+                    "Brazil",
+                    "Uruguay",
+                    "Argentina",
+                    "Chile",
+                    "Peru",
+                    "Ecuador",
+                    "Columbia",
+                    "Venezuela",
+                    "Panama"
+                ],
+                "startDate": "1936"
+            },
+            {
+                "@type": "PropertyValue",
+                "propertyID": "hobbies",
+                "value": [
+                    "Fishing",
+                    "Golf"
+                ]
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Bank Director",
+                "workplace": "Borås",
+                "industry": "Banking",
+                "start_date": "1940"
+            },
+            {
+                "occupational_title": "Central Division Director",
+                "workplace": "Härnösand",
+                "industry": "Banking",
+                "start_date": "1938"
+            },
+            {
+                "occupational_title": "Deputy Director",
+                "workplace": "Sv hldsbkn Gbg",
+                "industry": "Banking",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Assistant Director",
+                "workplace": "BkAB Södra Sv, Hbg",
+                "industry": "Banking",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Treasurer",
+                "workplace": "BkAB Södra Sv, Hbg",
+                "industry": "Banking",
+                "start_date": "1907"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Sthlms hdlsbk",
+                "industry": "Banking",
+                "start_date": "1907"
+            }
+        ]
+    }
+}

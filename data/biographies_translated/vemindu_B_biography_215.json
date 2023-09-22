@@ -1,0 +1,58 @@
+{
+    "original": "BILLIG, Gustaf Adolf, Ingenjör, Borås, f Borås 24/10 99 av fabr Karl E B o Emma Götz, gm Ingrid Thomsen. Borås h a lärov o tekn gymn. Ing v AB Borås Appreturmedel-fabr 18, styr.led i detta AB.",
+    "translated": "BILLIG, Gustaf Adolf, Engineer, Borås, b. Borås 24/10 99 to factory owner Karl E B and Emma Götz, m. Ingrid Thomsen. Borås h a studied at the high school and technical gymnasium. Eng. at AB Borås Appreturmedel-fabr from 18, board member in this company.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Gustaf Adolf Billig",
+        "birthDate": "1899-10-24",
+        "birthPlace": "Borås",
+        "description": "Engineer",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Karl E B",
+                "description": "Factory owner"
+            },
+            {
+                "@type": "Person",
+                "name": "Emma Götz"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ingrid Thomsen"
+        },
+        "education": [
+            {
+                "@type": "Organization",
+                "name": "Borås High School"
+            },
+            {
+                "@type": "Organization",
+                "name": "Technical Gymnasium"
+            }
+        ],
+        "jobTitle": "Engineer",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "AB Borås Appreturmedel-fabr",
+            "startDate": "1918"
+        },
+        "memberOf": {
+            "@type": "Organization",
+            "name": "AB Borås Appreturmedel-fabr",
+            "roleName": "Board Member"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "AB Borås Appreturmedel-fabr",
+                "industry": "Chemical manufacturing",
+                "start_date": "1918"
+            }
+        ]
+    }
+}

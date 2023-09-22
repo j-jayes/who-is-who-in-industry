@@ -1,0 +1,123 @@
+{
+    "original": "AKSELSSON, Lars, Direktör, Ålsten, f Upps 2/1 90 av överbibi Aksel Andersson o Hildur Wiklund, gm Elsa Wirsén. Fil lic (matem) Upps 14. Ch Jvgsstyris statist kont 18—30, vkst dir Skattebetalarnas frn o red Sunt Förnuft sed. 30. Led o sekr öl komm 17—30, led Sthlms stds dräts.nmd sed. 42. Huv.red Nord Järnbanetidskr 25—30. RVO, RNS:tOO; medl Sthlms köpm.klubb.",
+    "translated": "AKSELSSON, Lars, Director, Ålsten, b. Uppsala 2/1 90, son of librarian Aksel Andersson and Hildur Wiklund, married to Elsa Wirsén. Bachelor of Science (Mathematics) from Uppsala University in 1914. Worked in the Statistical Office of the Railway Board from 1918 to 1930. Promoted to Deputy Director of Skattebetalarnas förening (Taxpayers' Association) and editor-in-chief of Sunt Förnuft (Sound Reason) since 1930. Served as a member and secretary of the local alcohol control board from 1917 to 1930 and as a member of Stockholm's municipal budget committee since 1942. Chief editor of the North Railway Magazine from 1925 to 1930. Awarded the Royal Order of Vasa and the Royal Nordic Society of Literature's silver medal. Member of Stockholm's Merchant Club.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Lars Akselsson",
+        "jobTitle": "Director",
+        "birthDate": "1890-01-02",
+        "birthPlace": "Uppsala",
+        "familyName": "Akselsson",
+        "givenName": "Lars",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Aksel Andersson",
+                "jobTitle": "Librarian"
+            },
+            {
+                "@type": "Person",
+                "name": "Hildur Wiklund"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Elsa Wirsén"
+        },
+        "education": {
+            "@type": "EducationalOccupationalProgram",
+            "degree": {
+                "@type": "DefinedTerm",
+                "name": "Bachelor of Science",
+                "inDefinedTermSet": "https://schema.org/EducationalDegree"
+            },
+            "educationalLevel": {
+                "@type": "DefinedTerm",
+                "name": "Matematics",
+                "inDefinedTermSet": "https://schema.org/EducationalLevel"
+            },
+            "alumniOf": "Uppsala University",
+            "startDate": "1914"
+        },
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "Statistical Office of the Railway Board",
+                "startDate": "1918",
+                "endDate": "1930"
+            },
+            {
+                "@type": "Organization",
+                "name": "Skattebetalarnas förening (Taxpayers' Association)"
+            },
+            {
+                "@type": "Thing",
+                "name": "Sunt Förnuft (Sound Reason)"
+            },
+            {
+                "@type": "Organization",
+                "name": "Local Alcohol Control Board",
+                "startDate": "1917",
+                "endDate": "1930"
+            },
+            {
+                "@type": "Organization",
+                "name": "Stockholm's municipal budget committee",
+                "startDate": "1942"
+            },
+            {
+                "@type": "Periodical",
+                "name": "North Railway Magazine",
+                "startDate": "1925",
+                "endDate": "1930"
+            }
+        ],
+        "honorificPrefix": "Mr.",
+        "honorificSuffix": "RVO, RNS:tOO",
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Stockholm's Merchant Club"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Statistician",
+                "workplace": "Statistical Office of the Railway Board",
+                "industry": "Public Administration",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Deputy Director",
+                "workplace": "Skattebetalarnas förening (Taxpayers' Association)",
+                "industry": "Non-profit",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Editor-in-Chief",
+                "workplace": "Sunt Förnuft (Sound Reason)",
+                "industry": "Publishing",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Member and Secretary",
+                "workplace": "Local Alcohol Control Board",
+                "industry": "Government",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Member",
+                "workplace": "Stockholm's Municipal Budget Committee",
+                "industry": "Government",
+                "start_date": "1942"
+            },
+            {
+                "occupational_title": "Chief Editor",
+                "workplace": "North Railway Magazine",
+                "industry": "Publishing",
+                "start_date": "1925"
+            }
+        ]
+    }
+}

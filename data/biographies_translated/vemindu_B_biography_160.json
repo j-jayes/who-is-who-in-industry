@@ -1,0 +1,92 @@
+{
+    "original": "BERGQVIST, Oscar Richard (Dick) Paul, Civilingenjör, Grängesberg, f Falun 3/1 91 av fabr C B o Mathilda Johansson, gm Astrid Mellgren (d 22). Studex Upps 10, CTH (VoV) 17. Bitr byggn.ing Grängesbergs Gemens För-valtn 17 l:e byggn.ing sed. 26. Led div komm styr o nmd. Styr.led Sv Hdlsbkns Grängesb.kont. Resor: Tyskl. RVO; Frimurare.",
+    "translated": "BERGQVIST, Oscar Richard (Dick) Paul, Civil Engineer, Grängesberg, b. Falun 3/1 91, son of factory owner C B and Mathilda Johansson. Married to Astrid Mellgren (deceased in 22). Graduate of Uppsala University in 1910, Chalmers University of Technology (VoV) in 1917. Assistant building engineer at Grängesbergs Gemens Förvaltn from 1917 to 1926. Member of various municipal boards and committees. Board member of the Swedish Commerce Bank's Grängesberg office. Traveled to Germany (RVO). Freemason.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Oscar Richard (Dick) Paul",
+        "familyName": "Bergqvist",
+        "birthDate": "1891-01-03",
+        "birthPlace": "Falun",
+        "description": "Civil Engineer",
+        "parent": [
+            {
+                "@type": "Person",
+                "givenName": "C B",
+                "familyName": "Bergqvist",
+                "jobTitle": "Factory Owner"
+            },
+            {
+                "@type": "Person",
+                "givenName": "Mathilda",
+                "familyName": "Johansson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "givenName": "Astrid",
+            "familyName": "Mellgren",
+            "deathDate": "1922"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "studyAt": {
+                    "@type": "CollegeOrUniversity",
+                    "name": "Uppsala University",
+                    "startDate": "1910"
+                }
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "studyAt": {
+                    "@type": "CollegeOrUniversity",
+                    "name": "Chalmers University of Technology",
+                    "startDate": "1917"
+                },
+                "honorificSuffix": "VoV"
+            }
+        ],
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1917",
+                "endDate": "1926",
+                "roleName": "Assistant Building Engineer",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Grängesbergs Gemens Förvaltn"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Commerce Bank's Grängesberg office",
+                "roleName": "Board Member"
+            }
+        ],
+        "event": [
+            {
+                "@type": "TravelEvent",
+                "destination": "Germany",
+                "startDate": "",
+                "roleName": "RVO"
+            }
+        ],
+        "affiliation": {
+            "@type": "Organization",
+            "name": "Freemasons"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Assistant building engineer",
+                "workplace": "Grängesbergs Gemens Förvaltn",
+                "industry": "Construction",
+                "start_date": "1917"
+            }
+        ]
+    }
+}

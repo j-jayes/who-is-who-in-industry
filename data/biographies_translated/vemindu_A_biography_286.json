@@ -1,0 +1,78 @@
+{
+    "original": "ASSCHIEK, Folke, Försäkringsdirektör, Stockholm, f Vittaryd, Kronob l, 25/3 93. Studex Växjö 12, fil kand Lund 19. Anst Olycksfallförsäkr.bol Mercur (Köpmännens Olycksfallsförsäkr.bol) 20, kamr 24, v. vkst dir 40, vkst dir sed. 42.",
+    "translated": "ASSCHIEK, Folke, Insurance Director, Stockholm, b Vittaryd, Kronoborg county, 25/3 93. Studied at Växjö until 1912, graduated with a bachelor's degree in Lund in 1919. Employed at the Accident Insurance Company Mercur (Merchants' Accident Insurance Company) in 1920, promoted to clerk in 1924, assistant managing director in 1940, and managing director since 1942.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Folke Asschiek",
+        "jobTitle": "Managing Director",
+        "birthPlace": "Vittaryd, Kronoborg county",
+        "birthDate": "1893-03-25",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Mercur",
+                "description": "Accident Insurance Company"
+            },
+            {
+                "@type": "Organization",
+                "name": "Merchants' Accident Insurance Company"
+            }
+        ],
+        "educationalCredentialAwarded": {
+            "@type": "EducationalOccupationalCredential",
+            "description": "Bachelor's degree"
+        },
+        "alumniOf": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Växjö",
+                "startDate": "1900",
+                "endDate": "1912"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Lund",
+                "startDate": "1912",
+                "endDate": "1919"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Mercur",
+                "description": "Accident Insurance Company"
+            }
+        ],
+        "jobStartDate": "1942",
+        "jobEndDate": "1924"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Insurance Director",
+                "workplace": "Stockholm",
+                "industry": "Insurance",
+                "start_date": "1942"
+            },
+            {
+                "occupational_title": "Assistant Managing Director",
+                "workplace": "Accident Insurance Company Mercur (Merchants' Accident Insurance Company)",
+                "industry": "Insurance",
+                "start_date": "1940"
+            },
+            {
+                "occupational_title": "Clerk",
+                "workplace": "Accident Insurance Company Mercur (Merchants' Accident Insurance Company)",
+                "industry": "Insurance",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Employed",
+                "workplace": "Accident Insurance Company Mercur (Merchants' Accident Insurance Company)",
+                "industry": "Insurance",
+                "start_date": "1920"
+            }
+        ]
+    }
+}

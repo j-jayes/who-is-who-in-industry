@@ -1,0 +1,190 @@
+{
+    "original": "AXBEBG, Johan August Harald, Disponent, Eskilstuna, f Kvillinge, Ögl, 31/3 78 av trädg.m A Gustafsson o Johanna Andersdtr, gm Marie Christensen. Folksk, Påhlmans lidlssk. Bokh Etuna brygg.AB 97, kass 06, disp. sed. 18. Styr.led där, Strängn brygg.AB, Köpings brygg.AB, Flens brygg.AB, Sv vattenfabr:s riksfrb, Etuna red.AB, rev Eturia sparbk. Led brandstyr. Frimurare, Odd Fellow.",
+    "translated": "AXBEBG, Johan August Harald, Manager, Eskilstuna, b. Kvillinge, Ögl, March 31st 1878, son of gardener M. Gustafsson and Johanna Andersdtr, married Marie Christensen. Elementary school, Påhlmans commercial school. Bookkeeper Etuna Brewery AB since 1897, cashier from 1906, manager since 1918. Board member at Strängnäs Brewery AB, Köping Brewery AB, Flen Brewery AB, Swedish Waterworks Association, Etuna Printing Company AB, board auditor at Eturia Savings Bank. Member of the fire brigade board. Freemason, member of the Odd Fellow fraternity. Note that '\\d\\d m. partners name' means that the person married in the year 19xx.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Johan August Harald AXBEBG",
+        "jobTitle": "Manager",
+        "birthPlace": "Kvillinge, Ögl",
+        "birthDate": "1878-03-31",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "M. Gustafsson",
+                "jobTitle": "Gardener"
+            },
+            {
+                "@type": "Person",
+                "name": "Johanna Andersdtr"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Marie Christensen"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Elementary School"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Påhlmans Commercial School"
+            }
+        ],
+        "occupation": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1897",
+                "endDate": "1906",
+                "roleName": "Bookkeeper",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Etuna Brewery AB"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1906",
+                "endDate": "1918",
+                "roleName": "Cashier",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Etuna Brewery AB"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1918",
+                "roleName": "Manager",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Etuna Brewery AB"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Strängnäs Brewery AB"
+            },
+            {
+                "@type": "Organization",
+                "name": "Köping Brewery AB"
+            },
+            {
+                "@type": "Organization",
+                "name": "Flen Brewery AB"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Waterworks Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Etuna Printing Company AB"
+            }
+        ],
+        "boardMember": [
+            {
+                "@type": "Organization",
+                "name": "Strängnäs Brewery AB"
+            },
+            {
+                "@type": "Organization",
+                "name": "Köping Brewery AB"
+            },
+            {
+                "@type": "Organization",
+                "name": "Flen Brewery AB"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Waterworks Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Etuna Printing Company AB"
+            }
+        ],
+        "boardAuditor": {
+            "@type": "Organization",
+            "name": "Eturia Savings Bank"
+        },
+        "activity": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Member of the Fire Brigade Board",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Fire Brigade"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Freemasons"
+            },
+            {
+                "@type": "Organization",
+                "name": "Odd Fellow Fraternity"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Bookkeeper",
+                "workplace": "Etuna Brewery AB",
+                "industry": "Brewery",
+                "start_date": "1897"
+            },
+            {
+                "occupational_title": "Cashier",
+                "workplace": "Etuna Brewery AB",
+                "industry": "Brewery",
+                "start_date": "1906"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Etuna Brewery AB",
+                "industry": "Brewery",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Board member",
+                "workplace": "Strängnäs Brewery AB",
+                "industry": "Brewery",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Board member",
+                "workplace": "Köping Brewery AB",
+                "industry": "Brewery",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Board member",
+                "workplace": "Flen Brewery AB",
+                "industry": "Brewery",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Board member",
+                "workplace": "Swedish Waterworks Association",
+                "industry": "Waterworks",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Board member",
+                "workplace": "Etuna Printing Company AB",
+                "industry": "Printing",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Board auditor",
+                "workplace": "Eturia Savings Bank",
+                "industry": "Banking",
+                "start_date": null
+            }
+        ]
+    }
+}

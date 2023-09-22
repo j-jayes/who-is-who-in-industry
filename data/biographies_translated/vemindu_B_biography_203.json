@@ -1,0 +1,65 @@
+{
+    "original": "BERTZE, Albert Andreas, Köpman, Uppsala, f Vendel, Upps l, 15/3 93, gm Karin Johansson. Anst i fma Edv Grönwall i Sthlm 09, i fma Carl E Carlsson i Upps 14, eg rörelse i Upps sed. 18, inneh Specerifma Albert Bertze sed. 26. Hobby: Segling.",
+    "translated": "BERTZE, Albert Andreas, Merchant, Uppsala, born in Vendel, Uppsala län, on March 15th, 1893, married Karin Johansson. Employed at the trading company Edv Grönwall in Stockholm in 1909, at the trading company Carl E Carlsson in Uppsala in 1914, started his own business in Uppsala in 1918, owns the grocery store Albert Bertze since 1926. Hobby: Sailing.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Albert Andreas Bertze",
+        "jobTitle": "Merchant",
+        "birthPlace": "Vendel, Uppsala län",
+        "birthDate": "1893-03-15",
+        "spouse": {
+            "@type": "Person",
+            "name": "Karin Johansson"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Edv Grönwall",
+                "startDate": "1909",
+                "endDate": "1914"
+            },
+            {
+                "@type": "Organization",
+                "name": "Carl E Carlsson",
+                "startDate": "1914",
+                "endDate": "1918"
+            },
+            {
+                "@type": "Organization",
+                "name": "Albert Bertze",
+                "startDate": "1918",
+                "endDate": null
+            }
+        ],
+        "hobby": "Sailing"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Edv Grönwall",
+                "industry": "Trading",
+                "start_date": "1909"
+            },
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Carl E Carlsson",
+                "industry": "Trading",
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Entrepreneur",
+                "workplace": "Own Business",
+                "industry": "Grocery Store",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "Albert Bertze",
+                "industry": "Grocery Store",
+                "start_date": "1926"
+            }
+        ]
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "original": "BERGLUND, Karl Torkel, Bergsingenjör, Sandviken, f Gävle 24/3 96 av stadsvet Karl J B o Agda E Lindgren, gm Carola Bark. Studex 15, KTH 22, spec.stud 22—23. Ass v KTH i hyttmek o järnets bearb mm 24—26, stud.res på Jernkont stip i Tyskl, Schweiz, Frankr o Holl f stud av röntgenlab 25, på Sv-Amer stift o KTH stip t USA 26—27, 1. ass v KTH i metallogr o järnets bearb o be-handl 27—32, spec.lär v KTH 28—34, v Jernkont tekn forskn.verksamhet 28—33, forskn.-ing v Sandv jernverksAB 34, ch f metallurg f orskn.avd sed. 42. Av trycket: FI upps i Jernkontorets annaler.",
+    "translated": "BERGLUND, Karl Torkel, Mining Engineer, Sandviken, b. Gävle 24/3 1896, son of the city engineer Karl J B and Agda E Lindgren, m. Carola Bark. Graduated 1915, Royal Institute of Technology (KTH) 1922, specialized studies 1922-1923. Assistant at KTH in blast furnace mechanics and iron processing et cetera 1924-1926, studying on a scholarship from Jernkontoret in Germany, Switzerland, France, and the Netherlands for X-ray lab studies in 1925, awarded scholarships from the Swedish-American Foundation and KTH to the USA 1926-1927. 1st assistant at KTH in metallography and iron processing and treatment 1927-1932, specialized lecturer at KTH 1928-1934, involved in technical research activities at Jernkontoret 1928-1933, research engineer at Sandviken Ironworks AB since 1934, appointed head of the metallurgy research department in 1942. Published in Jernkontoret's Annals.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Karl Torkel Berglund",
+        "jobTitle": "Head of Metallurgy Research Department",
+        "birthPlace": "Gävle",
+        "birthDate": "1896-03-24",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Karl J B",
+                "jobTitle": "City Engineer"
+            },
+            {
+                "@type": "Person",
+                "name": "Agda E Lindgren"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Carola Bark"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "graduation",
+                "educationalLevel": "HighSchool",
+                "alumniOf": "KTH",
+                "startDate": "1915",
+                "endDate": "1915"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "graduation",
+                "educationalLevel": "College",
+                "alumniOf": "KTH",
+                "startDate": "1922",
+                "endDate": "1922"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "specialization",
+                "educationalLevel": "College",
+                "alumniOf": "KTH",
+                "startDate": "1922",
+                "endDate": "1923"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "KTH"
+            },
+            {
+                "@type": "Organization",
+                "name": "Jernkontoret"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sandviken Ironworks AB"
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Sandviken Ironworks AB"
+        },
+        "affiliation": [
+            {
+                "@type": "Organization",
+                "name": "Jernkontoret"
+            }
+        ],
+        "startDate": "1942",
+        "publication": [
+            {
+                "@type": "Article",
+                "isAccessibleForFree": true,
+                "publicationOutlet": "Jernkontoret's Annals"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Mining Engineer",
+                "workplace": "Sandviken",
+                "industry": "Mining",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Assistant at KTH in Blast Furnace Mechanics and Iron Processing",
+                "workplace": "KTH",
+                "industry": "Education",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Studying on a Scholarship",
+                "workplace": "Germany, Switzerland, France, and the Netherlands",
+                "industry": "Education/Research",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Research Engineer",
+                "workplace": "Sandviken Ironworks AB",
+                "industry": "Metallurgy",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Head of the Metallurgy Research Department",
+                "workplace": "Sandviken Ironworks AB",
+                "industry": "Metallurgy",
+                "start_date": "1942"
+            }
+        ]
+    }
+}

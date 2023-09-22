@@ -1,0 +1,171 @@
+{
+    "original": "BJÖRK, John Emanuel, Direktör, Rönninge, f Sundsvall 24/11 73 av fabr Carl B o Hilma T Frånberg, gm Gerda Elisabet Svensson. Elem.sk o hdlsinst. Anst v Indals o Ljunga älvars flottn.bol huv.kont Sundsv 94—01, i försäkr.anst Gothia, Sthlm, sed. 01, kamrer 07—24, v. vkst dir 24—29, vkst dir 29—39, styr.-led sed. 11. Fullm i Städ allm brandst.bol o Svithiod, Städ livförsäkr.bol, styr.led i Skogs-försäkr.AB o fastigh.AB Östermalm, Sthlm. Resor: Alla världsdelar utom Austral. Hobbies: Sportfiske, trädg.skötsel. RNO, RVO, FrHL, Pro Patrias st g.med, Luftfartsförb g.med, Sundsv skyt.fören förtj.med g, Frimurare, Timmerman, Neptuniorden, Par Bricole, W 6.",
+    "translated": "BJÖRK, John Emanuel, Director, Rönninge, born Sundsvall 24/11 1873, son of factory worker Carl B and Hilma T Frånberg, married to Gerda Elisabet Svensson. Primary school and commercial education. Employed at Indals and Ljunga river rafting company main office in Sundsvall from 1894 to 1901, in the insurance company Gothia, Stockholm since 1901, accountant from 1907 to 1924, assistant managing director from 1924 to 1929, managing director from 1929 to 1939, board member since 1911. Authorized representative in the General Fire Insurance Company and Svithiod, City Life Insurance Company, board member in Forest Insurance AB and real estate company Östermalm, Stockholm. Travels: All continents except Australia. Hobbies: Sport fishing, gardening. Recipient of Order of the North Star, Order of Vasa, Order of the Polar Star, Pro Patria silver medal, Aviation Association gold medal, Sundsvall shooting association meritorious medal, Freemason, Carpenter, Neptune Order, Par Bricole, W 6.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "John Emanuel Björk",
+        "birthDate": "1873-11-24",
+        "birthPlace": "Sundsvall",
+        "deathDate": "",
+        "description": "Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Rönninge"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Carl B Björk",
+                "jobTitle": "Factory Worker"
+            },
+            {
+                "@type": "Person",
+                "name": "Hilma T Frånberg"
+            }
+        ],
+        "spouse": [
+            {
+                "@type": "Person",
+                "name": "Gerda Elisabet Svensson"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "educationalLevel": "Primary school"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "educationalLevel": "Commercial education"
+            }
+        ],
+        "employment": [
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Indals and Ljunga River Rafting Company",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Sundsvall"
+                    }
+                },
+                "startDate": "1894",
+                "endDate": "1901",
+                "roleName": "Employee"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Gothia",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm"
+                    }
+                },
+                "startDate": "1901",
+                "roleName": "Insurance Company Employee"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1907",
+                "endDate": "1924",
+                "roleName": "Accountant"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1924",
+                "endDate": "1929",
+                "roleName": "Assistant Managing Director"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1929",
+                "endDate": "1939",
+                "roleName": "Managing Director"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1911",
+                "roleName": "Board member"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Freemason"
+            },
+            {
+                "@type": "Organization",
+                "name": "Carpenter"
+            },
+            {
+                "@type": "Organization",
+                "name": "Neptune Order"
+            },
+            {
+                "@type": "Organization",
+                "name": "Par Bricole"
+            },
+            {
+                "@type": "Organization",
+                "name": "W 6"
+            }
+        ],
+        "travelerType": "World traveler",
+        "hobbies": [
+            "Sport fishing",
+            "Gardening"
+        ],
+        "awards": [
+            {
+                "@type": "Order",
+                "name": "Order of the North Star"
+            },
+            {
+                "@type": "Order",
+                "name": "Order of Vasa"
+            },
+            {
+                "@type": "Order",
+                "name": "Order of the Polar Star"
+            },
+            {
+                "@type": "Medal",
+                "name": "Pro Patria silver medal"
+            },
+            {
+                "@type": "Medal",
+                "name": "Aviation Association gold medal"
+            },
+            {
+                "@type": "Medal",
+                "name": "Sundsvall shooting association meritorious medal"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Accountant",
+                "workplace": "Gothia",
+                "industry": "Insurance",
+                "start_date": "1907"
+            },
+            {
+                "occupational_title": "Assistant Managing Director",
+                "workplace": "Gothia",
+                "industry": "Insurance",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "Gothia",
+                "industry": "Insurance",
+                "start_date": "1929"
+            }
+        ]
+    }
+}

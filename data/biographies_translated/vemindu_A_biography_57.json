@@ -1,0 +1,93 @@
+{
+    "original": "AHLSTRÖM, Arne Johannes, Civilingenjör, Stockholm, f Ljusdal, Gävleb l, 9/5 09 av stnsförest Knut A o Margareta Rehn, gm Margareta Sjöblom. Studex Söderh 29, KTH (maskinbyggn o mek tekn) 31—35. Anst Sv maskinind.frn 36, AB Rosenblads patenter sed. 36.",
+    "translated": "AHLSTRÖM, Arne Johannes, Engineer, Stockholm, b Ljusdal, Gävleborg county, 9/5 09, son of station manager Knut A and Margareta Rehn, married to Margareta Sjöblom. Graduated from Söderh 29, Royal Institute of Technology (mechanical engineering) 31-35. Employed in Swedish machinery industry from 36, at AB Rosenblads patents since 36.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Arne Johannes Ahlström",
+        "birthDate": "1909-05-09",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Ljusdal"
+        },
+        "nationality": {
+            "@type": "Country",
+            "name": "Sweden"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Knut A Ahlström",
+                "jobTitle": "Station Manager"
+            },
+            {
+                "@type": "Person",
+                "name": "Margareta Rehn"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Margareta Sjöblom"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Studex",
+            "educationalLevel": "Graduate",
+            "educationalProgram": "Söderh",
+            "educationalInstitution": {
+                "@type": "EducationalOrganization",
+                "name": "Royal Institute of Technology",
+                "location": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm"
+                }
+            },
+            "startDate": "1929",
+            "endDate": "1935"
+        },
+        "work": [
+            {
+                "@type": "Employment",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Swedish machinery industry"
+                },
+                "startDate": "1936"
+            },
+            {
+                "@type": "Employment",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "AB Rosenblads patents"
+                },
+                "startDate": "1936"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civilingenjör",
+                "workplace": "Stockholm",
+                "industry": "",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Anst Sv maskinind",
+                "workplace": "",
+                "industry": "Swedish machinery industry",
+                "start_date": "1936"
+            },
+            {
+                "occupational_title": "AB Rosenblads patenter",
+                "workplace": "",
+                "industry": "",
+                "start_date": "1936"
+            }
+        ]
+    }
+}

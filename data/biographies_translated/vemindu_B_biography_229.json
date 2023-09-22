@@ -1,0 +1,119 @@
+{
+    "original": "BJURI.E, Carl August Vilhelm, Direktör, Växjö, f ö Torsås 2/9 86 av handl P G Magnusson o Lena Petersson, gm Vilma Bjurle. Hdlssk. Börj eg aff.rör 07. Dir f Grand va-rumag AB Växjö, etabl av B ss fam.bol 24; sonen Volmar B nu disp i föret o fru Vilma B ch f dess damavdgr. Ag Billa Nygård, Åryd, o fastgh östanlid Växjö. Hobbies: Biljard o film.",
+    "translated": "BJURI.E, Carl August Vilhelm, Director, Växjö, born in Torsås on September 2, 1886, son of merchant P G Magnusson and Lena Petersson, married to Vilma Bjurle. Attended commercial school. Started own business in 1907. Director of Grand department store in Växjö. Established B ss family company in 1924. Son Volmar is currently managing the company, and his wife Vilma B is in charge of the women's department. Owns property in Billa Nygård, Åryd, and has a summer cottage in the eastern part of Växjö. Hobbies: Billiards and film.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "givenName": "Carl",
+        "additionalName": "August",
+        "familyName": "Vilhelm",
+        "jobTitle": "Director",
+        "birthDate": "1886-09-02",
+        "birthPlace": "Torsås",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Växjö"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "givenName": "P G",
+                "familyName": "Magnusson",
+                "jobTitle": "Merchant"
+            },
+            {
+                "@type": "Person",
+                "givenName": "Lena",
+                "familyName": "Petersson"
+            }
+        ],
+        "spouse": [
+            {
+                "@type": "Person",
+                "name": "Vilma Bjurle"
+            }
+        ],
+        "educationalCredentialAwarded": "Attended commercial school",
+        "owns": [
+            {
+                "@type": "Place",
+                "name": "Billa Nygård",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Åryd"
+                }
+            },
+            {
+                "@type": "Place",
+                "name": "Summer Cottage",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Växjö"
+                },
+                "description": "Eastern part of Växjö"
+            }
+        ],
+        "hobbies": [
+            "Billiards",
+            "Film"
+        ],
+        "businesses": [
+            {
+                "@type": "Organization",
+                "name": "Grand",
+                "jobTitle": "Director",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Växjö"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "B ss family company",
+                "dateFounded": "1924",
+                "founders": [
+                    {
+                        "@type": "Person",
+                        "givenName": "Carl August Vilhelm",
+                        "familyName": "BJURI.E"
+                    }
+                ],
+                "employees": [
+                    {
+                        "@type": "Person",
+                        "givenName": "Volmar",
+                        "familyName": "B"
+                    },
+                    {
+                        "@type": "Person",
+                        "givenName": "Vilma",
+                        "familyName": "B",
+                        "jobTitle": "Women's Department Manager"
+                    }
+                ]
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Grand department store",
+                "industry": "Retail",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "B ss family company",
+                "industry": "Unknown",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "B ss family company",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

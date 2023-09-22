@@ -1,0 +1,242 @@
+{
+    "original": "AHLGREN, Bengt Adolf, Konsul, Gävle, f Gävle 27/6 00 av dir Adolf A o Anna Maria Preutz, gm Margit Öberg. Studex Gävle 19, jur kand Upps 26, Sthlms hdlshögsk 30, tjg 1 Falu doms 27, på adv.kont i Lubeck 28 o i Gävle 30, v F Ahlgrens Tekn Fabr.AB 30, styr.led o v. vkst dir i Läkerolkonc (F Ahlgrens Tekn FabriksAB, AB Kartonnage, AB Pastill, AB Läkerol), fullm i Gävle hdlskamm sed. 42, dansk v. kons sed. 42. Resor: Danm, Holl Belg, Engl, Frankr, Schweiz, Tjeckoslov/ Tyskl, Finl, Norge 30—39. FrimO, Ro-tary, Gävle, Gävle hdlsklubb, Gävle köpm.frn. Hobby: Friluftsliv o sport.",
+    "translated": "AHLGREN, Bengt Adolf, Consul, Gävle, born Gävle 27/6 1900, son of director Adolf A and Anna Maria Preutz, married to Margit Öberg. Completed high school in Gävle in 1919, graduated with a law degree from Uppsala University in 1926, Stockholm School of Business in 1930. Employed at Falu district court in 1927, at a law firm in Lubeck in 1928, and in Gävle in 1930. Joined F Ahlgrens Tekn Fabr.AB in 1930, held positions on the board of directors and as deputy managing director in Läkerolkonc (F Ahlgrens Tekn FabriksAB, AB Kartonnage, AB Pastill, AB Läkerol). Authorized representative at Gävle Chamber of Commerce since 1942, Danish deputy consul since 1942. Traveled to Denmark, the Netherlands, Belgium, England, France, Switzerland, Czechoslovakia/Germany, Finland, Norway between 1930-1939. Member of Freemasons, Rotary, Gävle, Gävle Commerce Club, and Gävle Merchants Association. Hobbies: Outdoor activities and sports.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Bengt Adolf Ahlgren",
+        "birthDate": "1900-06-27",
+        "birthPlace": "Gävle",
+        "deathDate": null,
+        "description": "Consul",
+        "spouse": {
+            "@type": "Person",
+            "name": "Margit Öberg"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Adolf A Ahlgren",
+                "jobTitle": "Director"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Maria Preutz"
+            }
+        ],
+        "education": [
+            {
+                "@type": "HighSchool",
+                "name": "Gävle High School",
+                "endDate": "1919"
+            },
+            {
+                "@type": "CollegeOrUniversity",
+                "name": "Uppsala University",
+                "degree": {
+                    "@type": "EducationalOccupationalCredential",
+                    "name": "Law Degree"
+                },
+                "endDate": "1926"
+            },
+            {
+                "@type": "CollegeOrUniversity",
+                "name": "Stockholm School of Business",
+                "endDate": "1930"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1927",
+                "endDate": null,
+                "roleName": "Falu District Court",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Falu District Court",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Falu"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1928",
+                "endDate": null,
+                "roleName": "Law firm in Lubeck",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Law Firm in Lubeck",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Lubeck"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1930",
+                "endDate": null,
+                "roleName": "Law firm in Gävle",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Law Firm in Gävle",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Gävle"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1930",
+                "endDate": null,
+                "roleName": "F Ahlgrens Tekn Fabr.AB",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "F Ahlgrens Tekn Fabr.AB",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Gävle"
+                    },
+                    "founders": [
+                        {
+                            "@type": "Person",
+                            "name": "F Ahlgren"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "BoardMember",
+                "startDate": null,
+                "endDate": null,
+                "roleName": "Board of Directors/Deputy Managing Director in Läkerolkonc",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Läkerolkonc",
+                    "founders": [
+                        {
+                            "@type": "Organization",
+                            "name": "F Ahlgrens Tekn FabriksAB"
+                        },
+                        {
+                            "@type": "Organization",
+                            "name": "AB Kartonnage"
+                        },
+                        {
+                            "@type": "Organization",
+                            "name": "AB Pastill"
+                        },
+                        {
+                            "@type": "Organization",
+                            "name": "AB Läkerol"
+                        }
+                    ]
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Gävle Chamber of Commerce",
+                "foundingDate": "1942"
+            },
+            {
+                "@type": "Organization",
+                "name": "Danish Consulate",
+                "foundingDate": "1942"
+            },
+            {
+                "@type": "Organization",
+                "name": "Freemasons"
+            },
+            {
+                "@type": "Organization",
+                "name": "Rotary Club"
+            },
+            {
+                "@type": "Organization",
+                "name": "Gävle Commerce Club"
+            },
+            {
+                "@type": "Organization",
+                "name": "Gävle Merchants Association"
+            }
+        ],
+        "memberOfSportsTeam": [],
+        "hobbies": [
+            "Outdoor activities",
+            "Sports"
+        ],
+        "nationality": "Sweden",
+        "knowsAbout": [
+            "Swedish family history"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Studex",
+                "workplace": "Gävle",
+                "industry": "Education",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Jur kand",
+                "workplace": "Uppsala University",
+                "industry": "Education",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Tjg",
+                "workplace": "Falu district court",
+                "industry": "Law",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Advocate intern",
+                "workplace": "Law firm in Lubeck",
+                "industry": "Law",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Advocate intern",
+                "workplace": "Gävle",
+                "industry": "Law",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "F Ahlgrens Tekn Fabr.AB",
+                "workplace": "Ahlgrens Tekn Fabr.AB",
+                "industry": "Manufacturing",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Board member",
+                "workplace": "Läkerolkonc",
+                "industry": "Confectionery",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Deputy managing director",
+                "workplace": "Läkerolkonc",
+                "industry": "Confectionery",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Authorized representative",
+                "workplace": "Gävle Chamber of Commerce",
+                "industry": "Commerce",
+                "start_date": "1942"
+            },
+            {
+                "occupational_title": "Danish deputy consul",
+                "workplace": "Gävle",
+                "industry": "Diplomacy",
+                "start_date": "1942"
+            }
+        ]
+    }
+}

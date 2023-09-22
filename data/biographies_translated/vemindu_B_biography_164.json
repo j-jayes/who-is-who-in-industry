@@ -1,0 +1,124 @@
+{
+    "original": "BERGSON, Samuel, Direktör, Karlstad, f Krist 28/12 79 av grosshandl B B och Dora Peltin. Krist h a lärov. Anst Fredriksbergs brukshdl 97—98, lag.bokh fma L Klein, Karlst, 99—00, d:o fma B Bergson &amp; Söner (num AB) 00—12, deläg o aff.led 12—32, vkst dir sed. 32 o styr.led. Resor: Tyskl, Engl, Frankr. Hobbies: Jakt, fiske, vintersport.",
+    "translated": "BERGSON, Samuel, Director, Karlstad, born on December 28, 1879, to wholesale trader B B and Dora Peltin. Christian education. Employed at Fredriksbergs brukshandel in 1897-1898, assistant bookkeeper at L Klein, Karlstad, in 1899-1900, then bookkeeper at B Bergson & Sons (now AB) from 1900 to 1912. Became a partial owner and business manager from 1912 to 1932, and later became the director of the company. Also served as a board member. Has traveled to Germany, England, and France. Hobbies include hunting, fishing, and winter sports. Note: '\\d\\d m. partner's name' indicates a marriage in the year 19xx.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Samuel Bergson",
+        "jobTitle": "Director",
+        "birthDate": "1879-12-28",
+        "birthPlace": "Karlstad",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "B B",
+                "jobTitle": "Wholesale Trader"
+            },
+            {
+                "@type": "Person",
+                "name": "Dora Peltin"
+            }
+        ],
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Christian Education"
+        },
+        "workExperience": [
+            {
+                "@type": "Organization",
+                "name": "Fredriksbergs Brukshandel",
+                "startDate": "1897",
+                "endDate": "1898",
+                "jobTitle": "Employee"
+            },
+            {
+                "@type": "Organization",
+                "name": "L Klein",
+                "location": "Karlstad",
+                "startDate": "1899",
+                "endDate": "1900",
+                "jobTitle": "Assistant Bookkeeper"
+            },
+            {
+                "@type": "Organization",
+                "name": "B Bergson & Sons",
+                "location": "Karlstad",
+                "startDate": "1900",
+                "endDate": "1912",
+                "jobTitle": "Bookkeeper"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB",
+                "startDate": "1912",
+                "endDate": "1932",
+                "jobTitle": "Partial Owner and Business Manager"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB",
+                "startDate": "1932",
+                "jobTitle": "Director",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "B Bergson & Sons"
+                }
+            }
+        ],
+        "boardMembership": [
+            {
+                "@type": "Organization",
+                "name": "B Bergson & Sons"
+            }
+        ],
+        "nationality": "Swedish",
+        "hasOccupation": {
+            "@type": "OccupationalActivity",
+            "name": "Director"
+        },
+        "hasTravelHistory": [
+            "Germany",
+            "England",
+            "France"
+        ],
+        "hobbies": [
+            "Hunting",
+            "Fishing",
+            "Winter Sports"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Employed at Fredriksbergs brukshandel",
+                "workplace": "Fredriksbergs brukshandel",
+                "industry": "Unknown",
+                "start_date": "1897"
+            },
+            {
+                "occupational_title": "Assistant bookkeeper",
+                "workplace": "L Klein",
+                "industry": "Unknown",
+                "start_date": "1899"
+            },
+            {
+                "occupational_title": "Bookkeeper",
+                "workplace": "B Bergson & Sons (now AB)",
+                "industry": "Unknown",
+                "start_date": "1900"
+            },
+            {
+                "occupational_title": "Partial owner and business manager",
+                "workplace": "B Bergson & Sons (now AB)",
+                "industry": "Unknown",
+                "start_date": "1912"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "B Bergson & Sons (now AB)",
+                "industry": "Unknown",
+                "start_date": "1932"
+            }
+        ]
+    }
+}

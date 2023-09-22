@@ -1,0 +1,163 @@
+{
+    "original": "BERGMAN, Folke, Verkställande direktör, Kapten, Nockeby, f Sthlm 9/10 02 av just.råd B O B o Walberg Nyman, gm Wal-borg Forsberg. ÖReal, Schartaus, HHS, resoffex. Anst H Fölsch &amp; Co Hamburg 23—24, The Alfa Laval Co Ltd London 25—30, AB Separator 30—35, Serva Järnvaru AB sed. 35, vkst dir o styr.led där. Ag fastigh Krokodilen nr 11 Nockeby. Resor: Tyskl 23—24, 39, Engl 25—30. Arla Coldin. Hobbies: Bridge, vira, botanik, trädgårdsodling.",
+    "translated": "BERGMAN, Folke, Managing Director, Captain, Nockeby, b. Stockholm 9/10 02, son of Barrister B O B and Walberg Nyman, m. Walborg Forsberg. Öreal, Schartaus, HHS, reserve officer. Employed at H Fölsch & Co in Hamburg 23-24, The Alfa Laval Co Ltd in London 25-30, AB Separator 30-35, Serva Järnvaru AB since 35, serving as Managing Director and Board Member there. Agent of the property Krokodilen No. 11 in Nockeby. Travel: Germany 23-24, 39, England 25-30. Member of Arla Coldin. Hobbies: Bridge, fencing, botany, gardening.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Folke Bergman",
+        "jobTitle": "Managing Director",
+        "birthDate": "1902-10-09",
+        "birthPlace": "Stockholm",
+        "father": {
+            "@type": "Person",
+            "name": "B O B",
+            "jobTitle": "Barrister"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Walberg Nyman"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Walborg Forsberg"
+        },
+        "affiliation": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Öreal"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Schartaus"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "HHS"
+            }
+        ],
+        "alumniOf": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "H Fölsch & Co"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "The Alfa Laval Co Ltd",
+                "location": "London"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "AB Separator"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Serva Järnvaru AB"
+            }
+        ],
+        "residence": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Nockeby"
+            }
+        },
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "H Fölsch & Co",
+                "startDate": "1923",
+                "endDate": "1924",
+                "location": "Hamburg"
+            },
+            {
+                "@type": "Organization",
+                "name": "The Alfa Laval Co Ltd",
+                "startDate": "1925",
+                "endDate": "1930",
+                "location": "London"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Separator",
+                "startDate": "1930",
+                "endDate": "1935"
+            },
+            {
+                "@type": "Organization",
+                "name": "Serva Järnvaru AB",
+                "startDate": "1935"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Serva Järnvaru AB",
+                "jobTitle": "Managing Director"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Arla Coldin"
+        },
+        "travelHistory": [
+            {
+                "@type": "Country",
+                "name": "Germany",
+                "startDate": "1923",
+                "endDate": "1924"
+            },
+            {
+                "@type": "Country",
+                "name": "England",
+                "startDate": "1925",
+                "endDate": "1930"
+            }
+        ],
+        "knows": [
+            {
+                "@type": "Thing",
+                "name": "Bridge"
+            },
+            {
+                "@type": "Thing",
+                "name": "Fencing"
+            },
+            {
+                "@type": "Thing",
+                "name": "Botany"
+            },
+            {
+                "@type": "Thing",
+                "name": "Gardening"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Verkställande direktör",
+                "workplace": "AB Separator",
+                "industry": "Engineering",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Styr.led.",
+                "workplace": "Serva Järnvaru AB",
+                "industry": "Retail",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Anställd",
+                "workplace": "H Fölsch & Co",
+                "industry": "Import/Export",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Anställd",
+                "workplace": "The Alfa Laval Co Ltd",
+                "industry": "Engineering",
+                "start_date": "1925"
+            }
+        ]
+    }
+}

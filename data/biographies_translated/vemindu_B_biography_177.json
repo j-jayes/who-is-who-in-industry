@@ -1,0 +1,171 @@
+{
+    "original": "BERGSTRÖM, Knut Edwin, Civilingenjör, Djursholm, f Sthlm 23/12 06 av ing K E B o Vega Norström. Studex NReal Sthlm 26, civingex KTH (avd skeppsbyggn.konst o flygteknik) 34. Int flygcertif i Engl 34. Anst v Junkers Flugzeugwerk AG i Dessau Tyskl 31, ing.elev v Bristol Aeroplane Co i Bristol Engl 34, anst v Allm Brandredskapsaffären AB i Sthlm 35-^2, anst v Kgl Patent- o Registr.-verket sed. 43. Styr.led i Allm Brandredskapsaffären AB, Sthlm, o Vattholma Bruks AB, Vattholma. Äger villa Kedalid, Gauthiod nr 3, Djursholm, o hälften av fastigh Pågen 6, Scheelegat 28, Sthlm. Resor: Ett flert aff.-resor t Tyskl, dessutom berest de fi europ länd. Hobbies: Foto, segel- o motorsport, friluftsliv.",
+    "translated": "BERGSTRÖM, Knut Edwin, Civil Engineer, Djursholm, born in Stockholm on 23/12 1906, son of engineer K.E.B. and Vega Norström. Graduated from NReal Sthlm in 1926, obtained a civil engineering degree from KTH (Department of Naval Architecture and Aeronautical Engineering) in 1934. Obtained international flight certification in England in 1934. Employed by Junkers Flugzeugwerk AG in Dessau, Germany in 1931, engineering apprentice at Bristol Aeroplane Co in Bristol, England in 1934. Employed by Allmänna Brandredskapsaffären AB in Stockholm from 1935 to 1942, employed by the Royal Patent and Registration Office since 1943. Board member of Allmänna Brandredskapsaffären AB, Stockholm, and Vattholma Bruks AB, Vattholma. Owns the villa Kedalid, Gauthiod No. 3, Djursholm, and half of the property Pågen 6, Scheelegat 28, Stockholm. Travel: Several business trips to Germany, as well as travels throughout various European countries. Hobbies: Photography, sailing, motorsports, outdoor activities.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Knut Edwin Bergström",
+        "jobTitle": "Civil Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Djursholm",
+            "addressRegion": "Stockholm"
+        },
+        "birthDate": "1906-12-23",
+        "birthPlace": "Stockholm",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "K.E.B.",
+                "jobTitle": "Engineer"
+            },
+            {
+                "@type": "Person",
+                "name": "Vega Norström"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Graduation",
+                "alumniOf": {
+                    "@type": "EducationalOrganization",
+                    "name": "NReal Sthlm"
+                },
+                "startDate": "1926"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Degree",
+                "alumniOf": {
+                    "@type": "EducationalOrganization",
+                    "name": "KTH",
+                    "department": "Department of Naval Architecture and Aeronautical Engineering"
+                },
+                "startDate": "1934"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Certification",
+                "certificant": "International Flight Certification",
+                "startDate": "1934",
+                "issuer": {
+                    "@type": "Organization",
+                    "name": "England"
+                }
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Junkers Flugzeugwerk AG",
+                "location": "Dessau, Germany",
+                "startDate": "1931"
+            },
+            {
+                "@type": "Organization",
+                "name": "Bristol Aeroplane Co",
+                "location": "Bristol, England",
+                "startDate": "1934",
+                "jobTitle": "Engineering Apprentice"
+            },
+            {
+                "@type": "Organization",
+                "name": "Allmänna Brandredskapsaffären AB",
+                "location": "Stockholm",
+                "startDate": "1935",
+                "endDate": "1942",
+                "jobTitle": "Employee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Royal Patent and Registration Office",
+                "location": "Stockholm",
+                "startDate": "1943",
+                "jobTitle": "Employee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Allmänna Brandredskapsaffären AB",
+                "location": "Stockholm",
+                "jobTitle": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Vattholma Bruks AB",
+                "location": "Vattholma"
+            }
+        ],
+        "owns": [
+            {
+                "@type": "Place",
+                "name": "Villa Kedalid",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Djursholm",
+                    "addressCountry": "Sweden"
+                }
+            },
+            {
+                "@type": "Place",
+                "name": "Pågen 6",
+                "address": {
+                    "@type": "PostalAddress",
+                    "streetAddress": "Scheelegat 28",
+                    "addressLocality": "Stockholm",
+                    "addressCountry": "Sweden"
+                }
+            }
+        ],
+        "interests": [
+            "Photography",
+            "Sailing",
+            "Motorsports",
+            "Outdoor Activities"
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Allmänna Brandredskapsaffären AB",
+                "location": "Stockholm"
+            },
+            {
+                "@type": "Organization",
+                "name": "Vattholma Bruks AB",
+                "location": "Vattholma"
+            }
+        ],
+        "travelHistory": [
+            "Germany",
+            "Europe"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Junkers Flugzeugwerk AG",
+                "industry": "Aerospace Engineering",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Engineering Apprentice",
+                "workplace": "Bristol Aeroplane Co",
+                "industry": "Aerospace Engineering",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Allmänna Brandredskapsaffären AB",
+                "industry": "Fire Equipment",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Royal Patent and Registration Office",
+                "industry": "Government",
+                "start_date": "1943"
+            }
+        ]
+    }
+}

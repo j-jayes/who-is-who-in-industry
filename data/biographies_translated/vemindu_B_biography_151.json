@@ -1,0 +1,112 @@
+{
+    "original": "BERGMAN, Knut, Ingenjör, Drängsered, f Hellum, Skarab l, 24/1 00 av förv I R B o Anna Boström, gm Inga-Lisa Arrhenius. Realex, kolarsk, ex Tekn Gymn Borås (kemi). 2:e ing v Oskarsströms Sulphite Mills AB Oskarsström 28—41 o 43, ch.ing v Hammargren &amp; Co Anneberg 41—42, driftsing h AB Sv Torv-förädling Sösdala sed. 44. Resor: Tyskl 16.",
+    "translated": "BERGMAN, Knut, Engineer, Drängsered, born in Hellum, Skaraborg County, on January 24, 1900, to parents Ivar Bergman and Anna Boström. He married Inga-Lisa Arrhenius. He completed his secondary education, followed by technical studies at the Borås Technical Gymnasium, specializing in chemistry. \n\nHe worked as a second engineer at Oskarsströms Sulphite Mills AB in Oskarsström from 1928 to 1941 and in 1943. From 1941 to 1942, he served as a chief engineer at Hammargren & Co in Anneberg. Since 1944, he has been a production engineer at AB Svensk Torv-förädling in Sösdala. He has also traveled extensively in Germany since 1916.\n\nNote: The abbreviation \"\\d\\d m. partners name\" indicates that Knut married in the 19xx.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Knut Bergman",
+        "birthDate": "1900-01-24",
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Hellum, Skaraborg County"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Ivar Bergman"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Boström"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Inga-Lisa Arrhenius"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Secondary",
+                "educationalLevel": "Realex"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Technical",
+                "educationalLevel": "Examination",
+                "degreeName": "Tekn Gymn Borås (Chemistry)"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "title": "Second Engineer",
+                "startDate": "1928",
+                "endDate": "1941",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Oskarsströms Sulphite Mills AB",
+                    "address": "Oskarsström"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Second Engineer",
+                "startDate": "1943",
+                "endDate": "1943",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Oskarsströms Sulphite Mills AB",
+                    "address": "Oskarsström"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Chief Engineer",
+                "startDate": "1941",
+                "endDate": "1942",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Hammargren & Co",
+                    "address": "Anneberg"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Production Engineer",
+                "startDate": "1944",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Svensk Torv-förädling",
+                    "address": "Sösdala"
+                }
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Germany"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Oskarsströms Sulphite Mills AB",
+                "industry": "Pulp and Paper",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Chief Engineer",
+                "workplace": "Hammargren & Co",
+                "industry": "Unknown",
+                "start_date": "1941"
+            },
+            {
+                "occupational_title": "Production Engineer",
+                "workplace": "AB Svensk Torv-förädling",
+                "industry": "Peat Processing",
+                "start_date": "1944"
+            }
+        ]
+    }
+}

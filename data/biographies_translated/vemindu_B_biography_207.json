@@ -1,0 +1,248 @@
+{
+    "original": "BEYER, Robert Theodor, Konsul, Göteborg, f Gbg 15/8 70 av hdls.trädg.m H B o Fredrique Bartelt, gm- Astrid Bergvall. Realstudex Gbg 90, merk stud i utl 92—93. Anst träv.fma A J Ljungqvist 90—91, James Dickson &amp; Co:s ag Paris 92r—93, kons.sekr o prok h franske kons Gbg 94—01, etabl ag.fma Rob Beyer 02, deläg fma Hugo Scharfenberg &amp; Co Gbg 04— 38, exp.ch AB Pripp &amp; Lyckholm sed. 32. Led inskr.nmdn 20 år, rev hälsov.nmdn mfl kommun verk. Fransk kons Gbg sed. 40. Styr.led AB Hugo Scharfenb &amp; Co, All Franc fr 08 (ordf. sed. 40). Resor: Engl 89, Frankr 92r—93, Tyskl årl 04—14, Belg 35, Ital 37. OffFrd’A, RFrHl, Frimurare, PB, SHT, Gnistan. Hobbies: Fåglar, jakt, fiske",
+    "translated": "BEYER, Robert Theodor, Consul, Gothenburg, b. Gothenburg 15/8 70, s. of merchant gardener H B and Fredrique Bartelt, m. Astrid Bergvall. Completed high school in Gothenburg 90, further studies abroad 92-93. Employed at A J Ljungqvist timber yard 90-91, James Dickson &amp; Co's agency in Paris 92-93, consulate secretary and proxy for the French consul in Gothenburg 94-01, established agency Rob Beyer 02, co-owner of Hugo Scharfenberg &amp; Co in Gothenburg 04-38, export manager at AB Pripp &amp; Lyckholm since 32. Member of the registration committee for 20 years, council member for the health authority, among others. French consul in Gothenburg since 40. Board member of AB Hugo Scharfenberg &amp; Co, All Franc Fraternities from 08 (chairman since 40). Travels: England 89, France 92-93, Germany annually 04-14, Belgium 35, Italy 37. Officer of the French Order of Agricultural Merit, Knight of the Royal French Horticultural Society, Freemason, Member of the Photographic Society, Swedish Hunting Association, Spark. Hobbies: Birds, hunting, fishing.\n\nPlease note that the mentioned year refers to the 19xx format, e.g., 15/8 70 means August 15, 1870.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Robert Theodor Beyer",
+        "birthDate": "1870-08-15",
+        "birthPlace": "Gothenburg, Sweden",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "H B",
+                "jobTitle": "Merchant Gardener"
+            },
+            {
+                "@type": "Person",
+                "name": "Fredrique Bartelt"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Astrid Bergvall"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "high school diploma",
+            "educationalLevel": "Realstudex",
+            "educationalCredentialAwarded": "Göteborg 1890"
+        },
+        "additionalQualifications": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "educationalLevel": "Studied abroad",
+                "dateFrom": "1892",
+                "dateThrough": "1893"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1890",
+                "endDate": "1891",
+                "roleName": "Timber Yard Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "A J Ljungqvist",
+                    "location": "Gothenburg"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1892",
+                "endDate": "1893",
+                "roleName": "Agency Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "James Dickson &amp; Co",
+                    "location": "Paris"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1894",
+                "endDate": "1901",
+                "roleName": "Consulate Secretary and Proxy",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "French Consulate",
+                    "location": "Gothenburg"
+                },
+                "supervisor": {
+                    "@type": "Person",
+                    "name": "French Consul"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1902",
+                "roleName": "Agency Owner",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Rob Beyer",
+                    "location": "Gothenburg"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1904",
+                "endDate": "1938",
+                "roleName": "Co-owner",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Hugo Scharfenberg &amp; Co",
+                    "location": "Gothenburg"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1932",
+                "roleName": "Export Manager",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Pripp &amp; Lyckholm"
+                }
+            }
+        ],
+        "membershipInOrganizations": [
+            {
+                "@type": "Organization",
+                "name": "Registration Committee",
+                "duration": "20 years"
+            },
+            {
+                "@type": "Organization",
+                "name": "Health Authority",
+                "additionalName": "Council Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "French Consulate",
+                "startDate": "1940"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Hugo Scharfenberg &amp; Co",
+                "roleName": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "All Franc Fraternities",
+                "startDate": "1908",
+                "roleName": "Chairman"
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "Place",
+                "name": "England",
+                "startDate": "1889"
+            },
+            {
+                "@type": "Place",
+                "name": "France",
+                "startDate": "1892",
+                "endDate": "1893"
+            },
+            {
+                "@type": "Place",
+                "name": "Germany",
+                "startDate": "1904",
+                "endDate": "1914"
+            },
+            {
+                "@type": "Place",
+                "name": "Belgium",
+                "startDate": "1935"
+            },
+            {
+                "@type": "Place",
+                "name": "Italy",
+                "startDate": "1937"
+            }
+        ],
+        "awards": [
+            {
+                "@type": "Order",
+                "name": "French Order of Agricultural Merit",
+                "awardCategory": "Officer"
+            },
+            {
+                "@type": "Organization",
+                "name": "Royal French Horticultural Society",
+                "additionalName": "Knight"
+            },
+            {
+                "@type": "Organization",
+                "name": "Freemason"
+            },
+            {
+                "@type": "Organization",
+                "name": "Photographic Society",
+                "additionalName": "Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Hunting Association",
+                "additionalName": "Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Spark",
+                "additionalName": "Member"
+            }
+        ],
+        "hobbies": [
+            "Birds",
+            "Hunting",
+            "Fishing"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Real Estate Student",
+                "workplace": "Gothenburg",
+                "industry": "Education",
+                "start_date": "1890"
+            },
+            {
+                "occupational_title": "Timber Yard Employee",
+                "workplace": "A J Ljungqvist",
+                "industry": "Timber",
+                "start_date": "1890"
+            },
+            {
+                "occupational_title": "Agency Employee",
+                "workplace": "James Dickson & Co",
+                "industry": "International Trade",
+                "start_date": "1892"
+            },
+            {
+                "occupational_title": "Consulate Secretary and Proxy",
+                "workplace": "French Consulate in Gothenburg",
+                "industry": "Diplomacy",
+                "start_date": "1894"
+            },
+            {
+                "occupational_title": "Agency Founder",
+                "workplace": "Rob Beyer",
+                "industry": "Entrepreneurship",
+                "start_date": "1902"
+            },
+            {
+                "occupational_title": "Co-owner",
+                "workplace": "Hugo Scharfenberg & Co",
+                "industry": "Import/Export",
+                "start_date": "1904"
+            },
+            {
+                "occupational_title": "Export Manager",
+                "workplace": "AB Pripp & Lyckholm",
+                "industry": "Beverage",
+                "start_date": "1932"
+            }
+        ]
+    }
+}

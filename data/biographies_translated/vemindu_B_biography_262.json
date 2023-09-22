@@ -1,0 +1,135 @@
+{
+    "original": "BJÖRKMAN, Johan Albert Vilhelm, Direktör, Sthlm, f Sthlm 17/5 87 av grosshandl Alb B o Isabella Löwenadler, gm Elsa Lekberg. Jur kand 11. Tf domhav 13, anst v hdlskont i London 13—14, v Setterwalls adv.byrå i Sthlm 15, led av Sv adv.samf 16, dir.ass i Holmeris bruks- o fabrAB 17, omb.m i John-sonkonc 19, v. vkst dir i red.AB Nordstjernan sed. 38, styr.led där, i Avesta jernv.AB, AB Strå kalkbr, AB Josefsdals tegelbr, Sv vägAB, AB Karlst mek verkst, AB Hedemora verkst, AB Lindholmens varv, Sthlm-Nynäs jvgsAB, AB Nynäs-Petroleum, Nya murbr.fabr i Sthlm AB, Sthlms kolimp.AB, Norske Assur foren Skuld. Resor: USA, Engl, Frankr, Tyskl, Rum. RVO, KChilAO.",
+    "translated": "BJÖRKMAN, Johan Albert Vilhelm, Director, Stockholm, born in Stockholm on May 17, 1887, son of merchant Albert B and Isabella Löwenadler, married to Elsa Lekberg. Graduated with a law degree in 1911. Acting judge from 1913, employed at a commercial office in London from 1913 to 1914, at Setterwalls law firm in Stockholm in 1915, member of the Swedish Bar Association in 1916. Assistant director in Holmeris Bruks- och Fabriks AB in 1917, legal representative in John-sonkonc in 1919, deputy managing director in Rederi AB Nordstjernan in 1938, board member there, as well as in Avesta Jernverks AB, AB Strå Kalkbruk, AB Josefsdals Tegelbruk, Swedish Railway AB, AB Karlstads Mekaniska Verkstad, AB Hedemora Verkstads AB, AB Lindholmens Varv, Stockholm-Nynäs Järnvägs AB, AB Nynäs-Petroleum, Nya Murbruk AB in Stockholm, Stockholm's Coal Industry AB, Norske Assuranse Forening for Skuld. Traveled to the USA, England, France, Germany, and Romania. Awarded RVO and KChilAO.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Johan Albert Vilhelm Björkman",
+        "jobTitle": "Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "birthDate": "1887-05-17",
+        "birthPlace": "Stockholm",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Albert B"
+            },
+            {
+                "@type": "Person",
+                "name": "Isabella Löwenadler"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Elsa Lekberg"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "law degree",
+            "educationalLevel": "Juris Doctor",
+            "startDate": "1911"
+        },
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1913",
+                "endDate": "1914",
+                "roleName": "Commercial Office Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Unknown Commercial Office in London"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1915",
+                "endDate": "Present",
+                "roleName": "Associate at Setterwalls Law Firm",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Setterwalls Law Firm"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1938",
+                "endDate": "Present",
+                "roleName": "Deputy Managing Director",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Rederi AB Nordstjernan"
+                }
+            }
+        ],
+        "membership": [
+            {
+                "@type": "OrganizationMembership",
+                "startDate": "1916",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Swedish Bar Association"
+                }
+            }
+        ],
+        "awards": [
+            {
+                "@type": "Order",
+                "name": "Royal Victorian Order (RVO)"
+            },
+            {
+                "@type": "Order",
+                "name": "Order of the Chrysanthemum (KChilAO)"
+            }
+        ],
+        "travelHistory": [
+            "USA",
+            "England",
+            "France",
+            "Germany",
+            "Romania"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Acting Judge",
+                "workplace": "Tf domhav",
+                "industry": "Law",
+                "start_date": "1913"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Commercial office in London",
+                "industry": "Commerce",
+                "start_date": "1913"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Setterwalls law firm in Stockholm",
+                "industry": "Law",
+                "start_date": "1915"
+            },
+            {
+                "occupational_title": "Assistant Director",
+                "workplace": "Holmeris Bruks- och Fabriks AB",
+                "industry": "Manufacturing",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Legal Representative",
+                "workplace": "John-sonkonc",
+                "industry": "Diversified conglomerate",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Deputy Managing Director",
+                "workplace": "Rederi AB Nordstjernan",
+                "industry": "Shipping",
+                "start_date": "1938"
+            }
+        ]
+    }
+}

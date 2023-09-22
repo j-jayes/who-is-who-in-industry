@@ -1,0 +1,100 @@
+{
+    "original": "BERGMAN, Petrus Waldus, Fabrikör, Ty- ringe, f Hälsingborg 15/10 79 av fabr A B o Maria Nilsson, gm Hilda Lundberg. Hbgs elem.sk. Bokh.fma A Bergman &amp; Co Hbg 98 —01, kamr Skand Verktygsfabr AB Tyringe 01—09, disp AB’Tyringe Stansknivfabr Tyringe 09—12, vkst dir AB Bergmans Chuck-fabr Tyringe sed. 12, ag deta företag o villa Bergbacka Tyringe. Ordf Tyringe Majblomma. Resor: USA. Hobby: Jakt.",
+    "translated": "BERGMAN, Petrus Waldus, Manufacturer, born in Hälsingborg on October 15, 1879, son of factory owner A. B. Bergman and Maria Nilsson, married to Hilda Lundberg. Attended elementary school in Helsingborg. Worked at the accounting department of A. Bergman & Co from 1898 to 1901, became an assistant manager at Skand Verktygsfabr AB in Tyringe from 1901 to 1909, served as a manager at AB Tyringe Stansknivfabr in Tyringe from 1909 to 1912, and has been the managing director of AB Bergmans Chuck-fabr in Tyringe since 1912. Owns the company and resides in Villa Bergbacka, Tyringe. Chairman of the Tyringe Majblomma charity. Traveled to the United States. Hobbies include hunting.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Petrus Waldus Bergman",
+        "birthDate": "1879-10-15",
+        "birthPlace": "Hälsingborg",
+        "father": {
+            "@type": "Person",
+            "name": "A. B. Bergman"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Maria Nilsson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Hilda Lundberg"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Hbgs elem.sk."
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "A Bergman & Co",
+                "employeeStartDate": "1898",
+                "employeeEndDate": "1901",
+                "department": "Accounting"
+            },
+            {
+                "@type": "Organization",
+                "name": "Skand Verktygsfabr AB",
+                "employeeStartDate": "1901",
+                "employeeEndDate": "1909",
+                "jobTitle": "Assistant Manager"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Tyringe Stansknivfabr",
+                "employeeStartDate": "1909",
+                "employeeEndDate": "1912",
+                "jobTitle": "Manager"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Bergmans Chuck-fabr",
+                "employeeStartDate": "1912",
+                "jobTitle": "Managing Director"
+            }
+        ],
+        "owns": [
+            {
+                "@type": "Organization",
+                "name": "AB Bergmans Chuck-fabr"
+            },
+            {
+                "@type": "Place",
+                "name": "Villa Bergbacka, Tyringe"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Tyringe Majblomma"
+        },
+        "knowsAbout": "Jakt",
+        "sameAs": "http://example.com/petrus-bergman"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Manufacturer",
+                "workplace": "A. Bergman & Co",
+                "industry": "Unknown",
+                "start_date": "1898"
+            },
+            {
+                "occupational_title": "Assistant Manager",
+                "workplace": "Skand Verktygsfabr AB",
+                "industry": "Tool manufacturing",
+                "start_date": "1901"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "AB Tyringe Stansknivfabr",
+                "industry": "Knife manufacturing",
+                "start_date": "1909"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "AB Bergmans Chuck-fabr",
+                "industry": "Chuck manufacturing",
+                "start_date": "1912"
+            }
+        ]
+    }
+}

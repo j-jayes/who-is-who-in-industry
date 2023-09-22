@@ -1,0 +1,165 @@
+{
+    "original": "BIGNER, Folke Magne Natanael, Civilingenjör, Stockholm, f Norra Sandsjö, Jönkps l, 20/6 00 av fabr J G Petersson o Selma Pettersson, gm Nora Starck. Studex Jönkp 20, KTH (E) 21—25. Elev v ASEA 20—21 o 25— 26, bitr konsult ing h lektor E Zachrisson i Västerås 26—27, offerting v Elektr AB Siemens i Sthlm 27—28, offerting v Brown Boveri Ing.byrå i Sthlm 28—34, deläg o tekn led i AB Dulac i Sthlm sed. 34 (gen.ag f E I du Pont de Nemours, Parlin, N J, USA).",
+    "translated": "BIGNER, Folke Magne Natanael, Civil Engineer, Stockholm, b. Norra Sandsjö, Jönkoping county, June 20, 1900, to factory worker J.G. Petersson and Selma Pettersson, m. Nora Starck. Graduated from Jönköping's Gymnasium in 1920, with KTH (Royal Institute of Technology) (E) studies from 1921 to 1925. Trainee at ASEA from 1920 to 1921 and 1925 to 1926, assistant consultant for engineer E. Zachrisson in Västerås from 1926 to 1927, estimator at Elektr AB Siemens in Stockholm from 1927 to 1928, estimator at Brown Boveri Engineering Office in Stockholm from 1928 to 1934, co-owner and technical leader at AB Dulac in Stockholm since 1934 (the general agency for E.I. du Pont de Nemours, Parlin, NJ, USA).",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Folke Magne Natanael Bigner",
+        "jobTitle": "Civil Engineer",
+        "birthDate": "1900-06-20",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Norra Sandsjö"
+        },
+        "nationality": "Swedish",
+        "father": {
+            "@type": "Person",
+            "name": "J.G. Petersson",
+            "jobTitle": "Factory Worker"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Selma Pettersson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Nora Starck"
+        },
+        "education": [
+            {
+                "@type": "HighSchool",
+                "name": "Jönköping's Gymnasium",
+                "endDate": "1920"
+            },
+            {
+                "@type": "CollegeOrUniversity",
+                "name": "KTH (Royal Institute of Technology)",
+                "courseMode": "full-time",
+                "startDate": "1921",
+                "endDate": "1925"
+            }
+        ],
+        "workExperience": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1920",
+                "endDate": "1921",
+                "roleName": "Trainee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "ASEA"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1925",
+                "endDate": "1926",
+                "roleName": "Trainee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "ASEA"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1926",
+                "endDate": "1927",
+                "roleName": "Assistant Consultant",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "E. Zachrisson"
+                },
+                "location": {
+                    "@type": "City",
+                    "name": "Västerås"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1927",
+                "endDate": "1928",
+                "roleName": "Estimator",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Elektr AB Siemens"
+                },
+                "location": {
+                    "@type": "City",
+                    "name": "Stockholm"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1928",
+                "endDate": "1934",
+                "roleName": "Estimator",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Brown Boveri Engineering Office"
+                },
+                "location": {
+                    "@type": "City",
+                    "name": "Stockholm"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1934",
+                "roleName": "Co-owner and Technical Leader",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Dulac",
+                    "location": {
+                        "@type": "City",
+                        "name": "Stockholm"
+                    }
+                }
+            }
+        ],
+        "deathDate": "YYYY-MM-DD",
+        "deathPlace": {
+            "@type": "City",
+            "name": "City Name"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Trainee",
+                "workplace": "ASEA",
+                "industry": "Electrical Engineering",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Trainee",
+                "workplace": "ASEA",
+                "industry": "Electrical Engineering",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Assistant Consultant",
+                "workplace": "Engineer E. Zachrisson",
+                "industry": "Consulting",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Estimator",
+                "workplace": "Elektr AB Siemens",
+                "industry": "Electrical Engineering",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Estimator",
+                "workplace": "Brown Boveri Engineering Office",
+                "industry": "Engineering",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Co-owner and Technical Leader",
+                "workplace": "AB Dulac",
+                "industry": "General Agency for E.I. du Pont de Nemours",
+                "start_date": "1934"
+            }
+        ]
+    }
+}

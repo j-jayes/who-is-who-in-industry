@@ -1,0 +1,141 @@
+{
+    "original": "BIRKE, Emanuel, Grosshandlare, Rönninge, f över-Järna 11/11 93. Realex Södertälje 10. Anst Vagnfabr AB i Södertälje o Surahammars Br AB t 12, v Sthlms Ensk Bk 12—18, kamr v bankirfma 19—23. Eg fma, E Birke &amp; Co, Sthlm, trikåv i parti, sed. 24, vkst dir dna. Led 2:a kamm, Idstm Sthlms l, v. ordf ds förvaltn.utsk o vårdhemsdir, led dir f länslas i Södertälje o sjukh Eira, led ktén f Karolinska sjukh :s vidare utbyggn. Ordf Salems högerfrn, styr.led högerns länsfrb i Sthlms l, i ds presidium, led ds arb.utsk, ordf i Salems komm.nmd o komm.flm mm.",
+    "translated": "BIRKE, Emanuel, Merchant, Rönninge, b. över-Järna 11/11 93. Completed secondary education in Södertälje 1910. Employed by Vagnfabr AB in Södertälje and Surahammars Br AB until 1912, then joined Sthlms Ensk Bk until 1918. Became partner in a banking firm from 1919 to 1923. Established own company, E Birke & Co, Stockholm, specializing in wholesale clothing, since 1924. Currently serves as the company's managing director. Member of the 2nd Chamber, Idstm Sthlms l, and deputy chairman of the administration committee and director of the nursing home. Also, serves as a board member of the county council in Södertälje and Eira hospital, as well as a member of the board of trustees for Karolinska hospital for its further expansion. Chairman of Salems right-wing party, board member of the right-wing county federation in Sthlms l, and in the executive committee. Serves as a member of the work committee and chairman of the Salem municipal committee and municipality council, among other positions.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Emanuel Birke",
+        "birthDate": "1893-11-11",
+        "birthPlace": "över-Järna",
+        "description": "Merchant",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Rönninge"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "SecondaryEducation",
+            "educationalLevel": "SecondaryEducation",
+            "educationalCredentialAwarded": "Realex",
+            "provider": {
+                "@type": "EducationalOrganization",
+                "name": "Södertälje"
+            },
+            "endDate": "1910"
+        },
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "Vagnfabr AB",
+                "location": "Södertälje",
+                "endDate": "1912"
+            },
+            {
+                "@type": "Organization",
+                "name": "Surahammars Br AB",
+                "location": "Södertälje",
+                "endDate": "1912"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sthlms Ensk Bk",
+                "location": "Stockholm",
+                "startDate": "1912",
+                "endDate": "1918"
+            },
+            {
+                "@type": "Organization",
+                "name": "E Birke & Co",
+                "location": "Stockholm",
+                "foundingDate": "1924",
+                "founders": "Emanuel Birke",
+                "description": "Wholesale clothing"
+            }
+        ],
+        "jobTitle": "Managing Director",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "2nd Chamber, Idstm Sthlms l"
+            },
+            {
+                "@type": "Organization",
+                "name": "Administration Committee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Nursing Home"
+            },
+            {
+                "@type": "Organization",
+                "name": "County Council in Södertälje"
+            },
+            {
+                "@type": "Organization",
+                "name": "Eira Hospital"
+            },
+            {
+                "@type": "Organization",
+                "name": "Board of Trustees for Karolinska Hospital"
+            },
+            {
+                "@type": "Organization",
+                "name": "Salems Right-Wing Party"
+            },
+            {
+                "@type": "Organization",
+                "name": "Right-Wing County Federation in Sthlms l"
+            },
+            {
+                "@type": "Organization",
+                "name": "Executive Committee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Work Committee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Municipal Committee, Salem"
+            },
+            {
+                "@type": "Organization",
+                "name": "Municipality Council, Salem"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Vagnfabr AB",
+                "industry": "Automotive manufacturing",
+                "start_date": "unknown"
+            },
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Surahammars Br AB",
+                "industry": "Metal manufacturing",
+                "start_date": "unknown"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Sthlms Ensk Bk",
+                "industry": "Banking",
+                "start_date": "1912"
+            },
+            {
+                "occupational_title": "Partner",
+                "workplace": "Banking firm",
+                "industry": "Banking",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "E Birke & Co",
+                "industry": "Wholesale clothing",
+                "start_date": "1924"
+            }
+        ]
+    }
+}

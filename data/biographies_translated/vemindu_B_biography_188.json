@@ -1,0 +1,82 @@
+{
+    "original": "BERGA, Karl Yngve Håkan, Ingenjör, Örebro, f Örebro 26/10 02 av ingenjör Frithiof Svensson o h h, gm Ingrid Helgeson. Ex Öbr tekn gymn 23, stud v Chemisches Lab Fresenius i Wiesbaden 26. Bitr ing v AB öbr Kem Tekn Fabr 23—27, driftsing v Ekströms Kem Tekn AB i öbr sed. 27.",
+    "translated": "BERGA, Karl Yngve Håkan, Engineer, Örebro, b Örebro 26/10 02, the son of engineer Frithiof Svensson and his wife, married to Ingrid Helgeson. Former student at Örebro technical gymnastics school in 1923, studied at Chemisches Lab Fresenius in Wiesbaden in 1926. Assistant engineer at AB Örebro Kem Tekn Fabr from 1923 to 1927, plant engineer at Ekströms Kem Tekn AB in Örebro since 1927.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Karl Yngve Håkan Berga",
+        "birthDate": "1902-10-26",
+        "birthPlace": "Örebro",
+        "description": "Engineer",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Frithiof Svensson",
+                "description": "Engineer"
+            },
+            {
+                "@type": "Person",
+                "name": "Mrs. Frithiof Svensson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ingrid Helgeson"
+        },
+        "alumniOf": {
+            "@type": "EducationalOrganization",
+            "name": "Örebro Technical Gymnastics School"
+        },
+        "education": {
+            "@type": "CollegeOrUniversity",
+            "name": "Chemisches Lab Fresenius",
+            "location": "Wiesbaden",
+            "startDate": "1926"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "AB Örebro Kem Tekn Fabr",
+                "roleName": "Assistant Engineer",
+                "startDate": "1923",
+                "endDate": "1927",
+                "location": "Örebro"
+            },
+            {
+                "@type": "Organization",
+                "name": "Ekströms Kem Tekn AB",
+                "roleName": "Plant Engineer",
+                "startDate": "1927",
+                "location": "Örebro"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Former student",
+                "workplace": "Örebro technical gymnastics school",
+                "industry": "Education",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Student",
+                "workplace": "Chemisches Lab Fresenius",
+                "industry": "Chemistry",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Assistant engineer",
+                "workplace": "AB Örebro Kem Tekn Fabr",
+                "industry": "Chemical technology",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Plant engineer",
+                "workplace": "Ekströms Kem Tekn AB",
+                "industry": "Chemical technology",
+                "start_date": "1927"
+            }
+        ]
+    }
+}

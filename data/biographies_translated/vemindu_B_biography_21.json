@@ -1,0 +1,142 @@
+{
+    "original": "BAUMGARDT, Jonas Edvard, Fabrikör, Linköping, f Linkp 25/10 80 av fabr JOB 0 Kerstin Nestor, gm Kerstin Lilljequist. Studex, Gbgs hdlsinst. Anst i bk 04—05, Sv Telegr.byr red 06—09. Hälftenäg i J O Baum-gardts pianofabr (gr i Sthlm 1857, fi. t Linkp 1871, kungl hovlev 17) o fast. Eolus 4 Linkp. Fd ordf Linkps fattiv.styr o led av stdflm, fn suppl i bygg.nmdn. Styr.led Fast.AB öster-gyllen. Rev Fast.AB Västanstång. Resor: Tyskl 10, 11 o 13, Österr 13. Odd Fellow (Ex. ö.M o H.P.). Hobbies: Fiske, svamp.",
+    "translated": "BAUMGARDT, Jonas Edvard, Manufacturer, Linköping, born in Linköping on October 25, 1880, the son of Job Baumgardt and Kerstin Nestor. Married to Kerstin Lilljequist. Studied at Gothenburg Commercial Institute. Employed in the banking sector from 1904 to 1905, then worked as an editor in the Swedish Telegraph Office from 1906 to 1909. Co-owned J. O. Baumgardt's piano factory (established in Stockholm in 1857, moved to Linköping in 1871, granted a royal court warrant in 1917) and Eolus 4 in Linköping. Former chairman of Linköping's poor relief board and member of the city's welfare association, currently a substitute member of the construction committee. Board member of East-Gyllen Real Estate AB. Former board member of West-Steel Real Estate AB. Travelled to Germany in 1910, 1911, and 1913, as well as Austria in 1913. Member of the Odd Fellows society (Exalted Master and High Priest). Hobbies: Fishing, mushroom picking.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Jonas Edvard Baumgardt",
+        "birthDate": "1880-10-25",
+        "birthPlace": "Linköping",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Job Baumgardt"
+            },
+            {
+                "@type": "Person",
+                "name": "Kerstin Nestor"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Kerstin Lilljequist"
+        },
+        "educationalCredentialAwarded": "Studex from Gothenburg Commercial Institute",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Swedish Telegraph Office"
+        },
+        "workLocation": "Linköping",
+        "occupation": "Manufacturer",
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "title": "Editor",
+                "startDate": "1906",
+                "endDate": "1909",
+                "worksFor": {
+                    "@type": "Organization",
+                    "name": "Swedish Telegraph Office"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Employee",
+                "startDate": "1904",
+                "endDate": "1905",
+                "worksFor": {
+                    "@type": "Organization",
+                    "name": "Banking Sector"
+                }
+            }
+        ],
+        "owns": [
+            {
+                "@type": "Organization",
+                "name": "J. O. Baumgardt's Piano Factory",
+                "foundingDate": "1857",
+                "location": {
+                    "@type": "Place",
+                    "name": "Stockholm"
+                },
+                "moveLocation": {
+                    "@type": "Place",
+                    "name": "Linköping"
+                },
+                "royalCourtWarrantDate": "1917"
+            },
+            {
+                "@type": "Place",
+                "name": "Eolus 4",
+                "location": {
+                    "@type": "Place",
+                    "name": "Linköping"
+                }
+            }
+        ],
+        "memberships": [
+            {
+                "@type": "Organization",
+                "name": "Odd Fellows",
+                "membershipType": "Exalted Master"
+            },
+            {
+                "@type": "Organization",
+                "name": "Odd Fellows",
+                "membershipType": "High Priest"
+            }
+        ],
+        "hobbies": [
+            "Fishing",
+            "Mushroom picking"
+        ],
+        "travels": [
+            {
+                "@type": "Trip",
+                "destination": "Germany",
+                "startDate": "1910",
+                "endDate": "1910"
+            },
+            {
+                "@type": "Trip",
+                "destination": "Germany",
+                "startDate": "1911",
+                "endDate": "1911"
+            },
+            {
+                "@type": "Trip",
+                "destination": "Germany",
+                "startDate": "1913",
+                "endDate": "1913"
+            },
+            {
+                "@type": "Trip",
+                "destination": "Austria",
+                "startDate": "1913",
+                "endDate": "1913"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Manufacturer",
+                "workplace": "Linköping",
+                "industry": "Factory",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Bank Employee",
+                "workplace": "Unknown",
+                "industry": "Banking",
+                "start_date": "1904"
+            },
+            {
+                "occupational_title": "Editor",
+                "workplace": "Swedish Telegraph Office",
+                "industry": "Telecommunications",
+                "start_date": "1906"
+            }
+        ]
+    }
+}

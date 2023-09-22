@@ -1,0 +1,197 @@
+{
+    "original": "BERGVALL, Magnus Julius Maurus, Direktör, Stockholm, f Hammarby förs, Sthlms 1. 68 av folkskoll o org A M B o Hedvig Wallin. Folksoll. ex Upps 88, org.ex V.ås 89. Folkskoll o org Sparrsätra förs 88—89, Västermo förs 89—93, folkskoll Sthlm 93—08. Grund 00 fma Magnus Bergvall, som ombild t AB 18 med B som vkst dir sed. dess. Spec: skolboksförl. tillv o förs av skrivb o annan skolmateriel. Äg fastgh Tomtebog 5, Söderm. g 37—39, Gotl.g 72, Drottn.g 77, Klarab.g 40, Beridb.g 25, N Mälarstr 54, 64, 68, 72, samtl i Sthlm. Styr.led o vkst dir Fastgh AB Kv Polstj nr 3, Fastgh AB Drejaren, Fastgh AB Engelbr.g 10, samtl i Sthlm. Hobby: Botanik.",
+    "translated": "BERGVALL, Magnus Julius Maurus, Director, Stockholm, born in the parish of Hammarby, Stockholm county. Son of A.M.B. and Hedvig Wallin. Completed elementary school in Uppsala in 1888 and continued his education in Västerås in the same year. Taught and organized schools in Sparrsätra parish from 1888 to 1889, and in Västermo parish from 1889 to 1893. Worked as a teacher in Stockholm from 1893 to 1908. Founded Magnus Bergvall AB in 1900 and served as its sales manager until it was transformed into a limited company in 1918, where he became the managing director. Specialized in the production and sales of textbooks and other school materials. Owned the property Tomtebog 5 in Södermalm. Married in 1937 and divorced in 1939. Remarried in Gotland in 1972, in Drottningatan in 1977, in Klarabergsgatan in 1940, in Beridarebäcksgatan in 1925, in North Mälarstrand in 1954, 1964, 1968, and 1972, all in Stockholm. Served on the board of directors and was the managing director of various properties: Fastighets AB Kv Polstjärnan nr 3, Fastighets AB Drejaren, Fastighets AB Engelbrektsgatan 10, all in Stockholm. Hobby: Botany.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Magnus Julius Maurus Bergvall",
+        "jobTitle": "Director",
+        "birthPlace": "Hammarby, Stockholm County",
+        "birthDate": "1868-01-01",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "A.M.B."
+            },
+            {
+                "@type": "Person",
+                "name": "Hedvig Wallin"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Elementary School Uppsala",
+                "endDate": "1888"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Västerås",
+                "startDate": "1888",
+                "endDate": "1889"
+            }
+        ],
+        "workExperience": [
+            {
+                "@type": "OrganizationRole",
+                "title": "Teacher",
+                "startDate": "1888",
+                "endDate": "1889",
+                "memberOf": [
+                    {
+                        "@type": "Organization",
+                        "name": "Sparrsätra Parish"
+                    }
+                ]
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Teacher",
+                "startDate": "1889",
+                "endDate": "1893",
+                "memberOf": [
+                    {
+                        "@type": "Organization",
+                        "name": "Västermo Parish"
+                    }
+                ]
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Teacher",
+                "startDate": "1893",
+                "endDate": "1908",
+                "memberOf": [
+                    {
+                        "@type": "Organization",
+                        "name": "Stockholm"
+                    }
+                ]
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Sales Manager",
+                "startDate": "1900",
+                "endDate": "1918",
+                "memberOf": [
+                    {
+                        "@type": "Organization",
+                        "name": "Magnus Bergvall AB"
+                    }
+                ]
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Managing Director",
+                "startDate": "1918",
+                "memberOf": [
+                    {
+                        "@type": "Organization",
+                        "name": "Magnus Bergvall AB"
+                    }
+                ]
+            }
+        ],
+        "owns": {
+            "@type": "Place",
+            "name": "Tomtebog 5, Södermalm"
+        },
+        "marriageStatus": [
+            {
+                "@type": "LifeEvent",
+                "eventType": "Marriage",
+                "startDate": "1937-01-01",
+                "endDate": "1939-01-01",
+                "location": "Stockholm"
+            },
+            {
+                "@type": "LifeEvent",
+                "eventType": "Marriage",
+                "startDate": "1972-01-01",
+                "endDate": "Current",
+                "location": "Gotland"
+            },
+            {
+                "@type": "LifeEvent",
+                "eventType": "Marriage",
+                "startDate": "1977-01-01",
+                "endDate": "Current",
+                "location": "Drottninggatan"
+            },
+            {
+                "@type": "LifeEvent",
+                "eventType": "Marriage",
+                "startDate": "1940-01-01",
+                "endDate": "Current",
+                "location": "Klarabergsgatan"
+            },
+            {
+                "@type": "LifeEvent",
+                "eventType": "Marriage",
+                "startDate": "1925-01-01",
+                "endDate": "Current",
+                "location": "Beridarebäcksgatan"
+            },
+            {
+                "@type": "LifeEvent",
+                "eventType": "Marriage",
+                "startDate": "1954-01-01",
+                "endDate": "1972-01-01",
+                "location": "North Mälarstrand"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Fastighets AB Kv Polstjärnan nr 3",
+                "roleName": "Board Member and Managing Director"
+            },
+            {
+                "@type": "Organization",
+                "name": "Fastighets AB Drejaren",
+                "roleName": "Board Member and Managing Director"
+            },
+            {
+                "@type": "Organization",
+                "name": "Fastighets AB Engelbrektsgatan 10",
+                "roleName": "Board Member and Managing Director"
+            }
+        ],
+        "sameAs": "https://example.com/magnus-bergvall",
+        "hobby": "Botany"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Teacher",
+                "workplace": "Sparrsätra förs",
+                "industry": "Education",
+                "start_date": "1888"
+            },
+            {
+                "occupational_title": "Teacher",
+                "workplace": "Västermo förs",
+                "industry": "Education",
+                "start_date": "1889"
+            },
+            {
+                "occupational_title": "Teacher",
+                "workplace": "Stockholm",
+                "industry": "Education",
+                "start_date": "1893"
+            },
+            {
+                "occupational_title": "Sales Manager",
+                "workplace": "Magnus Bergvall AB",
+                "industry": "Publishing",
+                "start_date": "1900"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "Magnus Bergvall AB",
+                "industry": "Publishing",
+                "start_date": "1918"
+            }
+        ]
+    }
+}

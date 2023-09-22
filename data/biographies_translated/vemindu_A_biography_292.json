@@ -1,0 +1,204 @@
+{
+    "original": "AXDOBPH, Liss Bune Waldemar, Kapten, Stockholm, f Ludvika 13/8 09 av dir W A o Ebba Lundén, gm Ingrid Bolin. Studex Djh samsk 28, DHS 32, resoffex 30. Anst Jacob Versteegh Sthlm 32—34, Stat arb.lösh.komm 34—37, Carl Lamm Adressmaskiner AB sed. 37. Styr.led Bergslag Tegel- o Kalkbr AB Ludvika. Resor: Engl 27, 32, Tyskl 37.",
+    "translated": "AXDOBPH, Liss Bune Waldemar, Captain, Stockholm, born in Ludvika on August 13, 1909, to director W A and Ebba Lundén. Married to Ingrid Bolin. Completed upper secondary school at Djursholms samskola in 1928, and military officer training in 1932. Worked at Jacob Versteegh in Stockholm from 1932 to 1934, and at the Unemployment Committee of the State labor office from 1934 to 1937. Employed at Carl Lamm Addressing Machines AB since 1937. Board member of Bergslag Brick and Lime AB in Ludvika. Travelled to England in 1927 and 1932, and to Germany in 1937.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Liss Bune Waldemar AXDOBPH",
+        "jobTitle": "Captain",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "birthDate": "1909-08-13",
+        "birthPlace": "Ludvika",
+        "parents": {
+            "@type": "Person",
+            "parent": [
+                {
+                    "@type": "Person",
+                    "name": "W A Lundén",
+                    "jobTitle": "Director"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Ebba Lundén"
+                }
+            ]
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Ingrid Bolin"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "upper secondary school",
+                "educationalLevel": "Djursholms samskola",
+                "yearCompleted": "1928"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "military officer training",
+                "yearCompleted": "1932"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Jacob Versteegh"
+                },
+                "startDate": "1932",
+                "endDate": "1934"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Unemployment Committee of the State labor office"
+                },
+                "startDate": "1934",
+                "endDate": "1937"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Carl Lamm Addressing Machines AB"
+                },
+                "startDate": "1937"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Bergslag Brick and Lime AB",
+            "position": "Board member",
+            "location": {
+                "@type": "PostalAddress",
+                "addressLocality": "Ludvika"
+            }
+        },
+        "travelHistory": {
+            "@type": "ItemList",
+            "itemListElement": [
+                {
+                    "@type": "Place",
+                    "name": "England",
+                    "startDate": "1927"
+                },
+                {
+                    "@type": "Place",
+                    "name": "England",
+                    "startDate": "1932"
+                },
+                {
+                    "@type": "Place",
+                    "name": "Germany",
+                    "startDate": "1937"
+                }
+            ]
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Captain",
+                "workplace": "Stockholm",
+                "industry": null,
+                "start_date": null
+            },
+            {
+                "occupational_title": null,
+                "workplace": null,
+                "industry": "Director",
+                "start_date": null
+            },
+            {
+                "occupational_title": null,
+                "workplace": null,
+                "industry": null,
+                "start_date": null
+            },
+            {
+                "occupational_title": null,
+                "workplace": null,
+                "industry": null,
+                "start_date": null
+            },
+            {
+                "occupational_title": null,
+                "workplace": "Stockholm",
+                "industry": null,
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": null,
+                "workplace": null,
+                "industry": null,
+                "start_date": null
+            },
+            {
+                "occupational_title": null,
+                "workplace": null,
+                "industry": null,
+                "start_date": null
+            },
+            {
+                "occupational_title": null,
+                "workplace": null,
+                "industry": null,
+                "start_date": null
+            },
+            {
+                "occupational_title": null,
+                "workplace": "Stockholm",
+                "industry": null,
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": null,
+                "workplace": null,
+                "industry": null,
+                "start_date": null
+            },
+            {
+                "occupational_title": null,
+                "workplace": null,
+                "industry": null,
+                "start_date": null
+            },
+            {
+                "occupational_title": null,
+                "workplace": null,
+                "industry": null,
+                "start_date": null
+            },
+            {
+                "occupational_title": null,
+                "workplace": "Carl Lamm Addressing Machines AB",
+                "industry": null,
+                "start_date": "1937"
+            },
+            {
+                "occupational_title": "Board member",
+                "workplace": "Bergslag Brick and Lime AB",
+                "industry": null,
+                "start_date": null
+            },
+            {
+                "occupational_title": null,
+                "workplace": null,
+                "industry": null,
+                "start_date": null
+            },
+            {
+                "occupational_title": null,
+                "workplace": null,
+                "industry": null,
+                "start_date": null
+            }
+        ]
+    }
+}

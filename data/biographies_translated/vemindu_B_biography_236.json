@@ -1,0 +1,121 @@
+{
+    "original": "BJÖRCK, Waldemar, Disponent, Lund, f Nörre Broby, Danm, 24/3 00 av Jöns Björck o Crestine Kiiutsen, gin Ester Sabina Johansson. Hovslag.sk, lärl.utb i hovbeslagn, stud pr korresp. Smedarb 14—17, hovslag v Kronprins husarreg 17—20, hovslag.und.off 20—24, hdlsres 24—38, disp f AB O Jönssons järnaff sed. 38, ag av o styr.ordf i detta AB (grund 72, AB 02). Medl av hdlskltibb o hantv.frn. Hobby: Fiske.",
+    "translated": "BJÖRCK, Waldemar, Manager, Lund, born in Nörre Broby, Denmark, on March 24th, 1900, son of Jöns Björck and Crestine Kiiutsen, married to Ester Sabina Johansson. Apprentice in blacksmithing and hoof trimming, studied by correspondence. Worked as a blacksmith from 1914 to 1917, blacksmith in the Kronprins Husar Regiment from 1917 to 1920, assistant blacksmith officer from 1920 to 1924. Went on a trading journey from 1924 to 1938, became manager of AB O Jönssons Iron Store since 1938, shareholder and chairman of the board of this company (established in 1872, limited company since 1902). Member of the Chamber of Commerce and Craftsmen's Association. Hobby: Fishing.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Waldemar Björck",
+        "jobTitle": "Manager",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Lund"
+        },
+        "birthPlace": {
+            "@type": "Country",
+            "name": "Denmark"
+        },
+        "birthDate": "1900-03-24",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Jöns Björck"
+            },
+            {
+                "@type": "Person",
+                "name": "Crestine Kiiutsen"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ester Sabina Johansson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Apprenticeship",
+                "credentialSubject": "Blacksmithing and Hoof Trimming"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Correspondence Course",
+                "credentialSubject": "Blacksmithing"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "JobPosting",
+                "title": "Blacksmith",
+                "startDate": "1914-01-01",
+                "endDate": "1917-12-31",
+                "description": "Worked as a blacksmith"
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Blacksmith",
+                "startDate": "1917-01-01",
+                "endDate": "1920-12-31",
+                "description": "Blacksmith in the Kronprins Husar Regiment"
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Assistant Blacksmith Officer",
+                "startDate": "1920-01-01",
+                "endDate": "1924-12-31",
+                "description": "Assistant blacksmith officer"
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Manager",
+                "startDate": "1938-01-01",
+                "description": "Manager of AB O Jönssons Iron Store"
+            }
+        ],
+        "businessMembership": [
+            {
+                "@type": "Organization",
+                "name": "Chamber of Commerce"
+            },
+            {
+                "@type": "Organization",
+                "name": "Craftsmen's Association"
+            }
+        ],
+        "hobbies": [
+            "Fishing"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Apprentice in blacksmithing and hoof trimming",
+                "workplace": "Not specified",
+                "industry": "Blacksmithing",
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Blacksmith",
+                "workplace": "Kronprins Husar Regiment",
+                "industry": "Military",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Assistant blacksmith officer",
+                "workplace": "Not specified",
+                "industry": "Military",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Trader",
+                "workplace": "Not specified",
+                "industry": "Trading",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "AB O Jönssons Iron Store",
+                "industry": "Retail",
+                "start_date": "1938"
+            }
+        ]
+    }
+}

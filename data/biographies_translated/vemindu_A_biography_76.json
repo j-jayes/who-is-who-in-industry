@@ -1,0 +1,71 @@
+{
+    "original": "AJNEFORS, Gösta Richard, Kamrer, Stockholm, f Rävinge, Hall, 29/10 13. Hälsingborgs hdlsgymn. Anst Helsingborgs Gummifabr AB 36—37, AB Rosenblads Patenter Sthlm 37—39, Franzén &amp; Fried AB o AB Sthlms Kolafabr, båda Sthlm, sed. 39, kamrer där.",
+    "translated": "AJNEFORS, Gösta Richard, Accountant, Stockholm, b. Rävinge, Hall, 29/10 13. Hälsingborg commercial high school. Employed at Helsingborg Rubber Factory AB 36-37, AB Rosenblads Patenter Stockholm 37-39, Franzén & Fried AB and AB Stockholm Caramel Factory, both in Stockholm, since 39, accountant there.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Gösta Richard",
+        "familyName": "Ajnefors",
+        "jobTitle": "Accountant",
+        "birthPlace": "Rävinge, Hall",
+        "birthDate": "1913-10-29",
+        "alumniOf": {
+            "@type": "EducationalOrganization",
+            "name": "Hälsingborg Commercial High School"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Helsingborg Rubber Factory AB",
+                "startDate": "1936",
+                "endDate": "1937"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Rosenblads Patenter Stockholm",
+                "startDate": "1937",
+                "endDate": "1939"
+            },
+            {
+                "@type": "Organization",
+                "name": "Franzén & Fried AB"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Stockholm Caramel Factory"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Franzén & Fried AB"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Accountant",
+                "workplace": "Helsingborg Rubber Factory AB",
+                "industry": "Rubber manufacturing",
+                "start_date": "1936"
+            },
+            {
+                "occupational_title": "Accountant",
+                "workplace": "AB Rosenblads Patenter Stockholm",
+                "industry": "Patent company",
+                "start_date": "1937"
+            },
+            {
+                "occupational_title": "Accountant",
+                "workplace": "Franzén & Fried AB",
+                "industry": "Unknown",
+                "start_date": "1939"
+            },
+            {
+                "occupational_title": "Accountant",
+                "workplace": "AB Stockholm Caramel Factory",
+                "industry": "Confectionery",
+                "start_date": "1939"
+            }
+        ]
+    }
+}

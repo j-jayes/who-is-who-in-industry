@@ -1,0 +1,91 @@
+{
+    "original": "BERGOI/D, Karl Albert Cecil, Bergsingenjör, Sandviken, f Bondkyrka 17/5 03 av upps.man J A Johansson o Cecilia Oldberg, gm Astrid Ramberg. Studex Upps 22, KTH 24—29, avg.ex sistn år. Assist åt driftsing v AB Sv Kul-lagerfabr, Hofors Bruk, 29—32, assist åt drifts-ing v Sandvikens Jernverks AB, Sandviken, sed. 32.",
+    "translated": "BERGOI/D, Karl Albert Cecil, Mining Engineer, Sandviken, born in Bondkyrka on May 17, 1903, to unmarried man J A Johansson and Cecilia Oldberg, married to Astrid Ramberg. Graduated from Uppsala in 1922, KTH (Royal Institute of Technology) from 1924-1929, completed final exams last year. Assistant to the operations engineer at AB Sv Kul-lagerfabr, Hofors Bruk from 1929-1932, assistant to the operations engineer at Sandvikens Jernverks AB, Sandviken since 1932.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Karl Albert Cecil Bergoi/D",
+        "jobTitle": "Mining Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Sandviken"
+        },
+        "birthDate": "1903-05-17",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "J A Johansson",
+                "gender": "Male"
+            },
+            {
+                "@type": "Person",
+                "name": "Cecilia Oldberg",
+                "gender": "Female"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Astrid Ramberg",
+            "gender": "Female"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "Studex Upps 22",
+                "issuer": "Uppsala University",
+                "startDate": "1922",
+                "endDate": "1922"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "KTH",
+                "issuer": "Royal Institute of Technology",
+                "startDate": "1924",
+                "endDate": "1929"
+            }
+        ],
+        "workExperience": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Assistant to Operations Engineer",
+                "startDate": "1929",
+                "endDate": "1932",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Sv Kul-lagerfabr, Hofors Bruk"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Assistant to Operations Engineer",
+                "startDate": "1932",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Sandvikens Jernverks AB, Sandviken"
+                }
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Mining Engineer",
+                "workplace": "Sandviken",
+                "industry": "Mining",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Assistant to Operations Engineer",
+                "workplace": "Sandvikens Jernverks AB",
+                "industry": "Steel Manufacturing",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Assistant to Operations Engineer",
+                "workplace": "AB Sv Kul-lagerfabr, Hofors Bruk",
+                "industry": "Manufacturing",
+                "start_date": "1929"
+            }
+        ]
+    }
+}

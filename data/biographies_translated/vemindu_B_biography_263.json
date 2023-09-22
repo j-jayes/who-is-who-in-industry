@@ -1,0 +1,152 @@
+{
+    "original": "BJÖRKMAN, Yngve, Försäljningschef, Nyköping, f Sthlm 14/5 03 av ing Rich F B o Märta Lotingius, gm Gunvor Lenhardtson. Studex 21, prakt stud i USA o Engl 21—23, i öl bilfabr samt o Remy Engineering School. Reseinsp, sederm avd.ch Ford Motor Co 28— 33, försälj.insp AB Sv bilfabr 33—37, disp o sv avd.ch i Willys Överland AS, Köpenhamn, 37—39, försäljn.ch AB Nyköp automobilfabr sed. 39. Resor: Tyskl 21/31, Frankr 21, USA 21—22, Engl 23, ett flert i Danm o Norge.",
+    "translated": "BJÖRKMAN, Yngve, Sales Manager, Nyköping, b. Stockholm 14/5 03 to engineer Rich F B and Märta Lotingius, m. Gunvor Lenhardtson. Studied until age 21, practical studies in the USA and England 21-23, worked in the beer car factory and Remy Engineering School. Traveling inspector, later department chief, at Ford Motor Co 28-33, sales inspector at AB Swedish Car Factory 33-37, dispatcher and Swedish department chief at Willys Overland AS, Copenhagen, 37-39, sales chief at AB Nyköp automobile factory since 39. Traveled to Germany 21/31, France 21, USA 21-22, England 23, and multiple trips to Denmark and Norway.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Yngve Björkman",
+        "birthDate": "1903-05-14",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Stockholm"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Rich F B Björkman",
+                "jobTitle": "Engineer"
+            },
+            {
+                "@type": "Person",
+                "name": "Märta Lotingius"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Gunvor Lenhardtson"
+        },
+        "occupation": "Sales Manager",
+        "address": {
+            "@type": "City",
+            "name": "Nyköping"
+        },
+        "education": [
+            {
+                "@type": "EducationEvent",
+                "startDate": "1921",
+                "endDate": "1923",
+                "description": "Practical studies in the USA and England"
+            }
+        ],
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Working in the beer car factory and Remy Engineering School"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Traveling Inspector",
+                "startDate": "1928",
+                "endDate": "1933",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Ford Motor Co"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Sales Inspector",
+                "startDate": "1933",
+                "endDate": "1937",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Swedish Car Factory"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Dispatcher and Swedish department chief",
+                "startDate": "1937",
+                "endDate": "1939",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Willys Overland AS"
+                },
+                "location": {
+                    "@type": "City",
+                    "name": "Copenhagen"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Sales Chief",
+                "startDate": "1939",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Nyköp automobile factory"
+                }
+            }
+        ],
+        "travel": [
+            {
+                "description": "Traveled to Germany",
+                "startDate": "1921",
+                "endDate": "1931"
+            },
+            {
+                "description": "Traveled to France",
+                "startDate": "1921"
+            },
+            {
+                "description": "Traveled to the USA",
+                "startDate": "1921",
+                "endDate": "1922"
+            },
+            {
+                "description": "Traveled to England",
+                "startDate": "1923"
+            },
+            {
+                "description": "Multiple trips to Denmark and Norway"
+            }
+        ]
+    },
+    "occupations": {
+        "career": {
+            "occupational_title": [
+                "Sales Manager",
+                "Traveling Inspector",
+                "Department Chief",
+                "Sales Inspector",
+                "Dispatcher",
+                "Swedish Department Chief",
+                "Sales Chief"
+            ],
+            "workplace": [
+                "Nyköping",
+                "Ford Motor Co",
+                "AB Swedish Car Factory",
+                "Willys Overland AS",
+                "AB Nyköp Automobile Factory"
+            ],
+            "industry": [
+                "Automotive",
+                "Automotive",
+                "Automotive",
+                "Automotive",
+                "Automotive",
+                "Automotive",
+                "Automotive"
+            ],
+            "start_date": [
+                null,
+                "28-33",
+                "33-37",
+                "37-39",
+                "37-39",
+                "37-39",
+                "39"
+            ]
+        }
+    }
+}

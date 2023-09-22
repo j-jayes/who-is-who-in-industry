@@ -1,0 +1,127 @@
+{
+    "original": "ASTE, Jonas Gunnar, Generaldirektör, Stockholm, f Byarum, Jkps l, 2/9 93 av nmdem L Andersson o Mathilda Pettersson, gm Elsa Lundberg. Katrineh tekn sk 12. Rit v Tele-grafvkt 13—18 o 19—29, ing.ass 20, avd.ing 29, verksting 36, verkst.dir 39—43, led av Försv.-väs :s verkst.nmd 40, gen.dir o ch f Försvarets Fabr.styr sed. 43.",
+    "translated": "ASTE, Jonas Gunnar, General Director, Stockholm, b. Byarum, Jönköpings län, September 2, 1893, son of Nmdem (Notary Public) L Andersson and Mathilda Pettersson, married to Elsa Lundberg. Attended Katrineh technical school from 1912. Worked as a telegraph operator from 1913 to 1918 and 1919 to 1929. Became an engineer's assistant in 1920, department engineer in 1929, and executive director in 1936. Served as a member of the Defense Administration's Executive Board in 1940, and as General Director and Chairman of the Defense Manufacturing Board since 1943.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Jonas Gunnar Aste",
+        "jobTitle": [
+            {
+                "@type": "JobTitle",
+                "name": "Telegraph Operator"
+            },
+            {
+                "@type": "JobTitle",
+                "name": "Engineer's Assistant"
+            },
+            {
+                "@type": "JobTitle",
+                "name": "Department Engineer"
+            },
+            {
+                "@type": "JobTitle",
+                "name": "Executive Director"
+            }
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "birthDate": "1893-09-02",
+        "birthPlace": "Byarum, Jönköpings län",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "L Andersson",
+                "jobTitle": "Notary Public"
+            },
+            {
+                "@type": "Person",
+                "name": "Mathilda Pettersson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Elsa Lundberg"
+        },
+        "education": [
+            {
+                "@type": "School",
+                "name": "Katrineh technical school",
+                "startDate": "1912"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Tele-grafvkt",
+                "startDate": "1913",
+                "endDate": "1918"
+            },
+            {
+                "@type": "Organization",
+                "name": "Tele-grafvkt",
+                "startDate": "1919",
+                "endDate": "1929"
+            }
+        ],
+        "memberships": [
+            {
+                "@type": "Organization",
+                "name": "Defense Administration's Executive Board",
+                "startDate": "1940"
+            },
+            {
+                "@type": "Organization",
+                "name": "Defense Manufacturing Board",
+                "startDate": "1943"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Telegraph Operator",
+                "workplace": "Unknown",
+                "industry": "Telecommunications",
+                "start_date": "1913"
+            },
+            {
+                "occupational_title": "Telegraph Operator",
+                "workplace": "Unknown",
+                "industry": "Telecommunications",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Engineer's Assistant",
+                "workplace": "Unknown",
+                "industry": "Engineering",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Department Engineer",
+                "workplace": "Unknown",
+                "industry": "Engineering",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Executive Director",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "1936"
+            },
+            {
+                "occupational_title": "Member of Defense Administration's Executive Board",
+                "workplace": "Defense Administration",
+                "industry": "Defense",
+                "start_date": "1940"
+            },
+            {
+                "occupational_title": "General Director and Chairman of Defense Manufacturing Board",
+                "workplace": "Defense Manufacturing Board",
+                "industry": "Defense",
+                "start_date": "1943"
+            }
+        ]
+    }
+}

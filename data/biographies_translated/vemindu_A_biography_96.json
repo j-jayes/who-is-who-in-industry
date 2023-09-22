@@ -1,0 +1,124 @@
+{
+    "original": "ALLSTRIN, Johan Enhard, Direktör, Djursholm, f Sthlm 13/2 95 av fabr Gust A o Hedvig Giertz, gm Irma Rylander. Studex 14, civingex KTH (v o v) 18. Ing v Vattenf.styr :s byggn.byrå 19—26, v Sthlms stds gatukont 26—31, arb.ch v Sv VägAB:s vägarb i Rumän 31—39, vkst dir o styr.led i Nya Murbuks-fabrikens i Sthlm AB sed. 40. Ag villafastigh i Djursh. Distr.led f Djursh hemskydd. OffRumKrO.",
+    "translated": "ALLSTRIN, Johan Enhard, Director, Djursholm, b. Stockholm 13/2 1895, son of factory owner Gust A and Hedvig Giertz, m. Irma Rylander. Graduated from high school in 1914, civil engineering degree from KTH (Royal Institute of Technology) in 1918. Worked for the Water Authority's construction office from 1919 to 1926, Stockholm City's road department from 1926 to 1931, and as a road worker for the Swedish Road Construction Company in Romania from 1931 to 1939. Became a vice director and board member of Nya Murbuks-fabrikens i Stockholm AB in 1940. Owned villa properties in Djursholm. District leader for Djursholm home protection. Officer of the Order of the Romanian Crown.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Johan Enhard Allstrin",
+        "birthDate": "1895-02-13",
+        "birthPlace": "Stockholm",
+        "description": "Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Djursholm"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Gust A Allstrin",
+                "description": "Factory Owner"
+            },
+            {
+                "@type": "Person",
+                "name": "Hedvig Giertz"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Irma Rylander"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "secondary",
+                "educationalLevel": "High School",
+                "alumniOf": "Stockholm High School",
+                "endDate": "1914"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "tertiary",
+                "educationalLevel": "Bachelor's Degree",
+                "alumniOf": "Royal Institute of Technology",
+                "startDate": "1918",
+                "endDate": "N/A"
+            }
+        ],
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "Water Authority's Construction Office",
+                "startDate": "1919",
+                "endDate": "1926"
+            },
+            {
+                "@type": "Organization",
+                "name": "Stockholm City's Road Department",
+                "startDate": "1926",
+                "endDate": "1931"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Road Construction Company",
+                "description": "Road Worker",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Romania"
+                },
+                "startDate": "1931",
+                "endDate": "1939"
+            },
+            {
+                "@type": "Organization",
+                "name": "Nya Murbuks-fabrikens i Stockholm AB",
+                "description": "Vice Director and Board Member",
+                "startDate": "1940",
+                "endDate": "N/A"
+            }
+        ],
+        "owns": {
+            "@type": "Place",
+            "name": "Villa Properties in Djursholm"
+        },
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Djursholm Home Protection",
+            "description": "District Leader"
+        },
+        "awards": [
+            {
+                "@type": "Order",
+                "name": "Order of the Romanian Crown",
+                "description": "Officer"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Water Authority's Construction Office",
+                "industry": "Government",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Road Department Worker",
+                "workplace": "Stockholm City",
+                "industry": "Government",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Road Worker",
+                "workplace": "Swedish Road Construction Company",
+                "industry": "Construction",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Vice Director and Board Member",
+                "workplace": "Nya Murbuks-fabrikens i Stockholm AB",
+                "industry": "Manufacturing",
+                "start_date": "1940"
+            }
+        ]
+    }
+}

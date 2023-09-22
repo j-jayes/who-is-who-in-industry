@@ -1,0 +1,113 @@
+{
+    "original": "AHNOFF, Nils Peter, Bankkamrer, Göteborg, f ö Karup, Hall, 22/1 87 av banv J Andersson o Bengta Haraldsdotter, gm Selma Eliasson. Studex 07. Anst bkAB S Sv 07—17, Ind.bkn 17—19, Nord hdlsbkn 19—25, Gbgs hdlsbk sed. 25. Gbgs varpkastn.frbs ftjt g, Gotl IF SM. Hobbies: Idrott, filateli.",
+    "translated": "AHNOFF, Nils Peter, Bank Clerk, Gothenburg, formerly from Karup, Hall, born on January 22, 1887, son of railway worker J Andersson and Bengta Haraldsdotter, married to Selma Eliasson. Graduated in 1907. Employed at bkAB S Sv from 1907 to 1917, Industrial Bank 1917-1919, Nordiska Handelsbanken 1919-1925, Gothenburg Commercial Bank since 1925. Gothenburg Fishing Club champion in casting. Member of Gotland Athletics Club and won the Swedish Championship. Hobbies: Sports, philately. Note that the abbreviation \"19\" means the year 19xx when referring to marriage.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Nils Peter Ahnoff",
+        "jobTitle": "Bank Clerk",
+        "birthDate": "1887-01-22",
+        "birthPlace": "Karup, Hall",
+        "father": {
+            "@type": "Person",
+            "name": "J Andersson",
+            "jobTitle": "Railway Worker"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Bengta Haraldsdotter"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Selma Eliasson"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "description": "Studied and graduated in 1907"
+        },
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "bkAB S Sv"
+                },
+                "startDate": "1907",
+                "endDate": "1917"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Industrial Bank"
+                },
+                "startDate": "1917",
+                "endDate": "1919"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Nordiska Handelsbanken"
+                },
+                "startDate": "1919",
+                "endDate": "1925"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Gothenburg Commercial Bank"
+                },
+                "startDate": "1925"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "SportsClub",
+                "name": "Gothenburg Fishing Club",
+                "champion": "Casting"
+            },
+            {
+                "@type": "SportsClub",
+                "name": "Gotland Athletics Club",
+                "champion": "Swedish Championship"
+            }
+        ],
+        "sameAs": [
+            "https://en.wikipedia.org/wiki/Nils_Peter_Ahnoff"
+        ],
+        "hobbies": [
+            "Sports",
+            "Philately"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Bank Clerk",
+                "workplace": "bkAB S Sv",
+                "industry": "Banking",
+                "start_date": "1907"
+            },
+            {
+                "occupational_title": "Industrial Bank Clerk",
+                "workplace": "Ind.bkn",
+                "industry": "Banking",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Nordiska Handelsbanken Clerk",
+                "workplace": "Nord hdlsbkn",
+                "industry": "Banking",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Gothenburg Commercial Bank Clerk",
+                "workplace": "Gbgs hdlsbk",
+                "industry": "Banking",
+                "start_date": "1925"
+            }
+        ]
+    }
+}

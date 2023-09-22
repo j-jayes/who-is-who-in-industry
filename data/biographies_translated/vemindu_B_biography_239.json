@@ -1,0 +1,130 @@
+{
+    "original": "BJÖRK, Carl Daniel, Ingenjör, Västerås, f V:a Vingåker, Sörml l, 22/1 77 av lantbr K V B o Klara Larsson, gm Hildur Johansson. Ex tekn elem.sk i Örebro 00. Anst v ASEA 00—04, British Thomson Houston Co i Rugby Engl 04—05, General Electric Co i Schenec-tady USA 05—06, åter v ASEA sed. 07. Led av Sv Mek Verkstäders Frbs standardiser.kté fr 28. Led av styr f Västerås h folksk samt av kyrkoflm. Styr.led i AB Västeråsfjärden. Studieresor i Amerika, Engl, Tyskl, Schweiz o Ital. Led Sv Tekn.frn. PatrstGM.",
+    "translated": "BJÖRK, Carl Daniel, Engineer, Västerås, born in Västra Vingåker, Södermanland county, 22nd January 1877, son of farmer Karl Viktor Björk and Klara Larsson, married to Hildur Johansson. Former technical elementary school student in Örebro in 1900. Employed at ASEA from 1900 to 1904, British Thomson Houston Co in Rugby, England from 1904 to 1905, General Electric Co in Schenectady, USA from 1905 to 1906, and returned to ASEA thereafter since 1907. Member of the Swedish Mechanical Workshops Federation standardization committee from 1928. Member of the board of directors of Västerås public primary school and the church film committee. Board member of AB Västeråsfjärden. Went on study trips to America, England, Germany, Switzerland, and Italy. Member of the Swedish Engineering Association. Patent holder. \n\nNote: \"m. partners name\" means that the person married in the year 19xx.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Daniel Björk",
+        "birthDate": "1877-01-22",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Västra Vingåker"
+        },
+        "nationality": "Swedish",
+        "description": "Engineer",
+        "spouse": {
+            "@type": "Person",
+            "name": "Hildur Johansson"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Karl Viktor Björk",
+                "sameAs": "father"
+            },
+            {
+                "@type": "Person",
+                "name": "Klara Larsson",
+                "sameAs": "mother"
+            }
+        ],
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Technical elementary school",
+            "educationalLevel": "Primary",
+            "authority": "Örebro",
+            "startDate": "1900",
+            "endDate": "1900"
+        },
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "ASEA",
+                "startDate": "1900",
+                "endDate": "1904"
+            },
+            {
+                "@type": "Organization",
+                "name": "British Thomson Houston Co",
+                "location": "Rugby, England",
+                "startDate": "1904",
+                "endDate": "1905"
+            },
+            {
+                "@type": "Organization",
+                "name": "General Electric Co",
+                "location": "Schenectady, USA",
+                "startDate": "1905",
+                "endDate": "1906"
+            },
+            {
+                "@type": "Organization",
+                "name": "ASEA",
+                "startDate": "1907"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Swedish Mechanical Workshops Federation",
+            "committee": "Standardization",
+            "startDate": "1928"
+        },
+        "boardMember": [
+            {
+                "@type": "Organization",
+                "name": "Västerås Public Primary School",
+                "title": "Board of Directors"
+            },
+            {
+                "@type": "Organization",
+                "name": "Church Film Committee",
+                "title": "Board of Directors"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Västeråsfjärden",
+                "title": "Board of Directors"
+            }
+        ],
+        "studyTrip": [
+            "America",
+            "England",
+            "Germany",
+            "Switzerland",
+            "Italy"
+        ],
+        "memberOfOrganization": {
+            "@type": "Organization",
+            "name": "Swedish Engineering Association"
+        },
+        "patentHolder": true
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "ASEA",
+                "industry": "Electrical engineering",
+                "start_date": "1900-04"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "British Thomson Houston Co",
+                "industry": "Electrical engineering",
+                "start_date": "1904-05"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "General Electric Co",
+                "industry": "Electrical engineering",
+                "start_date": "1905-05"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "ASEA",
+                "industry": "Electrical engineering",
+                "start_date": "1907"
+            }
+        ]
+    }
+}

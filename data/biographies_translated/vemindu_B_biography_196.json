@@ -1,0 +1,73 @@
+{
+    "original": "BERNER, Carl Gustaf, Direktör, Göteborg, f Nora 18/6 70, gm Anna Jansson. Anst fma Fredriksson &amp; Berg Hagfors 89—99, eg fma Rottneros 01—09, etabl engrosfma Berner &amp; Zetterström Gbg 09, vkst dir i denna t AB ombild fma sed. 30.",
+    "translated": "BERNER, Carl Gustaf, Director, Gothenburg, b. Nora 18/6 70, m. Anna Jansson. Employed at Fredriksson & Berg Hagfors 89—99, then self-employed at Rottneros 01—09. Established the wholesale company Berner & Zetterström in Gothenburg in 09, became managing director of this trading company, which was reorganized in 1930.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Gustaf Berner",
+        "jobTitle": "Director",
+        "birthDate": "1870-06-18",
+        "birthPlace": "Nora",
+        "spouse": "Anna Jansson",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Fredriksson & Berg Hagfors",
+                "startDate": "1889",
+                "endDate": "1899"
+            },
+            {
+                "@type": "Organization",
+                "name": "Rottneros",
+                "startDate": "1901",
+                "endDate": "1909"
+            },
+            {
+                "@type": "Organization",
+                "name": "Berner & Zetterström",
+                "location": "Gothenburg",
+                "startDate": "1909"
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Berner & Zetterström",
+            "location": "Gothenburg",
+            "startDate": "1930"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Gothenburg",
+                "industry": "",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Employed at Fredriksson & Berg",
+                "workplace": "Hagfors",
+                "industry": "",
+                "start_date": "1889"
+            },
+            {
+                "occupational_title": "Self-employed",
+                "workplace": "Rottneros",
+                "industry": "",
+                "start_date": "1901"
+            },
+            {
+                "occupational_title": "Established Berner & Zetterström",
+                "workplace": "Gothenburg",
+                "industry": "Wholesale",
+                "start_date": "1909"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "Berners & Zetterström",
+                "industry": "Wholesale",
+                "start_date": "1930"
+            }
+        ]
+    }
+}

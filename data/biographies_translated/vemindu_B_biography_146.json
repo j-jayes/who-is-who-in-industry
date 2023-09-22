@@ -1,0 +1,86 @@
+{
+    "original": "BERGMAN, Frans-August. Civilingenjör, Montevideo, Uruguay, f Nora bergsförsaml, Örebro l, 4/10 04 av träv.handl K A B o Adolfina Constance Fransson, gm Martha Svensson. Studex Örebro 24, KTH 25—29, avg.ex där sistn år. Anst h Sv Tändsticks AB sed. 29, därav i Indien 31—34 o vid Cia General de Fosforos Sud Americana SA, Montevideo, sed. 34. Led Sv Tekn.frn sed. 29. BfN/*",
+    "translated": "BERGMAN, Frans-August. Civil engineer, Montevideo, Uruguay, b. in Nora mining parish, Örebro county, 4th October 1904, son of timber merchant K A B and Adolfina Constance Fransson, married to Martha Svensson. Graduated from Örebro in 1924, studied at the Royal Institute of Technology (KTH) from 1925 to 1929, and passed the final exam there in the last year. Employed by the Swedish Match Company since 1929, including a period in India from 1931 to 1934, and at Cia General de Fosforos Sud Americana SA, Montevideo, since 1934. Member of the Swedish Association of Technicians since 1929. Mentioned in the Nordic Biographical Archive (BfN)/*.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Frans-August Bergman",
+        "jobTitle": "Civil Engineer",
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Nora mining parish, Örebro county"
+        },
+        "birthDate": "1904-10-04",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "K A B"
+            },
+            {
+                "@type": "Person",
+                "name": "Adolfina Constance Fransson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Martha Svensson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Örebro",
+                "endDate": "1924"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Royal Institute of Technology (KTH)",
+                "startDate": "1925",
+                "endDate": "1929"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Match Company",
+                "startDate": "1929"
+            },
+            {
+                "@type": "Organization",
+                "name": "Cia General de Fosforos Sud Americana SA",
+                "location": "Montevideo",
+                "startDate": "1934"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Swedish Association of Technicians",
+            "startDate": "1929"
+        },
+        "mentions": {
+            "@type": "CreativeWork",
+            "name": "Nordic Biographical Archive (BfN)"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil engineer",
+                "workplace": "Montevideo, Uruguay",
+                "industry": "Engineering",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Swedish Match Company",
+                "industry": "Manufacturing",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Cia General de Fosforos Sud Americana SA",
+                "industry": "Manufacturing",
+                "start_date": "1934"
+            }
+        ]
+    }
+}

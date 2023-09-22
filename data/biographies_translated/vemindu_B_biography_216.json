@@ -1,0 +1,61 @@
+{
+    "original": "BILLIG, Oskar, Civilingenjör, Borås, f Borås 3/11 01, av fabr Karl B B o EmmaGötz, gm Märtha Magdalena Andersson. Studex Borås, ex KTH (kem), prakt stud i ylle- o bom.färgeri samt appretur. Anst v AB Borås Appreturmedelfabr sed 26, styr.led i detta AB.",
+    "translated": "BILLIG, Oskar, Civil Engineer, Borås, b Borås 3/11 01, son of factory owner Karl B B and Emma Götz, m Märtha Magdalena Andersson in the year 19xx. Studied in Borås, graduated from KTH (Chemical Engineering), practical studies in wool and cotton dyeing and finishing. Employed at AB Borås Appreturmedelfabr since 1926, currently serving on the board of directors.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Oskar Billig",
+        "birthDate": "1901-11-03",
+        "birthPlace": "Borås",
+        "description": "Civil Engineer",
+        "father": {
+            "@type": "Person",
+            "name": "Karl B B"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Emma Götz"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Märtha Magdalena Andersson"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "degree",
+            "educationalLevel": "Bachelor's Degree",
+            "educationalProgram": {
+                "@type": "EducationalOccupationalProgram",
+                "name": "Chemical Engineering",
+                "startDate": "19xx",
+                "endDate": "19xx"
+            }
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "AB Borås Appreturmedelfabr",
+            "startDate": "1926"
+        },
+        "memberOf": {
+            "@type": "OrganizationRole",
+            "roleName": "Board of Directors",
+            "startDate": "current"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "AB Borås Appreturmedelfabr",
+                "industry": "Unknown",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "AB Borås Appreturmedelfabr",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

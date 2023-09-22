@@ -1,0 +1,137 @@
+{
+    "original": "BERGMAN, Ernst Viking, Auktoriserad revisor, Stockholm, f Tbg 29/1 08 av postmast N W B o Hilma Johnson, gm Greta Ekwall. Studex NLatin 27, DHS 29, aukt revis Sthlm 33. Anst AB Industribyr rev.avd sed. 29, j :or accountant rev.fma Lybrand, ROSS Brothers and Montgomery, N. Y.. 30—31. Resor: Engl, USA, Frankr, Tyskl 30—31, USA 39.",
+    "translated": "BERGMAN, Ernst Viking, Authorized Auditor, Stockholm, born in Tbg (presumably Töreboda) on January 29, 1908, son of postmaster N.W.B. and Hilma Johnson, married to Greta Ekwall. Graduated as a Bachelor of Laws in Latin in 1927, obtained a Diploma in Higher Studies in 1929, became an authorized auditor in Stockholm in 1933. Employed at AB Industribyr rev.avd since 1929, and also worked as a junior accountant for the firm Lybrand, Ross Brothers and Montgomery in New York from 1930 to 1931. Traveled to England, USA, France, and Germany in 1930 and 1931, and to the US again in 1939.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Ernst Viking Bergman",
+        "birthDate": "1908-01-29",
+        "birthPlace": "Töreboda, Sweden",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "N.W.B.",
+                "jobTitle": "Postmaster"
+            },
+            {
+                "@type": "Person",
+                "name": "Hilma Johnson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Greta Ekwall"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "bachelor",
+                "educationalLevel": "Bachelor's degree",
+                "degree": {
+                    "@type": "EducationalDegree",
+                    "name": "Bachelor of Laws in Latin"
+                },
+                "educationalRole": "student",
+                "startDate": "1927",
+                "endDate": "1927"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "diploma",
+                "educationalLevel": "Diploma",
+                "degree": {
+                    "@type": "EducationalDegree",
+                    "name": "Diploma in Higher Studies"
+                },
+                "educationalRole": "student",
+                "startDate": "1929",
+                "endDate": "1929"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "certification",
+                "educationalLevel": "Certification",
+                "certifyingOrganization": {
+                    "@type": "Organization",
+                    "name": "Stockholm Authorized Auditors Association"
+                },
+                "startDate": "1933",
+                "endDate": "1933"
+            }
+        ],
+        "jobTitle": "Authorized Auditor",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "AB Industribyr rev.avd",
+            "startDate": "1929"
+        },
+        "additionalProperty": [
+            {
+                "@type": "PropertyValue",
+                "name": "Junior Accountant",
+                "value": "Lybrand, Ross Brothers and Montgomery",
+                "startDate": "1930",
+                "endDate": "1931"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Stockholm Authorized Auditors Association"
+            }
+        ],
+        "hasOccupation": [
+            {
+                "@type": "Occupation",
+                "name": "Authorized Auditor"
+            }
+        ],
+        "nationality": "Swedish",
+        "knowsAbout": [
+            "Accounting",
+            "Auditing"
+        ],
+        "traveler": [
+            {
+                "@type": "Place",
+                "name": "England"
+            },
+            {
+                "@type": "Place",
+                "name": "USA"
+            },
+            {
+                "@type": "Place",
+                "name": "France"
+            },
+            {
+                "@type": "Place",
+                "name": "Germany"
+            }
+        ],
+        "startDate": "1930",
+        "endDate": "1931"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Authorized Auditor",
+                "workplace": "Stockholm",
+                "industry": "Accounting",
+                "start_date": "1933"
+            },
+            {
+                "occupational_title": "Junior Accountant",
+                "workplace": "Lybrand, Ross Brothers and Montgomery",
+                "industry": "Accounting",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "AB Industribyr rev.avd",
+                "industry": "Unknown",
+                "start_date": "1929"
+            }
+        ]
+    }
+}

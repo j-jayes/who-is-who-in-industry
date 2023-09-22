@@ -1,0 +1,111 @@
+{
+    "original": "AXELL, Aron Nät., Direktör, Karlstad, f N :e Ullerud 23/10 78 av verkm E A Axell o h h, j?m Elice Eklund. Vkst dir i Nilsson &amp; Axell AB (gr 10) Karlst sed. 23, styr.led där. Ag Villa Solvik o fastigh ö Torggat 7 Karlst. Led Sv Urgross Frn o Sv Optikgross Frn. Resor: Tyskl, Schweiz, Österr. Försäkr AB Nordstjernan-Nordens ftjGM. Hobbies: Fiske, friluftsliv.",
+    "translated": "AXELL, Aron Nät., Director, Karlstad, born in Ullerud on October 23rd, 1878, to the ironworker E A Axell and his wife Elice Eklund. He grew up in Karlstad and became managing director of Nilsson & Axell AB (founded in 1910) in Karlstad. He has been a member of the board there since 1923. Aron also owns Villa Solvik and property on Torggatan 7 in Karlstad. He is a member of the Swedish Wholesale Trade Association and the Swedish Wholesale Association of Optics. He has traveled to Germany, Switzerland, and Austria. Aron is also the general manager of the insurance company Nordstjernan-Norden. His hobbies include fishing and outdoor activities.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Aron Axell",
+        "birthDate": "1878-10-23",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Karlstad"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Elice Eklund"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Nilsson & Axell AB",
+                "foundingDate": "1910",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Karlstad"
+                },
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Swedish Wholesale Trade Association"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Wholesale Association of Optics"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sv Urgross Frn"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sv Optikgross Frn"
+            }
+        ],
+        "owns": [
+            {
+                "@type": "Place",
+                "name": "Villa Solvik"
+            },
+            {
+                "@type": "Place",
+                "name": "Torggatan 7",
+                "address": {
+                    "@type": "PostalAddress",
+                    "streetAddress": "Torggatan 7",
+                    "addressLocality": "Karlstad"
+                }
+            }
+        ],
+        "work": {
+            "@type": "Organization",
+            "name": "Nilsson & Axell AB",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Karlstad"
+            },
+            "startDate": "1923",
+            "jobTitle": "Managing Director"
+        },
+        "hasOccupation": {
+            "@type": "Organization",
+            "name": "Nordstjernan-Norden",
+            "jobTitle": "General Manager"
+        },
+        "knowsLanguage": [
+            "German",
+            "Swedish",
+            "English"
+        ],
+        "knowsAbout": [
+            "Fishing",
+            "Outdoor activities"
+        ],
+        "travelled": [
+            "Germany",
+            "Switzerland",
+            "Austria"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "Nilsson & Axell AB",
+                "industry": "Ironworks",
+                "start_date": "1910"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Nilsson & Axell AB",
+                "industry": "Ironworks",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "General Manager",
+                "workplace": "AB Nordstjernan-Norden",
+                "industry": "Insurance",
+                "start_date": ""
+            }
+        ]
+    }
+}

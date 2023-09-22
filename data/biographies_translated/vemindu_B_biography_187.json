@@ -1,0 +1,116 @@
+{
+    "original": "BERGA, Karl Alf Gunnar, Direktör, Örebro, f öbr 25/6 99 av ing Frithiof Svensson o Anna Mathilda Eklind, gm Birgit Hultman. Studex öbr 19, kansliex Upps 23, elev v Nya Skofabr AB örnen öbr 23—27. Reklamen i AB öbr Kem Tekn Fabr 27—30, vkst dir där sed. 30.",
+    "translated": "BERGA, Karl Alf Gunnar, Director, Örebro, b. 25/6 1899, son of engineer Frithiof Svensson and Anna Mathilda Eklind, m. Birgit Hultman. Graduated Örebro 1919, clerical work Uppsala 1923, apprentice at Nya Skofabr AB örnen Örebro 1923-1927. Worked in advertising at AB ör Kem Tekn Fabr 1927-1930, promoted to director since 1930.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Karl Alf Gunnar Berga",
+        "jobTitle": "Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Örebro"
+        },
+        "birthDate": "1899-06-25",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Frithiof Svensson"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Mathilda Eklind"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Birgit Hultman"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Studex",
+                "educationLevel": "SecondaryEducation",
+                "alumniOf": "Örebro",
+                "endDate": "1919"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Kansliex",
+                "educationLevel": "VocationalSchool",
+                "alumniOf": "Uppsala",
+                "endDate": "1923"
+            }
+        ],
+        "work experience": [
+            {
+                "@type": "JobPosting",
+                "jobTitle": "Apprentice",
+                "startDate": "1923",
+                "endDate": "1927",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Nya Skofabr AB örnen",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Örebro"
+                    }
+                }
+            },
+            {
+                "@type": "JobPosting",
+                "jobTitle": "Advertising",
+                "startDate": "1927",
+                "endDate": "1930",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "AB ör Kem Tekn Fabr",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Örebro"
+                    }
+                }
+            },
+            {
+                "@type": "JobPosting",
+                "jobTitle": "Director",
+                "startDate": "1930",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "AB ör Kem Tekn Fabr",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Örebro"
+                    }
+                }
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Clerical work",
+                "workplace": "Uppsala",
+                "industry": "Unknown",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Apprentice",
+                "workplace": "Nya Skofabr AB örnen",
+                "industry": "Shoe Manufacturing",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Advertising",
+                "workplace": "AB ör Kem Tekn Fabr",
+                "industry": "Chemical Technology",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "AB ör Kem Tekn Fabr",
+                "industry": "Chemical Technology",
+                "start_date": "1930"
+            }
+        ]
+    }
+}

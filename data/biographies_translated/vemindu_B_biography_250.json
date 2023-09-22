@@ -1,0 +1,119 @@
+{
+    "original": "BJÖRKLUND, Albin Georg, Civilingenjör, Åkarp, f Alnarp 22/3 03 av fabr G B o Augusta Nilsson, gm Tuttan Backman. Studex Lunds katedralsk 22, CTH 27, metallogr stud Söderfors Br 27. Försäljn.ing f Söderfors stål h AB J H Dieden J:r Malmö 2&amp;— 35. övertog fad fma Alnarps Redskapsverkstad Gustaf Björklund (gr 96) und fma Alnarps Redskapsverkstad Gustaf Björklund &amp; Son 36, ag dna o fastigh :er i Åkarp. Ordf AB Bröd Ljungdell Malmö, sekr Åkarpsortens andelstvättstuga, frn upa. Resor: Tyskl 32— 33 (Komm.koll stip). Hobby: Jakt.",
+    "translated": "BJÖRKLUND, Albin Georg, Civil Engineer, Åkarp, born in Alnarp on 22 March 1903, son of factory worker G.B. and Augusta Nilsson, married to Tuttan Backman. Graduated from Lund Cathedral School in 1922, studied at the Royal Institute of Technology in 1927, and studied metallurgy at Söderfors AB in 1927. Worked in sales for Söderfors Steel Ltd., J.H. Dieden Jr., Malmö from 1932 to 1935. Took over his father's company, Alnarps Redskapsverkstad, Gustaf Björklund (Class of 1896), and Alnarps Redskapsverkstad, Gustaf Björklund & Son in 1936, managing properties and land in Åkarp. Chairman of AB Bröd Ljungdell Malmö, secretary of Åkarpsortens Cooperative Laundry, since establishment. Traveled to Germany in 1932-1933 with a scholarship from the Trade Council. Hobby: Hunting.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Albin Georg Björklund",
+        "givenName": "Albin Georg",
+        "familyName": "Björklund",
+        "jobTitle": "Civil Engineer",
+        "birthPlace": "Alnarp",
+        "birthDate": "1903-03-22",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "G.B.",
+                "jobTitle": "Factory Worker"
+            },
+            {
+                "@type": "Person",
+                "name": "Augusta Nilsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Tuttan Backman"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Lund Cathedral School",
+                "startDate": "1922",
+                "endDate": "unknown"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Royal Institute of Technology",
+                "startDate": "1927",
+                "endDate": "unknown"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Söderfors AB",
+                "startDate": "1927",
+                "endDate": "unknown"
+            }
+        ],
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "Söderfors Steel Ltd., J.H. Dieden Jr.",
+                "startDate": "1932",
+                "endDate": "1935",
+                "jobTitle": "Sales"
+            },
+            {
+                "@type": "Organization",
+                "name": "Alnarps Redskapsverkstad, Gustaf Björklund",
+                "startDate": "1936",
+                "endDate": "unknown",
+                "description": "Family business, took over from father"
+            },
+            {
+                "@type": "Organization",
+                "name": "Alnarps Redskapsverkstad, Gustaf Björklund & Son",
+                "startDate": "1936",
+                "endDate": "unknown",
+                "description": "Family business, managing properties and land in Åkarp"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Bröd Ljungdell Malmö",
+                "jobTitle": "Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Åkarpsortens Cooperative Laundry",
+                "jobTitle": "Secretary"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Trade Council"
+            }
+        ],
+        "hobby": "Hunting",
+        "description": "Civil Engineer from Sweden",
+        "gender": "Male"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Söderfors Steel Ltd., J.H. Dieden Jr., Malmö",
+                "industry": "Sales",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Owner/Manager",
+                "workplace": "Alnarps Redskapsverkstad, Gustaf Björklund & Son",
+                "industry": "Manufacturing",
+                "start_date": "1936"
+            },
+            {
+                "occupational_title": "Chairman",
+                "workplace": "AB Bröd Ljungdell Malmö",
+                "industry": "Food",
+                "start_date": "unknown"
+            },
+            {
+                "occupational_title": "Secretary",
+                "workplace": "Åkarpsortens Cooperative Laundry",
+                "industry": "Laundry",
+                "start_date": "unknown"
+            }
+        ]
+    }
+}

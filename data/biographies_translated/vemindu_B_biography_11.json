@@ -1,0 +1,139 @@
+{
+    "original": "BARCKMAN, Karl Gustav, Direktör, Stockholm, f Kpg 7/6 01 av dir G B o Nanny Lännstrand, gm Sally Lundin. Studex Upps 20, resoffex 23. Sped o förest Bergsl.brukens Speditions AB Kpg 24—30, anst Åkerholmska Bosättn.mag AB Sthlm 31, dess vkst dir sed. 34. Kapt 1.3 res. Förste v. ordf Sv Gross.frb, led i arb.utsk o imp.nmd. Styr.led Sv Glas-fe Porsl.engr.frn, fullm Sthlms Hdlskamm, led Köpm.frnes Centr f ack o konk.ärenden. Resor: Engl 20—21, Tyskl 23. Sv Lstfrngars Centr.frbs ftjSM. FrimO, NeptO. Hobbies: Jakt o fiske.",
+    "translated": "BARCKMAN, Karl Gustav, Director, Stockholm, b. Kungsholmen on June 7, 1901, son of director G. B. and Nanny Lännstrand, m. Sally Lundin. Studied at Uppsala University in 1920, became a reserve officer in 1923. Worked in shipping and management at Bergslagen's Forwarding Company from 1924 to 1930, employed at Åkerholmska Settlement Store AB in Stockholm from 1931, promoted to managing director in 1934. Captain from March 1, 1933. Deputy chairman of the Swedish Wholesale Union, member of the labor committee and import board. Board member of the Swedish Glass and Porcelain Engineering Association, full member of the Stockholm Chamber of Commerce, member of the Merchants' Association's Center for Labor and Competition Affairs. Traveled to England from 1920 to 1921, and Germany in 1923. Member of the Swedish Order of Freemasons and the Royal Neptune Order. Hobbies include hunting and fishing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Karl Gustav Barckman",
+        "jobTitle": "Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "birthDate": "1901-06-07",
+        "birthPlace": "Kungsholmen",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "G. B. Barckman",
+                "jobTitle": "Director"
+            },
+            {
+                "@type": "Person",
+                "name": "Nanny Lännstrand"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Sally Lundin"
+        },
+        "education": [
+            {
+                "@type": "Organization",
+                "name": "Uppsala University",
+                "startDate": "1920"
+            }
+        ],
+        "alumniOf": "Uppsala University",
+        "militaryService": {
+            "@type": "OrganizationRole",
+            "namedPosition": "Reserve Officer",
+            "startDate": "1923",
+            "endDate": "1923"
+        },
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "Bergslagen's Forwarding Company",
+                "startDate": "1924",
+                "endDate": "1930",
+                "jobTitle": "Shipping and Management"
+            },
+            {
+                "@type": "Organization",
+                "name": "Åkerholmska Settlement Store AB",
+                "startDate": "1931",
+                "endDate": "1934",
+                "jobTitle": "Managing Director"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Wholesale Union",
+                "roleName": "Deputy Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Glass and Porcelain Engineering Association",
+                "roleName": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Stockholm Chamber of Commerce",
+                "roleName": "Full Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Merchants' Association's Center for Labor and Competition Affairs",
+                "roleName": "Member"
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "England"
+                },
+                "startDate": "1920",
+                "endDate": "1921"
+            },
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Germany"
+                },
+                "startDate": "1923",
+                "endDate": "1923"
+            }
+        ],
+        "memberOfOrders": [
+            {
+                "@type": "Order",
+                "name": "Swedish Order of Freemasons"
+            },
+            {
+                "@type": "Order",
+                "name": "Royal Neptune Order"
+            }
+        ],
+        "knowsAbout": [
+            "Hunting",
+            "Fishing"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Stockholm",
+                "industry": null,
+                "start_date": null
+            },
+            {
+                "occupational_title": "Shipping and Management",
+                "workplace": "Bergslagen's Forwarding Company",
+                "industry": "Shipping",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "Åkerholmska Settlement Store AB",
+                "industry": "Retail",
+                "start_date": "1934"
+            }
+        ]
+    }
+}

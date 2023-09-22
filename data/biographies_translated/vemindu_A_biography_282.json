@@ -1,0 +1,145 @@
+{
+    "original": "ASPL.UND, Sten Otto, Försäljningschef, Ljungsbro, f Sthlm 9/3 13 av tax.insp I A o h h f Nycander, gm Märta Westrell. Studex Nya elem.sk Sthlm 33, DHS 36. Anst Sv Telegrambyråns ann.avd Sthlm 34, reklamch.ass Ford Motor Comp AB Sthlm 36—38, försäljn. ch.ass Husqvarna Vapenfabr AB Huskvarna 38—40, h AB Cloetta Ljungsbro 41, försäljn.ch där sed. 42. Resor: Tyskl, Belg, Frankr. Av trycket div art i försäljn- o reklamfråg i fackpress, red tidskr Ekonomen 37—39. Hobbies: Bridge, tennis.",
+    "translated": "ASPL.UND, Sten Otto, Sales Manager, Ljungsbro, b. Stockholm 9/3 13, son of a tax inspector Ivar Axelsson and his wife Hildur Helena Fredrika Nycander, married to Märta Westrell. Graduated from Nya elementarskola Stockholm in 1933, completed higher secondary education in 1936. Employed at Swedish Telegraph Agency's advertising department in Stockholm from 1934, assistant advertising manager at Ford Motor Company AB in Stockholm from 1936 to 1938, assistant sales manager at Husqvarna Vapenfabrik AB in Huskvarna from 1938 to 1940, then joined AB Cloetta in Ljungsbro as sales manager in 1941. Has been working as sales manager there since 1942. Traveled to Germany, Belgium, and France. Published various articles on sales and advertising in trade press, edited the magazine Ekonomen from 1937 to 1939. Hobbies: Bridge, tennis.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Sten Otto Asplund",
+        "jobTitle": "Sales Manager",
+        "birthDate": "1913-03-09",
+        "birthPlace": "Stockholm",
+        "parent": [
+            {
+                "name": "Ivar Axelsson",
+                "jobTitle": "Tax Inspector",
+                "spouse": "Hildur Helena Fredrika Nycander"
+            },
+            {
+                "name": "Hildur Helena Fredrika Nycander",
+                "jobTitle": "Homemaker",
+                "spouse": "Ivar Axelsson"
+            }
+        ],
+        "spouse": "Märta Westrell",
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Secondary",
+                "educationalLevel": "Graduate",
+                "alumniOf": "Nya elementarskola Stockholm",
+                "endDate": "1933"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Secondary",
+                "educationalLevel": "Complete",
+                "endDate": "1936"
+            }
+        ],
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "organization": "Swedish Telegraph Agency",
+                "roleName": "Assistant Advertising Manager",
+                "startDate": "1934",
+                "endDate": "1936"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": "Ford Motor Company AB",
+                "roleName": "Assistant Sales Manager",
+                "startDate": "1936",
+                "endDate": "1938"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": "Husqvarna Vapenfabrik AB",
+                "roleName": "Assistant Sales Manager",
+                "location": "Huskvarna",
+                "startDate": "1938",
+                "endDate": "1940"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": "AB Cloetta",
+                "roleName": "Sales Manager",
+                "location": "Ljungsbro",
+                "startDate": "1941"
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "TravelAction",
+                "toLocation": [
+                    {
+                        "@type": "Country",
+                        "name": "Germany"
+                    },
+                    {
+                        "@type": "Country",
+                        "name": "Belgium"
+                    },
+                    {
+                        "@type": "Country",
+                        "name": "France"
+                    }
+                ]
+            }
+        ],
+        "publications": [
+            {
+                "@type": "Article",
+                "name": "Various articles on sales and advertising in trade press",
+                "publicationType": "Trade Publication",
+                "inLanguage": "Swedish",
+                "startDate": "1937",
+                "endDate": "1939"
+            },
+            {
+                "@type": "Periodical",
+                "name": "Ekonomen",
+                "editor": "Sten Otto Asplund",
+                "startDate": "1937",
+                "endDate": "1939"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "SportsClub",
+                "name": "Bridge Club"
+            },
+            {
+                "@type": "SportsClub",
+                "name": "Tennis Club"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Sales Manager",
+                "workplace": "Ljungsbro",
+                "industry": "AB Cloetta",
+                "start_date": "1942"
+            },
+            {
+                "occupational_title": "Assistant Sales Manager",
+                "workplace": "Husqvarna Vapenfabrik AB",
+                "industry": "Huskvarna",
+                "start_date": "1938"
+            },
+            {
+                "occupational_title": "Assistant Advertising Manager",
+                "workplace": "Ford Motor Company AB",
+                "industry": "Stockholm",
+                "start_date": "1936"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Swedish Telegraph Agency",
+                "industry": "Stockholm",
+                "start_date": "1934"
+            }
+        ]
+    }
+}

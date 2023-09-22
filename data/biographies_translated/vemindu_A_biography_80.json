@@ -1,0 +1,133 @@
+{
+    "original": "ALBERTSSON, Arvid Adauktus, Prokurist, Stockholm, f Sicklaö, Sthlms l, 30/8 78 av fjärd.m E A Johansson o Maria Skoglund, gm Elin Johansson. Hdlssk, språkstud v ensk lärov. Anst ag.fma Nicolai Johannsen 97—04, kont.ch fma Adolph Lemons AB 04—09, kontch o ink.ch fma Klint, Bernhardt &amp; Co 10, prok sed. 23. Ag 3 fastigh i Skarpnäs, Bo s:n. Rev Sthlms färghandl.frn, Sthlms tapethandl:s frn, Sv tapethandl:s riksfrb o Medicinglasgross:s frn, sekr Hasseludden-Lövberga-Skarpnäs fastigh.äg.frn. ProPstGM.",
+    "translated": "ALBERTSSON, Arvid Adauktus, Procurator, Stockholm, b. Sicklaö, Stockholm County, 30/8 1878, son of E A Johansson and Maria Skoglund, married to Elin Johansson. Commercial school graduate, language studies at a Swedish school. Employed by Nicolai Johannsen 1897-1904, accounting clerk at Adolph Lemons AB 1904-1909, accounting and purchasing clerk at Klint, Bernhardt & Co from 1910, promoted to procurator in 1923. Owns 3 properties in Skarpnäs, Bo parish. Board member of Stockholm's paint store, Stockholm's wallpaper store, Swedish wallpaper store national association, and medical glassware wholesaler. Secretary of Hasseludden-Lövberga-Skarpnäs real estate owners association. Member of the ProPstGM.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Arvid Adauktus Albertsson",
+        "birthDate": "1878-08-30",
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Sicklaö, Stockholm County"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "E A Johansson"
+            },
+            {
+                "@type": "Person",
+                "name": "Maria Skoglund"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Elin Johansson"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Commercial school graduate",
+            "educationalLevel": "Language studies"
+        },
+        "employment": [
+            {
+                "@type": "Organization",
+                "name": "Nicolai Johannsen",
+                "startDate": "1897",
+                "endDate": "1904",
+                "jobTitle": "Employee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Adolph Lemons AB",
+                "startDate": "1904",
+                "endDate": "1909",
+                "jobTitle": "Accounting Clerk"
+            },
+            {
+                "@type": "Organization",
+                "name": "Klint, Bernhardt & Co",
+                "startDate": "1910",
+                "jobTitle": "Accounting and Purchasing Clerk"
+            }
+        ],
+        "promotions": [
+            {
+                "@type": "PromotionEvent",
+                "name": "Promoted to procurator",
+                "startDate": "1923"
+            }
+        ],
+        "owns": [
+            {
+                "@type": "OwnershipInfo",
+                "typeOfGood": {
+                    "@type": "RealEstate"
+                },
+                "numberOfProperties": 3,
+                "location": {
+                    "@type": "Place",
+                    "name": "Skarpnäs, Bo parish"
+                }
+            }
+        ],
+        "boardMemberships": [
+            {
+                "@type": "Organization",
+                "name": "Stockholm's Paint Store"
+            },
+            {
+                "@type": "Organization",
+                "name": "Stockholm's Wallpaper Store"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Wallpaper Store National Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Medical Glassware Wholesaler"
+            }
+        ],
+        "secretaryOf": [
+            {
+                "@type": "Organization",
+                "name": "Hasseludden-Lövberga-Skarpnäs Real Estate Owners Association"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "ProPstGM"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Procurator",
+                "workplace": "Stockholm",
+                "industry": "",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Accounting and Purchasing Clerk",
+                "workplace": "Klint, Bernhardt & Co",
+                "industry": "",
+                "start_date": "1910"
+            },
+            {
+                "occupational_title": "Accounting Clerk",
+                "workplace": "Adolph Lemons AB",
+                "industry": "",
+                "start_date": "1904"
+            },
+            {
+                "occupational_title": "Employed",
+                "workplace": "Nicolai Johannsen",
+                "industry": "",
+                "start_date": "1897"
+            }
+        ]
+    }
+}

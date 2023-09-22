@@ -1,0 +1,75 @@
+{
+    "original": "ALEXANDERSON, Sten Gustav, överingenjör, Södertälje, f Sveg 3/11 07 av godsägare A A o Ida Wagenius, gm Märtha Lau-rén. 1-årig handlssk, tekn inst Sthlm 31, prakt Tyskl. I fma W Dan Bergman (num",
+    "translated": "Translation: ALEXANDERSON, Sten Gustav, Chief Engineer, Södertälje, born in Sveg on November 3, 1907, son of landowner A. A. and Ida Wagenius, married to Märtha Lau-rén. Completed a 1-year commerce school and technical institute in Stockholm in 1931, practical training in Germany. Later married to Dan Bergman (not numbered).",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Sten Gustav Alexanderson",
+        "givenName": "Sten Gustav",
+        "familyName": "Alexanderson",
+        "additionalName": "Sten",
+        "birthDate": "1907-11-03",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Sveg"
+        },
+        "nationality": "Swedish",
+        "occupation": "Chief Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Södertälje"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "A. A. Alexanderson",
+                "gender": "male",
+                "jobTitle": "Landowner"
+            },
+            {
+                "@type": "Person",
+                "name": "Ida Wagenius",
+                "gender": "female"
+            }
+        ],
+        "spouse": [
+            {
+                "@type": "Person",
+                "name": "Märtha Lau-rén",
+                "gender": "female"
+            },
+            {
+                "@type": "Person",
+                "name": "Dan Bergman",
+                "gender": "unknown"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "1-year commerce school",
+                "institution": {
+                    "@type": "EducationalOrganization",
+                    "name": "Technical Institute, Stockholm"
+                },
+                "endDate": "1931"
+            }
+        ],
+        "alumniOf": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Technical Institute, Stockholm"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Chief Engineer",
+                "workplace": "Södertälje",
+                "industry": "",
+                "start_date": ""
+            }
+        ]
+    }
+}

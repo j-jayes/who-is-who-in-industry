@@ -1,0 +1,130 @@
+{
+    "original": "ALI,SING, Carl Gustaf Viktor, Disponent, Hasslarp, f Hbg 25/5 87, gm Ruth Larsson. Mogenh.ex Hbg,06, ex CTI 09. Kem v Actien-Zuckerfabrik Stendal Tyskl 09, kem o ass v Actien-Zuckerfabr Strassburg u M Tyskl 10— 12, ass v Staffanstorps sockerfabr 12—16, disp v Skivarps sockerfabr 17—28, d:o Hasslarps sockerfabr fr 28. Led kommunalnmdn Kattarp fr 29, kommunalflm fr 31.",
+    "translated": "ALI, SING, Carl Gustaf Viktor, Managing Director, Hasslarp, b Helsingborg 25/5 87, m Ruth Larsson. Graduated Maturity Exam Helsingborg, 06, former Central Technical Institute 09. Chemist at Actien-Zuckerfabrik Stendal Germany 09, chemist and assistant at Actien-Zuckerfabr Strassburg and M Germany 10-12, assistant at Staffanstorps sockerfabr 12-16, managing director at Skivarps sockerfabr 17-28, same at Hasslarps sockerfabr from 28. Member of the municipal committee in Kattarp from 29, municipal film from 31.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Gustaf Viktor Ali, SING",
+        "jobTitle": "Managing Director",
+        "birthDate": "1887-05-25",
+        "birthPlace": "Helsingborg",
+        "spouse": {
+            "@type": "Person",
+            "name": "Ruth Larsson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Maturity Exam",
+                "credentialEarned": "Graduated",
+                "educationalLevel": "SecondaryEducation",
+                "educationalCredentialAwarded": "Maturity Exam",
+                "educationalInstitution": "Helsingborg",
+                "graduationYear": "1906"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Central Technical Institute",
+                "credentialEarned": "Former",
+                "educationalLevel": "HigherEducation",
+                "educationalCredentialAwarded": "Central Technical Institute",
+                "graduationYear": "1909"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Actien-Zuckerfabrik Stendal",
+                "jobTitle": "Chemist",
+                "location": "Stendal, Germany",
+                "startDate": "1909",
+                "endDate": "1912"
+            },
+            {
+                "@type": "Organization",
+                "name": "Actien-Zuckerfabr Strassburg and M",
+                "jobTitle": "Chemist and Assistant",
+                "location": "Strassburg and M, Germany",
+                "startDate": "1910",
+                "endDate": "1912"
+            },
+            {
+                "@type": "Organization",
+                "name": "Staffanstorps sockerfabr",
+                "jobTitle": "Assistant",
+                "location": "Staffanstorps",
+                "startDate": "1912",
+                "endDate": "1916"
+            },
+            {
+                "@type": "Organization",
+                "name": "Skivarps sockerfabr",
+                "jobTitle": "Managing Director",
+                "location": "Skivarps",
+                "startDate": "1917",
+                "endDate": "1928"
+            },
+            {
+                "@type": "Organization",
+                "name": "Hasslarps sockerfabr",
+                "jobTitle": "Managing Director",
+                "location": "Hasslarps",
+                "startDate": "1928"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "municipal committee in Kattarp",
+                "membershipType": "Kattarp municipal committee",
+                "startDate": "1929"
+            },
+            {
+                "@type": "Organization",
+                "name": "municipal film",
+                "membershipType": "Municipal film",
+                "startDate": "1931"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "Hasslarp",
+                "industry": "Sugarcane Manufacturing",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Assistant",
+                "workplace": "Staffanstorps sockerfabr",
+                "industry": "Sugarcane Manufacturing",
+                "start_date": "1912"
+            },
+            {
+                "occupational_title": "Chemist and Assistant",
+                "workplace": "Actien-Zuckerfabr Strassburg and M",
+                "industry": "Sugarcane Manufacturing",
+                "start_date": "1910"
+            },
+            {
+                "occupational_title": "Chemist",
+                "workplace": "Actien-Zuckerfabrik Stendal",
+                "industry": "Sugarcane Manufacturing",
+                "start_date": "1909"
+            },
+            {
+                "occupational_title": "Former Central Technical Institute",
+                "workplace": "",
+                "industry": "",
+                "start_date": "1909"
+            },
+            {
+                "occupational_title": "Graduated Maturity Exam",
+                "workplace": "Helsingborg",
+                "industry": "",
+                "start_date": "1906"
+            }
+        ]
+    }
+}

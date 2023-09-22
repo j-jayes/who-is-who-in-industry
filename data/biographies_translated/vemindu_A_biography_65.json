@@ -1,0 +1,94 @@
+{
+    "original": "AHLSTRÖM, Bror Johan Ragnar, Civilingenjör, Stockholm, f Upps 22/2 01 av lagerch J A o Emma Schiitt, gm Anna Eckerström. Studex Upps ensk Irv 19, CTH 22. Anst Wargöns AB 23—24, AB Pharmacia sed. 24. Upprep aff.resor öl europ länd. Hobbies: Idrott, jakt, fjällsport.",
+    "translated": "AHLSTRÖM, Bror Johan Ragnar, Civil Engineer, Stockholm, born in Uppsala on 22nd February 1901, to warehouse manager J A and Emma Schiitt. Married Anna Eckerström. Graduated from Uppsala private secondary school in 1919, and from Chalmers University of Technology in 1922. Employed at Wargöns AB from 1923 to 1924, and at AB Pharmacia since then. Made numerous business trips throughout European countries. Hobbies: Sports, hunting, mountaineering.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Bror Johan Ragnar Ahlström",
+        "jobTitle": "Civil Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "birthDate": "1901-02-22",
+        "birthPlace": "Uppsala",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "J A Ahlström",
+                "jobTitle": "Warehouse Manager"
+            },
+            {
+                "@type": "Person",
+                "name": "Emma Schiitt"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Anna Eckerström"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Uppsala Private Secondary School",
+                "location": "Uppsala",
+                "startDate": "1919",
+                "endDate": "1922"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Chalmers University of Technology",
+                "location": "Gothenburg",
+                "startDate": "1922",
+                "endDate": "N/A"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Wargöns AB",
+                "startDate": "1923",
+                "endDate": "1924"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Pharmacia",
+                "startDate": "1924",
+                "endDate": "N/A"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "European Business Association"
+            }
+        ],
+        "hobbies": [
+            "Sports",
+            "Hunting",
+            "Mountaineering"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Stockholm",
+                "industry": "Engineering",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Wargöns AB",
+                "industry": "Unknown",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "AB Pharmacia",
+                "industry": "Pharmaceuticals",
+                "start_date": "1924"
+            }
+        ]
+    }
+}

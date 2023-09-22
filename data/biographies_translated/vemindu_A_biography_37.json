@@ -1,0 +1,99 @@
+{
+    "original": "AHLENIUS, Anders Mårten, Köpman, Söderhamn, f Grönahög, Älvsb län, 25/3 74, gm Olga Sundvall. Hdlssk Sthlm. Egna föret: A M Ahlenius skepps- o div.hdl, Sandarne, o Sandarne div.hdl (gr 07). Kyrkov, v. ordf i Södern folksk.styr, led av fi kommun o kyrkl styr o nmdr i Söderh. Ordf i Söderh köpm.frn, styr.led i Gävleb läns köpm-frb o Skand bkns avdkont. Frimurare, Odd Fellow, Sv köpmfrb Ht g.",
+    "translated": "AHLENIUS, Anders Mårten, Merchant, Söderhamn, born in Grönahög, Älvsborg county, on March 25th, 1874, married to Olga Sundvall. Completed trade school in Stockholm. Owns businesses: A M Ahlenius shipping and various trade, Sandarne, and Sandarne various trade (founded in 1907). Vice chairman of the Southern Elementary School Board, member of the municipal and church boards, and committee member in Söderhamn. Chairman of the Söderhamn Merchants' Association and board member of the Gävleborg County Merchants' Association and the Scandinavian Bank branch office. Freemason, Odd Fellow, Swedish Merchants' Association Ht g..",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Anders Mårten Ahlenius",
+        "birthDate": "1874-03-25",
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Grönahög, Älvsborg county, Sweden"
+        },
+        "nationality": "Swedish",
+        "occupation": "Merchant",
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Southern Elementary School Board",
+            "roleName": "Vice Chairman"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Olga Sundvall"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Trade School",
+            "name": "Trade School, Stockholm"
+        },
+        "owns": [
+            {
+                "@type": "Organization",
+                "name": "A M Ahlenius shipping and various trade, Sandarne"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sandarne various trade",
+                "foundingDate": "1907"
+            }
+        ],
+        "memberOf2": [
+            {
+                "@type": "Organization",
+                "name": "Söderhamn Merchants' Association",
+                "roleName": "Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Gävleborg County Merchants' Association",
+                "roleName": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Scandinavian Bank branch office",
+                "roleName": "Board Member"
+            }
+        ],
+        "activities": [
+            {
+                "@type": "GovernmentService",
+                "name": "Municipal Board",
+                "roleName": "Member"
+            },
+            {
+                "@type": "GovernmentService",
+                "name": "Church Board",
+                "roleName": "Member"
+            },
+            {
+                "@type": "GovernmentService",
+                "name": "Söderhamn Committee",
+                "roleName": "Committee Member"
+            }
+        ],
+        "memberOf3": [
+            {
+                "@type": "Organization",
+                "name": "Freemasons"
+            },
+            {
+                "@type": "Organization",
+                "name": "Odd Fellows"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Merchants' Association"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "A M Ahlenius shipping and various trade, Sandarne",
+                "industry": "Shipping and trade",
+                "start_date": "Founded in 1907"
+            }
+        ]
+    }
+}

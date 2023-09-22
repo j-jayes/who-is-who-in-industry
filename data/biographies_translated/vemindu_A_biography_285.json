@@ -1,0 +1,100 @@
+{
+    "original": "ASSABSSON, Conrad Mauritz, Direktör, Malmö, f Reslöv, Malmöh l, 8/3 95 av patron J Chr A o Anna Mårtensson, gm Tullia Nylin. Studex Lkrona 13, anst i Skand Bkn 14 —20, DHS 23, prakt i textilbranschen 24—34. Vkst dir i C M Assarsson AB i Malmö (strumpor engros) sed. 34.",
+    "translated": "ASSABSSON, Conrad Mauritz, Director, Malmö, b. Reslöv, Malmö County, 8/3 1895, to patron J Chr A and Anna Mårtensson, m. Tullia Nylin. Graduated from Lkrona 13, employed at Skand Bkn 14-20, DHS 23, apprentice in the textile industry 24-34. Became managing director at C M Assarsson AB in Malmö (wholesale stockings) since 34.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Conrad Mauritz Assabsson",
+        "jobTitle": "Director",
+        "birthDate": "1895-03-08",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Reslöv",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Malmö",
+                "addressRegion": "Malmö County"
+            }
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "J Chr A",
+                "sameAs": "patron"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Mårtensson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Tullia Nylin"
+        },
+        "education": {
+            "@type": "CollegeOrUniversity",
+            "name": "Lkrona",
+            "startDate": "1913"
+        },
+        "employment": [
+            {
+                "@type": "Organization",
+                "name": "Skand Bkn",
+                "startDate": "1914",
+                "endDate": "1920"
+            },
+            {
+                "@type": "Organization",
+                "name": "DHS",
+                "startDate": "1923"
+            },
+            {
+                "@type": "Organization",
+                "name": "Textile Industry",
+                "startDate": "1924",
+                "endDate": "1934",
+                "additionalType": "Apprenticeship"
+            },
+            {
+                "@type": "Organization",
+                "name": "C M Assarsson AB",
+                "jobTitle": "Managing Director",
+                "startDate": "1934",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Malmö",
+                    "addressCountry": "Sweden"
+                },
+                "description": "Wholesale stockings"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Student",
+                "workplace": "Lkrona",
+                "industry": "Education",
+                "start_date": "1913"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Skand Bkn",
+                "industry": "Banking",
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Apprentice",
+                "workplace": "Textile Industry",
+                "industry": "Textiles",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "C M Assarsson AB",
+                "industry": "Wholesale stockings",
+                "start_date": "1934"
+            }
+        ]
+    }
+}

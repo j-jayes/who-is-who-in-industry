@@ -1,0 +1,135 @@
+{
+    "original": "BJÖRKMAN, Carl Gustaf Alexander, Direktör, Höglandstorget, f Sthlm 12/8 93 av grosshdl O B o Inez Stålhand, gm Edith Pettersson. Studex v österm hal Sthlm 11. Tjm Sundsv ensk bk 11—16, kamr AB H Schultz 16—32, börsmäkl fondkomm Sven Blomdahl 32—38, kamr BankirAB E. Banck 38—41, Styr.led där sed. 38 o vkst dir där sed. 41. Äger villfastigh i Ålsten. Sthlm fondb ftjSM v 80 års jub. Hobbies: Musik m notsamling, fjällbestign, cykelfärder.",
+    "translated": "BJÖRKMAN, Carl Gustaf Alexander, Director, Höglandstorget, b. Stockholm 12/8 93, son of wholesale merchant O B and Inez Stålhand, m. Edith Pettersson. Graduated from Westermalm High School in Stockholm in 1911. Worked as a clerk at Sundsv English bank from 1911 to 1916, assistant at AB H Schultz from 1916 to 1932, stockbroker at Sven Blomdahl investment fund from 1932 to 1938, assistant at BankirAB E. Banck from 1938 to 1941. Has been a board member and managing director at the latter since 1938 and 1941, respectively. Owns real estate in Ålsten. Received the Stockholm Stock Exchange's honorary badge for 80 years of service. Hobbies: Music with a collection, mountain climbing, cycling trips.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Gustaf Alexander Björkman",
+        "jobTitle": "Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Höglandstorget"
+        },
+        "birthDate": "1893-08-12",
+        "birthPlace": "Stockholm",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "O B Björkman",
+                "jobTitle": "Wholesale Merchant"
+            },
+            {
+                "@type": "Person",
+                "name": "Inez Stålhand"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Edith Pettersson"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Westermalm High School",
+            "location": "Stockholm",
+            "startDate": "1911"
+        },
+        "workExperience": [
+            {
+                "@type": "Organization",
+                "name": "Sundsv English Bank",
+                "jobTitle": "Clerk",
+                "startDate": "1911",
+                "endDate": "1916"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB H Schultz",
+                "jobTitle": "Assistant",
+                "startDate": "1916",
+                "endDate": "1932"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sven Blomdahl Investment Fund",
+                "jobTitle": "Stockbroker",
+                "startDate": "1932",
+                "endDate": "1938"
+            },
+            {
+                "@type": "Organization",
+                "name": "BankirAB E. Banck",
+                "jobTitle": "Assistant",
+                "startDate": "1938",
+                "endDate": "1941"
+            },
+            {
+                "@type": "Organization",
+                "name": "BankirAB E. Banck",
+                "jobTitle": "Managing Director",
+                "startDate": "1941"
+            }
+        ],
+        "owns": {
+            "@type": "Place",
+            "name": "Ålsten"
+        },
+        "awards": [
+            {
+                "@type": "Badge",
+                "name": "Stockholm Stock Exchange's Honorary Badge",
+                "description": "For 80 years of service"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Stockholm Stock Exchange"
+            }
+        ],
+        "hobbies": [
+            "Music (with a collection)",
+            "Mountain climbing",
+            "Cycling trips"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Clerk",
+                "workplace": "Sundsv English bank",
+                "industry": "Banking",
+                "start_date": "1911"
+            },
+            {
+                "occupational_title": "Assistant",
+                "workplace": "AB H Schultz",
+                "industry": "Unknown",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Stockbroker",
+                "workplace": "Sven Blomdahl investment fund",
+                "industry": "Investment",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Assistant",
+                "workplace": "BankirAB E. Banck",
+                "industry": "Banking",
+                "start_date": "1938"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "BankirAB E. Banck",
+                "industry": "Banking",
+                "start_date": "1938"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "BankirAB E. Banck",
+                "industry": "Banking",
+                "start_date": "1941"
+            }
+        ]
+    }
+}

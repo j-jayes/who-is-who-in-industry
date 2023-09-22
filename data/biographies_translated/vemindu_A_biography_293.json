@@ -1,0 +1,87 @@
+{
+    "original": "AXDOBPH, Rolf Sture Waldemar, Direktör, Djursholm, f Ludv 20/10 13 av grhdl W A o Ebba Lundén, gm Gertrud Larsson. Studex Djursh 33, DHS 36. Anst fma Wald Axdorph 33—36, nu inneh, kamr Bergsl tegel- &amp; kalk-br.AB Ludv 36—37, dir 38—43, aman Armé-förvaltn:s sjukv.styr 42. Hobbies: Jordbr, friluftsliv, spec scouting.",
+    "translated": "AXDOBPH, Rolf Sture Waldemar, Director, Djursholm, born in Ludvika on October 20, 1913, son of the late W A and Ebba Lundén. Married to Gertrud Larsson. Graduated from Djursholm High School in 1933 and DHS (unknown abbreviation) in 1936. Employed at the Wald Axdorph company from 1933 to 1936, now holding a position at Bergsl Tegel- & Lime Works AB from 1936 to 1937, director from 1938 to 1943, and employed by the Army Administration Medical Services from 1942. Hobbies include agriculture, outdoor activities, specifically scouting.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Rolf Sture Waldemar AXDOBPH",
+        "jobTitle": "Director",
+        "birthPlace": "Ludvika",
+        "birthDate": "1913-10-20",
+        "parent": [
+            {
+                "name": "W A",
+                "sameAs": "W A"
+            },
+            {
+                "name": "Ebba Lundén",
+                "sameAs": "Ebba Lundén"
+            }
+        ],
+        "spouse": [
+            {
+                "@type": "Person",
+                "name": "Gertrud Larsson",
+                "sameAs": "Gertrud Larsson"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "High School Diploma",
+                "issuer": "Djursholm High School",
+                "issuedDate": "1933"
+            },
+            {
+                "credentialCategory": "DHS",
+                "issuedDate": "1936"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Wald Axdorph",
+                "startDate": "1933",
+                "endDate": "1936"
+            },
+            {
+                "@type": "Organization",
+                "name": "Bergsl Tegel- & Lime Works AB",
+                "startDate": "1936",
+                "endDate": "1937"
+            },
+            {
+                "@type": "Organization",
+                "name": "Army Administration Medical Services",
+                "startDate": "1942"
+            }
+        ],
+        "hobbies": [
+            "Agriculture",
+            "Outdoor Activities",
+            "Scouting"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Bergsl Tegel- & Lime Works AB",
+                "industry": "Construction",
+                "start_date": "1938"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Wald Axdorph",
+                "industry": "Unknown",
+                "start_date": "1933"
+            },
+            {
+                "occupational_title": "Member of Army Administration Medical Services",
+                "workplace": "Army Administration",
+                "industry": "Healthcare",
+                "start_date": "1942"
+            }
+        ]
+    }
+}

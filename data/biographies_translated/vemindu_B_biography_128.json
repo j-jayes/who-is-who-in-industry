@@ -1,0 +1,112 @@
+{
+    "original": "BERGLUND, Anna-Stina, Kamrer, Gällivare, f Luleå 20/2 99 av järnv.tjm J A B o Emma Svensson. Realex 16. Anst h postvkt 16—18, i AB Köpmannabkn 19—20, AB Sv Hdlsbkn 21—40, kamr AB Gällivare Ångbryggeri sed. 40. Resor: Danm, Tyskl, Schweiz, Österr, Ung, Tjeckoslov 35, Norge 37, Frankr, Ital 38. Idrmg, skidlöp.mg. Hobby: Skidåkning.",
+    "translated": "BERGLUND, Anna-Stina, Chief accountant, Gällivare, born in Luleå on February 20, 1899, daughter of railway employee J A B and Emma Svensson. Completed junior high school at the age of 16. Employed as a postal guard from 1916 to 1918, at AB Köpmannabkn from 1919 to 1920, AB Sv Hdlsbkn from 1921 to 1940, and as Chief accountant at AB Gällivare Ångbryggeri since 1940. Travelled to Denmark, Germany, Switzerland, Austria, Hungary, Czechoslovakia in 1935, Norway in 1937, France and Italy in 1938. Engaged in sports, particularly skiing. Hobby: Skiing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Anna-Stina Berglund",
+        "jobTitle": "Chief Accountant",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Gällivare"
+        },
+        "birthDate": "1899-02-20",
+        "birthPlace": "Luleå",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "J A B",
+                "jobTitle": "Railway Employee"
+            },
+            {
+                "@type": "Person",
+                "name": "Emma Svensson"
+            }
+        ],
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Realex",
+            "credentialLevel": {
+                "@type": "DefinedTerm",
+                "name": "Junior High School"
+            },
+            "dateCredentialAwarded": "1915-01-01"
+        },
+        "performerIn": [
+            {
+                "@type": "OrganizationRole",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "AB Köpmannabkn",
+                    "startDate": "1919",
+                    "endDate": "1920"
+                },
+                "roleName": "Postal Guard"
+            },
+            {
+                "@type": "OrganizationRole",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "AB Sv Hdlsbkn",
+                    "startDate": "1921",
+                    "endDate": "1940"
+                },
+                "roleName": "Employee"
+            },
+            {
+                "@type": "OrganizationRole",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "AB Gällivare Ångbryggeri",
+                    "startDate": "1940"
+                },
+                "roleName": "Chief Accountant"
+            }
+        ],
+        "knowsAbout": [
+            "Denmark",
+            "Germany",
+            "Switzerland",
+            "Austria",
+            "Hungary",
+            "Czechoslovakia",
+            "Norway",
+            "France",
+            "Italy"
+        ],
+        "hobby": "Skiing",
+        "memberOf": {
+            "@type": "SportsTeam",
+            "name": "Sports Team",
+            "sport": "Skiing"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Postal Guard",
+                "workplace": "Post Office",
+                "industry": "Postal Services",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Chief Accountant",
+                "workplace": "AB Köpmannabkn",
+                "industry": "Banking",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Chief Accountant",
+                "workplace": "AB Sv Hdlsbkn",
+                "industry": "Banking",
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Chief Accountant",
+                "workplace": "AB Gällivare Ångbryggeri",
+                "industry": "Brewery",
+                "start_date": "1940"
+            }
+        ]
+    }
+}

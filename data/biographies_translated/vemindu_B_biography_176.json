@@ -1,0 +1,149 @@
+{
+    "original": "BERGSTRÖM, Karl Johan Fredrik, Civilingenjör, Stockholm, f Skultuna, Västml l, 20/10 97 av kamrer F B o Augusta Jansson, gm Karin Blom. Studex Västerås 16, KTH 16 —20. Lär v tekn inst Sthlm 21, bitr ångtekn v Holmens Bruks o Fabr AB Norrkp 22—27, ångtekn v AB Iggesunds Bruk 27—28, be-ställn- o försäljn.ing v AB Sv Fläktfabr Sthlm 28—31, planer- o driftsing v Ahlén &amp; Åkerlunds Förlag Sthlm fr 31. Led Sv Tekn.frn. Stip.resa USA o Canada 29.",
+    "translated": "BERGSTRÖM, Karl Johan Fredrik, Civil Engineer, Stockholm, born in Skultuna, Västmanland county, on October 20, 1897, to accountant F B and Augusta Jansson. Married to Karin Blom. Completed high school in Västerås in 1916, and studied at the Royal Institute of Technology in Stockholm from 1916 to 1920. Worked as a teacher at a technical institute in Stockholm in 1921, assistant steam engineer at Holmens Bruks and Fabriks AB in Norrkoping from 1922 to 1927, steam engineer at AB Iggesunds Bruk in 1927-1928, procurement and sales at AB Svenska Fläktfabrikerna in Stockholm from 1928 to 1931, and planning and operations engineer at Ahlén & Åkerlunds Förlag in Stockholm since 1931. Member of the Swedish Society of Engineers. Granted a stipend for a trip to the USA and Canada in 1929.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Karl Johan Fredrik Bergström",
+        "jobTitle": "Civil Engineer",
+        "birthPlace": "Skultuna, Västmanland County, Sweden",
+        "birthDate": "1897-10-20",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "F B Bergström",
+                "jobTitle": "Accountant"
+            },
+            {
+                "@type": "Person",
+                "name": "Augusta Jansson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Karin Blom"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "educationalLevel": "High School",
+            "provider": {
+                "@type": "EducationalOrganization",
+                "name": "Västerås"
+            },
+            "endDate": "1916"
+        },
+        "alumniOf": {
+            "@type": "CollegeOrUniversity",
+            "name": "Royal Institute of Technology",
+            "location": "Stockholm",
+            "startDate": "1916",
+            "endDate": "1920"
+        },
+        "worksFor": [
+            {
+                "@type": "EmploymentAgency",
+                "name": "Technical Institute",
+                "location": "Stockholm",
+                "startDate": "1921"
+            },
+            {
+                "@type": "EmploymentAgency",
+                "name": "Holmens Bruks and Fabriks AB",
+                "location": "Norrköping",
+                "startDate": "1922",
+                "endDate": "1927",
+                "employee": {
+                    "@type": "Person",
+                    "name": "Karl Johan Fredrik Bergström",
+                    "jobTitle": "Assistant Steam Engineer"
+                }
+            },
+            {
+                "@type": "EmploymentAgency",
+                "name": "AB Iggesunds Bruk",
+                "location": "",
+                "startDate": "1927",
+                "endDate": "1928",
+                "employee": {
+                    "@type": "Person",
+                    "name": "Karl Johan Fredrik Bergström",
+                    "jobTitle": "Steam Engineer"
+                }
+            },
+            {
+                "@type": "EmploymentAgency",
+                "name": "AB Svenska Fläktfabrikerna",
+                "location": "Stockholm",
+                "startDate": "1928",
+                "endDate": "1931",
+                "employee": {
+                    "@type": "Person",
+                    "name": "Karl Johan Fredrik Bergström",
+                    "jobTitle": "Procurement and Sales"
+                }
+            },
+            {
+                "@type": "EmploymentAgency",
+                "name": "Ahlén & Åkerlunds Förlag",
+                "location": "Stockholm",
+                "startDate": "1931",
+                "employee": {
+                    "@type": "Person",
+                    "name": "Karl Johan Fredrik Bergström",
+                    "jobTitle": "Planning and Operations Engineer"
+                }
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Swedish Society of Engineers"
+        },
+        "awards": [
+            {
+                "@type": "Sponsorship",
+                "name": "Stipend",
+                "description": "Granted for a trip to the USA and Canada",
+                "startDate": "1929",
+                "endDate": "1929",
+                "sponsor": {
+                    "@type": "Person",
+                    "name": "Swedish Tekniska Föreningen"
+                }
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Teacher",
+                "workplace": "Technical Institute in Stockholm",
+                "industry": "Education",
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Assistant Steam Engineer",
+                "workplace": "Holmens Bruks and Fabriks AB",
+                "industry": "Manufacturing",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Steam Engineer",
+                "workplace": "AB Iggesunds Bruk",
+                "industry": "Manufacturing",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Procurement and Sales",
+                "workplace": "AB Svenska Fläktfabrikerna",
+                "industry": "Manufacturing",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Planning and Operations Engineer",
+                "workplace": "Ahlén & Åkerlunds Förlag",
+                "industry": "Publishing",
+                "start_date": "1931"
+            }
+        ]
+    }
+}

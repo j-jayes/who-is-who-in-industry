@@ -1,0 +1,160 @@
+{
+    "original": "BILLMAN, Stig Karl Magnus, Civilingenjör, Stockholm, f Östersund 10/8 07 av major B A H B o Ewa Wikström, gm Brita Wintzell. Studex Krist 25, civ.ing.ex KTH (fackavd f eltekn) 29. Anst SJ 26—27, L M Ericsson 28, AB Birka Regulator Sthlm 29—32. Grund, ag o ch f Ing.fma Stig K M Billman, Sthlm, etabl 32. Firman tillv aut elektr regulatorer, störst i Norden i sin spec.br, syssels 75 pers, års-tillv c:a l milj kr, avd.kont Gbg o Malmö. Ag villafastgh v Strömma Bro, Värmdö skn, Sthlm län. Resor: De fi europ Idr 31—40. Av trycket: Upps i fackpressen.",
+    "translated": "BILLMAN, Stig Karl Magnus, Civil Engineer, Stockholm, b. Östersund 10/8 1907, son of Major B.A.H.B. and Ewa Wikström, m. Brita Wintzell. Graduated from Kristianstad College in 1925, and obtained a civil engineering degree from the Royal Institute of Technology (specializing in electrical engineering) in 1929. Employed at Swedish Railways 1926-1927, L.M. Ericsson in 1928, and AB Birka Regulator in Stockholm 1929-1932. Founded his own company under the name Stig K.M. Billman Engineering in Stockholm in 1932. The company manufactures automatic electrical regulators and is the largest in its specialty in the Nordic countries, employing 75 people and generating an annual turnover of approximately 1 million SEK. Branch offices located in Gothenburg and Malmö. Owns a villa property in Strömma Bro, Värmdö district, Stockholm county. Traveled extensively in Europe between 1931 and 1940. Publications: Published in trade journals.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Stig Karl Magnus Billman",
+        "jobTitle": "Civil Engineer",
+        "birthDate": "1907-08-10",
+        "birthPlace": "Östersund",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Major B.A.H.B."
+            },
+            {
+                "@type": "Person",
+                "name": "Ewa Wikström"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Brita Wintzell"
+        },
+        "alumniOf": [
+            {
+                "@type": "EducationalInstitution",
+                "name": "Kristianstad College",
+                "endDate": "1925"
+            },
+            {
+                "@type": "EducationalInstitution",
+                "name": "Royal Institute of Technology",
+                "endDate": "1929"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Railways",
+                "startDate": "1926",
+                "endDate": "1927"
+            },
+            {
+                "@type": "Organization",
+                "name": "L.M. Ericsson",
+                "startDate": "1928"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Birka Regulator",
+                "location": "Stockholm",
+                "startDate": "1929",
+                "endDate": "1932"
+            },
+            {
+                "@type": "Organization",
+                "name": "Stig K.M. Billman Engineering",
+                "location": "Stockholm",
+                "startDate": "1932"
+            }
+        ],
+        "owns": {
+            "@type": "Place",
+            "name": "Villa Property",
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Strömma Bro",
+                "addressLocality": "Värmdö",
+                "addressRegion": "Stockholm County"
+            }
+        },
+        "numberOfEmployees": 75,
+        "foundingDate": "1932",
+        "founderOf": {
+            "@type": "Organization",
+            "name": "Stig K.M. Billman Engineering"
+        },
+        "annualRevenue": {
+            "@type": "MonetaryAmount",
+            "currency": "SEK",
+            "value": 1000000
+        },
+        "branches": [
+            {
+                "@type": "Place",
+                "name": "Gothenburg",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Gothenburg"
+                }
+            },
+            {
+                "@type": "Place",
+                "name": "Malmö",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Malmö"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Nordic Countries",
+                "specialty": "Automatic Electrical Regulators"
+            }
+        ],
+        "travelHistory": {
+            "@type": "Place",
+            "name": "Europe",
+            "startDate": "1931",
+            "endDate": "1940"
+        },
+        "publication": [
+            {
+                "@type": "Article",
+                "name": "Published in Trade Journals"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Stockholm",
+                "industry": "Engineering",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Swedish Railways",
+                "workplace": "SJ",
+                "industry": "Transportation",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "L.M. Ericsson",
+                "workplace": "Stockholm",
+                "industry": "Telecommunications",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "AB Birka Regulator",
+                "workplace": "Stockholm",
+                "industry": "Electronics",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Stig K.M. Billman Engineering",
+                "workplace": "Stockholm",
+                "industry": "Electronics",
+                "start_date": "1932"
+            }
+        ]
+    }
+}

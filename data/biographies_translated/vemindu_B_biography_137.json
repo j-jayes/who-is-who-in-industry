@@ -1,0 +1,113 @@
+{
+    "original": "BERGLUND, Oscar Matteus, Kamrer, Askersund, f Motala 11/9 98 av C O B o Elin Landberg, gm Elvira Sjölander. Realex, hdlssk, Hermodskurser. Anst Gunnar Starck, öbr, 16, öbr Nya Red.AB 17—25, AB Askersunds Tri-kåfabr, Ask, sed. 25. Ag fastigh Balder nr 5, Ask. Stdsflm, led drätskamm, folksk.styr, § ens.nmd, fi rev.uppdr i kommun o Idsting. tyr.led folkpart öbr l o Idst.valkretsen, v. ordf ds lokalavd Ask, sekr Ask Baptistförs.",
+    "translated": "BERGLUND, Oscar Matteus, Accountant, Askersund, born in Motala on 11/9 98, son of C O B and Elin Landberg, married to Elvira Sjölander. Completed Realex (lower secondary school), trade school, Hermod courses. Employed by Gunnar Starck, public servant, from 1916 to 1925, and by AB Askersunds Tri-kåfabr (tri-blend fabric factory), Ask, since 1925. Owns property Balder no. 5, Ask. Member of city film committee, local council board, primary school board, municipal board, and district court. Vice Chairman of the local branch of the Liberal Party and the district electoral district, Secretary of Ask Baptist Church. Note that the '\\d\\d m. partners name' notation indicates that the person got married in the year 19xx.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Oscar Matteus Berglund",
+        "jobTitle": "Accountant",
+        "birthDate": "1898-09-11",
+        "birthPlace": "Motala",
+        "spouse": {
+            "@type": "Person",
+            "name": "Elvira Sjölander",
+            "marriageDate": "19XX"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "C O B"
+            },
+            {
+                "@type": "Person",
+                "name": "Elin Landberg"
+            }
+        ],
+        "education": [
+            "Realex",
+            "trade school",
+            "Hermod courses"
+        ],
+        "workExperience": [
+            {
+                "@type": "Organization",
+                "name": "Gunnar Starck",
+                "startDate": "1916",
+                "endDate": "1925",
+                "jobTitle": "Public Servant"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Askersunds Tri-kåfabr",
+                "startDate": "1925",
+                "jobTitle": "Accountant"
+            }
+        ],
+        "owns": {
+            "@type": "Property",
+            "name": "Balder no. 5",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Ask"
+            }
+        },
+        "memberships": [
+            {
+                "@type": "Organization",
+                "name": "City Film Committee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Local Council Board"
+            },
+            {
+                "@type": "Organization",
+                "name": "Primary School Board"
+            },
+            {
+                "@type": "Organization",
+                "name": "Municipal Board"
+            },
+            {
+                "@type": "Organization",
+                "name": "District Court"
+            },
+            {
+                "@type": "Organization",
+                "name": "Liberal Party",
+                "roleName": "Vice Chairman",
+                "roleAffiliation": [
+                    "Local Branch",
+                    "District Electoral District"
+                ]
+            },
+            {
+                "@type": "Organization",
+                "name": "Ask Baptist Church",
+                "roleName": "Secretary"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Accountant",
+                "workplace": "Askersund",
+                "industry": "Unknown",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Gunnar Starck",
+                "industry": "Public Service",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "AB Askersunds Tri-kåfabr",
+                "industry": "Textile Manufacturing",
+                "start_date": "1925"
+            }
+        ]
+    }
+}

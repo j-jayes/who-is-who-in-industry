@@ -1,0 +1,65 @@
+{
+    "original": "ASSABSON, Budolf Kristian, Köpman, Landskrona, f Lkrona 27/10 87 av skrädd. -mast L A o Maria Johansson, gm Ellen Ericsson. Folksk, hdlskurs. Aff- o kont.anst 03— 24, eg rör i spec- o konservbranschen under fma Rudolf Assarson sed. 24. Odd Fellow.",
+    "translated": "ASSABSON, Budolf Kristian, Merchant, Landskrona, b. Landskrona on 27/10 1887 to tailor -master L A and Maria Johansson, m. Ellen Ericsson. Elementary school, commerce course. Employed as a clerk and accountant from 1903 to 1924, then owned a business in the spice and canned goods industry under the company name Rudolf Assarson since 1924. Member of Odd Fellow.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Budolf Kristian Assabson",
+        "birthDate": "1887-10-27",
+        "birthPlace": "Landskrona",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "L A Assabson",
+                "jobTitle": "Tailor-master"
+            },
+            {
+                "@type": "Person",
+                "name": "Maria Johansson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ellen Ericsson"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Elementary school",
+            "earnedBy": "Budolf Kristian Assabson"
+        },
+        "profession": "Merchant",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Rudolf Assarson"
+        },
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "Rudolf Assarson",
+                "startDate": "1924"
+            }
+        ],
+        "membership": [
+            {
+                "@type": "Organization",
+                "name": "Odd Fellow"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Clerk and Accountant",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "1903"
+            },
+            {
+                "occupational_title": "Business Owner",
+                "workplace": "Spice and Canned Goods Industry",
+                "industry": "Rudolf Assarson",
+                "start_date": "1924"
+            }
+        ]
+    }
+}

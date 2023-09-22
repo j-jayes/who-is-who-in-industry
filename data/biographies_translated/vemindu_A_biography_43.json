@@ -1,0 +1,138 @@
+{
+    "original": "AHLGREN, Johan Fritz William, Disponent, Stockholm, f Strövelstorp, Krst l, 26/9 90 av köpm F A o h h, f Nilsson, gm Hilda Hiller. Efter slutad skolg olika anst på den merk banan i Nykp o Norrkp 02—22. Anst h Sv-Eng Min.olje AB sed. 23, därav som försälj f Norrkpsdistr 23—26, insp f huvudkont 26—29, disp f Norrkpsdistr 30, sedermera disp AB Sv Shells försäljn.kontor, Norrkp, fr o m 44 disp v AB Sv Shells huvudkontor i Sthlm. Medl Norrkps Hdlsres.frn, KAK.",
+    "translated": "AHLGREN, Johan Fritz William, Manager, Stockholm, born in Strövelstorp, Christened on September 26, 1890, son of merchant F A and his wife, born Nilsson, married to Hilda Hiller. After completing school, various employments on the railway in Nyköping and Norrköping from 1902 to 1922. Employed at Swedish-English Mineral Oil Company since 1923, initially as a sales representative in Norrköping district from 1923 to 1926, then as an inspector at the head office from 1926 to 1929, district manager for Norrköping from 1930, and later district manager at AB Swedish Shell's sales office in Norrköping. Since 1944, district manager at AB Swedish Shell's head office in Stockholm. Member of Norrköping's Trade Association and the Automobile Club.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Johan Fritz William Ahlgren",
+        "jobTitle": "Manager",
+        "birthPlace": "Strövelstorp",
+        "birthDate": "1890-09-26",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "F A (father of Johan Fritz William Ahlgren)"
+            },
+            {
+                "@type": "Person",
+                "name": "h h (mother of Johan Fritz William Ahlgren)",
+                "maidenName": "Nilsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Hilda Hiller"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "School Name"
+        },
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "Swedish-English Mineral Oil Company",
+                "startDate": "1923"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1923",
+                "endDate": "1926",
+                "roleName": "Sales Representative",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Swedish-English Mineral Oil Company"
+                },
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Norrköping",
+                        "addressRegion": "Norrköping district"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1926",
+                "endDate": "1929",
+                "roleName": "Inspector",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Swedish-English Mineral Oil Company",
+                    "department": "Head Office"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1930",
+                "roleName": "District Manager",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Swedish Shell",
+                    "department": "Norrköping district"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1944",
+                "roleName": "District Manager",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Swedish Shell",
+                    "department": "Head Office",
+                    "location": {
+                        "@type": "Place",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressLocality": "Stockholm"
+                        }
+                    }
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Norrköping's Trade Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Automobile Club"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Sales Representative",
+                "workplace": "Swedish-English Mineral Oil Company",
+                "industry": "Oil",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Inspector",
+                "workplace": "Swedish-English Mineral Oil Company",
+                "industry": "Oil",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "District Manager",
+                "workplace": "Swedish-English Mineral Oil Company",
+                "industry": "Oil",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "District Manager",
+                "workplace": "AB Swedish Shell's Sales Office",
+                "industry": "Oil",
+                "start_date": "from 1944"
+            },
+            {
+                "occupational_title": "District Manager",
+                "workplace": "AB Swedish Shell's Head Office",
+                "industry": "Oil",
+                "start_date": "from 1944"
+            }
+        ]
+    }
+}

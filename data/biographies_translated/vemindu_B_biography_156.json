@@ -1,0 +1,137 @@
+{
+    "original": "BERGNE, Carl Frithiof, Ingenjör, Stockholm, f Norrkpg 20/4 85 av byggm C J Johansson o Anna Carlson, gm (1) Aimée Godhe, (2) Aida Simberg. Mog.ex hal Norrkpg 05, off.vol samma år, ulöjtn Smal art.reg 07, löjtn i res 16, avsked 21. Elev KTH (M) 07—08 o 09—11. Anst å ritkont o exper.avd h Sv AB Gasacc (AGA) 11—12 samt AB Ljungströms Ångturbin o Sv Turbinfabr AB Ljungström, Finspång, 12—16, AB de Lavals Ångturbin, Sthlm, 16—19, tekn bitr f skaderegi o maskinexpert h olika försäkr.bol 19—22. Egen agenturverks sed 23, inneh Ing.fma Bergne &amp; Co Sthlm sed. 28. Av trycket: Upps ang utrotande av skadedjur, spec inom växtodlingen.",
+    "translated": "BERGNE, Carl Frithiof, Engineer, Stockholm, b. Norrkoping on April 20, 1885, son of construction worker C J Johansson and Anna Carlson. Married (1) Aimée Godhe, (2) Aida Simberg. Graduated from the Royal Institute of Technology (KTH) in 1907-1908 and 1909-1911. Worked at architectural and experimental departments of Swedish company AB Gasaccumulator (AGA) from 1911-1912, and at AB Ljungström's Steam Turbine and Swedish Turbine Factory AB Ljungström in Finspång from 1912-1916. Joined AB de Laval's Steam Turbine in Stockholm from 1916-1919, and served as technical assistant for damage regulations and machinery expert at various insurance companies from 1919-1922. Established own agency business in 1923, and has been the owner of Engineering firm Bergne & Co in Stockholm since 1928. Published works on pest control, especially in agriculture.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Frithiof Bergne",
+        "jobTitle": "Engineer",
+        "birthDate": "1885-04-20",
+        "birthPlace": "Norrkoping",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "C J Johansson",
+                "jobTitle": "Construction Worker"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Carlson"
+            }
+        ],
+        "spouse": [
+            {
+                "@type": "Person",
+                "name": "Aimée Godhe"
+            },
+            {
+                "@type": "Person",
+                "name": "Aida Simberg"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "diploma",
+                "educationalLevel": "Undergraduate",
+                "collegeDegree": "Engineering",
+                "educationalProgram": "Royal Institute of Technology (KTH)"
+            }
+        ],
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Gasaccumulator (AGA)",
+                    "location": "Stockholm"
+                },
+                "startDate": "1911",
+                "endDate": "1912",
+                "roleName": "Architectural and Experimental Departments"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Ljungström's Steam Turbine and Swedish Turbine Factory AB Ljungström",
+                    "location": "Finspång"
+                },
+                "startDate": "1912",
+                "endDate": "1916",
+                "roleName": "Engineer"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB de Laval's Steam Turbine",
+                    "location": "Stockholm"
+                },
+                "startDate": "1916",
+                "endDate": "1919",
+                "roleName": "Engineer"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Technical Assistant",
+                "startDate": "1919",
+                "endDate": "1922",
+                "description": "Damage Regulations and Machinery Expert",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Various Insurance Companies"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Owner",
+                "startDate": "1923",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Engineering firm Bergne & Co",
+                    "location": "Stockholm"
+                }
+            }
+        ],
+        "publication": {
+            "@type": "CreativeWork",
+            "name": "Upps ang utrotande av skadedjur, spec inom växtodlingen",
+            "description": "Published works on pest control, especially in agriculture"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "AB Gasaccumulator (AGA)",
+                "industry": "Architectural and experimental departments",
+                "start_date": "1911-12"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "AB Ljungström's Steam Turbine and Swedish Turbine Factory AB Ljungström",
+                "industry": "Steam Turbine",
+                "start_date": "1912"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "AB de Laval's Steam Turbine",
+                "industry": "Steam Turbine",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Technical assistant",
+                "workplace": "Various insurance companies",
+                "industry": "Insurance",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "Engineering firm Bergne & Co",
+                "industry": "Independent agency business",
+                "start_date": "1928"
+            }
+        ]
+    }
+}

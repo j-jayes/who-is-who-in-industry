@@ -1,0 +1,67 @@
+{
+    "original": "AHLSTRÖM, John, Ingenjör, Hög, f Landskrona 21/11 92 av byggm P A o h h. Tekn lärov Malmö. Anst fad fma Malmö, ensam inneh dna 15—27. Ag Högs tegelbr Västan-hög sed. 28.",
+    "translated": "AHLSTRÖM, John, Engineer, High [degree], b. Landskrona 21/11 92, son of building contractor P A and h [wife's name]. Technical education in Malmö. Employed by father's company in Malmö, sole owner from 15—27. Currently employed at Högs tegelbr Västan-hög since 28.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "John Ahlström",
+        "jobTitle": "Engineer",
+        "birthDate": "1892-11-21",
+        "birthPlace": "Landskrona",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "P A Ahlström",
+                "jobTitle": "Building Contractor"
+            },
+            {
+                "@type": "Person",
+                "name": "[Mother's Name]",
+                "jobTitle": ""
+            }
+        ],
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Technical",
+            "educationalLevel": "Malmö Technical School"
+        },
+        "employment": [
+            {
+                "@type": "Organization",
+                "name": "[Father's Company Name]",
+                "jobTitle": "Employee",
+                "startDate": "1915-01-01",
+                "endDate": "1927-12-31"
+            },
+            {
+                "@type": "Organization",
+                "name": "Högs tegelbr Västan-hög",
+                "jobTitle": "Engineer",
+                "startDate": "1928-01-01",
+                "endDate": null
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Father's company in Malmö",
+                "industry": "Construction",
+                "start_date": "15"
+            },
+            {
+                "occupational_title": "Sole Owner",
+                "workplace": "Father's company in Malmö",
+                "industry": "Construction",
+                "start_date": "15"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Högs tegelbr Västan-hög",
+                "industry": "Construction",
+                "start_date": "28"
+            }
+        ]
+    }
+}

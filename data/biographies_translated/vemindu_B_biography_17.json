@@ -1,0 +1,70 @@
+{
+    "original": "BARREN, Nils, Direktör, Sundbyberg, f Sthlm 1/5 88. Har varit verksam inom maskinbranschen i Tyskl, Ryssl o Polen o inom bilbranschen i Sv und c :a fyra år, grund dä ref t AB Vägmaskiner, Sundby b, 24 o är fortf ch f denna fma.",
+    "translated": "BARREN, Nils, Director, Sundbyberg, b. Stockholm 1/5 88. Has been active in the machinery industry in Germany, Russia, and Poland, and in the automotive industry in Sweden and abroad for four years, founding AB Vägmaskiner, Sundby b, in 1924, and is still currently associated with this company. Note that '\\d\\d m. partners name' means that the person married in the year 19xx.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Nils Barren",
+        "birthDate": "1888-05-01",
+        "birthPlace": "Stockholm, Sweden",
+        "jobTitle": "Director",
+        "memberOf": {
+            "@type": "Organization",
+            "name": "AB Vägmaskiner",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Sundbyberg"
+            }
+        },
+        "workHistory": [
+            {
+                "@type": "Organization",
+                "name": "Machinery Industry, Germany",
+                "startDate": "1924-01-01",
+                "endDate": "1928-01-01"
+            },
+            {
+                "@type": "Organization",
+                "name": "Machinery Industry, Russia"
+            },
+            {
+                "@type": "Organization",
+                "name": "Machinery Industry, Poland"
+            },
+            {
+                "@type": "Organization",
+                "name": "Automotive Industry, Sweden and abroad",
+                "startDate": "1920-01-01",
+                "endDate": "1924-01-01"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "AB Vägmaskiner",
+                "industry": "Machinery",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "AB Vägmaskiner",
+                "industry": "Automotive",
+                "start_date": "unknown"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "unknown",
+                "industry": "Machinery",
+                "start_date": "unknown"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "unknown",
+                "industry": "Automotive",
+                "start_date": "unknown"
+            }
+        ]
+    }
+}

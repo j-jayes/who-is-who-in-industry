@@ -1,0 +1,95 @@
+{
+    "original": "AL.M, Erik Gustav Hjalmar, Disponent, Målilla, f Hultsfred 23/12 99 av bruksäg C A A o Emma Fransson. Hdlssk, tekn facksk. Driftsing AB Målilla Mek Verkst 24, disp där sed. 37, deläg o styr.led där o AB Bruzaholms Br. Komm.-flm sed. 32, led tax.nmd 32—39, nämndeman 32—38. Styr.led AB A K Eriksson Mariannelund. Resor: Skand, Balticum, Tyskl. Frimurare. Hobbies: Arbetet, jakt, fiske.",
+    "translated": "AL.M, Erik Gustav Hjalmar, Manager, Målilla, born in Hultsfred on December 23, 1899, son of estate owner C A A and Emma Fransson. Primary school, technical vocational school. Operational engineer at Målilla Mechanical Workshop 24, became manager there in 1937, part-owner and board member of AB Bruzaholms Brewery since 1932. Member of the tax committee 1932-1939, lay judge 1932-1938. Board member of AB A K Eriksson in Mariannelund. Travels: Scandinavia, the Baltic countries, Germany. Freemason. Hobbies: Work, hunting, fishing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Erik Gustav Hjalmar AL.M",
+        "jobTitle": "Manager",
+        "birthPlace": "Hultsfred",
+        "birthDate": "1899-12-23",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "C A A",
+                "jobTitle": "Estate Owner"
+            },
+            {
+                "@type": "Person",
+                "name": "Emma Fransson"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Primary school"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Technical vocational school"
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Målilla Mechanical Workshop",
+            "jobTitle": "Operational Engineer",
+            "startDate": "1924"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Freemason"
+            }
+        ],
+        "committees": [
+            {
+                "@type": "Organization",
+                "name": "Tax Committee",
+                "startDate": "1932",
+                "endDate": "1939",
+                "jobTitle": "Member"
+            }
+        ],
+        "layJudge": [
+            {
+                "@type": "Organization",
+                "name": "District Court",
+                "startDate": "1932",
+                "endDate": "1938",
+                "jobTitle": "Lay Judge"
+            }
+        ],
+        "travel": [
+            "Scandinavia",
+            "Baltic countries",
+            "Germany"
+        ],
+        "hobbies": [
+            "Work",
+            "Hunting",
+            "Fishing"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Manager",
+                "workplace": "Målilla Mechanical Workshop",
+                "industry": "Mechanical Engineering",
+                "start_date": "1937"
+            },
+            {
+                "occupational_title": "Operational Engineer",
+                "workplace": "Målilla Mechanical Workshop",
+                "industry": "Mechanical Engineering",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Part-owner and Board Member",
+                "workplace": "AB Bruzaholms Brewery",
+                "industry": "Brewery",
+                "start_date": "1932"
+            }
+        ]
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "original": "AXELL, Sven Paul, Civilingenjör, Munkfors, f Ljusnarsbergs s:n, Örebro l, 7/3 88 av lantbr A A Jansson o Matilda Andersson, gm Birgit Ney. öbr tekn gymn 07, CTH 10, ASEA:s elevkurs 12. Anst i USA 13—30, ch.ing elugnsavd v Uddeholms AB Munkfors sed. 30. Hvobef Ransäters hvo sed. 40. Hobbies: Jakt, fiske.",
+    "translated": "AXELL, Sven Paul, Civil Engineer, Munkfors, born in Ljusnarsbergs parish, Örebro county, on March 7th, 1888, to agriculturalist A. A. Jansson and Matilda Andersson. Married to Birgit Ney. Completed technical high school in 1907, graduated from Chalmers University of Technology in 1910, and attended ASEA's trainee course in 1912. Employed in the USA from 1913 to 1930, worked as a chief engineer in the electric furnace division at Uddeholms AB Munkfors since 1930. Member of Ransäter's hunting and fishing union since 1940. Hobbies: Hunting, fishing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Sven Paul Axell",
+        "birthDate": "1888-03-07",
+        "birthPlace": {
+            "@type": "AdministrativeArea",
+            "name": "Ljusnarsbergs parish, Örebro county"
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "A. A. Jansson",
+                "jobTitle": "Agriculturalist"
+            },
+            {
+                "@type": "Person",
+                "name": "Matilda Andersson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Birgit Ney"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Civil Engineering",
+            "educationalLevel": "Bachelor's Degree",
+            "awardingInstitution": {
+                "@type": "EducationalOrganization",
+                "name": "Chalmers University of Technology"
+            },
+            "dateEarned": "1910"
+        },
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "title": "Chief Engineer",
+                "startDate": "1930",
+                "endDate": "present",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Uddeholms AB Munkfors",
+                    "department": {
+                        "@type": "Organization",
+                        "name": "Electric Furnace Division"
+                    }
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Ransäter's hunting and fishing union",
+                "startDate": "1940"
+            }
+        ],
+        "hobbies": [
+            "Hunting",
+            "Fishing"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Uddeholms AB Munkfors",
+                "industry": "Electric furnace division",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Chief Engineer",
+                "workplace": "Uddeholms AB Munkfors",
+                "industry": "Electric furnace division",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Anst in the USA",
+                "workplace": "USA",
+                "industry": "Unknown",
+                "start_date": "1913"
+            }
+        ]
+    }
+}

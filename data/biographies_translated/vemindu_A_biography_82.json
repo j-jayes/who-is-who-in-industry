@@ -1,0 +1,96 @@
+{
+    "original": "ALBRECHTSON, Hans Fredrik Vilhelm, Direktör, Göteborg, f Gbg 15/6 89 av dir o sjökapt J A o Sofia Hansen, gm Vera Zell. Hal, hdlssk, språkstud Engl o Tyskl. Anst fr 05 i Jul Aibrechtson &amp; Co:s AB (trålbind, nätväv o segelmak, driv av skpsfurn.rör, start 88, AB 08), vkst dir sed. 37, nu deläg o styr.-led där samt i Albrechtsons nätfabr AB (dtr-bol t föreg, anl 18, AB 38). Medl Göta PB, KAK, GKSS, Sv kryssarkl mfl.",
+    "translated": "ALBRECHTSON, Hans Fredrik Vilhelm, Director, Gothenburg. Born in Gothenburg on June 15th, 1889, son of director and ship captain J.A. Albrechtson and Sofia Hansen. Married to Vera Zell. Completed lower secondary school, language studies in English and German. Employed since 1905 at Jul Albrechtson & Co AB (manufacturers of trawls, netting, and sails, driven by ship supplies trade, established in 1888, became a limited company in 1908), promoted to managing director in 1937. Currently, a co-owner and board member there, as well as in Albrechtsons Nätfabrik AB (subsidiary company to the aforementioned, established in 1918, became a limited company in 1938). Member of the Gothenburg Yacht Club, Royal Automobile Club, Royal Gothenburg Yacht Association, Swedish Cruiser Club, among others.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Hans Fredrik Vilhelm Albrechtson",
+        "birthDate": "1889-06-15",
+        "birthPlace": "Gothenburg",
+        "father": {
+            "@type": "Person",
+            "name": "J.A. Albrechtson",
+            "profession": "Director, Ship Captain"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Sofia Hansen"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Vera Zell"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Lower Secondary School"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Language Studies in English and German"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Jul Albrechtson & Co AB",
+                "startDate": "1905",
+                "endDate": "present",
+                "jobTitle": "Managing Director"
+            },
+            {
+                "@type": "Organization",
+                "name": "Albrechtsons Nätfabrik AB",
+                "startDate": "1938",
+                "endDate": "present",
+                "jobTitle": "Co-owner, Board Member"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Gothenburg Yacht Club"
+            },
+            {
+                "@type": "Organization",
+                "name": "Royal Automobile Club"
+            },
+            {
+                "@type": "Organization",
+                "name": "Royal Gothenburg Yacht Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Cruiser Club"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Jul Albrechtson & Co AB",
+                "industry": "Manufacturing (trawls, netting, and sails)",
+                "start_date": "1905"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "Jul Albrechtson & Co AB",
+                "industry": "Manufacturing (trawls, netting, and sails)",
+                "start_date": "1937"
+            },
+            {
+                "occupational_title": "Co-owner and Board Member",
+                "workplace": "Jul Albrechtson & Co AB",
+                "industry": "Manufacturing (trawls, netting, and sails)",
+                "start_date": "Current"
+            },
+            {
+                "occupational_title": "Co-owner and Board Member",
+                "workplace": "Albrechtsons Nätfabrik AB",
+                "industry": "Manufacturing (netting)",
+                "start_date": "Current"
+            }
+        ]
+    }
+}

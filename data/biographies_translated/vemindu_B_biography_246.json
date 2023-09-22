@@ -1,0 +1,122 @@
+{
+    "original": "BJÖRKLUND, Alrik, Direktör, Civilingenjör, Stockholm, f Sthlm 21/11 88 av bkkassör J A B o Alma Bergman, gm (2) Margit Sundgren. Studex Sthlm 06, civ.ingex KTH 10, stud.res Tyskl, USA, Engl. Anst v in- o utl verkst o varv 10—23, vkst dir v Bergsunds Mek Verkst 23—25, disp AB Lindholmen-Motala 23—31, konsult ing 31—35, tf prof i maskinlära CTI 32—34, vkst dir Sveriges Mekaniska Verkstäders Förbund sed. 35. Led av Sveriges stan-dardiser.komiss. Hobby: Golf.",
+    "translated": "BJÖRKLUND, Alrik, Director, Civil Engineer, Stockholm, b Stockholm 21/11 88 of bank treasurer J A B and Alma Bergman, m (2) Margit Sundgren. Studied in Stockholm 1906, graduated as a civil engineer from the Royal Institute of Technology (KTH) in 1910, studied in Germany, USA, and England. Employed in domestic and foreign engineering and shipyards from 1910 to 1923, Deputy Managing Director of Bergsunds Mek Verkst from 1923 to 1925, Dispatcher for AB Lindholmen-Motala from 1923 to 1931, Engineering Consultant from 1931 to 1935, Acting Professor of Mechanical Engineering at CTI from 1932 to 1934, Vice Director of the Swedish Association of Mechanical Workshops since 1935. Member of the Swedish Standardization Commission. Hobby: Golf. \n\nNote: The abbreviation 'gm' means 'married' and 'Sthlm' refers to Stockholm. The format '\\d\\d' is used to represent the abbreviated year, for example, '21/11 88' means 21st November 1888.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Alrik Björklund",
+        "description": "Director and Civil Engineer",
+        "birthDate": "1888-11-21",
+        "birthPlace": "Stockholm, Sweden",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "J A B",
+                "description": "Bank Treasurer"
+            },
+            {
+                "@type": "Person",
+                "name": "Alma Bergman"
+            }
+        ],
+        "spouse": [
+            {
+                "@type": "Person",
+                "name": "Margit Sundgren"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Royal Institute of Technology (KTH)",
+                "location": "Stockholm, Sweden",
+                "startDate": "1906",
+                "endDate": "1910"
+            }
+        ],
+        "workExperience": [
+            {
+                "@type": "Organization",
+                "name": "Bergsunds Mek Verkst",
+                "title": "Deputy Managing Director",
+                "startDate": "1923",
+                "endDate": "1925"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Lindholmen-Motala",
+                "title": "Dispatcher",
+                "startDate": "1923",
+                "endDate": "1931"
+            },
+            {
+                "@type": "Organization",
+                "name": "Engineering Consultant",
+                "startDate": "1931",
+                "endDate": "1935"
+            },
+            {
+                "@type": "Organization",
+                "name": "CTI",
+                "title": "Acting Professor of Mechanical Engineering",
+                "startDate": "1932",
+                "endDate": "1934"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Association of Mechanical Workshops",
+                "title": "Vice Director",
+                "startDate": "1935"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Standardization Commission"
+            }
+        ],
+        "hobbies": [
+            "Golf"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Unknown",
+                "industry": "Engineering",
+                "start_date": "1910"
+            },
+            {
+                "occupational_title": "Deputy Managing Director",
+                "workplace": "Bergsunds Mek Verkst",
+                "industry": "Mechanical Engineering",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Dispatcher",
+                "workplace": "AB Lindholmen-Motala",
+                "industry": "Mechanical Engineering",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Engineering Consultant",
+                "workplace": "Unknown",
+                "industry": "Engineering",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Acting Professor of Mechanical Engineering",
+                "workplace": "CTI",
+                "industry": "Education",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Vice Director",
+                "workplace": "Swedish Association of Mechanical Workshops",
+                "industry": "Mechanical Engineering",
+                "start_date": "1935"
+            }
+        ]
+    }
+}

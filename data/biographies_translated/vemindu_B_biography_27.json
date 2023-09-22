@@ -1,0 +1,150 @@
+{
+    "original": "BECKMAN, Gustaf Erik Alexander, Kapten, Norrköping, f Ferna Bruk, Västml. län, 13/12 79 av brukspatr G B o Anna Elin Christina Holmberg, gm Lucie Ebba Maria Lagerbielke. Studex Beskowska sk 99, off.ex, off. på stat v I 3 01, avsk 09, anst. i Engl 09—10, v. vkst dir i H. Unér AB 11, v. dir 31. Fd led av dräts.kamm, fd styr.led i kommun aff.verket. Resor: Språkstud i Tyskl 02, d:o i Frankr Oft—06, i Engl 09—10. RNO, RVO, OffRumKrO, RFrHL, OffFrdel ’Ip. Hobbies: Fiske o jakt.",
+    "translated": "BECKMAN, Gustaf Erik Alexander, Captain, Norrköping, f Ferna Bruk, Västmanland County, 13/12 1879, as son of mill owner G B and Anna Elin Christina Holmberg, married Lucie Ebba Maria Lagerbielke. Studied at Beskowska school until 1899, commissioned officer, served in the military as a 2nd Lieutenant from 1901, retired in 1909. Employed in England from 1909 to 1910, Deputy Director at H. Unér AB in 1911, promoted to Director in 1931. Former member of the Economic Board, former board member of the Municipal Business Administration. Traveled for language studies in Germany from 1902, France from 1904 to 1906, and England from 1909 to 1910. Awarded with Royal Norwegian Order, Royal Swedish Order of Vasa, Officer of the Swedish Order of the Polar Star, Royal Swedish Order of the Sword, and Officer of the French Order of the Legion of Honor. Hobbies: Fishing and hunting.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Gustaf Erik Alexander Beckman",
+        "birthDate": "1879-12-13",
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Ferna Bruk, Västmanland County"
+        },
+        "father": {
+            "@type": "Person",
+            "name": "G B Holmberg"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Anna Elin Christina Holmberg"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Lucie Ebba Maria Lagerbielke"
+        },
+        "description": "Captain in Norrköping",
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "alumniOf": {
+                "@type": "EducationalOrganization",
+                "name": "Beskowska School"
+            },
+            "endDate": "1899"
+        },
+        "occupation": [
+            {
+                "@type": "MilitaryRank",
+                "name": "Captain"
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Deputy Director",
+                "startDate": "1911",
+                "endDate": "1931",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "H. Unér AB"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Economic Board"
+            },
+            {
+                "@type": "Organization",
+                "name": "Municipal Business Administration"
+            }
+        ],
+        "awards": [
+            {
+                "@type": "Order",
+                "name": "Royal Norwegian Order"
+            },
+            {
+                "@type": "Order",
+                "name": "Royal Swedish Order of Vasa"
+            },
+            {
+                "@type": "Order",
+                "name": "Swedish Order of the Polar Star",
+                "category": "Officer"
+            },
+            {
+                "@type": "Order",
+                "name": "Royal Swedish Order of the Sword",
+                "category": "Officer"
+            },
+            {
+                "@type": "Order",
+                "name": "French Order of the Legion of Honor",
+                "category": "Officer"
+            }
+        ],
+        "hobbies": [
+            "Fishing",
+            "Hunting"
+        ],
+        "travel": [
+            {
+                "@type": "Trip",
+                "description": "Language study in Germany",
+                "startDate": "1902",
+                "endDate": "1902"
+            },
+            {
+                "@type": "Trip",
+                "description": "Language study in France",
+                "startDate": "1904",
+                "endDate": "1906"
+            },
+            {
+                "@type": "Trip",
+                "description": "Language study in England",
+                "startDate": "1909",
+                "endDate": "1910"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Captain",
+                "workplace": "Norrköping",
+                "industry": "Military",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Deputy Director",
+                "workplace": "H. Unér AB",
+                "industry": "Unknown",
+                "start_date": "1911"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "H. Unér AB",
+                "industry": "Unknown",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "2nd Lieutenant",
+                "workplace": "Military",
+                "industry": "Unknown",
+                "start_date": "1901"
+            },
+            {
+                "occupational_title": "Retired",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "1909"
+            },
+            {
+                "occupational_title": "Employed in England",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "1909"
+            }
+        ]
+    }
+}

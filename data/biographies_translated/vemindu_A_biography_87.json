@@ -1,0 +1,156 @@
+{
+    "original": "AUEXANDERSON, Anders Petrus, Köpman, Huskvarna, f Bredaryd, Jönkps l, 31/12 88 av Alexander Andersson o h h Maria, gm Valborg Andersson. Hdlssk. Affärsanst 08—11, eg speceri- o div.fma sed. 11, av i bosättn.branschen sed. 23. Styr.led i AB Eol. Ordf i Jönkps Läns Spec- o Livsmedelshandl.frn o Huskvarna Köpm.frn, v. ordf i Jönkps Läns Köpm.frb, styr.led i Sv Spec- o Livsmedelshandl.frb, led av Sv Köpm.frbs arb.utsk. V. ordf i stdsflm, ordf i tax.nmd, led av prövn.nmd.",
+    "translated": "AUEXANDERSON, Anders Petrus, Merchant, Huskvarna, born in Bredaryd, Jönkoping county, on 31/12 1888 to parents Alexander Andersson and Maria. Married to Valborg Andersson. Elementary school education. Employed as an assistant in a business from 1908 to 1911, then became the owner of a grocery and various other businesses from 1911 onward. Engaged in the settlement industry since 1923. Serves on the board of directors of AB Eol. Chairman of the Jönköping County Special and Grocery Trade Association and the Huskvarna Merchant Association. Vice Chairman of the Jönköping County Merchant Association. Member of the Swedish Special and Grocery Trade Association and the Swedish Merchant Association's Work Committee. Vice Chairman of the city film board, chairman of the tax board, and member of the examination board.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Anders Petrus Auexanderson",
+        "birthDate": "1888-12-31",
+        "birthPlace": "Bredaryd, Jönkoping County",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Alexander Andersson"
+            },
+            {
+                "@type": "Person",
+                "name": "Maria"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Valborg Andersson"
+        },
+        "educationLevel": "Elementary school",
+        "occupation": [
+            {
+                "@type": "Merchant",
+                "name": "Huskvarna"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "EmploymentEvent",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Business",
+                    "startDate": "1908-01-01",
+                    "endDate": "1911-12-31"
+                },
+                "jobTitle": "Assistant"
+            },
+            {
+                "@type": "EmploymentEvent",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Grocery and various other businesses",
+                    "startDate": "1911-01-01"
+                },
+                "jobTitle": "Owner"
+            }
+        ],
+        "industry": [
+            {
+                "@type": "Industry",
+                "name": "Settlement industry",
+                "startDate": "1923-01-01"
+            }
+        ],
+        "boardMembership": [
+            {
+                "@type": "OrganizationRole",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "AB Eol"
+                },
+                "roleName": "Director"
+            },
+            {
+                "@type": "OrganizationRole",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Jönköping County Special and Grocery Trade Association"
+                },
+                "roleName": "Chairman"
+            },
+            {
+                "@type": "OrganizationRole",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Huskvarna Merchant Association"
+                },
+                "roleName": "Chairman"
+            },
+            {
+                "@type": "OrganizationRole",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Jönköping County Merchant Association"
+                },
+                "roleName": "Vice Chairman"
+            },
+            {
+                "@type": "OrganizationRole",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Swedish Special and Grocery Trade Association"
+                },
+                "roleName": "Board Member"
+            },
+            {
+                "@type": "OrganizationRole",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Swedish Merchant Association"
+                },
+                "roleName": "Board Member"
+            },
+            {
+                "@type": "OrganizationRole",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "City Film Board"
+                },
+                "roleName": "Vice Chairman"
+            },
+            {
+                "@type": "OrganizationRole",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Tax Board"
+                },
+                "roleName": "Chairman"
+            },
+            {
+                "@type": "OrganizationRole",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Examination Board"
+                },
+                "roleName": "Member"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Assistant",
+                "workplace": "Business",
+                "industry": "Unknown",
+                "start_date": "1908"
+            },
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Grocery and various other businesses",
+                "industry": "Retail",
+                "start_date": "1911"
+            },
+            {
+                "occupational_title": "Settlement Industry",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "1923"
+            }
+        ]
+    }
+}

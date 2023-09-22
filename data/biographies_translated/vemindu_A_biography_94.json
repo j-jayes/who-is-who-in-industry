@@ -1,0 +1,70 @@
+{
+    "original": "AXUENMARK, Axel Gerhard, Verkstads-chef, Malmö, f Ölme, Värml l, 29/6 00 av sysslom J A Andersson o Amanda Sunesson, gm Anna Carlsson, öbr tekn gymn, spec.-stud KTH. Verkst.ing AB Alfr Wesströms verktygsfabr 30—34, AB Atlas Diesel 34—36, Kockums mek verkst AB sed. 36.",
+    "translated": "AXUENMARK, Axel Gerhard, Workshop Manager, Malmö, born in Ölme, Värmland county, on June 29, 1900, son of civil servant J A Andersson and Amanda Sunesson. Married to Anna Carlsson, technical graduate from the Royal Institute of Technology (KTH). Worked as a engineer at AB Alfr Wesström's tool factory from 1930 to 1934, AB Atlas Diesel from 1934 to 1936, and Kockums mechanical workshop AB since 1936.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Axel Gerhard Axuenmark",
+        "jobTitle": "Workshop Manager",
+        "birthDate": "1900-06-29",
+        "birthPlace": "Ölme, Värmland county",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "J A Andersson",
+                "jobTitle": "Civil Servant"
+            },
+            {
+                "@type": "Person",
+                "name": "Amanda Sunesson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Anna Carlsson",
+            "jobTitle": "Technical Graduate",
+            "alumniOf": "Royal Institute of Technology (KTH)"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "AB Alfr Wesström's Tool Factory",
+                "startDate": "1930",
+                "endDate": "1934"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Atlas Diesel",
+                "startDate": "1934",
+                "endDate": "1936"
+            },
+            {
+                "@type": "Organization",
+                "name": "Kockums Mechanical Workshop AB",
+                "startDate": "1936"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Workshop Manager",
+                "workplace": "Malmö",
+                "industry": "Mechanical Engineering",
+                "start_date": "1936"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "AB Atlas Diesel",
+                "industry": "Engineering",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "AB Alfr Wesströms verktygsfabr",
+                "industry": "Tool Manufacturing",
+                "start_date": "1930"
+            }
+        ]
+    }
+}

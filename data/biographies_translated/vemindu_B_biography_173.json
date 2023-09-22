@@ -1,0 +1,92 @@
+{
+    "original": "BERGSTRÖM, Evald I, Direktör, Stockholm, f Sthlm 5/4 80 av lärftskramhandl A F B o h h f Engström. Södermalms hal, hdlssk. Anst H Schiicks Enka Sthlm 96—18. Gr AB Evald* I Bergström Sthlm, manuf, 18, vkst dir där. Styr.led Textilgross riksfrb, kassaförv 80 års män. RVO; Frimurare, Par Bricole, St Sällsk, Sthlms-Gillet mfl.",
+    "translated": "BERGSTRÖM, Evald I, Director, Stockholm, born in Stockholm on April 5, 1880, son of linen tradesman A.F.B. and housewife H.H.F. Engström. Attended Södermalm commercial school. Employed at H. Schiicks Enka in Stockholm from 1896 to 1918. Established AB Evald I Bergström in Stockholm, manufacturing, in 1918, now serving as Managing Director. Board member of the Textile Wholesalers National Association, treasurer of the 80-year-old men's group. Awarded the Royal Order of Vasa. Freemason, member of the Par Bricole, St Sällskapet, Stockholm Guild, and others. Please note that '\\d\\d m. partner's name' indicates that the person got married in the year 19xx.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Evald I Bergström",
+        "birthDate": "1880-04-05",
+        "birthPlace": "Stockholm",
+        "description": "Director and Managing Director of AB Evald I Bergström",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "A.F.B. Bergström",
+                "jobTitle": "Linen Tradesman"
+            },
+            {
+                "@type": "Person",
+                "name": "H.H.F. Engström",
+                "jobTitle": "Housewife"
+            }
+        ],
+        "education": {
+            "@type": "CollegeOrUniversity",
+            "name": "Södermalm Commercial School"
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "H. Schiicks Enka",
+            "location": "Stockholm",
+            "startDate": "1896",
+            "endDate": "1918"
+        },
+        "company": {
+            "@type": "Organization",
+            "name": "AB Evald I Bergström",
+            "location": "Stockholm",
+            "startDate": "1918",
+            "jobTitle": "Managing Director"
+        },
+        "boardMember": {
+            "@type": "Organization",
+            "name": "Textile Wholesalers National Association"
+        },
+        "awards": [
+            {
+                "@type": "Order",
+                "name": "Royal Order of Vasa"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Freemasons"
+            },
+            {
+                "@type": "Organization",
+                "name": "Par Bricole"
+            },
+            {
+                "@type": "Organization",
+                "name": "St Sällskapet"
+            },
+            {
+                "@type": "Organization",
+                "name": "Stockholm Guild"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Stockholm",
+                "industry": "",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Employee at H. Schiicks Enka",
+                "workplace": "Stockholm",
+                "industry": "",
+                "start_date": "1896"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "AB Evald I Bergström",
+                "industry": "Manufacturing",
+                "start_date": "1918"
+            }
+        ]
+    }
+}

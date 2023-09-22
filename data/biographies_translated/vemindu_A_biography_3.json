@@ -1,0 +1,119 @@
+{
+    "original": "ABENIUS, Håkan Vilhelm, Direktör, Falun, f V Färnebo 5/7 02 av rekt P V A o Maria Westholm, gm Lisa Sköld. Bergsing.ex. Bitr ing Saxbergets gruvor, AB Zinkgruvor 27, platsch Ryllshytte gr 28—34, 1. gruving Bolidens gruvAB 35—39, dir Falu Kopparv, Stora Kopparb Bergsl AB, Falun, sed. 39, styr.led Mellansv gruvfrb, led statens ind.kommission.",
+    "translated": "ABENIUS, Håkan Vilhelm, Director, Falun, born in Färnebo on July 5, 1902, son of the rector P.V.A and Maria Westholm, married to Lisa Sköld. Mining degree apprentice at Saxbergets gruvor, AB Zinkgruvor 1927, stationed at Ryllshytte gr 1928-1934, 1st mining at Bolidens gruvAB 1935-1939, director at Falu Kopparv, Stora Kopparbergs Bergslag AB, Falun, since 1939, board member of Mellansv gruvfrb, member of the state's industrial commission.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Håkan Vilhelm Abenius",
+        "jobTitle": "Director",
+        "birthDate": "1902-07-05",
+        "birthPlace": "Färnebo",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "P.V.A Abenius",
+                "jobTitle": "Rector"
+            },
+            {
+                "@type": "Person",
+                "name": "Maria Westholm"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Lisa Sköld"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "mining degree",
+            "educationalLevel": "Apprentice",
+            "recognizedBy": {
+                "@type": "Organization",
+                "name": "Saxbergets gruvor"
+            }
+        },
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1927",
+                "endDate": "1934",
+                "roleName": "Mining degree apprentice",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Zinkgruvor"
+                },
+                "place": {
+                    "@type": "Place",
+                    "name": "Ryllshytte gr"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1935",
+                "endDate": "1939",
+                "roleName": "1st mining",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Bolidens gruvAB"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1939",
+                "roleName": "Director",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Falu Kopparv, Stora Kopparbergs Bergslag AB"
+                },
+                "place": {
+                    "@type": "Place",
+                    "name": "Falun"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Board member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Mellansv gruvfrb"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "State's Industrial Commission"
+                }
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Mining degree apprentice",
+                "workplace": "Saxbergets gruvor",
+                "industry": "Mining",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Stationed at Ryllshytte gr",
+                "workplace": "AB Zinkgruvor",
+                "industry": "Mining",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "1st mining",
+                "workplace": "Bolidens gruvAB",
+                "industry": "Mining",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Falu Kopparv, Stora Kopparbergs Bergslag AB",
+                "industry": "Mining",
+                "start_date": "1939"
+            }
+        ]
+    }
+}

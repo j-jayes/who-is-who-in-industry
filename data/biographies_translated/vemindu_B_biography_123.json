@@ -1,0 +1,81 @@
+{
+    "original": "BERGHMAN, Kurt Nore, Civilingenjör, Uddevalla, f Uddev 27/3 03 av ing N E A Bergman o Tyra Bogren, gm Gunnel Söderholm. Studex Uddev 21, KTH (V o V) 21—25. Driftsled v Granit AB C A Kullgrens Enka, Uddev, sed. 25. Led Sv Tekn.frn.",
+    "translated": "BERGHMAN, Kurt Nore, Civil Engineer, Uddevalla, born in Uddevalla on March 27, 1903, son of engineer N.E.A. Bergman and Tyra Bogren, married to Gunnel Söderholm. Graduated from Uddevalla Secondary School in 1921, KTH (Royal Institute of Technology) in 1921-1925. Supervisor at Granit AB C.A. Kullgrens Enka, Uddevalla since 1925. Member of the Swedish Technical Association.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Kurt Nore Berghman",
+        "birthDate": "1903-03-27",
+        "birthPlace": "Uddevalla, Sweden",
+        "spouse": {
+            "@type": "Person",
+            "name": "Gunnel Söderholm"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "N.E.A. Bergman"
+            },
+            {
+                "@type": "Person",
+                "name": "Tyra Bogren"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "SecondaryEducation",
+                "educationalLevel": "Graduate",
+                "alumniOf": {
+                    "@type": "EducationalOrganization",
+                    "name": "Uddevalla Secondary School"
+                },
+                "endDate": "1921"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "CollegeOrUniversity",
+                "educationalLevel": "Undergraduate",
+                "alumniOf": {
+                    "@type": "EducationalOrganization",
+                    "name": "Royal Institute of Technology"
+                },
+                "startDate": "1921",
+                "endDate": "1925"
+            }
+        ],
+        "jobTitle": "Civil Engineer",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Granit AB C.A. Kullgrens Enka"
+        },
+        "workLocation": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Uddevalla",
+                "addressCountry": "Sweden"
+            }
+        },
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Swedish Technical Association"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Uddevalla",
+                "industry": "",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Supervisor",
+                "workplace": "Granit AB C.A. Kullgrens Enka",
+                "industry": "",
+                "start_date": "1925"
+            }
+        ]
+    }
+}

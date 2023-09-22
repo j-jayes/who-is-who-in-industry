@@ -1,0 +1,168 @@
+{
+    "original": "AHLGREN, Adolf Ferdinand, Direktör, Gävle, f Visby 3/4 72 av fabr P F A o Anna Maria Reuser, gm Anna Maria Preutz. Visby lärov 82—86. Res f F Ahlgrens tekn fabr 86— 07, prokur o aff.ledare 07—33, (skåp av Läke-rolind) vkst dir f AB Pastill sed. 16, F Ahlgrens tekn fabrAB sed. 33, AB Läkerol o AB Kartonnage, fullni i Gävle hdlskamm 28—42, HL Gotl nät i Upps, d:o Mercuriiord sångk. Resor: Kontin, Ryssl, Engl 12—32. RVO, RNO.",
+    "translated": "AHLGREN, Adolf Ferdinand, Director, Gävle, b. in Visby on March 4th, 1872, son of factory owner P.F.A and Anna Maria Reuser, married to Anna Maria Preutz. Attended Visby School from 1882 to 1886. Started working at F. Ahlgren's technical factory in 1886, became a procurator and business manager from 1907 to 1933. Also served as the managing director of AB Pastill since 1916, and F. Ahlgren's technical factory AB since 1933, as well as AB Läkerol and AB Kartonnage. Was a member of the Gävle Chamber of Commerce from 1928 to 1942. Member of the Royal Society of Agriculture of Gotland and the Mercuriiord Singing Choir in Uppsala. Traveled to several countries including the Continent, Russia, and England from 1912 to 1932. Recipient of the Royal Order of Vasa and the Royal Order of the North Star.\n\nNote: The abbreviation '\\d\\d m. partners name' means that Adolf Ferdinand got married in the year 19xx, with the partner's name missing from the original text.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Adolf Ferdinand",
+        "familyName": "Ahlgren",
+        "description": "Director of F. Ahlgren's technical factory and various other companies",
+        "birthDate": "1872-03-04",
+        "birthPlace": "Visby",
+        "parents": [
+            {
+                "@type": "Person",
+                "givenName": "P.F.A",
+                "familyName": "Ahlgren",
+                "description": "Factory owner"
+            },
+            {
+                "@type": "Person",
+                "givenName": "Anna Maria",
+                "familyName": "Reuser",
+                "description": "Mother"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Anna Maria Preutz"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Visby School",
+            "startDate": "1882",
+            "endDate": "1886"
+        },
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "F. Ahlgren's technical factory",
+                "startDate": "1886",
+                "endDate": "1907",
+                "position": [
+                    {
+                        "@type": "Role",
+                        "title": "Procurator",
+                        "startDate": "1907",
+                        "endDate": "1933"
+                    },
+                    {
+                        "@type": "Role",
+                        "title": "Business Manager",
+                        "startDate": "1907",
+                        "endDate": "1933"
+                    },
+                    {
+                        "@type": "Role",
+                        "title": "Managing Director",
+                        "startDate": "1933"
+                    }
+                ]
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Pastill",
+                "startDate": "1916",
+                "position": {
+                    "@type": "Role",
+                    "title": "Managing Director"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Läkerol"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Kartonnage"
+            }
+        ],
+        "affiliation": [
+            {
+                "@type": "Organization",
+                "name": "Gävle Chamber of Commerce",
+                "startDate": "1928",
+                "endDate": "1942"
+            },
+            {
+                "@type": "Organization",
+                "name": "Royal Society of Agriculture of Gotland"
+            },
+            {
+                "@type": "Organization",
+                "name": "Mercuriiord Singing Choir"
+            }
+        ],
+        "nationality": "Swedish",
+        "awards": [
+            {
+                "@type": "Order",
+                "name": "Royal Order of Vasa"
+            },
+            {
+                "@type": "Order",
+                "name": "Royal Order of the North Star"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Country",
+                "name": "Sweden"
+            },
+            {
+                "@type": "Country",
+                "name": "Russia"
+            },
+            {
+                "@type": "Country",
+                "name": "England"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Gävle",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Employee at F Ahlgrens tekn fabr",
+                "workplace": "Visby",
+                "industry": "Technical manufacturing",
+                "start_date": "1886"
+            },
+            {
+                "occupational_title": "Procurator and business manager",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "1907"
+            },
+            {
+                "occupational_title": "Managing Director at AB Pastill",
+                "workplace": "Unknown",
+                "industry": "Confectionery",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Managing Director at F Ahlgrens tekn fabr AB",
+                "workplace": "Unknown",
+                "industry": "Technical manufacturing",
+                "start_date": "1933"
+            },
+            {
+                "occupational_title": "Managing Director at AB Läkerol",
+                "workplace": "Unknown",
+                "industry": "Confectionery",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Managing Director at AB Kartonnage",
+                "workplace": "Unknown",
+                "industry": "Packaging",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

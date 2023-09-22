@@ -1,0 +1,140 @@
+{
+    "original": "BJURSTRÖM, Harry Gilbert, Direktör, Stockholm, f Sthlm 2/7 05 av linjeform O V B o Maria Nilsson, gm Margareta Setterblad. Studex, DHS; resoffex, kapt int.kårens res. Bkprakt Gbgsbkn, reklamch AB Ströms Herr-ekipering 28—30, dirass Dagens Nyh annons-avd 30—39, dir dna sed. 39. Sekr Kungafond arb.utsk 43. Styr.led Sthlms Reklamfrn o Sv Reklamfrb fi ggr, Sv arméns resoff.frb 34— 39. Resor: Danm, Finl, Tyskl uppr ggr, Frankr, Span, Engl 29. Av trycket: Föredr o art i reklamfråg i fackpress. Hobbies: Utom arbetet även litteratur o konst, fiske o friluftsliv.",
+    "translated": "BJURSTRÖM, Harry Gilbert, Director, Stockholm, b. Stockholm 2/7 05 of railway worker O V B and Maria Nilsson, m. Margareta Setterblad. Graduated, Stockholm School of Economics; Reserve Officer, Captain in the army. Accounting practice at Goteborg Bank, advertising manager at AB Ströms Herr-ekipering 28-30, assistant director at Dagens Nyheter's advertising department 30-39, director since 39. Secretary of the Royal Fund's work committee 43. Board member of Stockholm Advertising Association and Swedish Advertising Federation several times, Swedish Army Reserve Officers Association 34-39. Travelled to Denmark, Finland, Germany several times, France, Spain, and England in 29. Publications include lectures and articles on advertising issues in trade journals. Hobbies: In addition to work, also interested in literature and art, fishing, and outdoor life.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Harry Gilbert Bjurström",
+        "birthDate": "1905-07-02",
+        "birthPlace": "Stockholm",
+        "description": "Director, Stockholm",
+        "spouse": {
+            "@type": "Person",
+            "name": "Margareta Setterblad"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "O V B Bjurström"
+            },
+            {
+                "@type": "Person",
+                "name": "Maria Nilsson"
+            }
+        ],
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "secondary",
+            "credentialSubject": {
+                "@type": "EducationalOccupationalProgram",
+                "name": "Stockholm School of Economics"
+            }
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Army Reserve Officers Association",
+                "startDate": "1934",
+                "endDate": "1939"
+            },
+            {
+                "@type": "Organization",
+                "name": "Kungafond work committee",
+                "startDate": "1943"
+            },
+            {
+                "@type": "Organization",
+                "name": "Stockholm Advertising Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Advertising Federation"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Goteborg Bank",
+                "description": "Accounting practice"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Ströms Herr-ekipering",
+                "description": "Advertising manager",
+                "startDate": "1928",
+                "endDate": "1930"
+            },
+            {
+                "@type": "Organization",
+                "name": "Dagens Nyheter",
+                "description": "Assistant director of advertising department",
+                "startDate": "1930",
+                "endDate": "1939"
+            },
+            {
+                "@type": "Organization",
+                "name": "Dagens Nyheter",
+                "description": "Director of advertising department",
+                "startDate": "1939"
+            }
+        ],
+        "nationality": "Swedish",
+        "sameAs": "https://example.com/harry_gilbert_bjurstrom",
+        "hasOccupation": [
+            {
+                "@type": "Role",
+                "name": "Director"
+            },
+            {
+                "@type": "Role",
+                "name": "Captain"
+            }
+        ],
+        "knowsAbout": [
+            "Literature",
+            "Art",
+            "Fishing",
+            "Outdoor life"
+        ],
+        "hasBeenTo": [
+            "Denmark",
+            "Finland",
+            "Germany",
+            "France",
+            "Spain",
+            "England"
+        ],
+        "publication": {
+            "@type": "PublicationEvent",
+            "name": "Lectures and articles on advertising issues in trade journals"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Accounting Practice",
+                "workplace": "Goteborg Bank",
+                "industry": "Banking",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Advertising Manager",
+                "workplace": "AB Ströms Herr-ekipering",
+                "industry": "Retail",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Assistant Director",
+                "workplace": "Dagens Nyheter's Advertising Department",
+                "industry": "Media",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Dagens Nyheter",
+                "industry": "Media",
+                "start_date": "1939"
+            }
+        ]
+    }
+}
