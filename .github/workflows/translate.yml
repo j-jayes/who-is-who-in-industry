@@ -6,7 +6,7 @@ on:
       - main
 
 jobs:
-  scrape:
+  translate:
     runs-on: ubuntu-latest
 
     steps:
@@ -26,8 +26,8 @@ jobs:
         run: |
           git pull origin main
 
-      - name: Run scraper
-        run: python src/05-translate.py
+      - name: Run translator
+        run: python src/05-translate-biographies.py
 
       - name: Commit files
         run: |
