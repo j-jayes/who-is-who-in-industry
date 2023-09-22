@@ -27,6 +27,8 @@ jobs:
           git pull origin main
 
       - name: Run translator
+        env:
+          OPEN_AI_KEY: ${{ secrets.OPEN_AI_KEY }}
         run: python src/05-translate-biographies.py
 
       - name: Commit files
