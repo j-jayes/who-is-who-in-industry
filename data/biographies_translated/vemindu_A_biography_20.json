@@ -1,0 +1,98 @@
+{
+    "original": "AFRELL, Lars Uno, Hypoteksombudsman, Stockholm, f Sthlm 16/6 04 av handl L Andersson o Martina Pettersson. Studex Sthlm 23, jur kand StHS 28. Tingstjg S Roslags doms 29—32, aman i ÖÄ:s kansli 32—35, kamr i Uppl stadshyp.frn 35, tillika ombudsm där 37.",
+    "translated": "AFRELL, Lars Uno, Mortgage ombudsman, Stockholm, born in Stockholm on June 16, 1904, to merchant L Andersson and Martina Pettersson. Completed studies in Stockholm in 1923, graduated with a law degree from StHS in 1928. Served as a court associate at Roslags District Court from 1929 to 1932, civil servant at ÖÄ's office from 1932 to 1935, and clerk at Uppl City Mortgage from 1935, also serving as ombudsman there from 1937.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Lars Uno Afrell",
+        "birthDate": "1904-06-16",
+        "birthPlace": "Stockholm, Sweden",
+        "nationality": "Swedish",
+        "description": "Mortgage ombudsman",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "L Andersson",
+                "jobTitle": "Merchant"
+            },
+            {
+                "@type": "Person",
+                "name": "Martina Pettersson"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "diploma",
+                "educationalLevel": "High school",
+                "educationalCredentialAwarded": "Studex",
+                "educationalInstitution": "Stockholm"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "degree",
+                "educationalLevel": "Bachelor's degree",
+                "educationalCredentialAwarded": "Jur kand",
+                "educationalInstitution": "StHS"
+            }
+        ],
+        "workExperience": [
+            {
+                "@type": "Court",
+                "name": "Roslags District Court",
+                "startDate": "1929",
+                "endDate": "1932",
+                "jobTitle": "Court Associate"
+            },
+            {
+                "@type": "GovernmentOrganization",
+                "name": "ÖÄ's Office",
+                "startDate": "1932",
+                "endDate": "1935",
+                "position": {
+                    "@type": "GovernmentPosition",
+                    "name": "Civil Servant",
+                    "department": "kansli"
+                }
+            },
+            {
+                "@type": "Corporation",
+                "name": "Uppl City Mortgage",
+                "startDate": "1935",
+                "jobTitle": "Clerk",
+                "position": {
+                    "@type": "Position",
+                    "name": "Ombudsman"
+                }
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Mortgage ombudsman",
+                "workplace": "Stockholm",
+                "industry": "Finance",
+                "start_date": "1937"
+            },
+            {
+                "occupational_title": "Court associate",
+                "workplace": "Roslags District Court",
+                "industry": "Law",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Civil servant",
+                "workplace": "ÖÄ's office",
+                "industry": "Government",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Clerk",
+                "workplace": "Uppl City Mortgage",
+                "industry": "Finance",
+                "start_date": "1935"
+            }
+        ]
+    }
+}

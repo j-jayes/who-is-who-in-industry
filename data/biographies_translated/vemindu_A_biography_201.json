@@ -1,0 +1,120 @@
+{
+    "original": "ANDERSSON, Olof, Direktör, Sthlm, f Lövestad, Malmöh, län, 27/9 84 av lantbr Anders Persson o Bengta P, gm Ellen Johansson. Hdlssk. Anst på grhdls- o fabr.kont i Skåne 0 Dalarna, kont.ch h Atlas-Diesel 06—19, kassadir h Sv Filmind 20, vkst dir 28—42, ordf 1 Sv Filmkamm sed. 29, i Sv Biografäg.förb sed. 38, v. presid i Internat Filmkamm, Paris, sed. 35, styr.led i Sv Filmind, medl av Kulturrådet sed. 37, hed.led av Sv Teat.förb.",
+    "translated": "ANDERSSON, Olof, Director, Stockholm, born in Lövestad, Malmö County, on September 27, 1884, son of farmer Anders Persson and Bengta P, married to Ellen Johansson. Elementary school education. Employed in trade and factory offices in Skåne and Dalarna, chief clerk at Atlas-Diesel from 1906 to 1919, cashier at Swedish Film Industry from 1920, vice director from 1928 to 1942, chairman of the Swedish Film Chamber since 1929, member of the Swedish Cinema Owners Association since 1938, vice president of the International Film Chamber, Paris, since 1935, board member of the Swedish Film Industry, member of the Cultural Council since 1937, honorary member of the Swedish Theatre Association.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Olof Andersson",
+        "jobTitle": "Director",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Lövestad",
+                "addressRegion": "Malmö County"
+            }
+        },
+        "birthDate": "1884-09-27",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Anders Persson",
+                "jobTitle": "Farmer"
+            },
+            {
+                "@type": "Person",
+                "name": "Bengta P"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ellen Johansson"
+        },
+        "education": "Elementary school education",
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Atlas-Diesel",
+                "jobTitle": "Chief Clerk",
+                "startDate": "1906",
+                "endDate": "1919"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Film Industry",
+                "jobTitle": "Cashier",
+                "startDate": "1920"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Film Chamber",
+                "position": "Chairman",
+                "startDate": "1929"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Cinema Owners Association",
+                "startDate": "1938"
+            },
+            {
+                "@type": "Organization",
+                "name": "International Film Chamber",
+                "position": "Vice President",
+                "location": "Paris",
+                "startDate": "1935"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Film Industry",
+                "position": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Cultural Council",
+                "position": "Member",
+                "startDate": "1937"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Theatre Association",
+                "position": "Honorary Member"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Chief Clerk",
+                "workplace": "Atlas-Diesel",
+                "industry": "Engineering",
+                "start_date": "1906"
+            },
+            {
+                "occupational_title": "Cashier",
+                "workplace": "Swedish Film Industry",
+                "industry": "Film",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Vice Director",
+                "workplace": "Swedish Film Industry",
+                "industry": "Film",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Chairman",
+                "workplace": "Swedish Film Chamber",
+                "industry": "Film",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Vice President",
+                "workplace": "International Film Chamber (Paris)",
+                "industry": "Film",
+                "start_date": "1935"
+            }
+        ]
+    }
+}

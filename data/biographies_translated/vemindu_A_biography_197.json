@@ -1,0 +1,134 @@
+{
+    "original": "ANDEBSSON, Malte Emil, Köpman, Alstad, f Västra Alstad, Malmöh l, 14/11 05 av köprn J A o Elin Jonson, gm Elisabeth Sjöström. Realex Lunds katedralsk, ex Malmö hdlsgymn. Anst kont Stettin Tyskl 27—28, i fad trävaru- o spannmålsfma Hans Andersson, (gr av f arf ad 1850) 28—33, deläg sed. 33. Huv.-man Klörup-Sparbkn sed. 34, styr.led sed. 38, led Alstads skyttefrn, ordf o styr.led där fi år. Resor: Tyskl, Engl mfl europ länd. Skyt-teårtmg, mil idr.mg. Hobbies: Skytte, tennis, filateli.",
+    "translated": "ANDEBSSON, Malte Emil, Merchant, Alstad, b. Västra Alstad, Malmöhus län, November 14, 1905, to the merchant J A and Elin Jonson, m. Elisabeth Sjöström. Education: Graduate of Lund Cathedral School, former student of Malmö Commercial Gymnasium. Employed at the office in Stettin, Germany, 1927-1928, in the timber and grain firm of Hans Andersson (granted by paternal inheritance from father's side in 1850) 1928-1933, co-owner since 1933. Chairman of Klörup Savings Bank since 1934, board member since 1938. Member of Alstad's shooting association, chairman and board member for five years. Travels: Germany, England, and other European countries. Shooting training, military sports. Hobbies: Shooting, tennis, philately.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Malte Emil",
+        "familyName": "Andebsson",
+        "birthDate": "1905-11-14",
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Västra Alstad, Malmöhus län"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "givenName": "J A",
+                "familyName": "Jonson",
+                "jobTitle": "Merchant"
+            },
+            {
+                "@type": "Person",
+                "givenName": "Elin",
+                "familyName": "Jonson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "givenName": "Elisabeth",
+            "familyName": "Sjöström"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Lund Cathedral School"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Malmö Commercial Gymnasium"
+            }
+        ],
+        "employment": [
+            {
+                "@type": "Organization",
+                "name": "Stettin Office",
+                "jobTitle": "Employee",
+                "startDate": "1927",
+                "endDate": "1928",
+                "location": "Stettin, Germany"
+            },
+            {
+                "@type": "Organization",
+                "name": "Hans Andersson",
+                "jobTitle": "Timber and grain firm",
+                "startDate": "1928",
+                "endDate": "1933"
+            },
+            {
+                "@type": "Organization",
+                "name": "Hans Andersson",
+                "jobTitle": "Co-owner",
+                "startDate": "1933"
+            },
+            {
+                "@type": "Organization",
+                "name": "Klörup Savings Bank",
+                "jobTitle": "Chairman",
+                "startDate": "1934"
+            },
+            {
+                "@type": "Organization",
+                "name": "Klörup Savings Bank",
+                "jobTitle": "Board Member",
+                "startDate": "1938"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Alstad's shooting association"
+            }
+        ],
+        "hobbies": [
+            "Shooting",
+            "Tennis",
+            "Philately"
+        ],
+        "memberOfMilitarySports": [
+            {
+                "@type": "SportsActivityLocation",
+                "name": "Shooting training"
+            },
+            {
+                "@type": "SportsActivityLocation",
+                "name": "Military sports"
+            }
+        ],
+        "additionalName": "Merchant"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Stettin, Germany",
+                "industry": "Trade",
+                "start_date": "1927-1928"
+            },
+            {
+                "occupational_title": "Employee in timber and grain firm",
+                "workplace": "Hans Andersson",
+                "industry": "Timber and Grain",
+                "start_date": "1928-1933"
+            },
+            {
+                "occupational_title": "Co-owner",
+                "workplace": "Hans Andersson",
+                "industry": "Timber and Grain",
+                "start_date": "1933"
+            },
+            {
+                "occupational_title": "Chairman of Klörup Savings Bank",
+                "workplace": "Klörup Savings Bank",
+                "industry": "Finance",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Board member of Klörup Savings Bank",
+                "workplace": "Klörup Savings Bank",
+                "industry": "Finance",
+                "start_date": "1938"
+            }
+        ]
+    }
+}

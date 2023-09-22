@@ -1,0 +1,90 @@
+{
+    "original": "ANEMUS, Henrik August, Försä^nings-ehef, Nyköping, f Jönkp 7/5 93, gm Olga Bergström. Eft slut skolstud o prakt anst ss korresp v Karlstads Mek Verkst 14, disp.-sekr v Hellefors Br AB 19, korresp försäljn.avd 21, eg fma i järn- o stålbranschen i Örebro 30, försäljn.ch v Oxelösunds Järnvks AB sed. 33. Styr.led Fönsterglasbr FörsäljningsAB Sthlm 33.",
+    "translated": "ANEMUS, Henrik August, Insurance official, Nyköping, born in Jönkp on May 7, 1893, married to Olga Bergström. After completing school studies and practical training, he worked as a correspondence clerk at Karlstads Mek Verkst in 1914, then became a dispatch secretary at Hellefors Br AB in 1919. In 1921, he worked as a correspondence sales department clerk. In 1930, he started his own business in the iron and steel industry in Örebro. Since 1933, he has been working as a sales manager at Oxelösunds Järnvägs AB. He has also served on the board of directors of Fönsterglasbr FörsäljningsAB in Stockholm since 1933.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Henrik August Anemus",
+        "jobTitle": "Insurance Official",
+        "birthDate": "1893-05-07",
+        "birthPlace": "Jönkp",
+        "spouse": {
+            "@type": "Person",
+            "name": "Olga Bergström"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Karlstads Mek Verkst",
+                "startDate": "1914",
+                "endDate": "1919",
+                "jobTitle": "Correspondence Clerk"
+            },
+            {
+                "@type": "Organization",
+                "name": "Hellefors Br AB",
+                "startDate": "1919",
+                "endDate": "1921",
+                "jobTitle": "Dispatch Secretary"
+            },
+            {
+                "@type": "Organization",
+                "name": "Oxelösunds Järnvägs AB",
+                "startDate": "1933",
+                "jobTitle": "Sales Manager"
+            }
+        ],
+        "owns": {
+            "@type": "LocalBusiness",
+            "name": "Henrik August Anemus",
+            "industry": "Iron and Steel Industry",
+            "location": "Örebro",
+            "startDate": "1930"
+        },
+        "boardMember": {
+            "@type": "Organization",
+            "name": "Fönsterglasbr FörsäljningsAB",
+            "startDate": "1933"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Insurance official",
+                "workplace": "Nyköping",
+                "industry": "Insurance",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Correspondence clerk",
+                "workplace": "Karlstads Mek Verkst",
+                "industry": "Mechanical Engineering",
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Dispatch secretary",
+                "workplace": "Hellefors Br AB",
+                "industry": "Unknown",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Correspondence sales department clerk",
+                "workplace": null,
+                "industry": null,
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Owner of iron and steel business",
+                "workplace": "Örebro",
+                "industry": "Iron and Steel",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Sales manager",
+                "workplace": "Oxelösunds Järnvägs AB",
+                "industry": "Railways",
+                "start_date": "1933"
+            }
+        ]
+    }
+}

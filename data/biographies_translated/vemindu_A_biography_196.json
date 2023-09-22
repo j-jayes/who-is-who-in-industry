@@ -1,0 +1,119 @@
+{
+    "original": "ANDEBSSON, Oscar Linus, Direktör, Tidaholm, f Tidah 26/11 73 av handl P A Andersson o Anna Sundberg, gm Hanna Gerda Eugenia Molander, d 31. Priv.sk motsv realex. Anst J Bengtzons nianuf.hdl 88, ombild t AB 1911 m P A A:son s deläg. Stdfm 23—31, dräts.kamm 16—26, skolstyr 19—35. Dir o ordf i Bengtzons Manuf.AB sed. 12, ordf i mamif.avd av köpm.fören i Tidah, sparbk i Tidah, miss.församl. Resor: Danm 15 o 39, Tyskl 22, Norge 26, Finl 27.",
+    "translated": "ANDEBSSON, Oscar Linus, Director, Tidaholm, b. Tidah on November 26, 1873, son of merchant P A Andersson and Anna Sundberg, m. Hanna Gerda Eugenia Molander, died on March 31. Completed primary school equivalent to secondary school. Employed at J Bengtzons ninth-grade store 1888, later transformed into a limited company in 1911 with P A A:son as co-owner. Deputy director from 1923 to 1931, member of the municipal council from 1916 to 1926, member of the school board from 1919 to 1935. Director and chairman of Bengtzons Manuf.AB since 1912, chairman of the mammal department of the merchants' association in Tidah, chairman of the savings bank in Tidah, missionary congregation member. Traveled to Denmark in 1915 and 1939, Germany in 1922, Norway in 1926, Finland in 1927.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Oscar Linus Andebsson",
+        "birthDate": "1873-11-26",
+        "birthPlace": "Tidah",
+        "deathDate": "Died on March 31",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "P A Andersson",
+                "jobTitle": "Merchant"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Sundberg"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Hanna Gerda Eugenia Molander"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "educationalLevel": "Secondary School",
+            "awardDate": "Completed primary school equivalent to secondary school"
+        },
+        "employment": [
+            {
+                "@type": "Organization",
+                "name": "J Bengtzons ninth-grade store",
+                "startDate": "1888"
+            },
+            {
+                "@type": "LimitedCompany",
+                "name": "AB",
+                "startDate": "1911",
+                "founders": [
+                    "P A A:son"
+                ]
+            },
+            {
+                "@type": "Organization",
+                "name": "Bengtzons Manuf.AB",
+                "startDate": "1912",
+                "position": "Director, Chairman"
+            }
+        ],
+        "governmentalRoles": [
+            {
+                "@type": "GovernmentOrganization",
+                "name": "Municipal Council",
+                "startDate": "1916",
+                "endDate": "1926",
+                "position": "Member"
+            },
+            {
+                "@type": "GovernmentOrganization",
+                "name": "School board",
+                "startDate": "1919",
+                "endDate": "1935",
+                "position": "Member"
+            }
+        ],
+        "organizations": [
+            {
+                "@type": "Organization",
+                "name": "Tidaholm Mammal Department",
+                "position": "Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Tidah Savings Bank",
+                "position": "Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Missionary Congregation"
+            }
+        ],
+        "travels": [
+            "Denmark (1915, 1939)",
+            "Germany (1922)",
+            "Norway (1926)",
+            "Finland (1927)"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Bengtzons Manuf.AB",
+                "industry": "Manufacturing",
+                "start_date": "1912"
+            },
+            {
+                "occupational_title": "Deputy Director",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Member of Municipal Council",
+                "workplace": "Unknown",
+                "industry": "Government",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Member of School Board",
+                "workplace": "Unknown",
+                "industry": "Education",
+                "start_date": "1919"
+            }
+        ]
+    }
+}

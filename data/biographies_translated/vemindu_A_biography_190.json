@@ -1,0 +1,145 @@
+{
+    "original": "ANDEBSSON, John Algot, Disponent, Eslöv, f Ryssby, Kronob l, 26/5 89 av nämndman Anders Månsson o Emma Andréasson, gm Ingeborg Lagerstedt. Hdlsstud Kristianst, Gbg o Malmö. Anst fma Joh Falkengren &amp; Co Kristianst 03—05, prok i fma Aron Andersson Ryssby 06—14, disp AB P Laveson o chef f dess Eslövkorit 15—33, disp AB Carl Engström Eslöv sed. 34. Styr.led Onsjö Hds Sparbk. Led stdsflm, beredn.utsk, dräts.kamm, nmdeman, styr.ordf Eslövs städs tekn verk, styr.led Eslövs Fhsk.",
+    "translated": "ANDEBSSON, John Algot, Manager, Eslöv, born in Ryssby, Kronoberg County, on May 26th, 1889, son of councilman Anders Månsson and Emma Andréasson, married to Ingeborg Lagerstedt. Business studies in Kristianstad, Gothenburg, and Malmö. Employed at the company Joh Falkengren & Co in Kristianstad from 1903 to 1905, articled clerk at the company Aron Andersson in Ryssby from 1906 to 1914, manager of AB P Laveson and head chef of its Eslöv branch from 1915 to 1933, manager of AB Carl Engström in Eslöv since 1934. Board member of Onsjö Hds Savings Bank. Member of film censorship board, preparedness committee, finance committee, councilman, chairman of the board of Eslövs stad's technical works, board member of Eslövs Folkhögskola.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "John Algot Andebsson",
+        "birthDate": "1889-05-26",
+        "birthPlace": "Ryssby, Kronoberg County",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Anders Månsson",
+                "jobTitle": "Councilman"
+            },
+            {
+                "@type": "Person",
+                "name": "Emma Andréasson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ingeborg Lagerstedt"
+        },
+        "occupation": {
+            "@type": "OrganizationRole",
+            "roleName": "Manager",
+            "namedPosition": "AB Carl Engström, Eslöv",
+            "startDate": "1934"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Business Studies",
+                "educationalLevel": "Higher Education",
+                "educationalProgram": "Kristianstad"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "educationalLevel": "Higher Education",
+                "educationalProgram": "Gothenburg"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "educationalLevel": "Higher Education",
+                "educationalProgram": "Malmö"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Employed",
+                "namedPosition": "Joh Falkengren & Co",
+                "startDate": "1903",
+                "endDate": "1905"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Articled Clerk",
+                "namedPosition": "Aron Andersson",
+                "startDate": "1906",
+                "endDate": "1914"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Manager",
+                "namedPosition": "AB P Laveson (Eslöv)",
+                "startDate": "1915",
+                "endDate": "1933"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Onsjö Hds Savings Bank",
+                "memberOf": "Board member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Film Censorship Board",
+                "memberOf": "Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Preparedness Committee",
+                "memberOf": "Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Finance Committee",
+                "memberOf": "Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Eslövs stad's technical works",
+                "memberOf": "Chairman of the Board"
+            },
+            {
+                "@type": "Organization",
+                "name": "Eslövs Folkhögskola",
+                "memberOf": "Board member"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Business Studies Student",
+                "workplace": "Kristianstad, Gothenburg, and Malmö",
+                "industry": "Education",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Joh Falkengren & Co",
+                "industry": "Unknown",
+                "start_date": "1903"
+            },
+            {
+                "occupational_title": "Articled Clerk",
+                "workplace": "Aron Andersson",
+                "industry": "Unknown",
+                "start_date": "1906"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "AB P Laveson",
+                "industry": "Unknown",
+                "start_date": "1915"
+            },
+            {
+                "occupational_title": "Head Chef",
+                "workplace": "AB P Laveson, Eslövkorit",
+                "industry": "Unknown",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "AB Carl Engström",
+                "industry": "Unknown",
+                "start_date": "1934"
+            }
+        ]
+    }
+}

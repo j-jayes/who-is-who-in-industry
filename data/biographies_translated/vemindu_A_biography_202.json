@@ -1,0 +1,135 @@
+{
+    "original": "ANDERSSON, Axel Olof, Fabrikör, Skurup, f Hammarlöv, Malmöh l, 10/8 69 av lantbr 0 A o Bengta Brorson, gm Ester Ahlgren. Fem klasser hal, sockersk i Braunschweig 94. Kemist v sockerbruk i Malchin, Tyskl, 94 —95, kemist o verkmäst i Ystad 96—03, grund tills m broder AB Bröderna Anderssons Gjuteri i Skurup 03. Led av kommunalnmd 11— 14, kommunalflm 22—24. Resor: Tyskl 92 o 94—96, Holl o Schweiz 08. Hobby: Filateli.",
+    "translated": "ANDERSSON, Axel Olof, Industrialist, Skurup, born in Hammarlöv, Malmö County, on October 8, 1869, to farmer A and Bengta Brorson. Married to Ester Ahlgren. Completed five grades of elementary school, attended a sugar school in Braunschweig in 1894. Worked as a chemist at a sugar factory in Malchin, Germany, from 1894 to 1895, and as a chemist and foreman in Ystad from 1896 to 1903. Co-founded AB Bröderna Anderssons Gjuteri (Anderssons Brothers Foundry) in Skurup in 1903, together with his brother. Served as a member of the municipal council from 1911 to 1914 and as a municipal representative from 1922 to 1924. Traveled to Germany in 1892 and from 1894 to 1896, and visited the Netherlands and Switzerland in 1908. Hobbies: Philately.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Axel Olof Andersson",
+        "jobTitle": "Industrialist",
+        "birthPlace": "Hammarlöv, Malmö County",
+        "birthDate": "1869-10-08",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "A farmer Andersson"
+            },
+            {
+                "@type": "Person",
+                "name": "Bengta Brorson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ester Ahlgren"
+        },
+        "education": {
+            "@type": "EducationalOccupation",
+            "educationLevel": "ElementarySchool",
+            "completed": "Five grades"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "AB Bröderna Anderssons Gjuteri",
+                "foundingDate": "1903",
+                "founders": [
+                    {
+                        "@type": "Person",
+                        "name": "Axel Olof Andersson"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Brother Andersson"
+                    }
+                ]
+            }
+        ],
+        "workExperience": [
+            {
+                "@type": "JobPosting",
+                "title": "Chemist",
+                "startDate": "1894-00-00",
+                "endDate": "1895-00-00",
+                "location": "Malchin, Germany",
+                "hiringOrganization": {
+                    "@type": "Organization",
+                    "name": "Sugar Factory"
+                }
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Chemist and Foreman",
+                "startDate": "1896-00-00",
+                "endDate": "1903-00-00",
+                "location": "Ystad",
+                "hiringOrganization": {
+                    "@type": "Organization",
+                    "name": "Unknown"
+                }
+            }
+        ],
+        "activityAward": [
+            {
+                "@type": "CivilService",
+                "title": "Member of Municipal Council",
+                "startDate": "1911-00-00",
+                "endDate": "1914-00-00"
+            },
+            {
+                "@type": "CivilService",
+                "title": "Municipal Representative",
+                "startDate": "1922-00-00",
+                "endDate": "1924-00-00"
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "TravelAction",
+                "fromLocation": "Unknown",
+                "toLocation": "Germany",
+                "startDate": "1892-00-00",
+                "endDate": "1892-00-00"
+            },
+            {
+                "@type": "TravelAction",
+                "fromLocation": "Unknown",
+                "toLocation": "Germany",
+                "startDate": "1894-00-00",
+                "endDate": "1896-00-00"
+            },
+            {
+                "@type": "TravelAction",
+                "fromLocation": "Unknown",
+                "toLocation": "Netherlands and Switzerland",
+                "startDate": "1908-00-00",
+                "endDate": "1908-00-00"
+            }
+        ],
+        "hasHobby": {
+            "@type": "Hobby",
+            "name": "Philately"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Industrialist",
+                "workplace": "Skurup",
+                "industry": "Foundry",
+                "start_date": "1903"
+            },
+            {
+                "occupational_title": "Chemist",
+                "workplace": "Sugar Factory in Malchin, Germany",
+                "industry": "Sugar Manufacturing",
+                "start_date": "1894"
+            },
+            {
+                "occupational_title": "Chemist and Foreman",
+                "workplace": "Ystad",
+                "industry": "Unknown",
+                "start_date": "1896"
+            }
+        ]
+    }
+}

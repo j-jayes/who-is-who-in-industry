@@ -1,0 +1,93 @@
+{
+    "original": "ANDEBSSON, Gustaf Konrad Konstantin, Ingenjör, Direktör, Stockholm, f Nättraby, Blek, 12/4 82 av insp Fritz A o Amanda Olsson, gm Ester Häckner. Norrkps tekn elem.-sk 05, stud.res 05—27. Ing Vänersborgs Tänd-stfabr 05—08, dir Sthlms städs lärl- o yrkes-sk.väs sed. 12. RVO, RNS:tOOlkl.",
+    "translated": "ANDEBSSON, Gustaf Konrad Konstantin, Engineer, Director, Stockholm, born in Nättraby, Blekinge on April 12th, 1882, to inspector Fritz A and Amanda Olsson. Married to Ester Häckner. Attended Norrköping's Technical Elementary School from 1905 to 1907, and continued studies until 1927. Worked as an engineer at Vänersborg's Matchstick Factory from 1905 to 1908, and has been the director of Stockholm's Cleaning Apprenticeship School since 1912. Awarded the Royal Order of Vasa (RVO) and the Royal Order of the North Star (RNS: tOOlkl).",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Gustaf Konrad Konstantin",
+        "familyName": "ANDEBSSON",
+        "birthDate": "1882-04-12",
+        "birthPlace": "Nättraby, Blekinge",
+        "description": "Engineer, Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Fritz A"
+            },
+            {
+                "@type": "Person",
+                "name": "Amanda Olsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ester Häckner"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Norrköping's Technical Elementary School",
+                "startDate": "1905",
+                "endDate": "1907"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Norrköping's Technical Elementary School",
+                "startDate": "1905",
+                "endDate": "1927"
+            }
+        ],
+        "jobTitle": [
+            "Engineer",
+            "Director"
+        ],
+        "workLocation": "Stockholm",
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "Vänersborg's Matchstick Factory",
+                "jobTitle": "Engineer",
+                "startDate": "1905",
+                "endDate": "1908"
+            },
+            {
+                "@type": "Organization",
+                "name": "Stockholm's Cleaning Apprenticeship School",
+                "jobTitle": "Director",
+                "startDate": "1912"
+            }
+        ],
+        "award": [
+            {
+                "@type": "Order",
+                "name": "Royal Order of Vasa",
+                "code": "RVO"
+            },
+            {
+                "@type": "Order",
+                "name": "Royal Order of the North Star",
+                "code": "RNS: tOOlkl"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Vänersborg's Matchstick Factory",
+                "industry": "Matchstick Manufacturing",
+                "start_date": "1905"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Stockholm's Cleaning Apprenticeship School",
+                "industry": "Education",
+                "start_date": "1912"
+            }
+        ]
+    }
+}

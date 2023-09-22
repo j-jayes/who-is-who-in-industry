@@ -1,0 +1,253 @@
+{
+    "original": "ANDERSSON, Carl Ragnar, Civilingenjör, Hagalund, Ludvika, f Falun 25/2 80 av post-exp A R A o Amalia Björling, gm Anna Andersson. Mog.ex Falun 99, KTH 99—02, avg.ex där sistn år. Provrumsing o provrumschef v Elektr AB Magnet, Fören Elektr AB o ASEA i Ludvika 02—19, gruvförest f östra Finnäsfältet sed. 14, ch f Köpings stads vatten- o elverk 19—24, konsult verksamh sed. 24, besiktn.man f hissar mm. Ag fastigh i * Sthlm o Ludvika. Resor: Norge, Danm, Finl, Ryssl v olika tillf 06—19, Norge, Danm, Engl, Frankr 25—30, Tyskl, Österr, Ital 38. Av trycket: Bl a »Föreläsningar i Elektroteknik» o »Elektriskt montage». Hobby: Filateli.",
+    "translated": "ANDERSSON, Carl Ragnar, Civil Engineer, Hagalund, Ludvika, born in Falun on February 25th, 1880, son of postman A R A and Amalia Björling, married to Anna Andersson. Completed middle school in Falun in 1899, attended the Royal Institute of Technology from 1899 to 1902, passed final exams there in his last year. Started working as a test engineer and later became the head of the test department at Elektr AB Magnet, Fören Elektr AB, and ASEA in Ludvika from 1902 to 1919. Became mine manager for the eastern Finnäs field from 1914. Served as the chief of Köpings city water and electricity plant from 1919 to 1924. Engaged in consulting work since 1924, specializing in elevator inspections and more. Has property interests in Stockholm and Ludvika. Travelled to Norway, Denmark, Finland, and Russia on various occasions from 1906 to 1919, and to Norway, Denmark, England, and France from 1925 to 1930, and to Germany, Austria, and Italy in 1938. Published works include \"Lectures on Electrical Engineering\" and \"Electrical Installations.\" Hobby: Philately.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Ragnar Andersson",
+        "jobTitle": "Civil Engineer",
+        "birthDate": "1880-02-25",
+        "birthPlace": "Falun, Sweden",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "A R A Andersson",
+                "jobTitle": "Postman"
+            },
+            {
+                "@type": "Person",
+                "name": "Amalia Björling"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Anna Andersson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "middle school",
+                "alumniOf": "Falun",
+                "endDate": "1899"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "university",
+                "alumniOf": "Royal Institute of Technology",
+                "startDate": "1899",
+                "endDate": "1902"
+            }
+        ],
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1902",
+                "endDate": "1919",
+                "roleName": "Test Engineer",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Elektr AB Magnet"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1902",
+                "endDate": "1919",
+                "roleName": "Head of Test Department",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Fören Elektr AB"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1902",
+                "endDate": "1919",
+                "roleName": "Head of Test Department",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "ASEA"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1914",
+                "roleName": "Mine Manager",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Eastern Finnäs Field"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1919",
+                "endDate": "1924",
+                "roleName": "Chief",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Köpings City Water and Electricity Plant"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1924",
+                "roleName": "Consultant",
+                "specialty": "Elevator Inspections",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Self-employed"
+                }
+            }
+        ],
+        "owns": [
+            {
+                "@type": "Place",
+                "name": "Properties in Stockholm and Ludvika"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Country",
+                "name": "Sweden"
+            }
+        ],
+        "travel": [
+            {
+                "@type": "TravelAction",
+                "startDate": "1906",
+                "endDate": "1919",
+                "toLocation": [
+                    {
+                        "@type": "Country",
+                        "name": "Norway"
+                    },
+                    {
+                        "@type": "Country",
+                        "name": "Denmark"
+                    },
+                    {
+                        "@type": "Country",
+                        "name": "Finland"
+                    },
+                    {
+                        "@type": "Country",
+                        "name": "Russia"
+                    }
+                ]
+            },
+            {
+                "@type": "TravelAction",
+                "startDate": "1925",
+                "endDate": "1930",
+                "toLocation": [
+                    {
+                        "@type": "Country",
+                        "name": "Norway"
+                    },
+                    {
+                        "@type": "Country",
+                        "name": "Denmark"
+                    },
+                    {
+                        "@type": "Country",
+                        "name": "England"
+                    },
+                    {
+                        "@type": "Country",
+                        "name": "France"
+                    }
+                ]
+            },
+            {
+                "@type": "TravelAction",
+                "startDate": "1938",
+                "toLocation": [
+                    {
+                        "@type": "Country",
+                        "name": "Germany"
+                    },
+                    {
+                        "@type": "Country",
+                        "name": "Austria"
+                    },
+                    {
+                        "@type": "Country",
+                        "name": "Italy"
+                    }
+                ]
+            }
+        ],
+        "additionalName": "Ragnar",
+        "description": "Civil engineer from Sweden",
+        "sameAs": [
+            "https://www.example.com/carl-ragnar-andersson"
+        ],
+        "hobbies": [
+            "Philately"
+        ],
+        "publication": [
+            {
+                "@type": "CreativeWork",
+                "name": "Föreläsningar i Elektroteknik",
+                "author": {
+                    "@type": "Person",
+                    "name": "Carl Ragnar Andersson"
+                }
+            },
+            {
+                "@type": "CreativeWork",
+                "name": "Elektriskt montage",
+                "author": {
+                    "@type": "Person",
+                    "name": "Carl Ragnar Andersson"
+                }
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Test Engineer",
+                "workplace": "Elektr AB Magnet, Fören Elektr AB, ASEA",
+                "industry": "Electrical engineering",
+                "start_date": "1902"
+            },
+            {
+                "occupational_title": "Head of Test Department",
+                "workplace": "Elektr AB Magnet, Fören Elektr AB, ASEA",
+                "industry": "Electrical engineering",
+                "start_date": "1902"
+            },
+            {
+                "occupational_title": "Mine Manager",
+                "workplace": "Eastern Finnäs field",
+                "industry": "Mining",
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Chief of Köpings City Water and Electricity Plant",
+                "workplace": "Köpings stads vatten- o elverk",
+                "industry": "Utilities",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Consultant",
+                "workplace": "Self-employed",
+                "industry": "Consulting",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Elevator Inspector",
+                "workplace": "Self-employed",
+                "industry": "Consulting",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Property Owner",
+                "workplace": "Stockholm and Ludvika",
+                "industry": "Real estate",
+                "start_date": null
+            }
+        ]
+    }
+}

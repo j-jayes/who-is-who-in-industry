@@ -1,0 +1,75 @@
+{
+    "original": "AGELL, Nils Georg, Major, Direktör, Växjö, f Hällum, Skarab l, 12/2 87, gm Elsa Lindén. Studex Växjö 05. Offex 07, KHS 14, major i Gen.stabens res 37. Vkst dir AB Wexiö Bayerska Bryggeri sed. 26, tillika vkst dir Kronobergs Bryggeri AB. Led av landsting o stdsflm.",
+    "translated": "AGELL, Nils Georg, Major, Director, Växjö, born in Hällum, Skaraborg county, on February 12th, 1887, married to Elsa Lindén. Graduated from Växjö College in 1905. Started working at the Office of Administration in 1907 and joined the Royal Military Academy in 1914. Became a Major in the General Staff Reserve in 1937. Served as the Managing Director of AB Wexiö Bayerska Brewery since 1926, also served as the Managing Director of Kronoberg Brewery AB. Member of the County Council and City Assembly.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Nils Georg Agell",
+        "jobTitle": "Major, Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Växjö"
+        },
+        "birthDate": "1887-02-12",
+        "birthPlace": "Hällum, Skaraborg county",
+        "spouse": {
+            "@type": "Person",
+            "name": "Elsa Lindén"
+        },
+        "alumniOf": {
+            "@type": "CollegeOrUniversity",
+            "name": "Växjö College",
+            "startDate": "1905"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "AB Wexiö Bayerska Brewery",
+                "startDate": "1926",
+                "jobTitle": "Managing Director"
+            },
+            {
+                "@type": "Organization",
+                "name": "Kronoberg Brewery AB",
+                "jobTitle": "Managing Director"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "General Staff Reserve",
+                "jobTitle": "Major"
+            },
+            {
+                "@type": "Organization",
+                "name": "Landsting"
+            },
+            {
+                "@type": "Organization",
+                "name": "City Assembly"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Major",
+                "workplace": "Royal Military Academy",
+                "industry": "Military",
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "AB Wexiö Bayerska Brewery",
+                "industry": "Brewery",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Kronoberg Brewery AB",
+                "industry": "Brewery",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

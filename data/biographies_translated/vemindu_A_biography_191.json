@@ -1,0 +1,133 @@
+{
+    "original": "ANDEBSSON, John Oscar, Disponent, Malmö, f Malmö 30/1 00 av verkm N A o Anna Andersson, gm Greta Lindqvist. Kurser h Hermods o NKI. Anst fma Bröderna Löfström 32—35, AB E Fleron 35—39, AB Motorslip sed. 39 (samtl i Malmö); ag villa-fastigh i Malmö o lantg i Smal. Styr.led AB E Fleron, AB Motorslip, SMK:s Malmöavd. Resor: Afr o Ital 28—29, USA 29—31. Hobby: Jakt. °ANDEBSSON, Jolin Viktor, Fabrikör, Gävle, f Järvsta, Gävleb l, 22/11 81, gm Elisabeth Forsberg. Eft slut skolgång prakt i kassaskåpsbranschen i Gävle 97, Krylbo 08, Sthlm 12. Gr fma John Anderssons Kassakåpsfabr Gävle 18, inneh dna.",
+    "translated": "ANDEBSSON, John Oscar, Manager, Malmö, b. Malmö 30/1 00 to factory worker N A and Anna Andersson, m. Greta Lindqvist. Attended courses at Hermods and NKI. Employed at Bröderna Löfström 32-35, AB E Fleron 35-39, AB Motorslip since 39 (all in Malmö); part-owner of a villa property in Malmö and rural land in Smal. Board member of AB E Fleron, AB Motorslip, and SMK's Malmö branch. Traveled to Africa and Italy 28-29, USA 29-31. Hobby: Hunting.\n\nANDEBSSON, Jolin Viktor, Manufacturer, Gävle, b. Järvsta, Gävle County, 22/11 81, m. Elisabeth Forsberg. After completing school, worked in the safe industry in Gävle in 97, Krylbo in 08, Stockholm in 12. Established John Anderssons Kassakåpsfabr in Gävle in 18, currently owns it.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "John Oscar Andebsson",
+        "givenName": "John Oscar",
+        "familyName": "Andebsson",
+        "birthDate": "1900-01-30",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Malmö"
+        },
+        "description": "Manager",
+        "spouse": {
+            "@type": "Person",
+            "name": "Greta Lindqvist"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "N A Andersson"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Andersson"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Hermods"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "NKI"
+            }
+        ],
+        "employment": [
+            {
+                "@type": "Organization",
+                "name": "Bröderna Löfström",
+                "startDate": "1932-01-01",
+                "endDate": "1935-01-01"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB E Fleron",
+                "startDate": "1935-01-01",
+                "endDate": "1939-01-01"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Motorslip",
+                "startDate": "1939-01-01"
+            }
+        ],
+        "owns": [
+            {
+                "@type": "House",
+                "name": "Villa property, Malmö"
+            },
+            {
+                "@type": "Landform",
+                "name": "Rural land, Smal"
+            }
+        ],
+        "boardMember": [
+            {
+                "@type": "Organization",
+                "name": "AB E Fleron"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Motorslip"
+            },
+            {
+                "@type": "Organization",
+                "name": "SMK's Malmö branch"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "SMK's Malmö branch"
+            }
+        ],
+        "hobbies": "Hunting",
+        "travel": [
+            {
+                "@type": "Place",
+                "name": "Africa"
+            },
+            {
+                "@type": "Place",
+                "name": "Italy"
+            },
+            {
+                "@type": "Place",
+                "name": "USA"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Manager",
+                "workplace": "Bröderna Löfström",
+                "industry": "Unknown",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "AB E Fleron",
+                "industry": "Unknown",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "AB Motorslip",
+                "industry": "Unknown",
+                "start_date": "1939"
+            },
+            {
+                "occupational_title": "Manufacturer",
+                "workplace": "John Anderssons Kassakåpsfabr",
+                "industry": "Safe manufacturing",
+                "start_date": "1918"
+            }
+        ]
+    }
+}

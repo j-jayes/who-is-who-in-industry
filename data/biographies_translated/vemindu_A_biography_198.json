@@ -1,0 +1,109 @@
+{
+    "original": "ANDEBSSON, Mats Rudolf, Ingenjör, Hammarbyhöjden, f Seglora, Älvsb l, 13/1 14 av lantbr K J A o Hanna Carlsson, gm Karin Andersson. Fhsk, ex Katrineh tekn sk (el-tekn). Prakt h AB Elektrovärme o AB Lindström &amp; Sjöberg Borås, konstr v ASEA:s ugnsbyrå V.ås 39—41, konstr av el ind.ugnar v AB Elektrougnar Sthlm 41, ritkont.ch där sed. 42.",
+    "translated": "ANDEBSSON, Mats Rudolf, Engineer, Hammarbyhöjden, born in Seglora, Älvsborgs län, on January 13, 1914, son of farmer K J A and Hanna Carlsson, married to Karin Andersson. Attended technical school in Katrineholm (electrical engineering). Worked at AB Elektrovärme and AB Lindström & Sjöberg in Borås, design engineer at ASEA's furnace bureau in Västerås from 1939 to 1941, design of electric industrial furnaces at AB Elektrougnar in Stockholm in 1941, drafting office manager there since 1942.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Mats Rudolf Andebsson",
+        "jobTitle": "Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Hammarbyhöjden"
+        },
+        "birthDate": "1914-01-13",
+        "birthPlace": "Seglora, Älvsborgs län",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "K J A Andebsson"
+            },
+            {
+                "@type": "Person",
+                "name": "Hanna Carlsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Karin Andersson"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Katrineh tekn sk",
+            "alumniOf": [
+                {
+                    "@type": "EducationalOccupationalCredential",
+                    "credentialCategory": "electrical engineering"
+                }
+            ]
+        },
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "AB Elektrovärme"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Lindström & Sjöberg, Borås"
+            },
+            {
+                "@type": "Organization",
+                "name": "ASEA",
+                "department": "Furnace Bureau",
+                "location": "Västerås",
+                "startDate": "1939-01-01",
+                "endDate": "1941-12-31",
+                "jobTitle": "Design Engineer"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Elektrougnar",
+                "location": "Stockholm",
+                "startDate": "1941-01-01",
+                "jobTitle": "Design Engineer"
+            }
+        ],
+        "additionalName": "Rudolf",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "AB Elektrougnar",
+                "jobTitle": "Drafting Office Manager",
+                "startDate": "1942-01-01"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "AB Elektrovärme",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "AB Lindström & Sjöberg",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Design Engineer",
+                "workplace": "ASEA's Furnace Bureau",
+                "industry": "Electric furnace manufacturing",
+                "start_date": "1939"
+            },
+            {
+                "occupational_title": "Design Engineer",
+                "workplace": "AB Elektrougnar",
+                "industry": "Electric furnace manufacturing",
+                "start_date": "1941"
+            },
+            {
+                "occupational_title": "Drafting Office Manager",
+                "workplace": "AB Elektrougnar",
+                "industry": "Electric furnace manufacturing",
+                "start_date": "1942"
+            }
+        ]
+    }
+}
