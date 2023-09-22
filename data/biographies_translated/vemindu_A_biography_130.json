@@ -1,0 +1,132 @@
+{
+    "original": "ANDEN, Ignar, Fabrikör, Fritsla, f Borås, 30/3 97 av reg.läk L A o Ingeborg Wingqvist, gm Solveig Michel. Studex Borås 15, Gbgs hdlsinst 15—16, John Lennings vävsk 16—17, språkstud Engl o Frankr. Ag fma L J Wingqvist Fritsla sed. 09, chef f denna sed. 18. Res Tyskl, Engl, Frankr årl 20—39, Ital 21 o Span 26, res jorden runt 32, Ind 34, Egypt 35 0 38 (delt int bomullskongressen). KAK. Hobbies : Fotografering o filmning.",
+    "translated": "ANDEN, Ignar, Manufacturer, Fritsla, b. Borås, March 30, 1897, son of District Physician L. A. and Ingeborg Wingqvist, married Solveig Michel. Graduated Borås 1915, Gothenburg School of Commerce 1915-1916, John Lennings Weaving School 1916-1917, language studies in England and France. Employed by L. J. Wingqvist, Fritsla, since 1909, became manager since 1918. Traveled extensively to Germany, England, France annually from 1920 to 1939, Italy in 1921 and Spain in 1926, circumnavigated the globe in 1932, visited India in 1934 and Egypt in 1935-1938 (participated in the cotton congress). Member of the Swedish Artists' Confederation. Hobbies: Photography and filmmaking.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Ignar",
+        "familyName": "Anden",
+        "jobTitle": "Manufacturer",
+        "birthDate": "1897-03-30",
+        "birthPlace": "Borås, Sweden",
+        "parents": [
+            {
+                "@type": "Person",
+                "givenName": "L. A.",
+                "familyName": "Wingqvist",
+                "jobTitle": "District Physician"
+            },
+            {
+                "@type": "Person",
+                "givenName": "Ingeborg",
+                "familyName": "Wingqvist"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "givenName": "Solveig",
+            "familyName": "Michel"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Borås",
+                "endDate": "1915"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Gothenburg School of Commerce",
+                "startDate": "1915",
+                "endDate": "1916"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "John Lennings Weaving School",
+                "startDate": "1916",
+                "endDate": "1917"
+            }
+        ],
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "L. J. Wingqvist, Fritsla",
+                "startDate": "1909",
+                "endDate": "1918",
+                "jobTitle": "Employee"
+            },
+            {
+                "@type": "Organization",
+                "name": "L. J. Wingqvist, Fritsla",
+                "startDate": "1918",
+                "jobTitle": "Manager"
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "Country",
+                "name": "Germany",
+                "startDate": "1920",
+                "endDate": "1939"
+            },
+            {
+                "@type": "Country",
+                "name": "England",
+                "startDate": "1920",
+                "endDate": "1939"
+            },
+            {
+                "@type": "Country",
+                "name": "France",
+                "startDate": "1920",
+                "endDate": "1939"
+            },
+            {
+                "@type": "Country",
+                "name": "Italy",
+                "startDate": "1921"
+            },
+            {
+                "@type": "Country",
+                "name": "Spain",
+                "startDate": "1926"
+            },
+            {
+                "@type": "Country",
+                "name": "India",
+                "startDate": "1934"
+            },
+            {
+                "@type": "Country",
+                "name": "Egypt",
+                "startDate": "1935",
+                "endDate": "1938"
+            }
+        ],
+        "organizationMembership": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Artists' Confederation"
+            }
+        ],
+        "hobbies": [
+            "Photography",
+            "Filmmaking"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Manufacturer",
+                "workplace": "L. J. Wingqvist",
+                "industry": "Textile",
+                "start_date": "1909"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "L. J. Wingqvist",
+                "industry": "Textile",
+                "start_date": "1918"
+            }
+        ]
+    }
+}

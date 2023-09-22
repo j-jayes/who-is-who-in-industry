@@ -1,0 +1,87 @@
+{
+    "original": "ADLARSON, Åke, Disponent, Borås, f Borås, 26/12 09 av dir Joh Ad Larsson o Alda Antoinette Pehrson. Realgymn o hdlsgymn. Eg. fma Ad. Larsson &amp; Co AB, v.vkst dir i FastighetsAB Wasa, Borås. Resor: Norge, Danm, Tyskl, Engl, Frankr, Tjeckoslov, Österr, Ital, Holl, Belg, Schweiz, Ung 28—39. Frimurare.",
+    "translated": "ADLARSON, Åke, Director, Borås, b. Borås, 26/12 09, son of director Joh Ad Larsson and Alda Antoinette Pehrson. Gymnasium education and commercial gymnasium. Owner of Ad. Larsson &amp; Co AB, vice managing director at FastighetsAB Wasa, Borås. Travelled to Norway, Denmark, Germany, England, France, Czechoslovakia, Austria, Italy, the Netherlands, Belgium, Switzerland, Hungary from 1928 to 1939. Freemason.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Åke Adlarson",
+        "birthDate": "1909-12-26",
+        "birthPlace": "Borås",
+        "father": {
+            "@type": "Person",
+            "name": "Joh Ad Larsson"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Alda Antoinette Pehrson"
+        },
+        "occupation": "Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Borås"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Realgymnasium"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Commercial gymnasium"
+            }
+        ],
+        "owns": {
+            "@type": "Organization",
+            "name": "Ad. Larsson & Co AB"
+        },
+        "workLocation": {
+            "@type": "Organization",
+            "name": "FastighetsAB Wasa, Borås"
+        },
+        "roles": [
+            "Owner",
+            "Vice Managing Director"
+        ],
+        "travelledTo": [
+            "Norway",
+            "Denmark",
+            "Germany",
+            "England",
+            "France",
+            "Czechoslovakia",
+            "Austria",
+            "Italy",
+            "The Netherlands",
+            "Belgium",
+            "Switzerland",
+            "Hungary"
+        ],
+        "travelDuration": {
+            "@type": "Duration",
+            "startDate": "1928",
+            "endDate": "1939"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Freemasons"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Ad. Larsson & Co AB",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Vice Managing Director",
+                "workplace": "FastighetsAB Wasa, Borås",
+                "industry": "Real Estate",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

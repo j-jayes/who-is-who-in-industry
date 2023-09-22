@@ -1,0 +1,123 @@
+{
+    "original": "ANDERSSON, Alfred, Affärschef, Vadstena, f Holmedal, Värml, 23/11 82 av lantbr And A o h h Marta, gm Hulda Landin. Förest f Vadstena Konsumtionsfrn sed. 10. Stadsrev, fd ordf i Vadst System AB. Rev i Vadst sjukkassa sed. 36, i ABFrs lokalavd, kassör i Andelsfrn Vadst Gille sed. 17.",
+    "translated": "ANDERSSON, Alfred, Business Manager, Vadstena, b. Holmedal, Värmland, 23/11/82, son of farmer Anders A and housewife Marta. Married to Hulda Landin. Former manager of Vadstena Consumer Cooperative since 1910. City auditor, former chairman of Vadstena System AB. Auditor of Vadstena Health Fund since 1936, ABFrs local chapter member, treasurer of Vadstena Guild Cooperative since 1917.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Alfred Andersson",
+        "jobTitle": [
+            {
+                "@type": "Role",
+                "name": "City Auditor"
+            },
+            {
+                "@type": "Role",
+                "name": "Former Chairman",
+                "endDate": "present"
+            },
+            {
+                "@type": "Role",
+                "name": "Auditor"
+            },
+            {
+                "@type": "Role",
+                "name": "Treasurer"
+            }
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "addressRegion": "Värmland",
+            "addressLocality": "Vadstena"
+        },
+        "birthDate": "1882-11-23",
+        "birthPlace": "Holmedal, Värmland",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Anders A"
+            },
+            {
+                "@type": "Person",
+                "name": "Marta"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Hulda Landin"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Vadstena Consumer Cooperative",
+                "startDate": "1910"
+            },
+            {
+                "@type": "Organization",
+                "name": "Vadstena System AB",
+                "endDate": "present"
+            },
+            {
+                "@type": "Organization",
+                "name": "Vadstena Health Fund",
+                "startDate": "1936",
+                "endDate": "present"
+            },
+            {
+                "@type": "Organization",
+                "name": "ABFrs local chapter"
+            },
+            {
+                "@type": "Organization",
+                "name": "Vadstena Guild Cooperative",
+                "startDate": "1917",
+                "endDate": "present"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Business Manager",
+                "workplace": "Vadstena",
+                "industry": "",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Former Manager of Vadstena Consumer Cooperative",
+                "workplace": "",
+                "industry": "",
+                "start_date": "1910"
+            },
+            {
+                "occupational_title": "City Auditor",
+                "workplace": "",
+                "industry": "",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Former Chairman of Vadstena System AB",
+                "workplace": "",
+                "industry": "",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Auditor of Vadstena Health Fund",
+                "workplace": "",
+                "industry": "",
+                "start_date": "1936"
+            },
+            {
+                "occupational_title": "ABFrs Local Chapter Member",
+                "workplace": "",
+                "industry": "",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Treasurer of Vadstena Guild Cooperative",
+                "workplace": "",
+                "industry": "",
+                "start_date": "1917"
+            }
+        ]
+    }
+}

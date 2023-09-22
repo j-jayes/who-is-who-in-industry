@@ -1,0 +1,95 @@
+{
+    "original": "ADLERSTRÅHLE, Ivar Alexisson Leberecht, Köpman, Stockholm, f Sthlm 11/3 90 av kontr A A o h h, f Anstrell. Efter slutad skolgång genomgått Schartaus handelssk, Sthlm. Offex Karlbergs krigsskola 11. Stud i Tyskl 09—11, Engl 11—12, Ryssl 12—14. Chef f textilavd h Per A Källgren AB, Sthlm, 19—34, egen handelsagenturverksamhet i Sthlm sed. 34. Led SHF.",
+    "translated": "ADLERSTRÅHLE, Ivar Alexisson Leberecht, Merchant, Stockholm, b. Sthlm 11/3 90, son of A A and h h, née Anstrell. After completing his schooling, he attended Schartaus Handelsskola in Sthlm. Military service at Karlbergs Krigsskola 11. Studied German 09-11, English 11-12, Russian 12-14. Head of the textile department at Per A Källgren AB, Sthlm, 19-34, then ran his own trade agency in Sthlm from 34. Member of SHF.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Ivar Alexisson Leberecht Adlerstråhle",
+        "birthDate": "1890-03-11",
+        "birthPlace": "Stockholm",
+        "father": "A A Adlerstråhle",
+        "mother": "H H Adlerstråhle (née Anstrell)",
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Diploma",
+            "credentialSubject": [
+                {
+                    "@type": "EducationalOccupationalProgram",
+                    "name": "Schartaus Handelsskola",
+                    "location": "Stockholm",
+                    "endDate": "1908"
+                },
+                {
+                    "@type": "EducationalOccupationalProgram",
+                    "name": "Karlbergs Krigsskola",
+                    "location": "Stockholm",
+                    "startDate": "1911",
+                    "endDate": "1911"
+                },
+                {
+                    "@type": "EducationalOccupationalProgram",
+                    "name": "German Studies",
+                    "location": "Germany",
+                    "startDate": "1909",
+                    "endDate": "1911"
+                },
+                {
+                    "@type": "EducationalOccupationalProgram",
+                    "name": "English Studies",
+                    "location": "England",
+                    "startDate": "1911",
+                    "endDate": "1912"
+                },
+                {
+                    "@type": "EducationalOccupationalProgram",
+                    "name": "Russian Studies",
+                    "location": "Russia",
+                    "startDate": "1912",
+                    "endDate": "1914"
+                }
+            ]
+        },
+        "occupation": [
+            {
+                "@type": "Merchant",
+                "name": "Per A Källgren AB",
+                "employmentType": "Head of Textile Department",
+                "location": "Stockholm",
+                "startDate": "1919",
+                "endDate": "1934"
+            },
+            {
+                "@type": "TradeAgent",
+                "name": "Own Trade Agency",
+                "location": "Stockholm",
+                "startDate": "1934"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "SHF"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Stockholm",
+                "industry": "Trade",
+                "start_date": "1909"
+            },
+            {
+                "occupational_title": "Head of Textile Department",
+                "workplace": "Per A Källgren AB",
+                "industry": "Textile",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Self-employed Trade Agent",
+                "workplace": "Stockholm",
+                "industry": "Trade",
+                "start_date": "1934"
+            }
+        ]
+    }
+}

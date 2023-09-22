@@ -1,0 +1,128 @@
+{
+    "original": "ANDERSSON, Carl August, Disponent, Klippan, f Hälsingborg 3/3 93 av fabr A A o Nelly Paulsson, gm Gulli Hansson. Tjm Höganäs-Billesholms AB Billesholms Gruva 13, Orrnäs-torpsvkn Nyvång 13—18, kassör där. Disp fad fma AB A Andersson &amp; Söner Klippan sed. 19, distr.chef Allm Pensionsförsäkr.bol sed. 31, styr.led AB Lunds Skofabr Lund. Kyrkoflm sed. 38. Ordf Klippans KFUM-grupp. Styr.led Klippans Kristl Ungdomsfrn, kass K :s hö-gerfrn.",
+    "translated": "ANDERSSON, Carl August, Manager, Klippan, born in Hälsingborg on March 3, 1893, son of factory owner A.A. and Nelly Paulsson, married to Gulli Hansson. Employed by Höganäs-Billesholms AB Billesholms Gruva from 1913 to 1918, treasurer there. Manager of the family company AB A Andersson & Sons Klippan since 1919, district manager for Allmänna Pensionsförsäkringsbolaget since 1931, board member of AB Lunds Skofabrik Lund. Church board member since 1938. Chairman of Klippans KFUM group. Board member of Klippans Kristliga Ungdomsfröning, treasurer for K:s högernfröning.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Carl August",
+        "familyName": "Andersson",
+        "jobTitle": "Manager",
+        "birthPlace": "Hälsingborg",
+        "birthDate": "1893-03-03",
+        "father": {
+            "@type": "Person",
+            "givenName": "A.A.",
+            "familyName": "Andersson"
+        },
+        "mother": {
+            "@type": "Person",
+            "givenName": "Nelly",
+            "familyName": "Paulsson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "givenName": "Gulli",
+            "familyName": "Hansson"
+        },
+        "employment": [
+            {
+                "@type": "Organization",
+                "name": "Höganäs-Billesholms AB Billesholms Gruva",
+                "startDate": "1913",
+                "endDate": "1918"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB A Andersson & Sons Klippan",
+                "startDate": "1919"
+            },
+            {
+                "@type": "Organization",
+                "name": "Allmänna Pensionsförsäkringsbolaget",
+                "startDate": "1931",
+                "position": "District Manager"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Lunds Skofabrik Lund",
+                "position": "Board Member"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Klippans KFUM group",
+                "roleName": "Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Klippans Kristliga Ungdomsfröning",
+                "roleName": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "K:s högernfröning",
+                "roleName": "Treasurer"
+            }
+        ],
+        "churchBoardMember": true
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Manager",
+                "workplace": "Höganäs-Billesholms AB Billesholms Gruva",
+                "industry": "Mining",
+                "start_date": "1913"
+            },
+            {
+                "occupational_title": "Treasurer",
+                "workplace": "Höganäs-Billesholms AB Billesholms Gruva",
+                "industry": "Mining",
+                "start_date": "1913"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "AB A Andersson & Sons Klippan",
+                "industry": "Manufacturing",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "District Manager",
+                "workplace": "Allmänna Pensionsförsäkringsbolaget",
+                "industry": "Insurance",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "AB Lunds Skofabrik Lund",
+                "industry": "Manufacturing",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Church Board Member",
+                "workplace": "Unknown",
+                "industry": "Religious",
+                "start_date": "1938"
+            },
+            {
+                "occupational_title": "Chairman",
+                "workplace": "Klippans KFUM group",
+                "industry": "Non-profit organization",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Klippans Kristliga Ungdomsfröning",
+                "industry": "Non-profit organization",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Treasurer",
+                "workplace": "K:s högernfröning",
+                "industry": "Non-profit organization",
+                "start_date": null
+            }
+        ]
+    }
+}

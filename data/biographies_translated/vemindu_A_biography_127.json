@@ -1,0 +1,77 @@
+{
+    "original": "AMUNDSON, Knut Harald, Direktör, Göteborg, f Uddevalla 14/3 82. Lärov.stud, prakt 1 utl. Anst Lindholmens varv Gbg. Eg grhdl i chokl o konfekt m eg fabrikat 22—41. Vkst dir Kalu Choklad &amp; Konfektfabr AB sed. 41. Hobbies: Segling, Skytte, jakt.",
+    "translated": "AMUNDSON, Knut Harald, Director, Gothenburg, b. Uddevalla 14/3 82. Studied at a secondary school, trained 1 year abroad. Employed at Lindholmens shipyard in Gothenburg. Self-owned business in chocolate and confectionery with own brand 22-41. Became managing director of Kalu Chocolate & Confectionery Factory AB since '41. Hobbies: Sailing, Shooting, Hunting.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Knut Harald Amundson",
+        "birthDate": "1882-03-14",
+        "birthPlace": "Uddevalla, Sweden",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Gothenburg",
+            "addressCountry": "Sweden"
+        },
+        "occupation": "Director",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Kalu Chocolate & Confectionery Factory AB",
+            "startDate": "1941-01-01"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Secondary School"
+        },
+        "training": {
+            "startDate": "1921-01-01",
+            "endDate": "1922-01-01"
+        },
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "Lindholmens Shipyard",
+                "startDate": "19XX-XX-XX",
+                "endDate": "19XX-XX-XX"
+            },
+            {
+                "@type": "Organization",
+                "name": "Kalu Chocolate & Confectionery Factory AB",
+                "startDate": "19XX-XX-XX",
+                "endDate": "19XX-XX-XX"
+            }
+        ],
+        "hobbies": [
+            "Sailing",
+            "Shooting",
+            "Hunting"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Gothenburg",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Lindholmens shipyard",
+                "industry": "Shipbuilding",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Self-owned business",
+                "workplace": "Unknown",
+                "industry": "Chocolate and confectionery",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "Kalu Chocolate & Confectionery Factory AB",
+                "industry": "Chocolate and confectionery",
+                "start_date": "1941"
+            }
+        ]
+    }
+}

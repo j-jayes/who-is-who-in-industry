@@ -1,0 +1,96 @@
+{
+    "original": "ANDERSSON, Hugo Theodor, Direktör, Eskilstuna, f Råby, Sörml l, 3/1 82 av C A Andersson o Ida Rydstedt. Folksk. Anst Munktells mek verkst 96—11, start tills m två kompanj fma Bröderna Andersson &amp; Co 11 (omb t Etuna gjutAB 19), huv.intr o styr.led i detta. Led polisnmd o tax.nmd. Styr.led Etuna miss.förs.",
+    "translated": "ANDERSSON, Hugo Theodor, Director, Eskilstuna, b. Råby, Sörmland county, 3/1 82, son of C A Andersson and Ida Rydstedt. Completed primary school. Employed at Munktells Mechanical Works from 1896 to 1911, then started a business with two partners, Bröderna Andersson & Co 11 (later merged with Etuna Foundry AB in 1919), serving as the company's main director and on the board of directors. Member of the police committee and tax committee. Board member of Etuna Missionary Society.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Hugo Theodor Andersson",
+        "birthDate": "1882-01-03",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Råby",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Sörmland",
+                "addressCountry": "Sweden"
+            }
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "C A Andersson"
+            },
+            {
+                "@type": "Person",
+                "name": "Ida Rydstedt"
+            }
+        ],
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Primary school"
+        },
+        "jobTitle": "Director",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Munktells Mechanical Works",
+            "startDate": "1896-01",
+            "endDate": "1911-12"
+        },
+        "business": {
+            "@type": "Organization",
+            "name": "Bröderna Andersson & Co 11",
+            "startDate": "1911",
+            "endDate": "1919",
+            "department": {
+                "@type": "Organization",
+                "name": "Etuna Foundry AB"
+            }
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Board of Directors, Etuna Foundry AB"
+            },
+            {
+                "@type": "Organization",
+                "name": "Police Committee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Tax Committee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Etuna Missionary Society"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Primary School Student",
+                "workplace": null,
+                "industry": null,
+                "start_date": null
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Munktells Mechanical Works",
+                "industry": null,
+                "start_date": "1896"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Bröderna Andersson & Co",
+                "industry": null,
+                "start_date": "1911"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Etuna Foundry AB",
+                "industry": null,
+                "start_date": "1919"
+            }
+        ]
+    }
+}

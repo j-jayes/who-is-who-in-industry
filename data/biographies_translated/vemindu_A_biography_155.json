@@ -1,0 +1,104 @@
+{
+    "original": "ANDERSSON, Per Alexander, Direktör, Leksand, f Dala Husby, Kopparb l, 12/12 77. Anst h handl Th Wahlberg, Hedemora, 97; förest Leksands Hdls AB 06—13; inneh And Fribergs Spec.aff, Leksands Noret, 13—18; deläg o vkst dir Import AB And Jobs, Leksand, sed. 20.",
+    "translated": "ANDERSSON, Per Alexander, Director, Leksand, born in Dala Husby, Kopparberg county, on December 12th, 1877. Employed at Th Wahlberg trading company, Hedemora, in 1897; managed Leksands Handelsaktiebolag from 1906 to 1913; owned and operated Fribergs Specialty Store, Leksands Noret, from 1913 to 1918; became a shareholder and Deputy Managing Director at Import AB And Jobs, Leksand, from 1920 onwards.\n\nNote: There is no information available regarding Per Alexander's marriage.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Per Alexander",
+        "familyName": "Andersson",
+        "jobTitle": "Director",
+        "birthDate": "1877-12-12",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Dala Husby",
+                "addressRegion": "Kopparberg County",
+                "addressCountry": "Sweden"
+            }
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Th Wahlberg",
+                "jobTitle": "Employee",
+                "startDate": "1897-01-01",
+                "endDate": "1906-01-01",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Hedemora",
+                    "addressCountry": "Sweden"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Leksands Handelsaktiebolag",
+                "jobTitle": "Manager",
+                "startDate": "1906-01-01",
+                "endDate": "1913-01-01",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Leksand",
+                    "addressCountry": "Sweden"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Fribergs Specialty Store",
+                "jobTitle": "Owner and Operator",
+                "startDate": "1913-01-01",
+                "endDate": "1918-01-01",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Leksands Noret",
+                    "addressCountry": "Sweden"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Import AB And Jobs",
+                "jobTitle": "Shareholder and Deputy Managing Director",
+                "startDate": "1920-01-01",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Leksand",
+                    "addressCountry": "Sweden"
+                }
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Leksand",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Th Wahlberg trading company",
+                "industry": "Unknown",
+                "start_date": "1897"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Leksands Handelsaktiebolag",
+                "industry": "Unknown",
+                "start_date": "1906"
+            },
+            {
+                "occupational_title": "Owner and Operator",
+                "workplace": "Fribergs Specialty Store, Leksands Noret",
+                "industry": "Unknown",
+                "start_date": "1913"
+            },
+            {
+                "occupational_title": "Shareholder and Deputy Managing Director",
+                "workplace": "Import AB And Jobs, Leksand",
+                "industry": "Unknown",
+                "start_date": "1920"
+            }
+        ]
+    }
+}

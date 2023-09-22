@@ -1,0 +1,80 @@
+{
+    "original": "ANDER, Holger Torbjörn Carl, Köpman, Lidköping, f Lidkp 13/2 09 av godsäg C A A o Edith Linge, gm Inger Ivarsdtr Blomberg. Realex. Inneh kapp- o manuf.fma Carl Ander samt fastigh stdsäg 368 Lidkp. Styr.led Lidkps beklädn- o manuf.handl.frn. Resor: Tyskl 26. Hobby: Jakt.",
+    "translated": "ANDER, Holger Torbjörn Carl, Merchant, Lidköping, b. Lidköping 13/2 1909, son of estate owner C A A and Edith Linge, m. Inger Ivarsdotter Blomberg. High school diploma. Owner of the clothing and manufacturing company Carl Ander, as well as property owner of standard No. 368 Lidköping. Board member of Lidköping's clothing and manufacturing trading company. Travels: Germany 1926. Hobby: Hunting.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Holger Torbjörn Carl Ander",
+        "birthDate": "1909-02-13",
+        "birthPlace": "Lidköping",
+        "description": "Merchant from Lidköping",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "C A A",
+                "jobTitle": "Estate Owner"
+            },
+            {
+                "@type": "Person",
+                "name": "Edith Linge"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Inger Ivarsdotter Blomberg"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "High School"
+        },
+        "occupation": {
+            "@type": "Merchant",
+            "name": "Carl Ander",
+            "owns": "Clothing and Manufacturing Company"
+        },
+        "property": {
+            "@type": "Property",
+            "name": "Standard No. 368",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Lidköping"
+            }
+        },
+        "boardMember": {
+            "@type": "Organization",
+            "name": "Lidköping's Clothing and Manufacturing Trading Company"
+        },
+        "travels": [
+            {
+                "@type": "Place",
+                "name": "Germany",
+                "startDate": "1926"
+            }
+        ],
+        "hobbies": [
+            "Hunting"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Lidköping",
+                "industry": "Clothing and Manufacturing",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "Carl Ander (Clothing and Manufacturing Company)",
+                "industry": "Clothing and Manufacturing",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Board member",
+                "workplace": "Lidköping's Clothing and Manufacturing Trading Company",
+                "industry": "Clothing and Manufacturing",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

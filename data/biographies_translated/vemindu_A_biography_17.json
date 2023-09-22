@@ -1,0 +1,151 @@
+{
+    "original": "ADNER, Gustaf Edwin, Överingenjör, Örnsköldsvik, f Nordmaling 18/3 87 av sågv.arb Carl M. Andersson o Maria H Jacobsson, gm Ruth Lundh. Studex Umeå 05, KTH 09, Techn Hochschule, Aachen, 12. Rit. o konstr. v General Electric Co 10, Ontario Power Co 11, Lake Superior Power Co 11—12, Gideå o Husums AB 13—17, sed. 17 öv.ing v Mo o Domsjö AB, sed. 37 suppl i styr f Mo o Domsjö",
+    "translated": "ADNER, Gustaf Edwin, Chief Engineer, Örnsköldsvik, born in Nordmaling on March 18th, 1887, son of sawmill worker Carl M. Andersson and Maria H Jacobsson, married to Ruth Lundh. Completed studies in Umeå in 1905, KTH (Royal Institute of Technology) in 1909, and Techn Hochschule in Aachen in 1912. Engaged in drafting and design at General Electric Co in 1910, Ontario Power Co in 1911, and Lake Superior Power Co in 1911-1912. Employed by Gideå and Husums AB from 1913 to 1917, and subsequently served as chief engineer at Mo and Domsjö AB from 1917 until retirement in 1937. Also served as a board member at Mo and Domsjö.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Gustaf Edwin Adner",
+        "jobTitle": "Chief Engineer",
+        "birthPlace": "Nordmaling",
+        "birthDate": "1887-03-18",
+        "father": {
+            "@type": "Person",
+            "name": "Carl M. Andersson",
+            "occupation": "Sawmill Worker"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Maria H Jacobsson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Ruth Lundh"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "studex",
+                "provider": {
+                    "@type": "EducationalOrganization",
+                    "name": "Umeå"
+                },
+                "dateIssued": "1905"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "KTH",
+                "provider": {
+                    "@type": "EducationalOrganization",
+                    "name": "Royal Institute of Technology"
+                },
+                "dateIssued": "1909"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Techn Hochschule",
+                "provider": {
+                    "@type": "CollegeOrUniversity",
+                    "name": "Aachen"
+                },
+                "dateIssued": "1912"
+            }
+        ],
+        "work": [
+            {
+                "@type": "WorkExperience",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "General Electric Co"
+                },
+                "position": "Draftsman and Designer",
+                "startDate": "1910"
+            },
+            {
+                "@type": "WorkExperience",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Ontario Power Co"
+                },
+                "position": "Draftsman and Designer",
+                "startDate": "1911"
+            },
+            {
+                "@type": "WorkExperience",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Lake Superior Power Co"
+                },
+                "position": "Draftsman and Designer",
+                "startDate": "1911",
+                "endDate": "1912"
+            },
+            {
+                "@type": "WorkExperience",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Gideå and Husums AB"
+                },
+                "position": "Chief Engineer",
+                "startDate": "1913",
+                "endDate": "1917"
+            },
+            {
+                "@type": "WorkExperience",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Mo and Domsjö AB"
+                },
+                "position": "Chief Engineer",
+                "startDate": "1917",
+                "endDate": "1937"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Mo and Domsjö AB",
+                "roleName": "Board Member"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Chief Engineer",
+                "workplace": "Örnsköldsvik",
+                "industry": "Engineering",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Draftsman and Designer",
+                "workplace": "General Electric Co",
+                "industry": "Engineering",
+                "start_date": "1910"
+            },
+            {
+                "occupational_title": "Draftsman and Designer",
+                "workplace": "Ontario Power Co",
+                "industry": "Engineering",
+                "start_date": "1911"
+            },
+            {
+                "occupational_title": "Draftsman and Designer",
+                "workplace": "Lake Superior Power Co",
+                "industry": "Engineering",
+                "start_date": "1911"
+            },
+            {
+                "occupational_title": "Draftsman and Designer",
+                "workplace": "Gideå and Husums AB",
+                "industry": "Engineering",
+                "start_date": "1913"
+            },
+            {
+                "occupational_title": "Supervisory Board Member",
+                "workplace": "Mo and Domsjö AB",
+                "industry": "Engineering",
+                "start_date": "1937"
+            }
+        ]
+    }
+}

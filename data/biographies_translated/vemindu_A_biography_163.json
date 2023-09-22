@@ -1,0 +1,141 @@
+{
+    "original": "ANDERSSON, Bror Folke, Förste Gruvingenjör, Grängesberg, f Ullevad, Skarab län, 6/12 79 av godsäg L J A o Mathilda Jonsson, gm Tyra Anna Maria Godberg. Studex Skara 00, KTH 04. Bitr ing h gruving i mell bergm.distr 05, gruving o ass. superint. v Lyon Mountain Mines, USA, 06—07, gruvmät. o 2. gruving v Grängesb Gem:sma Förvaltn 08—16, l:e gruving sed. 16, konsult v fi gruvor i de nord länd. Led i Grangärde komm.nmd, LIVA 36. Resor: USA 25, Tyskl 29. RVO.",
+    "translated": "ANDERSSON, Bror Folke, First Mining Engineer, Grängesberg, born in Ullevad, Skaraborg County, on December 6, 1879, to landowner L.J.A. and Mathilda Jonsson. Married to Tyra Anna Maria Godberg. Completed his studies at Skara in 1900 and at KTH (Royal Institute of Technology) in 1904. Assistant in mining in the central mining district in 1905, mining and assistant superintendent at Lyon Mountain Mines, USA, from 1906 to 1907, mining surveyor and 2nd mining engineer at Grängesberg Mining Company from 1908 to 1916, 1st mining engineer since 1916, consultant for mining companies in the northern regions. Member of the Grangärde Municipal Council, LIVA (Land Improvement Association) from 1936. Traveled to USA in 1925 and Germany in 1929. Awarded the Royal Order of Vasa (RVO).",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Bror Folke Andersson",
+        "givenName": "Bror Folke",
+        "familyName": "Andersson",
+        "jobTitle": "First Mining Engineer",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Ullevad"
+        },
+        "birthDate": "1879-12-06",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "L.J.A."
+            },
+            {
+                "@type": "Person",
+                "name": "Mathilda Jonsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Tyra Anna Maria Godberg"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "Studex Skara",
+                "dateIssued": "1900"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "KTH",
+                "dateIssued": "1904"
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Grängesberg"
+        },
+        "employmentHistory": [
+            {
+                "@type": "JobPosting",
+                "title": "Assistant in mining",
+                "startDate": "1905"
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Mining and assistant superintendent",
+                "startDate": "1906",
+                "endDate": "1907",
+                "location": {
+                    "@type": "Place",
+                    "name": "Lyon Mountain Mines, USA"
+                }
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Mining surveyor and 2nd mining engineer",
+                "startDate": "1908",
+                "endDate": "1916",
+                "location": {
+                    "@type": "Place",
+                    "name": "Grängesberg Mining Company"
+                }
+            },
+            {
+                "@type": "JobPosting",
+                "title": "1st mining engineer",
+                "startDate": "1916"
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Mining consultant",
+                "description": "Consultant for mining companies in the northern regions."
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Grangärde Municipal Council"
+        },
+        "awards": [
+            {
+                "@type": "Order",
+                "name": "Royal Order of Vasa",
+                "description": "RVO"
+            }
+        ],
+        "knowsAbout": [
+            {
+                "@type": "Place",
+                "name": "USA",
+                "startDate": "1925"
+            },
+            {
+                "@type": "Place",
+                "name": "Germany",
+                "startDate": "1929"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "First Mining Engineer",
+                "workplace": "Grängesberg",
+                "industry": "Mining",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Assistant in Mining",
+                "workplace": "Central Mining District",
+                "industry": "Mining",
+                "start_date": "1905"
+            },
+            {
+                "occupational_title": "Mining and Assistant Superintendent",
+                "workplace": "Lyon Mountain Mines",
+                "industry": "Mining",
+                "start_date": "1906"
+            },
+            {
+                "occupational_title": "Mining Surveyor and 2nd Mining Engineer",
+                "workplace": "Grängesberg Mining Company",
+                "industry": "Mining",
+                "start_date": "1908"
+            },
+            {
+                "occupational_title": "Consultant",
+                "workplace": "Mining Companies in the Northern Regions",
+                "industry": "Mining",
+                "start_date": null
+            }
+        ]
+    }
+}

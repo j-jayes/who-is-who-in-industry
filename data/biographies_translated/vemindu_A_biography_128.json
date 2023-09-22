@@ -1,0 +1,163 @@
+{
+    "original": "ANDEIX, Max Oscar Fredrik, Kapten, Verkställande direktör, Göteborg, f Gbg 23/7 95 av grhdl A G A o Alma Almgren, gm Ann Littorin. Studex Gbg real 14, Gbgs hdlsinst fackkurs 16, kurs GHS 18—19; resoffex 16, ulöjtn 18, löjtn 21, kapt 35. Anst AB F W Hasselblad &amp; Co 16, dir.ass 19, bitr dir 30, vkst dir sed. 43, styr.led där. Ag fastigh Pipblåsargat 10 Gbg, Helgeshagen ödsmål. Styr.led Hasselblads Fotogr AB, Sv Damhattfabrik frn, styr.suppl Sv Kravattfabrik frn. Resor: Årl ca 3 mån i Engl, Frankr, Tyskl, Belg, Ital mfl sed. 19. Frimurare, medl merk o ideella sammansl. Hobbies: Jakt, fiske.",
+    "translated": "ANDEIX, Max Oscar Fredrik, Captain, Managing Director, Gothenburg, b. Gothenburg on July 23, 1895, son of Master Mariner A.G.A. Andeix and Alma Almgren, m. Ann Littorin. Graduated from Gothenburg Real Gymnasium in 1914, attended Gothenburg Commercial Institute for a specialized course in 1916, attended Gothenburg Handelsfack School in 1918-1919, commissioned as Reserve Officer in 1916, promoted to Second Lieutenant in 1918, Lieutenant in 1921, and Captain in 1935. Employed by AB F.W. Hasselblad & Co. since 1916, assistant director in 1919, assistant manager in 1930, executive director since 1943, board member there. Owns real estate at Pipblåsargatan 10, Gothenburg, and Helgeshagen ödsmål. Board member of Hasselblads Fotografiska AB, partner in Svenska Damhattfabriken, and board substitute in Svenska Kravattfabriken. Travels: Approximately 3 months annually in England, France, Germany, Belgium, Italy, and other places since 1919. Freemason, member of various honorary and volunteer associations. Hobbies: Hunting, fishing. Note: The mention of '\\d\\d m. partners name' indicates that the person got married in the year 19xx.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Max Oscar Fredrik Andeix",
+        "birthDate": "1895-07-23",
+        "birthPlace": "Gothenburg",
+        "nationality": "Swedish",
+        "spouse": {
+            "@type": "Person",
+            "name": "Ann Littorin",
+            "marriageDate": "19xx"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "A.G.A. Andeix",
+                "relation": "father",
+                "occupation": "Master Mariner"
+            },
+            {
+                "@type": "Person",
+                "name": "Alma Almgren",
+                "relation": "mother"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationEvent",
+                "institution": "Gothenburg Real Gymnasium",
+                "startDate": "1914",
+                "endDate": "1914"
+            },
+            {
+                "@type": "EducationEvent",
+                "institution": "Gothenburg Commercial Institute",
+                "specialization": "Specialized Course",
+                "startDate": "1916",
+                "endDate": "1916"
+            },
+            {
+                "@type": "EducationEvent",
+                "institution": "Gothenburg Handelsfack School",
+                "startDate": "1918",
+                "endDate": "1919"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "AB F.W. Hasselblad & Co.",
+                "startDate": "1916",
+                "endDate": null,
+                "position": "Employee"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB F.W. Hasselblad & Co.",
+                "startDate": "1919",
+                "endDate": null,
+                "position": "Assistant Director"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB F.W. Hasselblad & Co.",
+                "startDate": "1930",
+                "endDate": null,
+                "position": "Assistant Manager"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB F.W. Hasselblad & Co.",
+                "startDate": "1943",
+                "endDate": null,
+                "position": "Executive Director"
+            }
+        ],
+        "boardMembership": [
+            {
+                "@type": "Organization",
+                "name": "AB F.W. Hasselblad & Co.",
+                "position": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Hasselblads Fotografiska AB",
+                "position": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Svenska Damhattfabriken",
+                "position": "Partner"
+            },
+            {
+                "@type": "Organization",
+                "name": "Svenska Kravattfabriken",
+                "position": "Board Substitute"
+            }
+        ],
+        "residence": [
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "streetAddress": "Pipblåsargatan 10",
+                    "addressLocality": "Gothenburg"
+                }
+            },
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "streetAddress": "Helgeshagen",
+                    "addressLocality": "ödsmål"
+                }
+            }
+        ],
+        "travelHistory": [
+            "England",
+            "France",
+            "Germany",
+            "Belgium",
+            "Italy"
+        ],
+        "membership": [
+            "Freemason"
+        ],
+        "interests": [
+            "Hunting",
+            "Fishing"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Captain",
+                "workplace": "N/A",
+                "industry": "N/A",
+                "start_date": "N/A"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "AB F.W. Hasselblad & Co.",
+                "industry": "Photography",
+                "start_date": "1943"
+            },
+            {
+                "occupational_title": "Assistant Director",
+                "workplace": "AB F.W. Hasselblad & Co.",
+                "industry": "Photography",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Assistant Manager",
+                "workplace": "AB F.W. Hasselblad & Co.",
+                "industry": "Photography",
+                "start_date": "1930"
+            }
+        ]
+    }
+}

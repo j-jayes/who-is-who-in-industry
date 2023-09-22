@@ -1,0 +1,137 @@
+{
+    "original": "ANDERSSON, Karl Edvin, Grosshandlare, Skellefteå, f Burträsk, Västerb l, 28/11 81 av köpman P Efraim A o Eva Amalia Persson, gm Emmy Salander. Genomgått fhsk o hdls-sk. Etabl 16 tills m brod Frans A grhdlsfma Bröd A, ens inneh av denna sed. 39. Led av stdsflm, drätselk, gatunmd. Ordf Skel En-grossistfrn. Resor: Danm 27, Finl 38.",
+    "translated": "ANDERSSON, Karl Edvin, Merchant, Skellefteå, born in Burträsk, Västerbotten county, on November 28th, 1881, to merchant P Efraim A and Eva Amalia Persson. Married to Emmy Salander. Completed primary school and trade school. Established own business in 1916 together with brother Frans A, the wholesale firm Bröd A, sole owner since 1939. Member of municipal council, finance committee, and street naming committee. Chairman of Skellefteå Wholesale Merchants Association. Traveled to Denmark in 1927 and Finland in 1938.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Karl Edvin Andersson",
+        "birthDate": "1881-11-28",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Burträsk",
+                "addressRegion": "Västerbotten",
+                "addressCountry": "Sweden"
+            }
+        },
+        "father": {
+            "@type": "Person",
+            "name": "P Efraim A"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Eva Amalia Persson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Emmy Salander"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "primary school"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "trade school"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Skellefteå Wholesale Merchants Association",
+                "memberOf": [
+                    {
+                        "@type": "Organization",
+                        "name": "Municipal Council"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "Finance Committee"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "Street Naming Committee"
+                    }
+                ]
+            }
+        ],
+        "business": [
+            {
+                "@type": "Organization",
+                "name": "Bröd A",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Skellefteå",
+                    "addressCountry": "Sweden"
+                },
+                "startDate": "1916",
+                "founders": [
+                    {
+                        "@type": "Person",
+                        "name": "Karl Edvin Andersson"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Frans A"
+                    }
+                ],
+                "ownershipFundingInfo": {
+                    "@type": "OwnershipInfo",
+                    "owner": {
+                        "@type": "Person",
+                        "name": "Karl Edvin Andersson"
+                    },
+                    "ownershipEndDate": "1939"
+                }
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "Trip",
+                "name": "Denmark",
+                "startDate": "1927"
+            },
+            {
+                "@type": "Trip",
+                "name": "Finland",
+                "startDate": "1938"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Bröd A Wholesale Firm",
+                "industry": "Wholesale",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Member of Municipal Council",
+                "workplace": "Skellefteå Municipal Council",
+                "industry": "Government",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Member of Finance Committee",
+                "workplace": "Skellefteå Municipal Council",
+                "industry": "Government",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Member of Street Naming Committee",
+                "workplace": "Skellefteå Municipal Council",
+                "industry": "Government",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Chairman of Skellefteå Wholesale Merchants Association",
+                "workplace": "Skellefteå Wholesale Merchants Association",
+                "industry": "Trade Association",
+                "start_date": null
+            }
+        ]
+    }
+}

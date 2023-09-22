@@ -1,0 +1,131 @@
+{
+    "original": "ANDERSSON, Nils Harald, Disponent, Landskrona, f Genarp, Malmöh l, 26/10 02 av H Andersson o Alma Nilsson, gm Karin Berglund. Folksk, aftonsk:r. Kont.elev AB Carl Engström Malmö 15—18, kont 19^-23, försälj 24—30, kont.ch samma fma Lkr 31—34, disp där o f AB Spannm &amp; IKol Lkr sed. 35. Styr.led sistn AB samt Lkr bränsletransp.frn. ProPstGM; Odd Fellow, Lkr hdlsfrn, Lkr-orten lantbr.klubb, Malmö l hush.sällsk.",
+    "translated": "ANDERSSON, Nils Harald, Manager, Landskrona, born in Genarp, Malmö County, on October 26, 1902, to H. Andersson and Alma Nilsson, married to Karin Berglund. Elementary school, evening school. Office apprentice at AB Carl Engström Malmö from 1915 to 1918, clerk from 1919 to 1923, salesperson from 1924 to 1930, clerk with the same company in Landskrona from 1931 to 1934, manager there and at AB Spannm & IKol Lkr since 1935. Board member of AB and Lkr fuel transportation company. Member of the Odd Fellow, Lkr trade association, Lkr-area agricultural club, Malmö household society.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Nils Harald Andersson",
+        "jobTitle": "Manager",
+        "birthDate": "1902-10-26",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Genarp"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Landskrona"
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "H. Andersson"
+            },
+            {
+                "@type": "Person",
+                "name": "Alma Nilsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Karin Berglund"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Elementary School"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Evening School"
+            }
+        ],
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "AB Carl Engström Malmö",
+                "startDate": "1915",
+                "endDate": "1918",
+                "jobTitle": "Office Apprentice"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Carl Engström Malmö",
+                "startDate": "1919",
+                "endDate": "1923",
+                "jobTitle": "Clerk"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Carl Engström Malmö",
+                "startDate": "1924",
+                "endDate": "1930",
+                "jobTitle": "Salesperson"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Spannm & IKol Lkr",
+                "startDate": "1931",
+                "endDate": "1934",
+                "jobTitle": "Clerk"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Spannm & IKol Lkr",
+                "startDate": "1935",
+                "jobTitle": "Manager"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Odd Fellow"
+            },
+            {
+                "@type": "Organization",
+                "name": "Lkr Trade Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Lkr-area Agricultural Club"
+            },
+            {
+                "@type": "Organization",
+                "name": "Malmö Household Society"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Office apprentice",
+                "workplace": "AB Carl Engström Malmö",
+                "industry": "Unknown",
+                "start_date": "1915-01-01"
+            },
+            {
+                "occupational_title": "Clerk",
+                "workplace": "AB Carl Engström Malmö",
+                "industry": "Unknown",
+                "start_date": "1919-01-01"
+            },
+            {
+                "occupational_title": "Salesperson",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "1924-01-01"
+            },
+            {
+                "occupational_title": "Clerk",
+                "workplace": "AB Spannm & IKol Lkr",
+                "industry": "Unknown",
+                "start_date": "1931-01-01"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "AB Spannm & IKol Lkr",
+                "industry": "Unknown",
+                "start_date": "1935-01-01"
+            }
+        ]
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "original": "ANDERSON, Ivan Daniel, Direktör, Göteborg, f Gbg 2/3 84 av Th Anderson o Marianne Sörensen, gm Gerda Olson. Hal, hdlsinst. Anst hdlsfman Axel H Ågren AB und 17 år, prakt v dess samtl avd, ch f exp.avd samt slutl prok, dir o deläg Karlst kol- &amp; koksAB t 21, start Värml exp-imp.AB o Värml träind.AB, dir o huv.intr i dessa, dir o styr.-ordf Agnesbergs oljeslag.AB, Karlsfors br AB samt Fastigh.AB Ekonomi, ag fastigh f ett sammani tax.v av c:a 5 milj. Resor: Engl, Tyskl, Schweiz, Ital mfl länd v öl tillf. Hobbies: Aff.res, musik, sång.",
+    "translated": "ANDERSON, Ivan Daniel, Director, Gothenburg, b Gothenburg 2/3 84 of Th Anderson and Marianne Sörensen, m Gerda Olson. Half orphan, commercial education. Employed at trading company Axel H Ågren AB for 17 years, practical training in all departments, head of export department and finally promoted to clerk, director and co-owner of Karlstad coal and coke AB until 1921, started Värmlands Export-Import AB and Värmland Wood Industry AB, director and main representative in these, director and chairman of the board of Agnesbergs Oil Refinery AB, Karlsfors Brewery AB and Ekonomi Real Estate AB, owns properties worth approximately 5 million. Travels: England, Germany, Switzerland, Italy, and other countries on several occasions. Hobbies: Business trips, music, singing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Ivan Daniel Anderson",
+        "jobTitle": "Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Gothenburg"
+        },
+        "birthDate": "1884-03-02",
+        "birthPlace": "Gothenburg",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Th Anderson"
+            },
+            {
+                "@type": "Person",
+                "name": "Marianne Sörensen"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Gerda Olson"
+        },
+        "educationLevel": "Commercial Education",
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "Axel H Ågren AB",
+                "title": "Trading Company",
+                "startDate": "YYYY-MM-DD",
+                "endDate": "YYYY-MM-DD",
+                "description": "Employed for 17 years"
+            },
+            {
+                "@type": "Organization",
+                "name": "Karlstad Coal and Coke AB",
+                "title": "Clerk, Director, Co-owner",
+                "startDate": "YYYY-MM-DD",
+                "endDate": "1921",
+                "description": "Worked as a clerk, director, and co-owned the company"
+            },
+            {
+                "@type": "Organization",
+                "name": "Värmlands Export-Import AB",
+                "title": "Director, Main Representative"
+            },
+            {
+                "@type": "Organization",
+                "name": "Värmland Wood Industry AB",
+                "title": "Director, Main Representative"
+            },
+            {
+                "@type": "Organization",
+                "name": "Agnesbergs Oil Refinery AB",
+                "title": "Director, Chairman of the Board"
+            },
+            {
+                "@type": "Organization",
+                "name": "Karlsfors Brewery AB",
+                "title": "Director"
+            },
+            {
+                "@type": "Organization",
+                "name": "Ekonomi Real Estate AB",
+                "title": "Director"
+            }
+        ],
+        "owns": {
+            "@type": "PropertyValue",
+            "propertyID": "Approximately 5 million",
+            "value": {
+                "@type": "MonetaryAmount",
+                "value": 5000000,
+                "currency": "SEK"
+            }
+        },
+        "travelHistory": [
+            "England",
+            "Germany",
+            "Switzerland",
+            "Italy"
+        ],
+        "hobbies": [
+            "Business trips",
+            "Music",
+            "Singing"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Salesman",
+                "workplace": "Axel H Ågren AB",
+                "industry": "Trading",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Head of Export Department",
+                "workplace": "Axel H Ågren AB",
+                "industry": "Trading",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Clerk",
+                "workplace": "Axel H Ågren AB",
+                "industry": "Trading",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Karlstad Coal and Coke AB",
+                "industry": "Coal and coke",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Värmlands Export-Import AB",
+                "industry": "Export-Import",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Värmland Wood Industry AB",
+                "industry": "Wood Industry",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Agnesbergs Oil Refinery AB",
+                "industry": "Oil Refinery",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Karlsfors Brewery AB",
+                "industry": "Brewery",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Ekonomi Real Estate AB",
+                "industry": "Real Estate",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "original": "ANDERSSON, Carl Erik, Assuransdirektör, Jönköping, f Halmstad 5/4 82, gm Angelika Margareta Lindström. Studex 02, hdlsinst 03. Anst i Städ. Lösöreförsäkr.bol. (sen. försäkr.-bol Allm. Brand) 03, bitr dir 42.",
+    "translated": "ANDERSSON, Carl Erik, Insurance Director, Jönköping, born in Halmstad on April 5, 1882, married to Angelika Margareta Lindström. Graduated in 1902, studied trade in 1903. Employed in the City Furniture Insurance Company (later the General Fire Insurance Company) since 1903, assistant director since 1942.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "givenName": "Carl Erik",
+        "familyName": "Andersson",
+        "jobTitle": "Insurance Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Jönköping"
+        },
+        "birthDate": "1882-04-05",
+        "spouse": {
+            "@type": "Person",
+            "name": "Angelika Margareta Lindström"
+        },
+        "alumniOf": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Studex School"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "City Furniture Insurance Company",
+                "startDate": "1903-01-01",
+                "endDate": "1942-12-31"
+            },
+            {
+                "@type": "Organization",
+                "name": "General Fire Insurance Company",
+                "startDate": "1943-01-01"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Insurance Director",
+                "workplace": "City Furniture Insurance Company (later the General Fire Insurance Company)",
+                "industry": "Insurance",
+                "start_date": "1903"
+            },
+            {
+                "occupational_title": "Assistant Director",
+                "workplace": "City Furniture Insurance Company (later the General Fire Insurance Company)",
+                "industry": "Insurance",
+                "start_date": "1942"
+            }
+        ]
+    }
+}

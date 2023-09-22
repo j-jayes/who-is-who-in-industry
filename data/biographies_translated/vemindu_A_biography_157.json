@@ -1,0 +1,99 @@
+{
+    "original": "ANDERSSON, Allan Gustaf, Köpman, Al-stad, f Västra Alstad, Malmöh l, 14/6 08 av köpm J A o Elin Jonson, gm Ebba Lanker. Lunds katedralsk, Malmö hdlsgymn 28. Anst Gjemre &amp; Co Ltd Newcastle Engl 30, i fad trä-varu- o spannmålsfma Hans Andersson (gr av farfad 1850) 31—33, deläg sed. 33. Styr.led Al-stads skyttefrn fi år. Resor: Danm, Norge, Tyskl, Engl, Österr, Ung. Tillh mäst.kl l Skytte, årtmg, skidlöp.m, idr.m, mil idr.m, Istidr.m, rikslsttävlBM Borås 37 mm. Hobbies: Skytte, tennis.",
+    "translated": "ANDERSSON, Allan Gustaf, Merchant, Al-stad, b. Västra Alstad, Malmö county, June 14, 1908, son of merchant J A and Elin Jonson, married to Ebba Lanker. Education: Lunds katedralskola, Malmö Commercial Gymnasium 1928. Employed at Gjemre & Co Ltd in Newcastle, England, from 1930, where his father's cousin Hans Andersson (grandfather's paternal nephew, born 1850) had been in the timber and grain trade from 1931 to 1933, and became a co-owner since 1933. Board member of Al-stads shooting association for five years. Travelled to Denmark, Norway, Germany, England, Austria, Hungary. Belonged to the master class in shooting. Enthusiast in shooting, tennis.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Allan Gustaf Andersson",
+        "birthDate": "1908-06-14",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Västra Alstad",
+                "addressRegion": "Malmö county"
+            }
+        },
+        "father": {
+            "@type": "Person",
+            "name": "J A Andersson"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Elin Jonson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Ebba Lanker"
+        },
+        "education": [
+            {
+                "@type": "School",
+                "name": "Lunds katedralskola"
+            },
+            {
+                "@type": "School",
+                "name": "Malmö Commercial Gymnasium",
+                "endDate": "1928"
+            }
+        ],
+        "occupation": [
+            {
+                "@type": "Merchant",
+                "name": "Merchant"
+            }
+        ],
+        "employer": [
+            {
+                "@type": "Organization",
+                "name": "Gjemre & Co Ltd",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Newcastle",
+                    "addressCountry": "England"
+                },
+                "startDate": "1930"
+            }
+        ],
+        "familyMember": [
+            {
+                "@type": "Person",
+                "name": "Hans Andersson",
+                "relationship": "Grandfather's paternal nephew",
+                "birthDate": "1850"
+            }
+        ],
+        "affiliation": [
+            {
+                "@type": "Organization",
+                "name": "Al-stads shooting association",
+                "duration": "5 years"
+            },
+            {
+                "@type": "SportsTeam",
+                "name": "Mästarklassen Skytte"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "SportsTeam",
+                "name": "Skytte"
+            }
+        ],
+        "hobbies": [
+            "Shooting",
+            "Tennis"
+        ],
+        "additionalName": "Gustaf"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Gjemre & Co Ltd",
+                "industry": "Timber and grain trade",
+                "start_date": "1930"
+            }
+        ]
+    }
+}

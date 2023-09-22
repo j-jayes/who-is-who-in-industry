@@ -1,0 +1,105 @@
+{
+    "original": "ANDERSSON, Carl, Bagarmästare, Sölvesborg, f österslöv 25/11 83 av småbr A Nilsson o Johanna Johansson, gm Hedvig Nilsson. Anst h bagarm S Hemberg, Kristianstad 00 —06, bag- o kaférör. Simr.hmn 06—09, h bagarm Hj Peterson, Ängelholm 09—11, förest f bag.fören Klippan 11—13, verkm h fabr P. Vendel, Karlstad 13—21, eg. rör. sed. 21. Hobby: Mitt arbete.",
+    "translated": "ANDERSSON, Carl, Master Baker, Sölvesborg, born in Österslöv on November 25, 1883, to small farmers A Nilsson and Johanna Johansson, married to Hedvig Nilsson. Worked as a baker at S. Hemberg in Kristianstad from 1900 to 1906, then as a baker and café owner. Moved to Simrishamn from 1906 to 1909 and worked as a baker for Hj. Peterson in Ängelholm from 1909 to 1911. Served as the manager for the bakery association in Klippan from 1911 to 1913 and then worked as a foreman at P. Vendel's factory in Karlstad from 1913 to 1921. Became a pipe maker and has been self-employed since 1921. Hobby: My work.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Andersson",
+        "jobTitle": "Master Baker",
+        "birthPlace": "Österslöv",
+        "birthDate": "1883-11-25",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "A Nilsson",
+                "jobTitle": "Small Farmer"
+            },
+            {
+                "@type": "Person",
+                "name": "Johanna Johansson",
+                "jobTitle": "Small Farmer"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Hedvig Nilsson"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "S. Hemberg",
+                "jobTitle": "Baker",
+                "startDate": "1900",
+                "endDate": "1906"
+            },
+            {
+                "@type": "Organization",
+                "name": "Hj. Peterson",
+                "jobTitle": "Baker",
+                "startDate": "1909",
+                "endDate": "1911"
+            },
+            {
+                "@type": "Organization",
+                "name": "Bakery Association Klippan",
+                "jobTitle": "Manager",
+                "startDate": "1911",
+                "endDate": "1913"
+            },
+            {
+                "@type": "Organization",
+                "name": "P. Vendel's Factory",
+                "jobTitle": "Foreman",
+                "startDate": "1913",
+                "endDate": "1921"
+            }
+        ],
+        "additionalProperty": [
+            {
+                "@type": "PropertyValue",
+                "name": "Hobby",
+                "value": "My work"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Master Baker",
+                "workplace": "S. Hemberg",
+                "industry": "Bakery",
+                "start_date": "1900"
+            },
+            {
+                "occupational_title": "Baker and Café Owner",
+                "workplace": "Simrishamn",
+                "industry": "Bakery and Café",
+                "start_date": "1906"
+            },
+            {
+                "occupational_title": "Baker",
+                "workplace": "Hj. Peterson",
+                "industry": "Bakery",
+                "start_date": "1909"
+            },
+            {
+                "occupational_title": "Manager of Bakery Association",
+                "workplace": "Klippan",
+                "industry": "Bakery",
+                "start_date": "1911"
+            },
+            {
+                "occupational_title": "Foreman",
+                "workplace": "P. Vendel's Factory",
+                "industry": "Factory",
+                "start_date": "1913"
+            },
+            {
+                "occupational_title": "Pipe Maker",
+                "workplace": "Self-employed",
+                "industry": "Artisan",
+                "start_date": "1921"
+            }
+        ]
+    }
+}
