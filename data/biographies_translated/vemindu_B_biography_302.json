@@ -1,0 +1,168 @@
+{
+    "original": "BLOMQUIST, Johan Viktor, Civilingenjör, Sthlm, f Arboga 10/3 71 av August Blomquist o Maria Backström, gm Gertrud Tauson. Studex Västerås 89, KTH 92. Anst h de Lavals ångturb.fabr 92, v dess gen.agentur i Holl o Ryssl 93—02, St Petersburger Gesellschaft f mechan Sehuhwaarenfabr 02,—06, AB Zander o Ingeström 06—16, tekn led i AB Atmos sed. 16. Styr.led i detta 14—43, ordf f Sv teknol.-fören avd f mek 23—24. Uppfann högtrycks- ångp Atmos. Av trycket: Art i sv o ty fackpress. LIVA 29, hedl.led 37.",
+    "translated": "BLOMQUIST, Johan Viktor, Civil Engineer, Stockholm, b. Arboga 10/3 71 to August Blomquist and Maria Backström, m. Gertrud Tauson. Graduated from Västerås in 1889, KTH (Royal Institute of Technology) in 1892. Employed at de Lavals steam turbine factory in 1892, then in the general agency of the same in Holland and Russia from 1893 to 1902. Worked at St. Petersburg Society for Mechanical Goods Factory from 1902 to 1906, AB Zander and Ingeström from 1906 to 1916, and served as technical leader in AB Atmos from 1916. Board member of AB Atmos from 1914 to 1943, chairman of the Swedish Technological Association's mechanical division from 1923 to 1924. Inventor of high-pressure steam engine Atmos. Published articles in Swedish and foreign trade journals. Elected a member of LIVA in 1929, honorary member in 1937.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Johan Viktor Blomquist",
+        "givenName": "Johan Viktor",
+        "familyName": "Blomquist",
+        "birthDate": "1871-03-10",
+        "birthPlace": "Arboga, Sweden",
+        "deathDate": null,
+        "nationality": "Swedish",
+        "description": "Civil Engineer",
+        "spouse": {
+            "@type": "Person",
+            "name": "Gertrud Tauson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Västerås",
+                "endDate": "1889"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "KTH (Royal Institute of Technology)",
+                "endDate": "1892"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "de Lavals ångturb.fabr",
+                "employmentType": "Employed",
+                "startDate": "1892",
+                "endDate": "1893"
+            },
+            {
+                "@type": "Organization",
+                "name": "General Agency of de Lavals ångturb.fabr",
+                "employmentType": "Employed",
+                "startDate": "1893",
+                "endDate": "1902",
+                "location": [
+                    {
+                        "@type": "Place",
+                        "name": "Holland"
+                    },
+                    {
+                        "@type": "Place",
+                        "name": "Russia"
+                    }
+                ]
+            },
+            {
+                "@type": "Organization",
+                "name": "St. Petersburg Society for Mechanical Goods Factory",
+                "employmentType": "Employed",
+                "startDate": "1902",
+                "endDate": "1906"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Zander o Ingeström",
+                "employmentType": "Employed",
+                "startDate": "1906",
+                "endDate": "1916"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Atmos",
+                "employmentType": "Technical Leader",
+                "startDate": "1916"
+            }
+        ],
+        "memberships": [
+            {
+                "@type": "Organization",
+                "name": "AB Atmos",
+                "membershipStartDate": "1914",
+                "membershipEndDate": "1943",
+                "roleName": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Technological Association",
+                "membershipStartDate": "1923",
+                "membershipEndDate": "1924",
+                "roleName": "Chairman of Mechanical Division"
+            }
+        ],
+        "inventions": [
+            {
+                "@type": "CreativeWork",
+                "name": "high-pressure steam engine Atmos"
+            }
+        ],
+        "publications": [
+            {
+                "@type": "CreativeWork",
+                "name": "Articles in Swedish and foreign trade journals"
+            }
+        ],
+        "awards": [
+            {
+                "@type": "Organization",
+                "name": "LIVA",
+                "membershipStartDate": "1929",
+                "membershipEndDate": null,
+                "roleName": "Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "LIVA",
+                "membershipStartDate": "1937",
+                "membershipEndDate": null,
+                "roleName": "Honorary Member"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "de Lavals Ångturbinfabrik",
+                "industry": "Steam turbine manufacturing",
+                "start_date": "1892"
+            },
+            {
+                "occupational_title": "General Agent",
+                "workplace": "de Lavals Ångturbinfabrik",
+                "industry": "Steam turbine manufacturing",
+                "start_date": "1893"
+            },
+            {
+                "occupational_title": "General Agent",
+                "workplace": "Holland",
+                "industry": "Unknown",
+                "start_date": "1893"
+            },
+            {
+                "occupational_title": "General Agent",
+                "workplace": "Russia",
+                "industry": "Unknown",
+                "start_date": "1893"
+            },
+            {
+                "occupational_title": "Unknown",
+                "workplace": "St. Petersburg Society for Mechanical Goods Factory",
+                "industry": "Mechanical goods manufacturing",
+                "start_date": "1902"
+            },
+            {
+                "occupational_title": "Unknown",
+                "workplace": "AB Zander & Ingeström",
+                "industry": "Unknown",
+                "start_date": "1906"
+            },
+            {
+                "occupational_title": "Technical Leader",
+                "workplace": "AB Atmos",
+                "industry": "Unknown",
+                "start_date": "1916"
+            }
+        ]
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "original": "BROBECK, Karl August, Kamrer, Falun, f L Edet, Älvsb län, 23/9 86 av Anton Brobeck o Paulina Johansson, gm Sigrid Anderson. Studex Vänersb 05, ex Gbgs hdlsinst (fackkurs) 06. Korresp St Kopparb Bergslags AB 06, korresp o resande v dess kont i Hamburg 11—12, kamrer å försäljn.avd f papper o cellulosa.",
+    "translated": "BROBECK, Karl August, Accountant, Falun, born in Edet, Älvsborg County, on September 23, 1886, son of Anton Brobeck and Paulina Johansson, married to Sigrid Anderson. Graduated from Vänersborg School in 1905, completed a trade course in Gothenburg in 1906. Correspondent at Kopparberg-Bergslags AB in 1906, correspondent and traveler at their office in Hamburg from 1911 to 1912, accountant in the sales department for paper and cellulose.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Karl August Brobeck",
+        "jobTitle": "Accountant",
+        "birthDate": "1886-09-23",
+        "birthPlace": "Edet, Älvsborg County, Sweden",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Anton Brobeck",
+                "gender": "male"
+            },
+            {
+                "@type": "Person",
+                "name": "Paulina Johansson",
+                "gender": "female"
+            }
+        ],
+        "spouse": [
+            {
+                "@type": "Person",
+                "name": "Sigrid Anderson",
+                "gender": "female"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "HighSchool",
+                "educationalLevel": "Graduate",
+                "educationalProgram": "Vänersborg School",
+                "startDate": "1905"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "TradeCourse",
+                "educationalLevel": "Graduate",
+                "educationalProgram": "Gothenburg Commercial Institute",
+                "startDate": "1906"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Kopparberg-Bergslags AB",
+                "jobTitle": "Accountant",
+                "department": "Sales Department for Paper and Cellulose",
+                "startDate": "1906"
+            }
+        ],
+        "hasOccupation": [
+            {
+                "@type": "Occupation",
+                "name": "Correspondent",
+                "startDate": "1906",
+                "endDate": "1912",
+                "location": "Hamburg",
+                "employer": "Kopparberg-Bergslags AB"
+            }
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Falun",
+            "addressCountry": "Sweden"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Graduate from Vänersborg School",
+                "workplace": "Vänersborg School",
+                "industry": "Education",
+                "start_date": "1905"
+            },
+            {
+                "occupational_title": "Trade course completion",
+                "workplace": "Gothenburg",
+                "industry": "Education",
+                "start_date": "1906"
+            },
+            {
+                "occupational_title": "Correspondent",
+                "workplace": "Kopparberg-Bergslags AB",
+                "industry": "Mining and Metals",
+                "start_date": "1906"
+            },
+            {
+                "occupational_title": "Correspondent and Traveler",
+                "workplace": "Kopparberg-Bergslags AB (Hamburg office)",
+                "industry": "Mining and Metals",
+                "start_date": "1911"
+            },
+            {
+                "occupational_title": "Accountant",
+                "workplace": "Sales department for paper and cellulose",
+                "industry": "Manufacturing",
+                "start_date": "N/A"
+            }
+        ]
+    }
+}

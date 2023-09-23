@@ -1,0 +1,149 @@
+{
+    "original": "BÄCK, Gunnar Yngve Thage, Köpman, Motala, f Älgarås, Skarab l, 18/4 05 av l :e ban-mäst v SJ J A B o Hilma Carlsson, gm Inga Svensson. Eft avsl sk.stud självstud o stud v Hermods o Köpm.frb :s utb.kurser f köpm. Arist fma Hj tiebel eftr Töreboda 18—19, fma Herbert Stöök Töreboda 19—33. Eg aff.rör sed. 34, ch o inneh fma Bäck &amp; Co, Herr- o damekip, Goss- o Flickkl, Mta, sed. 38. Styr.led o sekr Mta Köpm.frn sed. 43, v. ordf ds herr- o damkonf.sekt sed. 43, sekr Tidan-Värings köpm.frn 35—38. Ordf Töreboda Kristl Ungdomsfrn 28—34, styr.led Mta Mis-sionsförsaml o ds arbetsutsk sed. 40, ordf sed. 43, styr.led Ögl l Kristl Juniorled.frb, ledare Mta Miss.kyrkas juniorarb sed. 42. Resor: Danm, Norge. Hobby: Konst.",
+    "translated": "BÄCK, Gunnar Yngve Thage, Merchant, Motala, born in Älgarås, Skaraborg county, on April 18th, 1905, son of the first trackmaster at Swedish Railways, Johan Alfred Bäck, and Hilma Carlsson, married to Inga Svensson. After completing primary education, pursued self-studies and attended courses at Hermods and the Merchants Association for commercial education. Apprenticeship at Hjärta Förmånligt in Töreboda from 1918-1919, and at Herbert Stöök in Töreboda from 1919-1933. Established own business in 1934, managing and owning Bäck & Co, a company specializing in men's and women's clothing, boys' and girls' clothing, located in Motala since 1938. Board member and secretary of the Motala Merchants Association since 1943, vice chairman of the men's and women's conference section since 1943, secretary of the Tidan-Väring merchants' association from 1935-1938. Chairman of the Töreboda Christian Youth Association from 1928-1934, board member of the Motala Mission Church and its executive committee since 1940, chairman since 1943, board member of the Öglum Kristna Juniorledarförbund (Christian Junior Leadership Association), leader of the Motala Mission Church's junior work since 1942. Travel destinations: Denmark, Norway. Hobby: Art.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Gunnar Yngve Thage Bäck",
+        "birthDate": "1905-04-18",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Älgarås",
+                "addressRegion": "Skaraborg",
+                "addressCountry": "Sweden"
+            }
+        },
+        "father": {
+            "@type": "Person",
+            "name": "Johan Alfred Bäck",
+            "occupation": "Trackmaster at Swedish Railways"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Hilma Carlsson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Inga Svensson"
+        },
+        "occupation": "Merchant",
+        "workLocation": "Motala",
+        "education": [
+            {
+                "@type": "Organization",
+                "name": "Hermods"
+            },
+            {
+                "@type": "Organization",
+                "name": "Merchants Association"
+            }
+        ],
+        "apprenticeship": [
+            {
+                "@type": "Organization",
+                "name": "Hjärta Förmånligt",
+                "startDate": "1918",
+                "endDate": "1919",
+                "location": "Töreboda"
+            },
+            {
+                "@type": "Organization",
+                "name": "Herbert Stöök",
+                "startDate": "1919",
+                "endDate": "1933",
+                "location": "Töreboda"
+            }
+        ],
+        "business": {
+            "@type": "Organization",
+            "name": "Bäck & Co",
+            "specialty": "Clothing - Men's, Women's, Boys', Girls'",
+            "location": "Motala",
+            "startDate": "1934"
+        },
+        "memberships": [
+            {
+                "@type": "Organization",
+                "name": "Motala Merchants Association",
+                "roles": [
+                    "Board member",
+                    "Secretary"
+                ],
+                "startDate": "1943"
+            },
+            {
+                "@type": "Organization",
+                "name": "Tidan-Väring Merchants Association",
+                "roles": [
+                    "Secretary"
+                ],
+                "startDate": "1935",
+                "endDate": "1938"
+            },
+            {
+                "@type": "Organization",
+                "name": "Töreboda Christian Youth Association",
+                "roles": [
+                    "Chairman"
+                ],
+                "startDate": "1928",
+                "endDate": "1934"
+            },
+            {
+                "@type": "Organization",
+                "name": "Motala Mission Church",
+                "roles": [
+                    "Board member",
+                    "Chairman"
+                ],
+                "startDate": "1940"
+            },
+            {
+                "@type": "Organization",
+                "name": "Öglum Kristna Juniorledarförbund (Christian Junior Leadership Association)",
+                "roles": [
+                    "Board member"
+                ]
+            },
+            {
+                "@type": "Organization",
+                "name": "Motala Mission Church",
+                "roles": [
+                    "Leader"
+                ],
+                "startDate": "1942"
+            }
+        ],
+        "hobbies": [
+            "Art"
+        ],
+        "travelDestinations": [
+            "Denmark",
+            "Norway"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Bäck & Co",
+                "industry": "Clothing",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Apprentice",
+                "workplace": "Hjärta Förmånligt",
+                "industry": "Clothing",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Apprentice",
+                "workplace": "Herbert Stöök",
+                "industry": "Clothing",
+                "start_date": "1919"
+            }
+        ]
+    }
+}

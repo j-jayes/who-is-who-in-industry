@@ -1,0 +1,134 @@
+{
+    "original": "BENGTSSON, Ernst, Direktör, Dalby, f Lund 17/6 90 av P B o Betty Svensson, gm Hilda Hansson. Realex, hdlsgymn, Malmö. Ag fina P Bengtsson Eftr, ordf o vkst dir AB Hans Bengtsson, Lund, styr.led i Skand Bkn i Lund, ordf i Dalby sparbk o Dalby el.verk.",
+    "translated": "BENGTSSON, Ernst, Director, from Dalby, born in Lund on June 17th, 1890, son of P B and Betty Svensson, married to Hilda Hansson. Completed Realex (preparatory school), commercial high school in Malmö. Working at P Bengtsson Eftr (company name), Chairman of the Board and Head Director at AB Hans Bengtsson in Lund, board member at Skand Bkn (Skandinaviska Banken) in Lund, Chairman of Dalby savings bank and Dalby electricity plant.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Ernst Bengtsson",
+        "birthDate": "1890-06-17",
+        "birthPlace": "Lund",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Dalby"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "P B Svensson",
+                "sameAs": ""
+            },
+            {
+                "@type": "Person",
+                "name": "Betty Svensson",
+                "sameAs": ""
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Hilda Hansson",
+            "sameAs": ""
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Realex",
+                "educationalLevel": "Preparatory School"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Commercial High School",
+                "educationalLevel": "Malmö"
+            }
+        ],
+        "occupation": [
+            {
+                "@type": "OrganizationRole",
+                "title": "Director",
+                "startDate": "",
+                "endDate": ""
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Chairman of the Board and Head Director",
+                "startDate": "",
+                "endDate": "",
+                "worksFor": {
+                    "@type": "Organization",
+                    "name": "AB Hans Bengtsson",
+                    "sameAs": "",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Lund"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Board Member",
+                "startDate": "",
+                "endDate": "",
+                "worksFor": {
+                    "@type": "BankOrCreditUnion",
+                    "name": "Skand Bkn (Skandinaviska Banken)",
+                    "sameAs": "",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Lund"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Chairman",
+                "startDate": "",
+                "endDate": "",
+                "worksFor": {
+                    "@type": "BankOrCreditUnion",
+                    "name": "Dalby Savings Bank",
+                    "sameAs": "",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Dalby"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Chairman",
+                "startDate": "",
+                "endDate": "",
+                "worksFor": {
+                    "@type": "Organization",
+                    "name": "Dalby Electricity Plant",
+                    "sameAs": "",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Dalby"
+                    }
+                }
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "AB Hans Bengtsson",
+                "industry": "Unknown",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Chairman of the Board and Head Director",
+                "workplace": "AB Hans Bengtsson",
+                "industry": "Unknown",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Board member",
+                "workplace": "Skandinaviska Banken",
+                "industry": "Banking",
+                "start_date": null
+            }
+        ]
+    }
+}

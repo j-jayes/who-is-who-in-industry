@@ -1,0 +1,111 @@
+{
+    "original": "BODEN, Georg Vilhelm, Direktör, Göteborg, f Lilla Edet 25/10 87 av handl E B o Alma Månsson, gm Elsa. Freding. Studex Gbg, jur kand Upps. Adv i Gbg 14—38, vkst dir AB Göteborgssystemet sed. 38, styr.led där. Styr.-ordf AB Fodervävnader o AB Hugo Hallgrens Konservfabr, styr.led Västsv Allm Rest.AB. RVO.",
+    "translated": "BODEN, Georg Vilhelm, Director, Gothenburg, b. Lilla Edet 25/10 1887, son of merchant E B and Alma Månsson, married Elsa Freding. Studied at Gothenburg University, graduated with a law degree from Uppsala University. Worked as a lawyer in Gothenburg from 1914 to 1938. Became the managing director of AB Göteborgssystemet in 1938 and served as a board member. Acted as chairman of the board for AB Fodervävnader and AB Hugo Hallgrens Konservfabr. Also served as a board member for Västsv Allm Rest.AB. Received the Royal Order of Vasa.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Georg Vilhelm",
+        "familyName": "Boden",
+        "jobTitle": "Director",
+        "birthDate": "1887-10-25",
+        "birthPlace": "Lilla Edet",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "E B Boden",
+                "jobTitle": "Merchant"
+            },
+            {
+                "@type": "Person",
+                "name": "Alma Månsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Elsa Freding"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Gothenburg University"
+        },
+        "alumniOf": {
+            "@type": "CollegeOrUniversity",
+            "name": "Uppsala University",
+            "degree": {
+                "@type": "EducationalOccupationalCredential",
+                "name": "Law degree"
+            }
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "AB Göteborgssystemet",
+                "startDate": "1938",
+                "endDate": null,
+                "jobTitle": "Managing Director"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Fodervävnader",
+                "startDate": null,
+                "endDate": null,
+                "jobTitle": "Chairman of the Board"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Hugo Hallgrens Konservfabr",
+                "startDate": null,
+                "endDate": null,
+                "jobTitle": "Chairman of the Board"
+            },
+            {
+                "@type": "Organization",
+                "name": "Västsv Allm Rest.AB",
+                "startDate": null,
+                "endDate": null,
+                "jobTitle": "Board Member"
+            }
+        ],
+        "honorificSuffix": "RVO"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Lawyer",
+                "workplace": "Gothenburg",
+                "industry": "Legal",
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "AB Göteborgssystemet",
+                "industry": "Unknown",
+                "start_date": "1938"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "AB Göteborgssystemet",
+                "industry": "Unknown",
+                "start_date": "1938"
+            },
+            {
+                "occupational_title": "Chairman of the Board",
+                "workplace": "AB Fodervävnader",
+                "industry": "Unknown",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Chairman of the Board",
+                "workplace": "AB Hugo Hallgrens Konservfabr",
+                "industry": "Unknown",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Västsv Allm Rest.AB",
+                "industry": "Unknown",
+                "start_date": null
+            }
+        ]
+    }
+}

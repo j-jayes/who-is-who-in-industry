@@ -1,0 +1,110 @@
+{
+    "original": "BROWAIX, Bert Henry, Civilingenjör, Malmö, f Söderkp 20/1 98 av baning Henry A T B o Emma Hägglund, gm Märta Persson. Studex Gbg 14, KTH (maskinbygg o mek tekn) 15—19. Exp.ing v torpeddep v Flottans varv Kkrona 20—24, patenting v Sv AB Bromsregulator Mmö sed. 24. Resor: Finl, Norge, Danm, Tyskl, Holl, Belg, Engl, Frankr, Schweiz, Österr, Ungern, Tjeckoslov, Jugoslav, Polen, USA, Australien. Led Sv Tekn.frn, Skånska Ing.klbn.",
+    "translated": "BROWAIX, Bert Henry, Civil Engineer, Malmö, born on January 20, 1898, in Söderkp, son of Henry A T B and Emma Hägglund. Married to Märta Persson. Studied at Gothenburg University 1914, and Royal Institute of Technology (Mechanical Engineering) from 1915 to 1919. Worked as an engineer at the torpedo depot in the Navy Yard in Karlskrona from 1920 to 1924, and in patenting at Swedish AB Bromsregulator in Malmö since 1924. Traveled to Finland, Norway, Denmark, Germany, the Netherlands, Belgium, England, France, Switzerland, Austria, Hungary, Czechoslovakia, Yugoslavia, Poland, USA, and Australia. Member of the Swedish Technical Association and Skåne Engineering Club.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Bert Henry Browaix",
+        "birthDate": "1898-01-20",
+        "birthPlace": "Söderkp, Sweden",
+        "nationality": "Swedish",
+        "spouse": {
+            "@type": "Person",
+            "name": "Märta Persson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Gothenburg University",
+                "location": "Gothenburg, Sweden",
+                "startDate": "1914",
+                "endDate": "1919"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Royal Institute of Technology",
+                "location": "Stockholm, Sweden",
+                "programOfStudy": "Mechanical Engineering",
+                "startDate": "1915",
+                "endDate": "1919"
+            }
+        ],
+        "occupation": "Civil Engineer",
+        "affiliation": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Technical Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Skåne Engineering Club"
+            }
+        ],
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "Navy Yard",
+                "location": "Karlskrona, Sweden",
+                "startDate": "1920",
+                "endDate": "1924",
+                "position": "Engineer at the torpedo depot"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish AB Bromsregulator",
+                "location": "Malmö, Sweden",
+                "startDate": "1924",
+                "position": "Patenting"
+            }
+        ],
+        "knowsLanguages": [
+            "Swedish",
+            "English",
+            "German",
+            "Danish",
+            "Dutch",
+            "Norwegian",
+            "French"
+        ],
+        "knowsAbout": [
+            "Finland",
+            "Norway",
+            "Denmark",
+            "Germany",
+            "The Netherlands",
+            "Belgium",
+            "England",
+            "France",
+            "Switzerland",
+            "Austria",
+            "Hungary",
+            "Czechoslovakia",
+            "Yugoslavia",
+            "Poland",
+            "USA",
+            "Australia"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Malmö",
+                "industry": "",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Engineer at torpedo depot",
+                "workplace": "Navy Yard, Karlskrona",
+                "industry": "Defense",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Patenting engineer",
+                "workplace": "Swedish AB Bromsregulator, Malmö",
+                "industry": "Engineering",
+                "start_date": "1924"
+            }
+        ]
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "original": "DRAKENBERG, Hans, Civilingenjör, Malmö, f Sthlm 4/2 01 av civ.ing J A D o Mabel Ferguson, gm Elsa Bjurling. Studex Sthlm 19, KTH 20—25. Anst i Sv AB Bromsregulator i Mmö sed. 25. Europamäst i värjfäktn 35, 2:a pris i lagtävl v olymp sp i Berlin 36 samt 4:e plac i individuell tävl å värja. Led Sv Tekn.frn. Bosatt i Paris 29—39.",
+    "translated": "DRAKENBERG, Hans, Civil Engineer, Malmö, born Stockholm 4/2 01 to civil engineer J A D and Mabel Ferguson, married to Elsa Bjurling. Studied in Stockholm 19, KTH 20—25. Employed at Sv AB Bromsregulator in Malmö since 25. European champion in fencing 35, 2nd prize in team competition and 4th place in individual competition at the Olympic Games in Berlin 36. Member of the Swedish Technical Association. Resided in Paris 29—39.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Hans Drakenberg",
+        "birthDate": "1901-02-04",
+        "description": "Civil Engineer",
+        "nationality": "Swedish",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Malmö"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "J A D"
+            },
+            {
+                "@type": "Person",
+                "name": "Mabel Ferguson"
+            }
+        ],
+        "spouse": [
+            {
+                "@type": "Person",
+                "name": "Elsa Bjurling"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Studex",
+                "educationalLevel": "19",
+                "educationalOrganization": "Stockholm University"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "KTH",
+                "educationalLevel": "20-25",
+                "educationalOrganization": "KTH Royal Institute of Technology"
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Sv AB Bromsregulator",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Malmö"
+            }
+        },
+        "sports": [
+            {
+                "@type": "SportsEvent",
+                "name": "European championship in fencing",
+                "startDate": "1935",
+                "description": "First place"
+            },
+            {
+                "@type": "SportsEvent",
+                "name": "Olympic Games in Berlin",
+                "startDate": "1936",
+                "description": "2nd prize in team competition, 4th place in individual competition"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Swedish Technical Association"
+        },
+        "residence": [
+            {
+                "@type": "Place",
+                "name": "Paris",
+                "startDate": "1929",
+                "endDate": "1939"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Sv AB Bromsregulator",
+                "industry": "Engineering",
+                "start_date": "1925"
+            }
+        ]
+    }
+}

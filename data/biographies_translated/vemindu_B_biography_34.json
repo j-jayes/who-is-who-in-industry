@@ -1,0 +1,200 @@
+{
+    "original": "BEIJER, Elof Agne Esaias, Civilingenjör, Förste Byråingrenjör, Stockholm, f Sthlm 7/2 85 av bokförl F U P:son B o Anna Tegnér, gm Bertha Carlson. Mog.ex NLatin 03, ord elev KTH 04—07, avg.ex sistn år. Ing.elev ASEA V.ås 08—09, prakt v Gen Electric Co, Lynn, Mäss, USA, 11—12, offerting v ASEA:sfil Norrk 13, byråassist Vattenfallsstyr (el-tekn byrån) 14—17, byråing där 18, l:e byrå-ing kraftverksbyråns anläggn.avd:s utredn.-kontor sed. 20. RVO. Led Sv Tekn.frn.",
+    "translated": "BEIJER, Elof Agne Esaias, Civil Engineer, Senior Bureau Engineer, Stockholm, born in Stockholm on February 7th, 1885, to book publisher F U P:son B and Anna Tegnér, married to Bertha Carlson. Completed his Baccalaureate in Latin in 1903, then studied at the Royal Institute of Technology from 1904 to 1907, where he passed his final exams. Worked as an engineering apprentice at ASEA in Västerås from 1908 to 1909, gained practical experience at General Electric Co., Lynn, Massachusetts, USA, from 1911 to 1912, worked as a quotation engineer at ASEA's branch office in Norrköping in 1913, served as a bureau assistant at Vattenfall's Control Department (electrical engineering bureau) from 1914 to 1917, promoted to bureau engineer in 1918, and appointed as a senior bureau engineer at the Power Plant Bureau's Design Investigation Office from 1920 onwards. Received the Royal Order of the Vasa. Member of the Swedish Association of Technicians.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Elof Agne Esaias Beijer",
+        "jobTitle": "Civil Engineer",
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Swedish Association of Technicians"
+        },
+        "birthDate": "1885-02-07",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Stockholm",
+                "addressCountry": "Sweden"
+            }
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "givenName": "F U P:son",
+                "familyName": "B"
+            },
+            {
+                "@type": "Person",
+                "givenName": "Anna",
+                "familyName": "Tegnér"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Bertha Carlson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Baccalaureate",
+                "educationalLevel": "SecondaryEducation",
+                "educationalProgram": "Latin",
+                "attendanceEndDate": "1903"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "educationalLevel": "HigherEducation",
+                "educationalProgram": "Engineering",
+                "organization": {
+                    "@type": "EducationalOrganization",
+                    "name": "Royal Institute of Technology"
+                },
+                "attendanceStartDate": "1904",
+                "attendanceEndDate": "1907"
+            }
+        ],
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1908",
+                "endDate": "1909",
+                "roleName": "Engineering Apprentice",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "ASEA",
+                    "alternateName": "Allmänna Svenska Elektriska Aktiebolaget",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Västerås",
+                        "addressCountry": "Sweden"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1911",
+                "endDate": "1912",
+                "roleName": "Practical Experience",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "General Electric Co.",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Lynn",
+                        "addressRegion": "Massachusetts",
+                        "addressCountry": "USA"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1913",
+                "endDate": "1913",
+                "roleName": "Quotation Engineer",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "ASEA",
+                    "alternateName": "Allmänna Svenska Elektriska Aktiebolaget",
+                    "branchOf": {
+                        "@type": "Organization",
+                        "name": "Norrköping"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1914",
+                "endDate": "1917",
+                "roleName": "Bureau Assistant",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Vattenfall",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressRegion": "Norrköping",
+                        "addressCountry": "Sweden"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1918",
+                "endDate": "1918",
+                "roleName": "Bureau Engineer",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Vattenfall",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressRegion": "Norrköping",
+                        "addressCountry": "Sweden"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1920",
+                "roleName": "Senior Bureau Engineer",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Power Plant Bureau",
+                    "alternateName": "Kraftverksbyråns",
+                    "department": {
+                        "@type": "Organization",
+                        "name": "Design Investigation Office",
+                        "alternateName": "anläggn.avd:s utredn.-kontor"
+                    }
+                }
+            }
+        ],
+        "awards": [
+            {
+                "@type": "Order",
+                "name": "Royal Order of the Vasa",
+                "orderNumber": "RVO"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Stockholm",
+                "industry": "Engineering",
+                "start_date": "1904"
+            },
+            {
+                "occupational_title": "Senior Bureau Engineer",
+                "workplace": "Stockholm",
+                "industry": "Engineering",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Engineering Apprentice",
+                "workplace": "ASEA, Västerås",
+                "industry": "Engineering",
+                "start_date": "1908"
+            },
+            {
+                "occupational_title": "Practical Experience",
+                "workplace": "General Electric Co., Lynn, Massachusetts, USA",
+                "industry": "Engineering",
+                "start_date": "1911"
+            },
+            {
+                "occupational_title": "Quotation Engineer",
+                "workplace": "ASEA, Norrköping",
+                "industry": "Engineering",
+                "start_date": "1913"
+            },
+            {
+                "occupational_title": "Bureau Assistant",
+                "workplace": "Vattenfall's Control Department",
+                "industry": "Electrical Engineering",
+                "start_date": "1914"
+            }
+        ]
+    }
+}

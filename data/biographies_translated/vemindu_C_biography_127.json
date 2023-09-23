@@ -1,0 +1,146 @@
+{
+    "original": "CLAESSON, Bror Johannes Fingal, Grosshandlare, Reftele, f 16/10 88 av handl J F C o Maria Andréasson, gm Hanna Johansson. Ag fma Bror Claesson, spec o div, sed. 10 samt läghia Walhall, L:a Hultsdal o Djupadal, Reftele, sommarvilla Tylösand. Komm.flm. Ordf brandstyr; styr.led Smal Ensk Bk, huv.m Västbo Härads sparbk, ordf Reftele högerfrn. Sv Köpmfrbs ht g.",
+    "translated": "CLAESSON, Bror Johannes Fingal, Merchant, Reftele, b. 16/10 88 to merchant J F C and Maria Andréasson, m. Hanna Johansson. Owns business Bror Claesson, specializing in various fields, currently managing 10 apartments in Walhall, L:a Hultsdal, and Djupadal, Reftele, with a summer villa in Tylösand. Municipal commissioner and Chairman of the firefighting service; board member of Smal Ensk Bank and Västbo Härads savings bank, Chairman of the right-wing fraction in Reftele. Member of the Swedish Merchants' Association.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Bror Johannes Fingal Claesson",
+        "givenName": "Bror Johannes Fingal",
+        "familyName": "Claesson",
+        "birthDate": "1888-10-16",
+        "birthPlace": "Reftele",
+        "description": "Merchant",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "J F C Claesson",
+                "identifier": "merchant",
+                "description": "Father"
+            },
+            {
+                "@type": "Person",
+                "name": "Maria Andréasson",
+                "description": "Mother"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Hanna Johansson"
+        },
+        "owns": [
+            {
+                "@type": "Organization",
+                "name": "Bror Claesson"
+            }
+        ],
+        "specialty": "Various fields",
+        "ownsResidence": [
+            {
+                "@type": "Apartment",
+                "name": "Walhall",
+                "address": "L:a Hultsdal, Reftele"
+            },
+            {
+                "@type": "Apartment",
+                "address": "Djupadal, Reftele"
+            }
+        ],
+        "hasSummerHouse": {
+            "@type": "House",
+            "name": "Tylösand",
+            "address": "Tylösand"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Merchants' Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Right-wing fraction in Reftele"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Smal Ensk Bank",
+                "boardMember": true
+            },
+            {
+                "@type": "Organization",
+                "name": "Västbo Härads savings bank",
+                "boardMember": true
+            }
+        ],
+        "governmentalPositions": [
+            {
+                "@type": "GovernmentOrganization",
+                "name": "Reftele Municipality",
+                "position": "Municipal Commissioner"
+            },
+            {
+                "@type": "GovernmentOrganization",
+                "name": "Firefighting Service",
+                "position": "Chairman"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Reftele",
+                "industry": "Trade",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Business Owner",
+                "workplace": "Bror Claesson",
+                "industry": "Various",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Walhall, L:a Hultsdal, and Djupadal Apartments",
+                "industry": "Real Estate",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Municipal Commissioner",
+                "workplace": "Unknown Municipality",
+                "industry": "Government",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Chairman of Firefighting Service",
+                "workplace": "Unknown Municipality",
+                "industry": "Emergency Services",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Smal Ensk Bank",
+                "industry": "Banking",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Västbo Härads Savings Bank",
+                "industry": "Banking",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Chairman of the Right-wing Fraction",
+                "workplace": "Reftele",
+                "industry": "Politics",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Member",
+                "workplace": "Swedish Merchants' Association",
+                "industry": "Trade Association",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

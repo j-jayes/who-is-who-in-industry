@@ -1,0 +1,115 @@
+{
+    "original": "CARLSSON, Erik Simon, Disponent, Ljungby, f Rök, Ögl, 8/7 87 av Carl Otto C o Maria Stark, gm Ester Andersson. Eg gr.-hdlsrör i kött 19—39, disp o styr.led AB Ljungby kontr.slakteri sed. 39. Stdsflm, dräts.kamm o tax.nmd. Styr.led Fps lokalavd, led Kronob läns Fp.styr. Resor: Danm uppr ggr, Norge 35.",
+    "translated": "CARLSSON, Erik Simon, Manager, Ljungby, born in Rök, Ögl, July 8th, 1887, to Carl Otto C and Maria Stark, married to Ester Andersson. Owns a wholesale meat business from 1919 to 1939, then became a manager and board member of AB Ljungby Contract Slaughterhouse. Member of the city council, finance committee, and tax committee. Board member of the Swedish Employers' Confederation's local branch and member of the County Free People's Party Board. Traveled to Denmark several times and visited Norway in 1935.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Erik Simon Carlsson",
+        "birthDate": "1887-07-08",
+        "birthPlace": "Rök, Ögl",
+        "spouse": {
+            "@type": "Person",
+            "name": "Ester Andersson"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Carl Otto C"
+            },
+            {
+                "@type": "Person",
+                "name": "Maria Stark"
+            }
+        ],
+        "occupation": [
+            {
+                "@type": "OrganizationRole",
+                "title": "Manager",
+                "startDate": "1919",
+                "endDate": "1939",
+                "namedPosition": "Wholesale Meat Business (Owner)"
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Manager",
+                "namedPosition": "AB Ljungby Contract Slaughterhouse",
+                "startDate": "1939"
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Board Member",
+                "namedPosition": "AB Ljungby Contract Slaughterhouse",
+                "startDate": "1939"
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Member",
+                "namedPosition": "City Council"
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Member",
+                "namedPosition": "Finance Committee"
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Member",
+                "namedPosition": "Tax Committee"
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Board Member",
+                "namedPosition": "Swedish Employers' Confederation's Local Branch"
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Member",
+                "namedPosition": "County Free People's Party Board"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Employers' Confederation"
+            },
+            {
+                "@type": "Organization",
+                "name": "County Free People's Party"
+            }
+        ],
+        "nationality": "Swedish",
+        "placeLived": "Ljungby",
+        "travel": [
+            {
+                "@type": "Trip",
+                "name": "Trips to Denmark",
+                "startDate": "unknown",
+                "endDate": "unknown",
+                "description": "Visited Denmark several times"
+            },
+            {
+                "@type": "Trip",
+                "name": "Trip to Norway",
+                "startDate": "1935",
+                "endDate": "1935",
+                "description": "Visited Norway in 1935"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Wholesale meat business owner",
+                "workplace": "Own business",
+                "industry": "Meat industry",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "AB Ljungby Contract Slaughterhouse",
+                "industry": "Meat industry",
+                "start_date": "1939"
+            }
+        ]
+    }
+}

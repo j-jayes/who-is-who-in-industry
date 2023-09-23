@@ -1,0 +1,116 @@
+{
+    "original": "BRENKE, Eskil Gottfrid, Civilingenjör, Nässjö, f Säby, Jönkps l, 15/12 06 av snick.-mäst C J Johansson o Matilda Johansson, gm Margit Kjellin. Studex Eksjö 26, civing KTH (E) 33. Anst v Smålands Kraft AB i Nässjö 33—34, v SJ :s elektrifiering Nässjö 34—35, bitr ing v Nässjö stads elverk 35—36, åter v Smal Kraft AB ss driftsing sed. 37. Styr.suppl där. Led av brandstyr. KFUM. Hobbies: Mitt arbete; friluftsliv, filateli.",
+    "translated": "BRENKE, Eskil Gottfrid, Civil Engineer, Nässjö, born in Säby, Jönköping county, on December 15, 1906, to master carpenter C J Johansson and Matilda Johansson. Married to Margit Kjellin. Graduated from Eksjö in 1926, obtained a civil engineering degree from the Royal Institute of Technology (KTH) in 1933. Employed by Smålands Kraft AB in Nässjö from 1933 to 1934, worked on electrification projects at SJ in Nässjö from 1934 to 1935, assistant engineer at Nässjö city power plant from 1935 to 1936, then returned to Smålands Kraft AB as an operating engineer in 1937. Serves as a deputy on the board. Leader of the fire brigade of YMCA. Hobbies: My work, outdoor activities, philately.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Eskil Gottfrid Brenke",
+        "jobTitle": "Civil Engineer",
+        "birthDate": "1906-12-15",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Säby",
+                "addressRegion": "Jönkoping county"
+            }
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "C J Johansson",
+                "jobTitle": "Master Carpenter"
+            },
+            {
+                "@type": "Person",
+                "name": "Matilda Johansson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Margit Kjellin"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "educationalLevel": "High School Diploma",
+                "alumniOf": "Eksjö",
+                "endDate": "1926"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "educationalLevel": "Bachelor's Degree",
+                "alumniOf": "Royal Institute of Technology (KTH)",
+                "endDate": "1933"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Smålands Kraft AB",
+                "startDate": "1933",
+                "endDate": "1934"
+            },
+            {
+                "@type": "Organization",
+                "name": "SJ",
+                "description": "Electrification project",
+                "startDate": "1934",
+                "endDate": "1935"
+            },
+            {
+                "@type": "Organization",
+                "name": "Nässjö city power plant",
+                "startDate": "1935",
+                "endDate": "1936"
+            },
+            {
+                "@type": "Organization",
+                "name": "Smålands Kraft AB",
+                "startDate": "1937"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "YMCA",
+                "description": "Leader of the fire brigade"
+            }
+        ],
+        "sameAs": "https://example.com/eskil-gottfrid-brenke",
+        "knowsAbout": [
+            "Swedish family history",
+            "Civil Engineering",
+            "Outdoor activities",
+            "Philately"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Smålands Kraft AB",
+                "industry": "Energy",
+                "start_date": "1933"
+            },
+            {
+                "occupational_title": "Assistant Engineer",
+                "workplace": "SJ (Swedish State Railways)",
+                "industry": "Transportation",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Assistant Engineer",
+                "workplace": "Nässjö City Power Plant",
+                "industry": "Energy",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Operating Engineer",
+                "workplace": "Smålands Kraft AB",
+                "industry": "Energy",
+                "start_date": "1937"
+            }
+        ]
+    }
+}

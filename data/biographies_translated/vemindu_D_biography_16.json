@@ -1,0 +1,81 @@
+{
+    "original": "DAHLBÄCK, Sven Gustaf, Disponent, Stockholm, f Sthlm 8/9 07 av disp G D o Elvira Åman, gm Elisabeth Alströmer. KTH 31. Driftsing Esselte 33—37, disp Jönkps Litogr AB 38—40, disp o dir.ass AB Sveriges Litografiska Tryckerier (Esselte) sed. 40.",
+    "translated": "DAHLBÄCK, Sven Gustaf, Manager, Stockholm, born in Stockholm on September 8th, 1907, son of the manager G.D and Elvira Åman, married Elisabeth Alströmer. Graduated from the Royal Institute of Technology in 1931. Worked at Esselte from 1933 to 1937, manager at Jönkoping Lithographic AB from 1938 to 1940, and manager and assistant director at AB Sveriges Litografiska Tryckerier (Esselte) since 1940.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Sven Gustaf Dahlbäck",
+        "birthDate": "1907-09-08",
+        "birthPlace": "Stockholm",
+        "spouse": {
+            "@type": "Person",
+            "name": "Elisabeth Alströmer"
+        },
+        "parent": {
+            "@type": "Person",
+            "name": "Elvira Åman"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "diploma",
+            "alumniOf": "Royal Institute of Technology",
+            "educationalLevel": "Bachelor's",
+            "endDate": "1931"
+        },
+        "jobTitle": "Manager",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Esselte"
+        },
+        "workExperience": [
+            {
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Esselte"
+                },
+                "jobTitle": "Manager",
+                "startDate": "1933",
+                "endDate": "1937"
+            },
+            {
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Jönkoping Lithographic AB"
+                },
+                "jobTitle": "Manager",
+                "startDate": "1938",
+                "endDate": "1940"
+            },
+            {
+                "employer": {
+                    "@type": "Organization",
+                    "name": "AB Sveriges Litografiska Tryckerier (Esselte)"
+                },
+                "jobTitle": "Manager and Assistant Director",
+                "startDate": "1940"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Manager",
+                "workplace": "Esselte",
+                "industry": "Unknown",
+                "start_date": "1933"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Jönkoping Lithographic AB",
+                "industry": "Unknown",
+                "start_date": "1938"
+            },
+            {
+                "occupational_title": "Manager, Assistant Director",
+                "workplace": "AB Sveriges Litografiska Tryckerier (Esselte)",
+                "industry": "Unknown",
+                "start_date": "1940"
+            }
+        ]
+    }
+}

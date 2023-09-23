@@ -1,0 +1,145 @@
+{
+    "original": "CARLGREN, Mauritz, Jägmästare, Stockholm o Varglund, f Härnösand 26/6 83 av lekt W M C o Beda Karlholm, gm Fanny Kempe. Studex Hsand 01, Skogsinst 06. Anst skogsstaten 08, skogsvårdsch Mo &amp; Domsjö AB sed. 13. Ag fastigh Varglund, Hemsön, Vnorr 1. Led 27 års skogssakk f Lappmarken. Styr.led Mo &amp; Domsjö AB; ordf Ångermani Gille. RVO.",
+    "translated": "CARLGREN, Mauritz, Forester, Stockholm and Varglund, born in Härnösand on June 26, 1883, son of teacher W M C Carlgren and Beda Karlholm, married to Fanny Kempe. Graduated from Härnösand in 1901, Skogsinst 1906. Employed by skogsstaten in 1908, skogsvårdsch Mo & Domsjö AB since 1913. Owns agricultural property in Varglund, Hemsön, Vnorr 1. Led 27 years of forest expertise in Lappmarken. Board member and executive board member of Mo & Domsjö AB; chairman of Ångermani Gille. Awarded the Royal Order of Vasa.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "CARLGREN, Mauritz",
+        "jobTitle": "Forester",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm and Varglund"
+        },
+        "birthDate": "1883-06-26",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "W M C Carlgren",
+                "jobTitle": "Teacher"
+            },
+            {
+                "@type": "Person",
+                "name": "Beda Karlholm"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Fanny Kempe"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "High school diploma",
+                "alumniOf": {
+                    "@type": "EducationalOrganization",
+                    "name": "Härnösand"
+                },
+                "startDate": "1901"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Graduate",
+                "alumniOf": {
+                    "@type": "EducationalOrganization",
+                    "name": "Skogsinst"
+                },
+                "startDate": "1906"
+            }
+        ],
+        "employment": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1908",
+                "endDate": "1913",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "skogsstaten"
+                },
+                "roleName": "Employee"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1913",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "skogsvårdsch Mo & Domsjö AB"
+                },
+                "roleName": "Forestry Expert"
+            }
+        ],
+        "owns": {
+            "@type": "OwnershipInfo",
+            "ownedFrom": "unknown",
+            "ownedThrough": "present",
+            "typeOfGood": {
+                "@type": "RealEstate",
+                "name": "Varglund Property",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Hemsön, Vnorr 1"
+                }
+            }
+        },
+        "forestExperience": {
+            "@type": "QuantitativeValue",
+            "value": 27,
+            "unitText": "years"
+        },
+        "boardMember": [
+            {
+                "@type": "Organization",
+                "name": "Mo & Domsjö AB",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Board of Directors"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Ångermani Gille",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Board of Directors"
+                }
+            }
+        ],
+        "awards": {
+            "@type": "Order",
+            "name": "Royal Order of Vasa"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Forester",
+                "workplace": "Skogsvårdsch Mo & Domsjö AB",
+                "industry": "Forestry",
+                "start_date": "1913"
+            },
+            {
+                "occupational_title": "Board member and executive board member",
+                "workplace": "Mo & Domsjö AB",
+                "industry": "Forestry",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Chairman",
+                "workplace": "Ångermani Gille",
+                "industry": "Non-profit organization",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Forestry Expert",
+                "workplace": "Lappmarken",
+                "industry": "Forestry",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Teacher",
+                "workplace": "",
+                "industry": "Education",
+                "start_date": ""
+            }
+        ]
+    }
+}

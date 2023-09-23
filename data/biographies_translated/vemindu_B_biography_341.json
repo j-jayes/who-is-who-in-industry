@@ -1,0 +1,91 @@
+{
+    "original": "BONDESON, Hjalmar, Lantbrukare, Kristianstad, f Nosaby 7/7 90 av lantbr H B o Karna Bengtsson, gm Emmy Holmkvist. Ag jordbruksfastgh txv 75,000 kr. Komm.nmdns ordf mm. Ordf o kass Vä bränneri c:a 20 år, kamr N Gärds jordbr.kassa, hvdman Nya sparb Krst.",
+    "translated": "BONDESON, Hjalmar, Farmer, Kristianstad, born in Nosaby on July 7, 1890, to farmer H.B. and Karna Bengtsson, married to Emmy Holmkvist. Owns agriculture property valued at 75,000 SEK. Chairman of the Municipal Committee and other positions. Chairman and treasurer of Vä Bränneri for approximately 20 years. Board member of N Gärds Agricultural Fund and supervisor at Nya Sparbanken in Kristianstad.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Hjalmar Bondeson",
+        "jobTitle": "Farmer",
+        "birthPlace": "Nosaby",
+        "birthDate": "1890-07-07",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "H.B. Bondeson",
+                "jobTitle": "Farmer"
+            },
+            {
+                "@type": "Person",
+                "name": "Karna Bengtsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Emmy Holmkvist"
+        },
+        "owns": [
+            {
+                "@type": "Land",
+                "name": "Agricultural property",
+                "value": {
+                    "@type": "MonetaryAmount",
+                    "currency": "SEK",
+                    "value": 75000
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Vä Bränneri",
+                "chair": "Hjalmar Bondeson",
+                "treasurer": "Hjalmar Bondeson",
+                "tenure": "approximately 20 years"
+            },
+            {
+                "@type": "Organization",
+                "name": "N Gärds Agricultural Fund",
+                "boardMember": "Hjalmar Bondeson"
+            },
+            {
+                "@type": "Organization",
+                "name": "Nya Sparbanken in Kristianstad",
+                "supervisor": "Hjalmar Bondeson"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Farmer",
+                "workplace": "Kristianstad",
+                "industry": "Agriculture",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Chairman of the Municipal Committee",
+                "workplace": null,
+                "industry": null,
+                "start_date": null
+            },
+            {
+                "occupational_title": "Chairman and treasurer of Vä Bränneri",
+                "workplace": null,
+                "industry": null,
+                "start_date": null
+            },
+            {
+                "occupational_title": "Board member of N Gärds Agricultural Fund",
+                "workplace": null,
+                "industry": null,
+                "start_date": null
+            },
+            {
+                "occupational_title": "Supervisor at Nya Sparbanken",
+                "workplace": "Kristianstad",
+                "industry": "Banking",
+                "start_date": null
+            }
+        ]
+    }
+}

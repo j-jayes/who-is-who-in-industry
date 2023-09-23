@@ -1,0 +1,206 @@
+{
+    "original": "BENTZEL, Hjalmar, Direktör,, Göteborg, f Vedby, Kristianstads l, 21/9 74, gm Ebba Rydman. Aff.anst i Hbg o Klippan 89—01, deläg i spannm.fma Åberg &amp; Co Gbg 01—06, etabl eg spannm.fma i Gbg 06, ombild denna t AB 34, tillika dir f AB Carl Engströms Gbgskont 19—34. Styr.led i Sv:s Skiljenmd f Spannm- o Foderämneshdln o ordf i dess Gbgssekt sed. 24, styr.led i Sv Foderämnes- 0 Spannm.importörernas Frn 16—39, i Fören Sv Spannm.intress 18—28, ordf i V :a Sv:s Spannm.handl.frn 17—28. Fd led av kommu-nalflm o -nmd samt byggn.nmdn i Lerum. Ordf i styr f Lerums kommunala elverk 29 —37. Ag Hulan m underlyd hemman o sågverk i Lerums s :n, Älvsb l, sed. 17.",
+    "translated": "BENTZEL, Hjalmar, Director, Gothenburg, born in Vedby, Kristianstad county, on September 21, 1874, married Ebba Rydman. Employed in the business sector in Helsingborg and Klippan from 1889 to 1901, co-owner of the grain company Åberg & Co in Gothenburg from 1901 to 1906, established his own grain company in Gothenburg in 1906, reorganized it into a limited company in 1934, also served as the director of AB Carl Engström's Gothenburg branch from 1919 to 1934. Board member of the Swedish Arbitration Board for Grain and Feedstuff Trading and chairman of its Gothenburg section since 1924, board member of the Federation of Swedish Feedstuff and Grain Importers from 1916 to 1939, member of the Swedish Grain Association from 1918 to 1928, chairman from 1917 to 1928. Former member of the municipal film committee and building committee in Lerum. Chairman of the board for Lerum's municipal power plant from 1929 to 1937. Owns the Hulan estate and sawmill in Älvsbyn, Lerum parish, since 1917.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Hjalmar Bentzel",
+        "description": "Director",
+        "birthDate": "1874-09-21",
+        "birthPlace": "Vedby, Kristianstad county",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Gothenburg"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Ebba Rydman"
+        },
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Helsingborg"
+                },
+                "startDate": "1889",
+                "endDate": "1901"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Klippan"
+                },
+                "startDate": "1889",
+                "endDate": "1901"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Åberg & Co"
+                },
+                "startDate": "1901",
+                "endDate": "1906"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Own grain company"
+                },
+                "startDate": "1906"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Carl Engström"
+                },
+                "startDate": "1919",
+                "endDate": "1934"
+            }
+        ],
+        "boardMemberships": [
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Swedish Arbitration Board for Grain and Feedstuff Trading",
+                    "memberOf": [
+                        {
+                            "@type": "Organization",
+                            "name": "Gothenburg section"
+                        }
+                    ]
+                },
+                "startDate": "1924"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Federation of Swedish Feedstuff and Grain Importers"
+                },
+                "startDate": "1916",
+                "endDate": "1939"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Swedish Grain Association"
+                },
+                "startDate": "1918",
+                "endDate": "1928"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "First Swedish Grain Trade Association"
+                },
+                "startDate": "1917",
+                "endDate": "1928"
+            }
+        ],
+        "committeeMemberships": [
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Municipal Film Committee",
+                    "memberOf": [
+                        {
+                            "@type": "Organization",
+                            "name": "Lerum"
+                        }
+                    ]
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Building Committee",
+                    "memberOf": [
+                        {
+                            "@type": "Organization",
+                            "name": "Lerum"
+                        }
+                    ]
+                }
+            }
+        ],
+        "ownership": {
+            "@type": "OwnershipInfo",
+            "owns": {
+                "@type": "RealEstate",
+                "name": "Hulan estate and sawmill",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Älvsbyn, Lerum parish"
+                }
+            }
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Affärsanställd (Business employee)",
+                "workplace": "Helsingborg and Klippan",
+                "industry": "Business sector",
+                "start_date": "1889"
+            },
+            {
+                "occupational_title": "Delägare (Co-owner)",
+                "workplace": "Åberg & Co",
+                "industry": "Grain company",
+                "start_date": "1901"
+            },
+            {
+                "occupational_title": "Etablissementsägare (Establishment owner)",
+                "workplace": "Own grain company",
+                "industry": "Grain company",
+                "start_date": "1906"
+            },
+            {
+                "occupational_title": "Direktör (Director)",
+                "workplace": "AB Carl Engström's Gothenburg branch",
+                "industry": "Grain company",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Styrelseledamot (Board member)",
+                "workplace": "Swedish Arbitration Board for Grain and Feedstuff Trading",
+                "industry": "Arbitration organization",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Styrelseledamot (Board member)",
+                "workplace": "Federation of Swedish Feedstuff and Grain Importers",
+                "industry": "Trade association",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Ordförande (Chairman)",
+                "workplace": "Federation of Swedish Feedstuff and Grain Importers",
+                "industry": "Trade association",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Ordförande (Chairman)",
+                "workplace": "Swedish Grain Association",
+                "industry": "Trade association",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Ordförande (Chairman)",
+                "workplace": "Lerum's municipal power plant",
+                "industry": "Energy sector",
+                "start_date": "1929"
+            }
+        ]
+    }
+}

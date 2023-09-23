@@ -1,0 +1,175 @@
+{
+    "original": "BORGENHARD, Olov Hilding Borjert, Civilingenjör, Stockholm, f Nässjö 19/1 98, gm Sonja Borgenhard. Studex 16, civ.ing.ex 21. Bitr ing v stadsing.kont Norrkp 22—23, tjm Försäkr.bol Göta 25—26, vkst dir Försäkr.bol Trafik sed. 27, d :o AB Trafikkredit sed. 43. Ag fastgh Tranebergsplan l o Arkitektvägen 14-16-18, Sthlm. Medv v bild av Försäkr.bol Trafik o AB Trafikkredit samt Frbt Nykterhet v Ratten. Styr.led Försäkr.bol Trafik, AB Trafikkredit, Fastighetsfrn Eriksberg 44, Tra-fikförsäkr.anst :nas Tariffkommitté. Styr.ordf Frbt Nykterhet v Ratten. Studieresor: Engl 24, Tyskl o Österr 27. Publ i fackpr ett flert art i försäkr.tekn ämnen.",
+    "translated": "BORGENHARD, Olov Hilding Borjert, Civil Engineer, Stockholm, b. Nässjö 19/1 98, m. Sonja Borgenhard. Graduated (studex) at 16, civil engineering degree (civ.ing.ex) in 21. Assistant engineer at the city engineering office in Norrköping from 22 to 23, temporary at the insurance company Göta from 25 to 26, deputy director at the insurance company Trafik since 27, the same at the company Trafikkredit since 43. Property agent at Tranebergsplan and Architect Road 14-16-18, Stockholm. Participated in the image of the insurance companies Trafik and Trafikkredit, as well as the Traffic Sobriety Initiative. Board member at the insurance companies Trafik, Trafikkredit, and Eriksberg Real Estate from 44, Traffic Insurance Institution's Tariff Committee. Chairman of the board for the Traffic Sobriety Initiative. Study trips to England in 24, Germany and Austria in 27. Published several articles in professional journals on insurance technical subjects.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Olov Hilding Borjert Borgenhard",
+        "birthDate": "1898-01-19",
+        "birthPlace": "Nässjö, Sweden",
+        "description": "Civil Engineer",
+        "spouse": {
+            "@type": "Person",
+            "name": "Sonja Borgenhard"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "studex",
+                "educationalLevel": "High School",
+                "awardDate": "1914"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "civ.ing.ex",
+                "educationalLevel": "Civil Engineering",
+                "awardDate": "1921"
+            }
+        ],
+        "work": [
+            {
+                "@type": "EmploymentEvent",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "City Engineering Office, Norrköping"
+                },
+                "startDate": "1922",
+                "endDate": "1923",
+                "jobTitle": "Assistant Engineer"
+            },
+            {
+                "@type": "EmploymentEvent",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Göta Insurance Company"
+                },
+                "startDate": "1925",
+                "endDate": "1926",
+                "jobTitle": "Temporary"
+            },
+            {
+                "@type": "EmploymentEvent",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Trafik Insurance Company"
+                },
+                "startDate": "1927",
+                "jobTitle": "Deputy Director"
+            },
+            {
+                "@type": "EmploymentEvent",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Trafikkredit Company"
+                },
+                "startDate": "1943",
+                "jobTitle": "Deputy Director"
+            },
+            {
+                "@type": "EmploymentEvent",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Trafikkredit Company"
+                },
+                "startDate": "1943",
+                "jobTitle": "Deputy Director"
+            },
+            {
+                "@type": "EmploymentEvent",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "AB Trafikkredit"
+                },
+                "startDate": "1943",
+                "jobTitle": "Deputy Director"
+            }
+        ],
+        "address": [
+            {
+                "@type": "PostalAddress",
+                "streetAddress": "Tranebergsplan",
+                "addressRegion": "Stockholm"
+            },
+            {
+                "@type": "PostalAddress",
+                "streetAddress": "Arkitektvägen 14-16-18",
+                "addressRegion": "Stockholm"
+            }
+        ],
+        "affiliation": [
+            {
+                "@type": "Organization",
+                "name": "Trafik Insurance Company",
+                "boardMember": true
+            },
+            {
+                "@type": "Organization",
+                "name": "Trafikkredit Company",
+                "boardMember": true
+            },
+            {
+                "@type": "Organization",
+                "name": "Eriksberg Real Estate",
+                "boardMember": true
+            },
+            {
+                "@type": "Organization",
+                "name": "Traffic Insurance Institution's Tariff Committee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Traffic Sobriety Initiative",
+                "boardChair": true
+            }
+        ],
+        "studyTrip": [
+            {
+                "@type": "Trip",
+                "name": "England",
+                "startDate": "1924"
+            },
+            {
+                "@type": "Trip",
+                "name": "Germany and Austria",
+                "startDate": "1927"
+            }
+        ],
+        "publication": [
+            "Published several articles in professional journals on insurance technical subjects."
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Assistant Engineer",
+                "workplace": "Norrköping City Engineering Office",
+                "industry": "Government",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Temporary Employee",
+                "workplace": "Göta Insurance Company",
+                "industry": "Insurance",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Deputy Director",
+                "workplace": "Trafik Insurance Company",
+                "industry": "Insurance",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Deputy Director",
+                "workplace": "Trafikkredit Insurance Company",
+                "industry": "Insurance",
+                "start_date": "1943"
+            },
+            {
+                "occupational_title": "Property Agent",
+                "workplace": "Tranebergsplan and Architect Road",
+                "industry": "Real Estate",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

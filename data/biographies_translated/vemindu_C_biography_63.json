@@ -1,0 +1,102 @@
+{
+    "original": "CARLSSON, Carl Gustav Wiktor, Disponent, Ljungaverk, f Sthlm 7/7 93 av fastigh.äg C A C o Anna Nyberg, gm Alfhild Brinek-Erik-son. Studex Upps 12, KTH (kemi) 12—15, Sv-Amer Stift :s stip f stud v Massachusetts Inst of Techn samt v elektrokem ind.anläggn USA 20—21. Ing Sthlms Superfosf.fabr AB :s Månsbofil Avesta 15—25, driftsing Alby Nya Kloratfabr AB Månsbo Avesta 25, nu disp v Ljunga verk. Led Sv Tekn.frn. °CARLSSON, Eric Hädar, Köpman, Köping, f Malma, Västml, 18/1 03. Anst i beklädn.-bransch 17—28. Gr eg fma Hädar Carlsson Herrekip Kpg 28, inneh dna. Led Kpgsortens köpm.frn o Kpgs hdlsfrn.",
+    "translated": "CARLSSON, Carl Gustav Wiktor, Manager, Ljungaverk, born in Stockholm on July 7, 1893, to property owners C A C and Anna Nyberg, married Alfhild Brinek-Erikson. Graduated Uppsala 1912, KTH (chemistry) 1912-1915, Scholar of the Swedish-American Foundation for studies at the Massachusetts Institute of Technology, and for electrochemical industrial installations in the USA 1920-1921. Engineer at Stockholm Superphosphate Factory AB's Månsbo branch in Avesta 1915-1925, works engineer at Alby New Chlorate Factory AB's Månsbo branch in Avesta 1925, currently Manager of Ljungaverk. Member of the Swedish Technical Association. °CARLSSON, Eric Hädar, Merchant, Köping, born in Malma, Västmannland, on January 18, 1903. Employed in the clothing industry 1917-1928. Established own company, Hädar Carlsson Gentlemen's Outfitter in Köping in 1928, currently owner. Member of Köping's Chamber of Commerce and Köping's Trade Association.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Gustav Wiktor Carlsson",
+        "jobTitle": "Manager",
+        "description": "Disponent, Ljungaverk",
+        "birthDate": "1893-07-07",
+        "birthPlace": "Stockholm",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "C A C",
+                "description": "Property owner"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Nyberg"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Alfhild Brinek-Erikson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Uppsala University",
+                "startDate": "1912",
+                "endDate": "1912"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "KTH Royal Institute of Technology",
+                "fieldOfStudy": "Chemistry",
+                "startDate": "1912",
+                "endDate": "1915"
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Swedish-American Foundation Scholarship",
+                "description": "Studied at the Massachusetts Institute of Technology and electrochemical industrial installations in the USA",
+                "startDate": "1920",
+                "endDate": "1921"
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Ljungaverk"
+        },
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Köping's Trade Association"
+        },
+        "relatedTo": [
+            {
+                "@type": "Person",
+                "name": "Eric Hädar Carlsson",
+                "jobTitle": "Merchant",
+                "description": "Köping",
+                "birthDate": "1903-01-18",
+                "birthPlace": "Malma, Västmannland"
+            }
+        ],
+        "owns": {
+            "@type": "Organization",
+            "name": "Hädar Carlsson Gentlemen's Outfitter",
+            "location": "Köping",
+            "startDate": "1928"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Manager",
+                "workplace": "Ljungaverk",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Stockholm Superphosphate Factory AB, Månsbo branch in Avesta",
+                "industry": "Chemical",
+                "start_date": "1915"
+            },
+            {
+                "occupational_title": "Works Engineer",
+                "workplace": "Alby New Chlorate Factory AB, Månsbo branch in Avesta",
+                "industry": "Chemical",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Hädar Carlsson Gentlemen's Outfitter",
+                "industry": "Clothing",
+                "start_date": "1928"
+            }
+        ]
+    }
+}

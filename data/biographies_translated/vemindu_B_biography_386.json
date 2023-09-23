@@ -1,0 +1,132 @@
+{
+    "original": "BRATT, Erland Axel, Ingenjör, Stocksund, f Gbg 22/3 74 av köpm A N B o Isabella Pinæus, gm Julie Wiman. CTI 93—98. Anst AB Motorfabr i Gbg 98—03, Gjestvangs Automobilaff Sthlm 05—06, Ericssons Automobilfabrik Sthlm 06—08, gen.sekr KAK 09—19, besiktn.man f motorfordon Sthlm fr 12, förest f besiktn.myndigh f motorfordon Sthlm 30— 38. Led Sv Tekn.frn RVO.",
+    "translated": "BRATT, Erland Axel, Engineer, Stocksund, born in Gothenburg on 22/3 1874, son of merchant A N B and Isabella Pinæus, married Julie Wiman. Graduated from CTI in 1893-1898. Employed at AB Motorfabr in Gothenburg from 1898-1903, Gjestvangs Automobilaff Sthlm from 1905-1906, Ericssons Automobilfabrik Sthlm from 1906-1908. General secretary of KAK from 1909-1919. Motor vehicle inspector in Stockholm from 1912, head of the motor vehicle inspection authority in Stockholm from 1930-1938. Member of the Royal Swedish Academy of Engineering Sciences (Sv Tekn.frn RVO).",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Erland Axel Bratt",
+        "jobTitle": "Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stocksund"
+        },
+        "birthDate": "1874-03-22",
+        "birthPlace": "Gothenburg",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "A N B"
+            },
+            {
+                "@type": "Person",
+                "name": "Isabella Pinæus"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Julie Wiman"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "CTI",
+            "startDate": "1893",
+            "endDate": "1898"
+        },
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "AB Motorfabr"
+                },
+                "startDate": "1898",
+                "endDate": "1903"
+            },
+            {
+                "@type": "OrganizationRole",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Gjestvangs Automobilaff Sthlm"
+                },
+                "startDate": "1905",
+                "endDate": "1906"
+            },
+            {
+                "@type": "OrganizationRole",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Ericssons Automobilfabrik Sthlm"
+                },
+                "startDate": "1906",
+                "endDate": "1908"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "KAK",
+                "startDate": "1909",
+                "endDate": "1919",
+                "jobTitle": "General Secretary"
+            },
+            {
+                "@type": "Organization",
+                "name": "Royal Swedish Academy of Engineering Sciences",
+                "identifier": "Sv Tekn.frn RVO"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Motor vehicle Inspector in Stockholm",
+                "startDate": "1912"
+            },
+            {
+                "@type": "Organization",
+                "name": "Head of the motor vehicle inspection authority in Stockholm",
+                "startDate": "1930",
+                "endDate": "1938"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "AB Motorfabr",
+                "industry": "Automotive",
+                "start_date": "1898"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Gjestvangs Automobilaff Sthlm",
+                "industry": "Automotive",
+                "start_date": "1905"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Ericssons Automobilfabrik Sthlm",
+                "industry": "Automotive",
+                "start_date": "1906"
+            },
+            {
+                "occupational_title": "General Secretary",
+                "workplace": "KAK",
+                "industry": "Automotive",
+                "start_date": "1909"
+            },
+            {
+                "occupational_title": "Motor Vehicle Inspector",
+                "workplace": "Stockholm",
+                "industry": "Government",
+                "start_date": "1912"
+            },
+            {
+                "occupational_title": "Head of Motor Vehicle Inspection Authority",
+                "workplace": "Stockholm",
+                "industry": "Government",
+                "start_date": "1930"
+            }
+        ]
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "original": "CARLSON, Arne Fernoff, Fabrikör, Laholm, f Borås 13/3 03 av fabr N P Karlson 0 Sofia Bengtsson, gm Greta Jönsson. Folksk. Anst sed. 15 i fad snickerifabr (grund 13), övert denna tills m bröd Einar o Tage K und fmanamn Bröd Karlssons Snickerifabrik 26. Deläg o rev AB Figaro, Styr.led Laholms hantv- o ind.frn. Led stadsrevisionen.",
+    "translated": "CARLSON, Arne Fernoff, Factory owner, Laholm, born in Borås on March 13, 1903, son of factory owner N.P. Carlson and Sofia Bengtsson, married to Greta Jönsson. Attended elementary school until the age of 15 and then worked at his father's carpentry factory (established in 1913). Took over this business with his brothers Einar and Tage K and changed the company name to Bröd Karlsson's Carpentry Factory in 1926. Also a co-owner and board member of AB Figaro. Board member of Laholm's Craft and Industry Association. Member of the city's audit committee.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Arne Fernoff Carlson",
+        "birthDate": "1903-03-13",
+        "birthPlace": "Borås",
+        "description": "Factory owner",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "AB Figaro",
+                "memberType": "BoardMember"
+            },
+            {
+                "@type": "Organization",
+                "name": "Laholm's Craft and Industry Association",
+                "memberType": "BoardMember"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Bröd Karlsson's Carpentry Factory",
+                "startDate": "1926",
+                "endDate": null
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Greta Jönsson"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "N.P. Carlson",
+                "jobTitle": "Factory owner"
+            },
+            {
+                "@type": "Person",
+                "name": "Sofia Bengtsson"
+            }
+        ],
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Elementary School",
+            "startDate": null,
+            "endDate": "15"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Factory owner",
+                "workplace": "Laholm",
+                "industry": "Manufacturing",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Carpentry factory worker",
+                "workplace": "Father's carpentry factory",
+                "industry": "Manufacturing",
+                "start_date": "1915"
+            },
+            {
+                "occupational_title": "Co-owner and board member",
+                "workplace": "AB Figaro",
+                "industry": "Unknown",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Board member",
+                "workplace": "Laholm's Craft and Industry Association",
+                "industry": "Craft and Industry",
+                "start_date": null
+            }
+        ]
+    }
+}

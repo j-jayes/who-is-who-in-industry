@@ -1,0 +1,136 @@
+{
+    "original": "CARLANDER, Gudmund Rolfsson, Civilingenjör, Göteborg, f Gbg 6/12 11 av ryttin R C o Signe Svensson, gm Solveig Johansson. Realstudex Gbg 30, ex CTH (v-linj) 34. Anst väg- o vat.byggn.styr hamnbyrå 34—37, arb.ch Sk Cements Gbgfil sed. 38. Resor: Engl 33, 35, Tyskl 36, Danm 33, 36, 39, Norge 33, 39. Odd Fellow, Örgryte idr.sälllsk. Hobbies: Sport, skönlitteratur.",
+    "translated": "CARLANDER, Gudmund Rolfsson, Civil Engineer, Gothenburg, born in Gothenburg on December 6, 1911 to Cavalry Officer Rolf Carlsson and Signe Svensson, married to Solveig Johansson. Graduated from Real Gymnasium in Gothenburg in 1930, and received a degree from Chalmers University of Technology (Civil Engineering) in 1934. Employed at the Road and Waterway Construction Authority Port Office from 1934 to 1937, and working at Skandinaviska Cementaktiebolaget's Gothenburg branch since 1938. Traveled to England in 1933 and 1935, Germany in 1936, Denmark in 1933, 1936, and 1939, and Norway in 1933 and 1939. Member of Odd Fellow and Örgryte Sports Society. Hobbies include sports and literature. \n\nNote: The abbreviation 'gm' indicates 'married to' and 'arb.ch' indicates 'working at'.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Gudmund Rolfsson Carlander",
+        "birthDate": "1911-12-06",
+        "birthPlace": "Gothenburg",
+        "spouse": {
+            "@type": "Person",
+            "name": "Solveig Johansson"
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Rolf Carlsson",
+                "jobTitle": "Cavalry Officer"
+            },
+            {
+                "@type": "Person",
+                "name": "Signe Svensson"
+            }
+        ],
+        "education": {
+            "@type": "CollegeOrUniversity",
+            "name": "Real Gymnasium",
+            "location": "Gothenburg",
+            "endDate": "1930"
+        },
+        "alumniOf": {
+            "@type": "CollegeOrUniversity",
+            "name": "Chalmers University of Technology",
+            "location": "Gothenburg",
+            "endDate": "1934",
+            "educationalCredentialAwarded": "Civil Engineering"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Odd Fellow"
+            },
+            {
+                "@type": "Organization",
+                "name": "Örgryte Sports Society"
+            }
+        ],
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "Road and Waterway Construction Authority Port Office",
+                "startDate": "1934",
+                "endDate": "1937"
+            },
+            {
+                "@type": "Organization",
+                "name": "Skandinaviska Cementaktiebolaget (Scandinavian Cement Company)",
+                "branchOf": {
+                    "@type": "Organization",
+                    "name": "Gothenburg"
+                },
+                "startDate": "1938"
+            }
+        ],
+        "travel": [
+            {
+                "@type": "Place",
+                "name": "England",
+                "startDate": "1933",
+                "endDate": "1933"
+            },
+            {
+                "@type": "Place",
+                "name": "England",
+                "startDate": "1935",
+                "endDate": "1935"
+            },
+            {
+                "@type": "Place",
+                "name": "Germany",
+                "startDate": "1936",
+                "endDate": "1936"
+            },
+            {
+                "@type": "Place",
+                "name": "Denmark",
+                "startDate": "1933",
+                "endDate": "1933"
+            },
+            {
+                "@type": "Place",
+                "name": "Denmark",
+                "startDate": "1936",
+                "endDate": "1936"
+            },
+            {
+                "@type": "Place",
+                "name": "Denmark",
+                "startDate": "1939",
+                "endDate": "1939"
+            },
+            {
+                "@type": "Place",
+                "name": "Norway",
+                "startDate": "1933",
+                "endDate": "1933"
+            },
+            {
+                "@type": "Place",
+                "name": "Norway",
+                "startDate": "1939",
+                "endDate": "1939"
+            }
+        ],
+        "hobbies": [
+            "Sports",
+            "Literature"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Road and Waterway Construction Authority Port Office",
+                "industry": "Government",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Skandinaviska Cementaktiebolaget's Gothenburg branch",
+                "industry": "Construction",
+                "start_date": "1938"
+            }
+        ]
+    }
+}

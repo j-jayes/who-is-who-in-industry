@@ -1,0 +1,77 @@
+{
+    "original": "CARLSSON, Johan Alfred, Charkuterihand-lare, Hjo, f Bringetofta s :n, Jönkps l, 11/1 80 av lantbr K Svensson o Sofia Svensson, gm Amanda Johansson. Vkst dir i Akå Livsmedel AB i Hjo (grund 06, AB 41). Stdsflm 13, v. ordf i fattigv.styr 21, led av beredn.utsk 22.",
+    "translated": "CARLSSON, Johan Alfred, Sausage Shop Owner, Hjo, born in Bringetofta parish, Jönkoping County, on November 1, 1880, son of farmer K Svensson and Sofia Svensson, married to Amanda Johansson. Became Managing Director of Akå Livsmedel AB in Hjo (established in 1906, incorporated in 1941). Member of the City Film Department in 1913, Deputy Chairman of the Poor Relief Board in 1921, and served on the Committee for Preparation in 1922.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Johan Alfred Carlsson",
+        "birthDate": "1880-11-01",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Hjo"
+        },
+        "description": "Sausage Shop Owner",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Akå Livsmedel AB",
+                "foundingDate": "1906-01-01",
+                "incorporationDate": "1941-01-01",
+                "jobTitle": "Managing Director",
+                "worksFor": {
+                    "@type": "City",
+                    "name": "Hjo"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "City Film Department",
+                "startDate": "1913-01-01",
+                "jobTitle": "Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Poor Relief Board",
+                "startDate": "1921-01-01",
+                "jobTitle": "Deputy Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Committee for Preparation",
+                "startDate": "1922-01-01",
+                "jobTitle": "Member"
+            }
+        ],
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "K Svensson",
+                "jobTitle": "Farmer"
+            },
+            {
+                "@type": "Person",
+                "name": "Sofia Svensson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Amanda Johansson"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Sausage Shop Owner",
+                "workplace": "Akå Livsmedel AB",
+                "industry": "Food",
+                "start_date": "1906"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "Akå Livsmedel AB",
+                "industry": "Food",
+                "start_date": "1941"
+            }
+        ]
+    }
+}

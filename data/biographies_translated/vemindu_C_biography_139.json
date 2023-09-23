@@ -1,0 +1,93 @@
+{
+    "original": "COLLIANDER, Bror Josua, Disponent, Göteborg, f Kulltorp, Jkp l, 14/3 81 av kyrkoh G C o Maria af Petersens, gm Ingrid Burchardt. H a 1. Bokh Kramfors AB 99, kamr 02, disp Färjenäs AB Gbg 12, vkst dir sed. 17 o ag av akt.maj. Led o kassaförv kyrkoråd, rev fi kommun nmdr. Init.tag o c:a 10 år ordf Sv lådfabrikanternas frn, led centr.styr f Sv träv.exp.frn Sthlm o Gbg distr träv.exp.frn. Aff.res Sydafr 29, Engl o kontin. Frimurare (X), Hobbies: Jakt, fiske.",
+    "translated": "COLLIANDER, Bror Josua, Manager, Gothenburg, born in Kulltorp, Jönköping County, on March 14, 1881, son of the vicar G.C. and Maria af Petersens, married Ingrid Burchardt. Employed at 1. Bokh Kramfors AB from 1899, became a clerk in 1902, manager of Färjenäs AB in Gothenburg from 1912, promoted to director of sales in 1917 and appointed chairman of the board in May. Active member and treasurer of the church council, audited the municipality's financial committees. Founder and chairman of the Swedish Crate Manufacturers Association for approximately 10 years, member of the central board of the Swedish Wood Exporters Association from Stockholm and the Gothenburg district wood exporters association. Business trips to South Africa in 1929, England, and the continent. Freemason (X). Hobbies: hunting, fishing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Bror Josua",
+        "familyName": "Colliander",
+        "jobTitle": "Manager",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Gothenburg"
+        },
+        "birthDate": "1881-03-14",
+        "birthPlace": "Kulltorp, Jönköping County",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "G.C. Colliander"
+            },
+            {
+                "@type": "Person",
+                "name": "Maria af Petersens"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ingrid Burchardt"
+        },
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "1. Bokh Kramfors AB",
+                "startDate": "1899"
+            },
+            {
+                "@type": "Organization",
+                "name": "Färjenäs AB",
+                "description": "Gothenburg",
+                "jobTitle": "Manager",
+                "startDate": "1912",
+                "endDate": "1917",
+                "occupationLocation": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Gothenburg"
+                    }
+                }
+            }
+        ],
+        "memberOf": {
+            "@type": "CivicStructure",
+            "name": "Frimurare",
+            "description": "Freemason"
+        },
+        "sameAs": [
+            "https://www.example.com/profile/bror-josua-colliander"
+        ],
+        "hobbies": [
+            "Hunting",
+            "Fishing"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Clerk",
+                "workplace": "1. Bokh Kramfors AB",
+                "industry": "Unknown",
+                "start_date": "1899"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Färjenäs AB",
+                "industry": "Unknown",
+                "start_date": "1912"
+            },
+            {
+                "occupational_title": "Director of Sales",
+                "workplace": "Färjenäs AB",
+                "industry": "Unknown",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Chairman of the Board",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

@@ -1,0 +1,192 @@
+{
+    "original": "CEDERBLAD, John Maximilian, Major, Civilingenjör, Örebro, f Jäder, Sörml, 2/8 91 av kontr.prost V C o frih :an Ebba Hermelin. Mog.ex V.ås 09, KTH 10—14, avg.ex där sistn år Resoffex 14, ulöjtn Jämtl fältjäg.reg:s res 15, löjtn 16, löjtn VVK 18, kapt 26, major 40. Arb.chef v AB Sk Cementgjuteriet 16—17, anst h AB Industribostäder, Sthlm, 18, konstr h ing.fma Kreuger &amp; Bärlin, Sthlm, 18—19, stud.-resa m stip USA 19—21, ch v AB Armerad Betong, Örebro, 21—28, inneh o chef byggn.-fma John Cederblad, Örebro, sed. 28. Led av dir f Örebro Ränte- o Kapital.försäkr.anst sed. 31, av Örebro stds byggn.nrnd sed. 31 o av styr f Örebro Sparbank sed. 35; ordf öre-bro Byggmäst.frn sed. 33. Led Sv Tekn.frn.",
+    "translated": "CEDERBLAD, John Maximilian, Major, Civil Engineer, Örebro, born in Jäder, Sörmland, on August 2nd, 1891, the son of the district provost V C and the noblewoman Ebba Hermelin. Graduated from Västerås in 1909, Royal Institute of Technology (KTH) from 1910 to 1914, completed the final exams there in 1914. Reserve Officer Fitness Examination (Resoffex) in 1914, second lieutenant in the Jämtland Ranger Regiment Reserve in 1915, lieutenant in 1916, lieutenant in the Värmland Volunteer Corps (VVK) in 1918, captain in 1926, major in 1940. Worked as a chief engineer at AB Sk Cementgjuteriet from 1916 to 1917, employed by AB Industribostäder in Stockholm in 1918, construction engineer at the engineering firm Kreuger & Bärlin in Stockholm from 1918 to 1919, studied and traveled with a scholarship to the USA from 1919 to 1921, became chief of AB Armerad Betong in Örebro from 1921 to 1928, and has been the owner and manager of the construction company John Cederblad in Örebro since 1928. Has served as a board member of Örebro Savings and Capital Insurance Institution since 1931, Örebro Municipality's Building Commission since 1931, and the Örebro Savings Bank since 1935. Has been the chairman of the Örebro Master Builders' Association since 1933. Member of the Swedish Technical Association.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "John Maximilian Cederblad",
+        "givenName": "John Maximilian",
+        "familyName": "Cederblad",
+        "birthDate": "1891-08-02",
+        "birthPlace": "Jäder, Sörmland",
+        "description": "Major, Civil Engineer",
+        "nationality": "Swedish",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "V C Cederblad",
+                "honorificPrefix": "District Provost",
+                "gender": "male"
+            },
+            {
+                "@type": "Person",
+                "name": "Ebba Hermelin",
+                "honorificPrefix": "Friherrin",
+                "gender": "female"
+            }
+        ],
+        "alumniOf": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Västerås"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Royal Institute of Technology",
+                "startDate": "1910",
+                "endDate": "1914"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Sk Cementgjuteriet"
+                },
+                "startDate": "1916",
+                "endDate": "1917",
+                "roleName": "Chief Engineer"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Industribostäder"
+                },
+                "startDate": "1918",
+                "roleName": "Employee"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Kreuger & Bärlin"
+                },
+                "startDate": "1918",
+                "endDate": "1919",
+                "roleName": "Construction Engineer"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Armerad Betong"
+                },
+                "startDate": "1921",
+                "endDate": "1928",
+                "roleName": "Chief"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "John Cederblad"
+                },
+                "startDate": "1928",
+                "roleName": "Owner and Manager"
+            }
+        ],
+        "educationHistory": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Västerås",
+                "alumniOf": "true",
+                "graduationDate": "1909"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Royal Institute of Technology",
+                "alumniOf": "true",
+                "graduationDate": "1914"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Örebro Ränte- o Kapital.försäkr.anst",
+                "roleName": "Board Member",
+                "startDate": "1931"
+            },
+            {
+                "@type": "Organization",
+                "name": "Örebro stds byggn.nrnd",
+                "roleName": "Board Member",
+                "startDate": "1931"
+            },
+            {
+                "@type": "Organization",
+                "name": "Örebro Sparbank",
+                "roleName": "Board Member",
+                "startDate": "1935"
+            },
+            {
+                "@type": "Organization",
+                "name": "Örebro Byggmäst.frn",
+                "roleName": "Chairman",
+                "startDate": "1933"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Technical Association",
+                "roleName": "Member"
+            }
+        ],
+        "hasOccupation": {
+            "@type": "Occupation",
+            "name": "Civil Engineer"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Major",
+                "workplace": "",
+                "industry": "",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "",
+                "industry": "",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Arb.chef",
+                "workplace": "AB Sk Cementgjuteriet",
+                "industry": "",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Anst h",
+                "workplace": "AB Industribostäder, Sthlm",
+                "industry": "",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Konstr h",
+                "workplace": "ing.fma Kreuger & Bärlin, Sthlm",
+                "industry": "",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Stud.-resa",
+                "workplace": "USA",
+                "industry": "",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Ch v",
+                "workplace": "AB Armerad Betong, Örebro",
+                "industry": "",
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Inneh o chef",
+                "workplace": "byggn.-fma John Cederblad, Örebro",
+                "industry": "",
+                "start_date": "1928"
+            }
+        ]
+    }
+}

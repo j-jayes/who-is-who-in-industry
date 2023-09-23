@@ -1,0 +1,77 @@
+{
+    "original": "CHRISTOFFERSON, Eric Victor, Fabrikör, Vingåker, f Vingåker 3/3 08 av dir V H C o Edith Cederström, gm Karin Norin. Norrköpings hal, hdlssk. Anst h Valentin &amp; Brå-land Sthlm 28—33; deläg Bröd Christofferson Herrklädersfabr Vingåker, gr 33. Ag fastigh Perstorp, Hävla. Resor: Engl, Tyskl, Frankr.",
+    "translated": "CHRISTOFFERSON, Eric Victor, Manufacturer, Vingåker, born in Vingåker on March 3, 1908, son of director V.H.C and Edith Cederström, married Karin Norin. Attended Norrköpings Handelsinstitut. Employed at Valentin & Bråland in Stockholm from 1928-1933. Became co-owner of Bröd Christofferson Herrklädersfabrik in Vingåker, founding it in 1933. Owned properties in Perstorp and Hävla. Traveled to England, Germany, and France.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Eric Victor Christofferson",
+        "givenName": "Eric Victor",
+        "familyName": "Christofferson",
+        "birthDate": "1908-03-03",
+        "birthPlace": "Vingåker",
+        "nationality": "Swedish",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "V.H.C",
+                "sameAs": "director"
+            },
+            {
+                "@type": "Person",
+                "name": "Edith Cederström"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Karin Norin"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Norrköpings Handelsinstitut"
+        },
+        "employment": {
+            "@type": "Organization",
+            "name": "Valentin & Bråland",
+            "location": "Stockholm",
+            "startDate": "1928-01-01",
+            "endDate": "1933-12-31"
+        },
+        "businessOwnership": {
+            "@type": "Organization",
+            "name": "Bröd Christofferson Herrklädersfabrik",
+            "location": "Vingåker",
+            "foundingDate": "1933-01-01"
+        },
+        "residence": [
+            {
+                "@type": "Place",
+                "name": "Perstorp"
+            },
+            {
+                "@type": "Place",
+                "name": "Hävla"
+            }
+        ],
+        "knowsAbout": [
+            "England",
+            "Germany",
+            "France"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Manufacturer",
+                "workplace": "Vingåker",
+                "industry": "Textile industry",
+                "start_date": "1933"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Valentin & Bråland",
+                "industry": "Retail industry",
+                "start_date": "1928"
+            }
+        ]
+    }
+}

@@ -1,0 +1,218 @@
+{
+    "original": "BRÅKENHIELM, Gunnar Agne, Kapten, Stockholm, f Gbg 4/10 06 av sjöm.husomb.man R Bråkenhielm o h h, f Lammers, gm Brita Larson. Realex 23, styrm.ex 27, sjökapt.ex 28, resoff.ex 29, radiotelegr.ex o hdlssk 31. Praktikant hdlsfl 23—26, befäl i öl befattn i hdlsfl 31—37, tjm hos AB Broströms Linjeagentur 37—39, rederichef h AB Karta &amp; Oaxens Kalkbruk sed. 39. Kapt i Kgl FI res 41. Sekr Sv Flottans Res.off.frb. Resor: Austr, Syd- o Nordamerika samt div europ Idr 23—27, 31—37, Indien o Medelhavsländer 31—37. Hobby: Friluftsliv.",
+    "translated": "BRÅKENHIELM, Gunnar Agne, Captain, Stockholm, born in Gothenburg on October 4, 1906, son of naval house officer R Bråkenhielm and his wife, nee Lammers, married to Brita Larson. Completed lower secondary education in 1923, navigation officer's exam in 1927, ship captain's exam in 1928, reserve officer's exam in 1929, radio telegraphy exam and merchant shipping school in 1931. Intern in trade fleet from 1923 to 1926, served in various positions in trade fleet from 1931 to 1937, employed by AB Broströms Linjeagentur from 1937 to 1939, CEO of AB Karta & Oaxens Kalkbruk since 1939. Captain in the Royal Navy reserve from 1941. Secretary of the Swedish Navy Reserve Officers Association. Traveled to Australia, South and North America, and various European countries from 1923 to 1927, and from 1931 to 1937 to India and Mediterranean countries. Hobby: Outdoor life.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Gunnar Agne Bråkenhielm",
+        "jobTitle": "Captain",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Gothenburg"
+        },
+        "birthDate": "1906-10-04",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "R Bråkenhielm",
+                "jobTitle": "Naval House Officer"
+            },
+            {
+                "@type": "Person",
+                "name": "Lammers"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Brita Larson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "lowerSecondaryEducation",
+                "dateEarned": "1923"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "navigationOfficerExam",
+                "dateEarned": "1927"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "shipCaptainExam",
+                "dateEarned": "1928"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "reserveOfficerExam",
+                "dateEarned": "1929"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "radioTelegraphyExam",
+                "dateEarned": "1931"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "merchantShippingSchool",
+                "dateEarned": "1931"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1923",
+                "endDate": "1926",
+                "roleName": "Intern",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Trade Fleet"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1931",
+                "endDate": "1937",
+                "roleName": "Various Positions",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Trade Fleet"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1937",
+                "endDate": "1939",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Broströms Linjeagentur"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1939",
+                "roleName": "CEO",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Karta & Oaxens Kalkbruk"
+                }
+            }
+        ],
+        "honorificSuffix": "Capt",
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Swedish Navy Reserve Officers Association"
+        },
+        "hobbies": "Outdoor life",
+        "hasOccupation": {
+            "@type": "Occupation",
+            "name": "Captain"
+        },
+        "hasTravelExperience": [
+            {
+                "@type": "TravelAction",
+                "fromLocation": {
+                    "@type": "Place",
+                    "name": "Sweden"
+                },
+                "toLocation": {
+                    "@type": "Place",
+                    "name": "Australia"
+                },
+                "startDate": "1923",
+                "endDate": "1927"
+            },
+            {
+                "@type": "TravelAction",
+                "fromLocation": {
+                    "@type": "Place",
+                    "name": "Sweden"
+                },
+                "toLocation": {
+                    "@type": "Place",
+                    "name": "South America"
+                },
+                "startDate": "1923",
+                "endDate": "1927"
+            },
+            {
+                "@type": "TravelAction",
+                "fromLocation": {
+                    "@type": "Place",
+                    "name": "Sweden"
+                },
+                "toLocation": {
+                    "@type": "Place",
+                    "name": "North America"
+                },
+                "startDate": "1923",
+                "endDate": "1927"
+            },
+            {
+                "@type": "TravelAction",
+                "fromLocation": {
+                    "@type": "Place",
+                    "name": "Sweden"
+                },
+                "toLocation": {
+                    "@type": "Place",
+                    "name": "India"
+                },
+                "startDate": "1931",
+                "endDate": "1937"
+            },
+            {
+                "@type": "TravelAction",
+                "fromLocation": {
+                    "@type": "Place",
+                    "name": "Sweden"
+                },
+                "toLocation": {
+                    "@type": "Place",
+                    "name": "Mediterranean countries"
+                },
+                "startDate": "1931",
+                "endDate": "1937"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Praktikant",
+                "workplace": "Trade Fleet",
+                "industry": "Shipping",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Befäl i öl befattn",
+                "workplace": "Trade Fleet",
+                "industry": "Shipping",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Tjm",
+                "workplace": "AB Broströms Linjeagentur",
+                "industry": "Shipping",
+                "start_date": "1937"
+            },
+            {
+                "occupational_title": "Rederichef",
+                "workplace": "AB Karta & Oaxens Kalkbruk",
+                "industry": "Mining",
+                "start_date": "1939"
+            },
+            {
+                "occupational_title": "Kapt",
+                "workplace": "Royal Navy",
+                "industry": "Military",
+                "start_date": "1941"
+            }
+        ]
+    }
+}

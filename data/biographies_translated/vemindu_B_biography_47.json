@@ -1,0 +1,110 @@
+{
+    "original": "BENDZ, Tage Albert, Disponent, Eskilstuna, f Sthlm 25/8 09 av kapt Tore H B o Inez M Öberg, gm Gertrud Dorotea Axberg. Studex 28, fil.kand. 32, DHS 34. Anst v Esselte 34, h AB J O Öberg &amp; Son sed. 34, disp 42. Styr.led i Sv bokbind.id:s arb.giv.förbund. Rotary.",
+    "translated": "BENDZ, Tage Albert, Manager, Eskilstuna, b. Stockholm 25/8 09, son of Captain Tore H B and Inez M Öberg, m. Gertrud Dorotea Axberg. Graduated 28, Bachelor of Arts 32, Diploma in Higher Studies 34. Employed at Esselte from 34, then at J O Öberg & Son since 34, promoted to Manager in 42. Board member of the Swedish Bookbinding Employers' Association. Rotary member.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Tage Albert Bendz",
+        "jobTitle": "Manager",
+        "birthDate": "1909-08-25",
+        "birthPlace": "Stockholm",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Tore H B Bendz",
+                "jobTitle": "Captain"
+            },
+            {
+                "@type": "Person",
+                "name": "Inez M Öberg"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Gertrud Dorotea Axberg"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "diploma",
+                "credentialOffered": {
+                    "@type": "Diploma",
+                    "name": "Diploma in Higher Studies",
+                    "dateIssued": "1934"
+                },
+                "awardedBy": {
+                    "@type": "Organization",
+                    "name": "Name of Educational Institution"
+                }
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "degree",
+                "credentialOffered": {
+                    "@type": "Degree",
+                    "name": "Bachelor of Arts",
+                    "dateIssued": "1932"
+                },
+                "awardedBy": {
+                    "@type": "Organization",
+                    "name": "Name of Educational Institution"
+                }
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "exam",
+                "credentialOffered": {
+                    "@type": "Exam",
+                    "name": "Studex",
+                    "dateIssued": "1928"
+                },
+                "awardedBy": {
+                    "@type": "Organization",
+                    "name": "Name of Educational Institution"
+                }
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Esselte",
+                "startDate": "1934"
+            },
+            {
+                "@type": "Organization",
+                "name": "J O Öberg & Son",
+                "startDate": "1934",
+                "jobTitle": "Manager",
+                "endDate": "1942"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Bookbinding Employers' Association",
+                "roleName": "Board member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Rotary",
+                "roleName": "Member"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Manager",
+                "workplace": "Esselte",
+                "industry": "Unknown",
+                "start_date": 1934
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "J O Öberg & Son",
+                "industry": "Unknown",
+                "start_date": 1934
+            }
+        ]
+    }
+}

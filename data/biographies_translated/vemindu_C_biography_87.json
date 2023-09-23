@@ -1,0 +1,135 @@
+{
+    "original": "CARR, Gustav Georg Gunnar, överingenjör, Mariestad, f Fröskog, Älvsb län, 27/4 96 av fd övering C A G C o Gertrud Dittrich, gm Elsa Nilsson. Civ.ing KTH 19, stud v Grossherzogl Techn Hochschule (papperstekn), Darmstadt. Drifting Katrinefors AB 23—36, övering sed. 37. Stdsflm, kyrkoflrn, ordf brandstyr o styr f Mariest yrkessk mm. Studieres Tyskl 22, Engl 23. Sv Istfrns, Skarab Istfrbs, Skarab skyt.frbs o Mariest skyt.gilles ftJM.",
+    "translated": "CARR, Gustav Georg Gunnar, Chief Engineer, Mariestad, from Fröskog, Älvsborg county, born on April 27, 1896, son of former Chief Engineer C.A.G.C and Gertrud Dittrich, married to Elsa Nilsson. Graduate Engineer from the Royal Institute of Technology in 1919, studied at the Grand Ducal Technical University (paper technology) in Darmstadt. Worked at Katrinefors AB from 1923 to 1936, promoted to Chief Engineer in 1937. Active member of the local cinema and church community, serving as chairman of the fire brigade and the board of Mariestad vocational school, and more. Studied German in 1922 and English in 1923. Member of the Swedish Engineers Association, the Skaraborg Historical Society, the Skaraborg Shooting Association, and the Mariestad Shooting Guild, among others.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Gustav Georg Gunnar Carr",
+        "jobTitle": "Chief Engineer",
+        "birthDate": "1896-04-27",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Fröskog"
+        },
+        "nationality": "Swedish",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Mariestad",
+            "addressRegion": "Älvsborg",
+            "addressCountry": "Sweden"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "C.A.G.C"
+            },
+            {
+                "@type": "Person",
+                "name": "Gertrud Dittrich"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Elsa Nilsson"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Civ.ing",
+            "educationalLevel": "Graduate Engineer",
+            "educationalRole": "Engineer",
+            "educationalCredentialAwarded": "KTH",
+            "startDate": "1919"
+        },
+        "additionalName": [
+            "Gustav",
+            "Georg",
+            "Gunnar"
+        ],
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Chief Engineer",
+                "startDate": "1923",
+                "endDate": "1936",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Katrinefors AB"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Chief Engineer",
+                "startDate": "1937",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Katrinefors AB"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Engineers Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Skaraborg Historical Society"
+            },
+            {
+                "@type": "Organization",
+                "name": "Skaraborg Shooting Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Mariestad Shooting Guild"
+            }
+        ],
+        "activity": [
+            {
+                "@type": "OrganizeAction",
+                "name": "chairman of the fire brigade",
+                "startDate": ""
+            },
+            {
+                "@type": "OrganizeAction",
+                "name": "chairman of the board of Mariestad vocational school"
+            },
+            {
+                "@type": "OrganizeAction",
+                "name": "active member of the local cinema and church community"
+            }
+        ],
+        "knowsLanguage": [
+            {
+                "@type": "Language",
+                "name": "German"
+            },
+            {
+                "@type": "Language",
+                "name": "English"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Graduate Engineer",
+                "workplace": "Royal Institute of Technology",
+                "industry": "Education",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Chief Engineer",
+                "workplace": "Katrinefors AB",
+                "industry": "Manufacturing",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Chief Engineer",
+                "workplace": "Katrinefors AB",
+                "industry": "Manufacturing",
+                "start_date": "1937"
+            }
+        ]
+    }
+}

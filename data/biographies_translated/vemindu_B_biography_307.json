@@ -1,0 +1,174 @@
+{
+    "original": "BLUME, Lärs-Gunnar Ingemar, Kamrer, Äppelviken, f Sthlm 16/3 15 av dir L W B o Anna Högberg, gm Margit Ahlbin. Nya Elem.-sk Sthlm, Sthlms Hdlsgymn (Schart) avg.ex 34, resoffex Flykv, Ijnt där 43. Anst Luth &amp; Roséns El AB Sthlm 36—38, AB SveaexportSthlm 38—41 samt. tf kont.ch AB Exp Trade Sthlm 39—40. Kamr Sv Järn- o Metallmanuf.-frn sed. 41. Ag villafastgh Nyängsv 5, Äppelv. Resor: Schweiz o Tyskl 32, Engl 33, Span 36, Finl, Estl, Lettl o Litauen 39, 40. Kort aff.res i Frankr, Belg, Danm o Norge. Hobby: Hemmet med barn, blomma o blommor.",
+    "translated": "BLUME, Lars-Gunnar Ingemar, Accountant, Äppelviken, born in Stockholm on March 16th, 1915, to director L.W.B. and Anna Högberg, married to Margit Ahlbin. Attended elementary school in Stockholm, graduated from Stockholm Commercial High School (Schart) in 1934, commissioned officer in the Air Wing, served there from 1943. Employed at Luth & Rosén's Electrical Company in Stockholm from 1936 to 1938, AB Sveaexport in Stockholm from 1938 to 1941, and temporarily as a sales representative for AB Exp Trade in Stockholm from 1939 to 1940. Became an accountant for the Swedish Iron and Metal Manufacturing Company in 1941. Resided in a villa at Nyängsvägen 5, Äppelviken. Traveled to Switzerland and Germany in 1932, England in 1933, Finland, Estonia, Latvia, and Lithuania in 1939 and 1940. Also made short business trips to France, Belgium, Denmark, and Norway. Hobby: Family, flowers, and gardening.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "givenName": "Lärs-Gunnar",
+        "familyName": "Blume",
+        "birthDate": "1915-03-16",
+        "birthPlace": "Stockholm",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Äppelviken"
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "L.W.B."
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Högberg"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Margit Ahlbin"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Nya Elementar-skolan",
+                "location": "Stockholm"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Stockholm Commercial High School (Schart)",
+                "location": "Stockholm",
+                "endDate": "1934"
+            }
+        ],
+        "occupation": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Accountant",
+                "startDate": "1936",
+                "endDate": "1938",
+                "namedPosition": {
+                    "@type": "Organization",
+                    "name": "Luth & Rosén's Electrical Company"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Accountant",
+                "startDate": "1938",
+                "endDate": "1941",
+                "namedPosition": {
+                    "@type": "Organization",
+                    "name": "AB Sveaexport"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Sales Representative",
+                "startDate": "1939",
+                "endDate": "1940",
+                "namedPosition": {
+                    "@type": "Organization",
+                    "name": "AB Exp Trade"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Accountant",
+                "startDate": "1941",
+                "namedPosition": {
+                    "@type": "Organization",
+                    "name": "Swedish Iron and Metal Manufacturing Company"
+                }
+            }
+        ],
+        "residence": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Nyängsvägen 5",
+                "addressLocality": "Äppelviken"
+            }
+        },
+        "travelHistory": [
+            {
+                "@type": "Place",
+                "name": "Switzerland",
+                "startDate": "1932"
+            },
+            {
+                "@type": "Place",
+                "name": "Germany",
+                "startDate": "1932"
+            },
+            {
+                "@type": "Place",
+                "name": "England",
+                "startDate": "1933"
+            },
+            {
+                "@type": "Place",
+                "name": "Finland",
+                "startDate": "1939"
+            },
+            {
+                "@type": "Place",
+                "name": "Estonia",
+                "startDate": "1939"
+            },
+            {
+                "@type": "Place",
+                "name": "Latvia",
+                "startDate": "1939"
+            },
+            {
+                "@type": "Place",
+                "name": "Lithuania",
+                "startDate": "1939"
+            },
+            {
+                "@type": "Place",
+                "name": "France"
+            },
+            {
+                "@type": "Place",
+                "name": "Belgium"
+            },
+            {
+                "@type": "Place",
+                "name": "Denmark"
+            },
+            {
+                "@type": "Place",
+                "name": "Norway"
+            }
+        ],
+        "hobby": "Family, flowers, and gardening"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Accountant",
+                "workplace": "Luth & Rosén's Electrical Company",
+                "industry": "Electrical",
+                "start_date": "1936"
+            },
+            {
+                "occupational_title": "Accountant",
+                "workplace": "AB Sveaexport",
+                "industry": "Export",
+                "start_date": "1938"
+            },
+            {
+                "occupational_title": "Sales Representative",
+                "workplace": "AB Exp Trade",
+                "industry": "Trade",
+                "start_date": "1939"
+            },
+            {
+                "occupational_title": "Accountant",
+                "workplace": "Swedish Iron and Metal Manufacturing Company",
+                "industry": "Manufacturing",
+                "start_date": "1941"
+            }
+        ]
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "original": "B^RTELS, se BERT . . . °BÄHRNER, B Viktor, Ingenjör, Malmö, f Sthlm 12/6 97 av byggmäst C J Petterson o Emma Olsdtr, gm Ellen Florin. Kungsholms lärov, spec.stud KTH 19—22, ord stud 22—23. Anst Stat provn.anstis byggn.tekn avd 22—26, Cementa, Malmö, 26—31, AB Sk Cementgjute-riet 31—32, ch Sv Cementfrns Malmökont fr 32. Av trycket: Ett flert art betr cement o betong i facktidskr. Led Sv Tekn.frn.",
+    "translated": "B^RTELS, see BERT . . . °BÄHRNER, B Viktor, Engineer, Malmö, born in Stockholm on June 12, 1897, son of contractor C J Petterson and Emma Olsdtr, married to Ellen Florin. Educated at Kungsholms läroverk, specialized studies at KTH from 1919 to 1922, regular studies from 1922 to 1923. Employed at Statens provningsanstalt (State Testing Institute) building technology department from 1922 to 1926, Cementa, Malmö, from 1926 to 1931, AB Sk Cementgjuteriet from 1931 to 1932, head of the Swedish Cement Association's Malmö office from 1932. Published several articles on cement and concrete in professional journals. Member of the Swedish Society of Engineers.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "B Viktor Bährner",
+        "jobTitle": "Engineer",
+        "birthDate": "1897-06-12",
+        "birthPlace": "Stockholm",
+        "familyName": "Bährner",
+        "givenName": "B Viktor",
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Swedish Society of Engineers"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Kungsholms läroverk"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "KTH"
+            }
+        ],
+        "specialty": "Cement and Concrete",
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Statens provningsanstalt"
+            },
+            {
+                "@type": "Organization",
+                "name": "Cementa"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Sk Cementgjuteriet"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Cement Association"
+            }
+        ],
+        "workLocation": {
+            "@type": "Place",
+            "name": "Malmö"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "C J Petterson",
+                "jobTitle": "Contractor"
+            },
+            {
+                "@type": "Person",
+                "name": "Emma Olsdtr"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ellen Florin"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Statens provningsanstalt",
+                "industry": "Building technology",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Cementa",
+                "industry": "Cement industry",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "AB Sk Cementgjuteriet",
+                "industry": "Cement industry",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Head of Swedish Cement Association's Malmö office",
+                "workplace": "Swedish Cement Association",
+                "industry": "Cement industry",
+                "start_date": "1932"
+            }
+        ]
+    }
+}

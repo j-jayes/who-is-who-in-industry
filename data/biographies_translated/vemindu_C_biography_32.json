@@ -1,0 +1,67 @@
+{
+    "original": "CARLSON, John Axelin, Kamrer, Skövde, f Gbg 22/3 04 av Jolin Hjalmar C o Anna Samuelsson, gm Margit Hallberg. H folksk, Remingtoninst, Gbgs hdlsinsts kvällsk, Hermods. Anst Sydsv bkn Gbg 19—25, Skövde gasbetong AB sed. 25.",
+    "translated": "CARLSON, John Axelin, Accountant, Skövde, born in Gothenburg on March 22nd, 1904 to Jolin Hjalmar C and Anna Samuelsson. Married to Margit Hallberg. Completed primary school education, Remington Institute, Gothenburg Commercial Institute evening school, and Hermods. Employed at South Sweden Bank in Gothenburg from 1919 to 1925, and at Skövde Gas Concrete AB since 1925.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "John Axelin Carlson",
+        "jobTitle": "Accountant",
+        "birthDate": "1904-03-22",
+        "birthPlace": "Gothenburg",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Skövde"
+            }
+        ],
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Jolin Hjalmar C Carlson"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Samuelsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Margit Hallberg"
+        },
+        "education": [
+            "Primary school",
+            "Remington Institute",
+            "Gothenburg Commercial Institute evening school",
+            "Hermods"
+        ],
+        "employment": [
+            {
+                "@type": "Organization",
+                "name": "South Sweden Bank",
+                "startDate": "1919",
+                "endDate": "1925"
+            },
+            {
+                "@type": "Organization",
+                "name": "Skövde Gas Concrete AB",
+                "startDate": "1925"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Accountant",
+                "workplace": "South Sweden Bank",
+                "industry": "Banking",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Accountant",
+                "workplace": "Skövde Gas Concrete AB",
+                "industry": "Construction",
+                "start_date": "1925"
+            }
+        ]
+    }
+}

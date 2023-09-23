@@ -1,0 +1,133 @@
+{
+    "original": "BOTHORP, Carl Anders, Kamrer, Dande-ryd, f 21/7 03 av åkeriäg C Johansson o Albertina Andersson, gm Elna Enberg. Studex å reallinjen, allm aff.utbildn v Akron Business Univ, Akron, Ohio, stud rev. tekn o aff.-org v La Salle Univ, Chicago. Div anställn USA 25—26, bokf Stock Yards Distr Agency of American Railways Chicago 26 — 27, anst AB Hakon Swensons kont Krist 27, bokf Ackum.fabr AB Tudor Sthlm 27, kamr där sed. 32. Styr.led Sv Torrelement AB Sthlm. Resor: USA 24—27, Finl, Tyskl o Österr uppr ggr 30 — 43. Medl Par Bricole. Hobbies: eng, tysk o skand skönlitt på orig.språk, pistolskytte.",
+    "translated": "BOTHORP, Carl Anders, Clerk, Dande-ryd, b. July 21, 1903, son of farming owner C Johansson and Albertina Andersson, married to Elna Enberg. Completed studies in the real line, general business education at Akron Business University, Akron, Ohio, studied revenue technique and business organization at La Salle University, Chicago. Various employment in the USA from 1925-1926, bookkeeping at Stock Yards District Agency of American Railways, Chicago from 1926-1927, employed at AB Hakon Swensons' office in Kristianstad from 1927, bookkeeping at Accumulating Factory AB Tudor Stockholm from 1927, clerk there since 1932. Board member of Swedish Tower Elements AB, Stockholm. Travelled to the USA from 1924-1927, Finland, Germany, and Austria frequently from 1930-1943. Member of Par Bricole. Hobbies include reading English, German, and Scandinavian fiction in the original language, and pistol shooting. Note: \"m. partner's name\" indicates marriage in the year 19xx.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Anders Bothorp",
+        "birthDate": "1903-07-21",
+        "description": "Clerk at Dande-ryd",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "C Johansson"
+            },
+            {
+                "@type": "Person",
+                "name": "Albertina Andersson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Elna Enberg"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Akron Business University",
+                "location": "Akron, Ohio"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "La Salle University",
+                "location": "Chicago"
+            }
+        ],
+        "occupation": "Clerk",
+        "employment": [
+            {
+                "@type": "Organization",
+                "name": "Stock Yards District Agency of American Railways",
+                "location": "Chicago",
+                "startDate": "1926-01-01",
+                "endDate": "1927-12-31",
+                "jobTitle": "Bookkeeper"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Hakon Swensons' office",
+                "location": "Kristianstad",
+                "startDate": "1927-01-01",
+                "endDate": null,
+                "jobTitle": "Employee"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Tudor",
+                "location": "Stockholm",
+                "startDate": "1927-01-01",
+                "endDate": null,
+                "jobTitle": "Bookkeeper"
+            }
+        ],
+        "membership": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Tower Elements AB",
+                "location": "Stockholm"
+            },
+            {
+                "@type": "Organization",
+                "name": "Par Bricole"
+            }
+        ],
+        "hobbies": [
+            "Reading English, German, and Scandinavian fiction",
+            "Pistol shooting"
+        ],
+        "travelHistory": [
+            {
+                "@type": "Place",
+                "name": "USA",
+                "startDate": "1924-01-01",
+                "endDate": "1927-12-31"
+            },
+            {
+                "@type": "Place",
+                "name": "Finland",
+                "startDate": "1930-01-01",
+                "endDate": "1943-12-31"
+            },
+            {
+                "@type": "Place",
+                "name": "Germany",
+                "startDate": "1930-01-01",
+                "endDate": "1943-12-31"
+            },
+            {
+                "@type": "Place",
+                "name": "Austria",
+                "startDate": "1930-01-01",
+                "endDate": "1943-12-31"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Clerk",
+                "workplace": "Stock Yards District Agency of American Railways",
+                "industry": "Transportation",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Office Employee",
+                "workplace": "AB Hakon Swensons' office",
+                "industry": "Business Services",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Bookkeeper",
+                "workplace": "AB Tudor",
+                "industry": "Manufacturing",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Clerk",
+                "workplace": "AB Tudor",
+                "industry": "Manufacturing",
+                "start_date": "1932"
+            }
+        ]
+    }
+}

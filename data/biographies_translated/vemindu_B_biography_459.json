@@ -1,0 +1,38 @@
+{
+    "original": "BYTTNER, John Harry A:son, Ingenjör, Göteborg, f Borås 5/6 87. Ag fma John A:son Byttner, agent.aff i textilbransch, Gbg, o fastigh L :a Klädpressargat 4 Gbg.",
+    "translated": "BYTTNER, John Harry A:son, Engineer, Gothenburg, born in Borås on May 6, 1887. Son of John A:son Byttner, agent in the textile industry in Gothenburg, and his wife. Residence at Klädpressargatan 4, Gothenburg.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "John Harry A:son Byttner",
+        "birthDate": "1887-05-06",
+        "birthPlace": "Borås",
+        "jobTitle": "Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Gothenburg",
+            "streetAddress": "Klädpressargatan 4"
+        },
+        "parent": {
+            "@type": "Person",
+            "name": "John A:son Byttner",
+            "jobTitle": "Agent in the textile industry"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Gothenburg",
+                "industry": "Unknown",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Agent",
+                "workplace": "Gothenburg",
+                "industry": "Textile",
+                "start_date": null
+            }
+        ]
+    }
+}

@@ -1,0 +1,125 @@
+{
+    "original": "BURMAN, Johan Elov, Bankdirektör, Jönköping, f Sundsvall 29/4 91 av fabrikör J B 0 Brita Högbom, gm Agnes Sångberg. Studex Sundsv 08, kommers utbildn i Engl, Tyskl o Frankr 08—11. Anst AB Sundsv hdlsbk 11—14, Sydsv kreditAB 14—22, AB Sydsv bkns, num. Sk bkns, avd.kont Jkpg 22, dir o styr.led sed. 31, ag Älghyttans kolugn, Ormaryd, styr.ordf 1 AB Hapeco, Malmö, v. styr.ordf i Jkpgs ork.fören. Hobby: Musik.",
+    "translated": "BURMAN, Johan Elov, Bank Director, Jönköping, born Sundsvall 29/4 1891 to factory owner J.B. and Brita Högbom, married to Agnes Sångberg. Studied in Sundsvall in 1908, completed commercial education in England, Germany, and France from 1908-1911. Employed at AB Sundsvall Commercial Bank from 1911-1914, South Sweden Credit AB from 1914-1922, AB South Sweden Bank, current branch manager in Jönköping from 1922, director and board member since 1931. Also affiliated with Älghyttans coke oven and Ormaryd, chairman of the board at AB Hapeco, Malmö, and vice chairman of the board at Jönköping's Power Company. Hobby: Music.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Johan Elov Burman",
+        "birthDate": "1891-04-29",
+        "birthPlace": "Sundsvall",
+        "nationality": "Swedish",
+        "spouse": {
+            "@type": "Person",
+            "name": "Agnes Sångberg"
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "J.B. Burman",
+                "jobTitle": "Factory Owner"
+            },
+            {
+                "@type": "Person",
+                "name": "Brita Högbom"
+            }
+        ],
+        "jobTitle": "Bank Director",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "AB Sundsvall Commercial Bank",
+                "startDate": "1911",
+                "endDate": "1914"
+            },
+            {
+                "@type": "Organization",
+                "name": "South Sweden Credit AB",
+                "startDate": "1914",
+                "endDate": "1922"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB South Sweden Bank",
+                "startDate": "1922",
+                "jobTitle": "Branch Manager"
+            },
+            {
+                "@type": "Organization",
+                "name": "Älghyttans",
+                "jobTitle": "Coke Oven"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Hapeco",
+                "jobTitle": "Chairman of the Board"
+            },
+            {
+                "@type": "Organization",
+                "name": "Jönköping's Power Company",
+                "jobTitle": "Vice Chairman of the Board"
+            }
+        ],
+        "hobby": "Music",
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Sundsvall",
+                "startDate": "1908"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "England"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Germany"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "France",
+                "startDate": "1908",
+                "endDate": "1911"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Bank Director",
+                "workplace": "AB Sydsvenska Bankens avdelningskontor Jönköping",
+                "industry": "Banking",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Director and Board Member",
+                "workplace": "AB Sydsvenska Bankens avdelningskontor Jönköping",
+                "industry": "Banking",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Chairman of the Board",
+                "workplace": "AB Hapeco",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Vice Chairman of the Board",
+                "workplace": "Jönköping's Power Company",
+                "industry": "Energy",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "AB Sundsvalls Handelsbank",
+                "industry": "Banking",
+                "start_date": "1911"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Sydsvenska Kredit AB",
+                "industry": "Banking",
+                "start_date": "1914"
+            }
+        ]
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "original": "BLOM, Gideon Emanuel, Direktör, Norrköping, f Börstil, Sthlms l, 22/12 95 av godsäg A B o Olivia Persson, gm Dagmar Alexandersson. Lantbr- o hdlsutb. Förv å ö Kungsladugården, Nyköp, 22—24, tjm h Sörml lantm centr.fören, Nyköp, 25—31, dir o sekr h östg lantm centr.fören, Norrköp, sed. 32, lantbr.-omb i Hushålln.sällsk. Resor i de nord länd. Mannerh.med; Rotary, Odd Fellow.",
+    "translated": "BLOM, Gideon Emanuel, Director, Norrköping, born in Börstil, Stockholm County, on December 22nd, 1895, eldest son of estate owner A B and Olivia Persson, married to Dagmar Alexandersson. Agricultural and business education. Administrator at Kungsladugården, Nyköping from 1922 to 1924, employee at the Sörmland Agricultural Central Association, Nyköping from 1925 to 1931, director and secretary at the Östergötland Agricultural Central Association, Norrköping since 1932. Agricultural representative in the Food Society. Traveled extensively in the Nordic countries. Member of Mannerheim's League; Rotary, Odd Fellow.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Gideon Emanuel Blom",
+        "jobTitle": "Director",
+        "birthDate": "1895-12-22",
+        "birthPlace": {
+            "@type": "Place",
+            "address": "Börstil, Stockholm County"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "A B",
+                "jobTitle": "Estate Owner"
+            },
+            {
+                "@type": "Person",
+                "name": "Olivia Persson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Dagmar Alexandersson"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Agricultural and Business Education"
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Kungsladugården",
+            "address": "Nyköping",
+            "employmentType": "Administrator",
+            "startDate": "1922",
+            "endDate": "1924"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Sörmland Agricultural Central Association",
+                "address": "Nyköping",
+                "employmentType": "Employee",
+                "startDate": "1925",
+                "endDate": "1931"
+            },
+            {
+                "@type": "Organization",
+                "name": "Östergötland Agricultural Central Association",
+                "address": "Norrköping",
+                "employmentType": "Director and Secretary",
+                "startDate": "1932"
+            }
+        ],
+        "additionalName": [
+            "Gideon"
+        ],
+        "affiliation": [
+            "Food Society",
+            "Mannerheim's League",
+            "Rotary",
+            "Odd Fellow"
+        ],
+        "description": "Agricultural representative in the Food Society. Traveled extensively in the Nordic countries."
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Administrator",
+                "workplace": "Kungsladugården",
+                "industry": "Agriculture",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Sörmland Agricultural Central Association",
+                "industry": "Agriculture",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Director and Secretary",
+                "workplace": "Östergötland Agricultural Central Association",
+                "industry": "Agriculture",
+                "start_date": "1932"
+            }
+        ]
+    }
+}

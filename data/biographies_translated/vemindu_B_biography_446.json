@@ -1,0 +1,92 @@
+{
+    "original": "BURMEISTER, Bo Henrik, Köpman, Stockholm, f Karlshamn 5/7 90 av grossh H B o h h, f Hedberg, gm Rut Persson. Studex Sthlm 08, DHS 11. Olika anst som kontorist o kont.chef 12—30. Egen verksamh under fma Bo H Burmeister Glas-, Porslins- o Bosättningsaffär, Sthlm, sed. 30. Medl av Sv Ekon.-frn o Sv:s Kontoristfrn.",
+    "translated": "BURMEISTER, Bo Henrik, Merchant, Stockholm, b. Karlshamn July 5, 1890, son of wholesale merchant H.B.O.H. Burmeister and Hedberg, m. Rut Persson. Studied in Stockholm 1908, graduated from DHS in 1911. Held various positions as clerk and office manager from 1912 to 1930. Established his own business, Bo H Burmeister Glass, Porcelain, and Home Furnishing Store, in Stockholm since 1930. Member of the Swedish Economic Association and the Swedish Office Workers' Union.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Bo Henrik Burmeister",
+        "jobTitle": "Merchant",
+        "birthPlace": "Karlshamn, Sweden",
+        "birthDate": "1890-07-05",
+        "nationality": "Swedish",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "H.B.O.H. Burmeister",
+                "jobTitle": "Wholesale Merchant"
+            },
+            {
+                "@type": "Person",
+                "name": "Hedberg"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Rut Persson"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "diploma",
+            "credentialOffered": "DHS",
+            "startDate": "1908",
+            "endDate": "1911",
+            "alumniOf": "Stockholm"
+        },
+        "workExperience": [
+            {
+                "@type": "OrganizationRole",
+                "title": "Clerk",
+                "startDate": "1912",
+                "endDate": "1930"
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Office Manager",
+                "startDate": "1912",
+                "endDate": "1930"
+            }
+        ],
+        "owns": {
+            "@type": "Organization",
+            "name": "Bo H Burmeister Glass, Porcelain, and Home Furnishing Store",
+            "foundingDate": "1930",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Stockholm",
+                "addressCountry": "Sweden"
+            }
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Economic Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Office Workers' Union"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Clerk",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "1912"
+            },
+            {
+                "occupational_title": "Office Manager",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Stockholm",
+                "industry": "Retail",
+                "start_date": "1930"
+            }
+        ]
+    }
+}

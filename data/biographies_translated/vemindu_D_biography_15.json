@@ -1,0 +1,120 @@
+{
+    "original": "DAHLBÄCK, Gustaf Carl, Disponent, Sthlm, f Sthlm 22/2 74 av skräddm G D o Anna Jansson, gm Elvira Åman. Anst AB P Herzog &amp; Söner 90, kass 98, kamrer 01, disp 09, dir 21, disp Esselte AB 33. Styr.ordf i Sv bokind försäkr.bol, Sv bokind.idk arbgivfrb, Styr.led i Sthlms bokbindmästfrn, Sv tryck-arb.giv.frb, Sv graf indfrb. RVO.",
+    "translated": "DAHLBÄCK, Gustaf Carl, Managing Director, Stockholm, b. Stockholm 22/2 1874, son of tailor G D and Anna Jansson, m. Elvira Åman. Employed at AB P Herzog & Sons in 1890, cashier in 1898, accountant in 1901, managing director in 1909, director in 1921, managing director at Esselte AB in 1933. Chairman of the Board of Directors in Swedish Book Industry Insurance Company, Swedish Book Industry Employers' Association, Board Member of Stockholm Association of Bookbinders, Swedish Printing Employers' Association and Swedish Graphic Industries Association. Holder of the Royal Order of Vasa (RVO).",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Gustaf Carl Dahlbäck",
+        "birthDate": "1874-02-22",
+        "birthPlace": "Stockholm",
+        "description": "Managing Director",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "G D Dahlbäck",
+                "jobTitle": "Tailor"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Jansson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Elvira Åman"
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "AB P Herzog & Sons",
+            "startDate": "1890",
+            "endDate": "1933"
+        },
+        "positions": [
+            {
+                "@type": "JobPosting",
+                "startDate": "1890",
+                "endDate": "1933",
+                "jobTitle": "Managing Director",
+                "hiringOrganization": {
+                    "@type": "Organization",
+                    "name": "AB P Herzog & Sons"
+                }
+            },
+            {
+                "@type": "JobPosting",
+                "startDate": "1933",
+                "endDate": null,
+                "jobTitle": "Managing Director",
+                "hiringOrganization": {
+                    "@type": "Organization",
+                    "name": "Esselte AB"
+                }
+            }
+        ],
+        "awards": [
+            {
+                "@type": "Order",
+                "name": "Royal Order of Vasa",
+                "description": "RVO"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Book Industry Insurance Company",
+                "roleName": "Chairman of the Board of Directors"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Book Industry Employers' Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Stockholm Association of Bookbinders",
+                "roleName": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Printing Employers' Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Graphic Industries Association"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Cashier",
+                "workplace": "AB P Herzog & Sons",
+                "industry": "Unknown",
+                "start_date": "1898"
+            },
+            {
+                "occupational_title": "Accountant",
+                "workplace": "AB P Herzog & Sons",
+                "industry": "Unknown",
+                "start_date": "1901"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "AB P Herzog & Sons",
+                "industry": "Unknown",
+                "start_date": "1909"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "AB P Herzog & Sons",
+                "industry": "Unknown",
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "Esselte AB",
+                "industry": "Unknown",
+                "start_date": "1933"
+            }
+        ]
+    }
+}

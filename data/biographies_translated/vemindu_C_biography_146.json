@@ -1,0 +1,108 @@
+{
+    "original": "COLLIN, Gustaf Gunnar, Advokat, Lidköping, f Skara 10/10 97 av dir G R C o Anna Odhner, gm Irma Albinson. Studex Skara 16, jur kand Upps 26. Not Vadsbo tingsl här.rätt 26—28, eg adv.byrå Lidköp sed. 29. Omb.m i Lidköp köpm.frn, ombud f Nrkp o Lidköp köpm.frn, konsult jur i Skarab läns jaktv.frn, jur omb f KAK o Motorm. riksfrb mm, led av Sv adv.samf sed. 35.",
+    "translated": "COLLIN, Gustaf Gunnar, Lawyer, Lidköping, born in Skara on 10/10 1897, son of director G.R.C and Anna Odhner, married to Irma Albinson. Studied in Skara until 1916, graduated in law from Uppsala University in 1926. Notary in Vadsbo district court from 1926 to 1928, opened own law firm in Lidköping in 1929. Representative for Lidköping merchant association, representative for Nrkp (Norrköping) and Lidköping merchant associations, legal consultant for Skaraborg County Hunting Association, legal representative for KAK (Swedish Automobile Club) and Motor Association, member of the Swedish Bar Association since 1935.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Gustaf Gunnar Collin",
+        "jobTitle": "Lawyer",
+        "birthDate": "1897-10-10",
+        "birthPlace": "Skara",
+        "spouse": "Irma Albinson",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "G.R.C"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Odhner"
+            }
+        ],
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Skara",
+            "endDate": "1916"
+        },
+        "alumniOf": {
+            "@type": "CollegeOrUniversity",
+            "name": "Uppsala University",
+            "endDate": "1926"
+        },
+        "work": [
+            {
+                "@type": "Court",
+                "name": "Vadsbo district court",
+                "startDate": "1926",
+                "endDate": "1928"
+            },
+            {
+                "@type": "LegalService",
+                "name": "Own law firm",
+                "location": "Lidköping",
+                "startDate": "1929"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Lidköping merchant association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Norrköping merchant associations"
+            },
+            {
+                "@type": "Organization",
+                "name": "Skaraborg County Hunting Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Automobile Club"
+            },
+            {
+                "@type": "Organization",
+                "name": "Motor Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Bar Association",
+                "startDate": "1935"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Lawyer",
+                "workplace": "Lidköping",
+                "industry": "Legal",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Notary",
+                "workplace": "Vadsbo district court",
+                "industry": "Legal",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Representative",
+                "workplace": "Lidköping merchant association",
+                "industry": "Commerce",
+                "start_date": "unknown"
+            },
+            {
+                "occupational_title": "Legal Consultant",
+                "workplace": "Skaraborg County Hunting Association",
+                "industry": "Hunting",
+                "start_date": "unknown"
+            },
+            {
+                "occupational_title": "Legal Representative",
+                "workplace": "KAK (Swedish Automobile Club) and Motor Association",
+                "industry": "Automobile",
+                "start_date": "unknown"
+            }
+        ]
+    }
+}

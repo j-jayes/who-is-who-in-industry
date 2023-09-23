@@ -1,0 +1,113 @@
+{
+    "original": "BEIJE, Carl Rupert, Bankdirektör, Stockholm, f Umeå 14/1 98 av banmäst P J Andersson o Brita Lindholm, gm Elsa Pettersson. Studex 17. Sthlms Hhdlsbk 17, Deutsche Bk Leipz o Midi Bk Ltd Lond 22—23, därefter prakt v öl bkr i Tyskl, Schweiz o Norge. Kamrer Sv Hhdlsbkns not.avd 29, vkst dir Gotl Bk Sthlm 41. Styr.led Gotl Bks Sthlms-kont, AB Auctor, AB Björkvallsflyg, Laxå Mek Vkst, AB Vidfamne, FastAB Tigern, Skand Aero AB, Skolungd i Sthlm skyttefrn, Henrik Granholms stift mm. Av trycket: »Konsten att placera o förv pengar», »Svenskt Banklexikon». FrimO, Par Bricole, Arla Col-din, Norrl o Västerb gillen, Sthlms Golfkl, Kevinge Curl.kl. mm.",
+    "translated": "BEIJE, Carl Rupert, Bank Director, Stockholm, born in Umeå on January 14, 1898, son of railway master P J Andersson and Brita Lindholm, married to Elsa Pettersson. Graduated in 1917. Stockholm Commercial Bank 1917, Deutsche Bank Leipzig and Midi Bank Ltd London 1922-1923, followed by internships in breweries in Germany, Switzerland, and Norway. Clerk at the Swedish Commercial Bank's note department in 1929, deputy managing director at Gotland Bank Stockholm in 1941. Board member of Gotland Bank's Stockholm branch, AB Auctor, AB Björkvallsflyg, Laxå Mechanical Works, AB Vidfamne, FastAB Tigern, Skand Aero AB. Received education at Stockholm Rifle Association, Henrik Granholm Foundation, etc. Author of \"The Art of Investing and Managing Money,\" \"Swedish Bank Lexicon.\" Member of the Philatelic Organization, Par Bricole, Arla Col-din, Norrl and Västerbotten guilds, Stockholm Golf Club, Kevinge Curling Club, and more.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Carl Rupert Beije",
+        "jobTitle": "Bank Director",
+        "birthDate": "1898-01-14",
+        "birthPlace": "Umeå",
+        "father": "P J Andersson",
+        "mother": "Brita Lindholm",
+        "spouse": "Elsa Pettersson",
+        "education": [
+            {
+                "@type": "EducationEvent",
+                "institution": "Stockholm Commercial Bank",
+                "startDate": "1917"
+            },
+            {
+                "@type": "EducationEvent",
+                "institution": "Deutsche Bank Leipzig",
+                "startDate": "1922",
+                "endDate": "1923"
+            },
+            {
+                "@type": "EducationEvent",
+                "institution": "Midi Bank Ltd London",
+                "startDate": "1922",
+                "endDate": "1923"
+            }
+        ],
+        "workExperience": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Clerk",
+                "startDate": "1929",
+                "endDate": "1929",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Swedish Commercial Bank's note department"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Deputy Managing Director",
+                "startDate": "1941",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Gotland Bank Stockholm"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Stockholm Rifle Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Henrik Granholm Foundation"
+            }
+        ],
+        "additionalName": [
+            "Konsten att placera o förv pengar",
+            "Svenskt Banklexikon"
+        ],
+        "affiliation": [
+            {
+                "@type": "SportsOrganization",
+                "name": "Stockholm Golf Club"
+            },
+            {
+                "@type": "SportsOrganization",
+                "name": "Kevinge Curling Club"
+            }
+        ],
+        "sameAs": [
+            "FrimO",
+            "Par Bricole",
+            "Arla Col-din",
+            "Norrl o Västerb gillen"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Bank Director",
+                "workplace": "Stockholm",
+                "industry": "Banking",
+                "start_date": "1941"
+            },
+            {
+                "occupational_title": "Clerk",
+                "workplace": "Swedish Commercial Bank",
+                "industry": "Banking",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Intern",
+                "workplace": "Breweries in Germany, Switzerland, and Norway",
+                "industry": "Brewing",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Studex",
+                "workplace": "",
+                "industry": "",
+                "start_date": "1917"
+            }
+        ]
+    }
+}

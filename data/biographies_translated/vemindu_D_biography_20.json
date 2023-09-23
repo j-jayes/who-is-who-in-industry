@@ -1,0 +1,127 @@
+{
+    "original": "DAHLERUS, Jan Erland, Kamrer, Lidingö, f Ldgö 25/5 07 av bergsing C G D o Hedvig Stjernstedt, gm Anne Perrochet. DHS 31, resoffex 31, kapt Ing.trs res. Orgch i fma James Howden &amp; Co Glasgow 32—33, kont.ch Socié-té Bolinders Paris 33—37, d:o AB Harald Löfberg Sthlm 37—40, kamrer h Tornborg &amp; Lundberg AB Sthlm sed. 40. Resor: Engl 27, 32—33, Tyskl o Ital 31, Frankr 33—37, Schweiz 34.",
+    "translated": "DAHLERUS, Jan Erland, Accountant, Lidingö, born in Lidingö on May 25, 1907, to mining engineer C G D and Hedvig Stjernstedt, married to Anne Perrochet. Graduated from DHS in 1931, served as a reservist officer in 1931, promoted to captain of engineering troops. Employed as an organizing chief in James Howden & Co Glasgow from 1932-1933, accounting clerk in Société Bolinders Paris from 1933-1937, accounting clerk in AB Harald Löfberg Stockholm from 1937-1940, and currently works as an accountant in Tornborg & Lundberg AB Stockholm since 1940. Traveled to England in 1927 and 1932-1933, Germany and Italy in 1931, France from 1933-1937, and Switzerland in 1934.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Jan Erland",
+        "familyName": "Dahlerus",
+        "birthDate": "1907-05-25",
+        "birthPlace": "Lidingö",
+        "description": "Accountant",
+        "nationality": "Swedish",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "C G D",
+                "jobTitle": "Mining Engineer"
+            },
+            {
+                "@type": "Person",
+                "name": "Hedvig Stjernstedt"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Anne Perrochet"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Certificate",
+            "credentialEarned": "DHS",
+            "dateEarned": "1931"
+        },
+        "occupation": {
+            "@type": "OrganizationRole",
+            "startDate": "1940",
+            "roleName": "Accountant",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Tornborg & Lundberg AB"
+            }
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "James Howden & Co Glasgow",
+                "startDate": "1932",
+                "endDate": "1933"
+            },
+            {
+                "@type": "Organization",
+                "name": "Société Bolinders Paris",
+                "startDate": "1933",
+                "endDate": "1937"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Harald Löfberg Stockholm",
+                "startDate": "1937",
+                "endDate": "1940"
+            }
+        ],
+        "residence": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Lidingö"
+            }
+        },
+        "travelHistory": [
+            {
+                "@type": "Place",
+                "name": "England",
+                "startDate": "1927"
+            },
+            {
+                "@type": "Place",
+                "name": "Germany",
+                "startDate": "1931"
+            },
+            {
+                "@type": "Place",
+                "name": "Italy",
+                "startDate": "1931"
+            },
+            {
+                "@type": "Place",
+                "name": "France",
+                "startDate": "1933",
+                "endDate": "1937"
+            },
+            {
+                "@type": "Place",
+                "name": "Switzerland",
+                "startDate": "1934"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Accountant",
+                "workplace": "James Howden & Co",
+                "industry": "Engineering",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Accounting Clerk",
+                "workplace": "Société Bolinders",
+                "industry": "Engineering",
+                "start_date": "1933"
+            },
+            {
+                "occupational_title": "Accounting Clerk",
+                "workplace": "AB Harald Löfberg",
+                "industry": "Accounting",
+                "start_date": "1937"
+            },
+            {
+                "occupational_title": "Accountant",
+                "workplace": "Tornborg & Lundberg AB",
+                "industry": "Accounting",
+                "start_date": "1940"
+            }
+        ]
+    }
+}

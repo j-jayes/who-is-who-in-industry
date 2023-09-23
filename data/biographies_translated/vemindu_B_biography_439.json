@@ -1,0 +1,138 @@
+{
+    "original": "BRÄNNSTRÖM, Per Gustaf Lennart, Bergsingenjör, Skelleftehanm, f Luleå 4/9 00 av distr.lantmät L K B o Hilma Brändström, gm Kerstin Carlsson. Studex Luleå 18, KTH (bergs) 25. Ing v kem laborat h Sandvikens Järnverks AB 25—26, driftsing Reymersholms Gamla Ind AB :s kopparvk Hälsingborg 26— 30, avd.ch kopparvkt Bolidens Gruv AB Skelleftehanm 30—41, övering där sed. 42. Sekr Vbottens Tekn frn. Stud.res Tyskl 34, USA 36.",
+    "translated": "BRÄNNSTRÖM, Per Gustaf Lennart, Mining Engineer, Skelleftehanm, b. Luleå 4/9 00 to District Surveyor L.K.B. and Hilma Brändström, m. Kerstin Carlsson. Graduate of Luleå 18, KTH (mining) 25. Eng. v. chem. laboratory at Sandvikens Järnverks AB 25-26, Chief Technician at Reymersholms Gamla Ind AB's copper works in Hälsingborg 26-30, department chief of the copper works division at Boliden Mining AB in Skelleftehanm 30-41, promoted to Chief Engineer there in 42. Secretary of Vbottens Tekn frn. Stud. trips to Germany in 34, USA in 36.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Per Gustaf Lennart Brännström",
+        "birthDate": "1900-09-04",
+        "birthPlace": "Luleå",
+        "father": {
+            "@type": "Person",
+            "name": "District Surveyor L.K.B."
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Hilma Brändström"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Kerstin Carlsson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "Studex Luleå",
+                "startDate": "1918"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "KTH (mining)",
+                "startDate": "1925"
+            }
+        ],
+        "occupation": [
+            {
+                "@type": "Occupation",
+                "name": "Mining Engineer",
+                "startDate": "1925"
+            },
+            {
+                "@type": "Occupation",
+                "name": "Chief Technician",
+                "startDate": "1926",
+                "endDate": "1930",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Reymersholms Gamla Ind AB"
+                },
+                "location": "Hälsingborg",
+                "industry": "Copper Works"
+            },
+            {
+                "@type": "Occupation",
+                "name": "Department Chief",
+                "startDate": "1930",
+                "endDate": "1941",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Boliden Mining AB"
+                },
+                "location": "Skelleftehanm",
+                "industry": "Copper Works"
+            },
+            {
+                "@type": "Occupation",
+                "name": "Chief Engineer",
+                "startDate": "1942",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Boliden Mining AB"
+                },
+                "location": "Skelleftehanm",
+                "industry": "Copper Works"
+            },
+            {
+                "@type": "OccupationalRole",
+                "name": "Secretary",
+                "startDate": "unknown",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Vbottens Tekn frn"
+                }
+            }
+        ],
+        "studyTrip": [
+            {
+                "@type": "Event",
+                "name": "Study Trip to Germany",
+                "startDate": "1934"
+            },
+            {
+                "@type": "Event",
+                "name": "Study Trip to USA",
+                "startDate": "1936"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Mining Engineer",
+                "workplace": "Skelleftehanm",
+                "industry": "",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Chemical Laboratory Engineer",
+                "workplace": "Sandvikens Järnverks AB",
+                "industry": "Ironworks",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Chief Technician",
+                "workplace": "Reymersholms Gamla Ind AB's copper works",
+                "industry": "Copper",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Department Chief of Copper Works Division",
+                "workplace": "Bolidens Gruv AB",
+                "industry": "Mining",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Chief Engineer",
+                "workplace": "Bolidens Gruv AB",
+                "industry": "Mining",
+                "start_date": "1942"
+            },
+            {
+                "occupational_title": "Secretary",
+                "workplace": "Västerbottens Tekniska Förening",
+                "industry": "",
+                "start_date": ""
+            }
+        ]
+    }
+}

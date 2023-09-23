@@ -1,0 +1,197 @@
+{
+    "original": "CALDENIUS, Adolf Fredrik, Civilingenjör, Saltsjöbaden, f 4/3 89 av köpm o lantbr J A Carlzon o Elin Falk, gm Catherine Marie Ries. Mog.ex SLatin 07, KTH 08—11, avg.ex sistn år. Offerting h Ing.fma Fritz Egnell, Sthlm, 12—13, offert- o montageing h AB Nickels &amp; Todsen, Sthlm, 13—20, därunder avd.chef f dess New York-kontor 14—16 o f dess ryska avd.kontor 17—18, exportchef h AB Pythagoras 20—28, reklamchef h J &amp; C G Bolinders Mek Verkst AB, Sthlm, 28—33, administratör v AB De Lavals Ångturbins franska dtrbol i Paris 33. Nu verksam i AB Fr Ramström, Sthlm. Led Sv Tekn.frn.",
+    "translated": "CALDENIUS, Adolf Fredrik, Engineer, Saltsjöbaden, born 4th March 1889 to merchant and farmer J. A. Carlzon and Elin Falk, married to Catherine Marie Ries. Graduated from SLatin in 1907, KTH from 1908 to 1911, completed final exams in the last year. Apprentice at engineering firm Fritz Egnell, Stockholm, from 1912 to 1913, and at AB Nickels & Todsen, Stockholm, from 1913 to 1920, including serving as division manager of their New York office from 1914 to 1916 and their Russian branch office from 1917 to 1918. Export manager at AB Pythagoras from 1920 to 1928, advertising manager at J & C G Bolinders Mek Verkst AB, Stockholm, from 1928 to 1933, administrator at subsidiary company AB De Lavals Ångturbins in Paris, France, in 1933. Currently working at AB Fr Ramström, Stockholm. Member of the Swedish Association of Technicians.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Adolf Fredrik Caldenius",
+        "birthDate": "1889-03-04",
+        "description": "Engineer",
+        "nationality": "Swedish",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Saltsjöbaden"
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "J. A. Carlzon",
+                "jobTitle": "Merchant"
+            },
+            {
+                "@type": "Person",
+                "name": "Elin Falk",
+                "jobTitle": "Farmer"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Catherine Marie Ries"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "SLatin",
+                "location": "",
+                "startDate": "1907",
+                "endDate": ""
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "KTH",
+                "location": "",
+                "startDate": "1908",
+                "endDate": "1911"
+            }
+        ],
+        "occupation": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Apprentice",
+                "startDate": "1912",
+                "endDate": "1913",
+                "namedPosition": "Engineer",
+                "worksFor": {
+                    "@type": "Organization",
+                    "name": "Fritz Egnell"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Apprentice",
+                "startDate": "1913",
+                "endDate": "1920",
+                "namedPosition": "Engineer",
+                "worksFor": {
+                    "@type": "Organization",
+                    "name": "AB Nickels & Todsen"
+                },
+                "subOrganization": {
+                    "@type": "Organization",
+                    "name": "New York office",
+                    "startDate": "1914",
+                    "endDate": "1916"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Apprentice",
+                "startDate": "1913",
+                "endDate": "1920",
+                "namedPosition": "Engineer",
+                "worksFor": {
+                    "@type": "Organization",
+                    "name": "AB Nickels & Todsen"
+                },
+                "subOrganization": {
+                    "@type": "Organization",
+                    "name": "Russian branch office",
+                    "startDate": "1917",
+                    "endDate": "1918"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Manager",
+                "startDate": "1920",
+                "endDate": "1928",
+                "namedPosition": "Export manager",
+                "worksFor": {
+                    "@type": "Organization",
+                    "name": "AB Pythagoras"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Manager",
+                "startDate": "1928",
+                "endDate": "1933",
+                "namedPosition": "Advertising manager",
+                "worksFor": {
+                    "@type": "Organization",
+                    "name": "J & C G Bolinders Mek Verkst AB"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Administrator",
+                "startDate": "1933",
+                "endDate": "",
+                "namedPosition": "Administrator",
+                "worksFor": {
+                    "@type": "Organization",
+                    "name": "AB De Lavals Ångturbins",
+                    "location": "Paris, France"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Worker",
+                "startDate": "",
+                "endDate": "",
+                "namedPosition": "Worker",
+                "worksFor": {
+                    "@type": "Organization",
+                    "name": "AB Fr Ramström",
+                    "location": "Stockholm"
+                }
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Swedish Association of Technicians"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Apprentice",
+                "workplace": "Fritz Egnell",
+                "industry": "Engineering",
+                "start_date": "1912"
+            },
+            {
+                "occupational_title": "Apprentice",
+                "workplace": "AB Nickels & Todsen",
+                "industry": "Engineering",
+                "start_date": "1913"
+            },
+            {
+                "occupational_title": "Division Manager",
+                "workplace": "AB Nickels & Todsen (New York Office)",
+                "industry": "Engineering",
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Division Manager",
+                "workplace": "AB Nickels & Todsen (Russian Branch Office)",
+                "industry": "Engineering",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Export Manager",
+                "workplace": "AB Pythagoras",
+                "industry": "Engineering",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Advertising Manager",
+                "workplace": "J & C G Bolinders Mek Verkst AB",
+                "industry": "Engineering",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Administrator",
+                "workplace": "AB De Lavals Ångturbins (Paris subsidiary)",
+                "industry": "Engineering",
+                "start_date": "1933"
+            },
+            {
+                "occupational_title": "Currently working",
+                "workplace": "AB Fr Ramström",
+                "industry": "Unknown",
+                "start_date": "N/A"
+            }
+        ]
+    }
+}

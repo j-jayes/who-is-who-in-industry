@@ -1,0 +1,69 @@
+{
+    "original": "BLOMQUIST, Carl-Erik Olof, Försäljningschef, Stockholm, f Oskhmn 4/7 15 av grossh O B o Ada Leljevahl, gm Kerstin King-Haij. Studex, hdls- o språkstud i Engl o Tyskl. Anst AB Wahlmau, Hähnel &amp; Co Sthlm 35, Carl Folke &amp; Co AB sed. 38, nu försäljn.ch där.",
+    "translated": "BLOMQUIST, Carl-Erik Olof, Sales Manager, Stockholm, born in Oskarshamn on July 4, 1915, to wholesale merchant Olof Blomquist and Ada Leljevahl. Married to Kerstin King-Haij. Studied commerce and languages, specializing in English and German. Employed at AB Wahlmau, Hähnel &amp; Co in Stockholm from 1935, then joined Carl Folke &amp; Co AB in 1938, currently working as a sales manager there.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl-Erik Olof Blomquist",
+        "jobTitle": "Sales Manager",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "birthDate": "1915-07-04",
+        "birthPlace": "Oskarshamn",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Olof Blomquist",
+                "jobTitle": "Wholesale Merchant"
+            },
+            {
+                "@type": "Person",
+                "name": "Ada Leljevahl"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Kerstin King-Haij"
+        },
+        "alumniOf": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "AB Wahlmau"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Hähnel & Co"
+            },
+            {
+                "@type": "Organization",
+                "name": "Carl Folke & Co AB"
+            }
+        ],
+        "jobStartDate": "1938",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Carl Folke & Co AB",
+            "jobTitle": "Sales Manager"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Sales Manager",
+                "workplace": "AB Wahlmau, Hähnel & Co",
+                "industry": "Wholesale",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Sales Manager",
+                "workplace": "Carl Folke & Co AB",
+                "industry": "Unknown",
+                "start_date": "1938"
+            }
+        ]
+    }
+}

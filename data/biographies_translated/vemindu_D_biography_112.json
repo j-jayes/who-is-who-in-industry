@@ -1,0 +1,169 @@
+{
+    "original": "DUHS, Ernst Gustav Tore, Ombudsman, Stockholm, f Södhmn 2/3 09 av konstnären G W D o Karin Laurell, gm Alice Anderholm. Studex Krist 27, jur kand Upps 33, inskr HHS 42. Ombm AB B A Hjorth &amp; Co, AB Primus o AB Enköpings Verkstäder sed. 33, e.o. not Sthlms rådhusrätt 36—37. Styr.suppl AB B A Hjorth &amp; Co o AB Primus sed. 41, styr.led AB B A Hjorths Pensionsanstalt sed. 41, rev Sthlms Hdlsarb.giv.frb o Jern- o Me-tallvaru-Leverantörfrn. Resor: Tyskl 38, 39, Ital o Schweiz 39 samt t grannländerna. Medl W6, Sthlms Köpm.klubb. Hobbies: Jakt fiske, mykologi.",
+    "translated": "DUHS, Ernst Gustav Tore, Ombudsman, Stockholm, born in Söderhamn on March 2, 1909, to the artist G.W.D and Karin Laurell, married Alice Anderholm. Studied at Kristianstad until 1927, graduated with a law degree from Uppsala in 1933, enrolled at the Stockholm School of Economics in 1942. Worked at AB B A Hjorth & Co, AB Primus, and AB Enköpings Verkstäder since 1933, acting notary at Stockholm City Court from 1936 to 1937. Board member at AB B A Hjorth & Co and AB Primus since 1941, board member at AB B A Hjorths Pensionsanstalt since 1941, auditor at Stockholm Commercial Employees' Association and Iron and Metal Suppliers' Association. Traveled to Germany in 1938 and 1939, and to Italy and Switzerland in 1939, as well as neighboring countries. Member of W6 and Stockholm Merchants' Club. Hobbies include hunting, fishing, and mycology.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Ernst Gustav Tore DUHS",
+        "jobTitle": "Ombudsman",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "birthDate": "1909-03-02",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "G W D"
+            },
+            {
+                "@type": "Person",
+                "name": "Karin Laurell"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Alice Anderholm"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Kristianstad"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Uppsala",
+                "alumniOf": {
+                    "@type": "EducationalOrganization",
+                    "name": "Uppsala University"
+                },
+                "startDate": "1927",
+                "endDate": "1933",
+                "degree": {
+                    "@type": "Course",
+                    "name": "Law"
+                }
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Stockholm School of Economics",
+                "startDate": "1942"
+            }
+        ],
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "AB B A Hjorth & Co"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Primus"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Enköpings Verkstäder",
+                "startDate": "1933"
+            },
+            {
+                "@type": "Organization",
+                "name": "Stockholm City Court",
+                "startDate": "1936",
+                "endDate": "1937"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB B A Hjorth's Pensionsanstalt",
+                "startDate": "1941"
+            },
+            {
+                "@type": "Organization",
+                "name": "Stockholm Commercial Employees' Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Iron and Metal Suppliers' Association"
+            }
+        ],
+        "travel": [
+            {
+                "@type": "Country",
+                "name": "Germany",
+                "startDate": "1938",
+                "endDate": "1939"
+            },
+            {
+                "@type": "Country",
+                "name": "Italy",
+                "startDate": "1939",
+                "endDate": "1939"
+            },
+            {
+                "@type": "Country",
+                "name": "Switzerland",
+                "startDate": "1939",
+                "endDate": "1939"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "W6"
+            },
+            {
+                "@type": "Organization",
+                "name": "Stockholm Merchants' Club"
+            }
+        ],
+        "hobbies": [
+            "hunting",
+            "fishing",
+            "mycology"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Ombudsman",
+                "workplace": "Stockholm",
+                "industry": null,
+                "start_date": null
+            },
+            {
+                "occupational_title": "E.o. Notary",
+                "workplace": "Stockholm City Court",
+                "industry": null,
+                "start_date": "1936"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "AB B A Hjorth & Co",
+                "industry": null,
+                "start_date": "1941"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "AB Primus",
+                "industry": null,
+                "start_date": "1941"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "AB B A Hjorths Pensionsanstalt",
+                "industry": null,
+                "start_date": "1941"
+            },
+            {
+                "occupational_title": "Auditor",
+                "workplace": "Stockholm Commercial Employees' Association",
+                "industry": null,
+                "start_date": null
+            },
+            {
+                "occupational_title": "Auditor",
+                "workplace": "Iron and Metal Suppliers' Association",
+                "industry": null,
+                "start_date": null
+            }
+        ]
+    }
+}

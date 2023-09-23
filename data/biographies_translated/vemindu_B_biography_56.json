@@ -1,0 +1,132 @@
+{
+    "original": "BENGTSSON, Edward, Direktör, Eslöv, f Farstorp 91 av landstingsm Bengt Persson o Ingrid Nilsson, gm Ebba Samuelsson. Folksk, hdlsutb. Anst järnhdl 06—19, öv.tog 19 Larssons Järnhdl (gr 95, omb. t AB 32), ägo dir i Larssons Järnhdl AB, Larssons Maskinhdl AB, Lill sjö mossens Torvind, samt Turist- o Källgården i Sk. Fagerhult, dir i Eslövs Bil-central. Led. i tax.nmnd, styr.led i Sk o Blek Stångjärnhdlfören. Resor: Danm, Tyskl. FrimO, Odd Fellow. Hobbies: handel, industri 0 lantbruk.",
+    "translated": "BENGTSSON, Edward, Director, Eslöv, b. Farstorp in 1891, son of county councilman Bengt Persson and Ingrid Nilsson, m. Ebba Samuelsson. Primary school education, commercial training. Employed in iron trade 1906-1919, took over Larsson's Iron Trade in 1919 (founded in 1895, converted into a limited company in 1932), owner and director of Larsson's Iron Trade AB, Larsson's Machinery Trade AB, Lill Sjö Mossens Torvind, as well as Turist- and Källgården in Sk. Fagerhult, director of Eslöv's Car Center. Member of the tax committee, board member of the Skåne and Blekinge Iron Trade Association. Travels: Denmark, Germany. Freemason, member of Odd Fellow. Hobbies: trade, industry, and agriculture.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Edward Bengtsson",
+        "jobTitle": "Director",
+        "birthPlace": "Farstorp",
+        "birthDate": "1891-01-01",
+        "father": {
+            "@type": "Person",
+            "name": "Bengt Persson"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Ingrid Nilsson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Ebba Samuelsson"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Primary school education"
+        },
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1906-01-01",
+                "endDate": "1919-01-01",
+                "roleName": "Employed in iron trade"
+            },
+            {
+                "@type": "OwnershipInfo",
+                "ownedFrom": "1919-01-01",
+                "ownedThrough": "9999-12-31",
+                "ownedBy": {
+                    "@type": "Organization",
+                    "name": "Larsson's Iron Trade AB"
+                }
+            },
+            {
+                "@type": "OwnershipInfo",
+                "ownedFrom": "1919-01-01",
+                "ownedThrough": "9999-12-31",
+                "ownedBy": {
+                    "@type": "Organization",
+                    "name": "Larsson's Machinery Trade AB"
+                }
+            },
+            {
+                "@type": "OwnershipInfo",
+                "ownedFrom": "1919-01-01",
+                "ownedThrough": "9999-12-31",
+                "ownedBy": {
+                    "@type": "Organization",
+                    "name": "Lill Sjö Mossens Torvind"
+                }
+            },
+            {
+                "@type": "OwnershipInfo",
+                "ownedFrom": "1919-01-01",
+                "ownedThrough": "9999-12-31",
+                "ownedBy": {
+                    "@type": "Organization",
+                    "name": "Turist- and Källgården in Sk. Fagerhult"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "9999-12-31",
+                "roleName": "Director of Eslöv's Car Center"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "FrimO"
+            },
+            {
+                "@type": "Organization",
+                "name": "Odd Fellow"
+            }
+        ],
+        "knowsAbout": [
+            "Trade",
+            "Industry",
+            "Agriculture"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Employee in iron trade",
+                "workplace": "Unknown",
+                "industry": "Iron trade",
+                "start_date": "1906"
+            },
+            {
+                "occupational_title": "Owner and director",
+                "workplace": "Larsson's Iron Trade AB",
+                "industry": "Iron trade",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Owner and director",
+                "workplace": "Larsson's Machinery Trade AB",
+                "industry": "Machinery trade",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "Lill Sjö Mossens Torvind",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "Turist- and Källgården in Sk. Fagerhult",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Eslöv's Car Center",
+                "industry": "Automotive",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

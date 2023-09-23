@@ -1,0 +1,152 @@
+{
+    "original": "DAHLGREN, Johan Fritjof, Auktoriserad revisor, Lidingö, f Ånge 10/12 95 av folkskoll J F D o Anna Lovisa Sjöholm, gm Elsa Nilsson. Studex, ekon ex HHS. Anst i bk 17—19, stud v HHS 19—21, tjm i Riksräkensk.vkt 21—23, etabl eg rev.byrå 23, lär v Sthlm stads hdlssk. Av Sthlms hdlskamm auktor rev 29. Ag villafastigh MjÖlnarstigen 19 Lidingö. Rev i fi halvstatl o kommun föret. Resor: Finl, Danm, Tyskl, Österr, Ung, Schweiz o Ital 33. Av trycket: Inledn t bokför o komment t bokför.lagen. Medl Frn auktor rev, Sthlms köpm.kl, Företagsekon frn.",
+    "translated": "DAHLGREN, Johan Fritjof, Authorized Auditor, Lidingö, b. Ånge 10/12/1895, son of elementary schoolteacher J.F.D. Dahlberg and Anna Lovisa Sjöholm, m. Elsa Nilsson. High school graduate, economics graduate from HHS (Handelshögskolan). Employed in a bank 1917-1919, studied at HHS 1919-1921, clerk at Riksräkenskapsverket (National Audit Office) 1921-1923, established own auditing firm in 1923, teacher at Stockholm City Commercial School. Authorized Auditor by the Chamber of Commerce in Stockholm in 1929. Owner of a villa property at MjÖlnarstigen 19, Lidingö. Audited semi-state and municipal enterprises. Travelled to Finland, Denmark, Germany, Austria, Hungary, Switzerland, and Italy in 1933. Published: Introduction to Bookkeeping and Commentary on Bookkeeping Laws. Member of the Authorized Auditors' Association, Stockholm Merchants' Club, Business Economics Society, etc.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Johan Fritjof Dahlgren",
+        "jobTitle": "Authorized Auditor",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Lidingö"
+        },
+        "birthDate": "1895-12-10",
+        "birthPlace": "Ånge",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "J.F.D. Dahlberg",
+                "jobTitle": "Elementary Schoolteacher"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Lovisa Sjöholm"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Elsa Nilsson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Studex",
+                "educationalLevel": "High school graduate"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "ekon ex",
+                "educationalLevel": "Economics graduate",
+                "alumniOf": {
+                    "@type": "CollegeOrUniversity",
+                    "name": "Handelshögskolan"
+                }
+            }
+        ],
+        "affiliation": [
+            {
+                "@type": "Organization",
+                "name": "Bank",
+                "startDate": "1917",
+                "endDate": "1919"
+            },
+            {
+                "@type": "Organization",
+                "name": "Handelshögskolan",
+                "startDate": "1919",
+                "endDate": "1921"
+            },
+            {
+                "@type": "Organization",
+                "name": "Riksräkenskapsverket",
+                "startDate": "1921",
+                "endDate": "1923"
+            },
+            {
+                "@type": "Organization",
+                "name": "Own Auditing Firm",
+                "startDate": "1923"
+            },
+            {
+                "@type": "Organization",
+                "name": "Stockholm City Commercial School",
+                "jobTitle": "Teacher"
+            },
+            {
+                "@type": "Organization",
+                "name": "Chamber of Commerce in Stockholm",
+                "jobTitle": "Authorized Auditor",
+                "startDate": "1929"
+            }
+        ],
+        "owns": {
+            "@type": "Place",
+            "name": "Villa Property at MjÖlnarstigen 19, Lidingö"
+        },
+        "audited": [
+            {
+                "@type": "Organization",
+                "name": "Semi-state enterprises"
+            },
+            {
+                "@type": "Organization",
+                "name": "Municipal enterprises"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Authorized Auditors' Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Stockholm Merchants' Club"
+            },
+            {
+                "@type": "Organization",
+                "name": "Business Economics Society"
+            }
+        ],
+        "travelled": [
+            "Finland",
+            "Denmark",
+            "Germany",
+            "Austria",
+            "Hungary",
+            "Switzerland",
+            "Italy"
+        ],
+        "publishedWorks": [
+            "Introduction to Bookkeeping",
+            "Commentary on Bookkeeping Laws"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Authorized Auditor",
+                "workplace": "Unknown bank",
+                "industry": "Banking",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Clerk",
+                "workplace": "Riksräkenskapsverket (National Audit Office)",
+                "industry": "Government",
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Owner, Auditing Firm",
+                "workplace": "Egna rev.byrå (Own auditing firm)",
+                "industry": "Accounting",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Teacher",
+                "workplace": "Stockholm City Commercial School",
+                "industry": "Education",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "original": "COLLIN, Eric, Direktör, Ljusdal, f Järvsö, Gävleb l, 8/2 78, gm Maria Gyllenram. Ch f fma Collins Manufaktur AB, Ljusdal. Collins Manuf AB grund av O E Collin i Järvsö 74, överflytt t Ljusdal 01 o blev fam.-bol 34.",
+    "translated": "COLLIN, Eric, Director, Ljusdal, born in Järvsö, Gävleborg county, on February 8th, 1878, married to Maria Gyllenram. Chief executive of Collins Manufaktur AB, Ljusdal. Collins Manuf AB was founded by O E Collin in Järvsö in 1874, transferred to Ljusdal in 1901, and became a family business in 1934.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Eric Collin",
+        "birthDate": "1878-02-08",
+        "birthPlace": "Järvsö, Gävleborg County, Sweden",
+        "jobTitle": "Director",
+        "memberOf": "Collins Manufaktur AB",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Ljusdal",
+            "addressCountry": "Sweden"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Maria Gyllenram"
+        },
+        "founderOf": {
+            "@type": "Organization",
+            "name": "Collins Manufaktur AB",
+            "foundingDate": "1874",
+            "location": "Järvsö, Sweden"
+        },
+        "transferTo": {
+            "@type": "Event",
+            "name": "Transfer of Collins Manufaktur AB to Ljusdal",
+            "startDate": "1901",
+            "location": "Ljusdal, Sweden"
+        },
+        "becameFamilyBusiness": {
+            "@type": "Event",
+            "name": "Collins Manufaktur AB becomes a family business",
+            "startDate": "1934"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Ljusdal",
+                "industry": "Manufacturing",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Chief Executive",
+                "workplace": "Collins Manufaktur AB, Ljusdal",
+                "industry": "Manufacturing",
+                "start_date": ""
+            }
+        ]
+    }
+}

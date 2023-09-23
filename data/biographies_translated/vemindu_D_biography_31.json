@@ -1,0 +1,119 @@
+{
+    "original": "DAHLIN, Gustaf Elis, Civilingenjör, Stockholm, f Falun 23/5 99 av handl K G D o Julia Andersson, gm Anna Hultgren. Studex Falun 17, KTH (maskinbyggn o mek tekn) 17—21. Lär i maskinritn o maskinlära v bergssk Falun 23—27, KTH:s USA-stip 27—29, konstr v Stephens-Ädamson Mfg: Co Aurora 111 USA 27 —29, anst Ing.fma Einar Eriksson &amp; Co AB Sthlm 30—38, tillika ass i läran om hiss- o transp.anordn KTH 30—38, lekt v Tekn Gymn i Hsand 38—44, nu lekt v Tekn lärov i Sthlm, Led Sv Tekn.frn.",
+    "translated": "DAHLIN, Gustaf Elis, Master of Science in Engineering, Stockholm, b. Falun on 23 May 1899, son of merchant K.G.D. and Julia Andersson, married to Anna Hultgren. Completed secondary education in Falun in 1917 and studied at the Royal Institute of Technology (mechanical engineering and mechanical technology) from 1917 to 1921. Taught machine drafting and machine theory at the School of Mines in Falun from 1923 to 1927, recipient of the Royal Institute of Technology's USA scholarship from 1927 to 1929, worked as a designer at Stephens-Adamson Mfg. Co in Aurora, Illinois, USA from 1927 to 1929. Employed by Ing. fma Einar Eriksson & Co AB in Stockholm from 1930 to 1938, also served as an assistant in the field of elevator and transportation systems at the Royal Institute of Technology from 1930 to 1938. Served as a lecturer at the Technical Gymnasium in Helsingborg from 1938 to 1944, currently employed as a lecturer at the Technical School in Stockholm. A member of the Swedish Technical Association.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Gustaf Elis Dahlin",
+        "birthDate": "1899-05-23",
+        "birthPlace": "Falun, Sweden",
+        "deathDate": "unknown",
+        "nationality": "Swedish",
+        "description": "Master of Science in Engineering and lecturer",
+        "spouse": {
+            "@type": "Person",
+            "name": "Anna Hultgren"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "K.G.D."
+            },
+            {
+                "@type": "Person",
+                "name": "Julia Andersson"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "secondary education",
+                "credentialSubject": "Falun",
+                "endDate": "1917"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Bachelor's degree",
+                "credentialSubject": "mechanical engineering and mechanical technology",
+                "endDate": "1921",
+                "educationalLevel": "Undergraduate"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "School of Mines in Falun",
+                "startDate": "1923",
+                "endDate": "1927",
+                "department": "Machine Drafting and Machine Theory"
+            },
+            {
+                "@type": "Organization",
+                "name": "Ing. fma Einar Eriksson & Co AB",
+                "startDate": "1930",
+                "endDate": "1938"
+            },
+            {
+                "@type": "Organization",
+                "name": "Royal Institute of Technology",
+                "startDate": "1930",
+                "endDate": "1938",
+                "department": "Assistant in Elevator and Transportation Systems"
+            },
+            {
+                "@type": "Organization",
+                "name": "Technical Gymnasium, Helsingborg",
+                "startDate": "1938",
+                "endDate": "1944",
+                "department": "Lecturer"
+            },
+            {
+                "@type": "Organization",
+                "name": "Technical School, Stockholm",
+                "startDate": "1944",
+                "location": "Stockholm",
+                "department": "Lecturer"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Technical Association"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Machine drafting and machine theory teacher",
+                "workplace": "School of Mines",
+                "industry": "Education",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Designer",
+                "workplace": "Stephens-Adamson Mfg. Co",
+                "industry": "Manufacturing",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Assistant in the field of elevator and transportation systems",
+                "workplace": "Royal Institute of Technology",
+                "industry": "Education",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Lecturer",
+                "workplace": "Technical Gymnasium in Helsingborg",
+                "industry": "Education",
+                "start_date": "1938"
+            },
+            {
+                "occupational_title": "Lecturer",
+                "workplace": "Technical School in Stockholm",
+                "industry": "Education",
+                "start_date": "1944"
+            }
+        ]
+    }
+}

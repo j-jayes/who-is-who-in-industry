@@ -1,0 +1,95 @@
+{
+    "original": "BRUNFORS, David Rudolf Kristian, Bankkamrer, Strängnäs, f Härads s:n, Sörml län, 21/8 90 av hdsdom J A Pettersson o Anna Pettersson, gm Hildur Andersson. Påhlmans hdlsinst 10—11, sparbkskurser. Anst John Wicksells järnaff 12—14, Strängnäs sparbk sed. 14, e. kont.arb AB Ekstedt &amp; Frankes järnhdl 15—30, styr.led o fmateckn i detta AB, rev Strängnäs red.AB. Off rev.uppdr.",
+    "translated": "BRUNFORS, David Rudolf Kristian, Bank Clerk, Strängnäs, born in Härads parish, Sörmlands county, on August 21, 1890, to parents J A Pettersson and Anna Pettersson, married to Hildur Andersson. Completed courses at Påhlmans Commercial Institute in 1910-1911 and savings bank courses. Employed at John Wicksells iron store from 1912 to 1914, Strängnäs savings bank thereafter. Became a clerk at AB Ekstedt & Frankes iron trade from 1915 to 1930, serving as a board member and secretary in this company, also audited Strängnäs Publishing Company. Held official auditing tasks.",
+    "structured": {
+        "@context": {
+            "@vocab": "http://schema.org/"
+        },
+        "@type": "Person",
+        "name": "David Rudolf Kristian Brunfors",
+        "jobTitle": "Bank Clerk",
+        "birthDate": "1890-08-21",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Härads",
+                "addressRegion": "Sörmlands",
+                "addressCountry": "Sweden"
+            }
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "J A Pettersson"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Pettersson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Hildur Andersson"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Påhlmans Commercial Institute",
+            "startDate": "1910",
+            "endDate": "1911"
+        },
+        "courses": [
+            "Savings bank"
+        ],
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "John Wicksells Iron Store",
+                "startDate": "1912",
+                "endDate": "1914"
+            },
+            {
+                "@type": "Organization",
+                "name": "Strängnäs Savings Bank",
+                "startDate": "1914"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Ekstedt & Frankes Iron Trade",
+                "startDate": "1915",
+                "endDate": "1930"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "AB Ekstedt & Frankes Iron Trade",
+                "roleName": "Board member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Strängnäs Publishing Company",
+                "roleName": "Auditor"
+            }
+        ],
+        "officialDuties": [
+            "Auditing tasks"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Bank Clerk",
+                "workplace": "Strängnäs",
+                "industry": "Banking",
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Clerk at AB Ekstedt & Frankes iron trade",
+                "workplace": "Strängnäs",
+                "industry": "Iron Trade",
+                "start_date": "1915"
+            }
+        ]
+    }
+}

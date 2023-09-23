@@ -1,0 +1,299 @@
+{
+    "original": "BOXSTRÖM, Jacob Isidor (Bokas), Ingenjör, Helsingfors, Finl, f Snappertuna, Nyland, Finl, 11/9 76 av lantbr J E B o Amanda Wikström, gm Gerda Qvarnström. Ex polytekn inst Hfors 99, spec.stud i metallurgi KTH 99—00. Kem v Dalsbruks järnbruk Finl 00—01, v jvkn i Wyksa Ryssl 01—02, studieres Tyskl, USA p Canada (delv m finska stat o polytekn inst:s stip), därund arb, rit o kem v stålvk 02—05, ch Dalsbruks martinvk 05—08, projekting v Fiskars AB Åminnefors 08—12, tekn led Wärtsilä jvk 12—17, konsult ing 17—25, vkst dir Täljstens AB i Finl 25—36, tillika o fortf led f stålgjuteriet i Karhula. Led Sv Tekn.frn.",
+    "translated": "BOXSTRÖM, Jacob Isidor (Bokas), Engineer, Helsinki, Finland, b. Snappertuna, Nyland, Finland, September 11, 1876, son of farmer J.E.B. and Amanda Wikström, m. Gerda Qvarnström. Former student at Polytechnic Institute in Helsinki in 1899, specialized in metallurgy at the Royal Institute of Technology in Stockholm in 1899-1900. Worked in the chemistry department at Dalsbruk Ironworks in Finland in 1900-1901, served in the military in Wyksa, Russia in 1901-1902, studied in Germany, USA, and Canada (partly with Finnish government and Polytechnic Institute scholarships), worked as a draftsman and chemist at a steel plant from 1902-1905, chief of Dalsbruk Martin Furnace from 1905-1908, project manager at Fiskars AB Åminnefors from 1908-1912, technical manager at Wärtsilä from 1912-1917, consultant engineer from 1917-1925, director of Täljstens AB in Finland from 1925-1936, also continued to lead the steel foundry in Karhula. Member of the Swedish Technical Society.",
+    "structured": {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "name": "Jacob Isidor Boxström",
+        "additionalName": "Bokas",
+        "givenName": "Jacob Isidor",
+        "familyName": "Boxström",
+        "jobTitle": "Engineer",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Snappertuna",
+                "addressRegion": "Nyland",
+                "addressCountry": "Finland"
+            }
+        },
+        "birthDate": "1876-09-11",
+        "father": {
+            "@type": "Person",
+            "name": "J.E.B. Boxström",
+            "occupation": "Farmer"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Amanda Wikström"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Gerda Qvarnström"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Polytechnic Institute",
+                "educationalLevel": "Bachelor",
+                "educationalCredentialAwarded": "Engineer",
+                "educationalInstitution": {
+                    "@type": "CollegeOrUniversity",
+                    "name": "Polytechnic Institute",
+                    "location": {
+                        "@type": "Place",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressLocality": "Helsinki",
+                            "addressCountry": "Finland"
+                        }
+                    }
+                },
+                "startDate": "1899",
+                "endDate": "1900"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Metallurgy",
+                "educationalLevel": "Specialist",
+                "educationalCredentialAwarded": "Metallurgy",
+                "educationalInstitution": {
+                    "@type": "CollegeOrUniversity",
+                    "name": "Royal Institute of Technology",
+                    "location": {
+                        "@type": "Place",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressLocality": "Stockholm",
+                            "addressCountry": "Sweden"
+                        }
+                    }
+                },
+                "startDate": "1899",
+                "endDate": "1900"
+            }
+        ],
+        "workExperience": [
+            {
+                "@type": "JobPosting",
+                "title": "Chemist",
+                "hiringOrganization": {
+                    "@type": "Organization",
+                    "name": "Dalsbruk Ironworks",
+                    "location": {
+                        "@type": "Place",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressLocality": "Finland"
+                        }
+                    }
+                },
+                "startDate": "1900",
+                "endDate": "1901"
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Military",
+                "hiringOrganization": {
+                    "@type": "Organization",
+                    "name": "Wyksa",
+                    "location": {
+                        "@type": "Country",
+                        "name": "Russia"
+                    }
+                },
+                "startDate": "1901",
+                "endDate": "1902"
+            },
+            {
+                "@type": "LearningResource",
+                "name": "Study in Germany, USA, and Canada",
+                "startDate": "1902",
+                "endDate": "1905"
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Chief of Martin Furnace",
+                "hiringOrganization": {
+                    "@type": "Organization",
+                    "name": "Dalsbruk Ironworks",
+                    "location": {
+                        "@type": "Place",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressLocality": "Finland"
+                        }
+                    }
+                },
+                "startDate": "1905",
+                "endDate": "1908"
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Project Manager",
+                "hiringOrganization": {
+                    "@type": "Organization",
+                    "name": "Fiskars AB Åminnefors",
+                    "location": {
+                        "@type": "Place",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressLocality": "Åminnefors",
+                            "addressCountry": "Finland"
+                        }
+                    }
+                },
+                "startDate": "1908",
+                "endDate": "1912"
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Technical Manager",
+                "hiringOrganization": {
+                    "@type": "Organization",
+                    "name": "Wärtsilä",
+                    "location": {
+                        "@type": "Place",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressLocality": "Finland"
+                        }
+                    }
+                },
+                "startDate": "1912",
+                "endDate": "1917"
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Consultant Engineer",
+                "hiringOrganization": {
+                    "@type": "Organization",
+                    "name": "Self-Employed"
+                },
+                "startDate": "1917",
+                "endDate": "1925"
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Director",
+                "hiringOrganization": {
+                    "@type": "Organization",
+                    "name": "Täljstens AB",
+                    "location": {
+                        "@type": "Place",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressLocality": "Finland"
+                        }
+                    }
+                },
+                "startDate": "1925",
+                "endDate": "1936"
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Steel Foundry Leader",
+                "hiringOrganization": {
+                    "@type": "Organization",
+                    "name": "Karhula",
+                    "location": {
+                        "@type": "Place",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressLocality": "Karhula",
+                            "addressCountry": "Finland"
+                        }
+                    }
+                },
+                "startDate": "1936"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Swedish Technical Society"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Helsinki, Finland",
+                "industry": "Engineering",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Student",
+                "workplace": "Polytechnic Institute, Helsinki",
+                "industry": "Education",
+                "start_date": "1899"
+            },
+            {
+                "occupational_title": "Specialized in Metallurgy",
+                "workplace": "Royal Institute of Technology, Stockholm",
+                "industry": "Education",
+                "start_date": "1899-1900"
+            },
+            {
+                "occupational_title": "Chemist",
+                "workplace": "Dalsbruk Ironworks, Finland",
+                "industry": "Metallurgy",
+                "start_date": "1900-1901"
+            },
+            {
+                "occupational_title": "Military Service",
+                "workplace": "Wyksa, Russia",
+                "industry": "Military",
+                "start_date": "1901-1902"
+            },
+            {
+                "occupational_title": "Studied in Germany, USA, and Canada",
+                "workplace": "Various Institutions",
+                "industry": "Education",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Draftsman and Chemist",
+                "workplace": "Steel Plant",
+                "industry": "Steel",
+                "start_date": "1902-1905"
+            },
+            {
+                "occupational_title": "Chief of Dalsbruk Martin Furnace",
+                "workplace": "Dalsbruk, Finland",
+                "industry": "Metallurgy",
+                "start_date": "1905-1908"
+            },
+            {
+                "occupational_title": "Project Manager",
+                "workplace": "Fiskars AB Åminnefors",
+                "industry": "Manufacturing",
+                "start_date": "1908-1912"
+            },
+            {
+                "occupational_title": "Technical Manager",
+                "workplace": "Wärtsilä",
+                "industry": "Engineering",
+                "start_date": "1912-1917"
+            },
+            {
+                "occupational_title": "Consultant Engineer",
+                "workplace": "Various",
+                "industry": "Engineering",
+                "start_date": "1917-1925"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Täljstens AB, Finland",
+                "industry": "Manufacturing",
+                "start_date": "1925-1936"
+            },
+            {
+                "occupational_title": "Steel Foundry Leader",
+                "workplace": "Karhula, Finland",
+                "industry": "Manufacturing",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

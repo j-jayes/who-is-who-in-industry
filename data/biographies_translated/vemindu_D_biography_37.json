@@ -1,0 +1,120 @@
+{
+    "original": "DAHLQUIST, Nils Gunnarsson, Disponent, Hudiksvall, f Hdsv 5/4 09 av konsul EGD o Bertha Giildenberg, gm Margareta Lindberg. Studex Upps ensk l 29. Bokh Hdsv Brygg.AB 29—34, kamr 34—41, disp sed. 41, vkst dir Hdsv Teat.AB. Ag försäkrfma Enlund &amp; Dahlquist, ag f försäkr.bol Skandia, Freja, Eir o Ägir, riksförsäkr.anst omb. Studieres Tyskl 30, 39, Schweiz o Ital 39. Odd Fellow. Rotary.",
+    "translated": "DAHLQUIST, Nils Gunnarsson, Manager, Hudiksvall, b. Hdsv 5/4 09 to consul EGD and Bertha Giildenberg, m. Margareta Lindberg. Studied at Uppsala University, graduated in 1929. Worked at Hdsv Brygg.AB from 1929 to 1934 as an accountant, promoted to assistant manager from 1934 to 1941, became manager in 1941, and served as the director of Hdsv Teat.AB. Also worked for the insurance company Enlund & Dahlquist, representing the insurance companies Skandia, Freja, Eir, and Ägir, as well as being an agent for the national insurance institution. Studied in Germany in 1930 and 1939, Switzerland and Italy in 1939. Member of the Odd Fellow and Rotary organizations.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Nils Gunnarsson Dahlquist",
+        "birthDate": "1909-04-05",
+        "birthPlace": "Hudiksvall",
+        "father": {
+            "@type": "Person",
+            "name": "EGD"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Bertha Giildenberg"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Margareta Lindberg"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "alumniOf": {
+                "@type": "CollegeOrUniversity",
+                "name": "Uppsala University",
+                "startDate": "1929",
+                "endDate": "1929"
+            }
+        },
+        "occupation": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Manager",
+                "startDate": "1941-01-01"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Assistant Manager",
+                "startDate": "1934-01-01",
+                "endDate": "1941-01-01"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Accountant",
+                "startDate": "1929-01-01",
+                "endDate": "1934-01-01"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Director",
+                "startDate": "Unknown",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Hdsv Teat.AB"
+                }
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Hdsv Brygg.AB",
+                "startDate": "1929-01-01",
+                "endDate": "1934-01-01"
+            },
+            {
+                "@type": "Organization",
+                "name": "Enlund & Dahlquist"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Odd Fellow"
+            },
+            {
+                "@type": "Organization",
+                "name": "Rotary"
+            }
+        ],
+        "publications": {
+            "@type": "CreativeWork",
+            "name": "Studied in Germany in 1930 and 1939, Switzerland and Italy in 1939"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Accountant",
+                "workplace": "Hdsv Brygg.AB",
+                "industry": "Brewing",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Assistant Manager",
+                "workplace": "Hdsv Brygg.AB",
+                "industry": "Brewing",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Hdsv Brygg.AB",
+                "industry": "Brewing",
+                "start_date": "1941"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Hdsv Teat.AB",
+                "industry": "Theater",
+                "start_date": "unknown"
+            },
+            {
+                "occupational_title": "Insurance Agent",
+                "workplace": "Enlund & Dahlquist",
+                "industry": "Insurance",
+                "start_date": "unknown"
+            }
+        ]
+    }
+}

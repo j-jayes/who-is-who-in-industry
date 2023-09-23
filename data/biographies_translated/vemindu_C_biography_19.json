@@ -1,0 +1,149 @@
+{
+    "original": "CARLBOM, John Torsten Ingman, Skeppsredare, Stockholm, f Grimsby, Engl, 5/4 04 av konsul John Carlbom o h h, gm Rosa Lindström. Studex Nya Elem.sk Sthlm 23, studier Schweiz o Frankr, fil kand Upps 29, HHS 30— 32. Disp v Karlshamns Skeppsvarv 32—35, bild fma Torsten Carlbom &amp; Co AB Sthlm 35. Huv.red f S/S Utklippan, Red.AB Rosenborg 0 Red.AB Ingman.",
+    "translated": "CARLBOM, John Torsten Ingman, Shipowner, Stockholm, born in Grimsby, England, on 5/4 1904, son of consul John Carlbom and his wife, married to Rosa Lindström. Graduated from Nya Elementarskolan in Stockholm in 1923, studied in Switzerland and France, obtained a Bachelor of Arts degree from Uppsala University in 1929, and attended the Handelshögskolan (School of Business) from 1930 to 1932. Appointed as a director at Karlshamns Skeppsvarv (Karlshamn Shipyard) from 1932 to 1935. Founded the company Torsten Carlbom & Co AB in Stockholm in 1935. Served as the main editor for S/S Utklippan, Rederi AB Rosenborg, and Rederi AB Ingman.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "John Torsten Ingman Carlbom",
+        "birthDate": "1904-04-05",
+        "birthPlace": "Grimsby, England",
+        "description": "Shipowner",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "John Carlbom",
+                "jobTitle": "Consul"
+            },
+            {
+                "@type": "Person",
+                "name": "Rosa Lindström"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Rosa Lindström"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Nya Elementarskolan"
+            },
+            {
+                "@type": "Country",
+                "name": "Switzerland"
+            },
+            {
+                "@type": "Country",
+                "name": "France"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Uppsala University",
+                "location": {
+                    "@type": "Country",
+                    "name": "Sweden"
+                },
+                "startDate": "1929"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Handelshögskolan",
+                "location": {
+                    "@type": "Country",
+                    "name": "Sweden"
+                },
+                "startDate": "1930",
+                "endDate": "1932"
+            }
+        ],
+        "jobTitle": [
+            "Shipowner",
+            "Director"
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Karlshamns Skeppsvarv",
+                "location": {
+                    "@type": "City",
+                    "name": "Karlshamn"
+                },
+                "startDate": "1932",
+                "endDate": "1935"
+            },
+            {
+                "@type": "Organization",
+                "name": "Torsten Carlbom & Co AB",
+                "location": {
+                    "@type": "City",
+                    "name": "Stockholm"
+                },
+                "startDate": "1935"
+            },
+            {
+                "@type": "Organization",
+                "name": "S/S Utklippan",
+                "location": {
+                    "@type": "City",
+                    "name": "Stockholm"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Rederi AB Rosenborg",
+                "location": {
+                    "@type": "City",
+                    "name": "Stockholm"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Rederi AB Ingman",
+                "location": {
+                    "@type": "City",
+                    "name": "Stockholm"
+                }
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Shipowner",
+                "workplace": "Stockholm",
+                "industry": "Shipping",
+                "start_date": "N/A"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Karlshamns Skeppsvarv",
+                "industry": "Shipbuilding",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Founder",
+                "workplace": "Torsten Carlbom & Co AB",
+                "industry": "N/A",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Main Editor",
+                "workplace": "S/S Utklippan",
+                "industry": "Shipping",
+                "start_date": "N/A"
+            },
+            {
+                "occupational_title": "Main Editor",
+                "workplace": "Rederi AB Rosenborg",
+                "industry": "Shipping",
+                "start_date": "N/A"
+            },
+            {
+                "occupational_title": "Main Editor",
+                "workplace": "Rederi AB Ingman",
+                "industry": "Shipping",
+                "start_date": "N/A"
+            }
+        ]
+    }
+}

@@ -1,0 +1,174 @@
+{
+    "original": "BRANDT, Helge Ivar, Civilingenjör, Ålsten, f Uppsala 26/1 02 av kapten J T I B o Geojjan Dillner, gm Ingrid Mothander. Studex NReal 20, KTH (eltekn) 21—25. Anst AB Elektrolux o dess dtrbol sed. 26, v kyllab 26—28, ss inköpsch v AB Arctic 28—31, ch.ass o försälj filteravd 31—33, ch.ass v kylavd fr 33. Led Sv Tekn.frn. Ordf i KTH:s stud.kårs sekt f eltekn 24—25, sekr i Sthlms Stud Sångarfrb 31—32, v. ordf i Elektroluxklubben sed. 40, styr.led i frn 02 års män sed. 43.",
+    "translated": "BRANDT, Helge Ivar, Civil Engineer, Ålsten, b. Uppsala 26/1 02, son of Captain J T I B and Geojjan Dillner, m. Ingrid Mothander. Graduated from Realgymnasiet 20, KTH (Electrical Engineering) 21-25. Employed at AB Elektrolux and its subsidiary companies since 26, initially as a refrigeration technician from 26-28, then as a purchasing assistant at AB Arctic from 28-31. Promoted to department assistant and sales in the filter department from 31-33, and later department assistant in the refrigeration department from 33. Member of the Swedish Technical Association. Chairman of the Electrical Engineering section of KTH's student union from 24-25, secretary of the Stockholm Student Choral Society from 31-32, vice chairman of the Elektrolux Club since 40, member of the 1902 Men's Society since 43.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Helge Ivar Brandt",
+        "birthDate": "1902-01-26",
+        "birthPlace": "Uppsala",
+        "nationality": "Swedish",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Captain J T I B"
+            },
+            {
+                "@type": "Person",
+                "name": "Geojjan Dillner"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ingrid Mothander"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "civilingenjör",
+            "educationalLevel": "Bachelor's Degree",
+            "alumniOf": {
+                "@type": "Organization",
+                "name": "Realgymnasiet"
+            },
+            "dateAwarded": "1920"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "AB Elektrolux"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Arctic"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "Role",
+                "startDate": "1926",
+                "endDate": "1928",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Elektrolux"
+                },
+                "title": "Refrigeration Technician"
+            },
+            {
+                "@type": "Role",
+                "startDate": "1928",
+                "endDate": "1931",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Arctic"
+                },
+                "title": "Purchasing Assistant"
+            },
+            {
+                "@type": "Role",
+                "startDate": "1931",
+                "endDate": "1933",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Elektrolux"
+                },
+                "title": "Department Assistant and Sales (Filter Department)"
+            },
+            {
+                "@type": "Role",
+                "startDate": "1933",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Elektrolux"
+                },
+                "title": "Department Assistant (Refrigeration Department)"
+            }
+        ],
+        "membershipIn": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Technical Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "KTH's student union"
+            },
+            {
+                "@type": "Organization",
+                "name": "Stockholm Student Choral Society"
+            },
+            {
+                "@type": "Organization",
+                "name": "Elektrolux Club"
+            },
+            {
+                "@type": "Organization",
+                "name": "1902 Men's Society"
+            }
+        ],
+        "roles": [
+            {
+                "@type": "Role",
+                "startDate": "1924",
+                "endDate": "1925",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "KTH's student union"
+                },
+                "title": "Chairman (Electrical Engineering section)"
+            },
+            {
+                "@type": "Role",
+                "startDate": "1931",
+                "endDate": "1932",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Stockholm Student Choral Society"
+                },
+                "title": "Secretary"
+            },
+            {
+                "@type": "Role",
+                "startDate": "1940",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Elektrolux Club"
+                },
+                "title": "Vice Chairman"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "AB Elektrolux",
+                "industry": "Electronics",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Refrigeration Technician",
+                "workplace": "AB Elektrolux",
+                "industry": "Electronics",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Purchasing Assistant",
+                "workplace": "AB Arctic",
+                "industry": "Electronics",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Department Assistant and Sales (Filter Department)",
+                "workplace": "AB Elektrolux",
+                "industry": "Electronics",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Department Assistant (Refrigeration Department)",
+                "workplace": "AB Elektrolux",
+                "industry": "Electronics",
+                "start_date": "1933"
+            }
+        ]
+    }
+}

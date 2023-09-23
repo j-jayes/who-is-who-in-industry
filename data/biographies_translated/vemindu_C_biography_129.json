@@ -1,0 +1,131 @@
+{
+    "original": "CLAESSON, Martin Andreas, Civilingenjör, Stockholm, f Hedemora landskomm 20/5 11 av lantbr C Andersson o Johanna Eriksson, gm Sonja Thorstensson. KTH (tekn fysik) 36. Lab.ing AB Hammarbylampan 36—38, avd.ch AB Standard Radiofabr 39—43 f tillv av elektronrör o selenlikrikt.plattor, lab.ch v AB Sv Metallvkn Västerås sed. 43; ass elektronik KTH 42—43. Resor: Engl, Frankr 39, Tyskl 42. Av trycket: Upps i Annalen d Physik. Div skyt-teni. Hobbies: Skytte, friluftsliv.",
+    "translated": "CLAESSON, Martin Andreas, Civil Engineer, Stockholm, b. Hedemora municipality 20/5 11 to farmer C Andersson and Johanna Eriksson, m. Sonja Thorstensson. Graduated from KTH (Engineering Physics) in 36. Worked as a laboratory engineer at AB Hammarbylampan from 36 to 38, department chief at AB Standard Radiofabr from 39 to 43, specializing in electron tube and selenium rectifier plates manufacturing. Currently in the laboratory department of AB Sv Metallvkn in Västerås since 43. Assistant in electronics at KTH from 42 to 43. Travels: England, France in 39, Germany in 42. Publications: Published in the Annalen d Physik. Enjoys shooting and outdoor activities as hobbies.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Martin Andreas Claesson",
+        "jobTitle": "Civil Engineer",
+        "birthPlace": "Hedemora municipality",
+        "birthDate": "1911-05-20",
+        "father": {
+            "@type": "Person",
+            "name": "C Andersson"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Johanna Eriksson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Sonja Thorstensson"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Bachelor's degree",
+            "educationalLevel": "Civil Engineering",
+            "provider": {
+                "@type": "CollegeOrUniversity",
+                "name": "KTH"
+            },
+            "startDate": "1936",
+            "endDate": "1936"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "AB Hammarbylampan",
+                "department": "Laboratory Engineering",
+                "startDate": "1936",
+                "endDate": "1938"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Standard Radiofabr",
+                "department": "Department Chief",
+                "startDate": "1939",
+                "endDate": "1943"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Sv Metallvkn",
+                "department": "Laboratory Department",
+                "location": "Västerås",
+                "startDate": "1943"
+            },
+            {
+                "@type": "Organization",
+                "name": "KTH",
+                "department": "Electronics",
+                "startDate": "1942",
+                "endDate": "1943"
+            }
+        ],
+        "nationality": "Swedish",
+        "sameAs": "https://example.com/martin-andreas-claesson",
+        "publication": [
+            {
+                "@type": "Article",
+                "name": "Published in the Annalen d Physik"
+            }
+        ],
+        "interest": [
+            {
+                "@type": "SportsActivityLocation",
+                "name": "Shooting"
+            },
+            {
+                "@type": "SportsActivity",
+                "name": "Outdoor activities"
+            }
+        ],
+        "travel": [
+            {
+                "@type": "Place",
+                "name": "England"
+            },
+            {
+                "@type": "Place",
+                "name": "France"
+            },
+            {
+                "@type": "Place",
+                "name": "Germany"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Stockholm",
+                "industry": "Engineering",
+                "start_date": "1936"
+            },
+            {
+                "occupational_title": "Laboratory Engineer",
+                "workplace": "AB Hammarbylampan",
+                "industry": "Electronics",
+                "start_date": "1936"
+            },
+            {
+                "occupational_title": "Department Chief",
+                "workplace": "AB Standard Radiofabr",
+                "industry": "Electronics",
+                "start_date": "1939"
+            },
+            {
+                "occupational_title": "Laboratory Department",
+                "workplace": "AB Sv Metallvkn Västerås",
+                "industry": "Metallurgy",
+                "start_date": "1943"
+            },
+            {
+                "occupational_title": "Assistant in Electronics",
+                "workplace": "KTH",
+                "industry": "Education",
+                "start_date": "1942"
+            }
+        ]
+    }
+}

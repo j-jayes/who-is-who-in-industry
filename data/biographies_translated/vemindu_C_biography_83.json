@@ -1,0 +1,109 @@
+{
+    "original": "CARLSTRÖM, Sten Lambert Napoleon, Hyttmästare, Glimåkra, f Älghult 17/9 91 av br.-patr O C o Emma Carlberg, gm Matilda Petterson. Hermods, praktik. Anst AB Rosdals Glasbr 05—20, Sk Ättiksfabr Perstorp 23—24, Pukebergs Glasbr Nybro 25, fabr.ch GlimmaGlasbr AB sed. 26, styr.led dta. Äg fastigh Glimåkra. Stud.res Tyskl, Böhmen 29, Finl,",
+    "translated": "CARLSTRÖM, Sten Lambert Napoleon, Master Blower, Glimåkra, born in Älghult on September 17, 1891, son of O C and Emma Carlberg, married to Matilda Petterson. Education at Hermods, practical training. Employment at AB Rosdals Glasbr from 1905 to 1920, Sk Ättiksfabr Perstorp from 1923 to 1924, Pukebergs Glasbr Nybro in 1925, factory manager at GlimmaGlasbr AB since 1926, member of the board of directors of Äg fastigh Glimåkra. Study trips to Germany, Bohemia in 1929, Finland.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "givenName": "Sten Lambert Napoleon",
+        "familyName": "Carlström",
+        "birthDate": "1891-09-17",
+        "birthPlace": "Älghult",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "O C Carlberg",
+                "relation": "father"
+            },
+            {
+                "@type": "Person",
+                "name": "Emma Carlberg",
+                "relation": "mother"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Matilda Petterson"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Hermods",
+            "credentialOffered": "practical training"
+        },
+        "employment": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1905",
+                "endDate": "1920",
+                "roleName": "Master Blower",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Rosdals Glasbr"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1923",
+                "endDate": "1924",
+                "roleName": "Master Blower",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Sk Ättiksfabr Perstorp"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1925",
+                "endDate": "1925",
+                "roleName": "Master Blower",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Pukebergs Glasbr Nybro"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1926",
+                "roleName": "Factory Manager",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "GlimmaGlasbr AB"
+                }
+            }
+        ],
+        "additionalProperty": [
+            {
+                "@type": "PropertyValue",
+                "name": "Studied in",
+                "value": "Germany, Bohemia in 1929, Finland"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Master Blower",
+                "workplace": "AB Rosdals Glasbr",
+                "industry": "Glass manufacturing",
+                "start_date": "1905"
+            },
+            {
+                "occupational_title": "Master Blower",
+                "workplace": "Sk Ättiksfabr Perstorp",
+                "industry": "Vinegar production",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Master Blower",
+                "workplace": "Pukebergs Glasbr Nybro",
+                "industry": "Glass manufacturing",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Factory Manager",
+                "workplace": "GlimmaGlasbr AB",
+                "industry": "Glass manufacturing",
+                "start_date": "1926"
+            }
+        ]
+    }
+}

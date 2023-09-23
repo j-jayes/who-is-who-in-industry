@@ -1,0 +1,110 @@
+{
+    "original": "CARLSON, Carl August, Fabrikör, Arboga, f Ervalla, öbr l, 12/12 92, gm Elisabeth Person. Anst i spec.aff i Klacka-Lerberg, överg t charkuteriyrk, anst AB A Gustavsson öbr 12—20, förest denna fmas fil i Kopparb 0 Grängesb 20, övert fmans fil i Arboga 27 o inneh den t 38, grund Hdls AB Carl A Carlson Charkuterifabr 38. Medl Arboga köpm- o hantv.frn samt Västml l slakteri- o chark.idk.-frn. Medl Arboga jaktv.frn. V. värd o kass 1 Filadelfiaförsaml.",
+    "translated": "CARLSON, Carl August, Manufacturer, Arboga, born in Ervalla, other locations, 12th December 1892, married Elisabeth Person. Employed in specialty store in Klacka-Lerberg, transitioned to butcher profession, employed at AB A Gustavsson until 1920. Then served as superintendent of this company's branch in Kopparberg and Grängesberg until 1927, took over the management of the company's branch in Arboga in 1927 and held it until 1938. Founded the Trading Company AB Carl A Carlson Charkuterifabr in 1938. Member of the Arboga Merchants and Craftsmen Association as well as the West Midlands Butchers and Delicatessen Trade Association. Member of the Arboga Hunting Association. Vice-chairman and treasurer of the Filadelfia Congregation.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Carl August Carlson",
+        "birthDate": "1892-12-12",
+        "birthPlace": "Ervalla",
+        "nationality": "Swedish",
+        "jobTitle": "Manufacturer",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Arboga Merchants and Craftsmen Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "West Midlands Butchers and Delicatessen Trade Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Arboga Hunting Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Filadelfia Congregation"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Elisabeth Person"
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Trading Company AB Carl A Carlson Charkuterifabr",
+            "foundingDate": "1938"
+        },
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "Specialty Store in Klacka-Lerberg",
+                "startDate": "Unknown",
+                "endDate": "1920"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB A Gustavsson",
+                "startDate": "1920",
+                "endDate": "1927"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB A Gustavsson (Branch: Kopparberg and Grängesberg)",
+                "startDate": "1927",
+                "endDate": "1927"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB A Gustavsson (Branch: Arboga)",
+                "startDate": "1927",
+                "endDate": "1938"
+            }
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Arboga"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Manufacturer",
+                "workplace": "Arboga",
+                "industry": "Not specified",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Specialty Store Employee",
+                "workplace": "Klacka-Lerberg",
+                "industry": "Retail",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Butcher",
+                "workplace": "AB A Gustavsson",
+                "industry": "Meat and Food Processing",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Superintendent",
+                "workplace": "AB A Gustavsson (branch in Kopparberg and Grängesberg)",
+                "industry": "Meat and Food Processing",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Branch Manager",
+                "workplace": "AB A Gustavsson (branch in Arboga)",
+                "industry": "Meat and Food Processing",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Founder",
+                "workplace": "Hdls AB Carl A Carlson Charkuterifabr",
+                "industry": "Meat and Food Processing",
+                "start_date": null
+            }
+        ]
+    }
+}

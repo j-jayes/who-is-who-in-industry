@@ -1,0 +1,131 @@
+{
+    "original": "CEDERLUND, Carl Fredrik, Direktör, Örebro, f Etuna 26/6 84 av ind.arb F C o Maria Eriksson, gm Frida Olsson (d). Hdlssk, korresp.stud. Hdlsbitr o butiksförest. Arbetarnas HAB Etuna 97—06, förest Laxå Arbetares HAB 07—13, d:o Koop Frb Nrkp 13—16, styr.led o dir Konsum öbr 17—26 o sed. 31, d:o Koop Frb Sthlm 27—30. Led Koop Frbs för-valtn.råd. Ldstm, led Stat jordbr.nmd 37—39, Stat livsm.kommiss 39—42, fi koop, kommunala o statl komm. Föret fi res i europ länd.",
+    "translated": "CEDERLUND, Carl Fredrik, Director, Örebro, b. Etuna 26/6 1884, son of industrial worker F C and Maria Eriksson, m. Frida Olsson (d). Elementary school, correspondence studies. Salesperson and store manager. Workers' Cooperative Society Etuna 1897-1906, manager Workers' Cooperative Society Laxå 1907-1913, manager Cooperative Wholesale Society Norrköping 1913-1916, board member and director of Konsum Örebro 1917-1926 and since 1931, board member Cooperative Wholesale Society Stockholm 1927-1930. Board member of Cooperative Wholesale Society's administrative council. Member of the oldest board, member of the State Agricultural Board 1937-1939, State Commissioner for Livestock Market 1939-1942, representative in cooperative, municipal and state committees. Made business trips to European countries.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Cederlund, Carl Fredrik",
+        "jobTitle": "Director",
+        "birthPlace": "Etuna",
+        "birthDate": "1884-06-26",
+        "father": {
+            "@type": "Person",
+            "name": "F C"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Maria Eriksson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Frida Olsson",
+            "deathDate": "unknown"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Elementary school",
+            "studyMode": "Correspondence studies"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Workers' Cooperative Society Etuna",
+                "startDate": "1897",
+                "endDate": "1906"
+            },
+            {
+                "@type": "Organization",
+                "name": "Workers' Cooperative Society Laxå",
+                "startDate": "1907",
+                "endDate": "1913"
+            },
+            {
+                "@type": "Organization",
+                "name": "Cooperative Wholesale Society Norrköping",
+                "startDate": "1913",
+                "endDate": "1916"
+            },
+            {
+                "@type": "Organization",
+                "name": "Konsum Örebro",
+                "startDate": "1917",
+                "endDate": "1926"
+            },
+            {
+                "@type": "Organization",
+                "name": "Konsum Örebro",
+                "startDate": "1931"
+            },
+            {
+                "@type": "Organization",
+                "name": "Cooperative Wholesale Society Stockholm",
+                "startDate": "1927",
+                "endDate": "1930"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Cooperative Wholesale Society",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Administrative Council"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "State Agricultural Board",
+                "startDate": "1937",
+                "endDate": "1939"
+            },
+            {
+                "@type": "Organization",
+                "name": "State Commissioner for Livestock Market",
+                "startDate": "1939",
+                "endDate": "1942"
+            }
+        ],
+        "otherCommittees": "Representative in cooperative, municipal, and state committees",
+        "businessTravel": "Made business trips to European countries"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Salesperson",
+                "workplace": "Arbetarnas HAB Etuna",
+                "industry": "Cooperative",
+                "start_date": "1897"
+            },
+            {
+                "occupational_title": "Store Manager",
+                "workplace": "Laxå Arbetares HAB",
+                "industry": "Cooperative",
+                "start_date": "1907"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Koop Frb Nrkp",
+                "industry": "Cooperative",
+                "start_date": "1913"
+            },
+            {
+                "occupational_title": "Board Member and Director",
+                "workplace": "Konsum öbr",
+                "industry": "Cooperative",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Koop Frb Sthlm",
+                "industry": "Cooperative",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Cooperative Wholesale Society's Administrative Council",
+                "industry": "Cooperative",
+                "start_date": null
+            }
+        ]
+    }
+}

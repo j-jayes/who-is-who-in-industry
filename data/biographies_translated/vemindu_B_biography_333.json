@@ -1,0 +1,134 @@
+{
+    "original": "BOLINDER, Erik Carl Gerhard, Direktör, Civilingenjör, Sthlm, f Sthlm 12/6 92 av dir Erik A B p Nellie Delcomyn, gm Gurli Fischer. Kungsh lärov o Nya elem, studex 11, ex KTH 16, HHS (nat.ekon). Dir.ass o disp v J o C G Bolinders mek verkstAB t 27, v. vkst dir 31— 32, disp v AB Westeråsmaskiner, Morgongåva, 27—31, vkst dir sed. 34. Eg föret: And Fischer AB, Sthlm. Styr.led i detta sed, 26, ordf sed. 34, styr.led i AB Westeråsmaskiner sed. 26. Resor: Omf res i Engl o USA 19—21, Europa 26—27. RVO. Hobby: Jakt.",
+    "translated": "BOLINDER, Erik Carl Gerhard, Director, Civil Engineer, Stockholm, born in Stockholm on June 12, 1892, son of director Erik A B and Nellie Delcomyn, married to Gurli Fischer. Educated at Kungsh lärov o Nya elem, graduated in 1911, graduated from KTH (Royal Institute of Technology) in 1916, HHS (National Economy). Director's assistant and manager at J o C G Bolinders mek verkstAB from 1927, vice managing director from 1931-1932, manager at AB Westeråsmaskiner, Morgongåva, from 1927-1931, vice managing director since 1934. Own business: And Fischer AB, Stockholm. Board member in this company since 1926, chairman since 1934, board member in AB Westeråsmaskiner since 1926. Travel: Extensive travels in England and the USA from 1919-1921, Europe from 1926-1927. Awarded the Royal Order of Vasa. Hobby: Hunting.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Erik Carl Gerhard Bolinder",
+        "givenName": "Erik",
+        "familyName": "Bolinder",
+        "birthDate": "1892-06-12",
+        "birthPlace": "Stockholm",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Erik A B"
+            },
+            {
+                "@type": "Person",
+                "name": "Nellie Delcomyn"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Gurli Fischer"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "high school",
+                "educationalLevel": "secondary school",
+                "name": "Kungsh lärov o Nya elem",
+                "dateCompleted": "1911"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "university",
+                "educationalLevel": "bachelor's degree",
+                "name": "KTH (Royal Institute of Technology)",
+                "dateCompleted": "1916"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "university",
+                "educationalLevel": "master's degree",
+                "name": "HHS (National Economy)"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "J o C G Bolinders mek verkstAB",
+                "startDate": "1927",
+                "endDate": "1931",
+                "title": "Director's Assistant"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Westeråsmaskiner",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Morgongåva"
+                },
+                "startDate": "1927",
+                "endDate": "1931",
+                "title": "Manager"
+            },
+            {
+                "@type": "Organization",
+                "name": "And Fischer AB",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm"
+                }
+            }
+        ],
+        "jobTitle": [
+            "Director",
+            "Civil Engineer"
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "And Fischer AB",
+                "startDate": "1926"
+            }
+        ],
+        "honorificSuffix": "RVO",
+        "hobbies": [
+            "Hunting"
+        ],
+        "award": {
+            "@type": "Order",
+            "name": "Royal Order of Vasa"
+        },
+        "hasOccupation": [
+            {
+                "@type": "Occupation",
+                "name": "Civil Engineer"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director's assistant",
+                "workplace": "J o C G Bolinders mek verkstAB",
+                "industry": "Mechanical engineering",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Vice Managing Director",
+                "workplace": "J o C G Bolinders mek verkstAB",
+                "industry": "Mechanical engineering",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "AB Westeråsmaskiner",
+                "industry": "Mechanical engineering",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Vice Managing Director",
+                "workplace": "AB Westeråsmaskiner",
+                "industry": "Mechanical engineering",
+                "start_date": "1934"
+            }
+        ]
+    }
+}

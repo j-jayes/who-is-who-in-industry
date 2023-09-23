@@ -1,0 +1,98 @@
+{
+    "original": "CAHP, Carl Viktor P:son, Direktör, Norrköping, f Vara, Skarab län, 4/6 89 av dir C A Petterson o Mathilda Anderson, gm Karin Swärd. Norrköp h a lärov, hdlssk Berlin. prakt Tyskl 06—07, Engl 11. I AB C A Pet: terson, Norrköp, sed. 05.",
+    "translated": "CAHP, Carl Viktor P:son, Director, Norrköping, born in Vara, Skaraborg County, on 4th June 1889, son of director C A Petterson and Mathilda Anderson, married to Karin Swärd. Educated at Norrköping's city school, trade school in Berlin. Practical training in Germany in 1906-1907, and in England in 1911. Employed in AB C A Petterson, Norrköping since 1905..",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Viktor P:son CAHP",
+        "jobTitle": "Director",
+        "birthDate": "1889-06-04",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Vara",
+            "address": {
+                "@type": "PostalAddress",
+                "addressRegion": "Skaraborg County",
+                "addressCountry": "Sweden"
+            }
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "C A Petterson",
+                "jobTitle": "Director"
+            },
+            {
+                "@type": "Person",
+                "name": "Mathilda Anderson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Karin Swärd"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Norrköping's city school"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Trade school in Berlin"
+            }
+        ],
+        "hasCredential": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "Practical training in Germany",
+                "startDate": "1906",
+                "endDate": "1907",
+                "place": {
+                    "@type": "Country",
+                    "name": "Germany"
+                }
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "Practical training in England",
+                "startDate": "1911",
+                "place": {
+                    "@type": "Country",
+                    "name": "England"
+                }
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "AB C A Petterson",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Norrköping",
+                "addressCountry": "Sweden"
+            },
+            "startDate": "1905"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "AB C A Petterson",
+                "industry": "Unknown",
+                "start_date": "1905"
+            },
+            {
+                "occupational_title": "Unknown",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "1906-1907"
+            },
+            {
+                "occupational_title": "Unknown",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "1911"
+            }
+        ]
+    }
+}

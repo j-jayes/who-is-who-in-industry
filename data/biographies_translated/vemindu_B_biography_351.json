@@ -1,0 +1,131 @@
+{
+    "original": "BOKEN, Adolf Fredrik, Bankkamrer, Göteborg, f Gbg 19/5 98 av mod.snick O B o Fanny Lindau, gin Kerstin Andersson. Studex Gbgs h lat.lvk 18, fackk f stud v Gbgs Hdlsinst 20, stud nat.ekon o statsk v GbHS 20—26. Tjm Skand bkn Gbg 20, kamr o pers.chef där sed. 41. Stdsflm, led av 22 :a tx.distr, suppl dräts.-kam I avd, suppl sparv.styr, v. ordf o kassaf folksk.styr, suppl stdflms valkomm, allt Gbg. V. ordf Vinga Kafé AB, 2:dre v. ordf Gbgs Högerfrb, rev Gbgs Tomtr.kassa, rev.suppl Bergsl jvg AB.",
+    "translated": "BOKEN, Adolf Fredrik, Bank Clerk, Gothenburg, b. Gothenburg 19/5 98, son of carpenter O. B and Fanny Lindau, married Kerstin Andersson. Graduated from Gothenburg Latin School in 1918, studied trade at Gothenburg Commercial Institute in 1920, studied economics and political science at Gothenburg University 1920-1926. Employed by Skandia Bank in Gothenburg in 1920, promoted to Clerk and Personnel Manager in 1941. Member of the 22nd tax distribution district, substitute member of the Municipal Finance Committee, substitute member of the Sparv Railway Board, Vice Chairman and Treasurer of the Public School Board, substitute member of the City Film Selection Committee, all in Gothenburg. Vice Chairman of Vinga Café AB, 2nd Vice Chairman of the Gothenburg Right Association, auditor of the Gothenburg Land Bank, substitute auditor of the Bergslagen Railway AB.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Adolf Fredrik BOKEN",
+        "birthDate": "1898-05-19",
+        "birthPlace": "Gothenburg",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "O. B",
+                "jobTitle": "Carpenter"
+            },
+            {
+                "@type": "Person",
+                "name": "Fanny Lindau"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Kerstin Andersson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Gothenburg Latin School",
+                "endDate": "1918"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Gothenburg Commercial Institute",
+                "startDate": "1920"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Gothenburg University",
+                "startDate": "1920",
+                "endDate": "1926",
+                "description": "Studied economics and political science."
+            }
+        ],
+        "occupation": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Bank Clerk",
+                "startDate": "1920",
+                "endDate": "1941",
+                "namedPosition": "Skandia Bank, Gothenburg"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Clerk and Personnel Manager",
+                "startDate": "1941",
+                "namedPosition": "Skandia Bank, Gothenburg"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "22nd tax distribution district"
+            },
+            {
+                "@type": "Organization",
+                "name": "Municipal Finance Committee",
+                "description": "Substitute member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sparv Railway Board",
+                "description": "Substitute member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Public School Board",
+                "roles": [
+                    "Vice Chairman",
+                    "Treasurer"
+                ]
+            },
+            {
+                "@type": "Organization",
+                "name": "City Film Selection Committee",
+                "description": "Substitute member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Vinga Café AB",
+                "roles": [
+                    "Vice Chairman"
+                ]
+            },
+            {
+                "@type": "Organization",
+                "name": "Gothenburg Right Association",
+                "roles": [
+                    "2nd Vice Chairman"
+                ]
+            },
+            {
+                "@type": "Organization",
+                "name": "Gothenburg Land Bank",
+                "roles": [
+                    "Auditor"
+                ]
+            },
+            {
+                "@type": "Organization",
+                "name": "Bergslagen Railway AB",
+                "description": "Substitute auditor"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Bank Clerk",
+                "workplace": "Skandia Bank",
+                "industry": "Banking",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Clerk and Personnel Manager",
+                "workplace": "Skandia Bank",
+                "industry": "Banking",
+                "start_date": "1941"
+            }
+        ]
+    }
+}

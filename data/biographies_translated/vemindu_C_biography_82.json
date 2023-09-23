@@ -1,0 +1,184 @@
+{
+    "original": "CARLSTRÖM, Oscar Engelbrekt Eugen, Direktör, Glimåkra, f Älghult, Kronob l, 25/10 89 av br.äg O C o Emma Carlberg, gm Ingeborg Christiansson. Hdlssk, korresp.stud Hermods, språkstud Poelhmans Spracheninst Berlin, komm.koll.stip f glasbr.stud Tyskl o Tjeckoslov 22. Prakt AB Rosdala Glasbr Norrhult, avd.ch Elme Glasbr Älmhult 1921, vol Hoths Textil AG Berlin 22, insp Ryds Glasbr Ryd 24—26, disp o styr.led Glimma Glasbr Glimåkra 26, huv.deläg, vkst dir o styr.ordf där. Komm.flm, kyrkoflm, v. ordf munic.flm, ordf munic.nmd, ordf Glimåkra luftsk.frn. Styr.led Sv Hushållsglasfabrik.frn Växjö. Resor: Tyskl, Tjeckoslov, Österr 22, 38. Hobby: Fiolspelning.",
+    "translated": "CARLSTRÖM, Oscar Engelbrekt Eugen, Director, Glimåkra, born in Älghult, Kronoberg County, on the 25th of October 1889, son of the farmer Olof Carlström and Emma Carlberg, married to Ingeborg Christiansson. He attended trade school, correspondence studies at Hermods, and language studies at Poelhmans Spracheninstitut in Berlin. He received a scholarship for glassmaking studies in Germany and Czechoslovakia in 1922. Oscar worked at AB Rosdala Glasbruk in Norrhult, as head of the Elme Glasbruk branch in Älmhult in 1921, as a representative for Hoths Textil AG in Berlin in 1922, as an inspector at Ryds Glasbruk in Ryd from 1924 to 1926, and as a manager and board member at Glimma Glasbruk in Glimåkra from 1926. He was a co-owner, director of growth, and chairman of the board there. He served as a municipal councilor, church councilor, vice chairman of the municipality council, chairman of the municipality committee, and chairman of Glimåkra's air defense association. He was also a board member of the Swedish Household Glass Factory from Växjö. He traveled to Germany, Czechoslovakia, and Austria in 1922 and 1938. His hobby was playing the violin.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Oscar Engelbrekt Eugen Carlström",
+        "givenName": "Oscar Engelbrekt Eugen",
+        "familyName": "Carlström",
+        "jobTitle": "Director",
+        "birthDate": "1889-10-25",
+        "birthPlace": "Älghult, Kronoberg County",
+        "father": {
+            "@type": "Person",
+            "name": "Olof Carlström"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Emma Carlberg"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Ingeborg Christiansson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Trade School"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Correspondence Studies",
+                "educationalLevel": "Hermods"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Language Studies",
+                "educationalLevel": "Poelhmans Spracheninstitut Berlin"
+            }
+        ],
+        "scholarships": [
+            {
+                "@type": "Scholarship",
+                "name": "Glassmaking Studies",
+                "dateAwarded": "1922",
+                "studyLocation": [
+                    "Germany",
+                    "Czechoslovakia"
+                ]
+            }
+        ],
+        "workExperience": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Head of Elme Glasbruk Branch",
+                "organizationName": "AB Rosdala Glasbruk",
+                "startDate": "1921",
+                "endDate": "1921",
+                "location": "Älmhult"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Representative",
+                "organizationName": "Hoths Textil AG Berlin",
+                "startDate": "1922",
+                "endDate": "1922"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Inspector",
+                "organizationName": "Ryds Glasbruk",
+                "startDate": "1924",
+                "endDate": "1926",
+                "location": "Ryd"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Manager",
+                "organizationName": "Glimma Glasbruk",
+                "startDate": "1926"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Board Member",
+                "organizationName": "Glimma Glasbruk"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Director of Growth",
+                "organizationName": "Glimma Glasbruk"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Chairman",
+                "organizationName": "Glimma Glasbruk"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Board Member",
+                "organizationName": "Swedish Household Glass Factory (Växjö)"
+            }
+        ],
+        "membership": [
+            {
+                "@type": "Organization",
+                "name": "Municipal Council"
+            },
+            {
+                "@type": "Organization",
+                "name": "Church Council"
+            },
+            {
+                "@type": "Organization",
+                "name": "Municipality Council",
+                "roleName": "Vice Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Municipality Committee",
+                "roleName": "Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Glimåkra's Air Defense Association",
+                "roleName": "Chairman"
+            }
+        ],
+        "hobby": "Playing the violin",
+        "travelHistory": [
+            {
+                "@type": "TravelAction",
+                "fromLocation": "Sweden",
+                "toLocation": "Germany",
+                "startDate": "1922"
+            },
+            {
+                "@type": "TravelAction",
+                "fromLocation": "Sweden",
+                "toLocation": "Czechoslovakia",
+                "startDate": "1922"
+            },
+            {
+                "@type": "TravelAction",
+                "fromLocation": "Sweden",
+                "toLocation": "Austria",
+                "startDate": "1938"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Glimma Glasbruk",
+                "industry": "Glass manufacturing",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Head of Branch",
+                "workplace": "Elme Glasbruk",
+                "industry": "Glass manufacturing",
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Representative",
+                "workplace": "Hoths Textil AG",
+                "industry": "Textile industry",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Inspector",
+                "workplace": "Ryds Glasbruk",
+                "industry": "Glass manufacturing",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Co-owner, Director of Growth, Chairman of the Board",
+                "workplace": "Glimma Glasbruk",
+                "industry": "Glass manufacturing",
+                "start_date": "1926"
+            }
+        ]
+    }
+}

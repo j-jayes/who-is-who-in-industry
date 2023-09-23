@@ -1,0 +1,145 @@
+{
+    "original": "BRODIN, Hans Wilhelm Germund, Advokat, Linköping, f Malmö 20/3 02 av borgm Hans B o Helma Dyberg, gm Carin Thiman. Studex 20, jur kand Lund 25. Tingstjg 26—29, adv i Linköp sed. 29, deläg i Linköp jurid byrå. Medl av stadsrev, suppl i österg läns landst, ordf i tax.nmda i Gammalkils o Askeby distr. Resor: Tyskl 21, Österr 24, 25, Ital 36. SHT. Frimurare. Hobbies: Segl, musik.",
+    "translated": "BRODIN, Hans Wilhelm Germund, Lawyer, Linköping, born in Malmö on March 20, 1902, son of Mayor Hans B and Helma Dyberg, married to Carin Thiman. Graduated high school in 1920, received a law degree from Lund University in 1925. Served as a judge from 1926 to 1929, practiced law in Linköping since 1929, co-owner of a law firm in Linköping. Member of the city council, substitute in the county council of Östergötland, chairman of the tax committee in the Gammalkils and Askeby districts. Traveled to Germany in 1921, Austria in 1924 and 1925, and Italy in 1936. Member of the Freemasons. Hobbies: Sailing, music.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Hans Wilhelm Germund Brodin",
+        "jobTitle": "Lawyer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Linköping"
+        },
+        "birthDate": "1902-03-20",
+        "birthPlace": "Malmö",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Hans B"
+            },
+            {
+                "@type": "Person",
+                "name": "Helma Dyberg"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Carin Thiman"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "high school graduation",
+            "educationalLevel": "HighSchool",
+            "alumniOf": {
+                "@type": "CollegeOrUniversity",
+                "name": "Lund University"
+            },
+            "dateEarned": "1920"
+        },
+        "employment": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1929",
+                "roleName": "Lawyer",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Linköping Law Firm",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Linköping"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1926",
+                "endDate": "1929",
+                "roleName": "Judge"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "City Council"
+            },
+            {
+                "@type": "Organization",
+                "name": "County Council of Östergötland"
+            },
+            {
+                "@type": "Organization",
+                "name": "Tax Committee in Gammalkils District"
+            },
+            {
+                "@type": "Organization",
+                "name": "Tax Committee in Askeby District"
+            },
+            {
+                "@type": "Organization",
+                "name": "Freemasons"
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "Place",
+                "name": "Germany",
+                "startDate": "1921"
+            },
+            {
+                "@type": "Place",
+                "name": "Austria",
+                "startDate": "1924",
+                "endDate": "1925"
+            },
+            {
+                "@type": "Place",
+                "name": "Italy",
+                "startDate": "1936"
+            }
+        ],
+        "hobbies": [
+            "Sailing",
+            "Music"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Lawyer",
+                "workplace": "Linköping",
+                "industry": "",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Judge",
+                "workplace": "",
+                "industry": "",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Lawyer",
+                "workplace": "Linköping",
+                "industry": "Law firm",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Member of the city council",
+                "workplace": "",
+                "industry": "",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Substitute in the county council",
+                "workplace": "Östergötland",
+                "industry": "",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Chairman of the tax committee",
+                "workplace": "Gammalkils and Askeby districts",
+                "industry": "",
+                "start_date": ""
+            }
+        ]
+    }
+}

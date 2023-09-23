@@ -1,0 +1,117 @@
+{
+    "original": "CHRISTENSSON, Alf Wilhelm, Direktör, Stockholm, f Lysekil 26/5 06 av konsul A V C o Anna Maria Lundbohm, gm Stina Björsell. Realsk, hdlssk. Bitr försäkr.insp i Svecia t 29, deläg o vkst dir AB Centrala Kartong-fabr sed. 29, d:o Fastigh.AB Magneten sed. 39. Ag fastigh i Ingarö s:n. Ordf frn Lysekilspojkarna. Resor: Tyskl, Österr, Belg, Holl mfl länd. Frimurare, PB. Hobbies: Segling, jakt, fiske.",
+    "translated": "CHRISTENSSON, Alf Wilhelm, Director, Stockholm, born in Lysekil on May 26, 1906, the son of Consul A. V. C. and Anna Maria Lundbohm, married to Stina Björsell. Completed elementary school and commercial school. Assistant insurance inspector at Svecia until 1929, co-owner and growth director of AB Centrala Kartongfabrik since 1929, the same at Fastighets AB Magneten since 1939. Owns real estate in Ingarö parish. Chairman of the Lysekil Boys Association. Has traveled to Germany, Austria, Belgium, the Netherlands, and other countries. Freemason, member of the Freemasons' Lodge. Hobbies: Sailing, hunting, fishing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Alf Wilhelm Christensson",
+        "birthDate": "1906-05-26",
+        "birthPlace": "Lysekil",
+        "nationality": "Swedish",
+        "jobTitle": "Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "A. V. C. Christensson",
+                "jobTitle": "Consul"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Maria Lundbohm"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Stina Björsell"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "elementary school",
+            "educationalLevel": "commercial school"
+        },
+        "work": [
+            {
+                "@type": "JobPosting",
+                "title": "Assistant insurance inspector",
+                "startDate": "1929",
+                "endDate": "1929",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Svecia"
+                }
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Co-owner and growth director",
+                "startDate": "1929",
+                "endDate": null,
+                "employer": {
+                    "@type": "Organization",
+                    "name": "AB Centrala Kartongfabrik"
+                }
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Co-owner and growth director",
+                "startDate": "1939",
+                "endDate": null,
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Fastighets AB Magneten"
+                }
+            }
+        ],
+        "owns": [
+            {
+                "@type": "LandmarksOrHistoricalBuildings",
+                "name": "Real estate in Ingarö parish"
+            }
+        ],
+        "affiliation": {
+            "@type": "Organization",
+            "name": "Lysekil Boys Association",
+            "roleName": "Chairman"
+        },
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Freemasons' Lodge"
+        },
+        "knowsAbout": [
+            "Germany",
+            "Austria",
+            "Belgium",
+            "Netherlands"
+        ],
+        "interests": [
+            "Sailing",
+            "Hunting",
+            "Fishing"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Assistant Insurance Inspector",
+                "workplace": "Svecia",
+                "industry": "Insurance",
+                "start_date": "Until 1929"
+            },
+            {
+                "occupational_title": "Co-owner and Growth Director",
+                "workplace": "AB Centrala Kartongfabrik",
+                "industry": "Cardboard Manufacturing",
+                "start_date": "Since 1929"
+            },
+            {
+                "occupational_title": "Co-owner and Growth Director",
+                "workplace": "Fastighets AB Magneten",
+                "industry": "Real Estate",
+                "start_date": "Since 1939"
+            }
+        ]
+    }
+}

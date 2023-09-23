@@ -1,0 +1,180 @@
+{
+    "original": "BRANDSTAD, Malte, Ingenjör, Torshälla, f Brandstads förs, Malmöh l, 4/1 94 av eldare Karl Nilsson o Johanna Jeppsson, gm Gully Åhström. Wendelsbergs folkhögskola, Tekn elem.sk Malmö, Amos Tuck School Dartmouth Coll, USA. Anst som ing v följ företag: AB Vetensk Instrument Lund 17, Maskinfabr AB Thule Malmö 18, AB Pentaverken Skövde 19— 21, Nydqvist &amp; Holm Trollh 23, AB Elgever-ken Linkp 24. Vkst dir ödeshögs Gjuteri o Mek Vkstds Nya AB 25—32. Deläg fma Eminentverktyg, gr 33 i Torshälla, o dess fastgh stdsägan nr 468 i Torsh. Ag bost-fastgh stdsäg 523, Torsh. Inneh fma Brandstad, Torsh. Extra rådman i Torsh. Resor: I studiesyfte t USA 21—22.",
+    "translated": "BRANDSTAD, Malte, Engineer, Torshälla, b. Brandstad parish, Malmöhus county, on 4th January 1894, son of stoker Karl Nilsson and Johanna Jeppsson, m. Gully Åhström. Wendelsberg folk high school, Technical elementary school Malmö, Amos Tuck School Dartmouth College, USA. Employed as an engineer at the following companies: AB Vetensk Instrument Lund 1917, Machine fabric AB Thule Malmö 1918, AB Pentaverken Skövde 1919-1921, Nydqvist & Holm Trollhättan 1923, AB Elgeverken Linköping 1924. Vice director of Ödeshögs Gjuteri and Mek Vkstds Nya AB 1925-1932. Co-owner of Eminentverktyg, founded in 1933 in Torshälla, and its property  registered under number 468 in Torshälla. Owns residential property registered under number 523 in Torshälla. Owner of the company Brandstad, Torshälla. Extra councilman in Torshälla. Travels: Studying purposes in the USA 1921-1922.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Malte Brandstad",
+        "jobTitle": "Engineer",
+        "birthPlace": "Torshälla, Brandstad parish, Malmöhus county, Sweden",
+        "birthDate": "1894-01-04",
+        "father": {
+            "@type": "Person",
+            "name": "Karl Nilsson",
+            "jobTitle": "Stoker"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Johanna Jeppsson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Gully Åhström"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Wendelsbergs folkhögskola"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Technical elementary school Malmö"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Amos Tuck School Dartmouth College",
+                "location": "USA"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "AB Vetensk Instrument Lund",
+                "startDate": "1917",
+                "endDate": "1917"
+            },
+            {
+                "@type": "Organization",
+                "name": "Machine fabric AB Thule Malmö",
+                "startDate": "1918",
+                "endDate": "1918"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Pentaverken Skövde",
+                "startDate": "1919",
+                "endDate": "1921"
+            },
+            {
+                "@type": "Organization",
+                "name": "Nydqvist & Holm Trollhättan",
+                "startDate": "1923",
+                "endDate": "1923"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Elgeverken Linköping",
+                "startDate": "1924",
+                "endDate": "1924"
+            },
+            {
+                "@type": "Organization",
+                "name": "Ödeshögs Gjuteri",
+                "startDate": "1925",
+                "endDate": "1932",
+                "jobTitle": "Vice Director"
+            }
+        ],
+        "owns": [
+            {
+                "@type": "Organization",
+                "name": "Eminentverktyg",
+                "foundingDate": "1933",
+                "founder": "Malte Brandstad",
+                "address": {
+                    "@type": "PostalAddress",
+                    "streetAddress": "Torshälla",
+                    "addressRegion": "Torshälla",
+                    "addressCountry": "Sweden"
+                }
+            },
+            {
+                "@type": "House",
+                "address": {
+                    "@type": "PostalAddress",
+                    "streetAddress": "Torshälla",
+                    "addressRegion": "Torshälla",
+                    "addressCountry": "Sweden"
+                },
+                "propertyID": "468"
+            },
+            {
+                "@type": "House",
+                "address": {
+                    "@type": "PostalAddress",
+                    "streetAddress": "Torshälla",
+                    "addressRegion": "Torshälla",
+                    "addressCountry": "Sweden"
+                },
+                "propertyID": "523"
+            },
+            {
+                "@type": "Organization",
+                "name": "Brandstad",
+                "address": {
+                    "@type": "PostalAddress",
+                    "streetAddress": "Torshälla",
+                    "addressRegion": "Torshälla",
+                    "addressCountry": "Sweden"
+                }
+            }
+        ],
+        "extra": {
+            "@type": "Council",
+            "jobTitle": "Extra councilman",
+            "organizationRole": "Torshälla"
+        },
+        "travelHistory": [
+            {
+                "@type": "TravelAction",
+                "purpose": "Studying",
+                "startDate": "1921",
+                "endDate": "1922",
+                "toLocation": {
+                    "@type": "Place",
+                    "name": "USA"
+                }
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "AB Vetensk Instrument",
+                "industry": "Engineering",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Machine fabric AB Thule",
+                "industry": "Manufacturing",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "AB Pentaverken",
+                "industry": "Manufacturing",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Nydqvist & Holm",
+                "industry": "Manufacturing",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "AB Elgeverken",
+                "industry": "Engineering",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Vice Director",
+                "workplace": "Ödeshögs Gjuteri and Mek Vkstds Nya AB",
+                "industry": "Manufacturing",
+                "start_date": "1925"
+            }
+        ]
+    }
+}

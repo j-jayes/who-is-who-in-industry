@@ -1,0 +1,108 @@
+{
+    "original": "CARLSSON, Ture Emil Edgar, Direktör, Civilingenjör, Paris, f Sthlm 9/3 95 av polis-komm A E C o Emma Johansson, gm Fanny Leplat. Studex h reallärov å Norrmalm i Sthlm 13, KTH 13—17, avg.ex där sistn år. Offerting h Luth &amp; Roséns Elektr AB, Sthlm, 18—21, ch f dess belg dtrbol i Bryssel 21—27 o f franska dtrbolaget i Paris 27—31, vkst dir f Société Frangalse d’Electricité ASEA, Paris, sed. 31. Led Sv Tekn.frn sed. 17.",
+    "translated": "CARLSSON, Ture Emil Edgar, Director, Civil Engineer, Paris, born in Stockholm on March 9th, 1895, the son of police commissioner A E C and Emma Johansson, married to Fanny Leplat. Studied at Norrmalm Grammar School in Stockholm until 1913, then at the Royal Institute of Technology (KTH) from 1913 to 1917, receiving his degree there in the last-mentioned year. Started working at Luth & Rosén's Electrical Company in Stockholm from 1918 to 1921, then became chief of their Belgian daughter company in Brussels from 1921 to 1927, followed by French daughter company in Paris from 1927 to 1931, and has been the managing director of Société Française d’Electricité ASEA, Paris since 1931. Has been a member of the Swedish Technical Association since 1917.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Ture Emil Edgar Carlsson",
+        "birthDate": "1895-03-09",
+        "birthPlace": "Stockholm",
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Swedish Technical Association",
+            "startDate": "1917"
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "A E C Carlsson",
+                "jobTitle": "Police Commissioner"
+            },
+            {
+                "@type": "Person",
+                "name": "Emma Johansson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Fanny Leplat"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Norrmalm Grammar School",
+                "location": "Stockholm",
+                "startDate": "1900",
+                "endDate": "1913"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Royal Institute of Technology (KTH)",
+                "location": "Stockholm",
+                "startDate": "1913",
+                "endDate": "1917"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Luth & Rosén's Electrical Company",
+                "location": "Stockholm",
+                "startDate": "1918",
+                "endDate": "1921",
+                "jobTitle": "Offerting"
+            },
+            {
+                "@type": "Organization",
+                "name": "Belgian daughter company of Luth & Rosén's Electrical Company",
+                "location": "Brussels",
+                "startDate": "1921",
+                "endDate": "1927",
+                "jobTitle": "Chief"
+            },
+            {
+                "@type": "Organization",
+                "name": "French daughter company of Luth & Rosén's Electrical Company",
+                "location": "Paris",
+                "startDate": "1927",
+                "endDate": "1931",
+                "jobTitle": "Chief"
+            },
+            {
+                "@type": "Organization",
+                "name": "Société Française d’Electricité ASEA",
+                "location": "Paris",
+                "startDate": "1931",
+                "jobTitle": "Managing Director"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Offerting",
+                "workplace": "Luth & Roséns Elektr AB",
+                "industry": "Electrical Company",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Chief of Belgian daughter company",
+                "workplace": "Brussels",
+                "industry": "Electrical Company",
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Chief of French daughter company",
+                "workplace": "Paris",
+                "industry": "Electrical Company",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "Société Française d’Electricité ASEA",
+                "industry": "Electrical Company",
+                "start_date": "1931"
+            }
+        ]
+    }
+}

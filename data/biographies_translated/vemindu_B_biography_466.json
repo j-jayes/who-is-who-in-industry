@@ -1,0 +1,98 @@
+{
+    "original": "BACKLUND, Knut Vilhelm, Skogsförvaltare, Gävle, f Ramsele, Västern län, 15/10 85 av skogsförv Eric V B o Christina A Hedlund, gm Greta Fågelberg. 5 kl i H.sands hal 01, skogsinst forstm.kurs 09—10. Anst Gimo br AB 10—13, skogsförv Äggfors 14—15, skogs- o jordbr.förv Korsnäs sågv.AB gävle-förvaltn sed. 15.",
+    "translated": "BACKLUND, Knut Vilhelm, Forest Manager, Gävle, b Ramsele, Västern county, 15/10 85, son of Forest Manager Eric V B and Christina A Hedlund, married to Greta Fågelberg. Completed 5 years in H.sand's primary school in 1901, forest institute forester's course in 1909-1910. Employed at Gimo br AB from 1910 to 1913, forest manager at Äggfors from 1914 to 1915, forest and agricultural manager at Korsnäs Sawmill AB in Gävle since 1915.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Knut Vilhelm",
+        "familyName": "Backlund",
+        "jobTitle": "Forest Manager",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Ramsele"
+        },
+        "birthDate": "1885-10-15",
+        "father": {
+            "@type": "Person",
+            "givenName": "Eric V",
+            "familyName": "B",
+            "jobTitle": "Forest Manager"
+        },
+        "mother": {
+            "@type": "Person",
+            "givenName": "Christina A",
+            "familyName": "Hedlund"
+        },
+        "spouse": {
+            "@type": "Person",
+            "givenName": "Greta",
+            "familyName": "Fågelberg"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "5 years in H.sand's primary school",
+                "endDate": "1901"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "Forest institute forester's course",
+                "startDate": "1909",
+                "endDate": "1910"
+            }
+        ],
+        "workExperience": [
+            {
+                "@type": "OrganizationRole",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Gimo br AB"
+                },
+                "startDate": "1910",
+                "endDate": "1913",
+                "roleName": "Employed"
+            },
+            {
+                "@type": "OrganizationRole",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Äggfors"
+                },
+                "startDate": "1914",
+                "endDate": "1915",
+                "roleName": "Forest Manager"
+            },
+            {
+                "@type": "OrganizationRole",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Korsnäs Sawmill AB"
+                },
+                "startDate": "1915",
+                "roleName": "Forest and Agricultural Manager"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Forest Manager",
+                "workplace": "Gävle",
+                "industry": "Forestry",
+                "start_date": "1915"
+            },
+            {
+                "occupational_title": "Forest Manager",
+                "workplace": "Äggfors",
+                "industry": "Forestry",
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Employed",
+                "workplace": "Gimo br AB",
+                "industry": "Unknown",
+                "start_date": "1910"
+            }
+        ]
+    }
+}

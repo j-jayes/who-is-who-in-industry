@@ -1,0 +1,174 @@
+{
+    "original": "BOLIN, Jakob Pehr Anatole Dedikind, Civilingenjör, Ålsten, f Svalöv 28/9 93 av fd över-assist Pehr B o Anna Söderström. Studex N Real Sthlm 14, KTH (skeppsb.avd) 18, e. marining 22, sederm marining av l gr i Kgl FI res. Anst Robins Drydock Brookl USA 19, provn.ing AB Atlas Diesel 20, ritkont.ch post-vkets vkst 22, SKF Tokio o Osaka Jap 23—28, försäljn.ing Brukskonc Fagersta 29—36, försäljn.ch AB Pumpindustri Sthlmskont sed. 36. Ag villafastgh Ålsten. Idrottsresor Norge, Danm, Belg, Engl, Frankr, aff.resor Norge, Finl, Jap, Sverige. Sv mast 400 o 800 m löpn 16, 17, 18, 19, världsmäst 1000 m löpn 16, 17, 18; »Stor Grabb». Aerokl, Sv Teknol.frn, KSSS, Frn 1893 års män, IFK Sthlm. Hobbies : Segling, allm idr, motorer.",
+    "translated": "BOLIN, Jakob Pehr Anatole Dedikind, Civil engineer, Ålsten, b. Svalöv 28/9 93, son of former senior assistant Pehr B and Anna Söderström. Graduated from Real Gymnasium Stockholm 1914, Royal Institute of Technology (shipbuilding department) 1918, maritime engineer 1922, further marine engineering studies in the Royal Navy Reserve. Employed at Robins Drydock Brooklyn USA from 1919, assistant engineer at AB Atlas Diesel 1920, drawing office official at the Post Office Administration from 1922, SKF Tokyo and Osaka Japan 1923-1928, sales engineer at Brukskoncernen Fagersta 1929-1936, sales representative at AB Pumpindustri Stockholm office since 1936. Owns a villa property in Ålsten. Sports trips to Norway, Denmark, Belgium, England, France; business trips to Norway, Finland, Japan, Sweden. Swedish champion in 400m and 800m running in 1916, 1917, 1918, and 1919, world champion in 1000m running in 1916, 1917, and 1918; awarded \"Stor Grabb\" distinction. Member of Aero Club, Swedish Association of Technology Students, Royal Swedish Yacht Club, From 1893 Men's Association, IFK Stockholm. Hobbies: Sailing, general sports, engines. Note: '\\d\\d m. partners name' indicates that the person got married in the year 19xx.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Jakob Pehr Anatole Dedikind Bolin",
+        "jobTitle": "Civil engineer",
+        "birthPlace": "Svalöv, Sweden",
+        "birthDate": "1893-09-28",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Pehr Bolin",
+                "formerJobTitle": "Senior assistant"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Söderström"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Real Gymnasium Stockholm",
+                "endDate": "1914"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Royal Institute of Technology",
+                "department": "Shipbuilding",
+                "endDate": "1918"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Robins Drydock",
+                "location": "Brooklyn, USA",
+                "startDate": "1919"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Atlas Diesel",
+                "position": "Assistant engineer",
+                "startDate": "1920"
+            },
+            {
+                "@type": "Organization",
+                "name": "Post Office Administration",
+                "position": "Drawing office official",
+                "startDate": "1922"
+            },
+            {
+                "@type": "Organization",
+                "name": "SKF",
+                "location": [
+                    "Tokyo, Japan",
+                    "Osaka, Japan"
+                ],
+                "startDate": "1923",
+                "endDate": "1928"
+            },
+            {
+                "@type": "Organization",
+                "name": "Brukskoncernen Fagersta",
+                "position": "Sales engineer",
+                "startDate": "1929",
+                "endDate": "1936"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Pumpindustri",
+                "position": "Sales representative",
+                "location": "Stockholm, Sweden",
+                "startDate": "1936"
+            }
+        ],
+        "owns": {
+            "@type": "Place",
+            "name": "Villa property",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Ålsten, Sweden"
+            }
+        },
+        "hasOccupation": [
+            {
+                "@type": "SportsTeamSeason",
+                "name": "Swedish national team (athletics)",
+                "startDate": "1916",
+                "endDate": "1919",
+                "description": "Swedish champion in 400m and 800m running"
+            },
+            {
+                "@type": "SportsTeamSeason",
+                "name": "Swedish national team (athletics)",
+                "startDate": "1916",
+                "endDate": "1918",
+                "description": "World champion in 1000m running"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "SportsClub",
+                "name": "Aero Club"
+            },
+            {
+                "@type": "SportsClub",
+                "name": "Swedish Association of Technology Students"
+            },
+            {
+                "@type": "SportsClub",
+                "name": "Royal Swedish Yacht Club"
+            },
+            {
+                "@type": "SportsClub",
+                "name": "From 1893 Men's Association"
+            },
+            {
+                "@type": "SportsClub",
+                "name": "IFK Stockholm"
+            }
+        ],
+        "sameAs": [
+            "https://en.wikipedia.org/wiki/Jakob_Bolin"
+        ],
+        "hobbies": [
+            "Sailing",
+            "General sports",
+            "Engines"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil engineer",
+                "workplace": "Ålsten",
+                "industry": "Engineering",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Employed at Robins Drydock",
+                "workplace": "Brooklyn, USA",
+                "industry": "Shipbuilding",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Assistant engineer",
+                "workplace": "AB Atlas Diesel",
+                "industry": "Engineering",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Drawing office official",
+                "workplace": "Post Office Administration",
+                "industry": "Government",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Sales engineer",
+                "workplace": "Brukskoncernen Fagersta",
+                "industry": "Manufacturing",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Sales representative",
+                "workplace": "AB Pumpindustri Stockholm",
+                "industry": "Manufacturing",
+                "start_date": "1936"
+            }
+        ]
+    }
+}

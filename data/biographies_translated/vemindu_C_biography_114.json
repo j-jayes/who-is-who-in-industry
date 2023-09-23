@@ -1,0 +1,98 @@
+{
+    "original": "CHRISTENSSON, Erik Valentin, Köpman, Marstrand, f Marstr 14/2 97 av August Chris-tensson o Augusta Rydberg, gm Ingeborg Andersson. Folksk o h folksk. Anst AB Marstr mek verkst 12—43. Eg fma Arvidsviks spec.aff. Led av stdsflm o dräts.kamm.",
+    "translated": "CHRISTENSSON, Erik Valentin, Merchant, Marstrand, b. Marstrand 14/2 97 to August Christensson and Augusta Rydberg, m. Ingeborg Andersson. Completed primary and secondary education. Employed at AB Marstrand Mechanical Workshop from 12—43. Previously worked at Arvidsvik's specialty store. Member of the Standards Committee and the Finance Committee.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Erik Valentin Christensson",
+        "givenName": "Erik Valentin",
+        "familyName": "Christensson",
+        "birthDate": "1897-02-14",
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Marstrand"
+        },
+        "father": {
+            "@type": "Person",
+            "name": "August Christensson"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Augusta Rydberg"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Ingeborg Andersson"
+        },
+        "occupation": {
+            "@type": "Person",
+            "name": "Merchant"
+        },
+        "educationLevel": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "Primary education"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "Secondary education"
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "AB Marstrand Mechanical Workshop"
+        },
+        "employmentStartDate": "1912",
+        "employmentEndDate": "1943",
+        "previousEmployment": [
+            {
+                "@type": "Organization",
+                "name": "Arvidsvik's specialty store"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Standards Committee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Finance Committee"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Marstrand",
+                "industry": "Retail",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Employee at AB Marstrand Mechanical Workshop",
+                "workplace": "AB Marstrand Mechanical Workshop",
+                "industry": "Mechanical Engineering",
+                "start_date": "1912"
+            },
+            {
+                "occupational_title": "Employee at Arvidsvik's specialty store",
+                "workplace": "Arvidsvik's specialty store",
+                "industry": "Retail",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Member of the Standards Committee",
+                "workplace": "Unknown",
+                "industry": "Government/Committee",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Member of the Finance Committee",
+                "workplace": "Unknown",
+                "industry": "Government/Committee",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

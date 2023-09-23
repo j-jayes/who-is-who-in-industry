@@ -1,0 +1,123 @@
+{
+    "original": "BLOMBERG, Karl Arvid, v. Konsul, Disponent, Skelleftehamn, f Norberg, Västml l, 31/8 83 av verkm K G B o Johanna Nilsson, gm Elna Ersson. Ex Falu bergssk 06. Verkst.ing v vagnfabr Falun 09—13, säkerhetsing St Kopparb Bergsl AB 14—15, verkst.ing o bygg-n.ing Korsnäs eellul.fabr Bomhus 16—18, byggn.ing Skoghallvkn 19—25, övering Skönviks AB 26—30, disp Bolidens GruvAB, kop-parvkt å Rönnskär, sed. 31. Norsk v. konsul 35. RVO.",
+    "translated": "BLOMBERG, Karl Arvid, v. Consul, Manager, Skelleftehamn, b. Norberg, Västmanland county, August 31, 1883, son of factory worker K G B and Johanna Nilsson, married to Elna Ersson. Graduated from Falun Mining School in 1906. Worked as an engineer at the wagon factory in Falun from 1909 to 1913, safety engineer at Kopparberg Mining Company AB from 1914 to 1915, engineer and construction engineer at Korsnäs cellulose factory in Bomhus from 1916 to 1918, construction engineer at Skoghall Kraftverks AB from 1919 to 1925, superintendent at Skönviks AB from 1926 to 1930, manager at Boliden Mining AB, copper factory in Rönnskär from 1931. Honorary Norwegian consul from 1935. Order of the Royal Vasa (RVO) recipient.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Karl Arvid Blomberg",
+        "givenName": "Karl Arvid",
+        "familyName": "Blomberg",
+        "birthPlace": "Norberg, Västmanland, Sweden",
+        "birthDate": "1883-08-31",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "K G B",
+                "jobTitle": "Factory Worker"
+            },
+            {
+                "@type": "Person",
+                "name": "Johanna Nilsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Elna Ersson"
+        },
+        "educationalCredentialAwarded": {
+            "@type": "EducationalOccupationalCredential",
+            "alumniOf": {
+                "@type": "EducationalOrganization",
+                "name": "Falun Mining School",
+                "foundingDate": "1906"
+            },
+            "credentialCategory": "Degree"
+        },
+        "jobTitle": [
+            "Vice Consul",
+            "Manager"
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Skelleftehamn"
+        },
+        "memberOf": {
+            "@type": "OrganizationRole",
+            "memberOf": {
+                "@type": "Organization",
+                "name": "Skönviks AB",
+                "foundingDate": "1926"
+            },
+            "roleName": "Superintendent"
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Boliden Mining AB",
+            "foundingDate": "1931"
+        },
+        "hasOccupation": [
+            {
+                "@type": "Occupation",
+                "name": "Engineer"
+            },
+            {
+                "@type": "Occupation",
+                "name": "Safety Engineer"
+            },
+            {
+                "@type": "Occupation",
+                "name": "Construction Engineer"
+            },
+            {
+                "@type": "Occupation",
+                "name": "Superintendent"
+            }
+        ],
+        "honoraryTitle": "Norwegian Vice Consul",
+        "award": {
+            "@type": "Order",
+            "name": "Order of the Royal Vasa",
+            "awardDate": "unknown"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Wagon Factory Falun",
+                "industry": "Manufacturing",
+                "start_date": "1909"
+            },
+            {
+                "occupational_title": "Safety Engineer",
+                "workplace": "Kopparberg Mining Company AB",
+                "industry": "Mining",
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Engineer and Construction Engineer",
+                "workplace": "Korsnäs Cellulose Factory Bomhus",
+                "industry": "Manufacturing",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Construction Engineer",
+                "workplace": "Skoghall Kraftverks AB",
+                "industry": "Utilities",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Superintendent",
+                "workplace": "Skönviks AB",
+                "industry": "Unknown",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Boliden Mining AB, Rönnskär",
+                "industry": "Mining",
+                "start_date": "1931"
+            }
+        ]
+    }
+}

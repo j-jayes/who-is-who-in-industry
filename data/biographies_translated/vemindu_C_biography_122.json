@@ -1,0 +1,120 @@
+{
+    "original": "CICERO, Knut Johan Gabriel, Direktör, Hudiksvall, f Fyrunga, Skarab län, 8/7 00 av sysslom J A Cicero o Hilma Zotterman, gm Margareta Liljemark. Realex, h hdlssk. Anst AB Fören Köpmän 19—22, L E Formgren AB sed. 23, vkst dir sed. 39. Styr.led H.valls en-grossistfrn, Sv hdlsres.frn. Resor: Danm 28, Norge 31, 37. Odd Fellow, Temp.ridd.ord, IOGT.",
+    "translated": "CICERO, Knut Johan Gabriel, Director, Hudiksvall, born in Fyrunga, Skaraborg County, on 8th July 1900, son of administrator J A Cicero and Hilma Zotterman, married to Margareta Liljemark. Completing secondary education, he engaged in commercial studies. Employed at AB Fören Köpmän from 1919 to 1922, L E Formgren AB from 1923 until present, and promoted to director in 1939. Serves as a board member of H.valls wholesale company and Swedish trade travel company. Travelled to Denmark in 1928 and Norway in 1931 and 1937. Member of the Odd Fellow, Temp.ridd.ord, and IOGT.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Knut Johan Gabriel Cicero",
+        "jobTitle": "Director",
+        "birthDate": "1900-07-08",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Fyrunga",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Skaraborg County"
+            }
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "J A Cicero",
+                "jobTitle": "Administrator"
+            },
+            {
+                "@type": "Person",
+                "name": "Hilma Zotterman"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Margareta Liljemark"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "SecondaryEducation"
+        },
+        "occupation": {
+            "@type": "OrganizationRole",
+            "startDate": "1919",
+            "endDate": "1922",
+            "roleName": "Employee",
+            "namedPosition": "AB Fören Köpmän"
+        },
+        "positions": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1923",
+                "roleName": "Employee",
+                "namedPosition": "L E Formgren AB"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1939",
+                "roleName": "Director",
+                "namedPosition": "L E Formgren AB"
+            }
+        ],
+        "boardMemberships": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "unknown",
+                "roleName": "Board Member",
+                "namedPosition": "H.valls wholesale company"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "unknown",
+                "roleName": "Board Member",
+                "namedPosition": "Swedish trade travel company"
+            }
+        ],
+        "travels": [
+            {
+                "@type": "Trip",
+                "startDate": "1928",
+                "endDate": "1928",
+                "description": "Traveled to Denmark"
+            },
+            {
+                "@type": "Trip",
+                "startDate": "1931",
+                "endDate": "1931",
+                "description": "Traveled to Norway"
+            },
+            {
+                "@type": "Trip",
+                "startDate": "1937",
+                "endDate": "1937",
+                "description": "Traveled to Norway"
+            }
+        ],
+        "organizations": [
+            "Odd Fellow",
+            "Temp.ridd.ord",
+            "IOGT"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "AB Fören Köpmän",
+                "industry": "Commercial",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "LE Formgren AB",
+                "industry": "Commercial",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "LE Formgren AB",
+                "industry": "Commercial",
+                "start_date": "1939"
+            }
+        ]
+    }
+}

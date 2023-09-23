@@ -1,0 +1,98 @@
+{
+    "original": "BENGTSON, Paul Hjalmar Rudolf, Grosshandlare, Lund, f Lerbäck, Örebro l, 2/4 92 av köpman Bengt B o Mathilda Lovisa Öhman, fm Agda Albrecktson. Prakt i spannm- o olonialvarufmor. Start eg fma i Vetlanda 14, stat spannm- o^mjölkkommissionär t 20, inneh Fma Albin Perssons Eft Lund sed. 21 (nederl f Sv Jästfabr AB o Skånes Äggcentral, har fil i Malmö sed. 27 und fmanamn Paul Bengtson, lingonexp). Led av tax.nmdn.",
+    "translated": "BENGTSON, Paul Hjalmar Rudolf, Wholesale Merchant, Lund, b. Lerbäck, Örebro l, April 2nd, 1892, son of merchant Bengt B and Mathilda Lovisa Öhman, m. Agda Albrecktson. Worked with grain and colonial goods. Started his own business in Vetlanda in 1914, appointed as grain and dairy commissioner in 1920, became owner of Albin Perssons Eft in Lund in 1921 (formerly known as Svenska Jästfabriks AB and Skånes Äggcentral, renamed to Paul Bengtson, cranberry expert). Member of the tax committee.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Paul",
+        "additionalName": "Hjalmar Rudolf",
+        "familyName": "Bengtson",
+        "birthDate": "1892-04-02",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Lerbäck",
+            "address": {
+                "@type": "PostalAddress",
+                "addressRegion": "Örebro l"
+            }
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Bengt B"
+            },
+            {
+                "@type": "Person",
+                "name": "Mathilda Lovisa Öhman"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Agda Albrecktson"
+        },
+        "occupation": [
+            {
+                "@type": "Merchant",
+                "name": "Wholesale Merchant"
+            },
+            {
+                "@type": "Merchant",
+                "name": "Grain and Dairy Commissioner"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Fma Albin Perssons Eft",
+                "startDate": "1921"
+            },
+            {
+                "@type": "Organization",
+                "name": "Svenska Jästfabriks AB"
+            },
+            {
+                "@type": "Organization",
+                "name": "Skånes Äggcentral"
+            },
+            {
+                "@type": "Organization",
+                "name": "Paul Bengtson",
+                "description": "Cranberry Expert"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Tax Committee"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Wholesale Merchant",
+                "workplace": "Lund",
+                "industry": "Trade",
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Grain and Dairy Commissioner",
+                "workplace": "Vetlanda",
+                "industry": "Agriculture",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "Albin Perssons Eft (Lund)",
+                "industry": "Food Processing",
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Cranberry Expert",
+                "workplace": "Albin Perssons Eft (Lund)",
+                "industry": "Food Processing",
+                "start_date": "1921"
+            }
+        ]
+    }
+}

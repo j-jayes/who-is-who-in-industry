@@ -1,0 +1,144 @@
+{
+    "original": "BEMFEL.T, John Doritz Viktor, Civilingenjör, Stockholm, f överluleå, Norrb l, 1/6 00 av verkst.förm D Andersson o Klara Lindmark. Studex Luleå 20, KTH (eltekn) 21—25. Anst Sthlms Elverk 25, Elektr AB AEG sed. 26, v- mätareavd Sthlm 26—30, i Berlin 30—31, åter Sthlm 31, övering 36, dir sed. 37. Led Sv Tekn.frn.",
+    "translated": "BEMFEL.T, John Doritz Viktor, Civil engineer, Stockholm, born in Överluleå, Norrbotten County, on 1/6 1900, son of workshop manager D. Andersson and Klara Lindmark. Studied at Luleå until 1920, and at the Royal Institute of Technology (electrical engineering) from 1921 to 1925. Employed at Stockholm Power Company in 1925, Elektr AB AEG since 1926, in the electrometer department in Stockholm from 1926 to 1930, in Berlin from 1930 to 1931, returned to Stockholm in 1931, promoted in 1936, director since 1937. Member of the Swedish Technical Association.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "John",
+        "additionalName": "Doritz Viktor",
+        "familyName": "BEMFEL.T",
+        "jobTitle": "Civil engineer",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Överluleå",
+                "addressRegion": "Norrbotten County"
+            }
+        },
+        "birthDate": "1900-06-01",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "D. Andersson",
+                "jobTitle": "Workshop Manager"
+            },
+            {
+                "@type": "Person",
+                "name": "Klara Lindmark"
+            }
+        ],
+        "alumniOf": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Luleå",
+                "endDate": "1920"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Royal Institute of Technology",
+                "startDate": "1921",
+                "endDate": "1925",
+                "specialty": "Electrical Engineering"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Swedish Technical Association"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Stockholm Power Company",
+                "startDate": "1925"
+            },
+            {
+                "@type": "Organization",
+                "name": "Elektr AB AEG",
+                "startDate": "1926"
+            }
+        ],
+        "worksIn": [
+            {
+                "@type": "Organization",
+                "name": "Electrometer Department",
+                "startDate": "1926",
+                "endDate": "1930",
+                "location": "Stockholm"
+            },
+            {
+                "@type": "Organization",
+                "name": "Berlin",
+                "startDate": "1930",
+                "endDate": "1931"
+            },
+            {
+                "@type": "Organization",
+                "name": "Stockholm",
+                "startDate": "1931"
+            }
+        ],
+        "promotion": {
+            "@type": "Event",
+            "name": "Promotion",
+            "startDate": "1936"
+        },
+        "directorship": {
+            "@type": "Event",
+            "name": "Directorship",
+            "startDate": "1937"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil engineer",
+                "workplace": "Stockholm",
+                "industry": "",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Stockholm Power Company",
+                "industry": "",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Elektr AB AEG",
+                "industry": "",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Electrometer department",
+                "workplace": "Stockholm",
+                "industry": "",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Berlin",
+                "workplace": "",
+                "industry": "",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Returned to Stockholm",
+                "workplace": "",
+                "industry": "",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Promoted",
+                "workplace": "",
+                "industry": "",
+                "start_date": "1936"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "",
+                "industry": "",
+                "start_date": "1937"
+            }
+        ]
+    }
+}

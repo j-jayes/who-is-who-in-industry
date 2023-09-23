@@ -1,0 +1,112 @@
+{
+    "original": "BLIDBERG, B Allan, Skeppsmäklare, Göteborg, f Gbg 11/12 95 av skeppsmäkl David B o Augusta Pedersen, gm Nancy Crowley. Ex Gbgs hdlsinst 14. Anst Blidberg Metcalfe &amp; Co Gbg 17—19, Stånd Shipp Comp Inc New York 19—20, start tills m skeppsmäkl T Sägen fma Blidb Sägen C:o Inc New York 20 (omb t Blidb Rothchild Co 22), verksam i fma Blidb Metcalfe &amp; Co AB sed. 27, deläg där 34, v. dir red.AB Kusten Gbg, styr.suppl Gbgs hamnarb.kont.",
+    "translated": "BLIDBERG, B Allan, Shipbroker, Gothenburg, b Gothenburg 11/12 95, son of shipbroker David B and Augusta Pedersen, married to Nancy Crowley. Formerly in Gothenburg's commercial institute in 1914. Employed at Blidberg Metcalfe & Co in Gothenburg from 1917 to 1919, then at Stånd Shipp Comp Inc in New York from 1919 to 1920. Started as a shipbroker at T Sägen for Blidb Sägen C:o Inc in New York in 1920 (appointed as a representative of Blidb Rothchild Co in 1922). Worked for Blidb Metcalfe & Co AB from 1927, became a partner in 1934, and served as Vice Director of AB Kusten in Gothenburg. Also served as a board member for Goteborgs Hamnarbetarkontor (Gothenburg's Dockworker Office).",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "B Allan Blidberg",
+        "birthDate": "1895-12-11",
+        "birthPlace": "Gothenburg, Sweden",
+        "father": {
+            "@type": "Person",
+            "name": "David B Blidberg"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Augusta Pedersen"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Nancy Crowley"
+        },
+        "description": "Shipbroker",
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Blidberg Metcalfe & Co",
+                "startDate": "1917",
+                "endDate": "1919",
+                "location": "Gothenburg, Sweden"
+            },
+            {
+                "@type": "Organization",
+                "name": "Stånd Shipp Comp Inc",
+                "startDate": "1919",
+                "endDate": "1920",
+                "location": "New York, USA"
+            },
+            {
+                "@type": "Organization",
+                "name": "T Sägen fma Blidb Sägen C:o Inc",
+                "startDate": "1920",
+                "endDate": "1922",
+                "location": "New York, USA"
+            },
+            {
+                "@type": "Organization",
+                "name": "Blidb Metcalfe & Co AB",
+                "startDate": "1927",
+                "location": "Gothenburg, Sweden"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Gothenburg's Dockworker Office",
+                "roleName": "Board Member"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Shipbroker",
+                "workplace": "Blidberg Metcalfe & Co",
+                "industry": "Shipping",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Shipbroker",
+                "workplace": "Stånd Shipp Comp Inc",
+                "industry": "Shipping",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Shipbroker",
+                "workplace": "T Sägen fma Blidb Sägen C:o Inc",
+                "industry": "Shipping",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Shipbroker",
+                "workplace": "Blidb Rothchild Co",
+                "industry": "Shipping",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Shipbroker",
+                "workplace": "Blidberg Metcalfe & Co AB",
+                "industry": "Shipping",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Partner",
+                "workplace": "Blidberg Metcalfe & Co AB",
+                "industry": "Shipping",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Vice Director",
+                "workplace": "AB Kusten",
+                "industry": "Shipping",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Göteborgs Hamnarbetarkontor",
+                "industry": "Shipping",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

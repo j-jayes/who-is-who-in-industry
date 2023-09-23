@@ -1,0 +1,140 @@
+{
+    "original": "BERG, Albert Einar, Civilingenjör, Saltsjöbaden, f Sthlm 7/12 02 av byråch F A B o Elisabeth Stange. Saltsjöb samsk, marining.-asp, KTH (skeppsbyggn) 23—27. Prakt v kraftcentralbygge Borås 27, anst v Norton Co :s tidsstudie- o planeringsavd Worcester Mäss USA 2,8—29, De Laval Separator Co :s tidsstud.avd Poughkeepsi NY 30, AB Ind.-byråns org.avd Sthlm 30—32, Holmens Br o Fabr AB:s bomullsavd Norrkp 32—34, AB Gunnar Collijn Sthlm sed. 34—43, konsult ing f industriell ekonomi sed. 44. Tekn sakk i Stat ind.kommiss :s textilavd. Led Sv Tekn.frn. Hobbies: Fjällsport, sjösport.",
+    "translated": "BERG, Albert Einar, Civil Engineer, Saltsjöbaden, b. Sthlm (Stockholm) 7/12 02, son of the office clerk F A B and Elisabeth Stange. Saltsjöbaden samsk (secondary school), marine officer cadet, Royal Institute of Technology (shipbuilding) 23-27. Practical training in power station construction, Borås, 27, employed in Norton Co's time study and planning department, Worcester Mäss USA, 2.8-29, De Laval Separator Co's time study department, Poughkeepsie NY, 30, AB Industrial Bureau's organizational department, Sthlm, 30-32, Holmen Br and Fabr AB's cotton department, Norrköping, 32-34, AB Gunnar Collijn, Sthlm, since 34-43, consultant in industrial economics since 44. Technical expert in the textile department of the State Industrial Commissioner's office. Member of the Swedish Engineering Association. Hobbies: mountaineering, water sports. (Note: The abbreviation 'sed.' means 'since' and '\\d\\d m. partner's name' indicates marriage in the year 19xx.)",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Albert Einar Berg",
+        "birthDate": "1902-12-07",
+        "birthPlace": "Stockholm, Sweden",
+        "spouse": "Elisabeth Stange",
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Civil Engineer",
+                "educationalLevel": "Bachelor's Degree",
+                "awardingInstitution": "Royal Institute of Technology",
+                "startDate": "1923",
+                "endDate": "1927"
+            }
+        ],
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Norton Co"
+                },
+                "startDate": "1927",
+                "endDate": "1928",
+                "description": "Time Study and Planning Department"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "De Laval Separator Co"
+                },
+                "startDate": "1930",
+                "endDate": "1930",
+                "description": "Time Study Department"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Industrial Bureau"
+                },
+                "startDate": "1930",
+                "endDate": "1932",
+                "description": "Organizational Department"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Holmen Br and Fabr AB"
+                },
+                "startDate": "1932",
+                "endDate": "1934",
+                "description": "Cotton Department"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Gunnar Collijn"
+                },
+                "startDate": "1934",
+                "endDate": "1943",
+                "description": "Consultant in Industrial Economics"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Engineering Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "State Industrial Commissioner's Office"
+            }
+        ],
+        "hobbies": [
+            "Mountaineering",
+            "Water Sports"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Saltsjöbaden",
+                "industry": "Engineering",
+                "start_date": "23-27"
+            },
+            {
+                "occupational_title": "Practical training in power station construction",
+                "workplace": "Borås",
+                "industry": "Power Station Construction",
+                "start_date": "27"
+            },
+            {
+                "occupational_title": "Employed in Norton Co's time study and planning department",
+                "workplace": "Worcester Mäss, USA",
+                "industry": "Manufacturing",
+                "start_date": "2.8-29"
+            },
+            {
+                "occupational_title": "Employed at De Laval Separator Co's time study department",
+                "workplace": "Poughkeepsie, NY",
+                "industry": "Manufacturing",
+                "start_date": "30"
+            },
+            {
+                "occupational_title": "Employed at AB Industrial Bureau's organizational department",
+                "workplace": "Sthlm",
+                "industry": "Consulting/Industrial",
+                "start_date": "30-32"
+            },
+            {
+                "occupational_title": "Employed at Holmen Br and Fabr AB's cotton department",
+                "workplace": "Norrköping",
+                "industry": "Textiles",
+                "start_date": "32-34"
+            },
+            {
+                "occupational_title": "Employed at AB Gunnar Collijn",
+                "workplace": "Sthlm",
+                "industry": "Unknown/Not specified",
+                "start_date": "34-43"
+            },
+            {
+                "occupational_title": "Consultant in industrial economics",
+                "workplace": "Unknown/Not specified",
+                "industry": "Industrial Economics",
+                "start_date": "44"
+            }
+        ]
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "original": "DAHLGREN, Johannes Wilhelm, Ingenjör, Djursholm, f Hammarö, Värml län, 20/1 58 av br.förv P W D o Ida Lindgren, gm Hanna Jansson. KTH 76—80. Anst h prof J E Cederblom 80—83, eg konstr.byrå f värmeledn o ventilation 83—32, utf värme o ventilat i Riksd.hus, Nord mus, Operan, Dram teat, Sthlms stadshus, Sophiahemm, Sabbatsb sjukh, fi sthlmssk o kyrkor mm. IVA mindre GM.",
+    "translated": "DAHLGREN, Johannes Wilhelm, Engineer, Djursholm, born in Hammarö, Värmland County, 20th of January 1958, son of former administrator P W D and Ida Lindgren, married to Hanna Jansson. Graduated from KTH (Royal Institute of Technology) 1976-1980. Employed by Professor J E Cederblom from 1980 to 1983, had his own design office for heating and ventilation from 1983 to 2032. Completed heating and ventilation projects in the Parliament House, Nordic Museum, Opera House, Royal Dramatic Theatre, Stockholm City Hall, Sophiahemmet Hospital, Sabbatsbergs Hospital, as well as various schools and churches in Stockholm. Member of the Royal Swedish Academy of Engineering Sciences. Note that \"mindre GM\" means fewer children.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Johannes Wilhelm Dahlgren",
+        "birthDate": "1958-01-20",
+        "jobTitle": "Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Djursholm"
+        },
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressRegion": "Värmland County",
+                "addressLocality": "Hammarö"
+            }
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "P W D Dahlgren"
+            },
+            {
+                "@type": "Person",
+                "name": "Ida Lindgren"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Hanna Jansson"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "diploma",
+            "educationalLevel": "University",
+            "institution": {
+                "@type": "EducationalOrganization",
+                "name": "Royal Institute of Technology",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm"
+                    }
+                }
+            },
+            "startDate": "1976",
+            "endDate": "1980"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Royal Swedish Academy of Engineering Sciences"
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Professor J E Cederblom"
+        },
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "Professor J E Cederblom",
+                "startDate": "1980",
+                "endDate": "1983"
+            },
+            {
+                "@type": "Organization",
+                "name": "Johannes Dahlgren Design Office",
+                "startDate": "1983",
+                "endDate": "2032",
+                "description": "Heating and ventilation design"
+            }
+        ],
+        "projects": [
+            "Parliament House",
+            "Nordic Museum",
+            "Opera House",
+            "Royal Dramatic Theatre",
+            "Stockholm City Hall",
+            "Sophiahemmet Hospital",
+            "Sabbatsbergs Hospital",
+            "Various schools and churches in Stockholm"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Professor J E Cederblom",
+                "industry": "Academia",
+                "start_date": "1980"
+            },
+            {
+                "occupational_title": "Owner and Engineer",
+                "workplace": "Own design office for heating and ventilation",
+                "industry": "Construction",
+                "start_date": "1983"
+            }
+        ]
+    }
+}

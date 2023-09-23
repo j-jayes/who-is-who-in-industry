@@ -1,0 +1,109 @@
+{
+    "original": "BRÄNDSTRÖM, Erik, Direktör, Sthlm, f Sthlm 1/10 92 av envoyén, gen.löjtn Edv B o Anna Eschelsson, gm (2) Dagmar Werner. Sjöoffex 13, löjtn i fi res 20, jur kand Sthlm 17, Direkt.sekr v SKF, Gbg, 17—19, dir.ass i AB Separator, Sthlm, 19, v. vkst dir sed. 35.",
+    "translated": "BRÄNDSTRÖM, Erik, Director, Stockholm, b Stockholm 1/10 92, son of the envoy, Lieutenant General Edv B and Anna Eschelsson, m (2) Dagmar Werner. Naval cadet 13, lieutenant in the army reserve 20, law degree Stockholm 17, Secretary Director at SKF, Gothenburg, 17—19, assistant director at AB Separator, Stockholm, 19, deputy managing director since 35..",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Erik Brändström",
+        "birthDate": "1892-10-01",
+        "birthPlace": "Stockholm",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Edv B Brändström",
+                "militaryRank": "Lieutenant General"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Eschelsson"
+            }
+        ],
+        "spouse": [
+            {
+                "@type": "Person",
+                "name": "Dagmar Werner"
+            }
+        ],
+        "occupation": [
+            {
+                "@type": "Role",
+                "title": "Director",
+                "startDate": "1935-01-01"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Sjöoffex",
+                "startDate": "1913-01-01"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Fi res",
+                "startDate": "1920-01-01"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Jur kand Sthlm",
+                "startDate": "1917-01-01"
+            }
+        ],
+        "workExperience": [
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "SKF"
+                },
+                "title": "Secretary Director",
+                "startDate": "1917-01-01",
+                "endDate": "1919-01-01",
+                "location": "Gothenburg"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Separator"
+                },
+                "title": "Assistant Director",
+                "startDate": "1919-01-01",
+                "location": "Stockholm"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Naval cadet",
+                "workplace": "Unknown",
+                "industry": "Military",
+                "start_date": "1913"
+            },
+            {
+                "occupational_title": "Lieutenant in the army reserve",
+                "workplace": "Unknown",
+                "industry": "Military",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Secretary Director",
+                "workplace": "SKF",
+                "industry": "Manufacturing",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Assistant director",
+                "workplace": "AB Separator",
+                "industry": "Manufacturing",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Deputy managing director",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "1935"
+            }
+        ]
+    }
+}

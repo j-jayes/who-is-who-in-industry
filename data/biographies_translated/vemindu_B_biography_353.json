@@ -1,0 +1,153 @@
+{
+    "original": "BORG, Johan Emil Gösta, Kassadirektör, Malmö, f Ystad 9/1 96 av kons Emil A B o Ingeborg Schultz, gm 21—38 Amelie Queck-feldt. Studex 16, univ Lund 17—18. Anst BkAB S Sv 19, Sv hdlsbkn 20, Försäkr.AB Malmö 20—25, kass Brand- o Lifförsäkr.AB Sk 25, huv.kass 35, valvskamr 38, kassadir 43. Vkst dir AB Sam, styr.suppl Försäkr.AB Malmö, rev Sk Int AB. Resor: Danm, Tyskl, Tjeckoslov, Frankr, Ital, Schweiz. 1896 års män. Hobbies: Ystad, silver.",
+    "translated": "BORG, Johan Emil Gösta, Cashier Director, Malmö, born in Ystad on January 9th, 1896, son of Consul Emil A B and Ingeborg Schultz. Married to Amelie Queck-feldt from 1921 until 1938. Completed studies at age 16, studying at Lund University from 1917 to 1918. Employed at BkAB S Sv in 1919, Sv hdlsbkn in 1920, Försäkr.AB Malmö from 1920 to 1925, Cashier at Brand- and Lifförsäkr.AB Sk in 1925, Head Cashier in 1935, Vault Chamberlain in 1938, Cashier Director in 1943. Development Director at AB Sam, Board Substitute at Försäkr.AB Malmö, Auditor at Sk Int AB. Traveled to Denmark, Germany, Czechoslovakia, France, Italy, and Switzerland. Listed as one of the men of the year 1896. Hobbies include Ystad and silver.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Johan Emil Gösta Borg",
+        "birthDate": "1896-01-09",
+        "birthPlace": "Ystad, Sweden",
+        "description": "Cashier Director, Malmö",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Emil A B (Consul)",
+                "gender": "male"
+            },
+            {
+                "@type": "Person",
+                "name": "Ingeborg Schultz",
+                "gender": "female"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Amelie Queck-feldt",
+            "marriageFromDate": "1921-01-01",
+            "marriageToDate": "1938-12-31"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Lund University",
+                "attendanceStartDate": "1917-01-01",
+                "attendanceEndDate": "1918-12-31"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "BkAB S Sv",
+                "employmentStartDate": "1919-01-01",
+                "employmentEndDate": "1919-12-31"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sv hdlsbkn",
+                "employmentStartDate": "1920-01-01",
+                "employmentEndDate": "1920-12-31"
+            },
+            {
+                "@type": "Organization",
+                "name": "Försäkr.AB Malmö",
+                "employmentStartDate": "1920-01-01",
+                "employmentEndDate": "1925-12-31"
+            },
+            {
+                "@type": "Organization",
+                "name": "Brand- and Lifförsäkr.AB Sk",
+                "employmentStartDate": "1925-01-01",
+                "employmentEndDate": null
+            }
+        ],
+        "positions": [
+            {
+                "@type": "Role",
+                "name": "Head Cashier",
+                "startDate": "1935-01-01",
+                "endDate": null
+            },
+            {
+                "@type": "Role",
+                "name": "Vault Chamberlain",
+                "startDate": "1938-01-01",
+                "endDate": null
+            },
+            {
+                "@type": "Role",
+                "name": "Cashier Director",
+                "startDate": "1943-01-01",
+                "endDate": null
+            }
+        ],
+        "organizations": [
+            {
+                "@type": "Organization",
+                "name": "AB Sam",
+                "position": "Development Director"
+            },
+            {
+                "@type": "Organization",
+                "name": "Försäkr.AB Malmö",
+                "position": "Board Substitute",
+                "roleName": "Auditor"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sk Int AB",
+                "roleName": "Auditor"
+            }
+        ],
+        "hobbies": [
+            "Ystad",
+            "silver"
+        ],
+        "nationality": "Swedish"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Cashier Director",
+                "workplace": "Malmö",
+                "industry": "Banking",
+                "start_date": "1943"
+            },
+            {
+                "occupational_title": "Vault Chamberlain",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "1938"
+            },
+            {
+                "occupational_title": "Head Cashier",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Cashier",
+                "workplace": "Brand- and Lifförsäkr.AB Sk",
+                "industry": "Insurance",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Cashier",
+                "workplace": "Försäkr.AB Malmö",
+                "industry": "Insurance",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Sv hdlsbkn",
+                "industry": "Unknown",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "BkAB S Sv",
+                "industry": "Banking",
+                "start_date": "1919"
+            }
+        ]
+    }
+}

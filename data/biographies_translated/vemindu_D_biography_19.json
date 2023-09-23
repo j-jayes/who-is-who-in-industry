@@ -1,0 +1,109 @@
+{
+    "original": "DAHLERUS, Bror Håkan, Bergsingenjör, Ombudsman, Stockholm, f Lidingö 27/3 98 av bergsing C G D o frih:an Hedvig Stiernstedt, gm Erna Grafström. Studex Sthlm 16, KTH 18—20 o 21—24. Anst y KTH :s inst f järnets be-arbetn o behandl 24, Övering.assist v Jernkont 25—28, l:e assist å Jernkont :s tekn byrå 28— 30, ombudsman v Jernkontoret sed. 30.",
+    "translated": "DAHLERUS, Bror Håkan, Mining Engineer, Union Representative, Stockholm, b. Lidingö 27/3 1898, son of Mining Engineer C G D and Baroness Hedvig Stiernstedt, m. Erna Grafström. Graduated from Stockholm University in 1916, KTH (Royal Institute of Technology) 1918-1920 and 1921-1924. Employed at KTH's Institute for Iron Processing and Treatment 1924, Senior Assistant at Jernkont 1925-1928, Chief Assistant at Jernkont's Technical Office 1928-1930, Union Representative at Jernkontoret since 1930.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Bror Håkan Dahlerus",
+        "jobTitle": "Mining Engineer",
+        "memberOf": "Jernkontoret",
+        "birthDate": "1898-03-27",
+        "birthPlace": "Lidingö, Sweden",
+        "spouse": {
+            "@type": "Person",
+            "name": "Erna Grafström"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "C G D Dahlerus",
+                "jobTitle": "Mining Engineer"
+            },
+            {
+                "@type": "Person",
+                "name": "Baroness Hedvig Stiernstedt"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Stockholm University",
+                "location": "Stockholm, Sweden",
+                "endDate": "1916"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "KTH (Royal Institute of Technology)",
+                "location": "Stockholm, Sweden",
+                "startDate": "1918",
+                "endDate": "1920"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "KTH (Royal Institute of Technology)",
+                "location": "Stockholm, Sweden",
+                "startDate": "1921",
+                "endDate": "1924"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "KTH's Institute for Iron Processing and Treatment",
+                "location": "Stockholm, Sweden",
+                "startDate": "1924"
+            },
+            {
+                "@type": "Organization",
+                "name": "Jernkont",
+                "location": "Stockholm, Sweden",
+                "startDate": "1925",
+                "endDate": "1928",
+                "jobTitle": "Senior Assistant"
+            },
+            {
+                "@type": "Organization",
+                "name": "Jernkont's Technical Office",
+                "location": "Stockholm, Sweden",
+                "startDate": "1928",
+                "endDate": "1930",
+                "jobTitle": "Chief Assistant"
+            },
+            {
+                "@type": "Organization",
+                "name": "Jernkontoret",
+                "location": "Stockholm, Sweden",
+                "startDate": "1930",
+                "jobTitle": "Union Representative"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Mining Engineer",
+                "workplace": "KTH's Institute for Iron Processing and Treatment",
+                "industry": "Mining",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Senior Assistant",
+                "workplace": "Jernkont",
+                "industry": "Ironworks",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Chief Assistant",
+                "workplace": "Jernkont's Technical Office",
+                "industry": "Ironworks",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Union Representative",
+                "workplace": "Jernkontoret",
+                "industry": "Ironworks",
+                "start_date": "1930"
+            }
+        ]
+    }
+}

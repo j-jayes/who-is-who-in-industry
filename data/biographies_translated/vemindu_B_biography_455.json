@@ -1,0 +1,100 @@
+{
+    "original": "BUSCH, Tor Andreas, Disponent, Pilgrimstad, f Spydeberg, Norge, 2/1 99, gm gymn.dir Berna Nässén. Studier Oslo, Tyskl o Engl. Kont.ch h Hammers Trälastforretning Oslo 23, disp v AB Pilgrimsta Sågverk sed. 26. Styr.led i AB Pilgrimsta sågverk, Gallo Ång-sågs AB o A/S Dillner &amp; Co, Trondheim.",
+    "translated": "BUSCH, Tor Andreas, Manager, Pilgrimstad, formerly of Spydeberg, Norway, born 2nd January 1899, married to gymnastics director Berna Nässén. Studied in Oslo, Germany and England. Worked as an accountant at Hammers Timber Merchants in Oslo in 1923, became manager of AB Pilgrimsta Sawmill in 1926. Also served on the board of directors for AB Pilgrimsta Sawmill, Gallo Steam Sawmill AB, and A/S Dillner & Co in Trondheim.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Tor Andreas Busch",
+        "jobTitle": "Manager",
+        "birthDate": "1899-01-02",
+        "birthPlace": "Spydeberg, Norway",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Pilgrimstad"
+        },
+        "spouse": "Berna Nässén",
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Oslo University",
+                "location": "Oslo"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "German Institute",
+                "location": "Germany"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "English Institute",
+                "location": "England"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Hammers Timber Merchants",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Oslo"
+                },
+                "startDate": "1923"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Pilgrimsta Sawmill",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Pilgrimstad"
+                },
+                "startDate": "1926"
+            },
+            {
+                "@type": "Organization",
+                "name": "Gallo Steam Sawmill AB"
+            },
+            {
+                "@type": "Organization",
+                "name": "A/S Dillner & Co",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Trondheim"
+                }
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Accountant",
+                "workplace": "Hammers Timber Merchants",
+                "industry": "Timber Trade",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "AB Pilgrimsta Sawmill",
+                "industry": "Sawmill",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "AB Pilgrimsta Sawmill",
+                "industry": "Sawmill",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Gallo Steam Sawmill AB",
+                "industry": "Sawmill",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "A/S Dillner & Co",
+                "industry": "Unknown",
+                "start_date": ""
+            }
+        ]
+    }
+}

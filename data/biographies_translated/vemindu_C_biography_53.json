@@ -1,0 +1,165 @@
+{
+    "original": "CARLSSON, Enoc, Järnhandlare, Falköping, f Ambjörnarp, Älvsb l, 90 av Carl Pettersson o Lovisa Bengtsson, gm Ellen Gustafsson. Folksk. Anst fma E Petterssons järnhdl Gisla-ved 08—12, K J Wiborgs järnhdl Falk 12—20 därav fil.förest 14—20, inneh av samt vkst dir o styr.ordf i AB Etunaboden Falkp sed. 21. Stdsflm, led tax.nmdn, suppl gasverksstyr o brandstyr, ordf Kalkp köpmfrn, styr.led sparbkn, HAB Ernst Settergren, styr.suppl Vgl järnhandl.frn, Vgl köpm.frb. Frimurare, Sällsk NN.",
+    "translated": "CARLSSON, Enoc, Iron Merchant, Falköping, born in Ambjörnarp, Älvsborg County, on 90 (date of birth), the son of Carl Pettersson and Lovisa Bengtsson, married to Ellen Gustafsson. Completed elementary school. Employed at E Petterssons Iron Store in Gislaved from 1908 to 1912, and K J Wiborgs Iron Store in Falköping from 1912 to 1920, where he served as deputy manager from 1914 to 1920. Became owner and managing director, as well as chairman of the board, of AB Etunaboden in Falköping since 1921. Member of the City Council, served on the tax committee, as well as a substitute member of the gasworks board and the fire brigade board. Chairman of the Kalkepärlan Cooperative Store. Served as a board member of the savings bank, HAB Ernst Settergren, and as a substitute board member of the Västergötland Iron Merchants Association and the Västergötland Merchants Association. Freemason and member of the society NN.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Enoc Carlsson",
+        "jobTitle": "Iron Merchant",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Falköping"
+        },
+        "birthDate": "1890-XX-XX",
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Ambjörnarp, Älvsborg County"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Carl Pettersson"
+            },
+            {
+                "@type": "Person",
+                "name": "Lovisa Bengtsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ellen Gustafsson"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Elementary school"
+        },
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1908",
+                "endDate": "1912",
+                "roleName": "Employed at E Petterssons Iron Store",
+                "worksFor": {
+                    "@type": "Organization",
+                    "name": "Gislaved"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1912",
+                "endDate": "1920",
+                "roleName": "Employed at K J Wiborgs Iron Store",
+                "worksFor": {
+                    "@type": "Organization",
+                    "name": "Falköping"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1914",
+                "endDate": "1920",
+                "roleName": "Deputy Manager",
+                "worksFor": {
+                    "@type": "Organization",
+                    "name": "K J Wiborgs Iron Store"
+                }
+            },
+            {
+                "@type": "Organization",
+                "@id": "https://example.com/organizations/AB-Etunaboden",
+                "name": "AB Etunaboden",
+                "ownershipFundingInfo": {
+                    "@type": "OwnershipInfo",
+                    "owner": {
+                        "@type": "Person",
+                        "name": "Enoc Carlsson"
+                    }
+                },
+                "chair": {
+                    "@type": "Person",
+                    "name": "Enoc Carlsson"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1921",
+                "roleName": "Owner and Managing Director",
+                "worksFor": {
+                    "@type": "Organization",
+                    "@id": "https://example.com/organizations/AB-Etunaboden"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "City Council"
+            },
+            {
+                "@type": "Organization",
+                "name": "Tax Committee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Gasworks Board",
+                "alternateName": "substitute member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Fire Brigade Board",
+                "alternateName": "substitute member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Kalkepärlan Cooperative Store",
+                "alternateName": "Chairman"
+            },
+            {
+                "@type": "Organization",
+                "@id": "https://example.com/organizations/HAB-Ernst-Settergren",
+                "name": "HAB Ernst Settergren",
+                "alternateName": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Västergötland Iron Merchants Association",
+                "alternateName": "substitute board member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Västergötland Merchants Association",
+                "alternateName": "substitute board member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Freemasons"
+            },
+            {
+                "@type": "Organization",
+                "name": "Society NN"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Iron Merchant",
+                "workplace": "E Petterssons Iron Store",
+                "industry": "Iron trade",
+                "start_date": "1908-01-01"
+            },
+            {
+                "occupational_title": "Deputy Manager",
+                "workplace": "K J Wiborgs Iron Store",
+                "industry": "Iron trade",
+                "start_date": "1914-01-01"
+            },
+            {
+                "occupational_title": "Owner, Managing Director, and Chairman of the Board",
+                "workplace": "AB Etunaboden",
+                "industry": "Iron trade",
+                "start_date": "1921-01-01"
+            }
+        ]
+    }
+}

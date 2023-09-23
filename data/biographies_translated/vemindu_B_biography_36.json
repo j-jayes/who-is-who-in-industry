@@ -1,0 +1,164 @@
+{
+    "original": "BELFRAGE, Wilhelm Gösta, Direktör, Stockholm, f Nora s:n, Vnorrl 1. 14/7 88, gm (2) Etty Victorin-Olsson. Studex Hsand 08, jur stud Upps 09—10, språk- o aff.stud Tyskl 11— 12, Engl 13—14. Förvalt v Sandö sågverk 14—15, v Dals sågverk 16, inneh Lejondals egendom i Bro 17, ägde o bebodde Skånella-holms Säteri, Rosersberg, 18—20, eg träv.fma Paris 21—35, eg fma f huvudsak! trävaror Sthlm sed. 36.",
+    "translated": "BELFRAGE, Wilhelm Gösta, Director, Stockholm, born in Nora parish, Västernorrland on July 14, 1888, married (2) Etty Victorin-Olsson. Studied at Handelshögskolan (School of Business) in 1908, studied law at Uppsala University in 1909-1910, language and business studies in Germany from 1911 to 1912, and in England from 1913 to 1914. Managed Sandö sawmill from 1914 to 1915, Dals sawmill in 1916, owned Lejondals estate in Bro from 1917, and owned and lived in Skånella-holms Manor, Rosersberg, from 1918 to 1920. Established a timber trading company in Paris from 1921 to 1935 and has owned a timber trading firm primarily based in Stockholm since 1936..",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Wilhelm Gösta Belfrage",
+        "jobTitle": "Director",
+        "birthDate": "1888-07-14",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Nora",
+                "addressRegion": "Västernorrland"
+            }
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Stockholm"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Etty Victorin-Olsson"
+        },
+        "education": [
+            {
+                "@type": "CollegeOrUniversity",
+                "name": "Handelshögskolan",
+                "startDate": "1908",
+                "endDate": "1908"
+            },
+            {
+                "@type": "CollegeOrUniversity",
+                "name": "Uppsala University",
+                "studyType": "Law",
+                "startDate": "1909",
+                "endDate": "1910"
+            },
+            {
+                "@type": "CollegeOrUniversity",
+                "name": "Germany",
+                "studyType": "Language and Business Studies",
+                "startDate": "1911",
+                "endDate": "1912"
+            },
+            {
+                "@type": "CollegeOrUniversity",
+                "name": "England",
+                "studyType": "Language and Business Studies",
+                "startDate": "1913",
+                "endDate": "1914"
+            }
+        ],
+        "jobHistory": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1914",
+                "endDate": "1915",
+                "roleName": "Manager",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Sandö Sawmill"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1916",
+                "endDate": "1916",
+                "roleName": "Manager",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Dals Sawmill"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1917",
+                "roleName": "Owner",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Lejondals Estate"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1918",
+                "endDate": "1920",
+                "roleName": "Owner",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Skånella-holms Manor"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1921",
+                "endDate": "1935",
+                "roleName": "Founder",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Timber Trading Company (Paris)"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1936",
+                "roleName": "Owner",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Timber Trading Firm (Stockholm)"
+                }
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Stockholm",
+                "industry": null,
+                "start_date": null
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Sandö sawmill",
+                "industry": null,
+                "start_date": "1914-01-01"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Dals sawmill",
+                "industry": null,
+                "start_date": "1916-01-01"
+            },
+            {
+                "occupational_title": null,
+                "workplace": "Lejondals estate",
+                "industry": null,
+                "start_date": "1917-01-01"
+            },
+            {
+                "occupational_title": null,
+                "workplace": "Skånella-holms Manor",
+                "industry": null,
+                "start_date": "1918-01-01"
+            },
+            {
+                "occupational_title": null,
+                "workplace": "Paris",
+                "industry": "Timber trading",
+                "start_date": "1921-01-01"
+            },
+            {
+                "occupational_title": null,
+                "workplace": "Stockholm",
+                "industry": "Timber trading",
+                "start_date": "1936-01-01"
+            }
+        ]
+    }
+}

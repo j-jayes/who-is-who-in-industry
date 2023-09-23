@@ -1,0 +1,163 @@
+{
+    "original": "CARLBERG, Erik Reinhold, Civilingenjör, Smedslätten, f Sthlm 16/7 99 av stenhuggeri-idk J A E C o Selma Thelin, gm Elsa Magnusson. Studex Sthlm 18, KTH (maskinbygg o mek tekn) 19—23. Anst Ford Motor Co AB Sthlm 24—25, konsult ing 26, anst AB Volvo Gbg 27—31, lär v Gbgs tekn inst 29, nu anst AB Robo Sthlm. Av trycket: Hur en modern bil kommer till (31), Tekn termodynamik I (36), Oljemotorer (36), art i facktidskr. Led Sv Tekn.frn.",
+    "translated": "CARLBERG, Erik Reinhold, Civil Engineer, Smedslätten, b Stockholm 16/7 99, son of stone carving entrepreneur J A E C and Selma Thelin, married to Elsa Magnusson. He graduated from Stockholm University in 1918 and from the Royal Institute of Technology (specializing in mechanical engineering) in 1923. He worked for Ford Motor Co AB in Stockholm from 1924 to 1925, as a consultant engineer in 1926, for AB Volvo in Gothenburg from 1927 to 1931, and as a teacher at the Technical Institute in Gothenburg from 1929. Currently employed at AB Robo in Stockholm. Published works include: \"How a Modern Car is Made\" (1931), \"Technical Thermodynamics I\" (1936), \"Internal Combustion Engines\" (1936), and articles in professional journals. Member of the Swedish Technological Association.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Erik Reinhold Carlberg",
+        "birthDate": "1899-07-16",
+        "birthPlace": "Stockholm, Sweden",
+        "description": "Civil Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Smedslätten"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "J A E C"
+            },
+            {
+                "@type": "Person",
+                "name": "Selma Thelin"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Elsa Magnusson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "Civil Engineer degree",
+                "educationalLevel": "Undergraduate",
+                "educationalCredentialAwarded": "Civilingenjör",
+                "educationalInstitution": "Stockholm University",
+                "startDate": "1918",
+                "endDate": "1923"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "Mechanical Engineering degree",
+                "educationalLevel": "Undergraduate",
+                "educationalCredentialAwarded": "KTH (maskinbygg o mek tekn)",
+                "educationalInstitution": "Royal Institute of Technology",
+                "startDate": "1919",
+                "endDate": "1923"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1924",
+                "endDate": "1925",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Ford Motor Co AB",
+                    "location": "Stockholm"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1926",
+                "roleName": "Consultant Engineer"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1927",
+                "endDate": "1931",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Volvo",
+                    "location": "Gothenburg"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1929",
+                "roleName": "Teacher",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Technical Institute",
+                    "location": "Gothenburg"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Robo",
+                    "location": "Stockholm"
+                }
+            }
+        ],
+        "publications": [
+            {
+                "@type": "PublicationEvent",
+                "startDate": "1931",
+                "name": "How a Modern Car is Made"
+            },
+            {
+                "@type": "PublicationEvent",
+                "startDate": "1936",
+                "name": "Technical Thermodynamics I"
+            },
+            {
+                "@type": "PublicationEvent",
+                "startDate": "1936",
+                "name": "Internal Combustion Engines"
+            },
+            {
+                "@type": "PublicationEvent",
+                "name": "Articles in professional journals"
+            }
+        ],
+        "affiliation": {
+            "@type": "Organization",
+            "name": "Swedish Technological Association"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Smedslätten",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Employee at Ford Motor Co AB",
+                "workplace": "Stockholm",
+                "industry": "Automotive",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Consultant Engineer",
+                "workplace": "Unknown",
+                "industry": "Engineering",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Employee at AB Volvo",
+                "workplace": "Gothenburg",
+                "industry": "Automotive",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Teacher at the Technical Institute",
+                "workplace": "Gothenburg",
+                "industry": "Education",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Employee at AB Robo",
+                "workplace": "Stockholm",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

@@ -1,0 +1,193 @@
+{
+    "original": "BERGH, Ragnar Alf Axelsson, Direktör, Stockholm, f Gävle 6/5 85 av överläk med o fil dr C A B o h h, f Uggla, gin Elna Lindhé (12—28). Studex N Latin 06, Schartaus högre kurs 06—07, språkstud mm utomlands 08 —09, resoff v Uppl reg 08—21. Anst Lavens Kolimp AB 07—08 o 09—23, varav senaste tio åren styr.led o bitr dir. Dir i AB Kol och Koks sed. 23. Vkst dir i Red AB Sthlm— Värmdö o Värmdö Ångf AB 17—23. Ag villa Bergabo å Tynningö, Vaxh Idsförs. Av Sthlm magistrat aukt besiktn.man f bränsle. Styr.led Frn 1885 års män. Resor: Engl, Skottl, Frankr, Belg 08—09, kontinenten o Engl uppr ggr 09—22. TimmO, NeptO, Odd Fellow. Hobbies: Jakt o fiske.",
+    "translated": "BERGH, Ragnar Alf Axelsson, Director, Stockholm, b Gävle on May 6, 1885, son of Chief Physician and PhD C A B and his wife, born Uggla, née Elna Lindhé (12-28). Studied Latin in 1906, Schartau's higher course from 1906 to 1907, language studies and more abroad from 1908 to 1909, reserve officer in the Uppland Regiment from 1908 to 1921. Employed at Lavens Kolimp AB from 1907 to 1908 and 1909 to 1923, serving as board member and deputy director in the last ten years. Director in AB Kol och Koks since 1923. Growth director at Red AB Sthlm-Värmdö and Värmdö Ångf AB from 1917 to 1923. Owns Villa Bergabo on Tynningö, Vaxholm. Authorized inspector for fuel by the Stockholm Magistrate. Board member of the Från 1885 års män. Travel: England, Scotland, France, Belgium in 1908-1909, the continent and England several times during 1909-1922. Member of TimmO, NeptO, Odd Fellow. Hobbies: Hunting and fishing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Ragnar Alf Axelsson Bergh",
+        "jobTitle": "Director",
+        "birthDate": "1885-05-06",
+        "birthPlace": "Gävle, Sweden",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "C A B",
+                "jobTitle": "Chief Physician and PhD"
+            },
+            {
+                "@type": "Person",
+                "name": "Elna Lindhé Uggla",
+                "jobTitle": "Wife"
+            }
+        ],
+        "educationalCredentialAwarded": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "Studex N Latin"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "Schartau's Higher Course"
+            }
+        ],
+        "residence": {
+            "@type": "Place",
+            "name": "Villa Bergabo",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Tynningö",
+                "addressRegion": "Vaxholm",
+                "addressCountry": "Sweden"
+            }
+        },
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1907-01-01",
+                "endDate": "1908-12-31",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Lavens Kolimp AB"
+                },
+                "roleName": "Employee"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1909-01-01",
+                "endDate": "1923-12-31",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Lavens Kolimp AB"
+                },
+                "roleName": "Board Member and Deputy Director"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1923-01-01",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Kol och Koks"
+                },
+                "roleName": "Director"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1917-01-01",
+                "endDate": "1923-12-31",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Red AB Sthlm-Värmdö and Värmdö Ångf AB"
+                },
+                "roleName": "Growth Director"
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "TravelAction",
+                "startDate": "1908-01-01",
+                "endDate": "1909-12-31",
+                "toLocation": {
+                    "@type": "Place",
+                    "name": "England"
+                }
+            },
+            {
+                "@type": "TravelAction",
+                "startDate": "1908-01-01",
+                "endDate": "1909-12-31",
+                "toLocation": {
+                    "@type": "Place",
+                    "name": "Scotland"
+                }
+            },
+            {
+                "@type": "TravelAction",
+                "startDate": "1908-01-01",
+                "endDate": "1909-12-31",
+                "toLocation": {
+                    "@type": "Place",
+                    "name": "France"
+                }
+            },
+            {
+                "@type": "TravelAction",
+                "startDate": "1908-01-01",
+                "endDate": "1909-12-31",
+                "toLocation": {
+                    "@type": "Place",
+                    "name": "Belgium"
+                }
+            },
+            {
+                "@type": "TravelAction",
+                "startDate": "1909-01-01",
+                "endDate": "1922-12-31",
+                "toLocation": {
+                    "@type": "Place",
+                    "name": "The Continent"
+                }
+            },
+            {
+                "@type": "TravelAction",
+                "startDate": "1909-01-01",
+                "endDate": "1922-12-31",
+                "toLocation": {
+                    "@type": "Place",
+                    "name": "England"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "TimmO"
+            },
+            {
+                "@type": "Organization",
+                "name": "NeptO"
+            },
+            {
+                "@type": "Organization",
+                "name": "Odd Fellow"
+            }
+        ],
+        "hobbies": [
+            "Hunting",
+            "Fishing"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "AB Kol och Koks",
+                "industry": "Unknown",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Board member and Deputy Director",
+                "workplace": "Lavens Kolimp AB",
+                "industry": "Unknown",
+                "start_date": "1913"
+            },
+            {
+                "occupational_title": "Growth Director",
+                "workplace": "Red AB Sthlm-Värmdö and Värmdö Ångf AB",
+                "industry": "Unknown",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Reserve Officer",
+                "workplace": "Uppland Regiment",
+                "industry": "Military",
+                "start_date": "1908"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Lavens Kolimp AB",
+                "industry": "Unknown",
+                "start_date": "1907"
+            }
+        ]
+    }
+}

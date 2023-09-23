@@ -1,0 +1,65 @@
+{
+    "original": "BÄCKSTRÖM, Johan Richard Åke, Direktör, Djursholm, f Skövde 28/4 99 av ryttm R B o Emy Reuterskiöld, gm Thyra Bergström. Studex 17, DHS 21. Anst AB Karl Ekesiöö Sthlm sed. 30, dir o styr.led där. Ag fastgh Froste nr 2, Djursholm. Resor: Span 21—23. Par Bricole, TimmO.",
+    "translated": "BÄCKSTRÖM, Johan Richard Åke, Director, Djursholm, b. Skövde 28/4 99, son of cavalry officer R B and Emy Reuterskiöld, m. Thyra Bergström. Graduated at age 17, attended DHS (college) until age 21. Employed at AB Karl Ekesiöö in Stockholm since 1930, currently holding the position of director and board member. Living at Froste No. 2, Djursholm. Traveled to Spain from 1921 to 1923. Married Bricole, TimmO in the year 19xx.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Johan Richard Åke Bäckström",
+        "birthDate": "1899-04-28",
+        "birthPlace": "Skövde",
+        "father": {
+            "@type": "Person",
+            "name": "R B"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Emy Reuterskiöld"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Bricole TimmO"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "HighSchoolDiploma",
+            "educationalLevel": "High school",
+            "endDate": "1921"
+        },
+        "employment": {
+            "@type": "OrganizationRole",
+            "startDate": "1930",
+            "endDate": "Present",
+            "roleName": "Director",
+            "organization": {
+                "@type": "Organization",
+                "name": "AB Karl Ekesiöö"
+            },
+            "memberOf": {
+                "@type": "Organization",
+                "name": "AB Karl Ekesiöö",
+                "employeeRole": "Director"
+            }
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Froste No. 2",
+            "addressLocality": "Djursholm"
+        },
+        "travel": {
+            "@type": "Trip",
+            "name": "Spain Trip",
+            "startDate": "1921",
+            "endDate": "1923"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "AB Karl Ekesiöö",
+                "industry": "Unknown",
+                "start_date": "1930"
+            }
+        ]
+    }
+}

@@ -1,0 +1,125 @@
+{
+    "original": "CARLSON, Nils Oscar, Reklamchef, Göteborg, f Gbg 1/8 96 av handl Alfr C o Emma Henriksson, gm Thekla Andersson. Folksk h avd, hdlssk. Anst AB Birger Olsson Gbg 11—17, SKF 17—23, Gbgs jub.utställn :s pressbyrå 22—23, Sv telegr.byr Gbg 23—27, AB J A Wettergren &amp; Co Gbg sed. 27. Resor: Tyskl 35, 36, 39. Hobby: Foto.",
+    "translated": "CARLSON, Nils Oscar, Advertising Manager, Gothenburg, b. Gothenburg 1/8 96, son of merchant Alfr C and Emma Henriksson, m. Thekla Andersson. Completed elementary school, commercial school. Employed by AB Birger Olsson Gothenburg 11-17, SKF 17-23, Gothenburg's jubilee exhibition press agency 22-23, Swedish Telegraph Office Gothenburg 23-27, AB J A Wettergren & Co Gothenburg since 27. Travels: Germany 35, 36, 39. Hobby: Photography.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Nils Oscar Carlson",
+        "jobTitle": "Advertising Manager",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Gothenburg"
+        },
+        "birthDate": "1896-08-01",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Alfr C Carlson",
+                "jobTitle": "Merchant"
+            },
+            {
+                "@type": "Person",
+                "name": "Emma Henriksson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Thekla Andersson"
+        },
+        "educationalCredentialAwarded": [
+            "Elementary school",
+            "Commercial school"
+        ],
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "AB Birger Olsson",
+                "location": "Gothenburg",
+                "startDate": "1911-01-01",
+                "endDate": "1917-12-31"
+            },
+            {
+                "@type": "Organization",
+                "name": "SKF",
+                "location": "Gothenburg",
+                "startDate": "1917-01-01",
+                "endDate": "1923-12-31"
+            },
+            {
+                "@type": "Organization",
+                "name": "Gothenburg's jubilee exhibition press agency",
+                "location": "Gothenburg",
+                "startDate": "1922-01-01",
+                "endDate": "1923-12-31"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Telegraph Office",
+                "location": "Gothenburg",
+                "startDate": "1923-01-01",
+                "endDate": "1927-12-31"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB J A Wettergren & Co",
+                "location": "Gothenburg",
+                "startDate": "1927-01-01"
+            }
+        ],
+        "travels": [
+            {
+                "@type": "Place",
+                "name": "Germany",
+                "startDate": "1935",
+                "endDate": "1935"
+            },
+            {
+                "@type": "Place",
+                "name": "Germany",
+                "startDate": "1936",
+                "endDate": "1936"
+            },
+            {
+                "@type": "Place",
+                "name": "Germany",
+                "startDate": "1939",
+                "endDate": "1939"
+            }
+        ],
+        "hobbies": "Photography"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Advertising Manager",
+                "workplace": "AB Birger Olsson",
+                "industry": "Advertising",
+                "start_date": "1911"
+            },
+            {
+                "occupational_title": "Advertising Manager",
+                "workplace": "SKF",
+                "industry": "Engineering",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Press Agency Staff",
+                "workplace": "Gothenburg's Jubilee Exhibition",
+                "industry": "Events/Exhibitions",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Swedish Telegraph Office Staff",
+                "workplace": "Swedish Telegraph Office",
+                "industry": "Telecommunications",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Staff Member",
+                "workplace": "AB J A Wettergren & Co",
+                "industry": "Unknown",
+                "start_date": "1927"
+            }
+        ]
+    }
+}

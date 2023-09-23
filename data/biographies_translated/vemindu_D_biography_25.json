@@ -1,0 +1,72 @@
+{
+    "original": "DAHLGREN, Sven Adolf, Disponent, Lindesberg, f Frövi 26/4 04. Örebro hdlsgymn 24. Anst Berg &amp; Co Mek Verkst., Ullersäter, 25—28, kont- o försäljn.ch AB Trygg-Produkt, Örebro, 29—37, disp AB Sv Industrivaror (Siva) Lindesberg sed. 38.",
+    "translated": "DAHLGREN, Sven Adolf, Disponent (Manager), Lindesberg, born in Frövi on April 26, 1904. Örebro Handels Gymnasium (Business School) graduated in 1924. Employed at Berg & Co Mechanical Workshop, Ullersäter, from 1925 to 1928. Worked in accounting and sales at AB Trygg-Produkt, Örebro, from 1929 to 1937. Became manager at AB Sv Industrivaror (Siva) Lindesberg in 1938.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "familyName": "Dahlgren",
+        "givenName": "Sven Adolf",
+        "birthDate": "1904-04-26",
+        "birthPlace": "Frövi",
+        "description": "Disponent (Manager)",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Berg & Co Mek Verkst.",
+                "startDate": "1925",
+                "endDate": "1928",
+                "description": "Mechanical Workshop"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Trygg-Produkt",
+                "startDate": "1929",
+                "endDate": "1937",
+                "description": "Accounting and sales"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Sv Industrivaror (Siva)",
+                "startDate": "1938",
+                "description": "Manager"
+            }
+        ],
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Örebro Handels Gymnasium",
+            "endDate": "1924"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Lindesberg"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Disponent (Manager)",
+                "workplace": "Lindesberg",
+                "industry": "",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "",
+                "workplace": "Berg & Co Mechanical Workshop",
+                "industry": "",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "",
+                "workplace": "AB Trygg-Produkt",
+                "industry": "",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "",
+                "workplace": "AB Sv Industrivaror (Siva)",
+                "industry": "",
+                "start_date": "1938"
+            }
+        ]
+    }
+}

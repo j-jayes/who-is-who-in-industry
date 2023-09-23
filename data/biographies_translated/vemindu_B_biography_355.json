@@ -1,0 +1,108 @@
+{
+    "original": "BORG, Axel Walter, Sporthandlare, Stockholm, f Sthlm 6/2 88 av bokb A C Borg o h h f Berglöw, gm Ruth Jonsson. Folksk, bor-garsk, hdlstekn skolor. Anst Mauritz Wid-forss HAB Sthlm 03—24, sen åren inköpschef. Inneh Walter Borgs Sport-, Jakt- o Fiskredskapsaffär Sthlm sed. 24. Resor: Tyskl 37, Polen 38. Medl MercuriiO o Jägarefrb mfl föreningar. Hobbies: Jakt o fiske.",
+    "translated": "BORG, Axel Walter, Sports retailer, Stockholm, born in Stockholm on 6th February 1888, son of bookbinder A C Borg and his wife Berglöw, married to Ruth Jonsson. Attended elementary, citizen's, and trade technical schools. Employed at Mauritz Widforss HAB in Stockholm from 1903 to 1924, then served as a purchasing manager. Owner of Walter Borg's Sports, Hunting, and Fishing Equipment Store in Stockholm since 1924. Travels: Germany in 1937, Poland in 1938. Member of MercuriiO and Jägarefrb, among other associations. Hobbies: Hunting and fishing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Axel Walter Borg",
+        "birthDate": "1888-02-06",
+        "birthPlace": "Stockholm, Sweden",
+        "description": "Sports retailer",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "A C Borg",
+                "jobTitle": "Bookbinder"
+            },
+            {
+                "@type": "Person",
+                "name": "Berglöw"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ruth Jonsson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Elementary School",
+                "educationalLevel": "Elementary School"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Citizen's School",
+                "educationalLevel": "Citizen's School"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Trade Technical School",
+                "educationalLevel": "Trade Technical School"
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Mauritz Widforss HAB",
+            "startDate": "1903-01-01",
+            "endDate": "1924-01-01"
+        },
+        "occupation": {
+            "@type": "OrganizationRole",
+            "startDate": "1924-01-01",
+            "roleName": "Purchasing Manager"
+        },
+        "owns": {
+            "@type": "Organization",
+            "name": "Walter Borg's Sport-, Jakt- o Fiskredskapsaffär",
+            "startDate": "1924-01-01"
+        },
+        "travels": [
+            {
+                "@type": "Place",
+                "name": "Germany",
+                "startDate": "1937-01-01"
+            },
+            {
+                "@type": "Place",
+                "name": "Poland",
+                "startDate": "1938-01-01"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "MercuriiO"
+            },
+            {
+                "@type": "Organization",
+                "name": "Jägarefrb"
+            }
+        ],
+        "hobbies": [
+            "Hunting",
+            "Fishing"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Sports retailer",
+                "workplace": "Walter Borg's Sport-, Jakt- o Fiskredskapsaffär Sthlm",
+                "industry": "Sporting goods",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Purchasing manager",
+                "workplace": "Mauritz Widforss HAB Sthlm",
+                "industry": "Retail",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Mauritz Widforss HAB Sthlm",
+                "industry": "Retail",
+                "start_date": "1903"
+            }
+        ]
+    }
+}

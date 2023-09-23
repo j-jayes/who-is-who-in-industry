@@ -1,0 +1,100 @@
+{
+    "original": "CARLSSON, Karl John Eugen, Direktör, Göteborg, f Grave Örebro l, 5/11 92, gm Irma Ericsson. Gbgs H Latinlärov 13, resoffex 16. övert Scania-Vabis rör i Gbg 21, inneh Gbgs Bil AB sed. 27, övert ena Fordagent f Gbg 27 o inneh den t 37, repr Dodge o DKW f Philipsons Bil AB sed. 37.",
+    "translated": "CARLSSON, Karl John Eugen, Director, Gothenburg, b. Grave Örebro county, 5/11 92, m. Irma Ericsson. Attended Gothenburg High School 13, reserve officer's training 16. Took over Scania-Vabis pipes in Gothenburg 21, owner of Gothenburg Car Ltd. since 27, took over one Ford agency in Gothenburg 27 and owned it until 37, represented Dodge and DKW for Philipsons Car Ltd. since 37.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Karl John Eugen Carlsson",
+        "jobTitle": "Director",
+        "birthPlace": "Grave, Örebro county",
+        "birthDate": "1892-11-05",
+        "spouse": {
+            "@type": "Person",
+            "name": "Irma Ericsson"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Gothenburg High School"
+        },
+        "militaryService": {
+            "@type": "MilitaryService",
+            "startDate": "1916"
+        },
+        "affiliation": [
+            {
+                "@type": "Organization",
+                "name": "Scania-Vabis",
+                "roleName": "Pipe Division",
+                "startDate": "1921",
+                "endDate": "1927",
+                "location": "Gothenburg"
+            },
+            {
+                "@type": "Organization",
+                "name": "Gothenburg Car Ltd.",
+                "startDate": "1927"
+            },
+            {
+                "@type": "Organization",
+                "name": "Ford",
+                "roleName": "Agency",
+                "startDate": "1927",
+                "endDate": "1937",
+                "location": "Gothenburg"
+            },
+            {
+                "@type": "Organization",
+                "name": "Philipsons Car Ltd.",
+                "startDate": "1937"
+            },
+            {
+                "@type": "Product",
+                "name": "Dodge"
+            },
+            {
+                "@type": "Product",
+                "name": "DKW"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Gothenburg",
+                "industry": "N/A",
+                "start_date": "N/A"
+            },
+            {
+                "occupational_title": "Reserve officer",
+                "workplace": "N/A",
+                "industry": "N/A",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Took over Scania-Vabis pipes",
+                "workplace": "Gothenburg",
+                "industry": "Automotive",
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Owner of Gothenburg Car Ltd.",
+                "workplace": "Gothenburg",
+                "industry": "Automotive",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Took over one Ford agency",
+                "workplace": "Gothenburg",
+                "industry": "Automotive",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Represented Dodge and DKW",
+                "workplace": "Philipsons Car Ltd.",
+                "industry": "Automotive",
+                "start_date": "1937"
+            }
+        ]
+    }
+}

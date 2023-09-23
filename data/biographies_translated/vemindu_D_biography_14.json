@@ -1,0 +1,126 @@
+{
+    "original": "DAHLBÄCK, Oskar Adolf, Bankdirektör, Visby, f Klinte, Gotl län, 9/4 79 av krlänsm Ad D o Ida Ahlberg, gm Agnes Nyström. Studex 00. Kronokass, Visby, 04—26, kamrer Gotl hypot.frn 06—39, vkst dir sällsk DBV sparb i Visby sed. 26. RVO, Sv fåravelsfrn M. Hobbies: Jakt, jaktvård, fåravel.",
+    "translated": "Translate the following abbreviated Swedish biography from the mid 20th century to English: \n\nDAHLBÄCK, Oskar Adolf, Bank Director, Visby, born in Klinte, Gotland County, on April 9, 1879, son of landowner Adolf Dahlbäck and Ida Ahlberg, married to Agnes Nyström. Completed studies in 1900. Employed at the Royal Treasury, Visby, from 1904 to 1926, assistant manager at Gotland Mortgage Company from 1906 to 1939, and vice president of DBV Savings Society in Visby since 1926. Received the Royal Order of Vasa (RVO). Swedish sheep breeding association member. Hobbies include hunting, wildlife conservation, and sheep breeding.\n\nNote: '\\d\\d m. partners name' indicates that the person got married in the designated year (19xx).",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Oskar Adolf Dahlbäck",
+        "birthDate": "1879-04-09",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Klinte",
+            "address": {
+                "@type": "PostalAddress",
+                "addressRegion": "Gotland County",
+                "addressCountry": "Sweden"
+            }
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Adolf Dahlbäck",
+                "jobTitle": "Landowner",
+                "gender": "Male"
+            },
+            {
+                "@type": "Person",
+                "name": "Ida Ahlberg",
+                "gender": "Female"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Agnes Nyström"
+        },
+        "occupation": "Bank Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Visby",
+            "addressCountry": "Sweden"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Studex",
+            "issuingAuthority": "Unknown",
+            "startDate": "1900"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Royal Treasury",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Visby",
+                    "addressCountry": "Sweden"
+                },
+                "startDate": "1904",
+                "endDate": "1926",
+                "jobTitle": "Employed"
+            },
+            {
+                "@type": "Organization",
+                "name": "Gotland Mortgage Company",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Visby",
+                    "addressCountry": "Sweden"
+                },
+                "startDate": "1906",
+                "endDate": "1939",
+                "jobTitle": "Assistant Manager"
+            },
+            {
+                "@type": "Organization",
+                "name": "DBV Savings Society",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Visby",
+                    "addressCountry": "Sweden"
+                },
+                "startDate": "1926",
+                "jobTitle": "Vice President"
+            }
+        ],
+        "award": {
+            "@type": "Order",
+            "name": "Royal Order of Vasa (RVO)"
+        },
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Swedish Sheep Breeding Association"
+        },
+        "interest": [
+            "Hunting",
+            "Wildlife Conservation",
+            "Sheep Breeding"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Bank Director",
+                "workplace": "Visby",
+                "industry": "Banking",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Assistant Manager",
+                "workplace": "Gotland Mortgage Company",
+                "industry": "Finance",
+                "start_date": "1906"
+            },
+            {
+                "occupational_title": "Vice President",
+                "workplace": "DBV Savings Society",
+                "industry": "Finance",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Royal Treasury",
+                "industry": "Finance",
+                "start_date": "1904"
+            }
+        ]
+    }
+}

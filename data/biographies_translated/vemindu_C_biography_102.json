@@ -1,0 +1,116 @@
+{
+    "original": "CEDERQUIST, Karl Erik, Direktör, Sthlm, f Sthlm 12/11 89 av dir Justus C o Anne-Marie Lindström, gm Gunvor Åberg. Lärov, kemigraf fackstud Berlin, Paris, Wien, London, USA. Disp i Cederquists graf AB, vkst dir AB Grohmann o Eichelberg sed. 21. Styr.led Sv litogr tryck.äg frb 20—27 o 31—34. Komm.koll stip 14 o 21. Av trycket: Upps i reprod.tekn fråg i Nord boktryck.konst, Grafisk årsbok, Nord tidskr f fotogr mm. Hobbies: Segling, skidor, tennis.",
+    "translated": "CEDERQUIST, Karl Erik, Director, Stockholm, b. Stockholm 12/11 89, son of director Justus C and Anne-Marie Lindström, m. Gunvor Åberg. Educated, chemigraf specialized studies in Berlin, Paris, Vienna, London, USA. Director in Cederquist's graphics AB, Vice Managing Director of AB Grohmann and Eichelberg since 1921. Board member of the Swedish Lithographic Printing Association from 1920-1927 and 1931-1934. Received an art grant in 1914 and 1921. Contributions to publications: Published in reproduction technology in the Nordic book printing art, Graphic Yearbook, Nordic journal of photography, etc. Hobbies: Sailing, skiing, tennis.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Karl Erik Cederquist",
+        "jobTitle": "Director",
+        "birthPlace": "Stockholm",
+        "birthDate": "1889-11-12",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Justus Cederquist",
+                "jobTitle": "Director",
+                "spouse": "Anne-Marie Lindström"
+            }
+        ],
+        "spouse": "Gunvor Åberg",
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Specialized studies",
+            "educationLevel": "Chemigraf",
+            "educationalLevel": [
+                "Berlin",
+                "Paris",
+                "Vienna",
+                "London",
+                "USA"
+            ]
+        },
+        "memberOf": [
+            {
+                "@type": "OrganizationRole",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Cederquist's Graphics AB"
+                },
+                "roleName": "Director"
+            },
+            {
+                "@type": "OrganizationRole",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "AB Grohmann and Eichelberg"
+                },
+                "roleName": "Vice Managing Director",
+                "startDate": "1921"
+            },
+            {
+                "@type": "OrganizationRole",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Swedish Lithographic Printing Association"
+                },
+                "roleName": "Board member",
+                "startDate": "1920",
+                "endDate": "1927"
+            },
+            {
+                "@type": "OrganizationRole",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Swedish Lithographic Printing Association"
+                },
+                "roleName": "Board member",
+                "startDate": "1931",
+                "endDate": "1934"
+            }
+        ],
+        "grant": [
+            {
+                "@type": "MonetaryGrant",
+                "description": "Art grant",
+                "year": 1914
+            },
+            {
+                "@type": "MonetaryGrant",
+                "description": "Art grant",
+                "year": 1921
+            }
+        ],
+        "publication": [
+            "Reproduction technology in the Nordic book printing art",
+            "Graphic Yearbook",
+            "Nordic journal of photography"
+        ],
+        "hobbies": [
+            "Sailing",
+            "Skiing",
+            "Tennis"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Cederquist's graphics AB",
+                "industry": "Graphics",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Vice Managing Director",
+                "workplace": "AB Grohmann and Eichelberg",
+                "industry": "Unknown",
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Board member",
+                "workplace": "Swedish Lithographic Printing Association",
+                "industry": "Printing",
+                "start_date": "1920"
+            }
+        ]
+    }
+}

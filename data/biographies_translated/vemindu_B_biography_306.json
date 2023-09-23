@@ -1,0 +1,74 @@
+{
+    "original": "BLOMQVIST, Bror Petrus, Direktör, Uppsala, f Rasbo, Upps l, 15/5 90, gm Emma Pettersson. Frakt o teoret utbildn bl a i faderns möbelverkst. Vkst dir AB J E Blomqvist sed. start 12. Inneh fi styr.led- o rev.-uppdr. Resor: Danm, Tyskl, Frankr 30 mfl. TR-orden, RKKF mfl.",
+    "translated": "BLOMQVIST, Bror Petrus, Director, Uppsala, from Rasbo, Uppsala län, born on May 15, 1890, married to Emma Pettersson. Frakt and theoretical education, among others, in his father's furniture workshop. Grew up as a director at AB J E Blomqvist since its establishment in 1912. Holds various managerial and auditing assignments. Traveled to Denmark, Germany, France, and others in 1930. Order of the Three Roses, Royal Norwegian Order of Saint Olav, and others.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Bror Petrus Blomqvist",
+        "birthDate": "1890-05-15",
+        "birthPlace": "Rasbo, Uppsala län, Sweden",
+        "spouse": "Emma Pettersson",
+        "jobTitle": "Director",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "AB J E Blomqvist",
+            "foundingDate": "1912"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Father's Furniture Workshop"
+        },
+        "managerialPosition": [
+            {
+                "@type": "OrganizationRole",
+                "namedPosition": "Director",
+                "startDate": "1912",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB J E Blomqvist"
+                }
+            }
+        ],
+        "auditingAssignment": [
+            {
+                "@type": "OrganizationRole",
+                "namedPosition": "Auditor",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Unknown"
+                }
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "Trip",
+                "departureTime": "1930",
+                "arrivalPlace": [
+                    "Denmark",
+                    "Germany",
+                    "France"
+                ]
+            }
+        ],
+        "honors": [
+            {
+                "@type": "Order",
+                "name": "Order of the Three Roses"
+            },
+            {
+                "@type": "Order",
+                "name": "Royal Norwegian Order of Saint Olav"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "AB J E Blomqvist",
+                "industry": "Unknown",
+                "start_date": "1912"
+            }
+        ]
+    }
+}

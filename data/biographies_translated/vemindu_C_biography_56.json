@@ -1,0 +1,123 @@
+{
+    "original": "CARLSSON, Erik Gustav, Järnhandlare, Lindesberg, f Lindesbg 4/4 00 av järnhandl A G C o h h, gm Karin Larsson. Anst i fad fma A G Carlssons Järn- &amp; Maskinaff i Lindesbg (gr 92) 16—18, Örebro Hdlsgymn 18—20, studieresa t USA, Ital, Österr o Tyskl 20—21, åter i fad fma 22, övertog denna 25 o start samtidigt filial i Fellingsbro, öppn avd f färg o kemikalier där 34. Medl av Västml-Närkes Järnhandl.frn o Mell Sv :s Linoleumhandl.frn.",
+    "translated": "CARLSSON, Erik Gustav, Ironmonger, Lindesberg, b. Lindesbg 4/4 00, son of ironmonger A.G.C. and h.h., m. Karin Larsson. Employed in his father's company A.G. Carlssons Iron and Machinery Store in Lindesberg (founded 1892) from 1916 to 1918. Attended Örebro Commercial College from 1918 to 1920. Took a study trip to the USA, Italy, Austria and Germany from 1920 to 1921. Back in his father's company from 1922, took over the business in 1925 and simultaneously opened a branch in Fellingsbro, specializing in paints and chemicals, in 1934. Member of the Västmanland-Närke Ironmonger Association and the Central Sweden Linoleum Retailers Association.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Erik Gustav Carlsson",
+        "jobTitle": "Ironmonger",
+        "birthPlace": "Lindesberg",
+        "birthDate": "1900-04-04",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "A. G. Carlsson"
+            },
+            {
+                "@type": "Person",
+                "name": "H. H."
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Karin Larsson"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Västmanland-Närke Ironmonger Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Central Sweden Linoleum Retailers Association"
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "A.G. Carlssons Iron and Machinery Store"
+        },
+        "education": [
+            {
+                "@type": "Organization",
+                "name": "Örebro Commercial College",
+                "startDate": "1918",
+                "endDate": "1920"
+            }
+        ],
+        "studyTour": [
+            {
+                "@type": "Place",
+                "name": "USA"
+            },
+            {
+                "@type": "Place",
+                "name": "Italy"
+            },
+            {
+                "@type": "Place",
+                "name": "Austria"
+            },
+            {
+                "@type": "Place",
+                "name": "Germany"
+            }
+        ],
+        "branch": [
+            {
+                "@type": "Organization",
+                "name": "Filial i Fellingsbro",
+                "specialization": "Paints and chemicals",
+                "openingDate": "1934"
+            }
+        ],
+        "lifeEvents": [
+            {
+                "@type": "LifeEvent",
+                "description": "Employed in father's company",
+                "startDate": "1916",
+                "endDate": "1918",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "A.G. Carlssons Iron and Machinery Store"
+                }
+            },
+            {
+                "@type": "LifeEvent",
+                "description": "Took over the family business",
+                "startDate": "1925",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "A.G. Carlssons Iron and Machinery Store"
+                }
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Ironmonger",
+                "workplace": "A.G. Carlssons Iron and Machinery Store",
+                "industry": "Iron and machinery retail",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Student",
+                "workplace": "Örebro Commercial College",
+                "industry": "Education",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Owner/Manager",
+                "workplace": "A.G. Carlssons Iron and Machinery Store (Lindesberg)",
+                "industry": "Iron and machinery retail",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Owner/Manager",
+                "workplace": "Branch in Fellingsbro (specializing in paints and chemicals)",
+                "industry": "Retail (paints and chemicals)",
+                "start_date": "1934"
+            }
+        ]
+    }
+}

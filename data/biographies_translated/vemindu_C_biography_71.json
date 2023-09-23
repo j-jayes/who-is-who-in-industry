@@ -1,0 +1,165 @@
+{
+    "original": "CARLSSON, Per Gunnar, Notarie, Hovas, f Gbg 25/2 12 av skpsred Gunnar C o Olga Hansen, gm Anna-Lisa Frick. Studex, jur kand Upps. Tingstjg Frosta o Eslöv doms 34—35, anst Red.AB Transatlantic sed. 35, dir.ass där sed. 41. Styr.suppl Red.AB Transatlantic, Transpacific, Transmark, Transocean o Onassis, suppl dir f Gbgs hamnarb.-kont. Resor: Sydafr, Austr o Söderh 36—37. Hobbies: Golf, segling.",
+    "translated": "CARLSSON, Per Gunnar, Notary, Hovas, b. Gothenburg (Gbg) 25/2 1912, son of ship captain Gunnar C and Olga Hansen, m. Anna-Lisa Frick. Completed secondary school, studied law at Uppsala University (Upps). Served as a court clerk in Frosta and Eslöv courts from 1934 to 1935. Employed at Red.AB Transatlantic since 1935, assistant director since 1941. Also served as a board member for Red.AB Transatlantic, Transpacific, Transmark, Transocean, and Onassis. Additional role as a board member for Gothenburg's Port Workers Union. Traveled extensively to South Africa, Australia, and the Southern Hemisphere in 1936-1937. Hobbies include golfing and sailing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Per Gunnar Carlsson",
+        "birthDate": "1912-02-25",
+        "birthPlace": "Gothenburg",
+        "description": "Notary at Hovas",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Gunnar C"
+            },
+            {
+                "@type": "Person",
+                "name": "Olga Hansen"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Anna-Lisa Frick"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "secondary school",
+            "educationalLevel": "secondary",
+            "educationalCredentialAwarded": "completed secondary school"
+        },
+        "alumniOf": {
+            "@type": "CollegeOrUniversity",
+            "name": "Uppsala University",
+            "location": "Uppsala"
+        },
+        "work": [
+            {
+                "@type": "Court",
+                "name": "Frosta Court",
+                "jobTitle": "Court Clerk",
+                "startDate": "1934",
+                "endDate": "1935"
+            },
+            {
+                "@type": "Court",
+                "name": "Eslöv Court",
+                "jobTitle": "Court Clerk",
+                "startDate": "1934",
+                "endDate": "1935"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Corporation",
+                    "name": "Red.AB Transatlantic"
+                },
+                "roleName": "Employee",
+                "startDate": "1935"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Corporation",
+                    "name": "Red.AB Transatlantic"
+                },
+                "roleName": "Assistant Director",
+                "startDate": "1941"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Corporation",
+                    "name": "Red.AB Transatlantic"
+                },
+                "roleName": "Board Member"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Corporation",
+                    "name": "Red.AB Transpacific"
+                },
+                "roleName": "Board Member"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Corporation",
+                    "name": "Red.AB Transmark"
+                },
+                "roleName": "Board Member"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Corporation",
+                    "name": "Red.AB Transocean"
+                },
+                "roleName": "Board Member"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Corporation",
+                    "name": "Onassis"
+                },
+                "roleName": "Board Member"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Corporation",
+                    "name": "Gothenburg's Port Workers Union"
+                },
+                "roleName": "Board Member"
+            }
+        ],
+        "memberOf": {
+            "@type": "CivicStructure",
+            "name": "Hovas"
+        },
+        "travel": [
+            {
+                "@type": "Place",
+                "name": "South Africa"
+            },
+            {
+                "@type": "Place",
+                "name": "Australia"
+            },
+            {
+                "@type": "Place",
+                "name": "Southern Hemisphere"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Notary",
+                "workplace": "Hovas",
+                "industry": "",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Court Clerk",
+                "workplace": "Frosta Court",
+                "industry": "Legal",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Court Clerk",
+                "workplace": "Eslöv Court",
+                "industry": "Legal",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Assistant Director",
+                "workplace": "Red.AB Transatlantic",
+                "industry": "Transportation",
+                "start_date": "1941"
+            }
+        ]
+    }
+}

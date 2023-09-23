@@ -1,0 +1,169 @@
+{
+    "original": "BÖÖK, Klas Erik. tf Bankråd, Lidingö, f Lund 10/3 09 av prof Fredrik B o Tora Olsson, gm Aina Hakon-Pettersson. Fil kand Lund 34, London School of Economics 35, fil lic Lund 36, löjtn Wend art.reg res 35. Anst riksbkn 36, sekr 37, tf bankråd o förest f statist avd 40, bitr dir i valutakont 40, styr.-suppl i clearingsnmd 41, styr.suppl i Sv jordbr-kred.kass 42, styr.led i exp.kred.mndn 43, delt i förhandl om hdls- o betaln.överenskomm m Ryssl 40—41, Danm 40—43, Ital 41—43. Av trycket: Art i ekon o finans ämn.",
+    "translated": "BÖÖK, Klas Erik. Acting Bank Councilor, Lidingö, born in Lund on March 10, 1909, to Professor Fredrik B and Tora Olsson. Married to Aina Hakon-Pettersson. Holds a Bachelor of Arts degree from Lund University in 1934, attended the London School of Economics in 1935, completed a Licentiate of Arts degree from Lund University in 1936, and served as a Lieutenant in the Artillery Regiment from 1935. Employed at the Central Bank since 1936, appointed Secretary in 1937, acting Bank Councilor and Head of the Statistical Department from 1940, Deputy Director of the Currency Office from 1940, board substitute in the Clearing Committee from 1941, board substitute in the Swedish Agricultural Credit Corporation from 1942, board member of the Export Credit Board from 1943. Participated in negotiations regarding trade and payment agreements with Russia from 1940-1941, Denmark from 1940-1943, and Italy from 1941-1943. Author of articles on economic and financial matters.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Klas Erik BÖÖK",
+        "birthDate": "1909-03-10",
+        "birthPlace": "Lund",
+        "father": {
+            "@type": "Person",
+            "name": "Fredrik B"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Tora Olsson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Aina Hakon-Pettersson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Bachelor's degree",
+                "educationalLevel": "Fil kand",
+                "educationalInstitution": {
+                    "@type": "CollegeOrUniversity",
+                    "name": "Lund University"
+                },
+                "dateTimeAwarded": "1934"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "educationalLevel": "Licentiate of Arts",
+                "educationalInstitution": {
+                    "@type": "CollegeOrUniversity",
+                    "name": "Lund University"
+                },
+                "dateTimeAwarded": "1936"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "educationalLevel": "London School of Economics",
+                "dateTimeAwarded": "1935"
+            }
+        ],
+        "occupation": [
+            {
+                "@type": "OrganizationRole",
+                "namedPosition": "Acting Bank Councilor",
+                "startDate": "1936",
+                "endDate": "1943",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Central Bank"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "namedPosition": "Secretary",
+                "startDate": "1937",
+                "endDate": "N/A"
+            },
+            {
+                "@type": "OrganizationRole",
+                "namedPosition": "Head of Statistical Department",
+                "startDate": "1940",
+                "endDate": "N/A",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Central Bank"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "namedPosition": "Deputy Director of Currency Office",
+                "startDate": "1940",
+                "endDate": "N/A"
+            },
+            {
+                "@type": "OrganizationRole",
+                "namedPosition": "Board Substitute in Clearing Committee",
+                "startDate": "1941",
+                "endDate": "N/A"
+            },
+            {
+                "@type": "OrganizationRole",
+                "namedPosition": "Board Substitute in Swedish Agricultural Credit Corporation",
+                "startDate": "1942",
+                "endDate": "N/A"
+            },
+            {
+                "@type": "OrganizationRole",
+                "namedPosition": "Board Member of Export Credit Board",
+                "startDate": "1943",
+                "endDate": "N/A"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Clearing Committee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Agricultural Credit Corporation"
+            },
+            {
+                "@type": "Organization",
+                "name": "Export Credit Board"
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Central Bank"
+        },
+        "article": {
+            "@type": "Article",
+            "name": "Articles on Economic and Financial Matters"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Acting Bank Councilor",
+                "workplace": "Central Bank",
+                "industry": "Banking",
+                "start_date": "1936"
+            },
+            {
+                "occupational_title": "Secretary",
+                "workplace": "Central Bank",
+                "industry": "Banking",
+                "start_date": "1937"
+            },
+            {
+                "occupational_title": "Acting Bank Councilor and Head of the Statistical Department",
+                "workplace": "Central Bank",
+                "industry": "Banking",
+                "start_date": "1940"
+            },
+            {
+                "occupational_title": "Deputy Director of the Currency Office",
+                "workplace": "Central Bank",
+                "industry": "Banking",
+                "start_date": "1940"
+            },
+            {
+                "occupational_title": "Board Substitute in the Clearing Committee",
+                "workplace": "Clearing Committee",
+                "industry": "Finance",
+                "start_date": "1941"
+            },
+            {
+                "occupational_title": "Board Substitute in the Swedish Agricultural Credit Corporation",
+                "workplace": "Swedish Agricultural Credit Corporation",
+                "industry": "Finance",
+                "start_date": "1942"
+            },
+            {
+                "occupational_title": "Board Member of the Export Credit Board",
+                "workplace": "Export Credit Board",
+                "industry": "Finance",
+                "start_date": "1943"
+            }
+        ]
+    }
+}

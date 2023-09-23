@@ -1,0 +1,108 @@
+{
+    "original": "CARLSTRÖM, Bengt Rudolf Teodor, Avdelningschef, Åtvidaberg, f Åtvidab 2/5 02 av dir W A C o Anna Magnusson, gm Brita Hemberg. Ex Örebro tekn gymn 22, prakt v verkstad o kraftbol. Rit h AB Facit, Åtvidab, 24—27; konstr h U S Gauge Co, Sellersville, Pä, USA, 27—28; konstr.iiig h Westinghouse Electric Co, Pittsburgh, Pä, USA, o h North East Electric Co, Rochester, NY, USA, 28— 30; ch f konstr- o exp.avd h AB Facit sed. 31.",
+    "translated": "CARLSTRÖM, Bengt Rudolf Teodor, Department Manager, Åtvidaberg, b. Åtvidab 2/5 02 to director W A C and Anna Magnusson, m. Brita Hemberg. Former student at Örebro technical high school, completed 1922; practical experience in workshop and power companies. Draftsman at AB Facit, Åtvidab, 1924-1927; design engineer at U S Gauge Co, Sellersville, PA, USA, 1927-1928; design engineer at Westinghouse Electric Co, Pittsburgh, PA, USA, and North East Electric Co, Rochester, NY, USA, 1928-1930; chief of design and export department at AB Facit from 1931 onwards.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "givenName": "Bengt",
+        "familyName": "Carlström",
+        "additionalName": "Rudolf Teodor",
+        "jobTitle": "Department Manager",
+        "birthPlace": "Åtvidab",
+        "birthDate": "1902-05-02",
+        "parent": {
+            "@type": "Person",
+            "name": "Anna Magnusson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Brita Hemberg"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Örebro tekn gymn",
+                "endDate": "1922"
+            }
+        ],
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "AB Facit",
+                "jobTitle": "Draftsman",
+                "startDate": "1924",
+                "endDate": "1927"
+            },
+            {
+                "@type": "Organization",
+                "name": "U S Gauge Co",
+                "jobTitle": "Design Engineer",
+                "startDate": "1927",
+                "endDate": "1928",
+                "location": "Sellersville, PA, USA"
+            },
+            {
+                "@type": "Organization",
+                "name": "Westinghouse Electric Co",
+                "jobTitle": "Design Engineer",
+                "startDate": "1928",
+                "endDate": "1930",
+                "location": "Pittsburgh, PA, USA"
+            },
+            {
+                "@type": "Organization",
+                "name": "North East Electric Co",
+                "jobTitle": "Design Engineer",
+                "startDate": "1928",
+                "endDate": "1930",
+                "location": "Rochester, NY, USA"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Facit",
+                "jobTitle": "Chief of Design and Export Department",
+                "startDate": "1931"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Former student",
+                "workplace": "Örebro technical high school",
+                "industry": "Education",
+                "start_date": "Completed 1922"
+            },
+            {
+                "occupational_title": "Draftsman",
+                "workplace": "AB Facit",
+                "industry": "Engineering",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Design engineer",
+                "workplace": "U S Gauge Co",
+                "industry": "Manufacturing",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Design engineer",
+                "workplace": "Westinghouse Electric Co",
+                "industry": "Engineering",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Design engineer",
+                "workplace": "North East Electric Co",
+                "industry": "Engineering",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Chief of design and export department",
+                "workplace": "AB Facit",
+                "industry": "Engineering",
+                "start_date": "1931"
+            }
+        ]
+    }
+}

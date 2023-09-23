@@ -1,0 +1,114 @@
+{
+    "original": "BYTTNER, Magnus Henry, Kamrer, Göteborg, f Grava förs, Vrml, 10/2 95 av lagerch K V B o Anna Olsson. Allm Ivk 5 kl. Anst Färg AB International Gbg fr 17, försäljn.ch där t 34, kamr där sed.34. Resor: Danm, Tyskl, Holl, Belg, Frankr 31, 35, 37. PatrS GM2st vid Färg AB Internationals 25-års jub 38. Hobby: Släktforskning.",
+    "translated": "BYTTNER, Magnus Henry, Accountant, Gothenburg, born in Grava parish, Värmland, on October 2, 1895, to warehouse clerk Karl Viktor Byttner and Anna Olsson. Completed fifth grade of primary school. Employed at Färg AB International in Gothenburg from 1917, working as a sales clerk until 1934 when promoted to accountant. Traveled to Denmark, Germany, the Netherlands, Belgium, and France in 1931, 1935, and 1937. Awarded two gold medals at Färg AB International's 25th anniversary celebration in 1938. Hobby: Genealogy.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Magnus Henry Byttner",
+        "jobTitle": "Accountant",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Gothenburg"
+        },
+        "birthDate": "1895-02-10",
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Grava parish, Värmland"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Karl Viktor Byttner",
+                "jobTitle": "Warehouse Clerk"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Olsson"
+            }
+        ],
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "educationalLevel": "Primary School",
+            "levelAchieved": "Fifth Grade"
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Färg AB International"
+        },
+        "worksFrom": "1917",
+        "worksAs": {
+            "@type": "JobTitle",
+            "name": "Sales Clerk"
+        },
+        "worksTo": "1934",
+        "occupation": "Accountant",
+        "travelHistory": [
+            {
+                "@type": "Place",
+                "name": "Denmark"
+            },
+            {
+                "@type": "Place",
+                "name": "Germany"
+            },
+            {
+                "@type": "Place",
+                "name": "Netherlands"
+            },
+            {
+                "@type": "Place",
+                "name": "Belgium"
+            },
+            {
+                "@type": "Place",
+                "name": "France"
+            }
+        ],
+        "travelDates": [
+            "1931",
+            "1935",
+            "1937"
+        ],
+        "awards": [
+            {
+                "@type": "Medal",
+                "name": "Gold Medal",
+                "event": {
+                    "@type": "Event",
+                    "name": "Färg AB International's 25th Anniversary Celebration",
+                    "startDate": "1938-01-01",
+                    "endDate": "1938-01-01"
+                }
+            },
+            {
+                "@type": "Medal",
+                "name": "Gold Medal",
+                "event": {
+                    "@type": "Event",
+                    "name": "Färg AB International's 25th Anniversary Celebration",
+                    "startDate": "1938-01-01",
+                    "endDate": "1938-01-01"
+                }
+            }
+        ],
+        "hobbies": [
+            "Genealogy"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Sales Clerk",
+                "workplace": "Färg AB International",
+                "industry": "Paints",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Accountant",
+                "workplace": "Färg AB International",
+                "industry": "Paints",
+                "start_date": "1934"
+            }
+        ]
+    }
+}

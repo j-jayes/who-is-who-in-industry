@@ -1,0 +1,118 @@
+{
+    "original": "BOSTRÖM, Frans Axel Bernhard, Bokhandlare, Sundbyberg, f Säbrå, VNorrl l, 12/5 99 av J B o Hanna Strömberg, gm Ruth Johansson. Anst Victor Åströms bokhdl Härnösand 12—23, Biblioteksbokhdln Sthlm 24— 28. Gr Sundbybergs Bokhdl 28, inneh dna. Styr.led Sthlms Förstäders &amp; Läns köpm.frb, sekr Suridbyb köpm.frn. Hobbies: Pistol -skytte, tennis, segling.",
+    "translated": "BOSTRÖM, Frans Axel Bernhard, Bookseller, Sundbyberg, born in Säbrå, Northern Sweden, on May 12, 1899, to parents J.B. and Hanna Strömberg, married to Ruth Johansson. Employed at Victor Åströms bookstore in Härnösand from 1912 to 1923, and at Biblioteksbokhdl in Stockholm from 1924 to 1928. Became the owner of Sundbybergs Bokhdl in 1928, currently holding the position. Also serves as a board member in Stockholm's suburban and county merchant association and as secretary for Suridbyb merchant association. Hobbies include pistol shooting, tennis, and sailing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Frans Axel Bernhard Boström",
+        "jobTitle": "Bookseller",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Sundbyberg"
+        },
+        "birthDate": "1899-05-12",
+        "birthPlace": "Säbrå, Northern Sweden",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "J.B. Strömberg"
+            },
+            {
+                "@type": "Person",
+                "name": "Hanna Strömberg"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ruth Johansson"
+        },
+        "employment": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1912-01-01",
+                "endDate": "1923-12-31",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Victor Åströms bokhdl",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Härnösand"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1924-01-01",
+                "endDate": "1928-12-31",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Biblioteksbokhdln",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1928-01-01",
+                "roleName": "Owner",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Sundbybergs Bokhdl",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Sundbyberg"
+                    }
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Board Member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Stockholm's suburban and county merchant association"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Secretary",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Suridbyb merchant association"
+                }
+            }
+        ],
+        "hobbies": [
+            "Pistol shooting",
+            "Tennis",
+            "Sailing"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Bookseller",
+                "workplace": "Victor Åströms bokhdl",
+                "industry": "Bookstore",
+                "start_date": "1912"
+            },
+            {
+                "occupational_title": "Bookseller",
+                "workplace": "Biblioteksbokhdl Sthlm",
+                "industry": "Bookstore",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Bookseller/Owner",
+                "workplace": "Sundbybergs Bokhdl",
+                "industry": "Bookstore",
+                "start_date": "1928"
+            }
+        ]
+    }
+}

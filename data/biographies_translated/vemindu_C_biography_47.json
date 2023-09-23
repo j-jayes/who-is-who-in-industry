@@ -1,0 +1,75 @@
+{
+    "original": "CARLSSON, Bo Uno Efraim, Järnhandlare, Tranås, f T.ås 8/7 17 av järnhdl Efraim K o Ingeborg Frost, gm Elsa Elmhed. Realex, 1-årig k Påhlmans hdlsinst. Anst fad fma A M Carlsson &amp; Co sed. 37, inneh Strömsholms mek verkst.",
+    "translated": "CARLSSON, Bo Uno Efraim, Iron merchant, Tranås, b. Tås 8/7 17, son of Efraim K and Ingeborg Frost, married to Elsa Elmhed. Attended Realex school, completed a 1-year commercial course at Påhlmans hdlsinst. Employed by his father's company A M Carlsson &amp; Co since '37, and is now the owner of Strömsholms mekaniska verkstad (Strömsholm Mechanical Workshop).",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Bo Uno Efraim Carlsson",
+        "birthDate": "1917-07-08",
+        "birthPlace": "Tranås",
+        "description": "Iron merchant",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Efraim K Carlsson"
+            },
+            {
+                "@type": "Person",
+                "name": "Ingeborg Frost"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Elsa Elmhed"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Realex school"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Påhlmans hdlsinst",
+                "duration": "PT1Y"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "A M Carlsson & Co"
+        },
+        "employment": [
+            {
+                "@type": "Organization",
+                "name": "A M Carlsson & Co",
+                "startDate": "1937"
+            },
+            {
+                "@type": "Organization",
+                "name": "Strömsholms mekaniska verkstad",
+                "position": "Owner"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Iron merchant",
+                "workplace": "Tranås",
+                "industry": "Iron trade",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Employee at A M Carlsson & Co",
+                "workplace": "Unknown",
+                "industry": "Iron trade",
+                "start_date": "1937"
+            },
+            {
+                "occupational_title": "Owner of Strömsholms mekaniska verkstad",
+                "workplace": "Strömsholm Mechanical Workshop",
+                "industry": "Mechanical engineering",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

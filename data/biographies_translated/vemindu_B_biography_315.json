@@ -1,0 +1,63 @@
+{
+    "original": "BODIN, Johan Pelle, Konsul, Grosshandlare, Gävle, f Gävle 21/7 83, gm Marita Möller. Eft avslut skolstud anst i fma Oscar A Petterson &amp; Co Gävle (manuf.fma, grund 08), deläg där samt ensam inneh sed. 32. Medl av Gävle stadsrev. Litauisk konsul.",
+    "translated": "BODIN, Johan Pelle, Consul, Merchant, Gävle, born Gävle 21/7 1883, married Marita Möller. After completing school, he worked at the company Oscar A Petterson & Co in Gävle (manufacturing company, founded in 1908), became a partner there and eventually owned it outright from 1932. He was a member of the Gävle City Council. He served as the Lithuanian consul. Note that '\\d\\d m. partners name' means that the person married in the year 19xx.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Johan Pelle Bodin",
+        "birthDate": "1883-07-21",
+        "birthPlace": "Gävle, Sweden",
+        "occupation": [
+            "Consul",
+            "Merchant"
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Gävle City Council"
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Oscar A Petterson & Co",
+            "foundingDate": "1908",
+            "ownershipFundingInfo": "32% ownership from 1932"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Marita Möller",
+            "marriageDate": "19XX"
+        },
+        "nationality": "Swedish",
+        "additionalProperty": {
+            "@type": "LithuanianConsul",
+            "name": "Lithuania"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Consul",
+                "workplace": "Lithuanian consulate",
+                "industry": "Diplomatic services",
+                "start_date": "N/A"
+            },
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Oscar A Petterson & Co",
+                "industry": "Manufacturing",
+                "start_date": "N/A"
+            },
+            {
+                "occupational_title": "Partner",
+                "workplace": "Oscar A Petterson & Co",
+                "industry": "Manufacturing",
+                "start_date": "N/A"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "Oscar A Petterson & Co",
+                "industry": "Manufacturing",
+                "start_date": "1932"
+            }
+        ]
+    }
+}

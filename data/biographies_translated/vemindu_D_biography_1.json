@@ -1,0 +1,131 @@
+{
+    "original": "DABEL.STEIN, Herbert Hans Louis Alfred, Grosshandlare, Ängby, f Hmbrg 19/1 88 av köpm M D o Helene Eggert, gm Annie Hiddemann. Realex. Anst Topp &amp; Dabelstein Sthlm 03—04, Emil R Boman Sthlm 04—09, utomlands 09—11, Sthlms Red AB Svea 12— 18, Sv:es Chark.idks Fabr- o Hdls AB Sthlm 19—23, inneh fma H Dabelstein AB Sthlm sed 23. Styr.led Sv:es Tarmimportörers Frn. Resor: Tyskl o Frankr.",
+    "translated": "DABEL.STEIN, Herbert Hans Louis Alfred, Wholesale merchant, Ängby, born in Hamburg on January 19th, 1888, son of merchant M.D. and Helene Eggert, married to Annie Hiddemann. Completed secondary school. Employed at Topp & Dabelstein in Stockholm from 1903 to 1904, then at Emil R. Boman in Stockholm from 1904 to 1909. Went abroad from 1909 to 1911. Worked at Sthlms Red AB Svea from 1912 to 1918, and Sv:es Chark.idks Fabr- o Hdls AB in Stockholm from 1919 to 1923. Since 1923, owner of H. Dabelstein AB in Stockholm. Board member of the Swedish Tarmimportörers Frn. Traveled to Germany and France.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Herbert Hans Louis Alfred Dabelstein",
+        "birthDate": "1888-01-19",
+        "birthPlace": "Hamburg",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Ängby"
+        },
+        "parents": [
+            {
+                "name": "M.D. Dabelstein"
+            },
+            {
+                "name": "Helene Eggert"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Annie Hiddemann"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "SecondarySchool"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Topp & Dabelstein",
+                "startDate": "1903",
+                "endDate": "1904",
+                "location": "Stockholm"
+            },
+            {
+                "@type": "Organization",
+                "name": "Emil R. Boman",
+                "startDate": "1904",
+                "endDate": "1909",
+                "location": "Stockholm"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sthlms Red AB Svea",
+                "startDate": "1912",
+                "endDate": "1918",
+                "location": "Stockholm"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sv:es Chark.idks Fabr- o Hdls AB",
+                "startDate": "1919",
+                "endDate": "1923",
+                "location": "Stockholm"
+            },
+            {
+                "@type": "Organization",
+                "name": "H. Dabelstein AB",
+                "startDate": "1923",
+                "location": "Stockholm"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Swedish Tarmimportörers Frn"
+        },
+        "nationality": "Sweden",
+        "sameAs": [
+            "https://www.example.com/herbert-dabelstein"
+        ],
+        "hasOccupation": [
+            {
+                "@type": "Occupation",
+                "name": "Wholesale Merchant"
+            }
+        ],
+        "travelHistory": {
+            "@type": "TravelAction",
+            "fromLocation": "Sweden",
+            "toLocation": [
+                "Germany",
+                "France"
+            ],
+            "startDate": "1909",
+            "endDate": "1911"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Wholesale merchant",
+                "workplace": "Topp & Dabelstein",
+                "industry": "Unknown",
+                "start_date": "1903-01-01"
+            },
+            {
+                "occupational_title": "Wholesale merchant",
+                "workplace": "Emil R. Boman",
+                "industry": "Unknown",
+                "start_date": "1904-01-01"
+            },
+            {
+                "occupational_title": "Unknown",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "1909-01-01"
+            },
+            {
+                "occupational_title": "Unknown",
+                "workplace": "Sthlms Red AB Svea",
+                "industry": "Unknown",
+                "start_date": "1912-01-01"
+            },
+            {
+                "occupational_title": "Unknown",
+                "workplace": "Sv:es Chark.idks Fabr- o Hdls AB",
+                "industry": "Unknown",
+                "start_date": "1919-01-01"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "H. Dabelstein AB",
+                "industry": "Unknown",
+                "start_date": "1923-01-01"
+            }
+        ]
+    }
+}

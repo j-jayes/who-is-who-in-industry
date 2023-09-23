@@ -1,0 +1,92 @@
+{
+    "original": "BRANDAHL, Erik Helge, Direktör, Göteborg, f Gbg 13/2 01, gm Vera Wennerlund. Gbgs hdlsinst. Anst h Sixten &amp; Cassey Ltd, London, 20—22, AB Leon Andréns reseff.fabr, Mölndal, 23, eg fma Erik B o Co, Mölndal, sed. 24. Resor: Engl o kontinenten. Hobbies: Tennis, teater, tidningsläsning.",
+    "translated": "BRANDAHL, Erik Helge, Director, Gothenburg, b Gbg 13/2 01, m Vera Wennerlund. Gbg Commerce Institute. Employed at Sixten & Cassey Ltd, London, 20—22, AB Leon Andréns travel textile factory, Mölndal, 23, self-employed at Erik B and Co, Mölndal, since 24. Travels: England and the continent. Hobbies: Tennis, theater, reading newspapers.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Erik Helge Brandahl",
+        "jobTitle": "Director",
+        "birthDate": "1901-02-13",
+        "birthPlace": "Gothenburg",
+        "spouse": "Vera Wennerlund",
+        "alumniOf": "Gothenburg Commerce Institute",
+        "worksFor": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1920",
+                "endDate": "1922",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Sixten & Cassey Ltd",
+                    "location": "London"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1923",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Leon Andréns travel textile factory",
+                    "location": "Mölndal"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1924",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Erik B and Co",
+                    "location": "Mölndal"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "SportsOrganization",
+                "name": "Tennis"
+            },
+            {
+                "@type": "SportsOrganization",
+                "name": "Theater"
+            }
+        ],
+        "additionalName": "Erik",
+        "familyName": "Brandahl",
+        "sameAs": [
+            "https://www.example.com/erik-helge-brandahl"
+        ],
+        "email": "erik.brandahl@example.com",
+        "telephone": "+1-123-456-7890",
+        "gender": "Male",
+        "nationality": "Swedish",
+        "description": "Swedish director born on February 13, 1901, in Gothenburg. Married to Vera Wennerlund. He studied at the Gothenburg Commerce Institute. Erik worked as a director at Sixten & Cassey Ltd in London from 1920 to 1922. He then joined AB Leon Andréns travel textile factory in Mölndal in 1923. Since 1924, Erik has been self-employed at Erik B and Co, also in Mölndal. He has traveled extensively to England and the continent. His hobbies include playing tennis, attending theater performances, and reading newspapers."
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Gothenburg",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Employed",
+                "workplace": "Sixten & Cassey Ltd",
+                "industry": "Unknown",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Employed",
+                "workplace": "Leon Andréns travel textile factory",
+                "industry": "Textiles",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Self-employed",
+                "workplace": "Erik B and Co",
+                "industry": "Unknown",
+                "start_date": "1924"
+            }
+        ]
+    }
+}

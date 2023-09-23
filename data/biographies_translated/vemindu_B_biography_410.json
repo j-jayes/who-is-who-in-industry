@@ -1,0 +1,96 @@
+{
+    "original": "BROLIN, Erik Israel, Direktör, Sthlm, f Viby, österg län, 6/5 85 av kyrkoh August B o Alma Huggert. Studex Linköp 04, fil kand Upps 09, språk- o hdlsstud i utl. Sekri Sv allm exp.frn 12, v UD hdlsavd 15, tf v.kons Philadelphia 17, dir f Sv amer.-liniens passag.kont i Sthlm sed. 24.",
+    "translated": "BROLIN, Erik Israel, Director, Stockholm, born in Viby, Östergötland County, on May 6th, 1885, to Reverend August B and Alma Huggert. Completed high school in Linköping in 1904, obtained a Bachelor of Arts degree from Uppsala University in 1909, studied languages and commerce abroad. Joined the Swedish General Export Company as a secretary in 1912, appointed to the Trade Department of the Ministry for Foreign Affairs in 1915, served as temporary consul in Philadelphia in 1917. Became the director of the Swedish American Line's passenger office in Stockholm since 1924.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Erik Israel Brolin",
+        "jobTitle": "Director",
+        "birthPlace": "Viby, Östergötland County",
+        "birthDate": "1885-05-06",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "August Brolin",
+                "jobTitle": "Reverend"
+            },
+            {
+                "@type": "Person",
+                "name": "Alma Huggert"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Linköping High School",
+                "endDate": "1904"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Uppsala University",
+                "location": "Uppsala",
+                "degree": {
+                    "@type": "BachelorsDegree",
+                    "name": "Bachelor of Arts"
+                },
+                "endDate": "1909"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Swedish General Export Company",
+                "department": "Trade Department",
+                "startDate": "1912",
+                "endDate": "1915"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Ministry for Foreign Affairs",
+                "department": "Trade Department",
+                "startDate": "1915",
+                "endDate": "1917"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish American Line",
+                "department": "Passenger Office",
+                "startDate": "1924"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Stockholm",
+                "industry": "",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Secretary",
+                "workplace": "Swedish General Export Company",
+                "industry": "",
+                "start_date": "1912"
+            },
+            {
+                "occupational_title": "Trade Department Staff",
+                "workplace": "Ministry for Foreign Affairs",
+                "industry": "",
+                "start_date": "1915"
+            },
+            {
+                "occupational_title": "Temporary Consul",
+                "workplace": "Philadelphia",
+                "industry": "",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Swedish American Line's passenger office",
+                "industry": "",
+                "start_date": "1924"
+            }
+        ]
+    }
+}

@@ -1,0 +1,150 @@
+{
+    "original": "BYSTRÖM, Eric Oscar Thomas, Civilingenjör, Stockholm, f 3/11 02 av major H A B o Sigrid Frost, gm Gunvor Persson. Studex Lunds ktdrlsk 20, civ.ing.ex KTH (fackavd VoV) 25. Bitr ing Byggn.konstr.byrån (prof Carl Forssell) Sthlm 26, hos vägkons Krst län 27—28, hos VoV-styr 28—29, ch f Nya Asfalt AB:s fil.kont Norrk 30—34, arb.ch hos Granit- o Beton AB Sthlm sed. 35. Led KAK :s kté f trafik- o vägfrågor o Sv Vägfrns tekn utsk. Resor: Tyskl 36 f stud av mod väg-byggn, Holl o Engl 39 f stud av asfaltbe-läggn. Av trycket: Ett antal upps i fack-tidskr.",
+    "translated": "BYSTRÖM, Eric Oscar Thomas, Civil Engineer, Stockholm, born 3rd November 1902, son of Major H A B and Sigrid Frost, married Gunvor Persson. Studied at Lund's Royal Institute of Technology, graduated in 1920, engineering degree from KTH (department of VoV) in 1925. Assistant engineer at the Construction Engineering Office (under Professor Carl Forssell) in Stockholm in 1926, worked at the Road Construction Consultancy in Kristianstad county from 1927-1928, served on the VoV board from 1928-1929, and as head of the New Asphalt AB branch office in Norrköping from 1930-1934. Employment as a worker at Granite and Beton AB in Stockholm since 1935. Member of the Royal Automobile Club's committee for traffic and road issues, and of the Swedish Road Administration's technical committee. Traveled to Germany in 1936 for the study of modern road construction and to the Netherlands and England in 1939 to study asphalt paving. Several publications in professional journals.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Eric Oscar Thomas Byström",
+        "birthDate": "1902-11-03",
+        "birthPlace": "Stockholm",
+        "familyName": "Byström",
+        "givenName": "Eric Oscar Thomas",
+        "jobTitle": "Civil Engineer",
+        "description": "Civil Engineer based in Stockholm",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Major H A B",
+                "gender": "male",
+                "jobTitle": "Major"
+            },
+            {
+                "@type": "Person",
+                "name": "Sigrid Frost",
+                "gender": "female"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Gunvor Persson",
+            "gender": "female"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Lund's Royal Institute of Technology",
+                "startDate": "1920"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "KTH",
+                "department": "VoV",
+                "degree": {
+                    "@type": "EducationalDegree",
+                    "name": "Engineering Degree"
+                },
+                "startDate": "1925"
+            }
+        ],
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "Construction Engineering Office",
+                "underName": "Professor Carl Forssell",
+                "startDate": "1926"
+            },
+            {
+                "@type": "Organization",
+                "name": "Road Construction Consultancy",
+                "region": "Kristianstad County",
+                "startDate": "1927",
+                "endDate": "1928"
+            },
+            {
+                "@type": "Organization",
+                "name": "Nya Asfalt AB",
+                "branchOf": "New Asphalt AB",
+                "location": "Norrköping",
+                "startDate": "1930",
+                "endDate": "1934",
+                "description": "Head of the branch office"
+            },
+            {
+                "@type": "Organization",
+                "name": "Granit- o Beton AB",
+                "location": "Stockholm",
+                "startDate": "1935",
+                "description": "Employed as a worker"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "The Royal Automobile Club",
+                "committee": "traffic and road issues"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Road Administration",
+                "committee": "technical committee"
+            }
+        ],
+        "publication": [
+            {
+                "@type": "Article",
+                "name": "Several publications in professional journals"
+            }
+        ],
+        "travel": [
+            {
+                "@type": "Trip",
+                "name": "Study of modern road construction in Germany",
+                "startDate": "1936",
+                "location": "Germany"
+            },
+            {
+                "@type": "Trip",
+                "name": "Study of asphalt paving in the Netherlands and England",
+                "startDate": "1939",
+                "location": [
+                    "Netherlands",
+                    "England"
+                ]
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Assistant engineer",
+                "workplace": "Construction Engineering Office",
+                "industry": "Construction",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Road Construction Consultancy",
+                "workplace": "Kristianstad county",
+                "industry": "Construction",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "VoV board",
+                "workplace": "VoV",
+                "industry": "Government",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Head of branch office",
+                "workplace": "New Asphalt AB",
+                "industry": "Construction",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Worker",
+                "workplace": "Granite and Beton AB",
+                "industry": "Construction",
+                "start_date": "1935"
+            }
+        ]
+    }
+}

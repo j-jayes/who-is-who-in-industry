@@ -1,0 +1,132 @@
+{
+    "original": "DAHLQUIST, Gunnar Jean Martin, Drifts-ingenjör, Hagfors, f Mönsterås, Kalm l, 20/2 89 av målaremäst M D o Helena Gustafsson, gm Hulda Jönsson. Ex Norrkps tekn elem.sk 09. Rit v Norrkps elverk o sparv 09—11, statistiker v Trollh kraftvk 12—16, ing v Uddeholms AB :s elektr avd sed. 16 samt driftsing v Uddeholms Kraftvk sed. 19. Resor: Tyskl, Holl, Frankr, Ital, Österr, Tjeckoslov, USA. Frimurare, led Sv Tekn.frn.",
+    "translated": "DAHLQUIST, Gunnar Jean Martin, Operations Engineer, Hagfors, born in Mönsterås, Kalmar County, on February 20, 1889, son of master painter M.D. and Helena Gustafsson, married to Hulda Jönsson. Former student at Norrköping Technical Elementary School in 1909. Worked as a draftsman at Norrköping Power Plant and Electric Company from 1909 to 1911, statistician at Trollhättan Power Plant from 1912 to 1916, engineer at Uddeholms AB's electrical department since 1916, and operations engineer at Uddeholms Power Plant since 1919. Has traveled to Germany, the Netherlands, France, Italy, Austria, Czechoslovakia, and the United States. Member of the Freemasons and a member of the Swedish Association of Technicians.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Gunnar Jean Martin Dahlquist",
+        "birthDate": "1889-02-20",
+        "gender": "Male",
+        "nationality": "Swedish",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Mönsterås",
+                "addressRegion": "Kalmar County",
+                "addressCountry": "Sweden"
+            }
+        },
+        "father": {
+            "@type": "Person",
+            "name": "M.D. Dahlquist"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Helena Gustafsson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Hulda Jönsson"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "diploma",
+            "credentialSubject": {
+                "@type": "EducationalOccupationalProgram",
+                "name": "Norrköping Technical Elementary School"
+            },
+            "validFrom": "1909"
+        },
+        "jobTitle": "Operations Engineer",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Uddeholms Kraftvk"
+        },
+        "worksStartDate": "1919",
+        "formerEmployment": [
+            {
+                "@type": "Organization",
+                "name": "Norrköping Power Plant and Electric Company",
+                "employmentType": "Draftsman",
+                "startDate": "1909",
+                "endDate": "1911"
+            },
+            {
+                "@type": "Organization",
+                "name": "Trollhättan Power Plant",
+                "employmentType": "Statistician",
+                "startDate": "1912",
+                "endDate": "1916"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Freemasons"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Association of Technicians"
+            }
+        ],
+        "hasPOS": [
+            {
+                "@type": "Place",
+                "name": "Germany"
+            },
+            {
+                "@type": "Place",
+                "name": "Netherlands"
+            },
+            {
+                "@type": "Place",
+                "name": "France"
+            },
+            {
+                "@type": "Place",
+                "name": "Italy"
+            },
+            {
+                "@type": "Place",
+                "name": "Austria"
+            },
+            {
+                "@type": "Place",
+                "name": "Czechoslovakia"
+            },
+            {
+                "@type": "Place",
+                "name": "United States"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Draftsman",
+                "workplace": "Norrköping Power Plant and Electric Company",
+                "industry": "Electricity",
+                "start_date": "1909"
+            },
+            {
+                "occupational_title": "Statistician",
+                "workplace": "Trollhättan Power Plant",
+                "industry": "Electricity",
+                "start_date": "1912"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Uddeholms AB's Electrical Department",
+                "industry": "Metallurgy",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Operations Engineer",
+                "workplace": "Uddeholms Power Plant",
+                "industry": "Metallurgy",
+                "start_date": "1919"
+            }
+        ]
+    }
+}

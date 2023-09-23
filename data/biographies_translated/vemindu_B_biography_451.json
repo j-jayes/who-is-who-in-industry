@@ -1,0 +1,144 @@
+{
+    "original": "BURSEUL., Nils Sigurd Gustaf, Assurans-direktör, Kapten, Göteborg, f 9/3 87 av handl Claes A V B o Hildegard Lundberg, gm Helena Ahlberg. Realex, Gbgs Hdlsinst gymn.kurs. Anst Gbgs kexfabr 04, Gbgs sparbk 05—15, Försäkr.AB Ocean Gbg sed.15, dir o ch f dess sjöförsäkr.avd sed 33. Kapt Bohusl reg:s res. Tf sakk i Statens krigsförsäkr.nmd 39, Styr.-suppl Försäkr AB Ocean o Återförsäkr AB Union. Sty.ordf AB Sveavägen 123 o 125, Gbg.",
+    "translated": "BURSEUL., Nils Sigurd Gustaf, Assurance Director, Captain, Gothenburg, born on March 9th, 1887, son of merchant Claes A V B and Hildegard Lundberg, married to Helena Ahlberg. Completed Intermediate school, Gothenburg Commercial Institute Gymnasium course. Employed at Gothenburg Biscuit Factory from 1904, Gothenburg Savings Bank 1905-1915, Insurance Company AB Ocean Gothenburg since 1915, director and head of its maritime insurance department since 1933. Captain in the Bohusl Regiment's reserve. Acting expert in the State's War Insurance Committee in 1939. Board member and deputy chairman of Insurance Company AB Ocean and Reinsurance Company AB Union. Chairman of the board of AB Sveavägen 123 and 125, Gothenburg.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Nils Sigurd Gustaf BURSEUL",
+        "birthDate": "1887-03-09",
+        "birthPlace": "Gothenburg",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Claes A V B"
+            },
+            {
+                "@type": "Person",
+                "name": "Hildegard Lundberg"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Helena Ahlberg"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Gothenburg Commercial Institute Gymnasium",
+                "course": "Intermediate school"
+            }
+        ],
+        "occupation": [
+            {
+                "@type": "OrganizationRole",
+                "title": "Assurance Director",
+                "startDate": "1915-01-01"
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Captain",
+                "startDate": null
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "Gothenburg Biscuit Factory",
+                "startDate": "1904-01-01",
+                "endDate": null
+            },
+            {
+                "@type": "Organization",
+                "name": "Gothenburg Savings Bank",
+                "startDate": "1905-01-01",
+                "endDate": "1915-12-31"
+            },
+            {
+                "@type": "Organization",
+                "name": "Insurance Company AB Ocean Gothenburg",
+                "startDate": "1915-01-01",
+                "endDate": null
+            }
+        ],
+        "directorships": [
+            {
+                "@type": "Organization",
+                "name": "AB Sveavägen 123"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Sveavägen 125"
+            }
+        ],
+        "reserveService": {
+            "@type": "MilitaryReserveOrganization",
+            "name": "Bohusl Regiment"
+        },
+        "expertise": [
+            {
+                "@type": "Organization",
+                "name": "State's War Insurance Committee",
+                "title": "Acting Expert",
+                "startDate": "1939-01-01"
+            }
+        ],
+        "boardMemberships": [
+            {
+                "@type": "Organization",
+                "name": "Insurance Company AB Ocean",
+                "position": "Deputy Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Reinsurance Company AB Union",
+                "position": "Deputy Chairman"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Assurance Director",
+                "workplace": "Insurance Company AB Ocean Gothenburg",
+                "industry": "Insurance",
+                "start_date": "1915"
+            },
+            {
+                "occupational_title": "Captain",
+                "workplace": "Bohusl Regiment's reserve",
+                "industry": "Military",
+                "start_date": "N/A"
+            },
+            {
+                "occupational_title": "Acting expert in the State's War Insurance Committee",
+                "workplace": "N/A",
+                "industry": "Insurance",
+                "start_date": "1939"
+            },
+            {
+                "occupational_title": "Board member and deputy chairman",
+                "workplace": "Insurance Company AB Ocean and Reinsurance Company AB Union",
+                "industry": "Insurance",
+                "start_date": "N/A"
+            },
+            {
+                "occupational_title": "Chairman of the board",
+                "workplace": "AB Sveavägen 123 and 125, Gothenburg",
+                "industry": "N/A",
+                "start_date": "N/A"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Gothenburg Biscuit Factory",
+                "industry": "Food Manufacturing",
+                "start_date": "1904"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Gothenburg Savings Bank",
+                "industry": "Banking",
+                "start_date": "1905"
+            }
+        ]
+    }
+}

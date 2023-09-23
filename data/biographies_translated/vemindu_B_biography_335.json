@@ -1,0 +1,113 @@
+{
+    "original": "BO:LIUNG, Sven Gösta, Direktör, Alingsås, f Gbg 30/12 01, gm Dagmar Hellström. Studex Borås 20, Gbgs Hdlsinst :s fackkurs, prakti utl, bl a ss kont.ch f Soc Anonyme Electro-Lux i Paris. Deläg i ag.fma Bolling &amp; Co Gbg 27—29, försäljn.ch f Konfektions AB Oscar Molander Alingsås 29—31, medstift o vkst dir Konfektions AB Drabant Alingsås sed. 32.",
+    "translated": "BO:LIUNG, Sven Gösta, Director, Alingsås, born in Gothenburg on December 30th, 1901, married to Dagmar Hellström. Completed secondary education in Borås at the age of 20, attended a specialized course at the Gothenburg Trading Institute, and gained practical experience abroad, including working as a sales representative for Soc Anonyme Electro-Lux in Paris. Became a partner at Bolling & Co in Gothenburg from 1927 to 1929, worked as a sales representative for Konfektions AB Oscar Molander in Alingsås from 1929 to 1931, and co-founded and served as managing director of Konfektions AB Drabant in Alingsås since 1932.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Sven Gösta Bo:Lung",
+        "jobTitle": "Director",
+        "description": "Director, Alingsås",
+        "birthDate": "1901-12-30",
+        "birthPlace": "Gothenburg",
+        "spouse": {
+            "@type": "Person",
+            "name": "Dagmar Hellström"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "secondary education",
+            "educationalLevel": "Studex",
+            "recognizedBy": "Borås",
+            "dateEarned": "1921"
+        },
+        "workExperience": [
+            {
+                "@type": "WorkExperience",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Gothenburg Trading Institute"
+                },
+                "position": "Specialized course attendee",
+                "startDate": "1921",
+                "endDate": "1922"
+            },
+            {
+                "@type": "WorkExperience",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Soc Anonyme Electro-Lux"
+                },
+                "position": "Sales representative",
+                "location": "Paris",
+                "startDate": "1922",
+                "endDate": "1927"
+            },
+            {
+                "@type": "WorkExperience",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Bolling & Co"
+                },
+                "position": "Partner",
+                "location": "Gothenburg",
+                "startDate": "1927",
+                "endDate": "1929"
+            },
+            {
+                "@type": "WorkExperience",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Konfektions AB Oscar Molander"
+                },
+                "position": "Sales representative",
+                "location": "Alingsås",
+                "startDate": "1929",
+                "endDate": "1931"
+            },
+            {
+                "@type": "WorkExperience",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Konfektions AB Drabant"
+                },
+                "position": "Managing director",
+                "location": "Alingsås",
+                "startDate": "1932"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Alingsås",
+                "industry": "N/A",
+                "start_date": "N/A"
+            },
+            {
+                "occupational_title": "Partner",
+                "workplace": "Bolling & Co",
+                "industry": "N/A",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Sales Representative",
+                "workplace": "Konfektions AB Oscar Molander",
+                "industry": "N/A",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Co-founder and Managing Director",
+                "workplace": "Konfektions AB Drabant",
+                "industry": "N/A",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "N/A",
+                "workplace": "Soc Anonyme Electro-Lux",
+                "industry": "N/A",
+                "start_date": "N/A"
+            }
+        ]
+    }
+}

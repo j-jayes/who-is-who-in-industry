@@ -1,0 +1,115 @@
+{
+    "original": "DAGMAN, Carl Arvid (C A), Fabrikör, Habo, f Gustaf Adolfs s:n 7/2 83 av hemm.äg A D o Charlotta Andersson, gm Augusta Svensson. Eg jordbr- o träv.rör 22—30, gr Habo Filfabr Habo 28, övert emballagefabr i Jönkp o flytt dna t Habo 32, inneh dna und fma Kartongfabr Står. Styr.led Habo brand-stodsbol.",
+    "translated": "DAGMAN, Carl Arvid (C A), Factory owner, Habo, born in Gustaf Adolf parish on February 7, 1883, to home owner A D and Charlotta Andersson. Married Augusta Svensson. Worked in agriculture and timber trade from 1922 to 1930. Established Habo Filfabr in Habo in 1928. Took over a packaging factory in Jönköping and relocated it to Habo in 1932, now the owner and managing director of Kartongfabr Står. Also on the board of directors of Habo Fire Insurance Company.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Arvid Dagman",
+        "givenName": "Carl Arvid",
+        "familyName": "Dagman",
+        "birthDate": "1883-02-07",
+        "birthPlace": {
+            "@type": "Country",
+            "name": "Sweden"
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "A D",
+                "sameAs": "Hemm.äg A D"
+            },
+            {
+                "@type": "Person",
+                "name": "Charlotta Andersson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Augusta Svensson"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Habo Filfabr",
+                "foundingDate": "1928",
+                "location": "Habo, Sweden"
+            },
+            {
+                "@type": "Organization",
+                "name": "Kartongfabr Står",
+                "startDate": "1932",
+                "location": "Habo, Sweden"
+            }
+        ],
+        "occupation": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1922",
+                "endDate": "1930",
+                "roleName": "Agriculture and Timber Trade"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1928",
+                "roleName": "Factory Owner",
+                "affiliation": [
+                    {
+                        "@type": "Organization",
+                        "name": "Habo Filfabr",
+                        "location": "Habo, Sweden"
+                    }
+                ]
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1932",
+                "roleName": "Owner and Managing Director",
+                "affiliation": [
+                    {
+                        "@type": "Organization",
+                        "name": "Kartongfabr Står",
+                        "location": "Habo, Sweden"
+                    }
+                ]
+            },
+            {
+                "@type": "OrganizationRole",
+                "affiliation": [
+                    {
+                        "@type": "Organization",
+                        "name": "Habo Fire Insurance Company",
+                        "location": "Habo, Sweden"
+                    }
+                ]
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Factory owner",
+                "workplace": "Habo Filfabr",
+                "industry": "Fabric industry",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Owner and managing director",
+                "workplace": "Kartongfabr Står",
+                "industry": "Packaging industry",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Board member",
+                "workplace": "Habo Fire Insurance Company",
+                "industry": "Insurance",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Agriculture and timber trader",
+                "workplace": "",
+                "industry": "Agriculture and timber",
+                "start_date": "1922"
+            }
+        ]
+    }
+}

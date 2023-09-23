@@ -1,0 +1,171 @@
+{
+    "original": "BLOMQUIST, Sven-Olof, Direktör, Stockholm, f Nordmaling 26/9 05 av br.disp S O B o Herta Dahlén, gm Britta Bseckman. Studex Umeå 23, Harvard Univ Business School, Cambridge Mäss USA, 31—32. Anst h S Gumaelius Annonsbyrå 23—27, h General Motors Nord AB 27—30, h Esselte 30—31. Eg konsult vksmh sed. 32, gr o vkst dir f Sv Gallupinst AB Sthlm sed. 41. Styr.led Sv Reklamfrb o Wahl Asmussen AB Sthlm. Resor: USA 31—32 som Sv.Amerika Stift :s stipendiat samt 37, Tyskl 29, 34, 35, Skand. Frimurare, TO. Hobbies: Sportfiske, golf.",
+    "translated": "BLOMQUIST, Sven-Olof, Director, Stockholm, born in Nordmaling on September 26, 1905, to the siblings S O B and Herta Dahlén. Married to Britta Bseckman. Graduated from Umeå at age 23, studied at Harvard University Business School, Cambridge, USA, from 1931 to 1932. Employed at S Gumaelius Advertising Agency from 1923 to 1927, at General Motors Nord AB from 1927 to 1930, and at Esselte from 1930 to 1931. Became a consultant for vksmh from 1932, and later served as the Managing Director of Sv Gallupinst AB in Stockholm from 1941. Holds positions on the board of directors of Sv Reklamfrb and Wahl Asmussen AB in Stockholm. Traveled to the USA in 1931-1932 on a Swedish-America Foundation scholarship, as well as in 1937. Also traveled to Germany in 1929, 1934, and 1935. A member of the Scandinavian Freemasons and the TO organization. Hobbies include sport fishing and golf.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Sven-Olof Blomquist",
+        "jobTitle": "Director",
+        "birthDate": "1905-09-26",
+        "birthPlace": "Nordmaling",
+        "siblings": [
+            {
+                "@type": "Person",
+                "name": "S O B Blomquist"
+            },
+            {
+                "@type": "Person",
+                "name": "Herta Dahlén"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Britta Bseckman"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Umeå",
+                "endDate": "1923"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Harvard University Business School",
+                "location": "Cambridge, USA",
+                "startDate": "1931",
+                "endDate": "1932"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "S Gumaelius Advertising Agency",
+                "startDate": "1923",
+                "endDate": "1927"
+            },
+            {
+                "@type": "Organization",
+                "name": "General Motors Nord AB",
+                "startDate": "1927",
+                "endDate": "1930"
+            },
+            {
+                "@type": "Organization",
+                "name": "Esselte",
+                "startDate": "1930",
+                "endDate": "1931"
+            },
+            {
+                "@type": "Organization",
+                "name": "vksmh",
+                "startDate": "1932"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sv Gallupinst AB",
+                "startDate": "1941"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Sv Reklamfrb"
+            },
+            {
+                "@type": "Organization",
+                "name": "Wahl Asmussen AB"
+            },
+            {
+                "@type": "Organization",
+                "name": "Scandinavian Freemasons"
+            },
+            {
+                "@type": "Organization",
+                "name": "TO"
+            }
+        ],
+        "hasOccupation": [
+            {
+                "@type": "SportActivity",
+                "name": "Sportfishing"
+            },
+            {
+                "@type": "SportActivity",
+                "name": "Golf"
+            }
+        ],
+        "travel": [
+            {
+                "@type": "Trip",
+                "name": "USA",
+                "startDate": "1931-01-01",
+                "endDate": "1932-12-31",
+                "description": "Swedish-America Foundation scholarship recipient"
+            },
+            {
+                "@type": "Trip",
+                "name": "USA",
+                "startDate": "1937-01-01",
+                "endDate": "1937-12-31"
+            },
+            {
+                "@type": "Trip",
+                "name": "Germany",
+                "startDate": "1929-01-01",
+                "endDate": "1929-12-31"
+            },
+            {
+                "@type": "Trip",
+                "name": "Germany",
+                "startDate": "1934-01-01",
+                "endDate": "1934-12-31"
+            },
+            {
+                "@type": "Trip",
+                "name": "Germany",
+                "startDate": "1935-01-01",
+                "endDate": "1935-12-31"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Direktör",
+                "workplace": "Stockholm",
+                "industry": "Business",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Anställd",
+                "workplace": "S Gumaelius Annonsbyrå",
+                "industry": "Advertising",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Anställd",
+                "workplace": "General Motors Nord AB",
+                "industry": "Automotive",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Anställd",
+                "workplace": "Esselte",
+                "industry": "Office Supplies",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Konsult",
+                "workplace": "vksmh",
+                "industry": "Consulting",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "Sv Gallupinst AB",
+                "industry": "Market Research",
+                "start_date": "1941"
+            }
+        ]
+    }
+}

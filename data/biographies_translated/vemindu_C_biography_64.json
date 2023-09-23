@@ -1,0 +1,134 @@
+{
+    "original": "CARLSSON, Harry Fredrik, Fabrikör, Ti-bro, f Ramdala, Blek, 12/8 03 av lantbr A C o Amanda Pettersson, gm Karin Löfving. Folksk, fortsattn.sk, utlärd snick. Anst h Vikt Andersson Ramdala 17—20, Henning Ward Tibro 21—23, Lars Mentzing Tibro 24—26. Eg möbeltillv i Tibro sed. 26, ag o vkst dir AB Skaraborgs Möbelindustri o möbelaff Harry Carlsson (gr 34), Tibro, m fil i Lidkp; ag o styr.ordf AB Harry Carlsson Sthlm (34), styr.led Gbgs AB Harry Carlsson. Ag bost.-fastigh Tibro. Municipal.flm. Resor: Tyskl 36—39, Paris 37. SM v länsutst Mariestad 33.",
+    "translated": "CARLSSON, Harry Fredrik, Manufacturer, Tibro, b. Ramdala, Blekinge, 12th August 1903, son of farmer A C and Amanda Pettersson, m. Karin Löfving. Elementary school, continuing education, trained as a carpenter. Employed at Vikt Andersson Ramdala 1917-1920, Henning Ward Tibro 1921-1923, Lars Mentzing Tibro 1924-1926. Started own furniture manufacturing business in Tibro since 1926, manager and executive director of AB Skaraborgs Möbelindustri and furniture store Harry Carlsson (founded 1934), Tibro, with a degree in Lidköping; also on the board of directors of AB Harry Carlsson in Stockholm (founded 1934), and a board member of Gbgs AB Harry Carlsson. Owns residential properties in Tibro. Member of the Municipal Film Board. Travelled to Germany 1936-1939, Paris 1937. Winner of the county exhibition \"SM v länsutst Mariestad 1933\".",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Harry Fredrik Carlsson",
+        "birthDate": "1903-08-12",
+        "birthPlace": "Ramdala, Blekinge",
+        "description": "Manufacturer",
+        "father": {
+            "@type": "Person",
+            "name": "A. C. Carlsson"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Amanda Pettersson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Karin Löfving"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "name": "Elementary school",
+            "credentialCategory": "Continuing education"
+        },
+        "occupation": {
+            "@type": "Occupation",
+            "name": "Manufacturer"
+        },
+        "workLocation": [
+            {
+                "@type": "Organization",
+                "name": "Vikt Andersson",
+                "location": "Ramdala",
+                "startDate": "1917",
+                "endDate": "1920"
+            },
+            {
+                "@type": "Organization",
+                "name": "Henning Ward",
+                "location": "Tibro",
+                "startDate": "1921",
+                "endDate": "1923"
+            },
+            {
+                "@type": "Organization",
+                "name": "Lars Mentzing",
+                "location": "Tibro",
+                "startDate": "1924",
+                "endDate": "1926"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Skaraborgs Möbelindustri"
+            },
+            {
+                "@type": "Organization",
+                "name": "Harry Carlsson",
+                "location": "Tibro",
+                "foundingDate": "1934",
+                "dissolutionDate": null
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Harry Carlsson",
+                "location": "Stockholm",
+                "foundingDate": "1934",
+                "dissolutionDate": null
+            },
+            {
+                "@type": "Organization",
+                "name": "Gbgs AB Harry Carlsson"
+            }
+        ],
+        "owns": [
+            {
+                "@type": "Place",
+                "name": "Residential properties in Tibro"
+            }
+        ],
+        "membership": {
+            "@type": "Organization",
+            "name": "Municipal Film Board"
+        },
+        "travelHistory": [
+            {
+                "@type": "Place",
+                "name": "Germany",
+                "startDate": "1936",
+                "endDate": "1939"
+            },
+            {
+                "@type": "Place",
+                "name": "Paris",
+                "startDate": "1937",
+                "endDate": "1937"
+            }
+        ],
+        "award": {
+            "@type": "Prize",
+            "name": "SM v länsutst Mariestad 1933"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Carpenter",
+                "workplace": "Vikt Andersson",
+                "industry": "Carpentry",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Carpenter",
+                "workplace": "Henning Ward",
+                "industry": "Carpentry",
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Carpenter",
+                "workplace": "Lars Mentzing",
+                "industry": "Carpentry",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Furniture Manufacturer",
+                "workplace": "Own business (AB Skaraborgs Möbelindustri)",
+                "industry": "Furniture Manufacturing",
+                "start_date": "1926"
+            }
+        ]
+    }
+}

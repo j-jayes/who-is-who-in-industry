@@ -1,0 +1,99 @@
+{
+    "original": "CAI,ONIUS, Henry (Harry) Torsten, Civilingenjör, Västerås, f Sthlm 9/4 88 av med. lic T L C o Cecilia Harmes, gm Ragnhild Gylner. Mog.ex Lund 05, KTH 06—09, avg.ex sistn år. Prakt v olika företag i Engl 10—12, konstr o provrumsing v Nya Förenade Elektr AB 12— 17, offert- o anläggn.ing ASEA, V:ås, sed. 17. Resor: Engl 10—12.",
+    "translated": "CAI,ONIUS, Henry (Harry) Torsten, Civil Engineer, Västerås, born in Stockholm on April 9th, 1888, son of medical licentiate T L C and Cecilia Harmes, married to Ragnhild Gylner. Graduated from Lund in 1905, KTH (Royal Institute of Technology) from 1906 to 1909, passed final exams in the latter year. Worked in various companies in England from 1910 to 1912, involved in construction and testing at Nya Förenade Elektr AB from 1912 to 1917, and then worked in tendering and installation engineering at ASEA, Västerås, since 1917. Traveled to England from 1910 to 1912.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Henry",
+        "additionalName": "Torsten",
+        "familyName": "Cai-Onius",
+        "birthDate": "1888-04-09",
+        "birthPlace": "Stockholm",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Västerås"
+        },
+        "parent": {
+            "@type": "Person",
+            "givenName": "T L C",
+            "occupation": "Medical Licentiate"
+        },
+        "spouse": {
+            "@type": "Person",
+            "givenName": "Ragnhild",
+            "familyName": "Gylner"
+        },
+        "alumniOf": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Lund",
+                "endDate": "1905"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "KTH",
+                "startDate": "1906",
+                "endDate": "1909"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Nya Förenade Elektr AB",
+                "startDate": "1912",
+                "endDate": "1917",
+                "jobTitle": "Construction and Testing"
+            },
+            {
+                "@type": "Organization",
+                "name": "ASEA",
+                "startDate": "1917",
+                "jobTitle": "Tendering and Installation Engineering",
+                "location": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Västerås"
+                }
+            }
+        ],
+        "hasOccupation": {
+            "@type": "Occupation",
+            "name": "Civil Engineer"
+        },
+        "hasTraveling": [
+            {
+                "@type": "Place",
+                "name": "England",
+                "startDate": "1910",
+                "endDate": "1912"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Västerås",
+                "industry": "Engineering",
+                "start_date": "1909"
+            },
+            {
+                "occupational_title": "Practical work in various companies",
+                "workplace": "England",
+                "industry": "Various",
+                "start_date": "1910"
+            },
+            {
+                "occupational_title": "Construction and testing",
+                "workplace": "Nya Förenade Elektr AB",
+                "industry": "Engineering",
+                "start_date": "1912"
+            },
+            {
+                "occupational_title": "Tendering and installation engineering",
+                "workplace": "ASEA, Västerås",
+                "industry": "Engineering",
+                "start_date": "1917"
+            }
+        ]
+    }
+}

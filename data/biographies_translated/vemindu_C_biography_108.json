@@ -1,0 +1,119 @@
+{
+    "original": "CHRISTENSEN, Axel Thorwald, Skeppsredare, Trelleborg, f Trbg 18/12 08 av konsul A C o Elfrida Svensson, gm Britta Jansson. Studex, hdlsgymn, resoffex, 2 års hdls- o språkstud Engl, Tyskl o Frankr. Anst KB österberg &amp; Co sed. 33, ch konc befraktn.avd, deläg, styr.led o vkst dir red.AB Tobis, styr.led red.AB Östersjön i Trbg.",
+    "translated": "CHRISTENSEN, Axel Thorwald, Shipowner, Trelleborg, b Trbg 18/12 08, son of consul A C and Elfrida Svensson, m Britta Jansson. Graduated, became a merchant, reserve officer, studied business and languages for 2 years in England, Germany, and France. Employed at KB Österberg & Co since 1933, initially in the chartering department, became a partner, board member, and managing director of AB Tobis. Also served as a board member of AB Östersjön in Trbg.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Axel Thorwald Christensen",
+        "birthDate": "1908-12-18",
+        "birthPlace": "Trelleborg",
+        "father": {
+            "@type": "Person",
+            "name": "A C Christensen"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Elfrida Svensson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Britta Jansson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Studex"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "hdlsgymn"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "resoffex"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Språkstud",
+                "description": "2 years studying English, German, and French"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "KB Österberg & Co"
+                },
+                "startDate": "1933-01-01",
+                "description": "Employed at KB Österberg & Co since 1933"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Tobis"
+                },
+                "title": "Managing Director",
+                "startDate": "DATE",
+                "description": "Managing Director of AB Tobis"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Östersjön"
+                },
+                "title": "Board Member",
+                "startDate": "DATE",
+                "description": "Board member of AB Östersjön in Trelleborg"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Shipowner",
+                "workplace": "Trelleborg",
+                "industry": "Shipping",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Merchant",
+                "workplace": "KB Österberg & Co",
+                "industry": "Trading",
+                "start_date": "1933"
+            },
+            {
+                "occupational_title": "Chartering Department",
+                "workplace": "KB Österberg & Co",
+                "industry": "Shipping",
+                "start_date": "1933"
+            },
+            {
+                "occupational_title": "Partner",
+                "workplace": "AB Tobis",
+                "industry": "Entertainment",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "AB Tobis",
+                "industry": "Entertainment",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "AB Tobis",
+                "industry": "Entertainment",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "AB Östersjön",
+                "industry": "Shipping",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

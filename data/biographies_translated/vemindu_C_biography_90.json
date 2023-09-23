@@ -1,0 +1,151 @@
+{
+    "original": "CASSEL, Fredrik Albert, Bruksdisponent, Ställdalen, f Uppsala 12/9 90 av ryttm Knut C o Louise Hederstierna, gm Margaretha Lindforss. Studex Djursholm 10, KTH 15. Anst Flensburger Schiffbaugesellsch 15, varvs-ing Werft Nobiskrug, Rendsburg, 16, e. marin-ing 17, marining av 2. gr 22, av 1. gr på övggst 25, vkst dir Wedevågs AB 25, disp o vkst dir AB Stjernfors-Ställdalen sed. 37. Kommunalordf i Linde 32—37.",
+    "translated": "CASSEL, Fredrik Albert, Works Manager, Ställdalen, b. Uppsala 12/9 90 to cavalryman Knut C and Louise Hederstierna, m. Margaretha Lindforss. Graduated from Djursholm 10, KTH 15. Employed at Flensburger Schiffbaugesellschaft 15, ship engineer at Werft Nobiskrug, Rendsburg, 16, naval engineer 17, marine engineer of 2nd class 22, promoted to 1st class on a warship 25, growth director at Wedevågs AB 25, manager and growth director at AB Stjernfors-Ställdalen since 37. Municipal chairman in Linde 32-37.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Fredrik Albert Cassel",
+        "birthDate": "1890-09-12",
+        "birthPlace": "Uppsala",
+        "father": {
+            "@type": "Person",
+            "name": "Knut C"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Louise Hederstierna"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Margaretha Lindforss"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Djursholm",
+                "endDate": "1910"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "KTH",
+                "endDate": "1915"
+            }
+        ],
+        "occupation": [
+            {
+                "@type": "JobRole",
+                "title": "Works Manager",
+                "startDate": "1937",
+                "endDate": null
+            },
+            {
+                "@type": "JobRole",
+                "title": "Growth Director",
+                "startDate": "1925",
+                "endDate": "1937",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "AB Stjernfors-Ställdalen"
+                }
+            },
+            {
+                "@type": "JobRole",
+                "title": "Growth Director",
+                "startDate": "1925",
+                "endDate": null,
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Wedevågs AB"
+                }
+            },
+            {
+                "@type": "JobRole",
+                "title": "Marine Engineer",
+                "startDate": "1922",
+                "endDate": null,
+                "description": "Class 1 on a warship"
+            },
+            {
+                "@type": "JobRole",
+                "title": "Naval Engineer",
+                "startDate": "1917",
+                "endDate": null
+            },
+            {
+                "@type": "JobRole",
+                "title": "Ship Engineer",
+                "startDate": "1916",
+                "endDate": null,
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Werft Nobiskrug, Rendsburg"
+                }
+            },
+            {
+                "@type": "JobRole",
+                "title": "Employee",
+                "startDate": "1915",
+                "endDate": null,
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Flensburger Schiffbaugesellschaft"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Linde",
+                "startDate": "1932",
+                "endDate": "1937",
+                "roleName": "Municipal Chairman"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Works Manager",
+                "workplace": "Ställdalen",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Ship Engineer",
+                "workplace": "Werft Nobiskrug, Rendsburg",
+                "industry": "Shipbuilding",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Naval Engineer",
+                "workplace": "Unknown",
+                "industry": "Naval Engineering",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Marine Engineer of 2nd Class",
+                "workplace": "Unknown",
+                "industry": "Marine Engineering",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Marine Engineer of 1st Class",
+                "workplace": "Unknown",
+                "industry": "Marine Engineering",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Growth Director",
+                "workplace": "Wedevågs AB",
+                "industry": "Unknown",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Manager and Growth Director",
+                "workplace": "AB Stjernfors-Ställdalen",
+                "industry": "Unknown",
+                "start_date": "1937"
+            }
+        ]
+    }
+}

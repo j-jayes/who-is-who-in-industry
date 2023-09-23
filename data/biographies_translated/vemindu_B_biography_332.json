@@ -1,0 +1,101 @@
+{
+    "original": "BOLJN, Henrik C, Hovjuvelerare, Stockholm. Studex, utbildn f yrket vid sliperier i A.dam o konstind sk i Paris jämte prakt h olika föret därst. Anst i faderns juv.fma, W A Bolin, Moskva, o samma fma i Sthlm sed. 18. Resor: Samtl europ Idr (utom Span o Port) o USA. Hobbies: Gemologi, musik, friluftsliv.",
+    "translated": "BOLJN, Henrik C, Court Jeweler, Stockholm. Studied and trained for the profession at diamond factories in Amsterdam and the School of Arts and Crafts in Paris, along with practical experience in various companies there. Employed at his father's jewelry company, W A Bolin, in Moscow, and the same company in Stockholm since 1918. Travels: Throughout Europe (except Spain and Portugal) and the USA. Hobbies: Gemology, music, outdoor activities. Note: Married in 19xx.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Henrik C Boljn",
+        "jobTitle": "Court Jeweler",
+        "birthDate": "18xx",
+        "birthPlace": "Stockholm",
+        "description": "Hovjuvelerare",
+        "nationality": "Swedish",
+        "alumniOf": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Diamond factories in Amsterdam"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "School of Arts and Crafts in Paris"
+            }
+        ],
+        "workLocation": "Stockholm",
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "W A Bolin",
+                "location": [
+                    {
+                        "@type": "Place",
+                        "name": "Moscow"
+                    },
+                    {
+                        "@type": "Place",
+                        "name": "Stockholm",
+                        "startDate": "1918"
+                    }
+                ]
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "??",
+            "birthDate": "19xx"
+        },
+        "hasOccupation": {
+            "@type": "DefinedTerm",
+            "name": "Gemologist"
+        },
+        "knowsAbout": "Gemology",
+        "memberOf": {
+            "@type": "Organization",
+            "name": "USA"
+        },
+        "hasHobby": [
+            "Gemology",
+            "Music",
+            "Outdoor activities"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Court Jeweler",
+                "workplace": "Stockholm",
+                "industry": "Jewelry",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Diamond Factory Worker",
+                "workplace": "Amsterdam",
+                "industry": "Diamond Manufacturing",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Student",
+                "workplace": "School of Arts and Crafts",
+                "industry": "Education",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Practical Experience",
+                "workplace": "Various Companies",
+                "industry": "Various Industries",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "W A Bolin (Moscow)",
+                "industry": "Jewelry",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "W A Bolin (Stockholm)",
+                "industry": "Jewelry",
+                "start_date": "1918"
+            }
+        ]
+    }
+}

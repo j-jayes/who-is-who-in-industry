@@ -1,0 +1,99 @@
+{
+    "original": "DAHLQVIST, Sven Gustaf, Fabrikör, Gävle, f Finspång 1/3 93 av gjutmäst Frans o Mathilda Dahlqvist, gm Maja Andersson. Falu Bergssk 19—20. Gjuteriförm v AB Södertälje Verkst 17—19, gjutmäst v A/S R0dbyhavns Staal- &amp; Jernstöberi Danm 20—21 v Domn- arfvets Jernvk 24—29. Gr eg fma, Gävle Me-tallgjuteri, 29, inneh denna. Led av Sv Gjut-mäst.frb o Gefle Hantv.frn.",
+    "translated": "DAHLQVIST, Sven Gustaf, Manufacturer, Gävle, born in Finspång on March 1, 1893, son of foundry master Frans and Mathilda Dahlqvist, married to Maja Andersson. Attended Falu Bergsskola in 1919-1920. Works manager at AB Södertälje Verkst from 1917-1919, foundry master at A/S Rødbryhavn Steel and Iron Foundry in Denmark from 1920-1921, and foundry master at Domnarvet's Iron Works from 1924-1929. Owns property in Gävle, Metallgjuteri since 1929. Member of the Swedish Foundry Masters Association and Gävle Craftsmen's Guild.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Sven Gustaf Dahlqvist",
+        "jobTitle": "Manufacturer",
+        "birthDate": "1893-03-01",
+        "birthPlace": "Finspång",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Frans Dahlqvist",
+                "jobTitle": "Foundry Master"
+            },
+            {
+                "@type": "Person",
+                "name": "Mathilda Dahlqvist"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Maja Andersson"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Falu Bergsskola",
+            "startDate": "1919",
+            "endDate": "1920"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "AB Södertälje Verkst",
+                "startDate": "1917",
+                "endDate": "1919",
+                "jobTitle": "Works Manager"
+            },
+            {
+                "@type": "Organization",
+                "name": "A/S Rødbryhavn Steel and Iron Foundry",
+                "startDate": "1920",
+                "endDate": "1921",
+                "jobTitle": "Foundry Master"
+            },
+            {
+                "@type": "Organization",
+                "name": "Domnarvet's Iron Works",
+                "startDate": "1924",
+                "endDate": "1929",
+                "jobTitle": "Foundry Master"
+            }
+        ],
+        "owns": {
+            "@type": "Property",
+            "name": "Gävle Metallgjuteri",
+            "startDate": "1929"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Foundry Masters Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Gävle Craftsmen's Guild"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Works Manager",
+                "workplace": "AB Södertälje Verkst",
+                "industry": "Foundry",
+                "start_date": "1917-1919"
+            },
+            {
+                "occupational_title": "Foundry Master",
+                "workplace": "A/S Rødbryhavn Steel and Iron Foundry",
+                "industry": "Foundry",
+                "start_date": "1920-1921"
+            },
+            {
+                "occupational_title": "Foundry Master",
+                "workplace": "Domnarvet's Iron Works",
+                "industry": "Ironworks",
+                "start_date": "1924-1929"
+            },
+            {
+                "occupational_title": "Manufacturer",
+                "workplace": "Gävle Metallgjuteri",
+                "industry": "Metallurgy",
+                "start_date": "1929"
+            }
+        ]
+    }
+}

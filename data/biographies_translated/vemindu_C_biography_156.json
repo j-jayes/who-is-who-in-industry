@@ -1,0 +1,89 @@
+{
+    "original": "COSTER, Rudolf Reinhold Gustav, Direktör, Hälsinborg, f Gråmanstorp, Krst l, 23/7 79 av insp M G C o Pauline Meijer, gm Ida Peterson. Hal. Fotografelev 95, öl anst i Sv o Tyskl t 08, start eg fotoateljé i Lkrona 08, kompanj i Almquist &amp; Coster vykortsfabr Hbg 17, nu v. dir i dna t AB omb fma. Ag minkfarm i Ramlösa samt fruktträdsodling. Hobbies: Violoncell, golf, vinfabrikant i större omfattn. Om namn ej finnas under C, se även under K,",
+    "translated": "COSTER, Rudolf Reinhold Gustav, Director, Helsingborg, born in Gråmanstorp, Christened on July 23, 1879, son of inspector M G C and Pauline Meijer, married to Ida Peterson. Started as a photography apprentice in 1895, became employed in Swedish and German photography studios in 1908, established own photo studio in Landskrona in 1908. Became a partner in Almquist & Coster postcard factory in Helsingborg in 1917, currently holds the position of vice director in AB omb fma. Also owns a mink farm in Ramlösa and engages in fruit tree cultivation. Hobbies: Violoncello, golf, also involved in wine production on a larger scale. If the name is not found under \"C,\" please also check under \"K.\"\n\nNote: the abbreviation '\\d\\d m. partners name' means that the person got married in the year 19xx.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Rudolf Reinhold Gustav Coster",
+        "birthDate": "1879-07-23",
+        "birthPlace": "Gråmanstorp",
+        "father": {
+            "name": "M G C"
+        },
+        "mother": {
+            "name": "Pauline Meijer"
+        },
+        "spouse": {
+            "name": "Ida Peterson",
+            "marriageDate": "19xx"
+        },
+        "jobTitle": "Director",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Helsingborg"
+        },
+        "memberOf": {
+            "@type": "Organization",
+            "name": "AB omb fma"
+        },
+        "hobbies": [
+            "Violoncello",
+            "Golf"
+        ],
+        "owns": [
+            {
+                "@type": "Place",
+                "name": "Ramlösa",
+                "additionalProperty": {
+                    "@type": "PropertyValue",
+                    "name": "Mink farm"
+                }
+            },
+            {
+                "@type": "Place",
+                "name": "Ramlösa",
+                "additionalProperty": {
+                    "@type": "PropertyValue",
+                    "name": "Fruit tree cultivation"
+                }
+            }
+        ],
+        "additionalName": "Reinhold",
+        "givenName": "Rudolf",
+        "familyName": "Coster"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Photography Apprentice",
+                "workplace": "Unknown",
+                "industry": "Photography",
+                "start_date": "1895"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Unknown",
+                "industry": "Photography",
+                "start_date": "1908"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "Own photo studio",
+                "industry": "Photography",
+                "start_date": "1908"
+            },
+            {
+                "occupational_title": "Partner",
+                "workplace": "Almquist & Coster postcard factory",
+                "industry": "Postcards",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Vice Director",
+                "workplace": "AB omb fma",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

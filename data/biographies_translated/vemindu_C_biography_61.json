@@ -1,0 +1,91 @@
+{
+    "original": "CARLSSON, Gerhard Emanuel, Grosshandlare, Töreboda, f Hulteboda, Fredsbergs s :n, Skarab l, 29/9 85 av C Aug Carlsson o Augusta Carlsson, gm Ester Svensson. Karlskoga prakt lärov 06—07. Affärsman sed. 10, deläg i fma Eriksson &amp; Carlsson i Töreboda sed. start 15, v. vkst dir v fmans ombild t AB 27. Huvudm 1 Töreboda Sparbk. Led av kyrkoråd, kyrkvärd.",
+    "translated": "CARLSSON, Gerhard Emanuel, Wholesale Merchant, Töreboda, born in Hulteboda, Fredsbergs parish, Skaraborg county, on September 29, 1885, to parents C. Aug Carlsson and Augusta Carlsson, married to Ester Svensson. Attended Karlskoga Practical School in 1906-1907. Engaged in business since 1910, co-owner of Eriksson & Carlsson company in Töreboda since its establishment in 1915, and served as vice managing director during the company's transformation to a limited liability company in 1927. Principal member of Töreboda Savings Bank. Also served as a member of the church council and church warden.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Gerhard Emanuel Carlsson",
+        "birthDate": "1885-09-29",
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Hulteboda, Fredsbergs parish, Skaraborg county"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "C. Aug Carlsson"
+            },
+            {
+                "@type": "Person",
+                "name": "Augusta Carlsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ester Svensson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Karlskoga Practical School",
+                "startDate": "1906",
+                "endDate": "1907"
+            }
+        ],
+        "occupation": [
+            {
+                "@type": "OrganizationRole",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Eriksson & Carlsson"
+                },
+                "startDate": "1910"
+            },
+            {
+                "@type": "OrganizationRole",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Töreboda Savings Bank"
+                }
+            }
+        ],
+        "affiliation": [
+            {
+                "@type": "Organization",
+                "name": "Eriksson & Carlsson",
+                "startDate": "1915"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Töreboda Savings Bank"
+            },
+            {
+                "@type": "Organization",
+                "name": "Töreboda church council"
+            }
+        ],
+        "jobTitle": [
+            "Wholesale Merchant",
+            "Vice Managing Director"
+        ],
+        "churchWarden": true
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Wholesale Merchant",
+                "workplace": "Eriksson & Carlsson",
+                "industry": "Wholesale trade",
+                "start_date": "1910"
+            },
+            {
+                "occupational_title": "Vice Managing Director",
+                "workplace": "Eriksson & Carlsson",
+                "industry": "Wholesale trade",
+                "start_date": "1927"
+            }
+        ]
+    }
+}

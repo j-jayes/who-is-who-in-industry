@@ -1,0 +1,169 @@
+{
+    "original": "BURMEISTER, Julius Albert Otto, Bergsingenjör, Stockholm, f Sthlm 16/12 88 av grhdl J E H Burmeister o Elin von Homeyer, gm (19) Eva Malmström. Mogenh.ex Västerås 06, KTH 06—11. Resoffex o ulöjtn i Västml regis res 10, löjtn 16, kapt 25. Anst Guldsmedshytte AB 11—12, AB Zander &amp; Ingeström Sthlm sed. 12, dir.ass där 19—40, v. vkst dir sed. 40 o styr.led sed. 27.",
+    "translated": "BURMEISTER, Julius Albert Otto, Mining Engineer, Stockholm, b. Sthlm 16/12 88 to Count J E H Burmeister and Elin von Homeyer, m. (19) Eva Malmström. Graduated from Västerås High School 06, KTH 06—11. Reserve Officer and Second Lieutenant in Västml Regiment 10, Lieutenant 16, Captain 25. Employed at Guldsmedshytte AB 11—12, AB Zander & Ingeström Stockholm from 12, Deputy Director there 19—40, Vice Director of Development since 40 and member of the board since 27.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Julius Albert Otto Burmeister",
+        "jobTitle": [
+            {
+                "@type": "JobTitle",
+                "name": "Deputy Director",
+                "startDate": "1919",
+                "endDate": "1940",
+                "worksFor": {
+                    "@type": "Organization",
+                    "name": "AB Zander & Ingeström"
+                }
+            },
+            {
+                "@type": "JobTitle",
+                "name": "Vice Director of Development",
+                "startDate": "1940",
+                "worksFor": {
+                    "@type": "Organization",
+                    "name": "AB Zander & Ingeström"
+                }
+            }
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "birthDate": "1888-12-16",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Count J E H Burmeister"
+            },
+            {
+                "@type": "Person",
+                "name": "Elin von Homeyer"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Eva Malmström"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Maturity Examination",
+                "educationalLevel": "High School",
+                "alumniOf": "Västerås High School",
+                "startDate": "1906",
+                "endDate": "1906"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "educationalLevel": "College",
+                "alumniOf": "KTH",
+                "startDate": "1906",
+                "endDate": "1911"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Guldsmedshytte AB",
+                "startDate": "1911",
+                "endDate": "1912"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Zander & Ingeström",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm"
+                },
+                "startDate": "1912"
+            }
+        ],
+        "affiliation": [
+            {
+                "@type": "Organization",
+                "name": "Västml Regiment",
+                "startDate": "1910",
+                "endDate": "1925",
+                "jobTitle": [
+                    {
+                        "@type": "JobTitle",
+                        "name": "Reserve Officer"
+                    },
+                    {
+                        "@type": "JobTitle",
+                        "name": "Second Lieutenant"
+                    },
+                    {
+                        "@type": "JobTitle",
+                        "name": "Lieutenant"
+                    },
+                    {
+                        "@type": "JobTitle",
+                        "name": "Captain"
+                    }
+                ]
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "AB Zander & Ingeström",
+                "startDate": "1927",
+                "roleName": "Board Member"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Mining Engineer",
+                "workplace": "Stockholm",
+                "industry": "Mining",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Reserve Officer and Second Lieutenant",
+                "workplace": "Västml Regiment",
+                "industry": "Military",
+                "start_date": "1910"
+            },
+            {
+                "occupational_title": "Lieutenant",
+                "workplace": "Västml Regiment",
+                "industry": "Military",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Captain",
+                "workplace": "Västml Regiment",
+                "industry": "Military",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Guldsmedshytte AB",
+                "industry": "Unknown",
+                "start_date": "1911"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "AB Zander & Ingeström",
+                "industry": "Unknown",
+                "start_date": "1912"
+            },
+            {
+                "occupational_title": "Deputy Director",
+                "workplace": "AB Zander & Ingeström",
+                "industry": "Unknown",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Vice Director of Development",
+                "workplace": "AB Zander & Ingeström",
+                "industry": "Unknown",
+                "start_date": "1940"
+            }
+        ]
+    }
+}

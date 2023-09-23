@@ -1,0 +1,280 @@
+{
+    "original": "BOMAN, Gunnar, Assuransdirektör, Stockholm, f Gbg 9/12 95 av fabr G B o Signe Landgren, gm Hertha Segerdahl. Studex 15, KSS 15—18, sjökapt.ex 18, Ijnt Kgl FI res 41, kapt (konst.) 41. Tjm Försäkr AB Sv Veritas 18—19, Amer Merch Marine Ing Co New York 19—20, hav.ch Sv Ver 21—23, dir örns försäkr.-anst Sampo Åbo 23—26, vkst dir Sjöförs AB Argo Åbo 26—34, bitr dir AB Sjöass Komp Sthlm 35, v. vkst dir 38, vkst dir 43. Styr.led AB Sjöass Komp, led Sjöassurad Tariffkomm. Resor: USA, 19—20, Japan, Korea, Kina 21, Sydam o USA 41 (Sv stat kontr.off). Av trycket: Två föreläsn om sjöförsäkr 34, Den nya sv sjöförs.polisen f varor 42.",
+    "translated": "BOMAN, Gunnar, Insurance director, Stockholm, born in Gothenburg on December 9, 1895, to factory worker G B and Signe Landgren. Married to Hertha Segerdahl. Graduated at the age of 15, attended the Royal Swedish Naval Academy from 1915 to 1918, obtained a ship captain's degree in 1918, and joined the Royal Swedish Navy Reserves in 1941, achieving the rank of captain (honorary) in the same year. Worked at the Insurance Company Swedish Veritas from 1918 to 1919, American Merchants Marine Engineering Company in New York from 1919 to 1920, Swedish Veritas as a marine surveyor from 1921 to 1923, as a director for the eagle insurance company Sampo in Åbo from 1923 to 1926, as a deputy director for the marine insurance company Argo in Åbo from 1926 to 1934, as an assistant director for the marine insurance company Sjöassurans in Stockholm in 1935, as a deputy director from 1938, and as a director from 1943. Served on the board of the marine insurance company Sjöassurans and on the Tariff Commission for Marine Insurance. Traveled to the United States from 1919 to 1920, Japan, Korea, and China in 1921, and South America and the United States in 1941 (as a contracted official for the Swedish government). Published two lectures on marine insurance in 1934 and a book titled \"The New Swedish Marine Insurance Policy for Goods\" in 1942.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Gunnar Boman",
+        "birthDate": "1895-12-09",
+        "birthPlace": "Gothenburg",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "G B",
+                "occupation": "Factory Worker"
+            },
+            {
+                "@type": "Person",
+                "name": "Signe Landgren"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Hertha Segerdahl"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Graduation",
+                "educationalLevel": "Secondary",
+                "earnedDegree": "Studex",
+                "endDate": "1915"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Royal Swedish Naval Academy",
+                "endDate": "1918"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Ship Captain Degree",
+                "endDate": "1918"
+            }
+        ],
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1918",
+                "endDate": "1919",
+                "roleName": "Insurance Director",
+                "organization": {
+                    "@type": "Corporation",
+                    "name": "Insurance Company Swedish Veritas"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1919",
+                "endDate": "1920",
+                "roleName": "Insurance Director",
+                "organization": {
+                    "@type": "Corporation",
+                    "name": "American Merchants Marine Engineering Company"
+                },
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "United States",
+                    "addressLocality": "New York"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1921",
+                "endDate": "1923",
+                "roleName": "Marine Surveyor",
+                "organization": {
+                    "@type": "Corporation",
+                    "name": "Swedish Veritas"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1923",
+                "endDate": "1926",
+                "roleName": "Director",
+                "organization": {
+                    "@type": "Corporation",
+                    "name": "Eagle Insurance Company Sampo",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Åbo"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1926",
+                "endDate": "1934",
+                "roleName": "Deputy Director",
+                "organization": {
+                    "@type": "Corporation",
+                    "name": "Marine Insurance Company Argo",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Åbo"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1935",
+                "endDate": "1943",
+                "roleName": "Assistant Director",
+                "organization": {
+                    "@type": "Corporation",
+                    "name": "Marine Insurance Company Sjöassurans",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1938",
+                "endDate": "1943",
+                "roleName": "Deputy Director",
+                "organization": {
+                    "@type": "Corporation",
+                    "name": "Marine Insurance Company Sjöassurans",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1943",
+                "roleName": "Director",
+                "organization": {
+                    "@type": "Corporation",
+                    "name": "Marine Insurance Company Sjöassurans",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm"
+                    }
+                }
+            }
+        ],
+        "boardMembership": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Board Member",
+                "organization": {
+                    "@type": "Corporation",
+                    "name": "Marine Insurance Company Sjöassurans"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Tariff Commission Member",
+                "organization": {
+                    "@type": "Corporation",
+                    "name": "Tariff Commission for Marine Insurance"
+                }
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "United States"
+                },
+                "startDate": "1919",
+                "endDate": "1920"
+            },
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Japan"
+                },
+                "startDate": "1921"
+            },
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Korea"
+                },
+                "startDate": "1921"
+            },
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "China"
+                },
+                "startDate": "1921"
+            },
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "South America"
+                },
+                "startDate": "1941"
+            },
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "United States"
+                },
+                "startDate": "1941"
+            }
+        ],
+        "publication": [
+            "Two lectures on marine insurance, 1934",
+            "The New Swedish Marine Insurance Policy for Goods, 1942"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Insurance director",
+                "workplace": "Stockholm",
+                "industry": "Insurance",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Ship captain",
+                "workplace": "Royal Swedish Naval Academy",
+                "industry": "Maritime",
+                "start_date": "1915"
+            },
+            {
+                "occupational_title": "Marine surveyor",
+                "workplace": "Swedish Veritas",
+                "industry": "Maritime",
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Eagle insurance company Sampo",
+                "industry": "Insurance",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Deputy director",
+                "workplace": "Marine insurance company Argo",
+                "industry": "Insurance",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Assistant director",
+                "workplace": "Marine insurance company Sjöassurans",
+                "industry": "Insurance",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Deputy director",
+                "workplace": "Marine insurance company Sjöassurans",
+                "industry": "Insurance",
+                "start_date": "1938"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": null,
+                "industry": null,
+                "start_date": "1943"
+            }
+        ]
+    }
+}

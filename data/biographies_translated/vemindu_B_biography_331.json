@@ -1,0 +1,108 @@
+{
+    "original": "BOLIN, Jöns Erik, Grosshandlare, Ålsten, f Lidkp 1/3 95 av fabr E B o h h f Hanson, gm Nancy Wold. Lidkp realsk. Anst Fischer &amp; Petersons Eftr Lidkp 12—18, Himmelmann &amp; Roos AB Sthlm sed. 18, inneh av sistn fma sed. 33. Ordf Äppelv Tenniskl, styr.led AB Salktennis. Resor: Port, Marocko, Madeira 36, Tyskl, Ung 38. Hobbies: Bridge, tennis, skidsport.",
+    "translated": "BOLIN, Jöns Erik, Wholesale trader, Ålsten, born in Lidköping on March 1, 1895, son of fabric owner E.B. and housewife H.H.F Hanson, married to Nancy Wold. Lidköping municipal school. Employed at Fischer & Petersons Eftr in Lidköping from 1912 to 1918, Himmelmann & Roos AB in Stockholm since 1918, sole proprietorship since 1933. Chairman of Äppelv Tennis Club, board member of AB Salktennis. Travel destinations: Portugal, Morocco, Madeira in 1936, Germany, Hungary in 1938. Hobbies: Bridge, tennis, skiing.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Jöns Erik Bolin",
+        "birthDate": "1895-03-01",
+        "birthPlace": "Lidköping",
+        "description": "Wholesale trader from Ålsten",
+        "spouse": {
+            "@type": "Person",
+            "name": "Nancy Wold"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Lidköping Municipal School"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Fischer & Petersons Eftr",
+                "startDate": "1912",
+                "endDate": "1918",
+                "location": "Lidköping"
+            },
+            {
+                "@type": "Organization",
+                "name": "Himmelmann & Roos AB",
+                "startDate": "1918",
+                "location": "Stockholm"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sole Proprietorship",
+                "startDate": "1933"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Äppelv Tennis Club",
+                "position": "Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Salktennis",
+                "position": "Board member"
+            }
+        ],
+        "travel": {
+            "@type": "TravelAction",
+            "toLocation": [
+                {
+                    "@type": "Place",
+                    "name": "Portugal"
+                },
+                {
+                    "@type": "Place",
+                    "name": "Morocco"
+                },
+                {
+                    "@type": "Place",
+                    "name": "Madeira"
+                },
+                {
+                    "@type": "Place",
+                    "name": "Germany"
+                },
+                {
+                    "@type": "Place",
+                    "name": "Hungary"
+                }
+            ],
+            "startDate": [
+                "1936",
+                "1938"
+            ]
+        },
+        "hobbies": [
+            "Bridge",
+            "Tennis",
+            "Skiing"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Wholesale trader",
+                "workplace": "Ålsten",
+                "industry": "Trade",
+                "start_date": "1933"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Fischer & Petersons Eftr",
+                "industry": "Trade",
+                "start_date": "1912"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Himmelmann & Roos AB",
+                "industry": "Trade",
+                "start_date": "1918"
+            }
+        ]
+    }
+}

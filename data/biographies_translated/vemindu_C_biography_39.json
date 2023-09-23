@@ -1,0 +1,141 @@
+{
+    "original": "CARLSON, Sune Leonard, Docent, Stockholm, f Gryt, Sörml l, 8/4 09 av godsäg J L C o Olga Lundgren, gm Lena Gellin. Örebro tekn gymn 29, HHS 32, fil dr v univ Chicago 36. Lär i företagsekon o statistik v HHS 37 —41, doc i företagsekon sed 41, förest f aff.-ekon forskn.inst v HHS, eg konsult verksamh. Resor: Engl o USA 32—34, Österr 34—35, USA 35—36, Engl 38, Frankr 39 mfl. Av trycket: A Study ön the Puré Theory of Production (38). upps i in- o utl tidskr mm. Hobby: Golf.",
+    "translated": "CARLSON, Sune Leonard, Docent, Stockholm, born in Gryt, Sörmland county, on 8/4 1909, son of estate owner J L C and Olga Lundgren, married to Lena Gellin. Graduated from Örebro Technical Gymnasium in 1929, Stockholm School of Economics in 1932, received a PhD from the University of Chicago in 1936. Taught business economics and statistics at the Stockholm School of Economics from 1937 to 1941, became a docent in business economics in 1941, served as head of the business economics research institute at the Stockholm School of Economics, also worked as a consultant. Traveled to England and the USA from 1932 to 1934, Austria from 1934 to 1935, USA from 1935 to 1936, England in 1938, France in 1939, among others. Published \"A Study on the Pure Theory of Production\" in 1938, and contributed to various domestic and international journals. Hobby: Golf.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Sune Leonard Carlson",
+        "jobTitle": "teacher of business economics and statistics",
+        "birthPlace": "Gryt, Sörmland county, Sweden",
+        "birthDate": "1909-04-08",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "J L C Carlson"
+            },
+            {
+                "@type": "Person",
+                "name": "Olga Lundgren"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Lena Gellin"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Örebro Technical Gymnasium",
+                "endDate": "1929"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Stockholm School of Economics",
+                "endDate": "1932"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "University of Chicago",
+                "degree": {
+                    "@type": "PhdDegree"
+                },
+                "endDate": "1936"
+            }
+        ],
+        "worksFor": {
+            "@type": "EducationalOrganization",
+            "name": "Stockholm School of Economics"
+        },
+        "startDate": "1937",
+        "endDate": "1941",
+        "memberOf": {
+            "@type": "Organization",
+            "name": "business economics research institute"
+        },
+        "honorificSuffix": "Doc",
+        "workLocation": "Stockholm",
+        "consultant": true,
+        "additionalName": "Sune Carlson",
+        "nationality": "Swedish",
+        "hasOccupation": "teacher",
+        "knowsLanguage": [
+            "English"
+        ],
+        "interest": [
+            "Golf"
+        ],
+        "hasCredential": [
+            "PhD"
+        ],
+        "hasPublished": [
+            {
+                "@type": "PublicationIssue",
+                "name": "A Study on the Pure Theory of Production",
+                "datePublished": "1938"
+            }
+        ],
+        "travel": [
+            {
+                "@type": "TravelAction",
+                "fromLocation": "Sweden",
+                "toLocation": "England, USA",
+                "startDate": "1932",
+                "endDate": "1934"
+            },
+            {
+                "@type": "TravelAction",
+                "fromLocation": "Sweden",
+                "toLocation": "Austria",
+                "startDate": "1934",
+                "endDate": "1935"
+            },
+            {
+                "@type": "TravelAction",
+                "fromLocation": "Sweden",
+                "toLocation": "USA",
+                "startDate": "1935",
+                "endDate": "1936"
+            },
+            {
+                "@type": "TravelAction",
+                "fromLocation": "Sweden",
+                "toLocation": "England",
+                "startDate": "1938"
+            },
+            {
+                "@type": "TravelAction",
+                "fromLocation": "Sweden",
+                "toLocation": "France",
+                "startDate": "1939"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Docent",
+                "workplace": "Stockholm",
+                "industry": "Higher Education",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Lecturer in Business Economics and Statistics",
+                "workplace": "Stockholm School of Economics",
+                "industry": "Education",
+                "start_date": "1937"
+            },
+            {
+                "occupational_title": "Head of Business Economics Research Institute",
+                "workplace": "Stockholm School of Economics",
+                "industry": "Research",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Business Economics Consultant",
+                "workplace": "Unknown",
+                "industry": "Consulting",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

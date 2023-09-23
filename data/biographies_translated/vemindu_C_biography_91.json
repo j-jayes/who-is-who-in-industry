@@ -1,0 +1,87 @@
+{
+    "original": "CASSELLI, Seth Wilhelm, Bankdirektör, Äppelviken, f Sthlm 10/1 90 av major P L C o Adelaide Dymling. Studex. Anst Sundsv ensk bk 09—15, AB Sundsv hdlsbk 15—17, Upl ensk bk i Sthlm sed. 17.",
+    "translated": "CASSELLI, Seth Wilhelm, Bank Director, Äppelviken, b. Stockholm 10/1 90, the son of Major P L C and Adelaide Dymling. Studied. Employed at Sundsvall Enskilda Bank 09-15, AB Sundsvall Handelsbank 15-17, Uplands Enskilda Bank in Stockholm since 17.. Note that '\\d\\d m. partner's name' means that the person married in the year 19xx.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Seth Wilhelm Casselli",
+        "birthDate": "1890-01-10",
+        "birthPlace": "Stockholm",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Major P L C Casselli"
+            },
+            {
+                "@type": "Person",
+                "name": "Adelaide Dymling"
+            }
+        ],
+        "occupation": "Bank Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Äppelviken"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Studied"
+        },
+        "workExperience": [
+            {
+                "@type": "Employment",
+                "startDate": "1909-01-01",
+                "endDate": "1915-12-31",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Sundsvall Enskilda Bank"
+                }
+            },
+            {
+                "@type": "Employment",
+                "startDate": "1915-01-01",
+                "endDate": "1917-12-31",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "AB Sundsvall Handelsbank"
+                }
+            },
+            {
+                "@type": "Employment",
+                "startDate": "1917-01-01",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Uplands Enskilda Bank"
+                },
+                "description": "Working since 1917"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Bank Director",
+                "workplace": "Äppelviken",
+                "industry": "Banking",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Employed at Sundsvall Enskilda Bank",
+                "workplace": "Sundsvall",
+                "industry": "Banking",
+                "start_date": "1909"
+            },
+            {
+                "occupational_title": "Employed at AB Sundsvall Handelsbank",
+                "workplace": "Sundsvall",
+                "industry": "Banking",
+                "start_date": "1915"
+            },
+            {
+                "occupational_title": "Employed at Uplands Enskilda Bank",
+                "workplace": "Stockholm",
+                "industry": "Banking",
+                "start_date": "1917"
+            }
+        ]
+    }
+}

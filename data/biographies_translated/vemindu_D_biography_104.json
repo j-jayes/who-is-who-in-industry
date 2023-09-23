@@ -1,0 +1,127 @@
+{
+    "original": "DRAKENBERG, Karl-Erik, Bokhandlare, Örebro, f Falköp 16/10 08 av rekt B D o Sigrid Andersson, gm Karin Ericson. Studex Skara 27, bokhdlssk 29, bokhldsstud Tyskl 30, Engl 33. Anst Fritzes Hovbokhdl, Sthlm, 27, H Borgströms Bokhdl, Borås, 27—33, PUB:s bokavd, Sthlm, 33—34, Wennbergs Bokhdl, Västerås, 34—41, övert Rohloffs Bokhdl AB (gr 1837), Örebro, 41. Styr.led Frn Örebro Köpm, styr.suppl Sv Bokhand.frn :s Bergsl.krets.",
+    "translated": "DRAKENBERG, Karl-Erik, Bookseller, Örebro, born Falköping on October 16, 1908, to parents B.D. and Sigrid Andersson, married to Karin Ericson. Studied at Skara High School until 1927, bookstore training in 1929, bookstore studies in German in 1930, and in English in 1933. Employed at Fritzes Court Bookstore in Stockholm from 1927, H. Borgström's Bookstore in Borås from 1927 to 1933, PUB bookstore department in Stockholm from 1933 to 1934, Wennbergs Bookstore in Västerås from 1934 to 1941, took over Rohloffs Bookstore AB (established in 1837) in Örebro in 1941. Board member of Örebro Merchants Association, deputy board member of Swedish Booksellers Association from ?:s Bergslagen district.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Karl-Erik Drakenberg",
+        "jobTitle": "Bookseller",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Falköping"
+            }
+        },
+        "birthDate": "1908-10-16",
+        "parent": {
+            "@type": "Person",
+            "name": "Sigrid Andersson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Karin Ericson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "earnedDegree": "Studex",
+                "educationalLevel": "Skara High School",
+                "endDate": "1927"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "earnedDegree": "Bookstore training",
+                "endDate": "1929"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "earnedDegree": "Bookstore studies in German",
+                "endDate": "1930"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "earnedDegree": "Bookstore studies in English",
+                "endDate": "1933"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Fritzes Hovbokhdl, Stockholm",
+                "startDate": "1927",
+                "endDate": "1927"
+            },
+            {
+                "@type": "Organization",
+                "name": "H. Borgströms Bokhdl, Borås",
+                "startDate": "1927",
+                "endDate": "1933"
+            },
+            {
+                "@type": "Organization",
+                "name": "PUB:s bokavd, Stockholm",
+                "startDate": "1933",
+                "endDate": "1934"
+            },
+            {
+                "@type": "Organization",
+                "name": "Wennbergs Bokhdl, Västerås",
+                "startDate": "1934",
+                "endDate": "1941"
+            },
+            {
+                "@type": "Organization",
+                "name": "Rohloffs Bokhdl AB, Örebro",
+                "startDate": "1941"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Board member",
+                "namedPosition": "Örebro Merchants Association"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Deputy board member",
+                "namedPosition": "Swedish Booksellers Association",
+                "additionalName": "Bergslagen district"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Bookseller",
+                "workplace": "Fritzes Hovbokhdl, Stockholm",
+                "industry": "Bookstore",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Bookseller",
+                "workplace": "H Borgströms Bokhdl, Borås",
+                "industry": "Bookstore",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Bookseller",
+                "workplace": "PUB:s bokavd, Stockholm",
+                "industry": "Bookstore",
+                "start_date": "1933"
+            },
+            {
+                "occupational_title": "Bookseller",
+                "workplace": "Wennbergs Bokhdl, Västerås",
+                "industry": "Bookstore",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Bookseller",
+                "workplace": "Rohloffs Bokhdl AB, Örebro",
+                "industry": "Bookstore",
+                "start_date": "1941"
+            }
+        ]
+    }
+}

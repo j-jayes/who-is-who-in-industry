@@ -1,0 +1,94 @@
+{
+    "original": "BELFRAGE, Hans Åke, Direktör, Alingsås, f Trädet 2/11 02 av stins C A F B o Alida Höök. Realex, avg.ex Gbgs Hdlsinst. Anst Nya AB Ranten s Strå- &amp; Filthattfabr 22—25, AB Fritsla Konf.fabr 25—38. Vkst dir Alingsås Konf AB sed. 38. Ag fast N Strömg 48, Alingsås. Medl av Göt.Frb.",
+    "translated": "BELFRAGE, Hans Åke, Director, Alingsås, born on 2nd November 1902 in Trädet, son of station master C A F B and Alida Höök. Completed Realexam at Gbgs Trade Institute. Employed at Nya AB Ranten's Straw and Felt Hat Factory from 1922 to 1925, and at AB Fritsla Textile Factory from 1925 to 1938. Growth director at Alingsås Textile AB since 1938. Lives at N Strömg 48, Alingsås. Member of Götaland Society.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Hans Åke Belfrage",
+        "birthDate": "1902-11-02",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Trädet"
+            }
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "C A F B",
+                "jobTitle": "Station Master"
+            },
+            {
+                "@type": "Person",
+                "name": "Alida Höök"
+            }
+        ],
+        "occupation": "Director",
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Götaland Society"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Realexam",
+            "educationalLevel": "SecondaryEducation",
+            "recognizedBy": {
+                "@type": "Organization",
+                "name": "Gbgs Trade Institute"
+            }
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Nya AB Ranten's Straw and Felt Hat Factory",
+                "startDate": "1922",
+                "endDate": "1925"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Fritsla Textile Factory",
+                "startDate": "1925",
+                "endDate": "1938"
+            },
+            {
+                "@type": "Organization",
+                "name": "Alingsås Textile AB",
+                "startDate": "1938"
+            }
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "N Strömg 48",
+            "addressLocality": "Alingsås"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Alingsås",
+                "industry": "",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Nya AB Ranten's Straw and Felt Hat Factory",
+                "industry": "Textile",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "AB Fritsla Textile Factory",
+                "industry": "Textile",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Growth Director",
+                "workplace": "Alingsås Textile AB",
+                "industry": "Textile",
+                "start_date": "1938"
+            }
+        ]
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "original": "BRUNNBERG, Bernt Erik Sigvard, Civilingenjör, Gyttorp, f Färnebo, Värml l, 11/5 10 av disp K G A B o Ruth Sköldberg. Studex Beskowska sk Sthlm 28, KTH (kemi) 28— 33. Ing v Nitroglycerin AB Gyttorp sed. 33. Led Sv Tekn.frn. Sekr i Nora-Gyttorps Luft-skyddsfrn. Lstlöjtn.",
+    "translated": "BRUNNBERG, Bernt Erik Sigvard, MSc in Engineering, Gyttorp, born in Färnebo, Värmland county, on November 5, 1910, son of K G A B and Ruth Sköldberg. Graduated from Beskowska School in Stockholm in 1928, and from KTH (Chemistry) in 1928—1933. Employed at Nitroglycerin AB Gyttorp since 1933. Member of the Swedish Technical Association. Secretary in the Nora-Gyttorp Air Protection Association. Second Lieutenant.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Bernt Erik Sigvard",
+        "familyName": "Brunnberg",
+        "birthDate": "1910-11-05",
+        "birthPlace": "Färnebo, Värmland, Sweden",
+        "nationality": "Swedish",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Technical Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Nora-Gyttorp Air Protection Association"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Beskowska School",
+                "location": "Stockholm, Sweden",
+                "startDate": "1928",
+                "endDate": "1928"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "KTH",
+                "location": "Stockholm, Sweden",
+                "startDate": "1928",
+                "endDate": "1933",
+                "alumniOf": [
+                    {
+                        "@type": "Organization",
+                        "name": "KTH",
+                        "url": "https://www.kth.se/"
+                    }
+                ],
+                "hasCredential": {
+                    "@type": "BachelorsDegree",
+                    "name": "Chemistry"
+                }
+            }
+        ],
+        "jobTitle": "Civilingenjör (MSc in Engineering)",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Nitroglycerin AB Gyttorp",
+            "startDate": "1933"
+        },
+        "militaryRank": "Löjtnant (Second Lieutenant)",
+        "parents": [
+            {
+                "@type": "Person",
+                "givenName": "K G A B",
+                "name": "K G A B Brunnberg"
+            },
+            {
+                "@type": "Person",
+                "givenName": "Ruth",
+                "familyName": "Sköldberg",
+                "name": "Ruth Sköldberg"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "MSc in Engineering",
+                "workplace": "Gyttorp",
+                "industry": "Engineering",
+                "start_date": "1933"
+            },
+            {
+                "occupational_title": "Secretary",
+                "workplace": "Nora-Gyttorp Air Protection Association",
+                "industry": "Air Protection",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Second Lieutenant",
+                "workplace": "",
+                "industry": "Military",
+                "start_date": ""
+            }
+        ]
+    }
+}

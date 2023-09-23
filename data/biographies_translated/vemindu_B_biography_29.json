@@ -1,0 +1,159 @@
+{
+    "original": "BECKMAN, Karl-Herman, Järnhandlare, Skövde, f Frösve, Skarab län, 18/3 93 av gods- äg Claes H B o Märta Torstensson. Realex 09 i Skövde. Anst 09 i E Dahlins järnhdl, Skövde, h NK, Sthlm, 17—18, åter i Dahlins järnhdl (gr 1854 19, inneh 29. Ag skogstrakt Klia Nolgl. o gården östentorp i Frösve, v. ordf i Skövde Lärlingssk f yrk.und.v, styr.led i Västergötl järnhandl.frn, i Livhus. Kainrat-fören, rev i Skövde fornminn.fören o Fören Jultomtarna. Resor: USA, Engl, Tyskl, Danm 21. Idr.m g, Istm g, skyt.m s, skidl.m br, skogsvårdsstyr :s dipl 42. Hobbies : Skogsdikning- o skogsvård. Se även BÄCKMAN.",
+    "translated": "BECKMAN, Karl-Herman, Iron Merchant, Skövde, born in Frösve, Skaraborg County, on March 18, 1893, to estate owner Claes H B and Märta Torstensson. Completed Realex (secondary education) in 1909 in Skövde. Employed at E Dahlins iron trade in Skövde in 1909, then at NK (department store) in Stockholm from 1917 to 1918, before returning to Dahlins iron trade (established in 1854) in 1919, becoming the owner in 1929. Owns the forest tract in Klia Nolgl. and the farm Östentorp in Frösve. Vice chairman of Skövde Apprenticeship School for Vocational and Industrial Training, board member of the Västergötland Iron Traders' Association, member of the Livhus Society, Cain Rat Society, Skövde Antiquarian Society, and Santa Claus Society. Traveled to the USA, England, Germany, and Denmark in 1921. Achievements in sports: shooting, skiing, and forestry management. Awarded the forestry board's diploma in 1942. Hobbies include forest drainage and forestry. Also see BÄCKMAN.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Karl-Herman Beckman",
+        "birthDate": "1893-03-18",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Frösve",
+            "address": {
+                "@type": "PostalAddress",
+                "addressRegion": "Skaraborg County"
+            }
+        },
+        "occupation": "Iron Merchant",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Skövde"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Claes H B"
+            },
+            {
+                "@type": "Person",
+                "name": "Märta Torstensson"
+            }
+        ],
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Realex",
+            "dateIssued": "1909",
+            "recognizedBy": {
+                "@type": "Organization",
+                "name": "Skövde"
+            }
+        },
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "E Dahlins järnhdl",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Skövde"
+                },
+                "startDate": "1909"
+            },
+            {
+                "@type": "Organization",
+                "name": "NK",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm"
+                },
+                "startDate": "1917",
+                "endDate": "1918"
+            },
+            {
+                "@type": "Organization",
+                "name": "Dahlins järnhdl",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Skövde"
+                },
+                "startDate": "1919",
+                "endDate": "1929",
+                "foundingDate": "1854"
+            }
+        ],
+        "owns": [
+            {
+                "@type": "Landform",
+                "name": "forest tract in Klia Nolgl"
+            },
+            {
+                "@type": "Landform",
+                "name": "farm Östentorp in Frösve"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Skövde Lärlingssk f yrk.und.v"
+            },
+            {
+                "@type": "Organization",
+                "name": "Västergötl järnhandl.frn"
+            },
+            {
+                "@type": "Organization",
+                "name": "Livhus. Kainrat-fören"
+            },
+            {
+                "@type": "Organization",
+                "name": "Skövde fornminn.fören"
+            },
+            {
+                "@type": "Organization",
+                "name": "Fören Jultomtarna"
+            }
+        ],
+        "travels": [
+            "USA",
+            "England",
+            "Germany",
+            "Denmark"
+        ],
+        "sports": [
+            {
+                "@type": "SportsActivityLocation",
+                "name": "shooting"
+            },
+            {
+                "@type": "SportsActivityLocation",
+                "name": "skiing"
+            },
+            {
+                "@type": "SportsActivityLocation",
+                "name": "forestry management"
+            }
+        ],
+        "awards": [
+            {
+                "@type": "Achievement",
+                "name": "forestry board's diploma",
+                "description": "Awarded in 1942 by the forestry board"
+            }
+        ],
+        "hobbies": [
+            "forest drainage",
+            "forestry"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Iron Merchant",
+                "workplace": "E Dahlins iron trade",
+                "industry": "Iron trade",
+                "start_date": "1909"
+            },
+            {
+                "occupational_title": "Employee at NK",
+                "workplace": "NK (department store), Stockholm",
+                "industry": "Retail",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Iron Merchant (Owner)",
+                "workplace": "Dahlins iron trade",
+                "industry": "Iron trade",
+                "start_date": "1919"
+            }
+        ]
+    }
+}

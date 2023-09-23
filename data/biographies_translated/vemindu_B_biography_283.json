@@ -1,0 +1,90 @@
+{
+    "original": "BLOM, Albert, Disponent, Göteborg, f Gbg 21/1 78 av byggm A P B o Emma Alstrin, _, gm Clary Anderson. Lärov, hdlssk, kantig prakt. Anst H J Heyman &amp; Co 96, AB Hey-|man &amp; Olesen 00, disp sed. 18; vkst dir AB »Bohus Mattfabr 34—35. Besiktn.man. Resor: lEngl, Tyskl fi ggr. PatrstGM; W6, fi idr.klb. Hobbies: Sport, friluftsliv.",
+    "translated": "BLOM, Albert, Managing Director, Gothenburg, born in Gothenburg on January 21, 1878, son of builder A P B and Emma Alstrin, _, married to Clary Anderson. Educated at a commercial school, with practical experience. Employed by H J Heyman & Co in 1896, AB Heyman & Olesen in 1900, became Managing Director in 1918; Deputy Managing Director at AB \"Bohus Mattfabr\" from 1934 to 1935. Inspector. Traveled to England and Germany several times. Knight of the Order of Polar Star; member of the Masonic Lodge since 1906. Hobbies: sports, outdoor activities.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Albert Blom",
+        "jobTitle": "Managing Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Gothenburg"
+        },
+        "birthDate": "1878-01-21",
+        "father": {
+            "@type": "Person",
+            "name": "A P B"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Emma Alstrin"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Clary Anderson"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "commercial school"
+        },
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "H J Heyman & Co",
+                "startDate": "1896"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Heyman & Olesen",
+                "startDate": "1900"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB \"Bohus Mattfabr\"",
+                "startDate": "1934",
+                "endDate": "1935",
+                "jobTitle": "Deputy Managing Director"
+            }
+        ],
+        "mentionedIn": {
+            "@type": "Enumeration",
+            "name": "Order of Polar Star",
+            "startDate": "Knighted"
+        },
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Masonic Lodge",
+            "startDate": "1906"
+        },
+        "hobbies": [
+            "Sports",
+            "Outdoor activities"
+        ],
+        "travelHistory": [
+            "England",
+            "Germany"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "AB Heyman & Olesen",
+                "industry": "Unknown",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Deputy Managing Director",
+                "workplace": "AB 'Bohus Mattfabr'",
+                "industry": "Textile",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Inspector",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": null
+            }
+        ]
+    }
+}

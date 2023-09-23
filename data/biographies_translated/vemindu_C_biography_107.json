@@ -1,0 +1,74 @@
+{
+    "original": "CHRISTENSEN, Rudolf Christian, Direktör, Stockholm, f Sthlm 1/6 87 av xylograf C C o Amanda Svensson, gm Agnes Svensson. Studex 08, utl textilstud 08—11. Inneh Amanda Christensen AB (grund 85). Kassakontr i Annonsörernas frn. Hobbies: Teater, musik, konst.",
+    "translated": "CHRISTENSEN, Rudolf Christian, Director, Stockholm, b. Stockholm 1/6 87, son of xylographer C C and Amanda Svensson, m. Agnes Svensson. Studied mathematics in 1908 and textile studies abroad from 1908 to 1911. Founder of Amanda Christensen AB (established in 1885). Cash accountant in Annonsörernas frn (presumably a professional organization). Hobbies: Theatre, music, art. Please note that '\\d\\d m. partner's name' means that the person married in the year 19xx.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Rudolf Christian Christensen",
+        "jobTitle": "Director",
+        "birthDate": "1887-06-01",
+        "birthPlace": "Stockholm",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "C C",
+                "jobTitle": "Xylographer"
+            },
+            {
+                "@type": "Person",
+                "name": "Amanda Svensson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Agnes Svensson",
+            "marriageDate": "19xx"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "startDate": "1908",
+            "endDate": "1911",
+            "credentialCategory": "textile studies",
+            "educationalLevel": "Undergraduate"
+        },
+        "affiliation": [
+            {
+                "@type": "Organization",
+                "name": "Amanda Christensen AB",
+                "foundingDate": "1885"
+            },
+            {
+                "@type": "Organization",
+                "name": "Annonsörernas frn",
+                "position": "Cash Accountant"
+            }
+        ],
+        "hobbies": [
+            "Theatre",
+            "Music",
+            "Art"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Stockholm",
+                "industry": "N/A",
+                "start_date": "N/A"
+            },
+            {
+                "occupational_title": "Founder",
+                "workplace": "Amanda Christensen AB",
+                "industry": "Textile",
+                "start_date": "1885"
+            },
+            {
+                "occupational_title": "Cash Accountant",
+                "workplace": "Annonsörernas frn",
+                "industry": "Advertising",
+                "start_date": "N/A"
+            }
+        ]
+    }
+}

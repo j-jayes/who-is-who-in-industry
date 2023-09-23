@@ -1,0 +1,108 @@
+{
+    "original": "CARLESON, Bengt Axel Fredrik, Bruksdisponent, Degerfors, f Storebro br, Kalm l, 2/7 91 av major B C o Signe Tillberg, gm (2) Aina Elfverson. Studex Vvik 09, resoffex 11, KTH 14, DHS 15. Dir.ass Wargöns AB 16— 32, disp o vkst dir Strömsnäs (nu Degerfors) jvksAB sed. 32. Flm Jernkont. Styr.led i fi bol. RVO, RFinlVROlkl.",
+    "translated": "CARLESON, Bengt Axel Fredrik, Works manager, Degerfors, b. Storebro parish, Kalmar, 2/7 91 son of Major B C and Signe Tillberg, m. (2) Aina Elfverson. Completed studies at Vvik [abbreviated name of school] in 1909, reserve officer in 1911, Royal Institute of Technology in 1914, postgraduate studies in heating systems in 1915. Assistant director at Wargöns AB from 1916 to 1932, then became manager and director of development at Strömsnäs (now Degerfors) ironworks AB since 1932. Member of the board of directors for Jernkontoret [abbreviated name of company]. Awarded the Royal Order of Vasa, Order of the Lion of Finland.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Bengt",
+        "additionalName": "Axel Fredrik",
+        "familyName": "Carleson",
+        "birthDate": "1891-07-02",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "addressLocality": "Storebro",
+                "addressRegion": "Kalmar",
+                "addressCountry": "Sweden"
+            }
+        },
+        "parent": {
+            "@type": "Person",
+            "name": "Major B C Tillberg"
+        },
+        "spouse": [
+            {
+                "@type": "Person",
+                "name": "Signe Tillberg"
+            },
+            {
+                "@type": "Person",
+                "name": "Aina Elfverson"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Vvik",
+                "startDate": "1909-01-01",
+                "endDate": "1909-12-31"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Royal Institute of Technology",
+                "startDate": "1914-01-01",
+                "endDate": "1914-12-31"
+            }
+        ],
+        "occupation": [
+            {
+                "@type": "OrganizationRole",
+                "title": "Works manager",
+                "namedPosition": "Disp o vkst dir",
+                "startDate": "1932-01-01"
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Assistant director",
+                "namedPosition": "Dir.ass",
+                "worksFor": {
+                    "@type": "Organization",
+                    "name": "Wargöns AB",
+                    "startDate": "1916-01-01",
+                    "endDate": "1932-12-31"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Jernkontoret",
+                "roleName": "Styr.led i fi bol"
+            }
+        ],
+        "award": [
+            {
+                "@type": "Order",
+                "name": "Royal Order of Vasa",
+                "dateAwarded": "unknown"
+            },
+            {
+                "@type": "Order",
+                "name": "Order of the Lion of Finland",
+                "dateAwarded": "unknown"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Works manager",
+                "workplace": "Degerfors",
+                "industry": "Ironworks",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Assistant director",
+                "workplace": "Wargöns AB",
+                "industry": "Unknown",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Director of development",
+                "workplace": "Strömsnäs (now Degerfors) ironworks AB",
+                "industry": "Ironworks",
+                "start_date": "1932"
+            }
+        ]
+    }
+}

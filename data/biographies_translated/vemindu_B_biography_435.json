@@ -1,0 +1,32 @@
+{
+    "original": "BRYNJE, Roland Viktor, Grosshandlare, Norrköping, f Norrkp 19/7 97. Inneh Knut Anderson AB, Norrkp, konserver o sydfrukter i parti, grund 92.",
+    "translated": "BRYNJE, Roland Viktor, Wholesale Merchant, Norrköping, born in Norrköping on July 19th, 1897. Owned Knut Anderson AB, Norrköping, dealing in canned goods and tropical fruits in bulk, established in 1892. Note: '\\d\\d m. partners name' indicates that the person got married in the year 19xx.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Roland Viktor Brynje",
+        "birthDate": "1897-07-19",
+        "birthPlace": "Norrköping",
+        "description": "Wholesale Merchant",
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Knut Anderson AB",
+            "foundingDate": "1892",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Norrköping"
+            },
+            "industry": "Canned Goods and Tropical Fruits in Bulk"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Wholesale Merchant",
+                "workplace": "Knut Anderson AB",
+                "industry": "Canned goods and tropical fruits",
+                "start_date": "1892"
+            }
+        ]
+    }
+}

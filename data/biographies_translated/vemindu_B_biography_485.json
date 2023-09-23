@@ -1,0 +1,116 @@
+{
+    "original": "BÖÖS, Carl C :son, Marindirektör, Stockholm, f Garpenberg 26/7 88 av ing Carl B o Maria Isacsson, gm Lilly Jaeger (d 33). Studex 06, KTH 10. E. marining 12, marining 2 gr 14, l gr 18, på friv ögst 26, marindir 2 gr på ögst 41. Vkst dir Trafik AB Mälaren-Hjälmaren 31—32, dir.ass Vaxholms Nya Ångfart AB sed. 32. Sekr KMK 26—31.",
+    "translated": "BÖÖS, Carl C. son, Navy Director, Stockholm, born in Garpenberg on July 26, 1888, the son of engineer Carl B and Maria Isacsson, married to Lilly Jaeger (deceased in 1933). Studied at Stockholm College in 1906 and at the Royal Institute of Technology in 1910. Employed by the Navy in 1912, received a master's degree in 1914, a first lieutenant in 1918, and served on voluntary service from 1926. Promoted to Navy Director in 1941. Director of Traffic AB Mälaren-Hjälmaren from 1931 to 1932 and assistant director of Vaxholms Nya Ångfart AB since 1932. Secretary of KMK from 1926 to 1931.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl C Böös",
+        "birthDate": "1888-07-26",
+        "birthPlace": "Garpenberg, Sweden",
+        "deathDate": "Unknown",
+        "nationality": "Swedish",
+        "alumniOf": [
+            {
+                "@type": "CollegeOrUniversity",
+                "name": "Stockholm College",
+                "startDate": "1906",
+                "endDate": "Unknown"
+            },
+            {
+                "@type": "CollegeOrUniversity",
+                "name": "Royal Institute of Technology",
+                "startDate": "1910",
+                "endDate": "Unknown"
+            }
+        ],
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Carl B"
+            },
+            {
+                "@type": "Person",
+                "name": "Maria Isacsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Lilly Jaeger",
+            "deathDate": "1933"
+        },
+        "occupation": [
+            {
+                "@type": "OrganizationRole",
+                "title": "Navy Director",
+                "startDate": "1941",
+                "endDate": "Unknown"
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Traffic Director",
+                "startDate": "1931",
+                "endDate": "1932",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Traffic AB Mälaren-Hjälmaren"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Assistant Director",
+                "startDate": "1932",
+                "endDate": "Unknown",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Vaxholms Nya Ångfart AB"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Secretary",
+                "startDate": "1926",
+                "endDate": "1931",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "KMK"
+                }
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Stockholm College",
+                "startDate": "1906",
+                "endDate": "Unknown"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Royal Institute of Technology",
+                "startDate": "1910",
+                "endDate": "Unknown"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Navy Director",
+                "workplace": "Stockholm",
+                "industry": "Maritime",
+                "start_date": "1941"
+            },
+            {
+                "occupational_title": "Director of Traffic",
+                "workplace": "Trafik AB Mälaren-Hjälmaren",
+                "industry": "Transportation",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Assistant Director",
+                "workplace": "Vaxholms Nya Ångfart AB",
+                "industry": "Transportation",
+                "start_date": "1932"
+            }
+        ]
+    }
+}

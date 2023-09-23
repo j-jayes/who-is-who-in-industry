@@ -1,0 +1,138 @@
+{
+    "original": "BENSOW, Bror Folke, Arkitekt, Göteborg, f Gbg 19/2 86 av tandläkare J V B o Sigrid Boye, gm Jenny Vogel. Studex Gbg 04, resoff Skarab reg 06, ex CTH 09, stud Akad f de skönne Kunster Kpnhmn 10—11, KHS 12. Eg arkit.verksamh Sth 15—30, fastigh.förv AB Pripp &amp; Lyckholm Gbg sed. 31. Studieres Tyskl, Österr 10, Ital, Tunis 13—14, Ital, Grekl, Egypt 21—22. Hobby: Målning.",
+    "translated": "BENSOW, Bror Folke, Architect, Gothenburg, born in Gothenburg on February 19th, 1886, son of dentist J. V. Bensow and Sigrid Boye, married to Jenny Vogel. Graduated from Gothenburg School in 1904, reserve officer in Skaraborg Regiment in 1906, graduated from the Chalmers University of Technology in 1909, studied at the Royal Academy of Fine Arts in Copenhagen from 1910 to 1911, and completed his studies at the Royal Swedish Academy of Fine Arts in 1912. Started his architectural career in Stockholm from 1915 to 1930, then worked as a property manager for AB Pripp & Lyckholm in Gothenburg since 1931. Studied in Germany and Austria in 1910, Italy and Tunisia from 1913 to 1914, and Italy, Greece, and Egypt from 1921 to 1922. Hobby: Painting.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Bror Folke Bensow",
+        "birthDate": "1886-02-19",
+        "birthPlace": "Gothenburg",
+        "description": "Architect",
+        "parent": {
+            "@type": "Parent",
+            "father": {
+                "@type": "Person",
+                "name": "J. V. Bensow",
+                "occupation": "Dentist"
+            },
+            "mother": {
+                "@type": "Person",
+                "name": "Sigrid Boye"
+            }
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Jenny Vogel"
+        },
+        "education": [
+            {
+                "@type": "EducationEvent",
+                "institution": {
+                    "@type": "School",
+                    "name": "Gothenburg School"
+                },
+                "startDate": "1904"
+            },
+            {
+                "@type": "EducationEvent",
+                "institution": {
+                    "@type": "CollegeOrUniversity",
+                    "name": "Chalmers University of Technology"
+                },
+                "startDate": "1909"
+            },
+            {
+                "@type": "EducationEvent",
+                "institution": {
+                    "@type": "CollegeOrUniversity",
+                    "name": "Royal Academy of Fine Arts, Copenhagen"
+                },
+                "startDate": "1910",
+                "endDate": "1911"
+            },
+            {
+                "@type": "EducationEvent",
+                "institution": {
+                    "@type": "CollegeOrUniversity",
+                    "name": "Royal Swedish Academy of Fine Arts"
+                },
+                "startDate": "1912"
+            }
+        ],
+        "career": [
+            {
+                "@type": "Organization",
+                "name": "Stockholm",
+                "startDate": "1915",
+                "endDate": "1930",
+                "occupation": "Architect"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Pripp & Lyckholm",
+                "location": "Gothenburg",
+                "startDate": "1931",
+                "occupation": "Property Manager"
+            }
+        ],
+        "studyAbroad": [
+            {
+                "@type": "Intangible",
+                "name": "Germany",
+                "startDate": "1910"
+            },
+            {
+                "@type": "Intangible",
+                "name": "Austria",
+                "startDate": "1910"
+            },
+            {
+                "@type": "Intangible",
+                "name": "Italy",
+                "startDate": "1913",
+                "endDate": "1914"
+            },
+            {
+                "@type": "Intangible",
+                "name": "Tunisia",
+                "startDate": "1913",
+                "endDate": "1914"
+            },
+            {
+                "@type": "Intangible",
+                "name": "Italy",
+                "startDate": "1921",
+                "endDate": "1922"
+            },
+            {
+                "@type": "Intangible",
+                "name": "Greece",
+                "startDate": "1921",
+                "endDate": "1922"
+            },
+            {
+                "@type": "Intangible",
+                "name": "Egypt",
+                "startDate": "1921",
+                "endDate": "1922"
+            }
+        ],
+        "hobby": "Painting"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Architect",
+                "workplace": "Stockholm",
+                "industry": "Architecture",
+                "start_date": "1915"
+            },
+            {
+                "occupational_title": "Property Manager",
+                "workplace": "AB Pripp & Lyckholm",
+                "industry": "Real Estate",
+                "start_date": "1931"
+            }
+        ]
+    }
+}

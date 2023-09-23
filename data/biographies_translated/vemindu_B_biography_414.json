@@ -1,0 +1,153 @@
+{
+    "original": "BROMAN, Victor Johannes, Bankdirektör, Umeå, f Umeå Idsf 22/3 84 av kr.länsm J B o Elisabeth Löfroth, gm Dina Franke. Studex o agron.ex Ltbrslär o jordbr.konsulent h Västerb:s hushålln.sällskp 07—16, sekr o kamr h egnah.nämnd 17—34. Vkst dir Väs-terb :s läns sparb sed. 34. Ag 2 fastigh i Stöcksjö. Stdsflm 35—42, ordf Västerb:s läns v:a kristidsstyr, styr.led Umeå komm flick-sk, av landst utsedd rev i hushålln.sällsk mm. RVO; Rotary.",
+    "translated": "BROMAN, Victor Johannes, Bank Director, Umeå, born in Umeå on March 22, 1884, son of county magistrate J.B and Elisabeth Löfroth, married to Dina Franke. Completed studies and agricultural education. Lieutenant at the rural school and agricultural consultant at Västerbotten's Household Society from 1907 to 1916. Secretary and chamberlain at the property committee from 1917 to 1934. Deputy director of Västerbotten County Savings Bank since 1934. Owns two properties in Stöcksjö. Member of the Board of Directors of Västerbotten County's Western Emergency Defense Force. Board Chairman of Umeå Municipal Girls' School. Appointed by the county council as a reviewer in the Household Society and other organizations. Knight of the Royal Order of Vasa. Member of Rotary Club.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Victor Johannes Broman",
+        "jobTitle": "Bank Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Umeå"
+        },
+        "birthDate": "1884-03-22",
+        "birthPlace": "Umeå",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "J.B Broman",
+                "jobTitle": "County Magistrate"
+            },
+            {
+                "@type": "Person",
+                "name": "Elisabeth Löfroth"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Dina Franke"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Studex"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Agron.ex"
+            }
+        ],
+        "occupation": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Västerb:s hushålln.sällskp",
+                "startDate": "1907",
+                "endDate": "1916",
+                "jobTitle": "Lieutenant"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Jordbr.konsulent h Västerb:s hushålln.sällskp",
+                "startDate": "1907",
+                "endDate": "1916",
+                "jobTitle": "Agricultural Consultant"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "egnah.nämnd",
+                "startDate": "1917",
+                "endDate": "1934",
+                "jobTitle": "Secretary and Chamberlain"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Deputy Director",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Västerbotten County Savings Bank"
+                },
+                "startDate": "1934"
+            }
+        ],
+        "owns": [
+            {
+                "@type": "RealEstateAgent",
+                "name": "Property in Stöcksjö"
+            },
+            {
+                "@type": "RealEstateAgent",
+                "name": "Property in Stöcksjö"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Board Chairman",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Umeå Municipal Girls' School"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Reviewer",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Household Society"
+                },
+                "additionalName": "appointed by the county council"
+            },
+            {
+                "@type": "Organization",
+                "name": "Västerbotten County's Western Emergency Defense Force",
+                "memberOf": {
+                    "@type": "Role",
+                    "roleName": "Board of Directors"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Rotary Club",
+                "memberOf": {
+                    "@type": "Role",
+                    "roleName": "Member"
+                }
+            }
+        ],
+        "honorificSuffix": "RVO"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Bank Director",
+                "workplace": "Västerbotten County Savings Bank",
+                "industry": "Banking",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Lieutenant at Rural School",
+                "workplace": "Västerbotten's Household Society",
+                "industry": "Education",
+                "start_date": "1907"
+            },
+            {
+                "occupational_title": "Agricultural Consultant",
+                "workplace": "Västerbotten's Household Society",
+                "industry": "Agriculture",
+                "start_date": "1907"
+            },
+            {
+                "occupational_title": "Secretary",
+                "workplace": "Property Committee",
+                "industry": "Government/Public Administration",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Chamberlain",
+                "workplace": "Property Committee",
+                "industry": "Government/Public Administration",
+                "start_date": "1917"
+            }
+        ]
+    }
+}

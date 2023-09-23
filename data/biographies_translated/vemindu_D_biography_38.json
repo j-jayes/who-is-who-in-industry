@@ -1,0 +1,140 @@
+{
+    "original": "DAHLQUIST, Otto Natanael, Kapten, Lidingö, f Gbg 8/9 77 av insp S L D o Elisabeth Hellström, gm Elin Lange. Läroverk 5 kl, sjökapt.ex, resoffex. Styrm h Sv Lloyd fr 99, styrm o befälh i Wicanders rederier o Sveabolaget till 18. Anst Försäkr AB Fylgia 18, ch f dess sjöförsäkr.avd sed. 28. Ag villa Cintra, Lidingö, ö sommarst på Brämsö vid Gbg. Led Sjöassuradörernas Tariffkommitté 8 år samt komm f det mindre kaskot. Resor: Jorden runt fi ggr. Inneh EmmeryM o Fylgias ftjGM. Hobbies: Lite av varje, mest segling o fiske.",
+    "translated": "DAHLQUIST, Otto Natanael, Captain, Lidingö, b. Gothenburg on September 8th, 1877, son of Inspector S L D and Elisabeth Hellström, m. Elin Lange. Completed 5 classes in secondary school, obtained a ship captain's degree, and became a reserve officer. Served as a mate in the Swedish Lloyd from 1899, and as mate and commander in Wicander's Shipping Companies and Sveabolaget until 1918. Employed at Fylgia Insurance Company from 1918, and became the chief of its maritime insurance division in 1928. Owns the villa Cintra in Lidingö and a summer residence on Brämsö near Gothenburg. Led the Tariff Committee of the Maritime Insurers for 8 years, and also participated in the smaller hull insurance committee. Has traveled around the world five times. Owns property in EmmeryM and is a member of Fylgia's Yacht Club. Hobbies include a little bit of everything, but mostly sailing and fishing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Otto Natanael Dahlquist",
+        "birthDate": "1877-09-08",
+        "birthPlace": "Gothenburg",
+        "description": "Captain, Lidingö",
+        "father": {
+            "@type": "Person",
+            "name": "Inspector S L D"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Elisabeth Hellström"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Elin Lange"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "secondary school",
+                "educationalLevel": "5 classes"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "ship captain's degree"
+            }
+        ],
+        "jobTitle": "Captain",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Lidingö"
+        },
+        "employment": [
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Swedish Lloyd"
+                },
+                "roleName": "Mate",
+                "startDate": "1899"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Wicander's Shipping Companies"
+                },
+                "roleName": "Mate and Commander",
+                "startDate": "1918"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Sveabolaget"
+                },
+                "roleName": "Mate and Commander",
+                "startDate": "1918"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Fylgia Insurance Company"
+                },
+                "roleName": "Employee",
+                "startDate": "1918"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Sjöassuradörernas Tariffkommitté"
+            },
+            {
+                "@type": "Organization",
+                "name": "Fylgia's Yacht Club"
+            }
+        ],
+        "owns": [
+            {
+                "@type": "Place",
+                "name": "Villa Cintra",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Lidingö"
+                }
+            },
+            {
+                "@type": "Place",
+                "name": "Summer Residence",
+                "description": "Located on Brämsö near Gothenburg"
+            },
+            {
+                "@type": "Place",
+                "name": "EmmeryM"
+            }
+        ],
+        "hobbies": [
+            "Sailing",
+            "Fishing"
+        ],
+        "travelHistory": "Traveled around the world five times"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Mate",
+                "workplace": "Swedish Lloyd",
+                "industry": "Shipping",
+                "start_date": "1899"
+            },
+            {
+                "occupational_title": "Mate and Commander",
+                "workplace": "Wicander's Shipping Companies and Sveabolaget",
+                "industry": "Shipping",
+                "start_date": "Until 1918"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Fylgia Insurance Company",
+                "industry": "Insurance",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Chief of Maritime Insurance Division",
+                "workplace": "Fylgia Insurance Company",
+                "industry": "Insurance",
+                "start_date": "1928"
+            }
+        ]
+    }
+}

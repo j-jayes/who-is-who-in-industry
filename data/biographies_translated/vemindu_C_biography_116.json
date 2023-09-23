@@ -1,0 +1,114 @@
+{
+    "original": "CHRISTIANSEN, Vilhelm, överingenjör, Finspång, f Vitsand, Värml l, 27/6 95 av lantbr H C o Emilia Enocksen, gm Karin Tisell. Studex Karlst 14, KTH (metallurgi) 16^-20. Värmetekn undersökn v IVA:s kraft- o bräns-leutredn 20—23, metallurg o lab.ch Finspångs Metallverks AB fr 23, nu AB Sv Metallverken, Finspongverken, övering sed. 41. Led av Sv Metallograffrb sed. 24, Deutsche Gesellschaft fur Metallkunde sed. 30, Am Soc for Testing Materials sed. 32, Inst of Metals London sed. 35. Av trycket: Upps i facktidskr. Led Sv Tekn.frn.",
+    "translated": "CHRISTIANSEN, Vilhelm, chief engineer, Finspång, born in Vitsand, Värmland county, on June 27, 1895, son of farmers H.C. and Emilia Enocksen. Married to Karin Tisell. Completed his high school education in Karlstad in 1914 and studied metallurgy at the Royal Institute of Technology (KTH) from 1916 to 1920. Conducted heat technology research at the Royal Swedish Academy of Engineering Sciences (IVA) for power and fuel investigation from 1920 to 1923. Worked as a metallurgist and laboratory chief at Finspångs Metallverks AB from 1923, now known as AB Sv Metallverken, Finspongverken, promoted to chief engineer in 1941. Member of the Swedish Society for Metals since 1924, the German Society for Metallurgy since 1930, the American Society for Testing Materials since 1932, and the Institute of Metals London since 1935. Published in specialized journals. Member of the Swedish Technical Committee.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Vilhelm Christiansen",
+        "jobTitle": "Chief Engineer",
+        "birthDate": "1895-06-27",
+        "birthPlace": "Vitsand, Värmland County, Sweden",
+        "nationality": "Swedish",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "H.C. Christiansen",
+                "jobTitle": "Farmer"
+            },
+            {
+                "@type": "Person",
+                "name": "Emilia Enocksen",
+                "jobTitle": "Farmer"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Karin Tisell"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "educationalLevel": "High school",
+                "startDate": "1914",
+                "endDate": "1914",
+                "institution": {
+                    "@type": "EducationalOrganization",
+                    "name": "Karlstad"
+                }
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "educationalLevel": "Metallurgy studies",
+                "startDate": "1916",
+                "endDate": "1920",
+                "institution": {
+                    "@type": "EducationalOrganization",
+                    "name": "Royal Institute of Technology (KTH)"
+                }
+            }
+        ],
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "Royal Swedish Academy of Engineering Sciences (IVA)",
+                "startDate": "1920",
+                "endDate": "1923",
+                "position": "Heat Technology Researcher"
+            },
+            {
+                "@type": "Organization",
+                "name": "Finspångs Metallverks AB",
+                "startDate": "1923",
+                "position": "Metallurgist and Laboratory Chief",
+                "memberOf": [
+                    {
+                        "@type": "Organization",
+                        "name": "Swedish Society for Metals",
+                        "startDate": "1924"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "German Society for Metallurgy",
+                        "startDate": "1930"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "American Society for Testing Materials",
+                        "startDate": "1932"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "Institute of Metals London",
+                        "startDate": "1935"
+                    }
+                ]
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Swedish Technical Committee"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Chief Engineer",
+                "workplace": "AB Sv Metallverken, Finspongverken",
+                "industry": "Metallurgy",
+                "start_date": "1941"
+            },
+            {
+                "occupational_title": "Metallurgist and Laboratory Chief",
+                "workplace": "Finspångs Metallverks AB (now AB Sv Metallverken)",
+                "industry": "Metallurgy",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Heat Technology Researcher",
+                "workplace": "Royal Swedish Academy of Engineering Sciences (IVA)",
+                "industry": "Power and Fuel Investigation",
+                "start_date": "1920"
+            }
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "original": "CARLSSON, Ivar Walfrid, Fabrikör, Askersund, f V Ny, Ögl, 7/4 82. Deläg fma Bröd Carlsson (tågvirkesfabr, grund 05).",
+    "translated": "CARLSSON, Ivar Walfrid, Industrialist, Askersund, b Ny, Ögl, 7/4 82. Co-owner of Bröd Carlsson (timber mill, established in 1905).",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Ivar Walfrid Carlsson",
+        "jobTitle": "Industrialist",
+        "birthDate": "1882-04-07",
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Ny, Ögl"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Askersund"
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Bröd Carlsson",
+            "foundingDate": "1905"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Industrialist",
+                "workplace": "Askersund",
+                "industry": "Timber mill",
+                "start_date": "established in 1905"
+            },
+            {
+                "occupational_title": "Co-owner",
+                "workplace": "Bröd Carlsson",
+                "industry": "Timber mill",
+                "start_date": "established in 1905"
+            }
+        ]
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "original": "CARLBERG, Axel Edvard, Bankkamrer, Lindesberg, f Viker, Örebro län, 12/8 84 av F O Pettersson o Emelie Carlberg. Hal. Anst v jvg 00—07, kass Örebro ensk bk 13— 18, i Skand bkn sed. 18, kamr o kont.förest Lindesb 27, led kont.styr 34.",
+    "translated": "CARLBERG, Axel Edvard, Bank Clerk, Lindesberg, born in Viker, Örebro County, 12th August 1884, to parents F O Pettersson and Emelie Carlberg. Worked as a junior employee at the railway 1900-1907, cashier at Örebro Private Bank 1913-1918, in Skand Bank since 1918, chamberlain and head of the accounting department in Lindesberg from 1927, member of the accounting board since 1934.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Axel Edvard Carlberg",
+        "birthDate": "1884-08-12",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Viker",
+                "addressRegion": "Örebro län"
+            }
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "F O Pettersson"
+            },
+            {
+                "@type": "Person",
+                "name": "Emelie Carlberg"
+            }
+        ],
+        "jobTitle": [
+            "Bank Clerk"
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Örebro ensk bk",
+                "startDate": "1913",
+                "endDate": "1918"
+            },
+            {
+                "@type": "Organization",
+                "name": "Skand Bank",
+                "startDate": "1918"
+            },
+            {
+                "@type": "Organization",
+                "name": "Lindesberg"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Lindesberg",
+                "startDate": "1927"
+            }
+        ],
+        "accountablePerson": {
+            "@type": "Organization",
+            "name": "Lindesberg",
+            "startDate": "1934"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Bank Clerk",
+                "workplace": "Lindesberg",
+                "industry": "Banking",
+                "start_date": "1900"
+            },
+            {
+                "occupational_title": "Cashier",
+                "workplace": "Örebro Private Bank",
+                "industry": "Banking",
+                "start_date": "1913"
+            },
+            {
+                "occupational_title": "Cashier",
+                "workplace": "Skand Bank",
+                "industry": "Banking",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Chamberlain and Head of the Accounting Department",
+                "workplace": "Lindesberg",
+                "industry": "Banking",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Member of the Accounting Board",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "1934"
+            }
+        ]
+    }
+}

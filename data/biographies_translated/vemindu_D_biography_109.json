@@ -1,0 +1,101 @@
+{
+    "original": "DUHS, Gustaf Algot, Direktör, Eskilstuna, f Hagfors, Värml län, 20/12 81 av ing Gustaf D o Emilia Löfgren, gm Jenny Båtelsson. Karlst hal. Kamrer AB Gerh Arehns mek verkst, Sthlm, 06—14, disp AB Enköp verkst 14—20, disp Aug Stenman AB, E.tuna, 20—36, dir AB E.tunamagas sed. 36, styr.led i detta, rev i E.tuna sparbk.",
+    "translated": "DUHS, Gustaf Algot, Director, Eskilstuna, from Hagfors, Värmland County, born on December 20, 1881, to engineer Gustaf D and Emilia Löfgren, married to Jenny Båtelsson. Worked as an accountant at AB Gerh Arehns mechanical workshop in Stockholm from 1906 to 1914, then as a manager at AB Enköp workshop from 1914 to 1920, and as a manager at Aug Stenman AB in Eskilstuna from 1920 to 1936. Became a director at AB Eskilstuna Magazine from 1936, and served on the board of directors. Was involved in the restructuring of Eskilstuna Savings Bank.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Gustaf Algot Duhs",
+        "birthDate": "1881-12-20",
+        "birthPlace": "Hagfors, Värmland County",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Gustaf D"
+            },
+            {
+                "@type": "Person",
+                "name": "Emilia Löfgren"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Jenny Båtelsson"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "AB Gerh Arehns mek verkst",
+                "jobTitle": "Accountant",
+                "startDate": "1906",
+                "endDate": "1914",
+                "location": "Stockholm"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Enköp verkst",
+                "jobTitle": "Manager",
+                "startDate": "1914",
+                "endDate": "1920",
+                "location": "Unknown"
+            },
+            {
+                "@type": "Organization",
+                "name": "Aug Stenman AB",
+                "jobTitle": "Manager",
+                "startDate": "1920",
+                "endDate": "1936",
+                "location": "Eskilstuna"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Eskilstuna Magazine",
+                "jobTitle": "Director",
+                "startDate": "1936",
+                "location": "Eskilstuna"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "AB E.tunamagas",
+                "startDate": "1936",
+                "roleName": "Director"
+            }
+        ],
+        "involvedIn": [
+            {
+                "@type": "Organization",
+                "name": "Eskilstuna Savings Bank",
+                "action": "Restructuring"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Accountant",
+                "workplace": "AB Gerh Arehns mechanical workshop",
+                "industry": "Mechanical engineering",
+                "start_date": "1906"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "AB Enköp workshop",
+                "industry": "Mechanical engineering",
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Aug Stenman AB",
+                "industry": "Manufacturing",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "AB Eskilstuna Magazine",
+                "industry": "Publishing",
+                "start_date": "1936"
+            }
+        ]
+    }
+}

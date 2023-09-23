@@ -1,0 +1,99 @@
+{
+    "original": "CARLSSON, Carl Georg, Bergsingenjör, Storängen, f Västanfors 1/9 11 av br.disp C H C o Ragnhild Flodin. Studex Sthlm 30. KTH (bergs) 36. Forskn.arb v KTH:s inst f metallogr 36—37, ass Jernkont tekn byrå 38 —30, anst Metallograf Inst sed. 40. Resor: Engl 37. Av trycket: 8 upps i Jernkont Annaler. Led Sv Tekn.frn.",
+    "translated": "CARLSSON, Carl Georg, Mining Engineer, Storängen, born in Västanfors on September 1, 1911, to parents C H C and Ragnhild Flodin. Completed his studies in Stockholm in 1930 and later attended the Royal Institute of Technology, specializing in mining, graduating in 1936. Engaged in research work at the Institute of Metallography at KTH from 1936 to 1937, assistant at the technical office of Jernkont (Swedish iron company) from 1938 to 1940, and employed at the Metallography Institute since 1940. Traveled to England in 1937. Published 8 articles in the Jernkont Annals. Member of the Swedish Technical Association.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Georg Carlsson",
+        "birthDate": "1911-09-01",
+        "birthPlace": "Västanfors",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Storängen"
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "C H C"
+            },
+            {
+                "@type": "Person",
+                "name": "Ragnhild Flodin"
+            }
+        ],
+        "alumniOf": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Stockholm University",
+                "endDate": "1930"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Royal Institute of Technology",
+                "specialty": "Mining",
+                "startDate": "1936",
+                "endDate": "1936"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Institute of Metallography at KTH",
+                "startDate": "1936",
+                "endDate": "1937"
+            },
+            {
+                "@type": "Organization",
+                "name": "Jernkont",
+                "description": "Swedish iron company",
+                "startDate": "1938",
+                "endDate": "1940"
+            },
+            {
+                "@type": "Organization",
+                "name": "Metallography Institute"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Swedish Technical Association"
+        },
+        "hasPublished": [
+            {
+                "@type": "Article",
+                "name": "Jernkont Annals",
+                "publicationType": "Journal",
+                "numberOfItems": 8
+            }
+        ],
+        "nationality": "Swedish"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Mining Engineer",
+                "workplace": "Storängen",
+                "industry": "Mining",
+                "start_date": "1936"
+            },
+            {
+                "occupational_title": "Researcher",
+                "workplace": "Institute of Metallography at KTH",
+                "industry": "Education/Research",
+                "start_date": "1936"
+            },
+            {
+                "occupational_title": "Assistant",
+                "workplace": "Technical Office of Jernkont (Swedish iron company)",
+                "industry": "Iron and Steel",
+                "start_date": "1938"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Metallography Institute",
+                "industry": "Education/Research",
+                "start_date": "1940"
+            }
+        ]
+    }
+}

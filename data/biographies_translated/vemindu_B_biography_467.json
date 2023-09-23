@@ -1,0 +1,121 @@
+{
+    "original": "BÄCKMAN, Allan Waldemar, Civilingenjör, Malmö, f Sthlm 29/9 08 av maskinmäst K G B o Anna Andréasson. Studex Kkrona 26, KTH (kemi) 26—30. Ass i kvantitativ kem analys KTH 3O—31, anst IVA 31, Uddeholms AB:s elektrokem fabr Skoghall 32, nu h Sv Socker-fabr AB, Mmö. Led Sv Tekn.frn.",
+    "translated": "BÄCKMAN, Allan Waldemar, Civil Engineer, Malmö, b Stockholm on September 29, 1908, son of Chief Engineer K G B and Anna Andréasson. Studied at the Royal Swedish Naval Academy in Karlskrona in 1926, and at the Royal Institute of Technology (chemistry) from 1926 to 1930. Assistant in quantitative chemical analysis at the Royal Institute of Technology from 1930 to 1931, employed by the Royal Swedish Academy of Engineering Sciences in 1931, worked at Uddeholms AB's electrochemical factory in Skoghall in 1932, currently employed at the Swedish Sugar Factory AB in Malmö. Member of the Swedish Society of Technicians. Note: The abbreviation '\\d\\d m. partner's name' indicates that the person got married in the year 19XX.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Allan Waldemar Bäckman",
+        "jobTitle": "Civil Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Malmö"
+        },
+        "birthDate": "1908-09-29",
+        "birthPlace": "Stockholm",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "K G B",
+                "jobTitle": "Chief Engineer"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Andréasson"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Royal Swedish Naval Academy",
+                "location": "Karlskrona",
+                "startDate": "1926"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Royal Institute of Technology (KTH)",
+                "department": "Chemistry",
+                "startDate": "1926",
+                "endDate": "1930"
+            }
+        ],
+        "workExperience": [
+            {
+                "@type": "JobPosting",
+                "title": "Assistant in quantitative chemical analysis",
+                "startDate": "1930",
+                "endDate": "1931",
+                "employer": {
+                    "@type": "EducationalOrganization",
+                    "name": "Royal Institute of Technology (KTH)"
+                }
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Employee",
+                "startDate": "1931",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Royal Swedish Academy of Engineering Sciences"
+                }
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Employee",
+                "startDate": "1932",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Uddeholms AB's electrochemical factory, Skoghall"
+                }
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Employee",
+                "startDate": "unknown",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Swedish Sugar Factory AB, Malmö"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Society of Technicians"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Malmö",
+                "industry": "",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Assistant in Quantitative Chemical Analysis",
+                "workplace": "Royal Institute of Technology",
+                "industry": "Education/Research",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Royal Swedish Academy of Engineering Sciences",
+                "industry": "Education/Research",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Uddeholms AB's electrochemical factory",
+                "industry": "Manufacturing",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Swedish Sugar Factory AB",
+                "industry": "Manufacturing",
+                "start_date": ""
+            }
+        ]
+    }
+}

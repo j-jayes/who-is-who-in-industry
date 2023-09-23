@@ -1,0 +1,103 @@
+{
+    "original": "BERGENDAJD, Erik Filip Bessemer, över-ingenjör, Bofors, f Järpås 15/5 95 av godsäg E E F B Bergendal o Ebba Nisbeth, gm Eva Ljungblom. Studex 15, resoffex 17, KTH 21. Anst Husqv Vapenfabr 23—36, övering AB Bofors sed. 37. Ordf Huskv stads skolor f yrkesunderv 33—36. Led av IVA:s kté f arb.-studier, led av styr f avd I av Sv Tekn.frn, styr.led Karlskoga-Bofors luftsk.frn. Studieresa i Amerika 25.",
+    "translated": "BERGENDAJD, Erik Filip Bessemer, Chief Engineer, Bofors, b. Järpås 15/5 95 to estate owner E E F B Bergendal and Ebba Nisbeth, m. Eva Ljungblom. Graduated from high school in 1915, reserve officer in 1917, KTH (Royal Institute of Technology) in 1921. Employed by Husqv Vapenfabr from 1923 to 1936, Chief Engineer at AB Bofors since 1937. Chairman of Huskv city schools for vocational education from 1933 to 1936. Member of the Royal Swedish Academy of Engineering Sciences committee for workers' studies, member of the board of division I of the Swedish Technical Association, board member of Karlskoga-Bofors Air Defense Artillery. Studied abroad in America in 1925.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Erik Filip Bessemer Bergendajd",
+        "birthDate": "1895-05-15",
+        "birthPlace": "Järpås",
+        "father": {
+            "@type": "Person",
+            "name": "E E F B Bergendal"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Ebba Nisbeth"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Eva Ljungblom"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "diploma",
+            "educationalLevel": {
+                "@type": "DefinedTerm",
+                "name": "high school"
+            },
+            "completionDate": "1915"
+        },
+        "occupation": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Chief Engineer",
+                "startDate": "1937",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Bofors"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "over-ingenjör",
+                "startDate": "1923",
+                "endDate": "1936",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Husqv Vapenfabr"
+                }
+            }
+        ],
+        "nationality": "Swedish",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Royal Swedish Academy of Engineering Sciences",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "committee for workers' studies"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Technical Association",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "division I"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Karlskoga-Bofors Air Defense Artillery"
+            }
+        ],
+        "studyAbroad": {
+            "@type": "Event",
+            "name": "Studied abroad in America",
+            "startDate": "1925"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Chief Engineer",
+                "workplace": "Bofors",
+                "industry": "Weapons Manufacturing",
+                "start_date": "1937"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Husqv Vapenfabr",
+                "industry": "Weapons Manufacturing",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Chairman of Huskv City Schools for Vocational Education",
+                "workplace": "Huskv City Schools",
+                "industry": "Education",
+                "start_date": "1933"
+            }
+        ]
+    }
+}

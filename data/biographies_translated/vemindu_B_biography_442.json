@@ -1,0 +1,93 @@
+{
+    "original": "BUNKE, Karl Axel A:son, Direktör, Hälsingborg, f Väsby 17/1 05 av bankdir K A Andersson o Paulina Olsson, gm Karin Olsson. Hbgs hal, Hbgs Hdlsgymn. Anst hos Boston Blacking Company sed. 27, dir där. Styr.led Boston Blacking Co A/S, Köpenhamn, Rya o Mölle golfklubbar, Hbgs Flygklubb. Resor: För fmans räkn besökt 25 81 von der BURG länder på fyra kontinenter 27—36. Hobbies: Golf o ridn.",
+    "translated": "BUNKE, Karl Axel A:son, Director, Helsingborg, born in Väsby on January 17, 1905, son of bank director K A Andersson and Paulina Olsson, married to Karin Olsson. Completed upper secondary school in Helsingborg and Helsingborg Commercial Gymnasium. Employed by Boston Blacking Company since 1927, currently serving as director. Board member of Boston Blacking Co A/S, Copenhagen, Rya and Mölle golf clubs, and Helsingborg Flying Club. Travel: On behalf of the company, visited 25 countries on four continents from 1927 to 1936. Hobbies: Golf and horseback riding.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Karl Axel A:son Bunke",
+        "jobTitle": "Director",
+        "birthPlace": "Väsby",
+        "birthDate": "1905-01-17",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "K A Andersson",
+                "jobTitle": "Bank Director"
+            },
+            {
+                "@type": "Person",
+                "name": "Paulina Olsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Karin Olsson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Helsingborg Commercial Gymnasium"
+            }
+        ],
+        "employment": [
+            {
+                "@type": "Organization",
+                "name": "Boston Blacking Company",
+                "startDate": "1927-01-01",
+                "title": "Employee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Boston Blacking Company",
+                "startDate": "1927-01-01",
+                "endDate": "1936-12-31",
+                "title": "Director"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Boston Blacking Co A/S",
+                "location": "Copenhagen"
+            },
+            {
+                "@type": "Organization",
+                "name": "Rya Golf Club"
+            },
+            {
+                "@type": "Organization",
+                "name": "Mölle Golf Club"
+            },
+            {
+                "@type": "Organization",
+                "name": "Helsingborg Flying Club"
+            }
+        ],
+        "travel": {
+            "@type": "Place",
+            "countriesVisited": "25",
+            "startDate": "1927-01-01",
+            "endDate": "1936-12-31",
+            "continentsVisited": [
+                "North America",
+                "Europe",
+                "Asia",
+                "Africa"
+            ]
+        },
+        "hobbies": [
+            "Golf",
+            "Horseback riding"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Boston Blacking Company",
+                "industry": "Manufacturing",
+                "start_date": "1927"
+            }
+        ]
+    }
+}
