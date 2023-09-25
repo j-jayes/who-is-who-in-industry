@@ -1,0 +1,151 @@
+{
+    "original": "ERICHS, Inge Gustaf Teodor, Bergsingenjör, Malmö, f Bred, Upps l, 3/5 82 av kyrkoh J A Eriksson o Anna Maria Djurson, gm Siri Wejsenburg. Mogenh.ex Upps 01, KTH (bergsvetensk) 03—07, univ Sheffield 08. Kem o ing Lesjöfors AB 08—10, ch.kem o valsvks-ing Avesta Jvks AB 10—16, dir.ass Sv Emissions AB 16—22, disp AB Nord Armaturfabr :a Lund 22—25, eg verksamh i Malmö ss repr f S Sv f bl a Fagersta Bruks AB, AB Nord Armaturfabr :a mfl. Led Sv Tekn.frn. RNO, RVO.",
+    "translated": "ERICHS, Inge Gustaf Teodor, Mining Engineer, Malmö, born in Bred, Uppsala län, on 3rd May 1882, son of the Reverend J A Eriksson and Anna Maria Djurson, married to Siri Wejsenburg. Completed secondary education in Uppsala in 1901, studied at the Royal Institute of Technology (mining engineering) from 1903 to 1907, and at the University of Sheffield in 1908. Worked in chemistry and engineering at Lesjöfors AB from 1908 to 1910, as chief chemist and steel rolling mill engineer at Avesta Jernverks AB from 1910 to 1916, as assistant director at Swedish Emissions AB from 1916 to 1922, as director at AB Nord Armaturfabrik in Lund from 1922 to 1925. Also engaged in business activities in Malmö, representing various Swedish companies, including Fagersta Bruks AB, AB Nord Armaturfabrik, among others. Member of the Swedish Technical Association. Knight of the Royal Order of the North Star, Royal Order of Vasa.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Inge",
+        "additionalName": "Gustaf Teodor",
+        "familyName": "Erichs",
+        "jobTitle": "Mining Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Malmö"
+        },
+        "birthDate": "1882-05-03",
+        "birthPlace": "Bred, Uppsala län",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "J A Eriksson",
+                "jobTitle": "Reverend"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Maria Djurson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Siri Wejsenburg"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "secondary",
+                "educationalLevel": "complete",
+                "educationalCredentialAwarded": "secondary education",
+                "educationalInstitution": "Uppsala"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "tertiary",
+                "educationalLevel": "master's",
+                "educationalCredentialAwarded": "Mining Engineering",
+                "educationalInstitution": "Royal Institute of Technology",
+                "startDate": "1903",
+                "endDate": "1907"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "tertiary",
+                "educationalCredentialAwarded": "university studies",
+                "educationalInstitution": "University of Sheffield",
+                "startDate": "1908"
+            }
+        ],
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "chemist, engineer",
+                "startDate": "1908",
+                "endDate": "1910",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Lesjöfors AB",
+                    "industry": "chemistry and engineering"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "chief chemist, steel rolling mill engineer",
+                "startDate": "1910",
+                "endDate": "1916",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Avesta Jernverks AB"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "assistant director",
+                "startDate": "1916",
+                "endDate": "1922",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Swedish Emissions AB"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "director",
+                "startDate": "1922",
+                "endDate": "1925",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Nord Armaturfabrik"
+                }
+            }
+        ],
+        "affiliation": [
+            {
+                "@type": "Organization",
+                "name": "Fagersta Bruks AB"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Nord Armaturfabrik"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Swedish Technical Association"
+        },
+        "honorificSuffix": "RNO, RVO",
+        "sameAs": "https://en.wikipedia.org/wiki/Inge_Erichs"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Mining Engineer",
+                "workplace": "Malmö",
+                "industry": "Mining",
+                "start_date": "1908"
+            },
+            {
+                "occupational_title": "Chief Chemist",
+                "workplace": "Lesjöfors AB",
+                "industry": "Chemistry",
+                "start_date": "1908"
+            },
+            {
+                "occupational_title": "Steel Rolling Mill Engineer",
+                "workplace": "Avesta Jernverks AB",
+                "industry": "Steel",
+                "start_date": "1910"
+            },
+            {
+                "occupational_title": "Assistant Director",
+                "workplace": "Swedish Emissions AB",
+                "industry": "Finance",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "AB Nord Armaturfabrik",
+                "industry": "Manufacturing",
+                "start_date": "1922"
+            }
+        ]
+    }
+}

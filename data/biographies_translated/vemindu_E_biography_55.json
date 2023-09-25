@@ -1,0 +1,67 @@
+{
+    "original": "EKBLOM, Nils Ewert Hjalmar, Kamrer, Ramlösabrunn, f Frustuna, Sörml, 14/2 03, gm Brita Hemberg. Realsk. Kont v AB Ranilösa Hälsobrunns nederl i Sthlm 20—33, kamr huv.-kont Ramlösabrunn sed. 33.",
+    "translated": "EKBLOM, Nils Ewert Hjalmar, Clerk, Ramlösabrunn, born in Frustuna, Sörml, February 14, 1903, married to Brita Hemberg. Attended lower secondary school. Worked in accounting at AB Ranilösa Hälsobrunns in Stockholm from 1920 to 1933. Became clerk at the main office of Ramlösabrunn from 1933 onward.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Nils Ewert Hjalmar EKBLOM",
+        "jobTitle": "Clerk",
+        "birthDate": "1903-02-14",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Frustuna",
+            "address": {
+                "@type": "PostalAddress",
+                "addressRegion": "Sörmland"
+            }
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Brita Hemberg"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Realskola",
+            "educationalLevel": "LowerSecondarySchool"
+        },
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1920",
+                "endDate": "1933",
+                "roleName": "Accountant",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Ranilösa Hälsobrunns",
+                    "location": "Stockholm"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1933-01-01",
+                "roleName": "Clerk",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Ramlösabrunn",
+                    "location": "Ramlösabrunn"
+                }
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Clerk",
+                "workplace": "AB Ranilösa Hälsobrunns",
+                "industry": "Accounting",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Clerk",
+                "workplace": "Ramlösabrunn",
+                "industry": "Accounting",
+                "start_date": "1933"
+            }
+        ]
+    }
+}

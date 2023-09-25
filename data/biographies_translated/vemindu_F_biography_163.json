@@ -1,0 +1,95 @@
+{
+    "original": "FRICK, Karl Erik Herbert, Köpman, Nässjö, f Jkp g 6/2 08 av C Aug T Frick o Hildur Ottosson, gm Torborg Engwall. H folksk i Jkpg, Jkpgs tekn sk. Anst skobranschen, Jkpg, 21—31, disp sed. 32 i AB Johansson &amp; Söner, Nässjö (grund 81). Styr.led där o i Nässjö köpmfrn, sekr Nässjö skohdlfrn, Styr.led o kassör Nässjö KFUM o led av dess ö distr.styr, leder Nässjö Miss.kyrkas hornmusikkår. Temp.ridd, Nässjö fotoklubb. Hobbies : Musik, amatörfoto.",
+    "translated": "FRICK, Karl Erik Herbert, Merchant, Nässjö, b. Jkp g 6/2 08 to C Aug T Frick and Hildur Ottosson, m. Torborg Engwall. Primary school in Jkpg, Jkpgs technical school. Employed in the shoe industry, Jkpg, 21—31, then became a manager in AB Johansson &amp; Söner, Nässjö (established in 81). Board member and secretary of Nässjö merchants, secretary of Nässjö shoe retailers, board member and treasurer of Nässjö YMCA and member of its district board, leads Nässjö Mission Church's brass band. Temporary knight, Nässjö photography club. Hobbies: Music, amateur photography. Note that '\\d\\d m. partners name' means that the person married in the year 19xx.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Karl Erik Herbert Frick",
+        "birthDate": "1908-02-06",
+        "birthPlace": "Jönköping",
+        "familyName": "Frick",
+        "givenName": "Karl Erik Herbert",
+        "description": "Merchant",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "AB Johansson & Söner",
+                "foundingDate": "1881",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Nässjö"
+                },
+                "jobTitle": "Manager"
+            },
+            {
+                "@type": "Organization",
+                "name": "Nässjö merchants",
+                "roleName": "Board member and secretary"
+            },
+            {
+                "@type": "Organization",
+                "name": "Nässjö shoe retailers",
+                "roleName": "Secretary"
+            },
+            {
+                "@type": "Organization",
+                "name": "Nässjö YMCA",
+                "roleName": "Board member and treasurer",
+                "memberOf": {
+                    "@type": "DistrictBoard"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Nässjö Mission Church's brass band",
+                "roleName": "Leader"
+            },
+            {
+                "@type": "Organization",
+                "name": "Nässjö photography club",
+                "roleName": "Temporary knight"
+            }
+        ],
+        "alumniOf": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Primary school in Jönköping"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Jönköping's technical school"
+            }
+        ],
+        "hobbies": [
+            "Music",
+            "Amateur photography"
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Torborg Engwall",
+            "marriageDate": "19XX"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Nässjö",
+                "industry": "Retail",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Employee in the shoe industry",
+                "workplace": "Jkpg",
+                "industry": "Shoe Manufacturing",
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "AB Johansson & Söner, Nässjö",
+                "industry": "Shoe Manufacturing",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

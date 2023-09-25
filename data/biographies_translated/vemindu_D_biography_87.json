@@ -1,0 +1,92 @@
+{
+    "original": "DENNEMARK, Hjalmar, Grosshandlare, Stockholm, f Sundsvall 22/12 98. Realex Sundsvalls h a l 13. Volontär v Tyska konsulatet i Sdsv 13—14, korresp i AB Hilding Regnänder Sdsv 14—16, hdlsstud i Tyskl, Engl, Holl o Belg, grund tills m brod Isac D grhdlsfma i järn o stål H Dennemark &amp; Co 1 Sthlm 18, alltj tills m brod ch f o deläg i denna.",
+    "translated": "DENNEMARK, Hjalmar, Merchant, Stockholm, b. Sundsvall 22/12 1898. Apprentice at Realex Sundsvall until 1913. Volunteer at the German Consulate in Sundsvall 1913-1914, correspondent at AB Hilding Regnänder Sundsvall 1914-1916. Commercial studies in Germany, England, the Netherlands, and Belgium. Co-founded with his brother Isac D the trading company H Dennemark & Co in iron and steel industry in Stockholm in 1918, continuously managing and co-owning the company with his brother.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Hjalmar Dennemark",
+        "jobTitle": "Merchant",
+        "birthDate": "1898-12-22",
+        "birthPlace": "Sundsvall",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Commercial studies"
+        },
+        "affiliations": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1913",
+                "endDate": "1914",
+                "roleName": "Apprentice",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Realex Sundsvall"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1913",
+                "endDate": "1914",
+                "roleName": "Volunteer",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "German Consulate"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1914",
+                "endDate": "1916",
+                "roleName": "Correspondent",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "AB Hilding Regnänder"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1918",
+                "roleName": "Co-founder, Manager, Co-owner",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "H Dennemark & Co",
+                    "industry": "Iron and steel",
+                    "foundingDate": "1918",
+                    "foundingLocation": "Stockholm"
+                }
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Apprentice",
+                "workplace": "Realex Sundsvall",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Volunteer",
+                "workplace": "German Consulate",
+                "industry": "Unknown",
+                "start_date": "1913"
+            },
+            {
+                "occupational_title": "Correspondent",
+                "workplace": "AB Hilding Regnänder",
+                "industry": "Unknown",
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Co-founder",
+                "workplace": "H Dennemark & Co",
+                "industry": "Iron and Steel",
+                "start_date": "1918"
+            }
+        ]
+    }
+}

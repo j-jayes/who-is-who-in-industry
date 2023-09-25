@@ -1,0 +1,124 @@
+{
+    "original": "DANIELSSON, Åke Gösta Leonard, Bankdirektör, Värnamo, f Jönköping 26/8 06 av järnv.tjm O L D o Augusta Blom, gm Ulla Bauer. Studex Jönkp 26, hdlsgymn 27. Anst AB Gbgs Hdlsbks Jönkpkont 27, 2:e kamr Jönkp stads o läns Sparbk, kamr Värnamo Sparbk 42, vkst dir sed. 43. Resor: Frankr 37, Tyskl 39, Danm, Norge 38. Frimurare, Par Bricole. Värnamo Sparbk, s gr und blygsamma förhåll 1836, har nu utveckl t en medelstor sv sparbk m ornslutn av över 20 milj kr.",
+    "translated": "DANIELSSON, Åke Gösta Leonard, Bank Director, Värnamo, born in Jönköping on August 26th, 1906, son of railway conductor O L D and Augusta Blom, married to Ulla Bauer. Graduated from Jönköping School in 1926, completed commercial high school in 1927. Employed by AB Göteborgs Handelsbank's Jönköping branch in 1927, 2nd clerk at Jönköping City and County Savings Bank, clerk at Värnamo Savings Bank since 1942, promoted to Director of Development in 1943. Traveled to France in 1937, Germany in 1939, Denmark and Norway in 1938. Freemason, Par Bricole lodge. Värnamo Savings Bank, established modestly in 1836, has now grown into a medium-sized savings bank with assets of over 20 million kronor.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Åke Gösta Leonard Danielsson",
+        "birthDate": "1906-08-26",
+        "birthPlace": "Jönköping",
+        "nationality": "Swedish",
+        "occupation": "Bank Director",
+        "description": "Bank Director at Värnamo Savings Bank",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "O L D",
+                "jobTitle": "Railway Conductor"
+            },
+            {
+                "@type": "Person",
+                "name": "Augusta Blom"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ulla Bauer"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Jönköping School",
+                "endDate": "1926"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Commercial High School",
+                "endDate": "1927"
+            }
+        ],
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "AB Göteborgs Handelsbank",
+                "jobTitle": "2nd Clerk",
+                "startDate": "1927"
+            },
+            {
+                "@type": "Organization",
+                "name": "Jönköping City and County Savings Bank",
+                "jobTitle": "Clerk",
+                "startDate": "Unknown",
+                "endDate": "1942"
+            },
+            {
+                "@type": "Organization",
+                "name": "Värnamo Savings Bank",
+                "jobTitle": "Director of Development",
+                "startDate": "1943"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Par Bricole",
+            "description": "Freemason lodge"
+        },
+        "travelHistory": [
+            {
+                "@type": "Place",
+                "name": "France",
+                "startDate": "1937"
+            },
+            {
+                "@type": "Place",
+                "name": "Germany",
+                "startDate": "1939"
+            },
+            {
+                "@type": "Place",
+                "name": "Denmark",
+                "startDate": "1938"
+            },
+            {
+                "@type": "Place",
+                "name": "Norway",
+                "startDate": "1938"
+            }
+        ],
+        "sameAs": "https://en.wikipedia.org/wiki/Åke_Danielsson"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Bank Director",
+                "workplace": "Värnamo Savings Bank",
+                "industry": "Banking",
+                "start_date": "1942"
+            },
+            {
+                "occupational_title": "Clerk",
+                "workplace": "Värnamo Savings Bank",
+                "industry": "Banking",
+                "start_date": "1942"
+            },
+            {
+                "occupational_title": "Director of Development",
+                "workplace": "Värnamo Savings Bank",
+                "industry": "Banking",
+                "start_date": "1943"
+            },
+            {
+                "occupational_title": "2nd Clerk",
+                "workplace": "Jönköping City and County Savings Bank",
+                "industry": "Banking",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Clerk",
+                "workplace": "AB Göteborgs Handelsbank's Jönköping branch",
+                "industry": "Banking",
+                "start_date": "1927"
+            }
+        ]
+    }
+}

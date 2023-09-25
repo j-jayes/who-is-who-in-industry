@@ -1,0 +1,112 @@
+{
+    "original": "FRYKHOLM, Carl Fredrik Gunnar, Direktör, Sala, f E.tuna 15/1 00 av Carl Fredrik F o Caroline Olsson, gm Doris Ring. E.tuna tekn sk. Kont o rit E.tuna Fabr AB 16—22, musiker 22—30, köpm, Falun, 30—33, dir Sala Postens Boktryckeri AB sed 33, ens styr.led där, styr.led Sala Fastigh.äg.frn, led Sala Propag.komm mm. Hobbies: Musik, böcker.",
+    "translated": "FRYKHOLM, Carl Fredrik Gunnar, Director, Sala, b. E.tuna 15/1 00 to Carl Fredrik F and Caroline Olsson, m. Doris Ring. E.tuna technical school. Office clerk at E.tuna Fabr AB from 1916 to 1922, musician from 1922 to 1930, merchant in Falun from 1930 to 1933, director of Sala Postens Boktryckeri AB since 1933, also serving on their board of directors. Board member of Sala Fastighetsägareförening (Real Estate Owners Association) and member of Sala Propagandakommitté (Propaganda Committee), among others. Hobbies: Music, books.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Fredrik Gunnar Frykholm",
+        "jobTitle": "Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Sala"
+        },
+        "birthDate": "1900-01-15",
+        "birthPlace": "E.tuna",
+        "father": {
+            "@type": "Person",
+            "name": "Carl Fredrik F"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Caroline Olsson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Doris Ring"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Technical School",
+            "educationalLevel": "Primary",
+            "educationalRole": "Student",
+            "startDate": "1916",
+            "endDate": "1922",
+            "provider": {
+                "@type": "Organization",
+                "name": "E.tuna Fabr AB"
+            }
+        },
+        "occupation": [
+            {
+                "@type": "Musician",
+                "startDate": "1922",
+                "endDate": "1930"
+            },
+            {
+                "@type": "Merchant",
+                "startDate": "1930",
+                "endDate": "1933",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Falun"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Director",
+                "startDate": "1933",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Sala Postens Boktryckeri AB"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Sala Fastighetsägareförening",
+                "membershipType": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sala Propagandakommitté",
+                "membershipType": "Member"
+            }
+        ],
+        "sameAs": [
+            "https://example.com/carl-fredrik-gunnar-frykholm"
+        ],
+        "hobbies": [
+            "Music",
+            "Books"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Office Clerk",
+                "workplace": "E.tuna Fabr AB",
+                "industry": "Manufacturing",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Musician",
+                "workplace": "",
+                "industry": "",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Falun",
+                "industry": "",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Sala Postens Boktryckeri AB",
+                "industry": "Printing",
+                "start_date": "1933"
+            }
+        ]
+    }
+}

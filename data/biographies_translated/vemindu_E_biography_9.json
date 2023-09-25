@@ -1,0 +1,101 @@
+{
+    "original": "EDHLUND, Ernst Gustaf, Sadelmakarmäs-tare, Örebro, f Forsmark, Sthlms l, 25/5 80 av sadelm.mäst P E o Carolina Pettersson, gm Hanna Carlsson. Anst i Gävle 97—99, i Sthlm 99—09, start sadelmakeri o mattaff, fma E G Edhlund, i öbr 09. Medl av öbr Stads Fabr-o Hantv.frn, Sv Sadelmakare- o Tapetserare-mäst:s Riksfrb mfl. Mästarbrev 43. Hobbies: Fiske o vira, grekisk mytologi o latin.",
+    "translated": "EDHLUND, Ernst Gustaf, Saddler's Assistant, Örebro, b. Forsmark, Stockholm county, 25/5 1880, son of saddler's master P E and Carolina Pettersson, m. Hanna Carlsson. Employed in Gävle 1897-1899, in Stockholm 1899-1909, started a saddlery and carpet shop, owned by E G Edhlund, in Örebro in 1909. Member of Örebro City's Manufacturing and Crafts Association, Swedish Saddlers' and Upholsterers' Master's Federation, and others. Received master's certificate in 1943. Hobbies: Fishing and weaving, Greek mythology, and Latin.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Ernst Gustaf Edhlund",
+        "birthDate": "1880-05-25",
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Forsmark, Stockholm county"
+        },
+        "father": {
+            "@type": "Person",
+            "name": "P E Edhlund"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Carolina Pettersson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Hanna Carlsson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Örebro City's Manufacturing and Crafts Association"
+            }
+        ],
+        "occupation": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Saddler's Assistant",
+                "startDate": "1897-01-01",
+                "endDate": "1899-12-31",
+                "namedPosition": "Gävle"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Saddler's Assistant",
+                "startDate": "1899-01-01",
+                "endDate": "1909-12-31",
+                "namedPosition": "Stockholm"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Owner",
+                "startDate": "1909-01-01",
+                "namedPosition": "Saddlery and Carpet Shop",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "E G Edhlund"
+                },
+                "location": {
+                    "@type": "Place",
+                    "name": "Örebro"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Saddlers' and Upholsterers' Master's Federation"
+            },
+            {
+                "@type": "Organization",
+                "name": "Örebro City's Manufacturing and Crafts Association"
+            }
+        ],
+        "hobbies": [
+            "Fishing",
+            "Weaving",
+            "Greek mythology",
+            "Latin"
+        ],
+        "honorificSuffix": "Master's Certificate"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Saddler's Assistant",
+                "workplace": "Gävle",
+                "industry": "Saddlery",
+                "start_date": "1897"
+            },
+            {
+                "occupational_title": "Saddler's Assistant",
+                "workplace": "Stockholm",
+                "industry": "Saddlery",
+                "start_date": "1899"
+            },
+            {
+                "occupational_title": "Saddler's Assistant",
+                "workplace": "Örebro",
+                "industry": "Saddlery",
+                "start_date": "1909"
+            }
+        ]
+    }
+}

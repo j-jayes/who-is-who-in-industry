@@ -1,0 +1,71 @@
+{
+    "original": "DEIJENBERG, Victor, Köpman, Landskrona, f Gbg 6/1 97, gm Stina Persson. Studex Gbgs h reallärov 15, Gbgs hdlsinst 16. Anst öl engrosfmor. Gr eg fma i Gbg 22, vkst dir ds eftr Landskrona Imp- o Exp AB, gr 26, AB 34.",
+    "translated": "DEIJENBERG, Victor, Merchant, Landskrona, born in Gothenburg on January 6, 1897, married to Stina Persson. Completed his studies at Gothenburg's upper secondary school (högre reallärov) at the age of 15, and at the Gothenburg Commerce Institute (hdlsinst) at 16. Employed at a wholesale brewery. Started his own business in Gothenburg in 1922, became a managing director after joining Landskrona Import and Export AB in 1926, and finally formed AB in 1934.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Victor Deijenberg",
+        "jobTitle": "Merchant",
+        "birthDate": "1897-01-06",
+        "birthPlace": "Gothenburg",
+        "spouse": "Stina Persson",
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Gothenburg's upper secondary school",
+                "endDate": "1912"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Gothenburg Commerce Institute",
+                "endDate": "1913"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Wholesale Brewery"
+            },
+            {
+                "@type": "Organization",
+                "name": "Landskrona Import and Export AB",
+                "startDate": "1926",
+                "endDate": "1934",
+                "jobTitle": "Managing Director"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB",
+                "startDate": "1934"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Landskrona",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Employee at a wholesale brewery",
+                "workplace": "Unknown",
+                "industry": "Wholesale Brewery",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "Landskrona Import and Export AB",
+                "industry": "Import and Export",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Founder",
+                "workplace": "AB",
+                "industry": "Unknown",
+                "start_date": "1934"
+            }
+        ]
+    }
+}

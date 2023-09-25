@@ -1,0 +1,140 @@
+{
+    "original": "FANT, Harald, Diplomingenjör, Östrand, f Sthlm 3/2 98 av fäng.dir E F L F o Emmy Wennerström, gm Karin Nordqvist. Studex Sthlm 17, dipl fr Techn Hochschule Aachen 23. Lab.ch v Höganäs-Billesholm AB 24—27, kem v AB Stollbergs gruvor o anrikn.verk 27—29, driftsing v AB Axel Christiernssons kem tekn fabr 29, fabr.ing v AB Tekno-Normas kem tekn fabr 30—31, kem v Sv cellulosa AB:s centrallab östrand sed. 33. Led Sv Tekn.frn o Sv Pappers- o Cellulosaing.frn. Hobbies: Musik, Skytte.",
+    "translated": "FANT, Harald, Diplom Engineer, Östrand, b Stockholm 3/2 98, son of prison director E F L F and Emmy Wennerström, married to Karin Nordqvist. Graduated from Stockholm 17, received diploma from Technische Hochschule Aachen in 23. Laboratory chemist at Höganäs-Billesholm AB 24—27, chemist at AB Stollbergs mining and processing plant 27—29, operations engineer at AB Axel Christiernssons chemical technical factory 29, factory engineer at AB Tekno-Normas chemical technical factory 30—31, chemist at Sv cellulosa AB's central laboratory in Östrand since 33. Member of the Swedish Engineering Association and the Swedish Association of Paper and Cellulose Engineers. Hobbies: Music, Shooting.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Harald Fant",
+        "birthDate": "1898-02-03",
+        "birthPlace": "Stockholm",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "E F L F",
+                "jobTitle": "Prison Director"
+            },
+            {
+                "@type": "Person",
+                "name": "Emmy Wennerström"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Karin Nordqvist"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "diploma",
+                "credentialSubject": "Engineering",
+                "educationalLevel": "graduate",
+                "awardingInstitution": {
+                    "@type": "EducationalOrganization",
+                    "name": "Technische Hochschule Aachen"
+                },
+                "awardDate": "1923"
+            }
+        ],
+        "work": [
+            {
+                "@type": "JobPosting",
+                "title": "Laboratory Chemist",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Höganäs-Billesholm AB"
+                },
+                "startDate": "1924",
+                "endDate": "1927"
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Chemist",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "AB Stollbergs mining and processing plant"
+                },
+                "startDate": "1927",
+                "endDate": "1929"
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Operations Engineer",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "AB Axel Christiernssons chemical technical factory"
+                },
+                "startDate": "1929"
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Factory Engineer",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "AB Tekno-Normas chemical technical factory"
+                },
+                "startDate": "1930",
+                "endDate": "1931"
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Chemist",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Sv cellulosa AB's central laboratory in Östrand"
+                },
+                "startDate": "1933"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Engineering Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Association of Paper and Cellulose Engineers"
+            }
+        ],
+        "sameAs": [
+            "https://www.example.com/harald-fant"
+        ],
+        "hobbies": [
+            "Music",
+            "Shooting"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Laboratory chemist",
+                "workplace": "Höganäs-Billesholm AB",
+                "industry": "Mining and processing",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Chemist",
+                "workplace": "AB Stollbergs",
+                "industry": "Mining and processing",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Operations engineer",
+                "workplace": "AB Axel Christiernssons",
+                "industry": "Chemical technical factory",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Factory engineer",
+                "workplace": "AB Tekno-Normas",
+                "industry": "Chemical technical factory",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Chemist",
+                "workplace": "Sv cellulosa AB's central laboratory",
+                "industry": "Cellulose production",
+                "start_date": "1933"
+            }
+        ]
+    }
+}

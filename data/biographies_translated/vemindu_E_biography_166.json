@@ -1,0 +1,134 @@
+{
+    "original": "ENESTRÖM, Wilhelm Henrik, Direktör, Stockholm, f Norrköping 25/4 84 av fabr.idk C M E o Agnes Hellgren, gm Iris Pallin. Hal, hdlsinst. Kass o disp AB Hudiksvalls Textilfabr Hdsv 05—13, insp Sthlms Köpm.frn 14—18, ch ds Sthlmsavd 19—27, vkst dir sed. 28. Sekr o omb.m Jordbr.mask.frn o a likn sammanslutn. Av länsstyr förordn minoritetsrevisor. Resor: Tyskl, Ital, Frankr, Danm, Norge, Finl. RVO; Frimurare, Sthlms Köp-m.klb mfl. Hobbies: Segling, fiske.",
+    "translated": "ENESTRÖM, Wilhelm Henrik, Director, Stockholm, born in Norrköping on April 25th, 1884, son of factory owner C M E and Agnes Hellgren, married to Iris Pallin. Educated in commerce. Cashier and manager at AB Hudiksvalls Textile Factory from 1905 to 1913, inspector at Stockholm Merchants' Association from 1914 to 1918, head of the Stockholm branch from 1919 to 1927, and vice director since 1928. Secretary and representative in agricultural machinery associations and similar organizations. Appointed minority auditor by the county council. Traveled to Germany, Italy, France, Denmark, Norway, Finland. Received Royal Order of Vasa (RVO); member of Freemasonry, Stockholm Merchants' Club, and others. Hobbies include sailing and fishing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Wilhelm Henrik Eneström",
+        "birthDate": "1884-04-25",
+        "birthPlace": "Norrköping, Sweden",
+        "nationality": "Swedish",
+        "jobTitle": "Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm",
+            "addressCountry": "Sweden"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "C M E Eneström",
+                "jobTitle": "Factory Owner"
+            },
+            {
+                "@type": "Person",
+                "name": "Agnes Hellgren"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Iris Pallin"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "educationalLevel": "Commerce"
+        },
+        "affiliation": [
+            {
+                "@type": "Organization",
+                "name": "AB Hudiksvalls Textile Factory",
+                "jobTitle": "Cashier and Manager",
+                "startDate": "1905",
+                "endDate": "1913"
+            },
+            {
+                "@type": "Organization",
+                "name": "Stockholm Merchants' Association",
+                "jobTitle": "Inspector",
+                "startDate": "1914",
+                "endDate": "1918"
+            },
+            {
+                "@type": "Organization",
+                "name": "Stockholm Merchants' Association",
+                "jobTitle": "Head of Stockholm Branch",
+                "startDate": "1919",
+                "endDate": "1927"
+            },
+            {
+                "@type": "Organization",
+                "name": "Stockholm Merchants' Association",
+                "jobTitle": "Vice Director",
+                "startDate": "1928"
+            }
+        ],
+        "keywords": [
+            "Royal Order of Vasa",
+            "Freemasonry",
+            "Stockholm Merchants Club"
+        ],
+        "sameAs": [
+            "https://www.example.com/wilhelm-henrik-enestrom"
+        ],
+        "knowsAbout": [
+            "Segling",
+            "Fiske"
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Frimurare"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sthlms Köp-m.klb"
+            }
+        ],
+        "additionalProperty": [
+            {
+                "@type": "PropertyValue",
+                "name": "Resor",
+                "value": "Tyskl, Ital, Frankr, Danm, Norge, Finl"
+            },
+            {
+                "@type": "PropertyValue",
+                "name": "Minoritetsrevisor",
+                "value": "Av länsstyr förordn"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Cashier",
+                "workplace": "AB Hudiksvalls Textile Factory",
+                "industry": "Textile",
+                "start_date": "1905"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "AB Hudiksvalls Textile Factory",
+                "industry": "Textile",
+                "start_date": "1905"
+            },
+            {
+                "occupational_title": "Inspector",
+                "workplace": "Stockholm Merchants' Association",
+                "industry": "Commerce",
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Head of Stockholm branch",
+                "workplace": "Stockholm Merchants' Association",
+                "industry": "Commerce",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Vice Director",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "1928"
+            }
+        ]
+    }
+}

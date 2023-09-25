@@ -1,0 +1,117 @@
+{
+    "original": "ENGFORS, Bror Göte Oskar, Bankdirektör, Stockholm, f Hbg 1/12 03 av tågmäst A E o Maria Brorsson, gm Märta Kock. Studex Hbg 22, ek ex HHS 24. Anst Sth Enskilda bk 25—26, sekr Varudistrib.komm 27—28, förest Ensk bk statist avd 29—38, dir.ass 39, dir 43. Ind.-komm prisbyrå 40, led krisrevisionen 42. Styr.led AB Åkerlund &amp; Rausing.",
+    "translated": "ENGFORS, Bror Göte Oskar, Bank Director, Stockholm, b. Hbg [Helsingborg] 1/12 03, son of train master A E and Maria Brorsson, m. [married to] Märta Kock. Graduated from Hbg 22, completed business studies at HHS [Handelshögskolan] 24. Employed at Sth [Stockholm] Enskilda bank 25-26, secretary at Varudistrib.komm [Trading Distribution Committee] 27-28, head of statistics department at Ensk bank 29-38, assistant director 39, director 43. Member of the Industrial Committee's price office 40, leader of crisis revision 42. Board member of AB Åkerlund & Rausing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Bror Göte Oskar Engfors",
+        "jobTitle": "Bank Director",
+        "birthDate": "1903-12-01",
+        "birthPlace": "Helsingborg",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "A E Engfors",
+                "jobTitle": "Train Master"
+            },
+            {
+                "@type": "Person",
+                "name": "Maria Brorsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Märta Kock"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Graduation",
+            "alumniOf": {
+                "@type": "School",
+                "name": "Helsingborg",
+                "endDate": "1922"
+            }
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Ensk bk",
+            "department": {
+                "@type": "Organization",
+                "name": "Statistics Department",
+                "startDate": "1929",
+                "endDate": "1938"
+            },
+            "jobTitle": "Assistant Director",
+            "startDate": "1939",
+            "endDate": "1943"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Industrial Committee",
+                "department": {
+                    "@type": "Organization",
+                    "name": "Price Office",
+                    "startDate": "1940",
+                    "endDate": "1940"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Crisis Revision",
+                "startDate": "1942",
+                "endDate": "1942"
+            }
+        ],
+        "boardMember": {
+            "@type": "Organization",
+            "name": "AB Åkerlund & Rausing"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Bank Director",
+                "workplace": "Stockholm Enskilda bank",
+                "industry": "Banking",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Secretary",
+                "workplace": "Varudistrib.komm",
+                "industry": "Unknown",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Head of Statistics Department",
+                "workplace": "Ensk bank",
+                "industry": "Banking",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Assistant Director",
+                "workplace": "Ensk bank",
+                "industry": "Banking",
+                "start_date": "1939"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Ensk bank",
+                "industry": "Banking",
+                "start_date": "1943"
+            },
+            {
+                "occupational_title": "Member of the Industrial Committee's Price Office",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "1940"
+            },
+            {
+                "occupational_title": "Leader of Crisis Revision",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "1942"
+            }
+        ]
+    }
+}

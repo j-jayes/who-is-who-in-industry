@@ -1,0 +1,111 @@
+{
+    "original": "FUREN, Olof Oscar, Disponent, Broakulla, f Målerås, Kronob l, 26/9 00 av br.äg F O Johansson o Ida Ottosson, gm Linnea Kobel. Hal, hdlsgymn, tekn skogs- o sågvkssk, hdlssk i Tyskl. Br.tjm AB Johansfors Glasbr 22—26, inneh Furens Bosättn.aff Hälsing-borg 27—38, disp AB Johansfors Glasbr sed. 34, styr.led där o Sv Hushållsglasfabrik frn, Växjö. Resor: Skand o Tyskl så gott s årl, Tjeckoslov, Engl. Frimurare (VIII). Hobbies: Jakt, fiske.",
+    "translated": "FUREN, Olof Oscar, Manager, Broakulla, born in Målerås, Kronoberg county, on September 26, 1900, son of farm owner F O Johansson and Ida Ottosson, married to Linnea Kobel. Completed elementary school and attended technical forestry and sawmill schools as well as trade school in Germany. Worked as a shop assistant at AB Johansfors Glassworks from 1922 to 1926, then became the owner of Furen's Settlement Store in Hälsingborg from 1927 to 1938. Appointed manager of AB Johansfors Glassworks in 1934 and served as a board member there and at the Swedish Household Glass Factory in Växjö. Traveled extensively in Scandinavia and Germany, as well as Czechoslovakia and England. Member of the Freemasons (Level VIII). Hobbies include hunting and fishing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Olof Oscar Furen",
+        "birthDate": "1900-09-26",
+        "birthPlace": {
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Målerås",
+                "addressRegion": "Kronoberg County",
+                "addressCountry": "Sweden"
+            }
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "F O Johansson"
+            },
+            {
+                "@type": "Person",
+                "name": "Ida Ottosson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Linnea Kobel"
+        },
+        "occupation": "Manager",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Broakulla",
+            "addressCountry": "Sweden"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Hal, hdlsgymn"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Technical Forestry and Sawmill Schools"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Trade School in Germany"
+            }
+        ],
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "AB Johansfors Glassworks",
+                "startDate": "1922",
+                "endDate": "1926",
+                "jobTitle": "Shop Assistant"
+            },
+            {
+                "@type": "Organization",
+                "name": "Furen's Settlement Store",
+                "startDate": "1927",
+                "endDate": "1938",
+                "jobTitle": "Owner"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Johansfors Glassworks",
+                "startDate": "1934",
+                "jobTitle": "Manager"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Household Glass Factory",
+                "jobTitle": "Board Member"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Freemasons",
+            "sameAs": "https://www.example.com/freemasons-level-viii"
+        },
+        "interest": [
+            "Hunting",
+            "Fishing"
+        ],
+        "sameAs": "https://www.example.com/olof-oscar-furen"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Shop Assistant",
+                "workplace": "AB Johansfors Glassworks",
+                "industry": "Glass manufacturing",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "Furen's Settlement Store",
+                "industry": "Retail",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "AB Johansfors Glassworks",
+                "industry": "Glass manufacturing",
+                "start_date": "1934"
+            }
+        ]
+    }
+}

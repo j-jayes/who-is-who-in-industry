@@ -1,0 +1,141 @@
+{
+    "original": "FREY, Guy S:son, Fil Lic, Laboratoriechef, Äppelviken (Sthlm), f Krsthamn 1/1 04 av prof F H Svensson o Clary Ohlsson, gm Lisa Bucht. Studex Upps 21, stud v Upps univ 21—26, fil kand där 26. Assist i teor kemi o elektrokemi v KTH 26—27, l:e assist v elek-trokem lab där 27—36, stud StHS 32—33, fil lic där 33, tf prof i teor kemi o elektrokemi v KTH 33—36, lab.förest o driftschef v AB Joh Ohlssons Tekn Fabrik, Sthlm, sed. 36 o led av dess styr sed. 30. Styr.ordf l:e assistenternas frn v KTH 32—36. VA:s Lindbomska belöning 33. Led Sv Tekn.frn sed. 33, styr.led dess avd T 35—36, avd K—B 43—44.",
+    "translated": "FREY, Guy S:son, MSc, Laboratory Manager, Äppelviken (Stockholm), born in Krsthamn on January 1, 1904, son of Professor F. H. Svensson and Clary Ohlsson, married to Lisa Bucht. Graduated from Uppsala University in 1921, studied at Uppsala University from 1921 to 1926, obtaining a Bachelor of Philosophy degree in 1926. Assistant in theoretical chemistry and electrochemistry at the Royal Institute of Technology (KTH) from 1926 to 1927, senior assistant in the electrochemistry laboratory at KTH from 1927 to 1936. Studied at Stockholm High Technical School (StHS) from 1932 to 1933, obtained a Master of Philosophy degree from StHS in 1933, and served as acting professor of theoretical chemistry and electrochemistry at KTH from 1933 to 1936. Laboratory manager and head of operations at AB Joh Ohlssons Tekniska Fabrik in Stockholm from 1936, and a member of its board since 1930. Chairman of the Association of Assistants at KTH from 1932 to 1936. Received the Lindbom Prize from the Royal Swedish Academy of Sciences in 1933. Member of the Swedish Technical Association since 1933, and member of its board for the T section from 1935 to 1936, and for the K-B section from 1943 to 1944.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Guy",
+        "additionalName": "S:son",
+        "familyName": "Frey",
+        "birthDate": "1904-01-01",
+        "birthPlace": "Krsthamn",
+        "parents": [
+            {
+                "@type": "Person",
+                "givenName": "F H",
+                "familyName": "Svensson",
+                "jobTitle": "Professor"
+            },
+            {
+                "@type": "Person",
+                "givenName": "Clary",
+                "familyName": "Ohlsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "givenName": "Lisa",
+            "familyName": "Bucht"
+        },
+        "educationalCredentialAwarded": "MSc",
+        "alumniOf": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Uppsala University",
+                "startDate": "1921",
+                "endDate": "1926"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Stockholm High Technical School",
+                "startDate": "1932",
+                "endDate": "1933",
+                "educationalCredentialAwarded": "Master of Philosophy"
+            }
+        ],
+        "jobTitle": "Laboratory Manager",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "AB Joh Ohlssons Tekniska Fabrik",
+            "startDate": "1936",
+            "memberOf": {
+                "@type": "Organization",
+                "name": "Swedish Technical Association",
+                "startDate": "1933",
+                "boardMember": [
+                    {
+                        "@type": "OrganizationRole",
+                        "startDate": "1935",
+                        "endDate": "1936",
+                        "memberOf": {
+                            "@type": "Organization",
+                            "name": "T section"
+                        }
+                    },
+                    {
+                        "@type": "OrganizationRole",
+                        "startDate": "1943",
+                        "endDate": "1944",
+                        "memberOf": {
+                            "@type": "Organization",
+                            "name": "K-B section"
+                        }
+                    }
+                ]
+            }
+        },
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Association of Assistants at KTH",
+            "startDate": "1932",
+            "endDate": "1936",
+            "chair": "Chairman"
+        },
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "Royal Institute of Technology (KTH)",
+                "startDate": "1926",
+                "endDate": "1927",
+                "position": {
+                    "@type": "JobRole",
+                    "title": "Assistant in theoretical chemistry and electrochemistry"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Royal Institute of Technology (KTH)",
+                "startDate": "1927",
+                "endDate": "1936",
+                "position": {
+                    "@type": "JobRole",
+                    "title": "Senior assistant in the electrochemistry laboratory"
+                }
+            }
+        ],
+        "award": {
+            "@type": "Achievement",
+            "name": "Lindbom Prize",
+            "awardedBy": "Royal Swedish Academy of Sciences",
+            "awardDate": "1933"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Assistant in theoretical chemistry and electrochemistry",
+                "workplace": "Royal Institute of Technology (KTH)",
+                "industry": "Education/Research",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Senior assistant in the electrochemistry laboratory",
+                "workplace": "Royal Institute of Technology (KTH)",
+                "industry": "Education/Research",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Acting professor of theoretical chemistry and electrochemistry",
+                "workplace": "Royal Institute of Technology (KTH)",
+                "industry": "Education/Research",
+                "start_date": "1933"
+            },
+            {
+                "occupational_title": "Laboratory manager and head of operations",
+                "workplace": "AB Joh Ohlssons Tekniska Fabrik",
+                "industry": "Manufacturing",
+                "start_date": "1936"
+            }
+        ]
+    }
+}

@@ -1,0 +1,201 @@
+{
+    "original": "FRAENCKEI,, Gösta Josef, Herr, Göteborg, f Gbg 20/7 85 av grhdl Moritz F o Amelie Bensow, gm Hervor Hjelt. Studex 04, studieresor i Tyskl o Frankr 06—08. Ulöjtn i Göta art.reg:s res 06—11, löjtn 16—19. Deläg i Moritz Fraenckel &amp; Co 09, inneh av fman sed. 11. Styr.led i Elektrokem AB, KAK, KSAK o Aeroklubben i Gbg samt medl av AA, PB samt ett 100-tal andra föreningar o klubbar. Resor: Flert europ länder, oftast m bil o flyg, samt Nordafr o USA. Av trycket: Reseberättelser fr Afr o Finl samt tidn.artiklar. GV:s Jmt, RNO, KTunNI, RFinlVRO, KAK:s GM o föraregm, KSAK :s SM, Sv Mosskultur-frns GM, Västg-Dals Skyttefrbs GM. LLA. Hobbies: Bil o flyg.",
+    "translated": "FRAENCKEI, Gösta Josef, Mr., Gothenburg, b. Gothenburg 20/7 85, son of merchant Moritz F and Amelie Bensow, married to Hervor Hjelt. Graduated 1904, study trips to Germany and France 06-08. Second Lieutenant in the reserve of the Göta artillery regiment, 06-11, Lieutenant 16-19. Co-owner of Moritz Fraenckel &amp; Co. from 1909, sole owner since 1911. Board member of Elektrokem AB, KAK, KSAK and the Aero Club in Gothenburg, as well as member of AA, PB and about 100 other associations and clubs. Travelled to several European countries, mostly by car and plane, as well as North Africa and the USA. Published travel narratives from Africa and Finland, as well as articles in newspapers. GV's Jmt, RNO, KTunNI, RFinlVRO, KAK's GM and driver's license, KSAK's SM, GM of Swedish Moss Culture Association, GM of Västgöta-Dal's Shooting Association. LLA. Hobbies: Cars and aviation.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Gösta Josef Fraenckei",
+        "givenName": "Gösta Josef",
+        "familyName": "Fraenckei",
+        "gender": "Male",
+        "birthDate": "1885-07-20",
+        "birthPlace": "Gothenburg",
+        "nationality": "Swedish",
+        "description": "Mr., Co-owner of Moritz Fraenckel & Co, Board member of Elektrokem AB, KAK, KSAK and the Aero Club in Gothenburg",
+        "sameAs": "https://example.com/gosta-josef-fraenckei",
+        "spouse": {
+            "@type": "Person",
+            "name": "Hervor Hjelt"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Moritz F"
+            },
+            {
+                "@type": "Person",
+                "name": "Amelie Bensow"
+            }
+        ],
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "diploma",
+            "credentialLevel": {
+                "@type": "DefinedTerm",
+                "name": "Graduated"
+            },
+            "dateIssued": "1904"
+        },
+        "workExperience": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1909",
+                "endDate": "1911",
+                "roleName": "Co-owner",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Moritz Fraenckel & Co"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1906",
+                "endDate": "1919",
+                "roleName": "Lieutenant",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Göta Artillery Regiment"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Elektrokem AB"
+            },
+            {
+                "@type": "Organization",
+                "name": "KAK"
+            },
+            {
+                "@type": "Organization",
+                "name": "KSAK"
+            },
+            {
+                "@type": "Organization",
+                "name": "Aero Club in Gothenburg"
+            },
+            {
+                "@type": "Organization",
+                "name": "AA"
+            },
+            {
+                "@type": "Organization",
+                "name": "PB"
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "Place",
+                "name": "Germany"
+            },
+            {
+                "@type": "Place",
+                "name": "France"
+            },
+            {
+                "@type": "Place",
+                "name": "North Africa"
+            },
+            {
+                "@type": "Place",
+                "name": "USA"
+            }
+        ],
+        "publications": [
+            "Travel narratives from Africa and Finland",
+            "Articles in newspapers"
+        ],
+        "honors": [
+            {
+                "@type": "Order",
+                "name": "GV's Jmt"
+            },
+            {
+                "@type": "Order",
+                "name": "RNO"
+            },
+            {
+                "@type": "Order",
+                "name": "KTunNI"
+            },
+            {
+                "@type": "Order",
+                "name": "RFinlVRO"
+            },
+            {
+                "@type": "Order",
+                "name": "KAK's GM"
+            },
+            {
+                "@type": "Order",
+                "name": "KSAK's SM"
+            },
+            {
+                "@type": "Order",
+                "name": "GM of Swedish Moss Culture Association"
+            },
+            {
+                "@type": "Order",
+                "name": "GM of Västgöta-Dal's Shooting Association"
+            },
+            {
+                "@type": "DefinedTerm",
+                "name": "LLA"
+            }
+        ],
+        "hobbies": "Cars and aviation"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Second Lieutenant",
+                "workplace": "Göta artillery regiment",
+                "industry": "Military",
+                "start_date": "1906"
+            },
+            {
+                "occupational_title": "Lieutenant",
+                "workplace": "Göta artillery regiment",
+                "industry": "Military",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Co-owner",
+                "workplace": "Moritz Fraenckel & Co.",
+                "industry": "Merchant",
+                "start_date": "1909"
+            },
+            {
+                "occupational_title": "Sole owner",
+                "workplace": "Moritz Fraenckel & Co.",
+                "industry": "Merchant",
+                "start_date": "1911"
+            },
+            {
+                "occupational_title": "Board member",
+                "workplace": "Elektrokem AB",
+                "industry": "Chemical",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Board member",
+                "workplace": "KAK",
+                "industry": "Automobile",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Board member",
+                "workplace": "KSAK",
+                "industry": "Aviation",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Board member",
+                "workplace": "Aero Club in Gothenburg",
+                "industry": "Aviation",
+                "start_date": ""
+            }
+        ]
+    }
+}

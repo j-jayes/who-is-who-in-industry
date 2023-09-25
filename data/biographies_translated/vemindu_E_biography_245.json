@@ -1,0 +1,123 @@
+{
+    "original": "ERIKSSON, Axel Emil, Direktör, Göteborg, f Gbg 5/5 70 av dir J A E o Anna Eriksson, gm Elvira Andersson. 5 kl GbgReal. Anst h Adolf Bratt Gbg 85—90, deläg fma J A Eriksson &amp; Son 95, vkst dir dta AB (21) sed. 21 o Bogserings AB Stormking Gbg sed. 27. Styr.led AB Linné Dahllöf Gbg. Resor: USA 90— 94, Engl, Tyskl, Frankr, Holl, Belg, Span, Port, Medelhavsland, Palestina, Egypt. Odd Fellow, Göta Coldinu, Par Bricole. Hobby: Konst.",
+    "translated": "ERIKSSON, Axel Emil, Director, Gothenburg, b. Gothenburg 5/5 1870, son of director J A E and Anna Eriksson, m. Elvira Andersson. Attended level 5 at Gothenburg Real School. Employed at Adolf Bratt Gothenburg 1885-1890, co-owner of J A Eriksson & Son 1895, executive director at dta AB since 1921 and at Bogserings AB Stormking Gothenburg since 1927. Board member at AB Linné Dahllöf Gothenburg. Travels: USA 1890-1894, England, Germany, France, Netherlands, Belgium, Spain, Portugal, Mediterranean countries, Palestine, Egypt. Member of Odd Fellow, Göta Coldinu, Par Bricole. Hobby: Art.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Axel Emil Eriksson",
+        "birthDate": "1870-05-05",
+        "birthPlace": "Gothenburg",
+        "description": "Director, Gothenburg",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "J A E Eriksson"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Eriksson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Elvira Andersson"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "level5",
+            "educationLevel": "HighSchool",
+            "provider": {
+                "@type": "Organization",
+                "name": "Gothenburg Real School"
+            }
+        },
+        "employment": [
+            {
+                "@type": "Organization",
+                "name": "Adolf Bratt Gothenburg",
+                "startDate": "1885",
+                "endDate": "1890"
+            },
+            {
+                "@type": "Organization",
+                "name": "J A Eriksson & Son",
+                "startDate": "1895",
+                "roleName": "Co-owner"
+            },
+            {
+                "@type": "Organization",
+                "name": "dta AB",
+                "startDate": "1921",
+                "roleName": "Executive Director"
+            },
+            {
+                "@type": "Organization",
+                "name": "Bogserings AB Stormking Gothenburg",
+                "startDate": "1927",
+                "roleName": "Executive Director"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Linné Dahllöf Gothenburg",
+                "roleName": "Board Member"
+            }
+        ],
+        "travelHistory": "Traveled to USA (1890-1894), England, Germany, France, Netherlands, Belgium, Spain, Portugal, Mediterranean countries, Palestine, and Egypt",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Odd Fellow"
+            },
+            {
+                "@type": "Organization",
+                "name": "Göta Coldinu"
+            },
+            {
+                "@type": "Organization",
+                "name": "Par Bricole"
+            }
+        ],
+        "hobby": "Art"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Gothenburg",
+                "industry": "",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Adolf Bratt Gothenburg",
+                "industry": "",
+                "start_date": "1885-01-01",
+                "end_date": "1890-12-31"
+            },
+            {
+                "occupational_title": "Co-owner",
+                "workplace": "J A Eriksson & Son",
+                "industry": "",
+                "start_date": "1895-01-01"
+            },
+            {
+                "occupational_title": "Executive Director",
+                "workplace": "dta AB",
+                "industry": "",
+                "start_date": "1921-01-01"
+            },
+            {
+                "occupational_title": "Executive Director",
+                "workplace": "Bogserings AB Stormking Gothenburg",
+                "industry": "",
+                "start_date": "1927-01-01"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "AB Linné Dahllöf Gothenburg",
+                "industry": "",
+                "start_date": ""
+            }
+        ]
+    }
+}

@@ -1,0 +1,136 @@
+{
+    "original": "ERICSSON, Conrad Thore, Direktör, Civilingenjör, Eksjö, f Sthlm 10/8 04 av gross-handl C Th E o Hildegard Blomquist. Studex SLatin 23, KTH 23—28, avg.ex sistn år. Anst h Sv Tändsticks AB, Sthlm, 28, v dess dtr-bol The Western India Match Co, Bombay, 29—32 o v Union Allumettiére, Brux, 33 samt v Jönkpg &amp; Vulcans Tändsticksfabr AB Jön-kpg, 35—36, vkst dir Sv Vaxduks AB, Jönkpg, sed. 36. Led Sv Tekn.frn.",
+    "translated": "ERICSSON, Conrad Thore, Director, Civil Engineer, Eksjö, b. Stockholm 10/8 04, son of merchant C Th E and Hildegard Blomquist. Graduated SLatin 23, KTH 23-28, passed exams last year. Employed at Sv Tändsticks AB, Stockholm, 28, moved to its subsidiary The Western India Match Co, Bombay, 29-32, then to Union Allumettiére, Brussels, 33, and Jönkpg & Vulcans Tändsticksfabr AB Jönkpg, 35-36. Currently serving as Managing Director of Sv Vaxduks AB, Jönkpg, since 1936. Member of Swedish Engineering Association.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Conrad Thore Ericsson",
+        "birthDate": "1904-08-10",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Stockholm"
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "C Th E Ericsson",
+                "relation": "father",
+                "occupation": "merchant"
+            },
+            {
+                "@type": "Person",
+                "name": "Hildegard Blomquist",
+                "relation": "mother"
+            }
+        ],
+        "education": [
+            {
+                "@type": "CollegeOrUniversity",
+                "name": "SLatin",
+                "endDate": "1923"
+            },
+            {
+                "@type": "CollegeOrUniversity",
+                "name": "KTH",
+                "startDate": "1923",
+                "endDate": "1928"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "Sv Tändsticks AB",
+                "startDate": "1928",
+                "endDate": "1936",
+                "location": {
+                    "@type": "City",
+                    "name": "Stockholm"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "The Western India Match Co",
+                "startDate": "1929",
+                "endDate": "1932",
+                "location": {
+                    "@type": "City",
+                    "name": "Bombay"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Union Allumettiére",
+                "startDate": "1933",
+                "endDate": "1933",
+                "location": {
+                    "@type": "City",
+                    "name": "Brussels"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Jönkpg & Vulcans Tändsticksfabr AB",
+                "startDate": "1935",
+                "endDate": "1936",
+                "location": {
+                    "@type": "City",
+                    "name": "Jönkpg"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Sv Vaxduks AB",
+                "startDate": "1936",
+                "location": {
+                    "@type": "City",
+                    "name": "Jönkpg"
+                },
+                "jobTitle": "Managing Director"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Swedish Engineering Association"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Sv Vaxduks AB",
+                "industry": "Textile industry",
+                "start_date": "1936"
+            },
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Jönkpg & Vulcans Tändsticksfabr AB",
+                "industry": "Matchstick industry",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "Sv Vaxduks AB",
+                "industry": "Textile industry",
+                "start_date": "1936"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Union Allumettiére",
+                "industry": "Matchstick industry",
+                "start_date": "1933"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "The Western India Match Co",
+                "industry": "Matchstick industry",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Sv Tändsticks AB",
+                "industry": "Matchstick industry",
+                "start_date": "1928"
+            }
+        ]
+    }
+}

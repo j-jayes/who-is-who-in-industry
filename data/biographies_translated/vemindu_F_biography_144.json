@@ -1,0 +1,78 @@
+{
+    "original": "FREDRIKSSON, Karl Evert, Direktör, Stockholm, f Gottröra, Uppl 15/2 03 av grhdl C F F o Elin Wall, gm Anna Jacobson. Studex, resoffex, prakt i utl. Anst Fredriksson &amp; Co AB fr 27, nu huv.deläg i detta. Timmerman.",
+    "translated": "FREDRIKSSON, Karl Evert, Director, Stockholm, born in Gottröra, Uppland on February 15, 1903, son of nobleman Carl Fredrik Fredriksson and Elin Wall, married to Anna Jacobson. Completed studies, served as a reserve officer, gained practical experience abroad. Employed at Fredriksson & Co AB since 1927, now a major shareholder. Carpenter by profession.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Karl Evert Fredriksson",
+        "jobTitle": "Director",
+        "birthDate": "1903-02-15",
+        "birthPlace": {
+            "@type": "Country",
+            "name": "Sweden"
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Carl Fredrik Fredriksson",
+                "jobTitle": "Nobleman"
+            },
+            {
+                "@type": "Person",
+                "name": "Elin Wall"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Anna Jacobson"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Studex"
+        },
+        "occupation": {
+            "@type": "Occupation",
+            "name": "Director"
+        },
+        "workExperience": {
+            "@type": "OrganizationRole",
+            "namedPosition": "Reserve Officer",
+            "startDate": "1927"
+        },
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Fredriksson & Co AB",
+            "founder": {
+                "@type": "Person",
+                "name": "Karl Evert Fredriksson"
+            },
+            "majorShareholder": [
+                {
+                    "@type": "Person",
+                    "name": "Karl Evert Fredriksson"
+                }
+            ]
+        },
+        "additionalProperty": {
+            "@type": "PropertyValue",
+            "name": "Profession",
+            "value": "Carpenter"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Carpenter",
+                "workplace": "Fredriksson & Co AB",
+                "industry": "Construction",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Fredriksson & Co AB",
+                "industry": "Business",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

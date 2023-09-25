@@ -1,0 +1,130 @@
+{
+    "original": "ELIASSON, Tor Axel Edvard, Direktör, Stockholm, f Sthlm 11/1 14 av grhdl Axel H E 0 Ester Sterner, gm Gunilla Florman. Studex 32; kav.sk 32—33, flygcertif 33, trafikflyg.-certif 38, res.förare i flygvapnet 39. Vkst dir 1 Sv Flygtjänst AB sed ds gr 35 o i AB Flygleveranser sed. ds gr 40. Styr.led Civ ryttar-frb. Resor: Engl, Frankr, Tyskl 33—38. Hobbies: Ridning, segling, skidåkning.",
+    "translated": "ELIASSON, Tor Axel Edvard, Director, Stockholm, b. Stockholm 11/1 14, son of captain Axel H E and Ester Sterner, m. Gunilla Florman. Graduated 1932; Cavalry School 1932—1933, aviation certificate 1933, commercial aviation certificate 1938, reserve driver in the Air Force 1939. Deputy CEO of 1 Sv Flygtjänst AB since 1935, and in AB Flygleveranser since 1940. Board member of the Civil Cavalry Association. Travelled to England, France, and Germany 1933—1938. Hobbies: horseback riding, sailing, skiing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Tor Axel Edvard Eliasson",
+        "description": "Director",
+        "birthDate": "1914-01-11",
+        "birthPlace": "Stockholm",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Axel H E Eliasson",
+                "relation": "father"
+            },
+            {
+                "@type": "Person",
+                "name": "Ester Sterner",
+                "relation": "mother"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Gunilla Florman",
+            "relation": "wife"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Graduate degree",
+                "credentialSubject": "Studex",
+                "dateEarned": "1932"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Cavalry School",
+                "dateEarned": "1932-1933"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Aviation Certificate",
+                "dateEarned": "1933"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Commercial Aviation Certificate",
+                "dateEarned": "1938"
+            }
+        ],
+        "workExperience": [
+            {
+                "@type": "JobPosting",
+                "title": "Deputy CEO",
+                "startDate": "1935",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "1 Sv Flygtjänst AB"
+                }
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Deputy CEO",
+                "startDate": "1940",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Flygleveranser"
+                }
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Civil Cavalry Association",
+            "position": "Board member"
+        },
+        "travel": [
+            {
+                "@type": "Trip",
+                "name": "England",
+                "startDate": "1933",
+                "endDate": "1933-12"
+            },
+            {
+                "@type": "Trip",
+                "name": "France",
+                "startDate": "1933",
+                "endDate": "1933-12"
+            },
+            {
+                "@type": "Trip",
+                "name": "Germany",
+                "startDate": "1938",
+                "endDate": "1938-12"
+            }
+        ],
+        "hobbies": [
+            "Horseback Riding",
+            "Sailing",
+            "Skiing"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Stockholm",
+                "industry": null,
+                "start_date": null
+            },
+            {
+                "occupational_title": "Deputy CEO",
+                "workplace": "1 Sv Flygtjänst AB",
+                "industry": null,
+                "start_date": 1935
+            },
+            {
+                "occupational_title": "Deputy CEO",
+                "workplace": "AB Flygleveranser",
+                "industry": null,
+                "start_date": 1940
+            },
+            {
+                "occupational_title": "Reserve Driver",
+                "workplace": "Air Force",
+                "industry": null,
+                "start_date": 1939
+            }
+        ]
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "original": "ERIKSSON, Arnold Laurentius, Kontorschef, Tureberg, f Sthlm 4/2 92 av polism J E o Mathilda Knape, gm Ester Blomquist. H a l, hdlslärov, språkstud. Kont h Graham Brothers AB 12—21, t j.m i Sthlms Frihamns AB 21—40, kont.ch där sed. 40. Ag fastigh Södra Häggvik 9 Sollentuna. Styr.led Sollent musik-sällsk o Sollent hembygdsfrn. Hobby: Musik.",
+    "translated": "ERIKSSON, Arnold Laurentius, Office Manager, Tureberg, b. Stockholm 4/2 92, son of police officer J E and Mathilda Knape, m. Ester Blomquist. High school graduate, language studies. Office at Graham Brothers AB 12-21, temporary employment at Sthlms Frihamns AB 21-40, office manager there since 40. Owns property at Södra Häggvik 9, Sollentuna. Board member of Sollentuna Music Society and Sollentuna Local Heritage Association. Hobby: Music.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Arnold Laurentius Eriksson",
+        "jobTitle": "Office Manager",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Graham Brothers AB"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sollentuna Music Society"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sollentuna Local Heritage Association"
+            }
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Södra Häggvik 9",
+            "addressLocality": "Sollentuna",
+            "addressRegion": "",
+            "postalCode": ""
+        },
+        "birthPlace": "Stockholm",
+        "birthDate": "1892-02-04",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "J E Eriksson"
+            },
+            {
+                "@type": "Person",
+                "name": "Mathilda Knape"
+            }
+        ],
+        "spouse": "Ester Blomquist",
+        "alumniOf": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "High school"
+            }
+        ],
+        "description": "High school graduate, language studies.",
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Sthlms Frihamns AB",
+                "startDate": "1921-00-00",
+                "endDate": "1940-00-00"
+            },
+            {
+                "@type": "Organization",
+                "name": "Graham Brothers AB",
+                "startDate": "1912-00-00",
+                "endDate": "1921-00-00"
+            }
+        ],
+        "hobby": "Music"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Office Manager",
+                "workplace": "Tureberg",
+                "industry": "",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "High school graduate",
+                "workplace": "",
+                "industry": "",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Office at Graham Brothers AB",
+                "workplace": "",
+                "industry": "",
+                "start_date": "1912"
+            },
+            {
+                "occupational_title": "Temporary employment at Sthlms Frihamns AB",
+                "workplace": "",
+                "industry": "",
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Office Manager at Sthlms Frihamns AB",
+                "workplace": "",
+                "industry": "",
+                "start_date": "1940"
+            }
+        ]
+    }
+}

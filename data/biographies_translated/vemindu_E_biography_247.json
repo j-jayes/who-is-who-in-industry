@@ -1,0 +1,89 @@
+{
+    "original": "ERIKSSON, Carl Fredrik, Kassör, Luleå, f Luleå 17/2 79 av arb And Eriksson o Margreta Andersson, gm Frida Burström. Folksk. Kont Norrb Brygg, Luleå, 94—07, kass AB Luleå Kol- o Mtrlaff 07—08, kass AB Luleå Brygg sed. 08. Huv.m Luleå sparbk. Hedersled Luleå SS, Odd Fellow, patrGM. Hobbies: Segl, fiske, jakt.",
+    "translated": "ERIKSSON, Carl Fredrik, Cashier, Luleå, b Luleå 17/2 79 son of worker Anders Eriksson and Margreta Andersson, m Frida Burström. Elementary school. Employed at Norrb Brygg, Luleå, 94—07, cashier at AB Luleå Kol- and Mtrlaff 07—08, cashier at AB Luleå Brygg since 08. Main member of Luleå savings bank. Honorary member of Luleå Swimming Society, Odd Fellow, Freemasons. Hobbies: Sailing, fishing, hunting.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Fredrik Eriksson",
+        "jobTitle": "Cashier",
+        "birthPlace": "Luleå",
+        "birthDate": "1879-02-17",
+        "father": "Anders Eriksson",
+        "mother": "Margreta Andersson",
+        "spouse": "Frida Burström",
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Elementary School"
+        },
+        "affiliation": {
+            "@type": "Organization",
+            "name": "AB Luleå Brygg",
+            "jobTitle": "Cashier",
+            "startDate": "2008"
+        },
+        "workExperience": [
+            {
+                "@type": "Organization",
+                "name": "Norrb Brygg, Luleå",
+                "jobTitle": "Employee",
+                "startDate": "1894",
+                "endDate": "1907"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Luleå Kol- and Mtrlaff",
+                "jobTitle": "Cashier",
+                "startDate": "1907",
+                "endDate": "1908"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Luleå savings bank",
+                "membershipType": "Main Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Luleå Swimming Society",
+                "membershipType": "Honorary Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Odd Fellow"
+            },
+            {
+                "@type": "Organization",
+                "name": "Freemasons",
+                "jobTitle": "PatrGM"
+            }
+        ],
+        "hobbies": [
+            "Sailing",
+            "Fishing",
+            "Hunting"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Cashier",
+                "workplace": "AB Luleå Brygg",
+                "industry": "Unknown",
+                "start_date": "08"
+            },
+            {
+                "occupational_title": "Cashier",
+                "workplace": "AB Luleå Kol- and Mtrlaff",
+                "industry": "Unknown",
+                "start_date": "07-08"
+            },
+            {
+                "occupational_title": "Employed",
+                "workplace": "Norrb Brygg",
+                "industry": "Unknown",
+                "start_date": "94-07"
+            }
+        ]
+    }
+}

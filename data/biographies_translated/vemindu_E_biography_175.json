@@ -1,0 +1,113 @@
+{
+    "original": "ENGER, Nils Ragnar Filip, direktör, Åmål, f Åmål 17/1 02 av fabr Per E o Hulda Igel, gm Majken Strandberg. Fil mag. Observator Abisko nat.vet.skapl stn 28—29, lärov.lär 35— 38, kamr AB P Enger (gr 97, AB 30) 39—41, dir. sed. 41. Styr.led i detta AB, AB Engers Konfektionsind, AB Västgöta Täckfabr, AB Blåkläder, Säffle Textil AB.",
+    "translated": "ENGER, Nils Ragnar Filip, director, Åmål, born in Åmål on 17th January 1902, son of factory owner Per E and Hulda Igel, married to Majken Strandberg. Master of Arts. Observer at Abisko scientific station 1928-1929, school teacher 1935-1938, clerk at AB P Enger (grad. 1897, AB 1930) 1939-1941, director since 1941. Board member in AB, AB Engers Konfektionsind, AB Västgöta Täckfabr, AB Blåkläder, Säffle Textil AB.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "givenName": "Nils",
+        "additionalName": "Ragnar Filip",
+        "familyName": "ENGER",
+        "jobTitle": "Director",
+        "birthDate": "1902-01-17",
+        "birthPlace": "Åmål",
+        "parent": [
+            {
+                "@type": "Person",
+                "givenName": "Per E",
+                "familyName": "ENGER",
+                "jobTitle": "Factory Owner"
+            },
+            {
+                "@type": "Person",
+                "givenName": "Hulda",
+                "familyName": "IGEL"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "givenName": "Majken",
+            "familyName": "Strandberg"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "master",
+            "educationalLevel": "Magister",
+            "educationalCredentialAwarded": "Fil mag."
+        },
+        "event": [
+            {
+                "@type": "ObservationEvent",
+                "name": "Abisko scientific station",
+                "startDate": "1928-01-01",
+                "endDate": "1929-12-31"
+            },
+            {
+                "@type": "EducationalOccupationalProgram",
+                "name": "School teacher",
+                "startDate": "1935-01-01",
+                "endDate": "1938-12-31"
+            },
+            {
+                "@type": "EmploymentEvent",
+                "employer": "AB P Enger",
+                "startDate": "1939-01-01",
+                "endDate": "1941-12-31",
+                "roleName": "Clerk",
+                "occupationLocation": "Åmål"
+            },
+            {
+                "@type": "EmploymentEvent",
+                "employer": "AB",
+                "roleName": "Board Member"
+            },
+            {
+                "@type": "EmploymentEvent",
+                "employer": "AB Engers Konfektionsind",
+                "roleName": "Board Member"
+            },
+            {
+                "@type": "EmploymentEvent",
+                "employer": "AB Västgöta Täckfabr",
+                "roleName": "Board Member"
+            },
+            {
+                "@type": "EmploymentEvent",
+                "employer": "AB Blåkläder",
+                "roleName": "Board Member"
+            },
+            {
+                "@type": "EmploymentEvent",
+                "employer": "Säffle Textil AB",
+                "roleName": "Board Member"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Observer",
+                "workplace": "Abisko scientific station",
+                "industry": "Scientific research",
+                "start_date": "1928-01-01"
+            },
+            {
+                "occupational_title": "School teacher",
+                "workplace": "Unknown",
+                "industry": "Education",
+                "start_date": "1935-01-01"
+            },
+            {
+                "occupational_title": "Clerk",
+                "workplace": "AB P Enger",
+                "industry": "Unknown",
+                "start_date": "1939-01-01"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "AB P Enger",
+                "industry": "Unknown",
+                "start_date": "1941-01-01"
+            }
+        ]
+    }
+}

@@ -1,0 +1,175 @@
+{
+    "original": "FRÖSEL.L,, Sven Erik, Kontorschef, Nyköping, f Sthlm 18/4 10 av lärov.adj E F o Lena Nyström, gm Margit Possman. Studex 28, DHS 33, spec.stud nation.ek o statist StHS 35 —36. Anst P A Norstedt &amp; Söner 29—31, Rietz Pappers AB 33—37, Maskinaff Carl Lamm AB 37—40, org.uppdr i Stat krigsförsäkr.nmd 40, AB Åtvidabergs Ind 41—42, kont.ch Wedholms, Sv Mejeriernas Maskinfabr, AB, sed. 42. Resor: Danm, Tyskl 30, Tyskl, Frankr 32, 33, Tyskl 38. Frimurare, Odd Fellow. Hobby: Språkstudier.",
+    "translated": "FRÖSEL.L., Sven Erik, Office Manager, Nyköping, born in Stockholm on April 18, 1910, son of the schoolteacher E F and Lena Nyström, married to Margit Possman. Graduated from high school in 1928, completed studies in economic and statistical sciences at the National College of Advanced Studies in 1933, and specialized studies in economics and statistics at the Stockholm School of Economics in 1935-1936. Employed at P A Norstedt & Söner from 1929-1931, worked at Rietz Pappers AB from 1933-1937, Carl Lamm AB Machinery Store from 1937-1940, had organizational assignments in the State War Insurance Committee in 1940, worked at AB Åtvidabergs Ind from 1941-1942, and has been an office manager at Wedholms, Swedish Dairy Machinery Factory, AB since 1942. Traveled to Denmark and Germany in 1930, Germany and France in 1932 and 1933, and Germany in 1938. Member of Freemasons and Odd Fellows. Hobby: Language studies.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Sven Erik",
+        "familyName": "Frösel.L.",
+        "jobTitle": "Office Manager",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Nyköping"
+        },
+        "birthDate": "1910-04-18",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Stockholm"
+            }
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "E F",
+                "jobTitle": "Schoolteacher"
+            },
+            {
+                "@type": "Person",
+                "name": "Lena Nyström"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Margit Possman"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "High school diploma",
+                "educationalLevel": "Graduated from high school",
+                "yearAwarded": "1928"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Certificate",
+                "educationalLevel": "Economic and statistical sciences",
+                "awardingInstitution": "National College of Advanced Studies",
+                "yearAwarded": "1933"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Certificate",
+                "educationalLevel": "Specialized studies in economics and statistics",
+                "awardingInstitution": "Stockholm School of Economics",
+                "yearAwarded": "1936"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1929",
+                "endDate": "1931",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "P A Norstedt & Söner"
+                },
+                "roleName": "Employee"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1933",
+                "endDate": "1937",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Rietz Pappers AB"
+                },
+                "roleName": "Employee"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1937",
+                "endDate": "1940",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Carl Lamm AB Machinery Store"
+                },
+                "roleName": "Employee"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1940",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "State War Insurance Committee"
+                },
+                "roleName": "Organizational Assignments"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1941",
+                "endDate": "1942",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Åtvidabergs Ind"
+                },
+                "roleName": "Employee"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1942",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Wedholms, Swedish Dairy Machinery Factory, AB"
+                },
+                "roleName": "Office Manager"
+            }
+        ],
+        "honorificPrefix": "Mr",
+        "nationality": "Swedish",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Freemasons"
+            },
+            {
+                "@type": "Organization",
+                "name": "Odd Fellows"
+            }
+        ],
+        "sameAs": [
+            "Hobby: Language studies"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Office Manager",
+                "workplace": "P A Norstedt & Söner",
+                "industry": "Publishing",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Office Manager",
+                "workplace": "Rietz Pappers AB",
+                "industry": "Pulp and Paper",
+                "start_date": "1933"
+            },
+            {
+                "occupational_title": "Office Manager",
+                "workplace": "Carl Lamm AB Machinery Store",
+                "industry": "Machinery",
+                "start_date": "1937"
+            },
+            {
+                "occupational_title": "Organizational Assignments",
+                "workplace": "State War Insurance Committee",
+                "industry": "Government",
+                "start_date": "1940"
+            },
+            {
+                "occupational_title": "Office Manager",
+                "workplace": "AB Åtvidabergs Ind",
+                "industry": "Industrial",
+                "start_date": "1941"
+            },
+            {
+                "occupational_title": "Office Manager",
+                "workplace": "Wedholms, Swedish Dairy Machinery Factory, AB",
+                "industry": "Dairy Machinery",
+                "start_date": "1942"
+            }
+        ]
+    }
+}

@@ -1,0 +1,125 @@
+{
+    "original": "ENERMALM, Karl Johan Halvard, Gruvingenjör, Vintjärn, f Boden 3/2 08 av J A Eriksson o Hilda Andersson, gm Margit Hagman. Kristineh prakt sk 32, Filipst bergssk 3-1, arb.stud.kurs 36; Istfänr I 20. Gruvarb BAB Freja Koskullskulle 25—31, gruvmät o ing Bolidens Gruv AB 34—36, bitr gruving Boliden 36—40, platschef Vintjärns Gruvor sed. 41. FFrK4kl. Hobbies: Fiske, friluftsliv.",
+    "translated": "ENERMALM, Karl Johan Halvard, Mining Engineer, Vintjärn, born in Boden on February 3, 1908, to J A Eriksson and Hilda Andersson, married to Margit Hagman. Completed practical training at Kristineh School in 1932 and attended Filipstad Mining School from 1933 to 1936. Served as First Lieutenant from 1920. Worked as a miner at BAB Freja in Koskullskulle from 1925 to 1931, as a mining surveyor and engineer at Bolidens Mining AB from 1934 to 1936, as an assistant miner at Boliden from 1936 to 1940, and as a superintendent at Vintjärns Mines since 1941. Awarded the Fourth Class Royal Order of the Polar Star. Hobbies: Fishing, outdoor activities.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Karl Johan Halvard Enermalm",
+        "jobTitle": "Mining Engineer",
+        "birthPlace": "Boden, Sweden",
+        "birthDate": "1908-02-03",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "J A Eriksson"
+            },
+            {
+                "@type": "Person",
+                "name": "Hilda Andersson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Margit Hagman"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Kristineh School",
+                "description": "Practical training completed in 1932"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Filipstad Mining School",
+                "startDate": "1933",
+                "endDate": "1936"
+            }
+        ],
+        "militaryService": {
+            "@type": "Event",
+            "name": "First Lieutenant",
+            "startDate": "1920"
+        },
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "BAB Freja",
+                "jobTitle": "Miner",
+                "startDate": "1925",
+                "endDate": "1931",
+                "location": "Koskullskulle, Sweden"
+            },
+            {
+                "@type": "Organization",
+                "name": "Bolidens Mining AB",
+                "jobTitle": "Mining Surveyor and Engineer",
+                "startDate": "1934",
+                "endDate": "1936"
+            },
+            {
+                "@type": "Organization",
+                "name": "Boliden",
+                "jobTitle": "Assistant Miner",
+                "startDate": "1936",
+                "endDate": "1940"
+            },
+            {
+                "@type": "Organization",
+                "name": "Vintjärns Mines",
+                "jobTitle": "Superintendent",
+                "startDate": "1941"
+            }
+        ],
+        "awards": [
+            {
+                "@type": "Order",
+                "name": "Fourth Class Royal Order of the Polar Star"
+            }
+        ],
+        "hasOccupation": "https://schema.org/MiningEngineer",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Bolidens Gruv AB"
+            }
+        ],
+        "hobbies": [
+            "Fishing",
+            "Outdoor activities"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Mining Engineer",
+                "workplace": "Vintjärn",
+                "industry": "Mining",
+                "start_date": "N/A"
+            },
+            {
+                "occupational_title": "Miner",
+                "workplace": "BAB Freja",
+                "industry": "Mining",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Mining Surveyor and Engineer",
+                "workplace": "Bolidens Mining AB",
+                "industry": "Mining",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Assistant Miner",
+                "workplace": "Boliden",
+                "industry": "Mining",
+                "start_date": "1936"
+            },
+            {
+                "occupational_title": "Superintendent",
+                "workplace": "Vintjärns Mines",
+                "industry": "Mining",
+                "start_date": "1941"
+            }
+        ]
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "original": "ELTLAU, Fritz, Direktör, Stockholm, f Frankfurt a/M, Tyskl, 7/7 88 av Sanitätsrat Dr S E, gm Greta Adler. Studex, jur o kem utbildn. Dir i Nord AB Schering, Sthlm, 36—39, dir Roche-Produkter AB Sthlm (sv dotterbol t schweizfirman F Hoffmann-La Roche &amp; Co AG, Basel) sed. 39. Sv medborgare.",
+    "translated": "ELTLAU, Fritz, Director, Stockholm, from Frankfurt a/M, Germany, born on 7th of July 1888 to Sanitätsrat Dr S E, married to Greta Adler. Studied law and chemistry. Director at Nord AB Schering, Stockholm, from 1936 to 1939, then director at Roche-Produkter AB Stockholm (Swedish subsidiary of the Swiss company F Hoffmann-La Roche & Co AG, Basel) since 1939. Swedish citizen.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Fritz Eltlau",
+        "jobTitle": "Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "birthDate": "1888-07-07",
+        "birthPlace": "Frankfurt a/M, Germany",
+        "father": {
+            "@type": "Person",
+            "name": "Sanitätsrat Dr S E"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Greta Adler"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Studex"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Jur"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Kem"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Nord AB Schering",
+                "startDate": "1936",
+                "endDate": "1939"
+            },
+            {
+                "@type": "Organization",
+                "name": "Roche-Produkter AB Stockholm",
+                "startDate": "1939"
+            }
+        ],
+        "nationality": "Swedish"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Nord AB Schering",
+                "industry": "Pharmaceuticals",
+                "start_date": "1936"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Roche-Produkter AB Stockholm",
+                "industry": "Pharmaceuticals",
+                "start_date": "1939"
+            }
+        ]
+    }
+}

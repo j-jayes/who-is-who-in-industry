@@ -1,0 +1,161 @@
+{
+    "original": "EKSTRÖMER, Nils Thorsten, Civilingenjör, Bruksägare, Fågelfors, f Fåg.f, Kalm län, 2/10 78 av bruksäg M E o Agnes Carlson, gm Ingrid Bjerström. Studex N Latin 96, d :o reallinj Nya Elem.sk 97, avg.ex KTH (elektrotekn) 00, hldsakad i Hamb 01. Bruksförv Fogelfors br 01—16, disp o vkst dir sed. 16. Nämndem Handbörds härad 08—10, Idstm 15 o sed. 27, led skogsv.styr sed. 29, ordf Fågelf kommun.stäm 16—38, ordf kommun.fm sed. 39, led skolstyr sed. 04. Ordf Fören Trähusfabr upa, v. ordf Sv Snickeriexp.frn, styr.led AB Klafreströms br. Hemv.kr.bef.h 40—42. RVO, SHT, skyt.m g, idr.m g.",
+    "translated": "EKSTRÖMER, Nils Thorsten, Engineer, Mill owner, Fågelfors, b. Fåg.f, Kalm County, 2/10 1878, son of mill owner M E and Agnes Carlson, married to Ingrid Bjerström. Graduated Latin 1896, real science line Nya Elem.sk 1897, graduate of the Royal Institute of Technology (electrical engineering) 1900, further studies in Hamburg 1901. Mill manager at Fogelfors Mill 1901-1916, then became director and chief executive officer. Member of the Handbörds District Court 1908-1910, Idstm 1915 and since 1927, member of the forestry board since 1929, chairman of the Fågelfors municipal meeting 1916-1938, chairman of the municipal board since 1939, member of the school board since 1904. Chairman of the Trähusfabr Cooperative, vice chairman of the Swedish Carpentry Export Association, board member of AB Klafreströms mill. Home guard officer during 1940-1942. Recipient of the Royal Order of Vasa, Swedish Hunting and Shooting Association member, sports club member.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Nils Thorsten Ekströmer",
+        "givenName": "Nils Thorsten",
+        "familyName": "Ekströmer",
+        "birthDate": "1878-10-02",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Fågelfors"
+        },
+        "nationality": "Swedish",
+        "jobTitle": "Engineer",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Fågelfors Mill"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Latin",
+                "alumniOf": "Nya Elementarskolan"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Royal Institute of Technology",
+                "alumniOf": "KTH"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Hamburg University"
+            }
+        ],
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "M E Ekströmer",
+                "jobTitle": "Mill owner"
+            },
+            {
+                "@type": "Person",
+                "name": "Agnes Carlson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ingrid Bjerström"
+        },
+        "jobs": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1901",
+                "endDate": "1916",
+                "roleName": "Mill manager",
+                "namedPosition": "Fogelfors Mill"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1916",
+                "roleName": "Director and Chief Executive Officer",
+                "namedPosition": "Fogelfors Mill"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Handbörds District Court",
+                "startDate": "1908-01-01",
+                "endDate": "1910-01-01"
+            },
+            {
+                "@type": "Organization",
+                "name": "Idstm",
+                "startDate": "1915-01-01"
+            },
+            {
+                "@type": "Organization",
+                "name": "Forestry Board",
+                "startDate": "1929-01-01"
+            },
+            {
+                "@type": "Organization",
+                "name": "Fågelfors Municipal Meeting",
+                "startDate": "1916-01-01",
+                "endDate": "1938-01-01"
+            },
+            {
+                "@type": "Organization",
+                "name": "Municipal Board",
+                "startDate": "1939-01-01"
+            },
+            {
+                "@type": "Organization",
+                "name": "School Board",
+                "startDate": "1904-01-01"
+            },
+            {
+                "@type": "Organization",
+                "name": "Trähusfabr Cooperative",
+                "roleName": "Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Carpentry Export Association",
+                "roleName": "Vice Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Klafreströms Mill",
+                "roleName": "Board Member"
+            }
+        ],
+        "militaryService": {
+            "@type": "Organization",
+            "name": "Home Guard",
+            "startDate": "1940-01-01",
+            "endDate": "1942-01-01"
+        },
+        "awards": [
+            {
+                "@type": "Order",
+                "name": "Royal Order of Vasa"
+            }
+        ],
+        "memberOfSportsClub": {
+            "@type": "SportsClub",
+            "name": "Swedish Hunting and Shooting Association"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Fågelfors",
+                "industry": "Engineering",
+                "start_date": "1900"
+            },
+            {
+                "occupational_title": "Mill owner",
+                "workplace": "Fågelfors",
+                "industry": "Manufacturing",
+                "start_date": "1901"
+            },
+            {
+                "occupational_title": "Mill manager",
+                "workplace": "Fogelfors Mill",
+                "industry": "Manufacturing",
+                "start_date": "1901"
+            },
+            {
+                "occupational_title": "Director and CEO",
+                "workplace": "Fogelfors Mill",
+                "industry": "Manufacturing",
+                "start_date": "1916"
+            }
+        ]
+    }
+}

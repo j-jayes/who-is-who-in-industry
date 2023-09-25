@@ -1,0 +1,180 @@
+{
+    "original": "DALHAMMAB, Sven Albert, överingenjör, Ludvika, f Uppsala 10/7 08 av fil dr B A Carlsson o Alma Svensson, gm Brita Nathorst. Studex 27, KTH (bergs) 33. Anst AB El Malmletning 33—37, bitr gruving Fagersta Br AB 37—39, gruving Basttjärns Gruv AB o AB Stjernfors-Ställdalen 39—40, övering Ställ-bergsbol sed. 40. Resor: Engl, Tj^skl, Tjeckoslov 33, Egypt, Ost- o Sydafr 34—37. Led Sv Tekn.frn.",
+    "translated": "DALHAMMAB, Sven Albert, Chief Engineer, Ludvika, born in Uppsala on 10/7 1908, son of Dr. B A Carlsson and Alma Svensson, married to Brita Nathorst. Graduated 1927, Royal Institute of Technology (mining) 1933. Employed at AB El Malmletning 1933-1937, assistant mining engineer at Fagersta Ironworks AB 1937-1939, mining engineer at Basttjärns Gruv AB and AB Stjernfors-Ställdalen 1939-1940, Chief Engineer at Ställbergsbol since 1940. Travels: England, Germany, Czechoslovakia 1933, Egypt, East and South Africa 1934-1937. Member of the Swedish Society of Engineering.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Sven Albert",
+        "familyName": "Dalhammab",
+        "jobTitle": "Chief Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Ludvika"
+        },
+        "birthDate": "1908-07-10",
+        "birthPlace": "Uppsala",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Dr. B A Carlsson",
+                "jobTitle": "Doctor"
+            },
+            {
+                "@type": "Person",
+                "name": "Alma Svensson"
+            }
+        ],
+        "spouse": "Brita Nathorst",
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Studex",
+            "educationalLevel": {
+                "@type": "BachelorDegree",
+                "name": "fil. dr. B A Carlsson"
+            },
+            "earnedBy": {
+                "@type": "Person",
+                "name": "Sven Albert Dalhammab"
+            },
+            "recognizedBy": "KTH (bergs)",
+            "validFor": [
+                {
+                    "@type": "Organization",
+                    "name": "Royal Institute of Technology",
+                    "department": {
+                        "@type": "Engineering"
+                    }
+                }
+            ],
+            "validFrom": "1927",
+            "validThrough": "1933"
+        },
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Swedish Society of Engineering"
+        },
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "AB El Malmletning",
+                "startDate": "1933",
+                "endDate": "1937",
+                "occupation": "Employed"
+            },
+            {
+                "@type": "Organization",
+                "name": "Fagersta Ironworks AB",
+                "startDate": "1937",
+                "endDate": "1939",
+                "occupation": "Assistant Mining Engineer"
+            },
+            {
+                "@type": "Organization",
+                "name": "Basttjärns Gruv AB"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Stjernfors-Ställdalen"
+            },
+            {
+                "@type": "Organization",
+                "name": "Ställbergsbol",
+                "startDate": "1940",
+                "occupation": "Chief Engineer"
+            }
+        ],
+        "hasOccupation": [
+            {
+                "@type": "OccupationalExperience",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Fagersta Ironworks AB"
+                },
+                "startDate": "1937",
+                "endDate": "1939",
+                "jobTitle": "Assistant Mining Engineer"
+            },
+            {
+                "@type": "OccupationalExperience",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Basttjärns Gruv AB"
+                },
+                "jobTitle": "Mining Engineer"
+            },
+            {
+                "@type": "OccupationalExperience",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "AB Stjernfors-Ställdalen"
+                },
+                "jobTitle": "Mining Engineer"
+            },
+            {
+                "@type": "OccupationalExperience",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Ställbergsbol"
+                },
+                "startDate": "1940",
+                "jobTitle": "Chief Engineer"
+            }
+        ],
+        "sibling": [],
+        "knowsLanguage": [
+            "English",
+            "German",
+            "Czech"
+        ],
+        "hasTravelExperience": [
+            {
+                "@type": "Place",
+                "name": "England"
+            },
+            {
+                "@type": "Place",
+                "name": "Germany"
+            },
+            {
+                "@type": "Place",
+                "name": "Czech Republic"
+            },
+            {
+                "@type": "Place",
+                "name": "Egypt"
+            },
+            {
+                "@type": "Place",
+                "name": "South Africa"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Chief Engineer",
+                "workplace": "AB Ställbergsbol",
+                "industry": "Mining",
+                "start_date": "1940"
+            },
+            {
+                "occupational_title": "Mining Engineer",
+                "workplace": "Basttjärns Gruv AB and AB Stjernfors-Ställdalen",
+                "industry": "Mining",
+                "start_date": "1939"
+            },
+            {
+                "occupational_title": "Assistant Mining Engineer",
+                "workplace": "Fagersta Ironworks AB",
+                "industry": "Mining",
+                "start_date": "1937"
+            },
+            {
+                "occupational_title": "Employed",
+                "workplace": "AB El Malmletning",
+                "industry": "Mining",
+                "start_date": "1933"
+            }
+        ]
+    }
+}

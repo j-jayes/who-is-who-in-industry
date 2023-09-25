@@ -1,0 +1,158 @@
+{
+    "original": "FORSBERG, Carl Gustaf Wilhelm, Ekonomichef, Uddevalla, f Sandviken 15/6 01 av järnarb C Forsberg o Mathilda Nordström, gm Clary Ericsson. Kommun mell.sk, Påhlm hdlsinst, spec.kurser. Kont o bokh Sandv jvk 17—20 o 21—24, red Hälsingl Folkblad 25—34, kamr Söderhamns-Kurirens tr 35—39, ekon.ch o vkst dir Nya tryck.AB Kuriren i Uddev sed. 40. Sekr o kass Sv tidn.utg.frns Bohusl.kr, Styr.led fi kommun nmdr, frn :ar o facksain-manslutn. Mångår studieled o ABF-instr i Hälsingland.",
+    "translated": "FORSBERG, Carl Gustaf Wilhelm, Chief economist, Uddevalla, born in Sandviken on June 15, 1901, son of ironworker C Forsberg and Mathilda Nordström, married to Clary Ericsson. Municipal middle school, Påhl's commercial institute, specialized courses. Accounting and bookkeeping at Sandviken railway company from 1917 to 1920 and 1921 to 1924, editor at Hälsingland Folkblad from 1925 to 1934, clerk at Söderhamns-Kuriren printing press from 1935 to 1939, economic manager and growth director at the New Press AB Kuriren in Uddevalla since 1940. Secretary and treasurer of the Swedish newspaper publisher of Bohuslän county, board member of municipal committees and labor unions. Long-time study leader and instructor at ABF (Workers' Educational Association) in Hälsingland.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Gustaf Wilhelm Forsberg",
+        "jobTitle": "Chief Economist",
+        "birthDate": "1901-06-15",
+        "birthPlace": "Sandviken, Sweden",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "C Forsberg"
+            },
+            {
+                "@type": "Person",
+                "name": "Mathilda Nordström"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Clary Ericsson"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "educationLevel": "SecondarySchool",
+            "educationalLevel": "Municipal Middle School"
+        },
+        "additionalProperty": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "educationLevel": "SpecializedCourses",
+                "educationalLevel": "Påhl's Commercial Institute"
+            }
+        ],
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Sandviken Railway Company",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Sandviken, Sweden"
+                    }
+                },
+                "startDate": "1917",
+                "endDate": "1920",
+                "roleName": "Accountant and Bookkeeper"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Sandviken Railway Company",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Sandviken, Sweden"
+                    }
+                },
+                "startDate": "1921",
+                "endDate": "1924",
+                "roleName": "Accountant and Bookkeeper"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Hälsingland Folkblad",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Hälsingland, Sweden"
+                    }
+                },
+                "startDate": "1925",
+                "endDate": "1934",
+                "roleName": "Editor"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Söderhamns-Kuriren",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Söderhamn, Sweden"
+                    }
+                },
+                "startDate": "1935",
+                "endDate": "1939",
+                "roleName": "Clerk"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "New Press AB Kuriren",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Uddevalla, Sweden"
+                    }
+                },
+                "startDate": "1940",
+                "roleName": "Economic Manager and Growth Director"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Newspaper Publisher of Bohuslän County",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Bohuslän, Sweden"
+                },
+                "foundingDate": "YEAR",
+                "disambiguatingDescription": "Secretary and Treasurer"
+            },
+            {
+                "@type": "Organization",
+                "name": "Municipal Committees"
+            },
+            {
+                "@type": "Organization",
+                "name": "Labor Unions"
+            }
+        ],
+        "additionalNote": "Long-time study leader and instructor at ABF (Workers' Educational Association) in Hälsingland."
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Accounting and Bookkeeping",
+                "workplace": "Sandviken Railway Company",
+                "industry": "Transportation",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Editor",
+                "workplace": "Hälsingland Folkblad",
+                "industry": "Media",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Clerk",
+                "workplace": "Söderhamns-Kuriren Printing Press",
+                "industry": "Media",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Economic Manager and Growth Director",
+                "workplace": "New Press AB Kuriren in Uddevalla",
+                "industry": "Media",
+                "start_date": "1940"
+            }
+        ]
+    }
+}

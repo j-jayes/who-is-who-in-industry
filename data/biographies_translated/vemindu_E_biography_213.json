@@ -1,0 +1,98 @@
+{
+    "original": "ERICSON, Johan Samuel, Rederiinspektör, Nya Varvet, f östhammar 24/4 82 av insp Per o Johanna E, gm Mia Brandt, överma- kinistex. Anst i öl fart i Broströmkoncer-aen 06—19, insp AB Broströms Linjeagentur ed 20. Resor: östern, Austr, Nord- o Syd- .merik m fi. Emmerymedaljen.",
+    "translated": "ERICSON, Johan Samuel, Shipping Inspector, Nya Varvet, born in Östhammar on April 24th, 1882, son of inspector Per and Johanna E. Married to Mia Brandt, former chief engineer. Employed in various positions within the Broström Group from 1906 to 1919, then became an inspector at AB Broströms Linjeagentur since 1920. Traveled to Eastern, Australia, North and South America, and more. Awarded the Emmery Medal.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Johan Samuel Ericson",
+        "birthDate": "1882-04-24",
+        "birthPlace": "Östhammar, Sweden",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Per Ericson",
+                "jobTitle": "Inspector"
+            },
+            {
+                "@type": "Person",
+                "name": "Johanna E"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Mia Brandt",
+            "jobTitle": "Former Chief Engineer"
+        },
+        "jobTitle": "Shipping Inspector",
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Nya Varvet"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Broströms Linjeagentur"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Broströmkoncernen"
+                },
+                "startDate": "1906",
+                "endDate": "1919",
+                "title": "Various positions"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Broströms Linjeagentur"
+                },
+                "startDate": "1920",
+                "title": "Inspector"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "SportsOrganization",
+                "name": "Emmery Medal"
+            }
+        ],
+        "hasOccupation": [
+            {
+                "@type": "Occupation",
+                "name": "Rederiinspektör"
+            },
+            {
+                "@type": "Occupation",
+                "name": "Overmakinistex"
+            }
+        ],
+        "knowsAbout": "Various locations including Eastern, Australia, North and South America"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Shipping Inspector",
+                "workplace": "Nya Varvet",
+                "industry": "Shipping",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Chief Engineer",
+                "workplace": "Unspecified",
+                "industry": "Shipping",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Inspector",
+                "workplace": "AB Broströms Linjeagentur",
+                "industry": "Shipping",
+                "start_date": "1920"
+            }
+        ]
+    }
+}

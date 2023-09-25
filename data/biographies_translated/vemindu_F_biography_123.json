@@ -1,0 +1,248 @@
+{
+    "original": "FRANCKE, Harald Ottoson, Civilingenjör, Hälsingborg, f Sthlm 30/12 99 av grhdl O F o Fanny Liljewalch, gm Nea Trahn. Studex Sthlm 18, KTH (kemi) 20—24. Resoffex 20, fänr Svea artreg:s res 20, ulöjtn 23, löjtn 28, avsk ur res 29. Anst v Messrs Bulkley Dunton &amp; Co New York 25—26, Bergvik &amp; Ala Nya AB Söderhamn 27—30, Sv Cellulosa AB Sthlm 31, vkst dlr o styr.led i J E Francke AB 37, anst h Reymersholms Gamla Ind AB. Led Sv Tekn.frn.",
+    "translated": "FRANCKE, Harald Ottoson, Civil Engineer, Helsingborg, b. Stockholm 30/12 1899 to Captain O.F. Francke and Fanny Liljewalch, m. Nea Trahn. Completed secondary education in Stockholm in 1918, studied Chemical Engineering at the Royal Institute of Technology (KTH) from 1920 to 1924. Commissioned as a reserve officer in 1920, serving as Second Lieutenant in the Svea Artillery Regiment from 1923, promoted to Lieutenant in 1928, discharged from reserve service in 1929. Employed at Messrs Bulkley Dunton &amp; Co in New York from 1925 to 1926, Bergvik &amp; Ala Nya AB in Söderhamn from 1927 to 1930, and Sv Cellulosa AB in Stockholm from 1931, working as a director and member of the board. Joined J.E. Francke AB in 1937 and worked at Reymersholm Gamla Ind AB. Member of the Swedish Institute of Technology...",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Harald Ottoson Francke",
+        "birthDate": "1899-12-30",
+        "birthPlace": "Stockholm, Sweden",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Helsingborg",
+            "addressCountry": "Sweden"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "O.F. Francke",
+                "jobTitle": "Captain"
+            },
+            {
+                "@type": "Person",
+                "name": "Fanny Liljewalch"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Nea Trahn"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Secondary education",
+                "educationalLevel": "High school diploma",
+                "educationalCredentialAwarded": "Studex",
+                "recognizedBy": {
+                    "@type": "EducationalOrganization",
+                    "name": "Stockholm Education Board"
+                },
+                "startDate": "1918",
+                "endDate": "1918"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Bachelor's degree",
+                "educationalLevel": "Undergraduate",
+                "educationalCredentialAwarded": "Civilingenjör (Civil Engineer)",
+                "recognizedBy": {
+                    "@type": "EducationalOrganization",
+                    "name": "Royal Institute of Technology (KTH)"
+                },
+                "startDate": "1920",
+                "endDate": "1924",
+                "studyProgram": "Chemical Engineering"
+            }
+        ],
+        "occupation": [
+            {
+                "@type": "JobPosting",
+                "title": "Reserve Officer",
+                "startDate": "1920",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Svea Artillery Regiment"
+                },
+                "location": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Sweden"
+                }
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Second Lieutenant",
+                "startDate": "1923",
+                "endDate": "1928",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Svea Artillery Regiment"
+                },
+                "location": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Sweden"
+                }
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Lieutenant",
+                "startDate": "1928",
+                "endDate": "1929",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Svea Artillery Regiment"
+                },
+                "location": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Sweden"
+                }
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Employee",
+                "startDate": "1925",
+                "endDate": "1926",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Messrs Bulkley Dunton & Co",
+                    "location": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "New York",
+                        "addressCountry": "USA"
+                    }
+                }
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Employee",
+                "startDate": "1927",
+                "endDate": "1930",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Bergvik & Ala Nya AB",
+                    "location": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Söderhamn",
+                        "addressCountry": "Sweden"
+                    }
+                }
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Employee",
+                "startDate": "1931",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Sv Cellulosa AB",
+                    "location": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm",
+                        "addressCountry": "Sweden"
+                    }
+                }
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Director",
+                "startDate": "1937",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "J.E. Francke AB"
+                }
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Reymersholms Gamla Ind AB"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Institute of Technology"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sv Tekn.frn"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Helsingborg",
+                "industry": "",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Secondary Education Student",
+                "workplace": "Stockholm",
+                "industry": "",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Chemical Engineer",
+                "workplace": "Royal Institute of Technology (KTH), Stockholm",
+                "industry": "Education",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Reserve Officer",
+                "workplace": "",
+                "industry": "Military",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Second Lieutenant",
+                "workplace": "Svea Artillery Regiment",
+                "industry": "Military",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Lieutenant",
+                "workplace": "Svea Artillery Regiment",
+                "industry": "Military",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Messrs Bulkley Dunton & Co",
+                "industry": "Unknown",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Bergvik & Ala Nya AB, Söderhamn",
+                "industry": "Unknown",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Sv Cellulosa AB, Stockholm",
+                "industry": "Chemical",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Director and Board Member",
+                "workplace": "J E Francke AB",
+                "industry": "",
+                "start_date": "1937"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Reymersholms Gamla Ind AB",
+                "industry": "",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Member",
+                "workplace": "Swedish Institute of Technology",
+                "industry": "",
+                "start_date": ""
+            }
+        ]
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "original": "FORSMAN, Johan Edvard, Konsul, Umeå, f Umeå Idsförs 3/8 85 av skom.m P A F o h h f Eriksson. Folksk. Anst fma Alfr Andersson 01—13, Umeå lysoljeAB 13—17, övert fma Alfr Andersson 17 o omb t AB Joh Forsman 21, vkst dir o huv.intr i detta, inneh fastigh Njord 3 o Njord 7 i Umeå. Styr.led Sdsv ensk bks avd.kont, Umeå hdlsgymn mfl, led tax.nmdn mm. Finsk konsul 37. Resor: Tyskl 29, Engl 32. RFinlVROlkl, Sv köpm.-frbs Ht mm.",
+    "translated": "FORSMAN, Johan Edvard, Consul, Umeå, born in Umeå Parish on August 3, 1885, son of skom. m P A F and his wife Eriksson. Attended folk school. Employed by Alfr Andersson 1901-1913, Umeå lysoljeAB 1913-1917, took over Alfr Andersson's company in 1917 and became representative of AB Joh Forsman in 1921, serving as the company's growth director and chief executive. Owned properties Njord 3 and Njord 7 in Umeå. Board member of Sdsv private bank department, Umeå commercial gymnasium, and others. Member of the tax board, among others. Appointed Finnish consul in 1937. Traveled to Germany in 1929 and to England in 1932. Decorated with the Order of the White Rose of Finland, Swedish Chamber of Commerce Service Medal, and more.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Johan Edvard Forsman",
+        "birthDate": "1885-08-03",
+        "birthPlace": "Umeå, Sweden",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "P A F"
+            },
+            {
+                "@type": "Person",
+                "name": "Eriksson"
+            }
+        ],
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Folk School"
+        },
+        "jobTitle": "Consul",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "AB Joh Forsman",
+            "startDate": "1921",
+            "endDate": "Present",
+            "url": "<company_url>"
+        },
+        "workLocation": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Umeå",
+                "addressCountry": "Sweden"
+            }
+        },
+        "workExperience": [
+            {
+                "@type": "Organization",
+                "name": "Alfr Andersson",
+                "startDate": "1901",
+                "endDate": "1913"
+            },
+            {
+                "@type": "Organization",
+                "name": "Umeå lysoljeAB",
+                "startDate": "1913",
+                "endDate": "1917"
+            }
+        ],
+        "studies": {
+            "@type": "EducationalOrganization",
+            "name": "Folk School"
+        },
+        "owns": [
+            {
+                "@type": "Place",
+                "name": "Njord 3"
+            },
+            {
+                "@type": "Place",
+                "name": "Njord 7"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Sdsv private bank department"
+            },
+            {
+                "@type": "Organization",
+                "name": "Umeå commercial gymnasium"
+            },
+            {
+                "@type": "Organization",
+                "name": "tax board"
+            }
+        ],
+        "nationality": "Swedish",
+        "award": [
+            {
+                "@type": "Order",
+                "name": "Order of the White Rose of Finland"
+            },
+            {
+                "@type": "Medal",
+                "name": "Swedish Chamber of Commerce Service Medal"
+            },
+            {
+                "@type": "Medal",
+                "name": "Ht mm"
+            }
+        ],
+        "traveled": [
+            {
+                "@type": "Place",
+                "name": "Germany",
+                "startDate": "1929",
+                "endDate": "1929"
+            },
+            {
+                "@type": "Place",
+                "name": "England",
+                "startDate": "1932",
+                "endDate": "1932"
+            }
+        ],
+        "additionalName": "Edvard",
+        "givenName": "Johan",
+        "familyName": "Forsman"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Shoemaker's Assistant",
+                "workplace": "Alfr Andersson",
+                "industry": "Footwear Manufacturing",
+                "start_date": "1901"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Umeå Lysolje AB",
+                "industry": "Chemical Manufacturing",
+                "start_date": "1913"
+            },
+            {
+                "occupational_title": "Owner/Representative",
+                "workplace": "AB Joh Forsman",
+                "industry": "Unknown",
+                "start_date": "1921"
+            }
+        ]
+    }
+}

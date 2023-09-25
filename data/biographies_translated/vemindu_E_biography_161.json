@@ -1,0 +1,135 @@
+{
+    "original": "ENEBERG, Tore Robert, Ingenjör, Stockholm, f Sorsele, Västerb l, 27/4 01 av jägm R A:son 7 o Hildur Sjöholm, gm Inga-Greta Sjöholm. Studex Karlst 20, ingex Tekn högsk Berlin 24. Konstr LUX GmbH Berlin 26—27, AB LUX Sthlm 27—29, patenting AB Delmar &amp; Co Patentbyrå Sthlm sed. 29. Resor: Tyskl 25—29, Lettl 37, Danm 38. Sv Tekn.frn, Arla Coldin. Hobby: Fornnordisk historia.",
+    "translated": "ENEBERG, Tore Robert, Engineer, Stockholm, born in Sorsele, Västerbotten, April 27, 1901, son of forestry inspector R A:son 7 and Hildur Sjöholm, married to Inga-Greta Sjöholm. Completed studies at Karlstad in 1920, engineering studies at the Technical University of Berlin in 1924. Worked as a designer at LUX GmbH Berlin from 1926-1927, AB LUX Stockholm from 1927-1929, and at the patenting firm AB Delmar & Co Patentbyrå Stockholm since 1929. Traveled to Germany from 1925-1929, Latvia in 1937, and Denmark in 1938. Member of the Swedish Engineering Association, Arla Coldin. Hobby: Ancient Nordic history.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Tore Robert Eneberg",
+        "jobTitle": "Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "birthDate": "1901-04-27",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Sorsele",
+            "addressRegion": "Västerbotten"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "R A:son"
+            },
+            {
+                "@type": "Person",
+                "name": "Hildur Sjöholm"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Inga-Greta Sjöholm"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "educationalLevel": "Studex",
+            "alumniOf": {
+                "@type": "CollegeOrUniversity",
+                "name": "Karlstad University"
+            },
+            "startDate": "1920"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "LUX GmbH",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Berlin"
+                },
+                "startDate": "1926",
+                "endDate": "1927"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB LUX",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm"
+                },
+                "startDate": "1927",
+                "endDate": "1929"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Delmar &amp; Co Patentbyrå",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm"
+                },
+                "startDate": "1929"
+            }
+        ],
+        "travels": [
+            {
+                "@type": "Country",
+                "name": "Germany",
+                "startDate": "1925",
+                "endDate": "1929"
+            },
+            {
+                "@type": "Country",
+                "name": "Latvia",
+                "startDate": "1937"
+            },
+            {
+                "@type": "Country",
+                "name": "Denmark",
+                "startDate": "1938"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Engineering Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Arla Coldin"
+            }
+        ],
+        "hasOccupation": {
+            "@type": "DefinedTerm",
+            "name": "Engineer"
+        },
+        "additionalProperty": [
+            {
+                "@type": "PropertyValue",
+                "name": "Hobby",
+                "value": "Ancient Nordic history"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "LUX GmbH Berlin",
+                "industry": "Engineering",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Designer",
+                "workplace": "AB LUX Stockholm",
+                "industry": "Engineering",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Designer",
+                "workplace": "AB Delmar & Co Patentbyrå Stockholm",
+                "industry": "Patenting",
+                "start_date": "1929"
+            }
+        ]
+    }
+}

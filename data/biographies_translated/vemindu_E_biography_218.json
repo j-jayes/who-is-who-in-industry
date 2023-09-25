@@ -1,0 +1,57 @@
+{
+    "original": "ERICSSON, Carl, Disponent, Mora-Noret, f Tegelsmora, Upps l, 28/5 88 av hyvelmäst Johan Eriksson o Margreta Andersdotter, gm Maja Lindqvist. Disp f Siljans Sågverks AB 1 Mora-Noret. PatrGM. Odd Fellow.",
+    "translated": "ERICSSON, Carl, Disponent (Manager), Mora-Noret, born in Tegelsmora, Uppsala län (county), on 28/5 1888, son of planing master Johan Eriksson and Margreta Andersdotter, married to Maja Lindqvist. Manager of Siljans Sågverks AB in Mora-Noret. Paternal Grandfather. Member of the Odd Fellow society.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Ericsson",
+        "jobTitle": "Disponent",
+        "birthPlace": {
+            "@type": "Country",
+            "name": "Sweden"
+        },
+        "birthDate": "1888-05-28",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Mora-Noret",
+            "addressRegion": "Uppsala län"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Johan Eriksson",
+                "jobTitle": "Hyvelmästare (Planing Master)"
+            },
+            {
+                "@type": "Person",
+                "name": "Margreta Andersdotter"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Maja Lindqvist"
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Siljans Sågverks AB",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Mora-Noret"
+            }
+        },
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Odd Fellow"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Manager",
+                "workplace": "Siljans Sågverks AB",
+                "industry": "Woodworking",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

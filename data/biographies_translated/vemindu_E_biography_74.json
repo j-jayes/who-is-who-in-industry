@@ -1,0 +1,154 @@
+{
+    "original": "EKHOLM, Karl Henrik Bertil, Civilingenjör, Henriksdal, f Hälsingtuna, Gvlb l, 25/1 91 av kassör H B E o Johanna Holmström, gm Karin Valländer. Studex N Real Sthlm 09, civingex KTH 13. Anst KTH :s mäter.-provn.anst 13—14, Sthlms Superfosf Fabr AB Gäddviken 14—29, Koop Superfosf Fabr AB Gäddv 29—32, AB FÖren Superfosf Fabr Gäddv sed. 32. Tekn sakk i Statens Priskon-tr.nmd sed. 41. Medarb i Uppfinningarnas Bok, bd VIII.",
+    "translated": "EKHOLM, Karl Henrik Bertil, Civil Engineer, Henriksdal, b. Hälsingtuna, Gvlb l, 25/1 91, son of cashier H.B.E and Johanna Holmström, married to Karin Valländer. Graduated with Bachelor's degree in Natural Sciences from Stockholm 1909, Master's degree in Civil Engineering from KTH (Royal Institute of Technology) 1913. Employed at KTH's Measurement and Testing Laboratory 1913-1914, Stockholm Superphosphate Factory AB Gäddviken 1914-1929, Koop Superphosphate Factory AB Gäddviken 1929-1932, AB FÖren Superphosphate Factory Gäddviken since 1932. Technical expert at the State Price Control Board since 1941. Collaborator in \"Uppfinningarnas Bok, Vol. VIII\".",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Karl",
+        "additionalName": "Henrik Bertil",
+        "familyName": "Ekhom",
+        "birthDate": "1891-01-25",
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Hälsingtuna"
+        },
+        "nationality": "Swedish",
+        "description": "Civil Engineer",
+        "address": [
+            {
+                "@type": "PostalAddress",
+                "addressLocality": "Henriksdal"
+            }
+        ],
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "H.B.E",
+                "jobTitle": "Cashier"
+            },
+            {
+                "@type": "Person",
+                "name": "Johanna Holmström"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Karin Valländer"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Bachelor's degree",
+                "educationalLevel": "Bachelor's degree",
+                "educationalCredentialAwarded": "Natural Sciences",
+                "issuer": {
+                    "@type": "Organization",
+                    "name": "Stockholm University"
+                },
+                "startDate": "1909"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Master's degree",
+                "educationalLevel": "Master's degree",
+                "educationalCredentialAwarded": "Civil Engineering",
+                "issuer": {
+                    "@type": "Organization",
+                    "name": "KTH Royal Institute of Technology"
+                },
+                "startDate": "1913"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1913",
+                "endDate": "1914",
+                "roleName": "Measurement and Testing Laboratory",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "KTH Royal Institute of Technology"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1914",
+                "endDate": "1929",
+                "roleName": "Stockholm Superphosphate Factory AB Gäddviken",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Stockholm Superphosphate Factory AB Gäddviken"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1929",
+                "endDate": "1932",
+                "roleName": "Koop Superphosphate Factory AB Gäddviken",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Koop Superphosphate Factory AB Gäddviken"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1932",
+                "roleName": "AB FÖren Superphosphate Factory Gäddviken",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB FÖren Superphosphate Factory Gäddviken"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1941",
+                "roleName": "State Price Control Board",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "State Price Control Board"
+                }
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Periodical",
+                "name": "Uppfinningarnas Bok",
+                "volumeNumber": "VIII"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "KTH's Measurement and Testing Laboratory",
+                "industry": "Education",
+                "start_date": "1913-1914"
+            },
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Stockholm Superphosphate Factory AB Gäddviken",
+                "industry": "Chemical",
+                "start_date": "1914-1929"
+            },
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Koop Superphosphate Factory AB Gäddviken",
+                "industry": "Chemical",
+                "start_date": "1929-1932"
+            },
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "AB FÖren Superphosphate Factory Gäddviken",
+                "industry": "Chemical",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Technical expert",
+                "workplace": "State Price Control Board",
+                "industry": "Government",
+                "start_date": "1941"
+            }
+        ]
+    }
+}

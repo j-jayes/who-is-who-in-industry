@@ -1,0 +1,64 @@
+{
+    "original": "EL.VEGÅRD, Arthur Elof, Fabriksidkare, Stockholm, f Sthlm 24/9 00 av rotem Elof Ohlsson o Gerda Lundberg, gm Anna-Lisa Klint. Realex, hdls- o tekn sk. Ag AB Sv Förnick-lingsfabr, grund av E 30. Resor: Hela världen utom Ryssl o Söderhavsö :a 23—29. Hobbies : Resor, språk, fotografering.",
+    "translated": "EL.VEGÅRD, Arthur Elof, Factory Owner, Stockholm, b. Stockholm 24/9 00, son of Elof Ohlsson and Gerda Lundberg, m. Anna-Lisa Klint. Completed secondary school, trade and technical school. Founded Ag AB Sv Förnick-lingsfabr in 1930. Travels: Across the whole world except Russia and South Pacific islands from 1923-1929. Hobbies: Travels, languages, photography.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Arthur Elof El.Vegård",
+        "birthDate": "1900-09-24",
+        "birthPlace": "Stockholm, Sweden",
+        "father": {
+            "@type": "Person",
+            "name": "Elof Ohlsson"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Gerda Lundberg"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Anna-Lisa Klint"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Realex",
+                "educationalLevel": "Secondary",
+                "earnedBy": "Arthur Elof El.Vegård"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Trade and Technical",
+                "earnedBy": "Arthur Elof El.Vegård"
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Ag AB Sv Förnick-lingsfabr",
+            "foundingDate": "1930"
+        },
+        "travels": [
+            {
+                "@type": "Place",
+                "name": "Whole world except Russia and South Pacific islands",
+                "startDate": "1923",
+                "endDate": "1929"
+            }
+        ],
+        "hobbies": [
+            "Travels",
+            "Languages",
+            "Photography"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Factory Owner",
+                "workplace": "Ag AB Sv Förnick-lingsfabr",
+                "industry": "Metallurgy",
+                "start_date": "1930"
+            }
+        ]
+    }
+}

@@ -1,0 +1,197 @@
+{
+    "original": "FRITSCH, Gustav Arne Wilhelm, Disponent, Civilingenjör, Svedala, f Köpingebro, Malmöh i, 27/11 03 av disp A G F o Ebba Carlberg, gm Eivor Widegren. Kemist h Sv Sockerfabr AB i Jordberga 31—32, v samma bolags fabr i Staffanstorp 33, assist där £4—35, i Arlöv 36—39, disp v bolagets fabr i Roma 40 o v fabr i Svedala sed. 41. Led av samrealsk-, folksk- o idrottsplatsstyr samt av ktén f bygg av nytt kommunalhus. V. ordf i Svedala Be-fälsutbilcln.frn, sekr i Svedala Hemv.frn, kas-sör i Svedala-Bör ringe Skyttefrn, styr.ldd i Svedala Högerfrn, led av Sv Tekn.frn sed. 27. Resor: Mexico o USA (f stud av sockerind) 29—30. Hobby: Färgfoto.",
+    "translated": "FRITSCH, Gustav Arne Wilhelm, Manager, Civil Engineer, Svedala, born in Köpingebro, Malmöhus County, on November 27th, 1903, son of the manager A.G.F. and Ebba Carlberg, married to Eivor Widegren. Chemist at Sv Sockerfabr AB in Jordberga from 1931 to 1932, at the same company's factory in Staffanstorp in 1933, assistant there from 1934 to 1935, in Arlöv from 1936 to 1939, manager at the company's factory in Roma from 1940 and at the factory in Svedala since 1941. Member of the board of trustees for secondary school, primary school, and sports facilities, as well as the committee for the construction of a new municipal building. Vice chairman of the Svedala Civil Defense Vehicle Corps, secretary of the Svedala Home Guard, treasurer of the Svedala-Börringe Shooting Society, board member of the Svedala Right Party, and member of the Swedish Technical Association since 1927. Travelled to Mexico and the USA for the study of sugar industry in 1929-1930. Hobby: Color photography.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Gustav Arne Wilhelm Fritsch",
+        "jobTitle": "Manager",
+        "birthDate": "1903-11-27",
+        "birthPlace": "Köpingebro, Malmöhus County, Sweden",
+        "father": {
+            "@type": "Person",
+            "name": "A.G.F Fritsch"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Ebba Carlberg"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Eivor Widegren"
+        },
+        "occupation": [
+            {
+                "@type": "CivilEngineer",
+                "name": "Civil Engineer"
+            },
+            {
+                "@type": "Chemist",
+                "name": "Chemist",
+                "affiliation": [
+                    {
+                        "@type": "Organization",
+                        "name": "Sv Sockerfabr AB",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressLocality": "Jordberga",
+                            "addressRegion": "Sweden"
+                        },
+                        "employmentDate": "1931-01-01",
+                        "endDate": "1932-12-31"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "Sv Sockerfabr AB",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressLocality": "Staffanstorp",
+                            "addressRegion": "Sweden"
+                        },
+                        "employmentDate": "1933-01-01",
+                        "endDate": "1933-12-31"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "Sv Sockerfabr AB",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressLocality": "Arlöv",
+                            "addressRegion": "Sweden"
+                        },
+                        "employmentDate": "1936-01-01",
+                        "endDate": "1939-12-31"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "Sv Sockerfabr AB",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressLocality": "Roma",
+                            "addressRegion": "Sweden"
+                        },
+                        "employmentDate": "1940-01-01",
+                        "endDate": "1941-12-31"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "Sv Sockerfabr AB",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressLocality": "Svedala",
+                            "addressRegion": "Sweden"
+                        },
+                        "employmentDate": "1941-01-01"
+                    }
+                ]
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Board of Trustees for Secondary School",
+                "roleName": "Member",
+                "startDate": "unknown"
+            },
+            {
+                "@type": "Organization",
+                "name": "Board of Trustees for Primary School",
+                "roleName": "Member",
+                "startDate": "unknown"
+            },
+            {
+                "@type": "Organization",
+                "name": "Board of Trustees for Sports Facilities",
+                "roleName": "Member",
+                "startDate": "unknown"
+            },
+            {
+                "@type": "Organization",
+                "name": "Committee for Construction of New Municipal Building",
+                "roleName": "Member",
+                "startDate": "unknown"
+            },
+            {
+                "@type": "Organization",
+                "name": "Svedala Civil Defense Vehicle Corps",
+                "roleName": "Vice Chairman",
+                "startDate": "unknown"
+            },
+            {
+                "@type": "Organization",
+                "name": "Svedala Home Guard",
+                "roleName": "Secretary",
+                "startDate": "unknown"
+            },
+            {
+                "@type": "Organization",
+                "name": "Svedala-Börringe Shooting Society",
+                "roleName": "Treasurer",
+                "startDate": "unknown"
+            },
+            {
+                "@type": "Organization",
+                "name": "Svedala Right Party",
+                "roleName": "Board Member",
+                "startDate": "unknown"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Technical Association",
+                "roleName": "Member",
+                "startDate": "1927-01-01"
+            }
+        ],
+        "travel": [
+            {
+                "@type": "TravelAction",
+                "fromLocation": {
+                    "@type": "Country",
+                    "name": "Sweden"
+                },
+                "toLocation": [
+                    {
+                        "@type": "Country",
+                        "name": "Mexico"
+                    },
+                    {
+                        "@type": "Country",
+                        "name": "USA"
+                    }
+                ],
+                "startDate": "1929-01-01",
+                "endDate": "1930-12-31",
+                "purpose": "Study of sugar industry"
+            }
+        ],
+        "hobby": "Color photography"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Chemist",
+                "workplace": "Sv Sockerfabr AB",
+                "industry": "Sugar Manufacturing",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Assistant",
+                "workplace": "Sv Sockerfabr AB",
+                "industry": "Sugar Manufacturing",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Sv Sockerfabr AB",
+                "industry": "Sugar Manufacturing",
+                "start_date": "1940"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Sv Sockerfabr AB",
+                "industry": "Sugar Manufacturing",
+                "start_date": "1941"
+            }
+        ]
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "original": "ERICSON, Robert Carl Gustaf, Kontors-Jief, Falkenberg, f Flkbg 29/11 90 av hamn- .apten C G E o h h, f Ekman, gm Edith Hedström. Efter avslutad skolgång anst v Halmstad-Falkenbergs Kvarn AB 05, numera kontorschef där. Odd Fellow.",
+    "translated": "ERICSON, Robert Carl Gustaf, Office Manager, Falkenberg, born in Falkenberg on November 29, 1890, son of harbor captain C.G.E. and his wife H.H., born Ekman, married to Edith Hedström. After completing his education, he was employed by Halmstad-Falkenbergs Kvarn AB in 1905, currently working as the office manager there. Member of the Odd Fellow's fraternity. \n\nNote: The abbreviation '\\d\\d m. partners name' indicates that the person got married in the year 19xx.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Robert Carl Gustaf Ericson",
+        "birthDate": "1890-11-29",
+        "birthPlace": "Falkenberg",
+        "father": {
+            "@type": "Person",
+            "name": "C.G.E. Ericson",
+            "jobTitle": "Harbor Captain"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "H.H. Ekman"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Edith Hedström",
+            "dateOfMarriage": "19xx"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Unspecified",
+            "endDate": "Unspecified"
+        },
+        "jobTitle": "Office Manager",
+        "work": {
+            "@type": "Organization",
+            "name": "Halmstad-Falkenbergs Kvarn AB",
+            "startDate": "1905",
+            "endDate": "Unspecified",
+            "jobTitle": "Office Manager"
+        },
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Odd Fellow's fraternity"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Office Manager",
+                "workplace": "Halmstad-Falkenbergs Kvarn AB",
+                "industry": "Milling",
+                "start_date": "1905"
+            }
+        ]
+    }
+}

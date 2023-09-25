@@ -1,0 +1,142 @@
+{
+    "original": "FAGERBERG, Karl Gottfrid, Köpman, Sundsvall, f Glava, Värml l, 27/2 90 av glas - arb Th F o h h, f Persson, gin Olga Möller. Efter avslutad skolgång målarlärl o utl i yrket efter olika anst 05—11, kond h olika mästare 11—14, egen mål.rörelse i Glava 14—19. Anst v AB John Perssons Kafferosteri 19—29, egen aff.verksamh under fma Fagerbergs Kafferosteri sed. 29 o bedriver sed. 40 av Holländska Kafferosteriet, båda i Sundsvall. Ordf i Sundsvalls Brödraförs. Odd Fellow.",
+    "translated": "FAGERBERG, Karl Gottfrid, Merchant, Sundsvall, born in Glava, Värmland, on February 27, 1890, son of glassworker Th. Fagerberg and his wife Olga Möller. After completing his education, he worked as a painting apprentice and traveled abroad to practice his trade with various employers from 1905 to 1911. He then trained as a confectioner under different masters from 1911 to 1914. From 1914 to 1919, he ran his own painting business in Glava. In 1919, he joined AB John Perssons Kafferosteri (John Perssons Coffee Roastery) as an employee and worked there until 1929. After that, he started his own retail business as a part-owner of Fagerbergs Kafferosteri (Fagerberg's Coffee Roastery), which he continued until 1940. From then on, he operated the Dutch Coffee Roastery in Sundsvall. Karl Gottfrid Fagerberg served as chairman of the Sundsvall Brotherhood's Odd Fellow Society. Note: '\\d\\d m. partner's name' indicates marriage in the year 19xx.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Karl Gottfrid Fagerberg",
+        "birthDate": "1890-02-27",
+        "birthPlace": "Glava, Värmland, Sweden",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Th. Fagerberg",
+                "jobTitle": "Glassworker"
+            },
+            {
+                "@type": "Person",
+                "name": "Olga Möller",
+                "jobTitle": "Housewife"
+            }
+        ],
+        "occupation": [
+            {
+                "@type": "Merchant",
+                "name": "Merchant"
+            },
+            {
+                "@type": "Painter",
+                "name": "Painter",
+                "startDate": "1905-01-01",
+                "endDate": "1919-12-31",
+                "employer": [
+                    {
+                        "@type": "Organization",
+                        "name": "Fagerbergs Kafferosteri",
+                        "founder": "Karl Gottfrid Fagerberg",
+                        "startDate": "1914-01-01",
+                        "endDate": "1919-12-31",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressLocality": "Glava",
+                            "addressRegion": "Värmland",
+                            "addressCountry": "Sweden"
+                        }
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "AB John Perssons Kafferosteri",
+                        "startDate": "1919-01-01",
+                        "endDate": "1929-12-31",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressLocality": "Sundsvall",
+                            "addressCountry": "Sweden"
+                        }
+                    }
+                ]
+            },
+            {
+                "@type": "Confectioner",
+                "name": "Confectioner",
+                "startDate": "1911-01-01",
+                "endDate": "1914-12-31"
+            }
+        ],
+        "businessOwnership": [
+            {
+                "@type": "Organization",
+                "name": "Fagerbergs Kafferosteri",
+                "founder": "Karl Gottfrid Fagerberg",
+                "startDate": "1929-01-01",
+                "endDate": "1940-12-31",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Sundsvall",
+                    "addressCountry": "Sweden"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Holländska Kafferosteriet",
+                "startDate": "1940-01-01",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Sundsvall",
+                    "addressCountry": "Sweden"
+                }
+            }
+        ],
+        "affiliations": [
+            {
+                "@type": "Organization",
+                "name": "Sundsvalls Brödraförs.",
+                "roleName": "Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Odd Fellow"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Painting Apprentice",
+                "workplace": "Various employers",
+                "industry": "Painting",
+                "start_date": "1905"
+            },
+            {
+                "occupational_title": "Confectioner",
+                "workplace": "Various masters",
+                "industry": "Confectionery",
+                "start_date": "1911"
+            },
+            {
+                "occupational_title": "Owner, Painting Business",
+                "workplace": "Glava",
+                "industry": "Painting",
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Employee, AB John Perssons Kafferosteri",
+                "workplace": "Sundsvall",
+                "industry": "Coffee Roasting",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Owner, Fagerbergs Kafferosteri",
+                "workplace": "Sundsvall",
+                "industry": "Coffee Roasting",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Operator, Dutch Coffee Roastery",
+                "workplace": "Sundsvall",
+                "industry": "Coffee Roasting",
+                "start_date": "1940"
+            }
+        ]
+    }
+}

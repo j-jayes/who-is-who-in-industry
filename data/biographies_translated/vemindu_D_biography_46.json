@@ -1,0 +1,108 @@
+{
+    "original": "DAHLSTBAND, Gerhard, Direktör, Falun, f Tranum, Skarab l, 26/2 93. Studex Skara 12, stud Sthlm. Anst tbrvind t 22, avd.ch System AB Falköping 22, System AB Falun 27, ch sociala avd Gbgs-Systemet 35, vkst dir Sy-stembol Falun sed. 28. Styr.led BARA, led vkst utsk systembol :s förtroendenmd sed. 38.",
+    "translated": "DAHLSTBAND, Gerhard, Director, Falun, b. Tranum, Skaraborg county, 26/2 1893. Completed studies in Skara in 1912, continued studying in Stockholm. Employed at various positions, starting in 1922, department head at System AB in Falköping, 1922, System AB in Falun, 1927, head of social department at Gbgs-Systemet, 1935, Vice Director at Sy-stembol in Falun since 1928. Board member of BARA (organization unclear), member of growth committee at Systembolag (Swedish alcohol monopoly) since 1938. Married in 19xx (exact year not mentioned) with a partner.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Gerhard Dahlstband",
+        "birthDate": "1893-02-26",
+        "birthPlace": "Tranum, Skaraborg county",
+        "description": "Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Falun"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "educationalLevel": "Bachelor's Degree",
+            "educationalCredentialAwarded": "Studex Skara 12, Stockholm"
+        },
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1922",
+                "endDate": "1927",
+                "roleName": "Department Head",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "System AB",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Falköping"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1927",
+                "endDate": "1935",
+                "roleName": "Director of Social Department",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Gbgs-Systemet",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Gothenburg"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1928",
+                "roleName": "Vice Director",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Sy-stembol",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Falun"
+                    }
+                }
+            }
+        ],
+        "boardMember": [
+            {
+                "@type": "Organization",
+                "name": "BARA"
+            },
+            {
+                "@type": "Organization",
+                "name": "Systembolag",
+                "committee": [
+                    {
+                        "@type": "Organization",
+                        "name": "Growth Committee"
+                    }
+                ]
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Department Head",
+                "workplace": "System AB Falköping",
+                "industry": "Unknown",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Department Head",
+                "workplace": "System AB Falun",
+                "industry": "Unknown",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Head of Social Department",
+                "workplace": "Gbgs-Systemet",
+                "industry": "Unknown",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Vice Director",
+                "workplace": "Sy-stembol Falun",
+                "industry": "Unknown",
+                "start_date": "1928"
+            }
+        ]
+    }
+}

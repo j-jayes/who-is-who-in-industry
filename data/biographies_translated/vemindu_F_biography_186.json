@@ -1,0 +1,121 @@
+{
+    "original": "FRÅNBERG, Erik Eugen Edward, Direktör, Stockholm, f Selångers s:n 9/9 82 av handl N E F o Helena Åström, gm Elna Skoglund. Sundsvalls h a l o Sdsv Hdlsinst. Kass i fmaS Muscat Sdsv 08—14, däreft eg grhdlsrör i kolonialv o saftfabr i Sdsv, vkst dir Automo-bilägrs Garantifrn o AB Josef Länsberg Sthlm sed. 35. Led IOGT, Tempelriddare, MHF.",
+    "translated": "FRÅNBERG, Erik Eugen Edward, Director, Stockholm, b. Selånger parish on September 9th, 1882, to merchant N.E.F. and Helena Åström, m. Elna Skoglund. Former cashier at Muscat Company in Sundsvall, 1908-1914, then owner of a grocery store and juice factory in Sundsvall. Currently the managing director of Automo-bilägrs Garantifrn and AB Josef Länsberg in Stockholm since 1935. Member of IOGT, Tempelriddare, and MHF.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Erik Eugen Edward Frånberg",
+        "birthDate": "1882-09-09",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Selånger",
+                "addressRegion": "N/A",
+                "addressCountry": "Sweden"
+            }
+        },
+        "father": {
+            "@type": "Person",
+            "name": "N.E.F."
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Helena Åström"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Elna Skoglund"
+        },
+        "jobTitle": "Director",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Stockholm"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "IOGT"
+            },
+            {
+                "@type": "Organization",
+                "name": "Tempelriddare"
+            },
+            {
+                "@type": "Organization",
+                "name": "MHF"
+            }
+        ],
+        "event": [
+            {
+                "@type": "JobPosting",
+                "title": "Cashier at Muscat Company",
+                "startDate": "1908-01-01",
+                "endDate": "1914-12-31",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Sundsvall",
+                        "addressRegion": "N/A",
+                        "addressCountry": "Sweden"
+                    }
+                }
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Owner of a grocery store and juice factory",
+                "startDate": "1915-01-01",
+                "endDate": "1934-12-31",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Sundsvall",
+                        "addressRegion": "N/A",
+                        "addressCountry": "Sweden"
+                    }
+                }
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Managing Director of Automo-bilägrs Garantifrn and AB Josef Länsberg",
+                "startDate": "1935-01-01"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Cashier",
+                "workplace": "Muscat Company",
+                "industry": "Retail",
+                "start_date": "1908"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "Grocery store",
+                "industry": "Retail",
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "Juice factory",
+                "industry": "Food and beverage",
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "Automo-bilägrs Garantifrn",
+                "industry": "Automotive",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "AB Josef Länsberg",
+                "industry": "Retail",
+                "start_date": "1935"
+            }
+        ]
+    }
+}

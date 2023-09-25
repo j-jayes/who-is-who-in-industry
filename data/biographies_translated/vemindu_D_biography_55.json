@@ -1,0 +1,88 @@
+{
+    "original": "DALMAN, Lars Johan Vilhelm, Civilingenjör, Söderhamn, f Gbg 8/2 07 av skeppsmäkl Gösta D o Elsa Berglund, gm Bergliot Plan-tén. CTH (maskinbyggn o el.tekn). Anst ASEA 32—36, Jonsereds fabr 36—41, vkst dir Söderh verkstad AB sed. 41. Resor: Europa 36—39, Sydafr 39.",
+    "translated": "DALMAN, Lars Johan Vilhelm, Civil Engineer, Söderhamn, b. Gothenburg 8/2 07, son of shipbroker Gösta D and Elsa Berglund, m. Bergliot Plantén. Graduated from Chalmers University of Technology (mechanical engineering and electrical technology). Employed at ASEA 32—36, Jonsereds factory 36—41, managing director of Söderhamn Ceramics AB since 41. Travels: Europe 36—39, South Africa 39.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Lars Johan Vilhelm Dalman",
+        "jobTitle": "Civil Engineer",
+        "birthPlace": "Gothenburg",
+        "birthDate": "1907-02-08",
+        "father": {
+            "@type": "Person",
+            "name": "Gösta Dalman",
+            "jobTitle": "shipbroker"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Elsa Berglund"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Bergliot Plantén"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "diploma",
+            "educationalLevel": "Bachelor's Degree",
+            "educationalProgram": "mechanical engineering and electrical technology",
+            "institution": {
+                "@type": "EducationalOrganization",
+                "name": "Chalmers University of Technology"
+            }
+        },
+        "employment": [
+            {
+                "@type": "Organization",
+                "name": "ASEA",
+                "startDate": "1932",
+                "endDate": "1936"
+            },
+            {
+                "@type": "Organization",
+                "name": "Jonsereds factory",
+                "startDate": "1936",
+                "endDate": "1941"
+            },
+            {
+                "@type": "Organization",
+                "name": "Söderhamn Ceramics AB",
+                "position": "Managing Director",
+                "startDate": "1941"
+            }
+        ],
+        "travel": [
+            {
+                "place": "Europe",
+                "startDate": "1936",
+                "endDate": "1939"
+            },
+            {
+                "place": "South Africa",
+                "startDate": "1939"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "ASEA",
+                "industry": "Electrical Technology",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Jonsereds factory",
+                "industry": "Mechanical Engineering",
+                "start_date": "1936"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "Söderhamn Ceramics AB",
+                "industry": "Unknown",
+                "start_date": "1941"
+            }
+        ]
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "original": "EKMAN, Sven Elof, Civilingenjör, Norrköping, f Gökhem, Skarab län, 29/7 03 av egend.mäkl O E Ekman o Elin Johansson, gm Margareta Segersten. Studex, KTH (kemi o kem teknol). Tekn led kvarnAB JGS, Nrkpg, sed. 30. Bef Lösings S hemv.omr. Resor: Tyskl 31, Norge 32, 37, Danm 39. Medl Nord Cerealkemistfrn, Nrkpgs Polytekn frn. Hobbies : Fiske, svamp.",
+    "translated": "EKMAN, Sven Elof, Civil Engineer, Norrköping, born in Gökhem, Skaraborg County, July 29, 1903, son of real estate agent O E Ekman and Elin Johansson, married to Margareta Segersten. Graduated from KTH (Royal Institute of Technology) with a degree in chemistry and chemical technology. Technical manager at JGS Mill AB, Norrköping, since 1930. Resided in the home district of Lösings S. Traveled to Germany in 1931, Norway in 1932 and 1937, and Denmark in 1939. Member of the Nordic Cereal Chemists Association and the Norrköping Polytechnic. Hobbies include fishing and mushroom picking.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Sven Elof Ekman",
+        "birthDate": "1903-07-29",
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Gökhem, Skaraborg County"
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "O E Ekman",
+                "jobTitle": "Real Estate Agent"
+            },
+            {
+                "@type": "Person",
+                "name": "Elin Johansson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Margareta Segersten"
+        },
+        "educationalCredentialAwarded": "Degree in Chemistry and Chemical Technology",
+        "alumniOf": {
+            "@type": "Organization",
+            "name": "KTH (Royal Institute of Technology)"
+        },
+        "jobTitle": "Civil Engineer",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "JGS Mill AB"
+        },
+        "startDate": "1930",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Nordic Cereal Chemists Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Norrköping Polytechnic"
+            }
+        ],
+        "residence": {
+            "@type": "Place",
+            "name": "Lösings S home district"
+        },
+        "hobbies": [
+            "Fishing",
+            "Mushroom picking"
+        ],
+        "hasOccupation": {
+            "@type": "Occupation",
+            "name": "Technical Manager"
+        },
+        "hasTravelAgent": [
+            {
+                "@type": "Place",
+                "name": "Germany",
+                "startDate": "1931"
+            },
+            {
+                "@type": "Place",
+                "name": "Norway",
+                "startDate": "1932"
+            },
+            {
+                "@type": "Place",
+                "name": "Norway",
+                "startDate": "1937"
+            },
+            {
+                "@type": "Place",
+                "name": "Denmark",
+                "startDate": "1939"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "JGS Mill AB",
+                "industry": "Engineering",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Technical Manager",
+                "workplace": "JGS Mill AB",
+                "industry": "Engineering",
+                "start_date": "1930"
+            }
+        ]
+    }
+}

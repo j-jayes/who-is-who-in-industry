@@ -1,0 +1,95 @@
+{
+    "original": "FREDHOLM, Ludvig, Bergsingenjör, Höganäs, f Västerås 15/3 07 av generalkonsuln o civ.ing J O F o Signe Håkansson. Studex Djursh samsk 25, KTH (bergsvetensk) 25— 31. Anst Kohlswa Jvks AB Kolsva 31—33, Surahammars Bruks AB 34—43, Höganäs-Billesholms AB sed. 43. Led Sv Tekn.frn.",
+    "translated": "FREDHOLM, Ludvig, Mining engineer, Höganäs, b. Västerås 15/3 07, son of the consul general and civil engineer J O F and Signe Håkansson. Graduated from Djursholms samskola in 1925, and from the Royal Institute of Technology (Mining engineering) in 1925-1931. Employed at Kohlswa Jvks AB in Kolsva from 1931 to 1933, Surahammars Bruks AB from 1934 to 1943, and Höganäs-Billesholms AB from 1943 onwards. Member of the Swedish Technical Association.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Ludvig Fredholm",
+        "birthDate": "1907-03-15",
+        "birthPlace": "Västerås",
+        "description": "Mining engineer",
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Swedish Technical Association"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "J O F Fredholm",
+                "description": "Consul general and civil engineer"
+            },
+            {
+                "@type": "Person",
+                "name": "Signe Håkansson"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "diploma",
+                "credentialAwarded": "Studex",
+                "educationalLevel": "Secondary school",
+                "alumniOf": "Djursholms samskola",
+                "startDate": "1925",
+                "endDate": "1925"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "diploma",
+                "credentialAwarded": "Bachelor's degree",
+                "educationalLevel": "Undergraduate",
+                "alumniOf": "Royal Institute of Technology",
+                "major": "Mining engineering",
+                "startDate": "1925",
+                "endDate": "1931"
+            }
+        ],
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "Kohlswa Jvks AB",
+                "startDate": "1931",
+                "endDate": "1933",
+                "jobTitle": "Mining engineer",
+                "address": {}
+            },
+            {
+                "@type": "Organization",
+                "name": "Surahammars Bruks AB",
+                "startDate": "1934",
+                "endDate": "1943",
+                "jobTitle": "Mining engineer",
+                "address": {}
+            },
+            {
+                "@type": "Organization",
+                "name": "Höganäs-Billesholms AB",
+                "startDate": "1943",
+                "jobTitle": "Mining engineer",
+                "address": {}
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Mining engineer",
+                "workplace": "Kohlswa Jvks AB",
+                "industry": "Mining",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Mining engineer",
+                "workplace": "Surahammars Bruks AB",
+                "industry": "Mining",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Mining engineer",
+                "workplace": "Höganäs-Billesholms AB",
+                "industry": "Mining",
+                "start_date": "1943"
+            }
+        ]
+    }
+}

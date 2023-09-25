@@ -1,0 +1,96 @@
+{
+    "original": "ENGEL, Erik Gustaf (Gösta) Georg, Direktör, Motala, f Sthlm 2/7 03, gm Inez Tidstrand. Studex 22, Schartaus, resoffex 25, utl textilprakt 24—26. Start agenturfma Gösta Engel Sthlm 26, vkst dir sed. 39 i Asps Yllefabr AB, Motala Täckfabr AB o Östgöta Matt-fabr AB (sammanslutna t »Engel-Fabrikerna»).",
+    "translated": "ENGEL, Erik Gustaf (Gösta) Georg, Director, Motala, born in Stockholm on July 2, 1903, married Inez Tidstrand. Graduated from Schartaus School in 1922, served as a reserve officer in 1925, trained in textile practices abroad from 1924 to 1926. Started the agency firm Gösta Engel in Stockholm in 1926 and has been the managing director since 1939 at Asps Yllefabr AB, Motala Täckfabr AB, and Östgöta Matt-fabr AB (merged as \"Engel-Fabrikerna\").",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Erik Gustaf Engel",
+        "additionalName": "Gösta Georg",
+        "givenName": "Erik Gustaf",
+        "familyName": "Engel",
+        "jobTitle": "Director",
+        "birthDate": "1903-07-02",
+        "birthPlace": "Stockholm",
+        "spouse": {
+            "@type": "Person",
+            "name": "Inez Tidstrand"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Studex",
+                "educationalLevel": "Graduation",
+                "educationalCredentialAwarded": "Schartaus School",
+                "awardingOrganization": "Schartaus"
+            }
+        ],
+        "alumniOf": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Schartaus School"
+            }
+        ],
+        "hasOccupation": [
+            {
+                "@type": "JobPosting",
+                "jobTitle": "Managing Director",
+                "startDate": "1939",
+                "endDate": "Present",
+                "employer": [
+                    {
+                        "@type": "Organization",
+                        "name": "Asps Yllefabr AB"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "Motala Täckfabr AB"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "Östgöta Matt-fabr AB"
+                    }
+                ]
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Engel-Fabrikerna"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Motala",
+                "industry": "Textile",
+                "start_date": "1939"
+            },
+            {
+                "occupational_title": "Owner/Founder",
+                "workplace": "Gösta Engel",
+                "industry": "Agency",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "Asps Yllefabr AB",
+                "industry": "Textile",
+                "start_date": "1939"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "Motala Täckfabr AB",
+                "industry": "Textile",
+                "start_date": "1939"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "Östgöta Matt-fabr AB",
+                "industry": "Textile",
+                "start_date": "1939"
+            }
+        ]
+    }
+}

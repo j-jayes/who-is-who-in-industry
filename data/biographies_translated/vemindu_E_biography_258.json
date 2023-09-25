@@ -1,0 +1,147 @@
+{
+    "original": "ERIKSSON, Herman, Skogschef, Skyllberg, f Arvika 26/12 92 av bildh O E o Christina Olsdotter, gm Lilly Grafström. KSH jägmäst.kurs. Skogsförvalt v Billeruds AB 19, skogsch.ass 23, skogschef v Skyllbergs Br AB sed. 28. Ag jordbr.fastigh i Lerbäcks s:n. Komm.flm, led Örebro l kristidsstyr, Strängnäs stiftsnmd. Styr.led öbr I jaktvårdsfrn, öbr l natur-skyddsfrn mfl. Upprep resor i de nord länd o Engl 14—38. Av trycket: Div upps i skogs-biol, -tekn o -ekon ämnen i facktidskr. Sv Jägarfrbs Hmg; led öbr l skogsmän, Ögl skogsmannaklb, Tivedsklbn.",
+    "translated": "ERIKSSON, Herman, Forest Manager, Skyllberg, born in Arvika on 26/12 92 to sculptor O E and Christina Olsdotter, married to Lilly Grafström. Completed forestry management course. Forest administrator at Billeruds AB in 19, forest assistant in 23, forest manager at Skyllbergs Br AB since 28. Owns agricultural property in Lerbäcks parish. Active in the municipal film committee, member of the Örebro war emergency force and the Strängnäs diocese board. Board member in hunting conservation organizations, nature conservation organizations, and others. Made repeated trips to the Nordic countries and England from 14 to 38. Published several articles on topics related to forest biology, technology, and economics in professional periodicals. Member of the Swedish Hunters Association Home Guard; board member in forest professionals' organizations, Ögl Forest Man's Club, Tiveds Club.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Herman Eriksson",
+        "birthDate": "1892-12-26",
+        "birthPlace": "Arvika, Sweden",
+        "familyName": "Eriksson",
+        "givenName": "Herman",
+        "nationality": "Swedish",
+        "spouse": {
+            "@type": "Person",
+            "name": "Lilly Grafström"
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "O E Eriksson",
+                "jobTitle": "Sculptor"
+            },
+            {
+                "@type": "Person",
+                "name": "Christina Olsdotter"
+            }
+        ],
+        "hasOccupation": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1919",
+                "endDate": "1923",
+                "roleName": "Forest Administrator",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Billeruds AB"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1923",
+                "endDate": "1928",
+                "roleName": "Forest Assistant",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Billeruds AB"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1928",
+                "roleName": "Forest Manager",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Skyllbergs Br AB"
+                }
+            }
+        ],
+        "owns": {
+            "@type": "Landform",
+            "name": "Agricultural property in Lerbäcks parish"
+        },
+        "activeIn": [
+            {
+                "@type": "Organization",
+                "name": "Municipal Film Committee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Örebro War Emergency Force"
+            },
+            {
+                "@type": "Organization",
+                "name": "Strängnäs Diocese Board"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Hunting Conservation Organizations"
+            },
+            {
+                "@type": "Organization",
+                "name": "Nature Conservation Organizations"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Hunters Association Home Guard"
+            },
+            {
+                "@type": "Organization",
+                "name": "Forest Professionals' Organizations"
+            },
+            {
+                "@type": "Organization",
+                "name": "Ögl Forest Man's Club"
+            },
+            {
+                "@type": "Organization",
+                "name": "Tiveds Club"
+            }
+        ],
+        "hasPublished": [
+            {
+                "@type": "Article",
+                "name": "Articles on forest biology, technology, and economics",
+                "publisher": {
+                    "@type": "Organization",
+                    "name": "Professional Periodicals"
+                },
+                "datePublished": "Unknown"
+            }
+        ],
+        "hasTraveled": [
+            {
+                "@type": "Place",
+                "name": "Nordic countries"
+            },
+            {
+                "@type": "Place",
+                "name": "England"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Forest Administrator",
+                "workplace": "Billeruds AB",
+                "industry": "Forestry",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Forest Assistant",
+                "workplace": "Billeruds AB",
+                "industry": "Forestry",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Forest Manager",
+                "workplace": "Skyllbergs Br AB",
+                "industry": "Forestry",
+                "start_date": "1928"
+            }
+        ]
+    }
+}

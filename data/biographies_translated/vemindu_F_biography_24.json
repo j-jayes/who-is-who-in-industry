@@ -1,0 +1,80 @@
+{
+    "original": "FALKMAN, Curt Einar Henrik, Direktör, Stockholm, f 11/10 04 av baning J F o Maria Fagerlind, gm Britta Forsell. Studex 25, resoffex 27, DHS 29. Anst Skandiakonc 29—35, Thulebol sed. 36. Stud.res Engl, USA, Tyskl, Holl, Skand.",
+    "translated": "FALKMAN, Curt Einar Henrik, Director, Stockholm, b. 11/10 04, son of John Fredrik Falkman and Maria Fagerlind, married to Britta Forsell. Completed high school in 1925, reserve officer training in 1927, and Diploma in Business and Administration in 1929. Employed at Skandiakoncernen from 1929 to 1935, and at Thulebol since 1936. Studied abroad in England, USA, Germany, the Netherlands, and Scandinavia. Note: '\\d\\d m. partners name' indicates marriage in the year 19xx.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Curt Einar Henrik Falkman",
+        "jobTitle": "Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "birthDate": "1904-10-11",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "John Fredrik Falkman",
+                "jobTitle": "Railway Employee"
+            },
+            {
+                "@type": "Person",
+                "name": "Maria Fagerlind"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Britta Forsell"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "High school diploma",
+                "educationalLevel": "HighSchool",
+                "dateEarned": "1925"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Reserve officer training",
+                "dateEarned": "1927"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Diploma in Business and Administration",
+                "dateEarned": "1929"
+            }
+        ],
+        "jobTitleHistory": [
+            "Skandiakoncernen, 1929-1935",
+            "Thulebol, 1936 - present"
+        ],
+        "additionalProperty": [
+            {
+                "name": "Studied abroad",
+                "value": "England, USA, Germany, the Netherlands, Scandinavia"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Stockholm",
+                "industry": "Unknown",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Employed at Skandiakoncernen",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": 1929
+            },
+            {
+                "occupational_title": "Employed at Thulebol",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": 1936
+            }
+        ]
+    }
+}

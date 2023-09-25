@@ -1,0 +1,89 @@
+{
+    "original": "ELIASON, Carl Julius, Rådman, Nora, f Nora 9/7 78. Aff.anst sed. 94, start fma Eliason &amp; Co (specerier, delikatesser, spannm mm) i Nora 06. V. vkst dir i Nora Sparbk, styr.ordf i AB Hakon Swenson Västerås, v. ordf i Nora Hdlsfrn. Ordf i drätselk. Rådman.",
+    "translated": "ELIASON, Carl Julius, Magistrate, Nora, born in Nora on 9th July 1878. Employed since 1894. Started the business Eliason & Co (groceries, delicacies, grains, etc.) in Nora in 1906. Became managing director of Nora Savings Bank, chairman of the board of AB Hakon Swenson in Västerås, and vice chairman of Nora Chamber of Commerce. Also served as chairman of the municipal finance committee. Became a magistrate.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Carl Julius",
+        "familyName": "Eliason",
+        "birthDate": "1878-07-09",
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Nora"
+        },
+        "occupation": {
+            "@type": "Role",
+            "name": "Magistrate"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Eliason & Co",
+                "startDate": "1906",
+                "industry": "Groceries, delicacies, grains, etc."
+            },
+            {
+                "@type": "Organization",
+                "name": "Nora Savings Bank",
+                "startDate": "year when became managing director"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Hakon Swenson",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Västerås"
+                },
+                "roleName": "Chairman of the board"
+            },
+            {
+                "@type": "Organization",
+                "name": "Nora Chamber of Commerce",
+                "roleName": "Vice Chairman"
+            }
+        ],
+        "hasOccupation": {
+            "@type": "Role",
+            "name": "Magistrate"
+        },
+        "memberOfMunicipality": {
+            "@type": "Organization",
+            "name": "Nora",
+            "financeCommitteeChair": true
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Aff.anst",
+                "workplace": "Eliason & Co",
+                "industry": "Groceries, delicacies, grains, etc.",
+                "start_date": "1894"
+            },
+            {
+                "occupational_title": "V. vkst dir",
+                "workplace": "Nora Sparbk",
+                "industry": "Banking",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Styr.ordf",
+                "workplace": "AB Hakon Swenson",
+                "industry": "Unknown",
+                "start_date": null
+            },
+            {
+                "occupational_title": "V. ordf",
+                "workplace": "Nora Hdlsfrn",
+                "industry": "Unknown",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Ordf i drätselk",
+                "workplace": "Rådman",
+                "industry": "Municipal finance",
+                "start_date": null
+            }
+        ]
+    }
+}

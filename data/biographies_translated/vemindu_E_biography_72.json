@@ -1,0 +1,184 @@
+{
+    "original": "EKFELDT, Karl-Gustaf, Direktör. Norrköping, f Nrkp 20/6 13 av Gustaf E o Anna Lund, gm Evy Lantz. Realex, språkstud. Anst H. Unér AB 31—32, Lifförs.AB Thules distr.kont 32—36; Red.AB Norden sed. 36, Red.AB Simrishamn sed. 41, Ångfart.AB Nyköping sed. 42, vkst dir o styr.led i samtl; akt.ag i Norden o Nyköp. Resor: Danm, Tyskl, Holl 39. Odd Fellow. Hobbies: Tennis, segling.",
+    "translated": "EKFELDT, Karl-Gustaf, Director. Norrköping, born in Norrköping on June 20, 1913, to Gustaf E and Anna Lund, married to Evy Lantz. Completed a secondary school diploma and language studies. Employed at H. Unér AB from 1931 to 1932, and at Lifförsäkrings AB Thule's district office from 1932 to 1936. Editor at AB Norden since 1936, and at AB Simrishamn since 1941. Steamship company AB Nyköping since 1942, serving as executive director and board member in all mentioned companies. Also involved in various joint-stock companies in the Nordics and Nyköping. Traveled to Denmark, Germany, and the Netherlands in 1939. Member of the Odd Fellow society. Hobbies include tennis and sailing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Karl-Gustaf Ekfeldt",
+        "birthDate": "1913-06-20",
+        "birthPlace": "Norrköping",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Gustaf E",
+                "spouse": "Anna Lund"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Evy Lantz"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Realex",
+                "credentialLevel": "SecondarySchoolDiploma"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Language Studies"
+            }
+        ],
+        "employment": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1931",
+                "endDate": "1932",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "H. Unér AB"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1932",
+                "endDate": "1936",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Lifförsäkrings AB Thule's district office"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1936",
+                "roleName": "Editor",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Norden"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1941",
+                "roleName": "Editor",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Simrishamn"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1942",
+                "roleName": "Executive Director",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Steamship company AB Nyköping"
+                }
+            }
+        ],
+        "boardMember": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Board Member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "H. Unér AB"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Board Member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Lifförsäkrings AB Thule's district office"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Board Member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Norden"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Board Member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Simrishamn"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Board Member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Steamship company AB Nyköping"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Odd Fellow"
+            }
+        ],
+        "sameAs": [
+            "https://example.com/karl-gustaf-ekfeldt"
+        ],
+        "hobbies": [
+            "Tennis",
+            "Sailing"
+        ],
+        "travelHistory": {
+            "1939": [
+                "Denmark",
+                "Germany",
+                "Netherlands"
+            ]
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Realex",
+                "workplace": "H. Unér AB",
+                "industry": "Unknown",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Språkstud",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Lifförs.AB Thules distr.kont",
+                "workplace": "Lifförsäkrings AB Thule",
+                "industry": "Insurance",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Red.AB Norden",
+                "workplace": "AB Norden",
+                "industry": "Publishing",
+                "start_date": "1936"
+            },
+            {
+                "occupational_title": "Red.AB Simrishamn",
+                "workplace": "AB Simrishamn",
+                "industry": "Publishing",
+                "start_date": "1941"
+            },
+            {
+                "occupational_title": "Ångfart.AB Nyköping",
+                "workplace": "Ångfartygs AB Nyköping",
+                "industry": "Maritime",
+                "start_date": "1942"
+            }
+        ]
+    }
+}

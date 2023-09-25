@@ -1,0 +1,177 @@
+{
+    "original": "ENGSTRÖM, Helge Fredrik. Bankdirektör, Vetlanda, f Växjö 8/10 94 av fastigh.äg N E o Maria Jonsson, gm Elisabet Wingren. Realex 12, hdlssk. Anst i bk 12, e. o. tjm 13, ord 16, kass Sydsv kred.AB (nuv Ska bkn) Växjö 17, 1. kass Kristianst 19, kass huv.-kont Malmö 27, kamr Vetl 30, dir där sed. 38. Stdflm, led fi kommun styr o nmdr samt bol-o frnsstyr:er.",
+    "translated": "ENGSTRÖM, Helge Fredrik. Bank director, Vetlanda, born in Växjö on October 8, 1894, to property owners N E and Maria Jonsson. Married to Elisabet Wingren. Completed junior high school at age 12, commercial school. Employed in a bank since 1912, initially as a temporary employee in 1913, became a regular employee in 1916, cashier at Sydsvenska kreditaktiebolaget (now Skånes Enskilda Bank) in Växjö in 1917, 1st cashier in Kristianstad in 1919, cashier at the head office in Malmö in 1927, chamberlain in Vetlanda in 1930, director there since 1938. Active in local government boards and committees as well as company and association boards.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Helge Fredrik Engström",
+        "birthDate": "1894-10-08",
+        "birthPlace": "Växjö, Sweden",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "N E Engström"
+            },
+            {
+                "@type": "Person",
+                "name": "Maria Jonsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Elisabet Wingren"
+        },
+        "description": "Bank director, Vetlanda",
+        "education": {
+            "@type": "EducationEvent",
+            "startDate": "1906",
+            "endDate": "1908",
+            "educationalLevel": "Junior High School"
+        },
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1912",
+                "endDate": "1913",
+                "roleName": "Bank Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Unknown Bank"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1913",
+                "endDate": "1916",
+                "roleName": "Temporary Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Unknown Bank"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1916",
+                "roleName": "Regular Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Unknown Bank"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1917",
+                "endDate": "1919",
+                "roleName": "Cashier",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Sydsvenska kreditaktiebolaget (now Skånes Enskilda Bank)",
+                    "location": "Växjö, Sweden"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1919",
+                "endDate": "1927",
+                "roleName": "1st Cashier",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Kristianstad Bank",
+                    "location": "Kristianstad, Sweden"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1927",
+                "endDate": "1930",
+                "roleName": "Cashier",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Head Office, Malmö",
+                    "location": "Malmö, Sweden"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1930",
+                "endDate": "1938",
+                "roleName": "Chamberlain",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Vetlanda Bank",
+                    "location": "Vetlanda, Sweden"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1938",
+                "roleName": "Director",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Vetlanda Bank",
+                    "location": "Vetlanda, Sweden"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Local Government Board"
+            },
+            {
+                "@type": "Organization",
+                "name": "Committees"
+            }
+        ],
+        "affiliation": [
+            {
+                "@type": "Organization",
+                "name": "Company/Association 1"
+            },
+            {
+                "@type": "Organization",
+                "name": "Company/Association 2"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Bank director",
+                "workplace": "Vetlanda",
+                "industry": "Banking",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Cashier",
+                "workplace": "Sydsvenska kreditaktiebolaget (now Skånes Enskilda Bank)",
+                "industry": "Banking",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "1st Cashier",
+                "workplace": "Kristianstad",
+                "industry": "Banking",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Cashier at the head office",
+                "workplace": "Malmö",
+                "industry": "Banking",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Chamberlain",
+                "workplace": "Vetlanda",
+                "industry": "Unknown (possibly a local administrative role)",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Vetlanda",
+                "industry": "Unknown (possibly continued in the banking sector)",
+                "start_date": "1938"
+            }
+        ]
+    }
+}

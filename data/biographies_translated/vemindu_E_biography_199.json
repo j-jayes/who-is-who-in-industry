@@ -1,0 +1,117 @@
+{
+    "original": "ENSKOG, Nils Olof Georgr, Civilingenjör, Ängby (Sthlm), f Sthlm 12/7 03 av handl J T Olsson-E o Emma Olsson, gm Maja Löfstedt. Studex Karlst 23, KTH (V o V) 25—29. Anst v Byggn.konstr.byrån Sthlm 29 o 30, konstr v Sthlms vattenledn.vk 30—31, konstr o kontr Sthlms hamnstyr :s hamnbyggn.avd :s brobyrå 31, arbetschef i Nya Asfalt AB Sthlm 37. Led Sv Tekn.frn.",
+    "translated": "ENSKOG, Nils Olof Georgr, Civil Engineer, Ängby (Stockholm), born in Stockholm on July 12, 1903, son of the merchant J.T. Olsson-E and Emma Olsson, married Maja Löfstedt. Graduated from Karlstad in 1923, KTH (V o V) 1925-1929. Employed at the Construction Design Agency in Stockholm in 1929 and 1930, construction engineer at Stockholm's water supply in 1930-1931, construction and contracts at Stockholm Port Authority's Harbor Construction Department's Bridge Office in 1931, and worked as a project manager at Nya Asfalt AB in Stockholm in 1937. Member of the Swedish Engineering Association.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Nils Olof Georgr Enskog",
+        "jobTitle": "Civil Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Ängby",
+            "addressRegion": "Stockholm"
+        },
+        "birthDate": "1903-07-12",
+        "birthPlace": "Stockholm",
+        "father": {
+            "@type": "Person",
+            "name": "J.T. Olsson-E"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Emma Olsson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Maja Löfstedt"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Karlstad",
+                "endDate": "1923"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "KTH",
+                "startDate": "1925",
+                "endDate": "1929"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "Construction Design Agency",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm"
+                },
+                "startDate": "1929",
+                "endDate": "1930"
+            },
+            {
+                "@type": "Organization",
+                "name": "Stockholm's water supply",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm"
+                },
+                "startDate": "1930",
+                "endDate": "1931",
+                "jobTitle": "Construction Engineer"
+            },
+            {
+                "@type": "Organization",
+                "name": "Stockholm Port Authority's Harbor Construction Department's Bridge Office",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm"
+                },
+                "startDate": "1931",
+                "jobTitle": "Construction and Contracts"
+            },
+            {
+                "@type": "Organization",
+                "name": "Nya Asfalt AB",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm"
+                },
+                "startDate": "1937",
+                "jobTitle": "Project Manager"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Swedish Engineering Association"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Byggn.konstr.byrån",
+                "industry": "Construction",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Construction Engineer",
+                "workplace": "Sthlms vattenledn.vk",
+                "industry": "Water supply",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Construction and Contracts",
+                "workplace": "Sthlms hamnstyr :s hamnbyggn.avd :s brobyrå",
+                "industry": "Port Authority (Harbor Construction)",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Project Manager",
+                "workplace": "Nya Asfalt AB",
+                "industry": "Construction",
+                "start_date": "1937"
+            }
+        ]
+    }
+}

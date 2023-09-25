@@ -1,0 +1,89 @@
+{
+    "original": "ELGH, Bertil Johan, Boktryckare, Skövde, f Töreboda 12/12 85 av tågm A E o Augusta Kempe, gm Hildur Nyström. Boktryckarprakt. Deläg Strokirks bokind AB Skövde 17, inneh akt.maj o vkst dir där. Led stdflm o dräts.kamm. Styr.led Sv boktr.frn, ordf Vgl boktr.-frn. Sv hantv- o småind.frns ftJM, Skarab reg:s ftJM g.",
+    "translated": "ELGH, Bertil Johan, Printer, Skövde, b. Töreboda 12/12 1885, son of August Emanuel Elgh and Augusta Kempe. Married Hildur Nyström. Printer's apprentice. Co-owner of Strokirks bokind AB Skövde 17, holding a managerial position since May, and growth director there. Board member of the Swedish book printing association and chairman of the Västergötland book printing association. Member of the local film society and municipal council. Skaraborg regiment's junior master sergeant in the artisan and small industry association from JM. Note: 'gm' indicates marriage, '\\d\\d m. partners name' means that the person married in the year 19xx.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "ELGH, Bertil Johan",
+        "jobTitle": "Printer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Skövde"
+        },
+        "birthDate": "1885-12-12",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "August Emanuel Elgh"
+            },
+            {
+                "@type": "Person",
+                "name": "Augusta Kempe"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Hildur Nyström"
+        },
+        "workExperience": [
+            {
+                "@type": "Organization",
+                "name": "Strokirks bokind AB",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Skövde",
+                    "streetAddress": "Skövde 17"
+                },
+                "startDate": "May",
+                "jobTitle": "Co-owner"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish book printing association",
+                "memberOf": "Board member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Västergötland book printing association",
+                "memberOf": "Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Local film society",
+                "memberOf": "Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Municipal council"
+            },
+            {
+                "@type": "Organization",
+                "name": "Skaraborg regiment",
+                "memberOf": "Junior master sergeant"
+            },
+            {
+                "@type": "Organization",
+                "name": "Artisan and small industry association",
+                "memberOf": "Junior master sergeant"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Printer",
+                "workplace": "Strokirks bokind AB",
+                "industry": "Printing",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Strokirks bokind AB",
+                "industry": "Printing",
+                "start_date": "May"
+            }
+        ]
+    }
+}

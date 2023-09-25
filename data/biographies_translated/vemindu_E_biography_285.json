@@ -1,0 +1,137 @@
+{
+    "original": "ESMARCH, Fredrik Wilhelm Alexander, Bruksägare, Silverdalen, f Schlesvig-Holstein 23/3 74 av civ.ing U V E o Maria Grumbt, gm Anna Wijk. Hal, tekn högsk, ingex 96. Repr o konsult ing f Ryssl o Finl f fma J M Voith i Wurtenberg 00—03, disp f pappers-br i Ryssl 03—06, disp o vkst dir AB Brusafors-Hällefors i Silverdalen sed. 07, sed. 08 ag av detta AB samt Säfsjöströms br m underlyd skogsfastigh, styr.led o vkst dir i Sv Papper AB Sthlm. Led Smal o Blek hdls-kamm:s arb.utsk. Kommunalflm i Lönne-berga s:n. RNO, RVO.",
+    "translated": "ESMARCH, Fredrik Wilhelm Alexander, Industrialist, Silverdalen, born in Schleswig-Holstein on March 23, 1874, son of civil engineer U V E and Maria Grumbt, married to Anna Wijk. Half, technical college, engineer graduate 1896. Representative and consultant engineer for Russia and Finland for the J M Voith company in Wurtenberg from 1900 to 1903, director of the paper mill in Russia from 1903 to 1906, director and growth manager of AB Brusafors-Hällefors in Silverdalen since 1907, owner since 1908 of this company as well as Säfsjöström's sawmill with subordinate forest property, board member and growth manager in Sv Papper AB Stockholm. Member of the small and pale trade chamber's working committee. Municipal council member in Lönneberga parish. Recipient of the Royal Order of the North Star, Royal Order of Vasa.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Fredrik Wilhelm Alexander Esmarch",
+        "givenName": "Fredrik Wilhelm Alexander",
+        "familyName": "Esmarch",
+        "jobTitle": "Industrialist",
+        "birthDate": "1874-03-23",
+        "birthPlace": "Schleswig-Holstein",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "U V E",
+                "jobTitle": "Civil Engineer"
+            },
+            {
+                "@type": "Person",
+                "name": "Maria Grumbt"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Anna Wijk"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "engineering",
+            "educationalLevel": "engineer graduate",
+            "educationalRole": "student",
+            "startDate": "1896"
+        },
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "J M Voith"
+                },
+                "jobTitle": "Representative and Consultant Engineer",
+                "startDate": "1900",
+                "endDate": "1903",
+                "location": "Wurtenberg"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Brusafors-Hällefors"
+                },
+                "jobTitle": "Director and Growth Manager",
+                "startDate": "1907",
+                "location": "Silverdalen"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Sv Papper AB Stockholm"
+                },
+                "jobTitle": "Board Member and Growth Manager"
+            }
+        ],
+        "owns": [
+            {
+                "@type": "RealEstate",
+                "name": "Säfsjöström's Sawmill",
+                "description": "Subordinate forest property",
+                "startDate": "1908"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Brusafors-Hällefors",
+                "description": "Industrial company",
+                "startDate": "1908"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Small and Pale Trade Chamber",
+                "description": "Working Committee"
+            }
+        ],
+        "politicalAffiliation": [
+            {
+                "@type": "GovernmentOrganization",
+                "name": "Lönneberga Parish",
+                "description": "Municipal Council Member"
+            }
+        ],
+        "awards": [
+            {
+                "@type": "Order",
+                "name": "Royal Order of the North Star",
+                "description": "Recipient",
+                "startDate": "unknown"
+            },
+            {
+                "@type": "Order",
+                "name": "Royal Order of Vasa",
+                "description": "Recipient",
+                "startDate": "unknown"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Consultant Engineer",
+                "workplace": "J M Voith",
+                "industry": "Engineering",
+                "start_date": "1900"
+            },
+            {
+                "occupational_title": "Director of the Paper Mill",
+                "workplace": "Russia",
+                "industry": "Paper Manufacturing",
+                "start_date": "1903"
+            },
+            {
+                "occupational_title": "Director and Growth Manager",
+                "workplace": "AB Brusafors-Hällefors",
+                "industry": "Paper Manufacturing",
+                "start_date": "1907"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "AB Brusafors-Hällefors",
+                "industry": "Paper Manufacturing",
+                "start_date": "1908"
+            }
+        ]
+    }
+}

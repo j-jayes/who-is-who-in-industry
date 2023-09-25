@@ -1,0 +1,131 @@
+{
+    "original": "EKSTRÖMER, Carl Ivar, Bruksägare, Klav-reström, f Fågelfors, Kalm län, 5/6 80 av bruksäg M E o Agnes Carlson, gm (2) Ingegerd af Petersens. Jur utr kand Upps 04. Ag Klafreströms br sed. 16, Hornsborg sed. 41. Ordf Kronob hush.sällsk Uppvidingeavd 20, Kronob mejerifrb 32. Styr.led AB Fogelfors Br o Ydrehammars AB. lia kamm sed. 35 (h). RVO, Hush.sällsk GM.",
+    "translated": "EKSTRÖMER, Carl Ivar, Industrialist, Klavreström, born in Fågelfors, Kalmar County, 5/6 1880, son of industrialist M E and Agnes Carlson, married (2) Ingegerd af Petersens. Law degree from Uppsala 1904. Managing Director of Klafreström's textile mill since 1916, and Hornsborg's textile mill since 1941. Chairman of the Kronoberg Housing Association, Uppvidinge division since 1920, and the Kronoberg Dairy Association since 1932. Board member of AB Fogelfors Bruk and Ydrehammars AB. Member of the Chamber of Commerce since 1935 and holder of the Royal Order of Vasa. Chairman of the Housing Society GM.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Carl Ivar",
+        "familyName": "Ekströmer",
+        "birthDate": "1880-06-05",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Fågelfors",
+                "addressRegion": "Kalmar County"
+            }
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "M. E.",
+                "jobTitle": "Industrialist"
+            },
+            {
+                "@type": "Person",
+                "name": "Agnes Carlson"
+            }
+        ],
+        "spouse": [
+            {
+                "@type": "Person",
+                "name": "Ingegerd af Petersens"
+            }
+        ],
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "law degree",
+            "educationalLevel": "Bachelor's degree",
+            "alumniOf": {
+                "@type": "CollegeOrUniversity",
+                "name": "Uppsala",
+                "foundingDate": "1477"
+            },
+            "startDate": "1904"
+        },
+        "jobTitle": "Industrialist",
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Klavreström",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Klavreström"
+                },
+                "jobTitle": "Managing Director",
+                "startDate": "1916"
+            },
+            {
+                "@type": "Organization",
+                "name": "Hornsborg",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Hornsborg"
+                },
+                "jobTitle": "Managing Director",
+                "startDate": "1941"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Housing Society GM",
+            "position": "Chairman"
+        },
+        "award": {
+            "@type": "Order",
+            "name": "Royal Order of Vasa"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Industrialist",
+                "workplace": "Klavreström",
+                "industry": "Textile",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "Klafreström's textile mill",
+                "industry": "Textile",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "Hornsborg's textile mill",
+                "industry": "Textile",
+                "start_date": "1941"
+            },
+            {
+                "occupational_title": "Chairman",
+                "workplace": "Kronoberg Housing Association, Uppvidinge division",
+                "industry": "Housing",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Chairman",
+                "workplace": "Kronoberg Dairy Association",
+                "industry": "Dairy",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Board member",
+                "workplace": "AB Fogelfors Bruk",
+                "industry": "Unknown",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Board member",
+                "workplace": "Ydrehammars AB",
+                "industry": "Unknown",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Member",
+                "workplace": "Chamber of Commerce",
+                "industry": "Unknown",
+                "start_date": "1935"
+            }
+        ]
+    }
+}

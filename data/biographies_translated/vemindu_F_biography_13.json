@@ -1,0 +1,71 @@
+{
+    "original": "FALCK, Bror Emil, Köpman, Växjö, f Växjö 1/1 06 av poliskonstapel J E F o Anna Hansson, gm Anna-Lisabet Nilsson. Prakt i AB Lindgren &amp; Brandt i Växjö 19—30, i Oscar Bergs Speceriaff där 30—38, övert Elin Janssons Speceriaff där und fma Falkens Speceriaffär 38.",
+    "translated": "FALCK, Bror Emil, Merchant, Växjö, born in Växjö on January 1, 1906, to police constable J.E.F. and Anna Hansson, married to Anna-Lisabet Nilsson. Worked in AB Lindgren & Brandt in Växjö from 1919 to 1930, then in Oscar Berg's Grocery Store from 1930 to 1938. Took over Elin Jansson's Grocery Store and founded Falken's Grocery Store in 1938.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Bror Emil Falck",
+        "jobTitle": "Merchant",
+        "birthDate": "1906-01-01",
+        "birthPlace": "Växjö, Sweden",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "J.E.F. Falck",
+                "jobTitle": "Police Constable"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Hansson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Anna-Lisabet Nilsson"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "AB Lindgren & Brandt",
+                "startDate": "1919",
+                "endDate": "1930",
+                "location": "Växjö, Sweden"
+            },
+            {
+                "@type": "Organization",
+                "name": "Oscar Berg's Grocery Store",
+                "startDate": "1930",
+                "endDate": "1938",
+                "location": "Växjö, Sweden"
+            },
+            {
+                "@type": "Organization",
+                "name": "Falken's Grocery Store",
+                "startDate": "1938",
+                "location": "Växjö, Sweden"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "AB Lindgren & Brandt",
+                "industry": "General trading",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Oscar Berg's Grocery Store",
+                "industry": "Grocery",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Elin Jansson's Grocery Store",
+                "industry": "Grocery",
+                "start_date": "1938"
+            }
+        ]
+    }
+}

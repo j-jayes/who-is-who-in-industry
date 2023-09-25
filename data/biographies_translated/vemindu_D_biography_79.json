@@ -1,0 +1,149 @@
+{
+    "original": "DELIN, Johan Emil G :son, Direktörsassistent, Gyttorp, f Durban, Natal, Sydafr, 22/9 99 av grhdl J G E D o Gunhild Refsnes, gm Sonja Sundgren. Studex Gävle 18, KTH (kemi) 21—24, ekon ex HHS 26, stud cellulosa-o pappersind i USA 26—27. Ing v STAB 27— 36 m plac bl a vid The Western India Match Co i Britt Ind o Burma 28—30, fabr.ch v American Turkish Investment Corp i Istanbul 31—36, dir.assist v Nitroglycerin AB i Gyttorp sed. 36. Ordf i KTH:s studentkår 23. Tekn ch v Societa Anonima Unione Fiammiferi, Rom, sed. 43.",
+    "translated": "DELIN, Johan Emil G:son, Director's Assistant, Gyttorp, b. Durban, Natal, South Africa, September 22, 1899, son of the deceased G E D and Gunhild Refsnes, married to Sonja Sundgren. Studied in Gävle until 1918, Royal Institute of Technology (Chemistry) from 1921 to 1924, economics degree from the Stockholm School of Economics in 1926, studied cellulose and paper industry in the United States from 1926 to 1927. Employed at STAB from 1927 to 1936, with placements at The Western India Match Co in British India and Burma from 1928 to 1930, factory chief at American Turkish Investment Corp in Istanbul from 1931 to 1936, Director's Assistant at Nitroglycerin AB in Gyttorp since 1936. Chairman of the Royal Institute of Technology's student union in 1923. Technical consultant at Societa Anonima Unione Fiammiferi, Rome, since 1943.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Johan Emil",
+        "familyName": "Delin",
+        "additionalName": "G",
+        "honorificSuffix": "son",
+        "jobTitle": "Director's Assistant",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Gyttorp"
+        },
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Durban",
+                "addressRegion": "Natal",
+                "addressCountry": "South Africa"
+            },
+            "startDate": "1899-09-22"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "givenName": "G E D",
+                "deceased": true
+            },
+            {
+                "@type": "Person",
+                "givenName": "Gunhild",
+                "familyName": "Refsnes"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "givenName": "Sonja",
+            "familyName": "Sundgren"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Gävle",
+                "startDate": "1918"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Royal Institute of Technology",
+                "alternateName": "KTH",
+                "department": "Chemistry",
+                "startDate": "1921",
+                "endDate": "1924"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Stockholm School of Economics",
+                "alternateName": "HHS",
+                "degree": "economics",
+                "startDate": "1926",
+                "endDate": "1926"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Cellulose and Paper Industry",
+                "alternateName": "USA",
+                "startDate": "1926",
+                "endDate": "1927"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "STAB",
+                "startDate": "1927",
+                "endDate": "1936",
+                "description": "Various placements including The Western India Match Co in British India and Burma from 1928 to 1930."
+            },
+            {
+                "@type": "Organization",
+                "name": "American Turkish Investment Corp",
+                "department": "Factory Chief",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Istanbul"
+                },
+                "startDate": "1931",
+                "endDate": "1936"
+            },
+            {
+                "@type": "Organization",
+                "name": "Nitroglycerin AB",
+                "department": "Director's Assistant",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Gyttorp"
+                },
+                "startDate": "1936"
+            },
+            {
+                "@type": "Organization",
+                "name": "Societa Anonima Unione Fiammiferi",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Rome"
+                },
+                "startDate": "1943",
+                "description": "Technical consultant"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Royal Institute of Technology",
+            "department": "Student Union",
+            "startDate": "1923",
+            "endDate": "1923"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director's Assistant",
+                "workplace": "Gyttorp",
+                "industry": "Unknown",
+                "start_date": "1936"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "STAB",
+                "industry": "Unknown",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Factory Chief",
+                "workplace": "American Turkish Investment Corp",
+                "industry": "Unknown",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Technical Consultant",
+                "workplace": "Societa Anonima Unione Fiammiferi",
+                "industry": "Unknown",
+                "start_date": "1943"
+            }
+        ]
+    }
+}

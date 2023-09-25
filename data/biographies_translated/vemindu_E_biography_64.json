@@ -1,0 +1,140 @@
+{
+    "original": "EKELUND, Owe Fredrik, Direktör, Äppelviken, f Landskrona 25/12 95 av grhdl H E o Olga Sundström, gm Elisabeth Biinjer. H a l, högre hdlssk Braunschw Tyskl. Korresp h AB Wijk &amp; Mark Sthlm 17—18, prakt v Kockums Jvk Kallinge 19, korresp, res, kont.ch samt sederm deläg 19—33 i grhdlsfma Hugo Ekelund (bl a försäljn.kont f Kockums Jvks AB), inneh fr 34 p vkst dir f denna t AB omb fma sed. 42. Ag fastigh i Bromma. Resor: Tyskl 14 ggr. Danm. Timmermansorden, KAK, M, KSAK mfl. Hobbies: Musik, litteratur, motorsport.",
+    "translated": "EKELUND, Owe Fredrik, Director, Äppelviken, b. Landskrona 25/12 95, son of Captain H E and Olga Sundström, m. Elisabeth Biinjer. Higher business school at Braunschweig, Germany. Correspondent at AB Wijk & Mark in Stockholm 17–18, practical training at Kockums Shipyard in Kallinge 19, correspondence, sales, and then co-owner 19–33 at the trading company Hugo Ekelund (including sales department at Kockums Shipyard AB), owner from 34 of extensive shares and managing director at the former trading company and now limited company since 42. Owns property in Bromma. Travel: 14 times to Germany. Member of the Timber Workers' Order, the Royal Automobile Club, the Motor Sports Club, among others. Hobbies: Music, literature, motorsports.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Owe Fredrik Ekelund",
+        "birthDate": "1895-12-25",
+        "birthPlace": "Landskrona",
+        "father": {
+            "@type": "Person",
+            "name": "Captain H E Sundström"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Olga Sundström"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Elisabeth Biinjer"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Higher Business School",
+            "credentialSubject": "Braunschweig, Germany"
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "AB Wijk & Mark"
+        },
+        "jobTitle": "Director",
+        "location": "Äppelviken",
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "AB Wijk & Mark",
+                "startDate": "1917",
+                "endDate": "1918"
+            },
+            {
+                "@type": "Organization",
+                "name": "Kockums Shipyard",
+                "location": "Kallinge",
+                "startDate": "1919"
+            },
+            {
+                "@type": "Organization",
+                "name": "Hugo Ekelund",
+                "coOwners": [
+                    "Owe Fredrik Ekelund"
+                ],
+                "startDate": "1919",
+                "endDate": "1933"
+            },
+            {
+                "@type": "Organization",
+                "name": "Hugo Ekelund",
+                "jobTitle": "Managing Director",
+                "startDate": "1934",
+                "location": "Bromma"
+            }
+        ],
+        "owns": {
+            "@type": "Place",
+            "name": "Property in Bromma"
+        },
+        "travelFrequency": "14 times",
+        "travelTo": [
+            "Germany"
+        ],
+        "memberships": [
+            {
+                "@type": [
+                    "Organization",
+                    "Order"
+                ],
+                "name": "Timber Workers' Order"
+            },
+            {
+                "@type": "Organization",
+                "name": "Royal Automobile Club"
+            },
+            {
+                "@type": "Organization",
+                "name": "Motor Sports Club"
+            }
+        ],
+        "hobbies": [
+            "Music",
+            "Literature",
+            "Motorsports"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Correspondent",
+                "workplace": "AB Wijk & Mark",
+                "industry": "Business/Trade",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Practical Training",
+                "workplace": "Kockums Shipyard",
+                "industry": "Shipbuilding",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Correspondence/Sales",
+                "workplace": "Hugo Ekelund Trading Company",
+                "industry": "Business/Trade",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Co-owner",
+                "workplace": "Hugo Ekelund Trading Company",
+                "industry": "Business/Trade",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Sales Department",
+                "workplace": "Kockums Shipyard AB",
+                "industry": "Shipbuilding",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "Hugo Ekelund Limited Company",
+                "industry": "Business/Trade",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "Hugo Ekelund Limited Company",
+                "industry": "Business/Trade",
+                "start_date": "1942"
+            }
+        ]
+    }
+}

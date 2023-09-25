@@ -1,0 +1,70 @@
+{
+    "original": "ELLING, Elias Amandus William G:son, Disponent, Fröseke, f Vissefjärda, Kalmar l, 88 av lantbr Aug Gustafsson o Matilda Pettersson, gm Karin Lindeberg. Kalmar Språk-o Hdlsinst 07. Bruksbokhåll v AB Johansfors Glasbruk 08—13, disp v AB Nybrofabriken sed. 13. Led av Älghults kyrkoflm. RVO.",
+    "translated": "ELLING, Elias Amandus William G:son, Manager, Fröseke, born in Vissefjärda, Kalmar county, son of August Gustafsson and Matilda Pettersson, married to Karin Lindeberg. Studied at Kalmar Language and Trade Institute in 1907. Bookkeeper at AB Johansfors Glassworks from 1908 to 1913, then manager at AB Nybrofabriken since 1913. Member of the board of Älghult Church. Recipient of the Royal Order of Vasa.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Elias Amandus William Elling",
+        "givenName": "Elias Amandus William",
+        "familyName": "Elling",
+        "jobTitle": "Manager",
+        "birthPlace": "Vissefjärda, Kalmar l",
+        "birthDate": "18XX-XX-XX",
+        "father": {
+            "@type": "Person",
+            "name": "August Gustafsson"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Matilda Pettersson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Karin Lindeberg"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Kalmar Språk-o Hdlsinst",
+            "startDate": "1907",
+            "endDate": "1907"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "AB Johansfors Glasbruk",
+                "startDate": "1908",
+                "endDate": "1913",
+                "jobTitle": "Bookkeeper"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Nybrofabriken",
+                "startDate": "1913"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Älghults kyrkoflm"
+        },
+        "awards": {
+            "@type": "Order",
+            "name": "Royal Order of Vasa"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Bookkeeper",
+                "workplace": "AB Johansfors Glassworks",
+                "industry": "Glass manufacturing",
+                "start_date": "1908"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "AB Nybrofabriken",
+                "industry": "Glass manufacturing",
+                "start_date": "1913"
+            }
+        ]
+    }
+}

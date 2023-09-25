@@ -1,0 +1,151 @@
+{
+    "original": "EMBERG, Arthur Fredrik Edvard, Järnhandlare, Kumla, f Karlskr 13/3 92 av järn-hdl Rich E o Mathilda Pettersson, gm Greta Petersson. Realex Karlskr 08. Anst Rich Embergs järnaff Karlskr 08—16, Halmst Järn-varuAB 1$—18, AB F E Berg &amp; Co Jkpg 18—24, ag Kumla Järn- &amp; Redskapshdl sed. 24. Led tax.nmdn, tjgrensch f sjukv.tj inom Kumla luftsk. Sekr Västmanl o Närkes Järn-hdlsfrn o Mell Sv Järnhdlfrn priskomm, v. ordf Kumla Köpmfrn o Kumla RK. Hobbies: Skytte, filateli.",
+    "translated": "EMBERG, Arthur Fredrik Edvard, Iron Merchant, Kumla, born in Karlskrona on March 13, 1892, to iron merchant Rich E and Mathilda Pettersson. Married to Greta Petersson. Completed Realex (lower secondary school) in Karlskrona in 1908. Employed at Rich Embergs Iron Store in Karlskrona from 1908-1916, Halmstad Iron Goods AB from 1917-1918, AB F E Berg & Co in Jonkoping from 1918-1924, and then became an agent for Kumla Iron and Tools Trading from 1924 onwards. Also served as a member of the tax committee and worked as a healthcare assistant within Kumla air defense. Secretary of Västmanland and Närke Iron Merchant Association and Central Sweden Iron Merchant Association Pricing Committee. Vice chairman of Kumla Chamber of Commerce and Kumla Red Cross. Hobbies include shooting and philately.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Arthur Fredrik Edvard Emberg",
+        "jobTitle": "Iron Merchant",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Kumla"
+        },
+        "birthDate": "1892-03-13",
+        "birthPlace": "Karlskrona",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Rich E Emberg",
+                "jobTitle": "Iron Merchant"
+            },
+            {
+                "@type": "Person",
+                "name": "Mathilda Pettersson",
+                "jobTitle": "Iron Merchant"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Greta Petersson"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Realex",
+            "educationalLevel": "Lower Secondary School",
+            "educationalRole": "Student",
+            "alumniOf": {
+                "@type": "Organization",
+                "name": "Karlskrona"
+            },
+            "endDate": "1908"
+        },
+        "workExperience": [
+            {
+                "@type": "Organization",
+                "name": "Rich Embergs Iron Store",
+                "jobTitle": "Employee",
+                "startDate": "1908",
+                "endDate": "1916",
+                "location": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Karlskrona"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Halmstad Iron Goods AB",
+                "jobTitle": "Employee",
+                "startDate": "1917",
+                "endDate": "1918",
+                "location": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Halmstad"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "AB F E Berg & Co",
+                "jobTitle": "Employee",
+                "startDate": "1918",
+                "endDate": "1924",
+                "location": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Jonkoping"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Kumla Iron and Tools Trading",
+                "jobTitle": "Agent",
+                "startDate": "1924"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Tax Committee",
+                "roleName": "Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Västmanland and Närke Iron Merchant Association",
+                "roleName": "Secretary"
+            },
+            {
+                "@type": "Organization",
+                "name": "Central Sweden Iron Merchant Association Pricing Committee",
+                "roleName": "Secretary"
+            },
+            {
+                "@type": "Organization",
+                "name": "Kumla Chamber of Commerce",
+                "roleName": "Vice Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Kumla Red Cross",
+                "roleName": "Vice Chairman"
+            }
+        ],
+        "additionalProperty": [
+            {
+                "@type": "PropertyValue",
+                "name": "Hobbies",
+                "value": "Shooting"
+            },
+            {
+                "@type": "PropertyValue",
+                "name": "Hobbies",
+                "value": "Philately"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Iron Merchant",
+                "workplace": "Rich Embergs järnaff",
+                "industry": "Iron trade",
+                "start_date": "1908"
+            },
+            {
+                "occupational_title": "Iron Merchant",
+                "workplace": "Halmstad Järn-varuAB",
+                "industry": "Iron trade",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Iron Merchant",
+                "workplace": "AB F E Berg & Co",
+                "industry": "Iron trade",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Agent",
+                "workplace": "Kumla Järn- & Redskapshdl",
+                "industry": "Iron and Tools Trading",
+                "start_date": "1924"
+            }
+        ]
+    }
+}

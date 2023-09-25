@@ -1,0 +1,142 @@
+{
+    "original": "DOLK, Nils Wilhelm, Kamrer, Ålsten, f Ramsta, Uppl, 30/10 98 av A W D o Wilhelmina Thunell, gm Gunvor Samuelson. Hdls-sk o språksk. Anst h grossh Emil Eliasson Sthlm 15—18, Oljeraff AB Union Sthlm 19— 20, Sydbanken (nuv Sk Banken) Malmö 21— 24, kortare anst å fi bruks- o fabr.kontor 25 —27, Husqv Gen.depots AB Sthlm sed. 28, kamr där sed. 36. Ag villafastigh Brädspelet 3, Ålsten. Medl Frbt Frihetsbröderna (FB).",
+    "translated": "DOLK, Nils Wilhelm, Clerk, Ålsten, born in Ramsta, Uppland on October 30, 1898, son of A.W.D. and Wilhelmina Thunell, married to Gunvor Samuelson. Commerce and language school. Employed at wholesale company Emil Eliasson in Stockholm from 1915 to 1918, Oil Refinery AB Union in Stockholm from 1919 to 1920, Sydbanken (now Sk Banken) in Malmö from 1921 to 1924, shorter employments at various industrial and factory offices from 1925 to 1927, Husqv Gen.depots AB in Stockholm since 1928, clerk there since 1936. Owns a villa property called Brädspelet 3, Ålsten. Member of the Association of Freedom Brothers (FB). Note: The abbreviation 'd\\d m. partners name' means that the person married in the year 19xx.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Nils Wilhelm DOLK",
+        "birthDate": "1898-10-30",
+        "birthPlace": "Ramsta, Uppland, Sweden",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "A W D"
+            },
+            {
+                "@type": "Person",
+                "name": "Wilhelmina Thunell"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Gunvor Samuelson"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Commerce and language school"
+        },
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1915",
+                "endDate": "1918",
+                "roleName": "Clerk",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Wholesale Company Emil Eliasson",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1919",
+                "endDate": "1920",
+                "roleName": "Clerk",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Oil Refinery AB Union",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1921",
+                "endDate": "1924",
+                "roleName": "Clerk",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Sydbanken (now Sk Banken)",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Malmö"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1925",
+                "endDate": "1927",
+                "roleName": "Clerk",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Various industrial and factory offices"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1928",
+                "roleName": "Clerk",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Husqv Gen.depots AB",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm"
+                    }
+                }
+            }
+        ],
+        "owns": {
+            "@type": "Place",
+            "name": "Brädspelet 3, Ålsten, Sweden",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Ålsten"
+            }
+        },
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Association of Freedom Brothers (FB)"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Clerk",
+                "workplace": "Emil Eliasson",
+                "industry": "Wholesale",
+                "start_date": "1915"
+            },
+            {
+                "occupational_title": "Clerk",
+                "workplace": "Oil Refinery AB Union",
+                "industry": "Oil Refinery",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Clerk",
+                "workplace": "Sydbanken (now Sk Banken)",
+                "industry": "Banking",
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Various industrial and factory offices",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Clerk",
+                "workplace": "Husqv Gen.depots AB",
+                "industry": "Unknown",
+                "start_date": "1928"
+            }
+        ]
+    }
+}

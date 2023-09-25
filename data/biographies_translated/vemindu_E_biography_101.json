@@ -1,0 +1,85 @@
+{
+    "original": "EKMAN, !Leif, Direktör, Göteborg, f Gbg 16/1 93 av dr G F E o Gerda Gödecke, gm Naemi Krafft. Studex Gbgs högre samsk 12, e. elev Ultuna lantbr.inst. Ag o dir AB Gbgs Tågvirkesfabr sed. 28. Deläg Råda säteri. Stf hvobef Landvetters hvo. Resor: Engl 22, Ital 23. Bachelors club. Hobby: Sport o naturliv i många former.",
+    "translated": "EKMAN, Leif, Director, Gothenburg, b. Gothenburg 16/1 93 to Dr. G. F. E. and Gerda Gödecke, m. Naemi Krafft. Exam Gbgs higher samsk. 12, former student Ultuna agricultural institute. Manager AB Gbgs Tågvirkesfabr since 28. Co-owner Råda estate. Deputy head of Landvetters hunting and fishing association. Travels: England 22, Italy 23. Bachelors club. Hobby: Sport and outdoor activities in various forms.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Leif Ekman",
+        "givenName": "Leif",
+        "familyName": "Ekman",
+        "jobTitle": "Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Gothenburg"
+        },
+        "birthDate": "1893-01-16",
+        "birthPlace": "Gothenburg",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Dr. G. F. E."
+            },
+            {
+                "@type": "Person",
+                "name": "Gerda Gödecke"
+            }
+        ],
+        "spouse": "Naemi Krafft",
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Gbgs higher samsk.",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Gothenburg"
+                }
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Ultuna agricultural institute"
+            }
+        ],
+        "work": {
+            "@type": "Organization",
+            "name": "AB Gbgs Tågvirkesfabr",
+            "startDate": "1928"
+        },
+        "owns": {
+            "@type": "Place",
+            "name": "Råda estate"
+        },
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Bachelors club"
+        },
+        "hobbies": "Sport and outdoor activities in various forms",
+        "travels": [
+            {
+                "@type": "Place",
+                "name": "England",
+                "startDate": "1922"
+            },
+            {
+                "@type": "Place",
+                "name": "Italy",
+                "startDate": "1923"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Student",
+                "workplace": "Ultuna Agricultural Institute",
+                "industry": "Education",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "AB Gbgs Tågvirkesfabr",
+                "industry": "Manufacturing",
+                "start_date": "1928"
+            }
+        ]
+    }
+}

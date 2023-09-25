@@ -1,0 +1,65 @@
+{
+    "original": "ERIKSSON, Anders Wilhelm, Fabrikör, Skara, f Häggums s :n, Skarab l, 30/4 77 av lantbr Erik Andersson o Inga-Lisa Johansson, gm 2) Anna Sjölander. Inneh Stenhuggerifma A W Eriksson i Skara sed. 19. Stdsflm 31—40.",
+    "translated": "ERIKSSON, Anders Wilhelm, Industrialist, Skara, born in Häggums parish, Skaraborg county, on April 30, 1877, son of farmer Erik Andersson and Inga-Lisa Johansson, married 2) Anna Sjölander. Operated the Stone Carving Company A W Eriksson in Skara since 1919. Marriage lasted from 1931 to 1940.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Anders Wilhelm Eriksson",
+        "birthDate": "1877-04-30",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Häggums parish",
+                "addressRegion": "Skaraborg county",
+                "addressCountry": "Sweden"
+            }
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Erik Andersson",
+                "givenName": "Erik",
+                "familyName": "Andersson"
+            },
+            {
+                "@type": "Person",
+                "name": "Inga-Lisa Johansson",
+                "givenName": "Inga-Lisa",
+                "familyName": "Johansson"
+            }
+        ],
+        "spouse": [
+            {
+                "@type": "Person",
+                "name": "Anna Sjölander",
+                "givenName": "Anna",
+                "familyName": "Sjölander",
+                "endDate": "1940-01-01"
+            }
+        ],
+        "occupation": "Industrialist",
+        "workLocation": [
+            {
+                "@type": "Place",
+                "name": "A W Eriksson Stone Carving Company",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Skara",
+                    "addressCountry": "Sweden"
+                },
+                "startDate": "1919-01-01"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Industrialist",
+                "workplace": "Stone Carving Company A W Eriksson",
+                "industry": "Stone carving",
+                "start_date": "1919"
+            }
+        ]
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "original": "ENGSTRÖM, Dag Agnar, Civilingenjör, Stockholm, f Sthlm 31/10 71 av kommend C C E o Fanny L0wener, gm Eva Lindahl. Ex KTH 93. Vist i USA 93—04, anst AB Separator Sthlm sed. 04, verkst.ch o inköpsch där. Gjort ett flert uppfinn. Stdsflm 10—14. Hobby : Genealogi.",
+    "translated": "ENGSTRÖM, Dag Agnar, Civil Engineer, Stockholm, b. Stockholm 31/10 71, son of Commander C C E and Fanny Lowener, married to Eva Lindahl. Graduated from KTH in 93. Resided in USA 93-04, employed at AB Separator Stockholm since 04, holding positions of production manager and purchasing manager. Made several inventions. Active in the local genealogy community from 10-14. Hobby: Genealogy.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Dag Agnar Engström",
+        "birthDate": "1971-10-31",
+        "birthPlace": "Stockholm, Sweden",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Commander C C E Engström"
+            },
+            {
+                "@type": "Person",
+                "name": "Fanny Lowener"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Eva Lindahl"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "alumniOf": {
+                "@type": "Organization",
+                "name": "KTH"
+            },
+            "credentialCategory": "Civil Engineering",
+            "credentialEarned": "1993"
+        },
+        "residence": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Stockholm",
+                "addressCountry": "Sweden"
+            }
+        },
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "AB Separator",
+                "startDate": "2004",
+                "jobTitle": "Production Manager"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Separator",
+                "startDate": "2004",
+                "jobTitle": "Purchasing Manager"
+            }
+        ],
+        "inventions": [],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Local Genealogy Community"
+        },
+        "hobbies": [
+            "Genealogy"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "AB Separator",
+                "industry": "Engineering",
+                "start_date": "2004"
+            },
+            {
+                "occupational_title": "Production Manager",
+                "workplace": "AB Separator",
+                "industry": "Engineering",
+                "start_date": "2004"
+            },
+            {
+                "occupational_title": "Purchasing Manager",
+                "workplace": "AB Separator",
+                "industry": "Engineering",
+                "start_date": "2004"
+            }
+        ]
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "original": "ERIKSON, Estrid Maria, Fröken, Stockholm, f 16/9 94 av källarmäst A E o Helga Anderson. Tekn sk, Högre Konstind Sk, Sthlm. Sed 24 led o ag av Svenskt Tenn, grund små år. Årl resor Europa 30-39, USA 35, Mexiko o USA 39.",
+    "translated": "ERIKSON, Estrid Maria, Miss, Stockholm, b. 16/9 94 to cellar master A E and Helga Anderson. Technical school, Higher Art and Craft School, Stockholm. Employed by Svenskt Tenn for 24 years as a manager and agent, founding member for a few years. Annual trips to Europe from 1930 to 1939, USA in 1935, Mexico and USA in 1939.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Estrid Maria Erikson",
+        "alternateName": "Estrid Maria Erikson",
+        "birthDate": "1894-09-16",
+        "birthPlace": "Stockholm",
+        "father": {
+            "@type": "Person",
+            "name": "A E Erikson"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Helga Anderson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Technical school",
+                "credentialSubject": "Higher Art and Craft School",
+                "educationalLevel": "Advanced"
+            }
+        ],
+        "worksFor": {
+            "@type": "OrganizationRole",
+            "roleName": "Manager and Agent",
+            "startDate": "1915",
+            "endDate": "1939",
+            "organization": {
+                "@type": "Organization",
+                "name": "Svenskt Tenn",
+                "foundingDate": "unknown",
+                "founders": [
+                    {
+                        "@type": "Person",
+                        "name": "Estrid Maria Erikson"
+                    }
+                ]
+            }
+        },
+        "sameAs": "https://example.com/person/estrid-maria-erikson",
+        "memberOf": [
+            {
+                "@type": "Intangible",
+                "name": "Svenskt Tenn"
+            }
+        ],
+        "travels": [
+            {
+                "@type": "Trip",
+                "name": "Europe",
+                "startDate": "1930",
+                "endDate": "1939",
+                "location": "Europe"
+            },
+            {
+                "@type": "Trip",
+                "name": "USA",
+                "startDate": "1935",
+                "endDate": "1935",
+                "location": "USA"
+            },
+            {
+                "@type": "Trip",
+                "name": "USA and Mexico",
+                "startDate": "1939",
+                "endDate": "1939",
+                "location": [
+                    "Mexico",
+                    "USA"
+                ]
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Manager and agent",
+                "workplace": "Svenskt Tenn",
+                "industry": "Art and Craft",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Founding member",
+                "workplace": "Svenskt Tenn",
+                "industry": "Art and Craft",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

@@ -1,0 +1,159 @@
+{
+    "original": "ERICSON, Harald Gösta, Kamrer, Stockholm, f V.ås 19/2 99 av snick A G E o h h, f Sandberg, gm Aino Holmquist. Realex V.ås 15, hdlssk 17, DHS 25. Anst v ASEA V.ås 17—19, v ds dtrbol i Finl, Norge, Belg, Frankr, Engl o Span 20—23, amanuens i föret.ek v HHS 24—25, anst h Smal Ensk Bk 25—26, v AB Jönköpings Motorfabr 26—27, h AB Sv Litogr Tryck o Esselte AB sed. 27. Av Sthlms hdlskamm godk granskn.man sed. 39. Resor: Finl, Norge, Belg, Frankr, Engl, Span 20—23, Tyskl, Danm, Holl, Estl, Schweiz, Ital. Hobby : Segling.",
+    "translated": "ERICSON, Harald Gösta, Clerk, Stockholm, b V.ås 19/2 99 to carpenter A G E and h h, maiden name Sandberg, m Aino Holmquist. Completed Realexam in V.ås 15, commercial school in 17, diploma in high school studies in 25. Employed at ASEA V.ås 17–19, in daughter companies in Finland, Norway, Belgium, France, England, and Spain 20–23, clerk in business economics at HHS 24–25, employed at Smal Ensk Bank 25–26, at AB Jönköpings Motorfabr 26–27, and currently at AB Sv Litogr Printing and Esselte AB since 27. Authorized examiner at Stockholm Chamber of Commerce since 39. Travels: Finland, Norway, Belgium, France, England, Spain 20–23, Germany, Denmark, Holland, Estonia, Switzerland, Italy. Hobby: Sailing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Harald Gösta Ericson",
+        "jobTitle": "Clerk",
+        "birthDate": "1899-02-19",
+        "birthPlace": "V.ås",
+        "familyName": "Ericson",
+        "givenName": "Harald",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "A G E",
+                "jobTitle": "Carpenter"
+            },
+            {
+                "@type": "Person",
+                "name": "h",
+                "jobTitle": "Unknown"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Aino Holmquist"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Realexam",
+                "educationalLevel": "SecondaryEducation",
+                "educationalCredentialAwarded": "Realexam",
+                "educationalSubject": {
+                    "@type": "EducationalOccupationalCredential",
+                    "name": "V.ås"
+                },
+                "dateIssued": "1915"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Commercial school",
+                "educationalLevel": "SecondaryEducation",
+                "educationalCredentialAwarded": "Commercial school",
+                "educationalSubject": {
+                    "@type": "EducationalOccupationalCredential",
+                    "name": "V.ås"
+                },
+                "dateIssued": "1917"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Diploma in high school studies",
+                "educationalLevel": "HighSchool",
+                "educationalCredentialAwarded": "Diploma in high school studies",
+                "educationalSubject": {
+                    "@type": "EducationalOccupationalCredential",
+                    "name": "V.ås"
+                },
+                "dateIssued": "1925"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "ASEA",
+                "startDate": "1917",
+                "endDate": "1919",
+                "location": {
+                    "@type": "State",
+                    "name": "V.ås"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Jönköpings Motorfabr",
+                "startDate": "1926",
+                "endDate": "1927"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Sv Litogr Printing and Esselte AB",
+                "startDate": "1927"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Stockholm Chamber of Commerce",
+                "memberOf": "Authorized examiner",
+                "validThrough": "2039-01-01"
+            }
+        ],
+        "knowsLanguage": [
+            "Finnish",
+            "Norwegian",
+            "Dutch",
+            "French",
+            "English",
+            "Spanish",
+            "German",
+            "Danish",
+            "Estonian",
+            "Swedish",
+            "Italian"
+        ],
+        "hobby": [
+            {
+                "@type": "Thing",
+                "name": "Sailing"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Clerk",
+                "workplace": "ASEA",
+                "industry": "Electronics",
+                "start_date": "1917-1919"
+            },
+            {
+                "occupational_title": "Clerk",
+                "workplace": "Daughter companies in Finland, Norway, Belgium, France, England, and Spain",
+                "industry": "Various",
+                "start_date": "1920-1923"
+            },
+            {
+                "occupational_title": "Clerk in business economics",
+                "workplace": "HHS",
+                "industry": "Higher education",
+                "start_date": "1924-1925"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Smal Ensk Bank",
+                "industry": "Banking",
+                "start_date": "1925-1926"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "AB Jönköpings Motorfabr",
+                "industry": "Automotive",
+                "start_date": "1926-1927"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "AB Sv Litogr Printing and Esselte AB",
+                "industry": "Printing",
+                "start_date": "since 1927"
+            }
+        ]
+    }
+}

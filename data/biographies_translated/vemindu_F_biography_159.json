@@ -1,0 +1,114 @@
+{
+    "original": "FRIBERG, Sven Gunnar, Civilingenjör, Rio de Janeiro, f Norberg, Västmanl l, 16/8 05 av folkskollär J A F o Maria Ottilia Stjärna. Studex Västerås 25, KTH (E) 26—30. Ing v Telefon AB L M Ericssons försäljn.avd i Sthlm 30—34, anst v Sv Ackumulator AB Jungner i Buenos Aires 34, nu ch Soc Ericsson do Brazil Ltda i Rio de Janeiro.",
+    "translated": "FRIBERG, Sven Gunnar, Civil Engineer, Rio de Janeiro, b. Norberg, Västmanland county, August 16, 1905, son of elementary school teacher J A F and Maria Ottilia Stjärna. Passed student exam in Västerås in 1925, attended Royal Institute of Technology (Electrical Engineering) from 1926 to 1930. Employed by Telephone AB L M Ericsson's sales department in Stockholm from 1930 to 1934, and then by Swedish Accumulator AB Jungner in Buenos Aires from 1934. Currently chief of Soc Ericsson do Brazil Ltda in Rio de Janeiro..",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Sven Gunnar Friberg",
+        "jobTitle": "Civil Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Rio de Janeiro"
+        },
+        "birthDate": "1905-08-16",
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Norberg, Västmanland county"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "J A F"
+            },
+            {
+                "@type": "Person",
+                "name": "Maria Ottilia Stjärna"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "secondary school diploma",
+                "educationalLevel": "Passed student exam",
+                "awardingOrganization": {
+                    "@type": "EducationalOrganization",
+                    "name": "Västerås"
+                },
+                "yearAwarded": 1925
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "university degree",
+                "educationalLevel": "Bachelor's degree",
+                "degreeName": "Civil Engineering",
+                "awardingOrganization": {
+                    "@type": "CollegeOrUniversity",
+                    "name": "Royal Institute of Technology",
+                    "location": "Stockholm"
+                },
+                "startDate": "1926",
+                "endDate": "1930"
+            }
+        ],
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "title": "Sales Department Employee",
+                "startDate": "1930",
+                "endDate": "1934",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Telephone AB L M Ericsson",
+                    "location": "Stockholm"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Employee",
+                "startDate": "1934",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Swedish Accumulator AB Jungner",
+                    "location": "Buenos Aires"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Chief",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Soc Ericsson do Brazil Ltda",
+                    "location": "Rio de Janeiro"
+                }
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Rio de Janeiro",
+                "industry": "Engineering",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Employee, Sales Department",
+                "workplace": "Telephone AB L M Ericsson",
+                "industry": "Telecommunications",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Swedish Accumulator AB Jungner",
+                "industry": "Battery Manufacturing",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Chief",
+                "workplace": "Soc Ericsson do Brazil Ltda",
+                "industry": "Telecommunications",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

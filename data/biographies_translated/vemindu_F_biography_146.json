@@ -1,0 +1,87 @@
+{
+    "original": "FREDRIKSSON, Oscar Fredrik, Köpman, Växjö, f Sthlm 8/9 98. Studex Sthlm 19, hdls-sk. Anst s tj.m v Försäkr AB Mälarens huv.kont 20—24. Inneh Kalmar Glas- o porslins-aff sed. 24, o fma Oscar Fredriksson Växjö, bosättn.art, sed. 33.",
+    "translated": "FREDRIKSSON, Oscar Fredrik, Merchant, Växjö, b. Stockholm 8/9 98. Graduated Sthlm 19, trade school. Employed as an assistant at Insurance AB Mälaren's head office 20-24. Owner of Kalmar Glass and Porcelain Store since 1924, and co-owner with Oscar Fredriksson in Växjö, resident since 1933.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Oscar Fredrik Fredriksson",
+        "birthDate": "1898-09-08",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Stockholm"
+        },
+        "description": "Merchant",
+        "address": [
+            {
+                "@type": "Place",
+                "name": "Växjö"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "Stockholm",
+                "dateEarned": "1919"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "trade school"
+            }
+        ],
+        "occupation": [
+            {
+                "@type": "TradeAction",
+                "name": "assistant",
+                "startDate": "1920",
+                "endDate": "1924",
+                "tool": {
+                    "@type": "Organization",
+                    "name": "Insurance AB Mälaren's head office"
+                }
+            },
+            {
+                "@type": "OwnershipInfo",
+                "ownedFrom": "1924",
+                "ownedThrough": "",
+                "businessFunction": "Kalmar Glass and Porcelain Store",
+                "acquiredFrom": {
+                    "@type": "Person",
+                    "name": "Oscar Fredriksson"
+                },
+                "location": {
+                    "@type": "City",
+                    "name": "Växjö"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Oscar Fredriksson Växjö"
+            }
+        ],
+        "residence": [
+            {
+                "@type": "Place",
+                "name": "Växjö",
+                "startDate": "1933"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Växjö",
+                "industry": "Retail",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Assistant",
+                "workplace": "Insurance AB Mälaren's head office",
+                "industry": "Insurance",
+                "start_date": "1920"
+            }
+        ]
+    }
+}

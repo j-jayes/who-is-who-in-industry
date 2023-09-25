@@ -1,0 +1,165 @@
+{
+    "original": "DALHOFF, Jörgen N L, Ingenjör, Direktör, Stockholm, f Frederiksberg, Danm, 20/6 11 av dir o ing L G Dalhoff o h h Alvida D, gm Bente Lawaetz. Studex i Danm 29, stud Univ of Durham 30—31, dipl ing i Schweiz 34. Anst Atelier de constr mée de Vevey, Schweiz, SA Alea, Brux, Belg, A/S IKAS, Kpnhmn (även styr.led o deläg), dir o hälftendeläg entrepr.fman AB ASA, Sthlm, sed. 39. Hälftendeläg ASA Ljudteknik AB, Sthlm. Ag fastigh »Birkebakken», som.stal i Rönninge. Resor: USA 32 o 35, Belg, Engl, Grönl, Ital, Schweiz, Tyskl 29—40. Medl Frim.log Christian, Danmark, o Sthlms Golfklubb. Hobbies: Sport, husbygge.",
+    "translated": "DALHOFF, Jörgen N L, Engineer, Director, Stockholm, born in Frederiksberg, Denmark, on June 20, 1911, to the director and engineer L G Dalhoff and his wife Alvida D, married to Bente Lawaetz. Graduated in Denmark in 1929, studied at the University of Durham from 1930 to 1931, received a diploma in engineering in Switzerland in 1934. Employed at Atelier de constr mée de Vevey, Switzerland, SA Alea, Brussels, Belgium, A/S IKAS, Copenhagen (also serving as a board member and part owner), director and co-owner of the construction company AB ASA in Stockholm since 1939. Co-owner of ASA Ljudteknik AB in Stockholm. Owner of the property \"Birkebakken\" in Rönninge. Traveled to the USA in 1932 and 1935, Belgium, England, Greenland, Italy, Switzerland, and Germany from 1929 to 1940. Member of the Freemasons Lodge Christian in Denmark and the Stockholm Golf Club. Hobbies: Sports, house construction.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Jörgen N L Dalhoff",
+        "birthDate": "1911-06-20",
+        "birthPlace": "Frederiksberg, Denmark",
+        "nationality": "Swedish",
+        "jobTitle": "Engineer, Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm",
+            "addressCountry": "Sweden"
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "L G Dalhoff",
+                "jobTitle": "Director, Engineer"
+            },
+            {
+                "@type": "Person",
+                "name": "Alvida D"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Bente Lawaetz"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "University of Durham",
+                "startDate": "1930",
+                "endDate": "1931"
+            }
+        ],
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "Atelier de constr mée de Vevey",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Switzerland"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "SA Alea",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Belgium"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "A/S IKAS",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Denmark"
+                },
+                "memberOf": [
+                    {
+                        "@type": "Organization",
+                        "name": "Board of Directors"
+                    }
+                ]
+            },
+            {
+                "@type": "Organization",
+                "name": "AB ASA",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm",
+                    "addressCountry": "Sweden"
+                },
+                "startDate": "1939"
+            },
+            {
+                "@type": "Organization",
+                "name": "ASA Ljudteknik AB",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm",
+                    "addressCountry": "Sweden"
+                }
+            }
+        ],
+        "own": [
+            {
+                "@type": "Place",
+                "name": "Birkebakken",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Rönninge",
+                    "addressCountry": "Sweden"
+                }
+            }
+        ],
+        "travelHistory": [
+            "USA (1932, 1935)",
+            "Belgium",
+            "England",
+            "Greenland",
+            "Italy",
+            "Switzerland",
+            "Germany (1929-1940)"
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Frim.log Christian",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Denmark"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Stockholm Golf Club",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Sweden"
+                }
+            }
+        ],
+        "hobbies": "Sports, House Construction"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Atelier de constr mée de Vevey",
+                "industry": "Construction",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "SA Alea",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Director and part owner",
+                "workplace": "A/S IKAS",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Director and co-owner",
+                "workplace": "AB ASA",
+                "industry": "Construction",
+                "start_date": "1939"
+            },
+            {
+                "occupational_title": "Co-owner",
+                "workplace": "ASA Ljudteknik AB",
+                "industry": "Audio Technology",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

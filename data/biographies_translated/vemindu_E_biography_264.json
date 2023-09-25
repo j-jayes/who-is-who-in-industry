@@ -1,0 +1,51 @@
+{
+    "original": "ERIKSSON, Karl Erik Ragnar, Civilingenjör, Torshälla, f Borg, Ögl, 3/11 11 av ing E E o Elin Bäckman, gm Hagar Flygare. KTH (mek tekn) 35. Inneh fma Erik Eriksson J:or Verktygsmaskiner (tillv verkt.maskin o spec.-maskin).",
+    "translated": "ERIKSSON, Karl Erik Ragnar, Civil Engineer, Torshälla, born in Borg, Ögl, on 3/11 11 to parents Erik Eriksson and Elin Bäckman, married to Hagar Flygare. Graduated from the Royal Institute of Technology (mechanical engineering) in 1935. Occupied in the company Erik Eriksson J:or Verktygsmaskiner (manufacturing of machine tools and specialized machines).",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Karl Erik Ragnar Eriksson",
+        "jobTitle": "Civil Engineer",
+        "birthPlace": "Torshälla, Borg, Ögl",
+        "birthDate": "1911-11-03",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Erik Eriksson"
+            },
+            {
+                "@type": "Person",
+                "name": "Elin Bäckman"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Hagar Flygare"
+        },
+        "alumniOf": {
+            "@type": "EducationalOrganization",
+            "name": "Royal Institute of Technology",
+            "location": {
+                "@type": "Place",
+                "name": "Stockholm"
+            },
+            "url": "http://www.kth.se",
+            "endDate": "1935"
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Erik Eriksson J:or Verktygsmaskiner",
+            "description": "Manufacturing of machine tools and specialized machines"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Erik Eriksson J:or Verktygsmaskiner",
+                "industry": "Manufacturing of machine tools and specialized machines",
+                "start_date": "1935"
+            }
+        ]
+    }
+}

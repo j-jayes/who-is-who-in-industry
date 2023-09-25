@@ -1,0 +1,136 @@
+{
+    "original": "DELLNEK, Gunnar Robert Wilhelm, Civilingenjör, Direktör, Stockholm, f Ulriceh 7/6 88, gm Ella Johansson. Ex Borås tekn elem.sk 07, studex Sthlm 10, KTH (maskinbyggn o mek tekn) 09—12. Konstr, ritkont.ch samt avd.ch h Sv AB Gasaccumulator 12—17, övering o disp AB Atlas Diesel 17—27, vkst dir v Nydqvist &amp; Holm AB Trollhättan 27—41, tillika vkst dir f Nohab Flygmotorfabr AB 30—39 o vkst dir Sv Aeroplan AB 36—38. Styr.led i Sv Maskinind.frn o Sv Ind.frb t 41. RVO, RDDO.",
+    "translated": "DELLNEK, Gunnar Robert Wilhelm, Engineer, Director, Stockholm, b. Ulricehamn 7th of June 1888, m. Ella Johansson. Former student at Borås Technical Elementary School in 1907, graduated from Stockholm in 1910, Royal Institute of Technology (Mechanical Engineering and Mechanical Technology) 1909-1912. Construction and design department chief at Scandinavian AB Gasaccumulator 1912-1917, Managing Director and Head of Department at AB Atlas Diesel 1917-1927, Vice President and Managing Director at Nydqvist & Holm AB Trollhättan 1927-1941, also Vice President and Managing Director at Nohab Flygmotorfabr AB 1930-1939 and Vice President and Managing Director at Swedish Aeroplan AB 1936-1938. Board member of Swedish Machinery Industry Association and Swedish Industrial Association until 1941. Knight of the Royal Order of Vasa, Knight of the Order of the Polar Star.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Gunnar Robert Wilhelm Dellnek",
+        "birthDate": "1888-06-07",
+        "birthPlace": "Ulricehamn, Sweden",
+        "jobTitle": "Engineer, Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm",
+            "addressCountry": "Sweden"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Ella Johansson"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "degree",
+            "educationalLevel": "Bachelor's Degree",
+            "educationalCredentialAwarded": "Civilingenjör",
+            "awardedBy": "KTH Royal Institute of Technology",
+            "startDate": "1909",
+            "endDate": "1912"
+        },
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Scandinavian AB Gasaccumulator"
+                },
+                "startDate": "1912",
+                "endDate": "1917",
+                "roleName": "Construction and Design Department Chief"
+            },
+            {
+                "@type": "OrganizationRole",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "AB Atlas Diesel"
+                },
+                "startDate": "1917",
+                "endDate": "1927",
+                "roleName": "Managing Director and Head of Department"
+            },
+            {
+                "@type": "OrganizationRole",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Nydqvist & Holm AB Trollhättan"
+                },
+                "startDate": "1927",
+                "endDate": "1941",
+                "roleName": "Vice President and Managing Director"
+            },
+            {
+                "@type": "OrganizationRole",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Nohab Flygmotorfabr AB"
+                },
+                "startDate": "1930",
+                "endDate": "1939",
+                "roleName": "Vice President and Managing Director"
+            },
+            {
+                "@type": "OrganizationRole",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Swedish Aeroplan AB"
+                },
+                "startDate": "1936",
+                "endDate": "1938",
+                "roleName": "Vice President and Managing Director"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Machinery Industry Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Industrial Association"
+            }
+        ],
+        "award": [
+            {
+                "@type": "Order",
+                "name": "Knight of the Royal Order of Vasa"
+            },
+            {
+                "@type": "Order",
+                "name": "Knight of the Order of the Polar Star"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Scandinavian AB Gasaccumulator",
+                "industry": "Construction and design",
+                "start_date": "1912-01-01"
+            },
+            {
+                "occupational_title": "Director, Head of Department",
+                "workplace": "AB Atlas Diesel",
+                "industry": "Mechanical engineering",
+                "start_date": "1917-01-01"
+            },
+            {
+                "occupational_title": "Vice President, Managing Director",
+                "workplace": "Nydqvist & Holm AB Trollhättan",
+                "industry": "Engineering",
+                "start_date": "1927-01-01"
+            },
+            {
+                "occupational_title": "Vice President, Managing Director",
+                "workplace": "Nohab Flygmotorfabr AB",
+                "industry": "Aerospace",
+                "start_date": "1930-01-01"
+            },
+            {
+                "occupational_title": "Vice President, Managing Director",
+                "workplace": "Swedish Aeroplan AB",
+                "industry": "Aerospace",
+                "start_date": "1936-01-01"
+            }
+        ]
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "original": "ELIASSON, Nils Algot, Handlande, Braås, f Sjösås, Kronob l, 6/5 82. övert diverseaff i Böksholm, Drev, 09, överlät denna o övertog en järn- o speceriaff i Braås 17, ombild t AB Alg Eliasson 25.",
+    "translated": "ELIASSON, Nils Algot, Merchant, Braås, born in Sjösås, Kronoberg County, May 6, 1882. Took over various stores in Böksholm and Drev in 1909, then transferred ownership and acquired an iron and grocery store in Braås in 1917. The business was later transformed into AB Alg Eliasson in 1925.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Nils Algot Eliasson",
+        "jobTitle": "Merchant",
+        "birthDate": "1882-05-06",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Sjösås"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Braås"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "AB Alg Eliasson",
+                "startDate": "1925"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Various stores in Böksholm and Drev",
+                "startDate": "1909",
+                "endDate": "1917"
+            },
+            {
+                "@type": "Organization",
+                "name": "Iron and grocery store in Braås",
+                "startDate": "1917"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Braås",
+                "industry": "Retail",
+                "start_date": "1909"
+            },
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Braås",
+                "industry": "Iron and Grocery",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Braås",
+                "industry": "AB Alg Eliasson",
+                "start_date": "1925"
+            }
+        ]
+    }
+}

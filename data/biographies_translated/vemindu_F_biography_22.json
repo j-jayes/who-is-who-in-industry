@@ -1,0 +1,103 @@
+{
+    "original": "FALKENGREN, Gösta, Juvelerare, Lidköping, f Lidkp 19/6 88 av järnhandl G F o Irene Ringdahl, gm Florence Svensson. Studex Lund 08, stud v hdlshögsk i Nurnberg. Inneh tills m guldsmed S Alström Juvelerarefman Falkengren &amp; Alström i Lidkp (Hovjuv Sanfr Svenssons Eftr).- Odd Fellow (ÖM), Rotary (klubbmäst).",
+    "translated": "FALKENGREN, Gösta, Jeweler, Lidköping, born in Lidkp on June 19, 1888, son of ironmonger G F and Irene Ringdahl, married Florence Svensson. Started studying in Lund in 1908, continued studying at the trade university in Nuremberg. Became a co-owner with goldsmith S Alström of the jewelery company Falkengren & Alström in Lidköping (Royal Jewelers, formerly Sanfr Svenssons).- Member of Odd Fellow (Master), Rotary (club master).",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Gösta Falkengren",
+        "birthDate": "1888-06-19",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Lidköping"
+            }
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "G F Falkengren"
+            },
+            {
+                "@type": "Person",
+                "name": "Irene Ringdahl"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Florence Svensson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Lund University",
+                "startDate": "1908"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Nuremberg Trade University"
+            }
+        ],
+        "occupation": {
+            "@type": "Jeweler"
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Falkengren & Alström",
+            "coFounders": [
+                {
+                    "@type": "Person",
+                    "name": "S Alström"
+                }
+            ],
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Lidköping"
+            }
+        },
+        "affiliations": [
+            {
+                "@type": "Organization",
+                "name": "Odd Fellow",
+                "memberOf": [
+                    {
+                        "@type": "Person",
+                        "name": "Gösta Falkengren"
+                    }
+                ]
+            },
+            {
+                "@type": "Organization",
+                "name": "Rotary",
+                "memberOf": [
+                    {
+                        "@type": "Person",
+                        "name": "Gösta Falkengren"
+                    }
+                ]
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Jeweler",
+                "workplace": "Falkengren & Alström",
+                "industry": "Jewelry",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Co-owner",
+                "workplace": "Falkengren & Alström",
+                "industry": "Jewelry",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Ironmonger",
+                "workplace": "G F Falkengren",
+                "industry": "Ironmongery",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

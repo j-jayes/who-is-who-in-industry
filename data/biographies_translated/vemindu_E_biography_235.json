@@ -1,0 +1,197 @@
+{
+    "original": "ERIKSON, Emil, Direktör, Stockholm, f östad, Älvsb l, 1/8 80 av hemm.äg Carl E o Kristina Andersdotter, gm Alice österberg. Folksk, Holmqvists hdlsinst Gbg 00. Anst Gbgs hartsoljefärgfabr 00—04, H Major &amp; Co Ltd Hull 04—07, H Meyer &amp; Co Lubeck 07—10, Otto Juhlin, Sthlm, 11—16, deläg Otto Juh-lins AB 17—42, vkst dir o inneh sed 43. Styr.led Resarö Storängs villafrn, Sv Vilt-skinnshandl,frn. Resor: Engl 04—07, 12, 33, 38, Tyskl 07—10 mfl ggr, Frankr 14, 26, 28, Belg 14, 33, Holl 33, Finl 08, 10, 23, Ital, Österr 28, USA 21. Odd Fellow, Neptuniorden. Hobby: Friluftsliv.",
+    "translated": "ERIKSON, Emil, Director, Stockholm, b. in city of Älvsb, on August 1st, 1880, son of the property owner Carl E and Kristina Andersdotter, m. Alice Österberg. Attended primary school, Holmqvist's commercial institute in Gothenburg in 1900. Employed at Gothenburg's varnish and paint factory from 1900 to 1904, H Major & Co Ltd in Hull from 1904 to 1907, H Meyer & Co in Lubeck from 1907 to 1910, Otto Juhlin in Stockholm from 1911 to 1916, co-owner of Otto Juhlin's AB from 1917 to 1942, served as managing director and shareholder since 1943. Board member of Resarö Storängs summer villa, Swedish Fur Trade Association. Travelled to England in 1904-1907, 1912, 1933, 1938; Germany in 1907-1910 and other times; France in 1914, 1926, 1928; Belgium in 1914, 1933; the Netherlands in 1933; Finland in 1908, 1910, 1923; Italy, Austria in 1928; USA in 1921. Member of Odd Fellow and Neptuniorden. Hobby: Outdoor activities.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Emil Erikson",
+        "birthDate": "1880-08-01",
+        "birthPlace": "Älvsb",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Carl E"
+            },
+            {
+                "@type": "Person",
+                "name": "Kristina Andersdotter"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Alice Österberg"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Holmqvist's commercial institute",
+            "location": "Gothenburg",
+            "startDate": "1900"
+        },
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1900",
+                "endDate": "1904",
+                "roleName": "Gothenburg varnish and paint factory",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Gothenburg's varnish and paint factory"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1904",
+                "endDate": "1907",
+                "roleName": "H Major & Co Ltd",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "H Major & Co Ltd"
+                },
+                "location": "Hull"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1907",
+                "endDate": "1910",
+                "roleName": "H Meyer & Co",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "H Meyer & Co"
+                },
+                "location": "Lubeck"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1911",
+                "endDate": "1916",
+                "roleName": "Otto Juhlin",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Otto Juhlin"
+                },
+                "location": "Stockholm"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1917",
+                "endDate": "1942",
+                "roleName": "co-owner of Otto Juhlin's AB",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Otto Juhlin's AB"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1943",
+                "roleName": "managing director and shareholder",
+                "organization": {
+                    "@type": "Organization"
+                }
+            }
+        ],
+        "boardMember": [
+            {
+                "@type": "Organization",
+                "name": "Resarö Storängs summer villa"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Fur Trade Association"
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "Place",
+                "name": "England"
+            },
+            {
+                "@type": "Place",
+                "name": "Germany"
+            },
+            {
+                "@type": "Place",
+                "name": "France"
+            },
+            {
+                "@type": "Place",
+                "name": "Belgium"
+            },
+            {
+                "@type": "Place",
+                "name": "Netherlands"
+            },
+            {
+                "@type": "Place",
+                "name": "Finland"
+            },
+            {
+                "@type": "Place",
+                "name": "Italy"
+            },
+            {
+                "@type": "Place",
+                "name": "Austria"
+            },
+            {
+                "@type": "Place",
+                "name": "United States"
+            }
+        ],
+        "organizationMembership": [
+            {
+                "@type": "Organization",
+                "name": "Odd Fellow"
+            },
+            {
+                "@type": "Organization",
+                "name": "Neptuniorden"
+            }
+        ],
+        "hobby": "Outdoor activities"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Employee",
+                "workplace": "Gothenburg's varnish and paint factory",
+                "industry": "Varnish and paint",
+                "start_date": "1900"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "H Major & Co Ltd",
+                "industry": "Unknown industry",
+                "start_date": "1904"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "H Meyer & Co",
+                "industry": "Unknown industry",
+                "start_date": "1907"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Otto Juhlin",
+                "industry": "Unknown industry",
+                "start_date": "1911"
+            },
+            {
+                "occupational_title": "Co-owner",
+                "workplace": "Otto Juhlin's AB",
+                "industry": "Unknown industry",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Managing director and shareholder",
+                "workplace": "Unknown",
+                "industry": "Unknown industry",
+                "start_date": "1943"
+            }
+        ]
+    }
+}

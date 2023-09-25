@@ -1,0 +1,180 @@
+{
+    "original": "ELLIOT, Åke Oscar, Civilingenjör, Åtvidaberg, f Malmö 21/12 08 av civ.ing O J E o Berta Trägårdh, gm Ilse Nagel. Studex 27, KTH (eltekn) 32. Anst ASEA V.ås 32—33, El AB Skandia Sthlm 34—37, Forsaströms Kraft AB Åtvidaberg sed. 37. Led municip-, byggn-o fastigh.nmd. Styr.led Forsaströms Kraft AB o ds dtrföret AB Blomsfors kraftstat, Falerums Belysn.AB, AB Hallsta-Rimforsa elvk o Tyrisfors Kraft AB samt ett pr frn. Resor : Danm, Engl, Finl, Norge, Tyskl, Frankr.",
+    "translated": "ELLIOT, Åke Oscar, Civil Engineer, Åtvidaberg, born in Malmö on December 21, 1908, to civil engineer O J E and Berta Trägårdh. Married to Ilse Nagel. Completed his studies (Studex) in 1927 at KTH specializing in electrical engineering (eltekn). Employed at ASEA in Västerås from 1932 to 1933, El AB Skandia in Stockholm from 1934 to 1937, and Forsaströms Kraft AB in Åtvidaberg since 1937. Served as a member of the municipal, building, and property committee. Also served on the board of directors for Forsaströms Kraft AB and its subsidiary AB Blomsfors kraftstat, Falerums Belysn.AB, AB Hallsta-Rimforsa elvk, Tyrisfors Kraft AB, and as a representative for another company. Traveled to Denmark, England, Finland, Norway, Germany, and France.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Åke Oscar Elliot",
+        "jobTitle": "Civil Engineer",
+        "birthDate": "1908-12-21",
+        "birthPlace": "Malmö, Sweden",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "O J E Elliot",
+                "jobTitle": "Civil Engineer"
+            },
+            {
+                "@type": "Person",
+                "name": "Berta Trägårdh"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ilse Nagel"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Studex",
+            "educationalLevel": "Bachelor's Degree",
+            "educationalCredentialAwarded": "Civil Engineering",
+            "educationalInstitution": {
+                "@type": "CollegeOrUniversity",
+                "name": "KTH",
+                "location": "Stockholm, Sweden"
+            },
+            "startDate": "1927",
+            "specialization": "Electrical Engineering"
+        },
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "ASEA"
+                },
+                "startDate": "1932",
+                "endDate": "1933",
+                "jobTitle": "Civil Engineer",
+                "location": "Västerås, Sweden"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "El AB Skandia"
+                },
+                "startDate": "1934",
+                "endDate": "1937",
+                "jobTitle": "Civil Engineer",
+                "location": "Stockholm, Sweden"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Forsaströms Kraft AB"
+                },
+                "startDate": "1937",
+                "jobTitle": "Civil Engineer",
+                "location": "Åtvidaberg, Sweden"
+            }
+        ],
+        "committeeMemberships": [
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Municipal Committee"
+                },
+                "jobTitle": "Member"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Building Committee"
+                },
+                "jobTitle": "Member"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Property Committee"
+                },
+                "jobTitle": "Member"
+            }
+        ],
+        "boardMemberships": [
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Forsaströms Kraft AB"
+                },
+                "jobTitle": "Board of Directors"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Blomsfors kraftstat"
+                },
+                "jobTitle": "Board of Directors"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Falerums Belysn.AB"
+                },
+                "jobTitle": "Board of Directors"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Hallsta-Rimforsa elvk"
+                },
+                "jobTitle": "Board of Directors"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Tyrisfors Kraft AB"
+                },
+                "jobTitle": "Board of Directors"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Another Company"
+                },
+                "jobTitle": "Representative"
+            }
+        ],
+        "traveledTo": [
+            "Denmark",
+            "England",
+            "Finland",
+            "Norway",
+            "Germany",
+            "France"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Åtvidaberg",
+                "industry": "Engineering",
+                "start_date": "1937"
+            },
+            {
+                "occupational_title": "Employed at ASEA",
+                "workplace": "Västerås",
+                "industry": "Engineering",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Employed at El AB Skandia",
+                "workplace": "Stockholm",
+                "industry": "Engineering",
+                "start_date": "1934"
+            }
+        ]
+    }
+}

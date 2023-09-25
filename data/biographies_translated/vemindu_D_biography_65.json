@@ -1,0 +1,106 @@
+{
+    "original": "DANIELSSON, Svante Daniel, Disponent, Åmål, f Gillberga, Värml, 22/2 90 av trävaru-handl ÄGD o h h, gm Selma Jonasson. Efter avslut skolgång stud v Bröd Påhlmans Hdlsinst, Sthlm. Egen järnh.fma i Värml Ny-säter 13, övertog rörelse i samma bransch i Säter 17. Bedriver byggn.mtrlaffär en grosi Åmål sed. 22 samt Åmåls Kol- o Koks AB sed. 36. Redare f Åmåls Nya Rederi AB. Stdsflm i Åmål 28—38.",
+    "translated": "DANIELSSON, Svante Daniel, Manager, Åmål, born in Gillberga, Värmland, on February 22, 1890, son of a timber dealer. Married to Selma Jonasson. After completing his education, he studied at Bröd Påhlmans Business Institute in Stockholm. Started his own ironworks company in Värmland, Ny-säter 13, took over a business in the same industry in Säter in 1917. Engaged in wholesale building materials business in Åmål since 1922, and also involved in Åmåls Kol- o Koks AB since 1936. Owner of Åmåls Nya Rederi AB. Resided in Åmål from 1928 to 1938.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Svante Daniel Danielsson",
+        "jobTitle": "Manager",
+        "birthPlace": "Gillberga, Värmland",
+        "birthDate": "1890-02-22",
+        "father": {
+            "@type": "Person",
+            "name": "Unknown Danielsson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Selma Jonasson"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Bröd Påhlmans Business Institute"
+        },
+        "business": [
+            {
+                "@type": "Organization",
+                "name": "Svante Danielsson Ironworks",
+                "foundingDate": "Ny-säter 13, Värmland",
+                "startDate": "Unknown",
+                "endDate": "1917"
+            },
+            {
+                "@type": "Organization",
+                "name": "Säter Ironworks",
+                "industry": "Ironworks",
+                "startDate": "1917"
+            },
+            {
+                "@type": "Organization",
+                "name": "Åmål Building Materials",
+                "industry": "Wholesale",
+                "startDate": "1922"
+            },
+            {
+                "@type": "Organization",
+                "name": "Åmåls Kol- o Koks AB",
+                "industry": "Coal",
+                "startDate": "1936"
+            },
+            {
+                "@type": "Organization",
+                "name": "Åmåls Nya Rederi AB",
+                "industry": "Shipping"
+            }
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Åmål"
+        },
+        "residence": {
+            "@type": "Place",
+            "name": "Åmål",
+            "startDate": "1928",
+            "endDate": "1938"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Manager",
+                "workplace": "Åmål",
+                "industry": "Timber trading",
+                "start_date": "N/A"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "Värmland, Ny-säter 13",
+                "industry": "Ironworks",
+                "start_date": "N/A"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "Säter",
+                "industry": "Ironworks",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Wholesale Business Owner",
+                "workplace": "Åmål",
+                "industry": "Building materials",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Åmåls Kol- o Koks AB",
+                "industry": "Coal and Coke",
+                "start_date": "1936"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "Åmåls Nya Rederi AB",
+                "industry": "Shipping",
+                "start_date": "N/A"
+            }
+        ]
+    }
+}

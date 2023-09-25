@@ -1,0 +1,115 @@
+{
+    "original": "ERIKSSON, David Ehrnfrid, Järnhandlare, Borlänge, f Järnboås s:n, Örebro l, 11/4 94 av bergsm E E o Kristina Israelsson, gm Hanna Berg. Lantm.sk. Eg lantbr 16—25, förest Nora s:ns lantm.frn 25—30, deläg Borlänge Nya Järnhdl (gr 98) 31—41, vkst dir dta AB sed. 42. Led stdsflm o beredn.utsk samt suppl dräts.kamm, led valnmd, byggn.nmd o arbetsstyr, ordf i borg stdsflmgruppen o i Fps Borlängeavd. Resor: Danmark, Norge. Hobbies: Skogs- o friluftsliv.",
+    "translated": "ERIKSSON, David Ehrnfrid, Ironmonger, Borlänge, born in Järnboås parish, Örebro county, on April 11, 1894, son of miner E. E. Eriksson and Kristina Israelsson, married to Hanna Berg. Agricultural student. Own agricultural business from 1916 to 1925. Superintendent of Nora municipality's agricultural association from 1925 to 1930. Co-owner of Borlänge Nya Järnhdl (established 1898) from 1931 to 1941. Director of a data company AB since 1942. Member of the City Council's film and preparatory committees, as well as a substitute member of the finance committee. Member of the election committee, building committee, and labor force committee. Chairman of the board of the City Council's film group and of the Fps Borlänge branch. Travel: Denmark, Norway. Hobbies: Forestry and outdoor life.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "David Ehrnfrid Eriksson",
+        "givenName": "David Ehrnfrid",
+        "familyName": "Eriksson",
+        "jobTitle": "Ironmonger",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Järnboås",
+                "addressRegion": "Örebro l"
+            }
+        },
+        "birthDate": "1894-04-11",
+        "father": {
+            "@type": "Person",
+            "name": "E. E. Eriksson",
+            "occupation": "Miner"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Kristina Israelsson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Hanna Berg"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Agricultural student"
+        },
+        "occupation": [
+            {
+                "@type": "Occupation",
+                "name": "Superintendent",
+                "startDate": "1925-01-01",
+                "endDate": "1930-12-31",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Nora municipality's agricultural association"
+                }
+            },
+            {
+                "@type": "Occupation",
+                "name": "Co-owner",
+                "startDate": "1931-01-01",
+                "endDate": "1941-12-31",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Borlänge Nya Järnhdl"
+                }
+            },
+            {
+                "@type": "Occupation",
+                "name": "Director",
+                "startDate": "1942-01-01",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Data company AB"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Denmark"
+                }
+            },
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Norway"
+                }
+            }
+        ],
+        "knowsAbout": "Forestry",
+        "hasInterest": "Outdoor life"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Agricultural Student",
+                "workplace": "",
+                "industry": "Agriculture",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Superintendent",
+                "workplace": "Nora municipality's agricultural association",
+                "industry": "Agriculture",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Co-owner",
+                "workplace": "Borlänge Nya Järnhdl",
+                "industry": "Retail",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "AB (Data Company)",
+                "industry": "Technology",
+                "start_date": "1942"
+            }
+        ]
+    }
+}

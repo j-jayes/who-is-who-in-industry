@@ -1,0 +1,59 @@
+{
+    "original": "FOSSELIUS, Carl Uno, Grosshandlare, öre-bro, f Kumla. Karolinska hal öbr, vidare skolutbildn o aff.stud i USA. Bitr i fad aff 98, överg t sko- o läderbranschen 04, inneh av o vkst dir f AB Ad Nilsson &amp; Co under fi år, eg ag.rörelse f in- o utl fmor sed. 24.",
+    "translated": "FOSSELIUS, Carl Uno, Wholesale merchant, from Örebro, born in Kumla. Completed studies at Karolinska hal öbr, furthered school education and business studies in the United States. Assisted in father's business since 1898, transitioned to the shoe and leather industry in 1904. Owned and served as managing director of AB Ad Nilsson & Co for five years. Established and conducted own business both domestically and internationally from 1924 onwards.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Uno Fosselius",
+        "birthPlace": "Kumla, Sweden",
+        "birthDate": "YYYY-MM-DD",
+        "nationality": "Swedish",
+        "occupation": "Wholesale Merchant",
+        "alumniOf": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Karolinska hal öbr",
+                "location": "Sweden"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Business School",
+                "location": "United States"
+            }
+        ],
+        "father": "Father's Name",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "AB Ad Nilsson & Co",
+            "startDate": "YYYY",
+            "endDate": "YYYY + 5 years"
+        },
+        "ownBusiness": {
+            "@type": "Organization",
+            "name": "Carl Uno Fosselius Business",
+            "startDate": "1924"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Wholesale merchant",
+                "workplace": "AB Ad Nilsson & Co",
+                "industry": "Unknown",
+                "start_date": "1904"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "AB Ad Nilsson & Co",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Business owner",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "1924"
+            }
+        ]
+    }
+}

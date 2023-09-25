@@ -1,0 +1,141 @@
+{
+    "original": "EWE-ERICSSON, Runo, Rektor, Göteborg, f Malmö 5/12 92. Malmö hal, Malmö tekn facksk, CTH; intern flygarcertif (n:r 88) 17, spec.stud i motor- o flygtekn i utl. Prakt v Malmö stads elvks laborat, SJs verkst, Göta-vkn, Thulinvkn, Burmeister &amp; Wain Köpenhamn mfl. Tekn ch f AB Togas auto- o mo-tortekn avd M:almö 21—27, spec.lär i förbränn-mot, förbränn.kemi o flygtekn v Gbgs Tekn inst sed. 27, bitr rektor 38, rektor sed. 41. Av trycket: FI kompendier om förbränn.motorer, i biltekn o tekn gasanalyser, fi pat på bl a aut varuhisskonstr.",
+    "translated": "EWE-ERICSSON, Runo, Principal, Gothenburg, b Malmö 5/12 92. Malmö lower secondary, Malmö technical vocational school, Chalmers University of Technology; international pilot certificate (no. 88) in 1917, specialized studies in motor and aviation technology abroad. Practical experience at Malmö city electric power laboratory, SJ (Swedish State Railways) workshop, Göta Works, Thulin Works, Burmeister & Wain Copenhagen, and others. Technical manager at AB Togas automobile and motor technology department in Malmö from 1921 to 1927, special teacher in internal combustion engines, combustion chemistry, and aviation technology at Gothenburg Technical Institute since 1927, deputy principal from 1938, principal since 1941. Publications include compendiums on internal combustion engines, automobile technology, and technical gas analysis, as well as patents on various subjects, including automatic goods elevator construction. Note: '\\d\\d m. partners name' indicates that the person got married in the year 19xx.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Runo Ewe-Ericsson",
+        "birthDate": "1892-12-05",
+        "birthPlace": "Malmö",
+        "description": "Prinicipal of Gothenburg",
+        "education": {
+            "@type": "EducationEvent",
+            "institution": [
+                {
+                    "@type": "Organization",
+                    "name": "Malmö Lower Secondary"
+                },
+                {
+                    "@type": "Organization",
+                    "name": "Malmö Technical Vocational School"
+                },
+                {
+                    "@type": "Organization",
+                    "name": "Chalmers University of Technology"
+                }
+            ]
+        },
+        "certification": {
+            "@type": "ProfessionalService",
+            "name": "International Pilot Certificate",
+            "identifier": "no. 88",
+            "validFrom": "1917-01-01"
+        },
+        "specialization": {
+            "@type": "EducationalOccupationalCredential",
+            "subjectOf": "Motor and Aviation Technology"
+        },
+        "workExperience": [
+            {
+                "@type": "Organization",
+                "name": "Malmö City Electric Power Laboratory",
+                "startDate": "Unknown"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish State Railways Workshop",
+                "startDate": "Unknown"
+            },
+            {
+                "@type": "Organization",
+                "name": "Göta Works",
+                "startDate": "Unknown"
+            },
+            {
+                "@type": "Organization",
+                "name": "Thulin Works",
+                "startDate": "Unknown"
+            },
+            {
+                "@type": "Organization",
+                "name": "Burmeister & Wain Copenhagen",
+                "startDate": "Unknown"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Togas",
+                "department": "Automobile and Motor Technology",
+                "startDate": "1921",
+                "endDate": "1927"
+            },
+            {
+                "@type": "Organization",
+                "name": "Gothenburg Technical Institute",
+                "department": "Internal Combustion Engines, Combustion Chemistry, and Aviation Technology",
+                "startDate": "1927"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Gothenburg Technical Institute"
+        },
+        "jobTitle": [
+            "Deputy Principal",
+            "Principal"
+        ],
+        "publication": [
+            {
+                "@type": "Article",
+                "name": "FI Compendier om Förbrännmotorer"
+            },
+            {
+                "@type": "Article",
+                "name": "FI Compendier om Bilteknologi"
+            },
+            {
+                "@type": "Article",
+                "name": "FI Compendier om Teknisk Gasanalys"
+            }
+        ],
+        "patent": [
+            {
+                "@type": "Patent",
+                "name": "Automatic Goods Elevator Construction"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Principal",
+                "workplace": "Gothenburg",
+                "industry": "",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Technical Manager",
+                "workplace": "AB Togas auto- o mo-tortekn avd Malmö",
+                "industry": "",
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Special Teacher",
+                "workplace": "Gbgs Tekn inst",
+                "industry": "",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Deputy Principal",
+                "workplace": "",
+                "industry": "",
+                "start_date": "1938"
+            },
+            {
+                "occupational_title": "Principal",
+                "workplace": "",
+                "industry": "",
+                "start_date": "1941"
+            }
+        ]
+    }
+}

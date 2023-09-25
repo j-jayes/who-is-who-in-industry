@@ -1,0 +1,142 @@
+{
+    "original": "ERICSSON, Curt Anders Gustav, Bergsingenjör, Hagfors, f Sthlm 31/8 08 av fond-mäkl S K A E o Hildur Sjöberg, gm Lena Jonson. Studex NReal Sthlm 26, bergsingex KTH 31. Anst h Jernkont :s tekn råd 31—32, v Avesta Jernvks AB 32—39, v Uddeholms AB i Hagfors ss avd.ch f rostfritt 39—44, ss avd.-ch f hyttor o leg.verk sed. 44. Studiresor i Belg, Danm, Engl, Frankr, Norge o Tyskl. Av trycket: Div tekn upps i Jernkont Ann, Värml Bergsm.frns Ann, Sv Papperstidn, Svetsaren mfl. Led Sv Tekn.frn sed. 31.",
+    "translated": "ERICSSON, Curt Anders Gustav, Mining Engineer, Hagfors, born in Stockholm on 31st August 1908, to fund broker S K A E and Hildur Sjöberg, married to Lena Jonson. Studied at Realgymnasiet in Stockholm in 1926, studied Mining Engineering at the Royal Institute of Technology (KTH) in 1931. Employed at Jernkontorets Tekniska Råd from 1931 to 1932, worked at Avesta Jernverks AB from 1932 to 1939, joined Uddeholms AB in Hagfors as head of the stainless steel department from 1939 to 1944, and then served as head of the furnace and rolling mill division. Went on study trips to Belgium, Denmark, England, France, Norway, and Germany. Published various technical articles in Jernkontorets Annaler, Värmlands Bergsmannaförenings Annaler, Svenska Papperstidningen, Svetsaren, and others. Member of the Swedish Society of Technology since 1931.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Curt Anders Gustav Ericsson",
+        "birthDate": "1908-08-31",
+        "birthPlace": "Stockholm",
+        "description": "Mining Engineer",
+        "spouse": {
+            "@type": "Person",
+            "name": "Lena Jonson"
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "S K A E",
+                "description": "Fund Broker"
+            },
+            {
+                "@type": "Person",
+                "name": "Hildur Sjöberg"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Studex",
+                "educationalLevel": "SecondaryEducation",
+                "educationalRole": "Realgymnasiet",
+                "startDate": "1926"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "BachelorsDegree",
+                "educationalLevel": "Undergraduate",
+                "educationalRole": "Mining Engineering",
+                "educationalInstitution": {
+                    "@type": "CollegeOrUniversity",
+                    "name": "Royal Institute of Technology (KTH)"
+                },
+                "startDate": "1931",
+                "endDate": "1931"
+            }
+        ],
+        "jobTitle": "Mining Engineer",
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Jernkontorets Tekniska Råd",
+                "startDate": "1931",
+                "endDate": "1932"
+            },
+            {
+                "@type": "Organization",
+                "name": "Avesta Jernverks AB",
+                "startDate": "1932",
+                "endDate": "1939"
+            },
+            {
+                "@type": "Organization",
+                "name": "Uddeholms AB",
+                "startDate": "1939",
+                "endDate": "1944",
+                "department": [
+                    {
+                        "@type": "Organization",
+                        "name": "Stainless Steel Department",
+                        "roleName": "head"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "Furnace and Rolling Mill Division",
+                        "roleName": "head"
+                    }
+                ]
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Society of Technology",
+                "startDate": "1931"
+            }
+        ],
+        "studyAbroad": [
+            "Belgium",
+            "Denmark",
+            "England",
+            "France",
+            "Norway",
+            "Germany"
+        ],
+        "publication": [
+            {
+                "@type": "Article",
+                "name": "Various technical articles in Jernkontorets Annaler"
+            },
+            {
+                "@type": "Article",
+                "name": "Various technical articles in Värmlands Bergsmannaförenings Annaler"
+            },
+            {
+                "@type": "Article",
+                "name": "Various technical articles in Svenska Papperstidningen"
+            },
+            {
+                "@type": "Article",
+                "name": "Various technical articles in Svetsaren"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Mining Engineer",
+                "workplace": "Jernkontorets Tekniska Råd",
+                "industry": "Mining",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Mining Engineer",
+                "workplace": "Avesta Jernverks AB",
+                "industry": "Steel",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Head of Stainless Steel Department",
+                "workplace": "Uddeholms AB",
+                "industry": "Steel",
+                "start_date": "1939"
+            },
+            {
+                "occupational_title": "Head of Furnace and Rolling Mill Division",
+                "workplace": "Uddeholms AB",
+                "industry": "Steel",
+                "start_date": "1944"
+            }
+        ]
+    }
+}

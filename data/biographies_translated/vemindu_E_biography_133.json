@@ -1,0 +1,147 @@
+{
+    "original": "ELFSTRÖM, Gustaf Alfred, Kamrer, Göteborg, f Lyrestad, Skarab l, 16/4 94 av lantbr C W E o Josefina Larsson, gm Aagot Peters. Studex, ex hdlsinst; godk granskn.m. Priv.lär 18—22, lär Gbg hdlsinst 22—24, kamr försäkr.AB Nornans huv.kont sed. 24, rev div föret sed. 18, deläg o styr.led AB Bröd Elfström (bokf- o rev.byrå, etabl 29), chef Försäkr AB Svea-Nornans redovisn- o revi-sionsavd. Styr.led fastigh.AB Lilla Torget, AB Motor-Westa. Ord.sällsk TG. Hobbies: Böcker, konst.",
+    "translated": "ELFSTRÖM, Gustaf Alfred, Accountant, Gothenburg, born in Lyrestad, Skaraborg county, 16th of April 1894, son of farmer C.W.E. Elfström and Josefina Larsson, married to Aagot Peters. Studied at the School of Commerce, graduated. Approved auditor. Private teacher 1918-1922, teacher at the Gothenburg School of Commerce 1922-1924. Accountant at Nornan Insurance Company's head office since 1924, auditor for various companies since 1918. Co-owner and board member of AB Bröd Elfström (accounting and auditing office, established in 1929), head of the accounting and auditing department at Svea-Nornan Insurance Company. Board member of Lilla Torget Real Estate Company and Motor-Westa Company. Member of the Swedish Accounting Society. Hobbies: Books, art.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Gustaf Alfred Elfström",
+        "jobTitle": "Accountant",
+        "birthPlace": "Lyrestad, Skaraborg county, Sweden",
+        "birthDate": "1894-04-16",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "C.W.E. Elfström",
+                "jobTitle": "Farmer"
+            },
+            {
+                "@type": "Person",
+                "name": "Josefina Larsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Aagot Peters"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "degree",
+            "educationalLevel": "Studex",
+            "schoolName": "School of Commerce"
+        },
+        "profession": [
+            {
+                "@type": "Occupation",
+                "name": "Private Teacher",
+                "startDate": "1918",
+                "endDate": "1922"
+            },
+            {
+                "@type": "Occupation",
+                "name": "Teacher",
+                "startDate": "1922",
+                "endDate": "1924",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Gothenburg School of Commerce"
+                }
+            },
+            {
+                "@type": "Occupation",
+                "name": "Accountant",
+                "startDate": "1924",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Nornan Insurance Company"
+                }
+            },
+            {
+                "@type": "Occupation",
+                "name": "Auditor",
+                "startDate": "1918"
+            },
+            {
+                "@type": "Occupation",
+                "name": "Co-owner",
+                "startDate": "1929",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "AB Bröd Elfström"
+                }
+            },
+            {
+                "@type": "Occupation",
+                "name": "Board Member",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "AB Bröd Elfström"
+                }
+            },
+            {
+                "@type": "Occupation",
+                "name": "Head of Accounting and Auditing Department",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Svea-Nornan Insurance Company"
+                }
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Swedish Accounting Society"
+        },
+        "hobbies": "Books, art"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Private teacher",
+                "workplace": "Unknown",
+                "industry": "Education",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Teacher",
+                "workplace": "Gothenburg School of Commerce",
+                "industry": "Education",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Accountant",
+                "workplace": "Nornan Insurance Company",
+                "industry": "Insurance",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Auditor",
+                "workplace": "Various companies",
+                "industry": "Finance",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Co-owner and board member",
+                "workplace": "AB Bröd Elfström",
+                "industry": "Accounting and auditing",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Head of accounting and auditing department",
+                "workplace": "Svea-Nornan Insurance Company",
+                "industry": "Insurance",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Board member",
+                "workplace": "Lilla Torget Real Estate Company",
+                "industry": "Real estate",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Board member",
+                "workplace": "Motor-Westa Company",
+                "industry": "Automotive",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

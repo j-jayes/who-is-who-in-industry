@@ -1,0 +1,118 @@
+{
+    "original": "ELIASSON, Ivar, Civilingenjör, Disponent, Stockholm, f Sthlm 12/6 85 av grhdl E E o Betty Malcolm, gm Elisabeth Krook. Ex CTH 08, fabr.ch AB Sv Maskinvkn 16—20, disp AB Nord Armaturfabr 20—30, vkst dir AB Indu-stricentr Maskinkont 30—39, disp o ch Lidköpings Mek Verkst AB :s Sthlmsavd sed. 39. Styr.ordf Frn Verktygsmaskiner. FFrK.",
+    "translated": "ELIASSON, Ivar, Civil Engineer, Manager, Stockholm, born in Stockholm on June 12, 1885, son of the deceased E. E. (first name) and Betty Malcolm. Married to Elisabeth Krook. Graduated from the Chalmers University of Technology in 1908. \n\nWorked as a factory engineer at AB Svenska Maskinvapenfabriken from 1916 to 1920, then as a manager at AB Nord Armaturfabrik from 1920 to 1930. Held the position of Vice Director at AB Industricentr Maskinkontroll from 1930 to 1939, and has been a manager and chairman of the Stockholm branch of Lidköpings Mekaniska Verkstads AB since 1939. \n\nAlso serves as the Chairman of the Board of Directors for Verktygsmaskiner. Member of the Royal Swedish Academy of Engineering Sciences (FFrK).",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "ELIASSON, Ivar",
+        "jobTitle": [
+            {
+                "@type": "JobPosting",
+                "title": "Factory Engineer",
+                "startDate": "1916",
+                "endDate": "1920",
+                "employer": [
+                    {
+                        "@type": "Organization",
+                        "name": "AB Svenska Maskinvapenfabriken"
+                    }
+                ]
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Manager",
+                "startDate": "1920",
+                "endDate": "1930",
+                "employer": [
+                    {
+                        "@type": "Organization",
+                        "name": "AB Nord Armaturfabrik"
+                    }
+                ]
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Vice Director",
+                "startDate": "1930",
+                "endDate": "1939",
+                "employer": [
+                    {
+                        "@type": "Organization",
+                        "name": "AB Industricentr Maskinkontroll"
+                    }
+                ]
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Manager",
+                "employer": [
+                    {
+                        "@type": "Organization",
+                        "name": "Lidköpings Mekaniska Verkstads AB"
+                    }
+                ],
+                "location": {
+                    "@type": "City",
+                    "name": "Stockholm"
+                },
+                "startDate": "1939"
+            }
+        ],
+        "nationality": "Swedish",
+        "birthDate": "1885-06-12",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Stockholm"
+        },
+        "father": {
+            "@type": "Person",
+            "name": "E. E. Eliasson"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Betty Malcolm"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Elisabeth Krook"
+        },
+        "education": {
+            "@type": "CollegeOrUniversity",
+            "name": "Chalmers University of Technology",
+            "startDate": "1908"
+        },
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Royal Swedish Academy of Engineering Sciences (FFrK)"
+        },
+        "honorificSuffix": "Chairman of the Board of Directors for Verktygsmaskiner"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "AB Svenska Maskinvapenfabriken",
+                "industry": "Engineering",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "AB Nord Armaturfabrik",
+                "industry": "Manufacturing",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Vice Director",
+                "workplace": "AB Industricentr Maskinkontroll",
+                "industry": "Engineering",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Manager & Chairman",
+                "workplace": "Lidköpings Mekaniska Verkstads AB (Stockholm branch)",
+                "industry": "Manufacturing",
+                "start_date": "1939"
+            }
+        ]
+    }
+}

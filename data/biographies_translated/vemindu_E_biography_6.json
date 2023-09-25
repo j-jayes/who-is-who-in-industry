@@ -1,0 +1,63 @@
+{
+    "original": "EDGREN, Anton Gösta Gottfrid, Disponent, Kalmar, f Gbg 12/1 07 av konsul Anton E o Kristina Lundqvist, gni Gertrud Olson. Realex, Schartaus. Anst AB Kalmar Chokladfabr 26, disp där sed. 31 samt styr.led. Resor: Årligen i Tyskl före kriget. Frimurare, Odd Fellow. Hobby: Idrott.",
+    "translated": "EDGREN, Anton Gösta Gottfrid, Manager, Kalmar, born in Gothenburg on January 12, 1907, to consul Anton E and Kristina Lundqvist, married to Gertrud Olson. Completed Realex exam at Schartaus school. Employed at AB Kalmar Chokladfabr since 1926, promoted to manager in 1931 and also served on the board. Traveled annually to Germany before the war. Freemason, member of Odd Fellow. Hobby: Sports.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Anton Gösta Gottfrid Edgren",
+        "jobTitle": "Manager",
+        "birthDate": "1907-01-12",
+        "birthPlace": "Gothenburg",
+        "spouse": "Gertrud Olson",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Anton E Lundqvist"
+            },
+            {
+                "@type": "Person",
+                "name": "Kristina Lundqvist"
+            }
+        ],
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Realex",
+            "educationalLevel": "Schartaus"
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "AB Kalmar Chokladfabr",
+            "startDate": "1926"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Frimurare"
+            },
+            {
+                "@type": "Organization",
+                "name": "Odd Fellow"
+            }
+        ],
+        "hobby": "Sports",
+        "startDate": "1931",
+        "endDate": "present",
+        "sameAs": "https://www.example.com/anton_edgren"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Disponent",
+                "workplace": "AB Kalmar Chokladfabr",
+                "industry": "Chocolate manufacturing",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Disponent",
+                "workplace": "AB Kalmar Chokladfabr",
+                "industry": "Chocolate manufacturing",
+                "start_date": "1931"
+            }
+        ]
+    }
+}

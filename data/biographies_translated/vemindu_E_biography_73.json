@@ -1,0 +1,97 @@
+{
+    "original": "EKHEM, Joel Sigfrid, Ingenjör, Örebro, f Förslöv, Krstds län, 12/8 96 av Hakvin Nilsson o Paulina Olsson, gm Gunborg Sjölin. Ingex Malmö tekn lärov 21. Anst AB Armerad Betong sed. 21. Kyrkoflm Nicolai förs. Resor: Danm, Tyskl 20, 21, 33, 39. Hobbies: Main, trädg.odling.",
+    "translated": "EKHEM, Joel Sigfrid, Engineer, Örebro, b. Förslöv, Kristianstad county, 12/8 1896, son of Hakvin Nilsson and Paulina Olsson, m. Gunborg Sjölin. Graduated from Malmö Technical School in 1921. Employed at AB Armerad Betong since 1921. Member of the parish congregation of Nicolai. Travels: Denmark, Germany in 1920, 1921, 1933, 1939. Hobbies: Fishing, gardening.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Joel Sigfrid Ekhem",
+        "jobTitle": "Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Örebro"
+        },
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Förslöv, Kristianstad county"
+        },
+        "birthDate": "1896-08-12",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Hakvin Nilsson"
+            },
+            {
+                "@type": "Person",
+                "name": "Paulina Olsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Gunborg Sjölin"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Malmö Technical School"
+        },
+        "alumniOf": {
+            "@type": "EducationalOrganization",
+            "name": "Malmö Technical School"
+        },
+        "graduationDate": "1921",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "AB Armerad Betong"
+        },
+        "employmentStartDate": "1921",
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Nicolai congregation"
+        },
+        "travelHistory": [
+            {
+                "@type": "Place",
+                "name": "Denmark"
+            },
+            {
+                "@type": "Place",
+                "name": "Germany"
+            }
+        ],
+        "travelDates": [
+            {
+                "@type": "Event",
+                "startDate": "1920",
+                "endDate": "1920"
+            },
+            {
+                "@type": "Event",
+                "startDate": "1921",
+                "endDate": "1921"
+            },
+            {
+                "@type": "Event",
+                "startDate": "1933",
+                "endDate": "1933"
+            },
+            {
+                "@type": "Event",
+                "startDate": "1939",
+                "endDate": "1939"
+            }
+        ],
+        "hobbies": [
+            "Fishing",
+            "Gardening"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "AB Armerad Betong",
+                "industry": "Construction",
+                "start_date": "1921"
+            }
+        ]
+    }
+}

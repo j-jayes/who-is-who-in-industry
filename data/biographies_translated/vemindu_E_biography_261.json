@@ -1,0 +1,148 @@
+{
+    "original": "ERIKSSON, Jonas, Direktör, Äppelviken, f Vännäs 30/5 85 av handl Erik Jonsson o Anna Nilsson, gm Elsa Andersson. Umeå hal, Påhlmans 03—04, e. elev Niels Broeks hdls-högsk Kpnhmn 09. Korresp h AB Carl Lindmark Sthlm 04, lär v Björstedts hdlsinst Sthlm 04—06, Oscar Wennlunds hdlsinst Gävle 06— 09, Gävle hdlsinst 09—13, kont.ch Maskinaff Royal Standard 13—14, vkst dir där 14— 24, vkst dir o ag AB Real (kontorsmaskiner) sed. 25. V. ordf Västerbottens Gille Sthlm. Resor: Danm, Engl, Tyskl, Frankr, Schweiz, Ital. Odd Fellow. Hobbies: Konst, trädgårdsarbete.",
+    "translated": "ERIKSSON, Jonas, Director, Äppelviken, b. Vännäs 30/5 1885, son of trader Erik Jonsson and Anna Nilsson, m. Elsa Andersson. Umeå commercial school, Påhlmans 03-04, former student at Niels Broek's business school in Copenhagen in 1909. Correspondent at AB Carl Lindmark in Stockholm in 1904, teacher at Björstedt's commercial institute in Stockholm 1904-1906, Oscar Wennlund's commercial institute in Gävle 1906-1909, Gävle commercial institute 1909-1913, accountant at Maskinaff Royal Standard 1913-1914, vice director there 1914-1924, vice director and agent at AB Real (office machines) since 1925. Vice chairman of Västerbottens Gille in Stockholm. Travels: Denmark, England, Germany, France, Switzerland, Italy. Member of Odd Fellow. Hobbies: Art, gardening.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Jonas Eriksson",
+        "birthDate": "1885-05-30",
+        "birthPlace": "Vännäs",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Erik Jonsson",
+                "jobTitle": "Trader"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Nilsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Elsa Andersson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "Umeå commercial school",
+                "endDate": "1904"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "Påhlmans",
+                "startDate": "1903",
+                "endDate": "1904"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "Niels Broek's business school",
+                "location": "Copenhagen",
+                "startDate": "1909"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "Björstedt's commercial institute",
+                "location": "Stockholm",
+                "startDate": "1904",
+                "endDate": "1906"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "Oscar Wennlund's commercial institute",
+                "location": "Gävle",
+                "startDate": "1906",
+                "endDate": "1909"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "Gävle commercial institute",
+                "startDate": "1909",
+                "endDate": "1913"
+            }
+        ],
+        "jobTitle": "Director",
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "AB Carl Lindmark",
+                "startDate": "1904",
+                "endDate": "1925"
+            },
+            {
+                "@type": "Organization",
+                "name": "Maskinaff Royal Standard",
+                "startDate": "1913",
+                "endDate": "1924"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Real",
+                "startDate": "1925"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Västerbottens Gille",
+                "position": "Vice Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Odd Fellow"
+            }
+        ],
+        "travelledTo": [
+            "Denmark",
+            "England",
+            "Germany",
+            "France",
+            "Switzerland",
+            "Italy"
+        ],
+        "hasHobby": [
+            "Art",
+            "Gardening"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Correspondent",
+                "workplace": "AB Carl Lindmark",
+                "industry": "Unknown",
+                "start_date": "1904"
+            },
+            {
+                "occupational_title": "Teacher",
+                "workplace": "Björstedts hdlsinst",
+                "industry": "Education",
+                "start_date": "1904"
+            },
+            {
+                "occupational_title": "Teacher",
+                "workplace": "Oscar Wennlunds hdlsinst",
+                "industry": "Education",
+                "start_date": "1906"
+            },
+            {
+                "occupational_title": "Accountant",
+                "workplace": "Maskinaff Royal Standard",
+                "industry": "Machinery",
+                "start_date": "1913"
+            },
+            {
+                "occupational_title": "Vice Director",
+                "workplace": "Maskinaff Royal Standard",
+                "industry": "Machinery",
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Vice Director and Agent",
+                "workplace": "AB Real",
+                "industry": "Office Machines",
+                "start_date": "1925"
+            }
+        ]
+    }
+}

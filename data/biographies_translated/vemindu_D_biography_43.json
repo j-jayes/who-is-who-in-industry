@@ -1,0 +1,103 @@
+{
+    "original": "DAHLSTEDT, Nils Gösta, Köpman, Örebro, f öbr 11/10 98. öbr hdlsgymn 15—17. Anst AB Sv Hdlsbkn 18—19, inträdde i fad fma J E Dahlstedts Bosättn.aff 19, inneh denna tills m brod Ragnar D sed. 26. Styr.led Frn öbr Köpmän, fd styr.led Sv Glas- o Porslinshandl.frn.",
+    "translated": "DAHLSTEDT, Nils Gösta, Merchant, Örebro, born October 11, 1898. Attended commercial school 1915-1917. Employed at AB Sv Hdlsbkn 1918-1919. Joined his father's business J E Dahlstedts Bosättn.aff in 1919, took over ownership together with his brother Ragnar D. in 1926. Board member of Frn öbr Köpmän and former board member of Sv Glas- o Porslinshandl. Married \\d\\d m. partner's name.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Nils Gösta Dahlstedt",
+        "birthDate": "1898-10-11",
+        "birthPlace": "Örebro, Sweden",
+        "occupation": "Merchant",
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Commercial School",
+            "dateFrom": "1915",
+            "dateTo": "1917"
+        },
+        "workExperience": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1918",
+                "endDate": "1919",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Sv Hdlsbkn"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1919",
+                "roleName": "Co-owner",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "J E Dahlstedts Bosättn.aff"
+                },
+                "associatedPerson": [
+                    {
+                        "@type": "Person",
+                        "name": "Ragnar D. Dahlstedt",
+                        "relation": "Brother"
+                    }
+                ]
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1926",
+                "roleName": "Former Board Member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Sv Glas- o Porslinshandl"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Board Member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Frn öbr Köpmän"
+                }
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Örebro",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "AB Sv Hdlsbkn",
+                "industry": "Unknown",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Business Owner",
+                "workplace": "J E Dahlstedts Bosättn.aff",
+                "industry": "Unknown",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Business Owner",
+                "workplace": "J E Dahlstedts Bosättn.aff (with brother Ragnar D.)",
+                "industry": "Unknown",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Frn öbr Köpmän",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Former Board Member",
+                "workplace": "Sv Glas- o Porslinshandl.",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

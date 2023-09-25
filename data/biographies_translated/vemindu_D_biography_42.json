@@ -1,0 +1,98 @@
+{
+    "original": "DAHLBUP, Harry Daniel, Disponent, Hälsingborg, f Limhamn 23/4 02 av hamnkapt E Persson o Johanna Persson, gm Maria Hallengren. 6 kl lärov, ex Malmö hdlsgymn 22. Eg kol.varufirma Malmö 25—28, start m A E Göransson Hälsbgs trävaruaff, D o G, 28 (AB 38), disp o styr.led i detta, rev i AB Alkal vatten, Ramlösa Brunn.",
+    "translated": "DAHLBUP, Harry Daniel, Manager, Helsingborg, born in Limhamn on April 23, 1902, to harbour captain E Persson and Johanna Persson, married to Maria Hallengren. Completed 6 years of elementary school, graduated from Malmö Commercial Gymnasium in 1922. Worked at a wholesale company in Malmö from 1925 to 1928, then started at A E Göransson's lumber store in Hälsingborg. Became director and board member of the company in 1928 (AB 38). Also served as director and board member of AB Alkal water, Ramlösa Brunn.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Harry Daniel Dahlbup",
+        "birthDate": "1902-04-23",
+        "birthPlace": "Limhamn",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "E Persson",
+                "jobTitle": "Harbour Captain"
+            },
+            {
+                "@type": "Person",
+                "name": "Johanna Persson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Maria Hallengren"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "6 years of elementary school",
+            "educationalLevel": "PrimaryEducation"
+        },
+        "memberOf": [
+            {
+                "@type": "OrganizationRole",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Malmö Commercial Gymnasium"
+                },
+                "startDate": "1922"
+            },
+            {
+                "@type": "OrganizationRole",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "AB Alkal water, Ramlösa Brunn"
+                },
+                "roleName": "Director",
+                "startDate": "unknown"
+            }
+        ],
+        "jobTitle": "Manager",
+        "workExperience": [
+            {
+                "@type": "OrganizationRole",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Malmö wholesale company"
+                },
+                "startDate": "1925",
+                "endDate": "1928"
+            },
+            {
+                "@type": "OrganizationRole",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "A E Göransson's lumber store"
+                },
+                "startDate": "1928"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Manager",
+                "workplace": "Helsingborg",
+                "industry": "N/A",
+                "start_date": "N/A"
+            },
+            {
+                "occupational_title": "Employee at wholesale company",
+                "workplace": "Malmö",
+                "industry": "Wholesale",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Director and board member",
+                "workplace": "A E Göransson's lumber store",
+                "industry": "Lumber/wood",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Director and board member",
+                "workplace": "AB Alkal Water, Ramlösa Brunn",
+                "industry": "Beverage",
+                "start_date": "N/A"
+            }
+        ]
+    }
+}

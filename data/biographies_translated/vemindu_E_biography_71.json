@@ -1,0 +1,61 @@
+{
+    "original": "EKESKOG, Anders Martin, Bokhandlare, Ulricehamn, f Timmele, Älvsb l, 10/11 78. Anst 91—08 fma S M Kjöllerström bokhdl (grund 60), övert denna 09, ag fastigh Storg 25. Led hälsov.nmcJn. Styr.led Ulriceh Tidn AB.",
+    "translated": "EKESKOG, Anders Martin, Bookstore Owner, Ulricehamn, born in Timmele, Älvsborg County, November 10, 1878. Employed from 1891-1908 at S M Kjöllerström's bookstore (established in 1860), took over this business in 1909, also owned property at Storgatan 25. Served as a member of the health committee and as a board member of Ulricehamn Tidning AB (newspaper company). Please note that '\\d\\d m. partners name' indicates marriage in the year 19xx.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Anders Martin Ekeskog",
+        "jobTitle": "Bookstore Owner",
+        "birthPlace": "Timmele, Älvsborg County",
+        "birthDate": "1878-11-10",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "S M Kjöllerström's Bookstore",
+                "foundingDate": "1860",
+                "endDate": "1908"
+            },
+            {
+                "@type": "Organization",
+                "name": "Ulricehamn Tidning AB",
+                "position": "Board Member"
+            }
+        ],
+        "owns": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Storgatan 25"
+            }
+        },
+        "memberOfHealthCommittee": true
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Bookstore Owner",
+                "workplace": "S M Kjöllerström's bookstore",
+                "industry": "Retail",
+                "start_date": "1909"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "S M Kjöllerström's bookstore",
+                "industry": "Retail",
+                "start_date": "1891"
+            },
+            {
+                "occupational_title": "Member of the Health Committee",
+                "workplace": "Ulricehamn",
+                "industry": "Healthcare",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Ulricehamn Tidning AB",
+                "industry": "Publishing",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

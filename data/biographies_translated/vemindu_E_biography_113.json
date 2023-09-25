@@ -1,0 +1,112 @@
+{
+    "original": "EKSTEIN, Nils Gunnar, Civilingenjör, Göteborg, f Torshälla 13/8 03 av fabr J S E o Maria Sjöberg, gm Gertrud Lundqvist. Ma-skinfacksk Etuna 24, KTH (maskinbyggn) 25—29. Anst beräkn- o offertavd STAL Finspång 29—34, ångtekn avd v S Sv Ågnpanne-frn Malmö 34—35, lär Maskinfacksk Etuna 35—37, verkst.ing o ch tekn avd AB Davy Robertsons Maskinfabr Gbg sed. 37. Stud.res o prakt Tyskl 30, Engl 36. W6. Hobby: Segling.",
+    "translated": "EKSTEIN, Nils Gunnar, Civil Engineer, Gothenburg, b. Torshälla 13/8 03, son of factory worker J S E and Maria Sjöberg, m. Gertrud Lundqvist. Graduate of Etuna Technical School for Mechanics, KTH (Mechanical Engineering) 25—29. Employed in the calculations and quotation department at STAL Finspång 29—34, steam engineering department at S Sv Ågnpanne-frn Malmö 34—35, instructor at Etuna Technical School for Mechanics 35—37, engineer and technical department at AB Davy Robertson's Machine Factory in Gothenburg since 37. Studied and worked in Germany in 30, and in England in 36. W6. Hobby: Sailing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Nils Gunnar Ekstein",
+        "jobTitle": "Civil Engineer",
+        "birthDate": "1903-08-13",
+        "birthPlace": "Torshälla",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "J S E",
+                "jobTitle": "Factory Worker"
+            },
+            {
+                "@type": "Person",
+                "name": "Maria Sjöberg"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Gertrud Lundqvist"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "educationalLevel": "Graduate",
+            "schoolName": "Etuna Technical School for Mechanics",
+            "startDate": "1925",
+            "endDate": "1929"
+        },
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "STAL Finspång",
+                "department": "Calculations and Quotation",
+                "startDate": "1929",
+                "endDate": "1934"
+            },
+            {
+                "@type": "Organization",
+                "name": "S Sv Ågnpanne-frn Malmö",
+                "department": "Steam Engineering",
+                "startDate": "1934",
+                "endDate": "1935"
+            },
+            {
+                "@type": "Organization",
+                "name": "Etuna Technical School for Mechanics",
+                "department": "Instructor",
+                "startDate": "1935",
+                "endDate": "1937"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Davy Robertson's Machine Factory",
+                "department": "Engineer and Technical Department",
+                "startDate": "1937"
+            }
+        ],
+        "additionalProperty": [
+            {
+                "@type": "PropertyValue",
+                "name": "Studied and Worked in",
+                "value": [
+                    "Germany",
+                    "England"
+                ]
+            },
+            {
+                "@type": "PropertyValue",
+                "name": "Hobby",
+                "value": "Sailing"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Gothenburg",
+                "industry": null,
+                "start_date": null
+            },
+            {
+                "occupational_title": "Calculations and Quotation Department Employee",
+                "workplace": "STAL Finspång",
+                "industry": null,
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Steam Engineering Department Employee",
+                "workplace": "S Sv Ågnpanne-från Malmö",
+                "industry": null,
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Instructor",
+                "workplace": "Etuna Technical School for Mechanics",
+                "industry": null,
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Engineer and Technical Department Employee",
+                "workplace": "AB Davy Robertson's Machine Factory",
+                "industry": null,
+                "start_date": "1937"
+            }
+        ]
+    }
+}

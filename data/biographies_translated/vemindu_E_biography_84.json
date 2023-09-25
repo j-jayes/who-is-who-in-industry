@@ -1,0 +1,113 @@
+{
+    "original": "EKLUND, Sven Gösta, Köpman, Kristianstad, f Örgryte 6/3 10 av handl S E o Tyra Löfmark. Malmö hdlsgymn. Anst fma Gotteil &amp; Co, Plauen, Tyskl, 29, Messrs Harvey &amp; Nicholls, London, 30, fma Eklund &amp; Co, Malmö, 31—33. Eg fma Borås-Magasinet, Kr.-stad (gr 07 av morf P J:son Löfmark). Sekr Kr.stads golfklubb. Resor i de fi. europ länd 35—39. Hobby: Violinspeln o kammarmusik.",
+    "translated": "EKLUND, Sven Gösta, Merchant, Kristianstad, born in Örgryte on 6/3 1910 to parents S E and Tyra Löfmark. Attended Malmö Commercial Gymnasium. Employed at Gotteil & Co, Plauen, Germany in 1929, Messrs Harvey & Nicholls, London in 1930, and Eklund & Co, Malmö from 1931 to 1933. Established Borås-Magasinet in Kristianstad (inherited in 1907 from maternal grandfather, P J:son Löfmark). Secretary of Kristianstad Golf Club. Traveled extensively in various European countries from 1935 to 1939. Hobby: Playing the violin and chamber music.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Sven Gösta Eklund",
+        "birthDate": "1910-03-06",
+        "birthPlace": "Örgryte",
+        "deathDate": null,
+        "description": "Merchant, Kristianstad",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "S E Eklund",
+                "description": "Father"
+            },
+            {
+                "@type": "Person",
+                "name": "Tyra Löfmark",
+                "description": "Mother"
+            }
+        ],
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Malmö Commercial Gymnasium"
+        },
+        "workExperience": [
+            {
+                "@type": "Organization",
+                "name": "Gotteil & Co",
+                "location": "Plauen, Germany",
+                "startDate": "1929"
+            },
+            {
+                "@type": "Organization",
+                "name": "Messrs Harvey & Nicholls",
+                "location": "London",
+                "startDate": "1930"
+            },
+            {
+                "@type": "Organization",
+                "name": "Eklund & Co",
+                "location": "Malmö",
+                "startDate": "1931",
+                "endDate": "1933"
+            },
+            {
+                "@type": "Organization",
+                "name": "Borås-Magasinet",
+                "location": "Kristianstad",
+                "description": "Inherited in 1907 from maternal grandfather, P J:son Löfmark"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Kristianstad Golf Club",
+                "position": "Secretary"
+            }
+        ],
+        "hobby": [
+            "Playing the violin",
+            "Chamber music"
+        ],
+        "hasOccupation": [
+            {
+                "@type": "Occupation",
+                "name": "Merchant"
+            }
+        ],
+        "hasResidence": [
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Kristianstad"
+                }
+            }
+        ],
+        "hasTravelHistory": [
+            "European countries"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Gotteil & Co",
+                "industry": "Plauen, Germany",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Messrs Harvey & Nicholls",
+                "industry": "London",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Eklund & Co",
+                "industry": "Malmö",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "Borås-Magasinet",
+                "industry": "Kristianstad",
+                "start_date": "1907"
+            }
+        ]
+    }
+}

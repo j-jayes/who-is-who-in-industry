@@ -1,0 +1,121 @@
+{
+    "original": "ELFMAN, Adolf Efraim, Civilingenjör, Hälsingborg, f Oxelösund 15/7 77 av hamnkamr A M E o Clara Sandblad, gm Karin Carlsson. Mog.ex Hbg 96, fylln.prövn 99, KTH (kemi) 99—02. E. stationsskriv v SJ 96—98, anst Ska Superfosf- &amp; Svavelsyrefabr AB Hbg 02—18, Reymersholms Gamla Ind AB sed. 18; v bol:s fabr Shlm 19—21 o lab.chef Hbg sed. 21, pension 42. PatrstGM. Led Sv Tekn.frn o Kemistsamfundet.",
+    "translated": "ELFMAN, Adolf Efraim, Civil Engineer, Hälsingborg, born in Oxelösund on 15th July 1877, son of harbour master A. M. E. and Clara Sandblad. Married to Karin Carlsson. He completed his secondary education in Hälsingborg in 1896, passed the filling test in 1899, and attended the Royal Institute of Technology (chemistry) from 1899 to 1902. He worked as a station clerk at Swedish Railways from 1896 to 1898, then was employed at Ska Superfosf- & Sulphuric Acid Factory AB in Hälsingborg from 1902 to 1918 and at Reymersholms Gamla Industrial AB since 1918. He worked at a company's factory in Stockholm from 1919 to 1921 and as a laboratory manager in Hälsingborg from 1921, retired in 1942. He obtained a patent for a product. Member of the Swedish Society of Engineers and the Society of Chemists.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Adolf Efraim Elfman",
+        "jobTitle": "Civil Engineer",
+        "birthDate": "1877-07-15",
+        "birthPlace": "Oxelösund",
+        "parent": {
+            "@type": "Person",
+            "name": "Clara Sandblad"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Karin Carlsson"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "SecondaryEducation",
+            "educationalLevel": "Secondary",
+            "educationalCredentialAwarded": "Completed in Hälsingborg in 1896"
+        },
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Swedish Railways"
+                },
+                "startDate": "1896",
+                "endDate": "1898",
+                "roleName": "Station Clerk"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Ska Superfosf- & Sulphuric Acid Factory AB"
+                },
+                "startDate": "1902",
+                "endDate": "1918",
+                "roleName": "Employee"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Reymersholms Gamla Industrial AB"
+                },
+                "startDate": "1918"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Unknown Company"
+                },
+                "startDate": "1919",
+                "endDate": "1921",
+                "roleName": "Factory Worker"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Unknown Laboratory"
+                },
+                "startDate": "1921",
+                "roleName": "Laboratory Manager"
+            }
+        ],
+        "retirementDate": "1942",
+        "patent": "Patent for a product",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Society of Engineers"
+            },
+            {
+                "@type": "Organization",
+                "name": "Society of Chemists"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Station Clerk",
+                "workplace": "Swedish Railways",
+                "industry": "Transportation",
+                "start_date": "1896"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Ska Superfosf- & Sulphuric Acid Factory AB",
+                "industry": "Chemical Manufacturing",
+                "start_date": "1902"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Reymersholms Gamla Industrial AB",
+                "industry": "Industrial Manufacturing",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Unknown company's factory in Stockholm",
+                "industry": "Unknown industry",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Laboratory Manager",
+                "workplace": "Hälsingborg",
+                "industry": "Laboratory/Chemical",
+                "start_date": "1921"
+            }
+        ]
+    }
+}

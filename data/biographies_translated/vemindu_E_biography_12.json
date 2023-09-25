@@ -1,0 +1,56 @@
+{
+    "original": "EDLING, Gustaf, Köpman, Storsjö, f 23/7 83. Inneh fma Gustaf Edling, div, Storsjö. Div komm uppdr, rev vägstyr. Styr.led Skan-dinavbkns Gamleby kont, Gamleby ortens Köpm.frn, sparbkskassör.",
+    "translated": "EDLING, Gustaf, Merchant, Storsjö, b. 23/7 83. Contents include Gustaf Edling, various occupations, Storsjö. Various municipal assignments, road commission inspector. Management board member of the Scandinavian Bank's Gamleby branch, Local Merchant Association representative, savings bank treasurer. Note that '\\d\\d m. partners name' means that the person married in the year 19xx.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Gustaf Edling",
+        "birthDate": "1883-07-23",
+        "jobTitle": "Merchant",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Storsjö"
+        },
+        "description": "Various occupations in Storsjö. Municipal assignments in road commission inspection. Management board member of the Scandinavian Bank's Gamleby branch. Local Merchant Association representative. Savings bank treasurer."
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Storsjö",
+                "industry": "Retail",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Various Occupations",
+                "workplace": "Storsjö",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Road Commission Inspector",
+                "workplace": "Unknown",
+                "industry": "Government",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Management Board Member",
+                "workplace": "Scandinavian Bank's Gamleby branch",
+                "industry": "Finance",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Local Merchant Association Representative",
+                "workplace": "Unknown",
+                "industry": "Retail",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Savings Bank Treasurer",
+                "workplace": "Unknown",
+                "industry": "Finance",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

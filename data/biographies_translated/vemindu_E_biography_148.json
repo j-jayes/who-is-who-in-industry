@@ -1,0 +1,101 @@
+{
+    "original": "ELLIOT, Oskar Fredrik, Bertil, Herr, Stockholm, f Lidkp 1/6 87 av disp J E o Lydia Lindeberg, gm Ingegerd Hall. Skara hal t. o. m. 3:dje R 06, Br Påhlm Hdlsinst, högre kurser o bankkurs 07, spec.kurs i banktekn 08. Anst Sthlm hdlsbk 08—12, ch f gasför-säljn.avd Sv AB Gasaccumulator sed. 14. Resor: Finl 34, Estl 35, 36, 37, Tyskl 38, Frankr 39, Hobby: Hemkultur.",
+    "translated": "ELLIOIT, Oskar Fredrik, Bertil, Mr., Stockholm, born in Lidköping on June 1st, 1887, son of J.E. and Lydia Lindeberg. Married to Ingegerd Hall. Completed studies up to the 3rd grade in primary school in 1906, and studied business at Påhlm Trade Institute. Completed advanced courses in banking in 1907 and specialized courses in banking technology in 1908. Employed at Stockholm Commercial Bank from 1908 to 1912, and then became the head of the gas sales department at Swedish AB Gasaccumulator since 1914. Traveled to Finland in 1934, Estonia in 1935, 1936, and 1937, Germany in 1938, and France in 1939. Hobbies include home culture.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Oskar Fredrik Bertil Elliot",
+        "givenName": "Oskar Fredrik Bertil",
+        "familyName": "Elliot",
+        "gender": "Male",
+        "birthDate": "1887-06-01",
+        "birthPlace": "Lidköping",
+        "nationality": "Swedish",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "J.E. Lindeberg",
+                "gender": "Male"
+            },
+            {
+                "@type": "Person",
+                "name": "Lydia Lindeberg",
+                "gender": "Female"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ingegerd Hall",
+            "gender": "Female"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "educationalLevel": "Primary School (3rd grade)",
+                "startDate": "1906",
+                "endDate": "1906",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Påhlm Trade Institute"
+                }
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "educationalLevel": "Banking (Advanced Courses)",
+                "startDate": "1907",
+                "endDate": "1907",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Påhlm Trade Institute"
+                }
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "educationalLevel": "Banking Technology (Specialized Courses)",
+                "startDate": "1908",
+                "endDate": "1908",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Påhlm Trade Institute"
+                }
+            }
+        ],
+        "employment": [
+            {
+                "@type": "Organization",
+                "name": "Stockholm Commercial Bank",
+                "startDate": "1908",
+                "endDate": "1912",
+                "jobTitle": "Employee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish AB Gasaccumulator",
+                "startDate": "1914",
+                "jobTitle": "Head of Gas Sales Department"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Skara hal t. o. m. 3:dje R 06"
+        },
+        "hobby": "Home culture",
+        "sameAs": "http://example.com/oskar-fredrik-bertil-elliot"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Chief of Gas Sales Department",
+                "workplace": "Swedish AB Gasaccumulator",
+                "industry": "Gas Manufacturing",
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Stockholm Commercial Bank",
+                "industry": "Banking",
+                "start_date": "1908"
+            }
+        ]
+    }
+}

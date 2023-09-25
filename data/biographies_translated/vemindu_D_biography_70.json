@@ -1,0 +1,59 @@
+{
+    "original": "DAVIDSSON, Sigfrid, Bergsingenjör, Åsham-mar, f 21/11 88 av fabr S J D o Carolina Jonsson, gm Jei Lidbom. Bergshögsk. Anst Carlsdals Br 14, Rote Erde 14—15, Suraham-mars Br 15—18, SKF Gbg 18—21, SKF Hofors Br sed. 21. Hobbies: Bokbinderi, entomologi.",
+    "translated": "DAVIDSSON, Sigfrid, Mining Engineer, Åsham-mar, b. 21/11 88 to factory worker S J D and Carolina Jonsson, m. Jei Lidbom. Graduate of the Mining University. Employed at Carlsdals Factory from 1914, Rote Erde 1914-1915, Suraham-mar's Factory 1915-1918, SKF Gothenburg 1918-1921, SKF Hofors Factory since 1921. Hobbies: Bookbinding, Entomology. Please note that \"m. partner's name\" indicates that the individual got married in the year 19xx.",
+    "structured": {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "name": "Sigfrid Davidsson",
+        "jobTitle": "Mining Engineer",
+        "birthDate": "1888-11-21",
+        "spouse": "Jei Lidbom",
+        "nationality": "Swedish",
+        "alumniOf": {
+            "@type": "EducationalOrganization",
+            "name": "Mining University"
+        },
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Hobbies",
+            "hobby": [
+                "Bookbinding",
+                "Entomology"
+            ]
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Mining Engineer",
+                "workplace": "Carlsdals Factory",
+                "industry": "Mining",
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Mining Engineer",
+                "workplace": "Rote Erde",
+                "industry": "Mining",
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Mining Engineer",
+                "workplace": "Suraham-mar's Factory",
+                "industry": "Mining",
+                "start_date": "1915"
+            },
+            {
+                "occupational_title": "Mining Engineer",
+                "workplace": "SKF Gothenburg",
+                "industry": "Manufacturing",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Mining Engineer",
+                "workplace": "SKF Hofors Factory",
+                "industry": "Manufacturing",
+                "start_date": "1921"
+            }
+        ]
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "original": "EINAR, Ernst, Fabrikör, Nyköping, f Hävla br i Skedevi s:n 17/11 93. Eft slut skolgång anst Hävla Br, Haddebo Br o Strångsjö mek verkst t 14, v Lindens smidesverkst Nykp 14—21. Eg mek verkst und fma Ernst EinarNykp sed. 22. Ag fastigh Nykp. Stdsflm, fd kyrkoflm. Ordf o v dirig (dirlg 28—38) f Miss.kyrkans sångkör sed. 38, fd ordf ds ung-domsfrn; ordf Sörml körfrb i Sv Miss.frb.",
+    "translated": "EINAR, Ernst, Industrialist, Nyköping, b. Hävla farm in Skedevi parish on November 17, 1893. After finishing school, employed at Hävla Factory, Haddebo Factory, and Strångsjö Mechanical Workshop until 1914, then at Linden's smithy in Nyköping from 1914 to 1921. Established own mechanical workshop under the name Ernst Einar Nyköping in 1922. Also owned properties in Nyköping. Former member of the city council, former church council member. Chairman and conductor (conducted from 1928 to 1938) of the Mission Church choir from 1938, former chairman of the youth association. Chairman of the Sörmland choir association in the Swedish Missionary Society. \n\nPlease note that the abbreviation \"f\" signifies \"born\" and \"e\" signifies \"married.\" The mention of \"\\d\\d m. partner's name\" indicates that the person got married in the year 19XX, but the specific partner's name is missing from the provided information.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Ernst Einar",
+        "givenName": "Ernst",
+        "familyName": "Einar",
+        "birthDate": "1893-11-17",
+        "birthPlace": "Hävla farm, Skedevi parish, Sweden",
+        "description": "Industrialist",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Nyköping",
+            "addressCountry": "Sweden"
+        },
+        "employmentHistory": [
+            {
+                "employer": "Hävla Factory",
+                "startDate": "19XX",
+                "endDate": "1914"
+            },
+            {
+                "employer": "Haddebo Factory",
+                "startDate": "19XX",
+                "endDate": "1914"
+            },
+            {
+                "employer": "Strångsjö Mechanical Workshop",
+                "startDate": "19XX",
+                "endDate": "1914"
+            },
+            {
+                "employer": "Linden's smithy",
+                "startDate": "1914",
+                "endDate": "1921"
+            },
+            {
+                "employer": "Ernst Einar Nyköping",
+                "startDate": "1922"
+            }
+        ],
+        "owns": {
+            "@type": "RealEstateAgent",
+            "name": "Properties in Nyköping"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Mission Church",
+                "position": "Chairman",
+                "startDate": "1938"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sörmland choir association",
+                "position": "Chairman"
+            }
+        ],
+        "isFormerMemberOf": [
+            {
+                "@type": "Organization",
+                "name": "City Council"
+            },
+            {
+                "@type": "Organization",
+                "name": "Church Council"
+            },
+            {
+                "@type": "Organization",
+                "name": "youth association"
+            }
+        ],
+        "conductorOf": {
+            "@type": "MusicGroup",
+            "name": "Mission Church choir",
+            "startDate": "1928",
+            "endDate": "1938"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Industrialist",
+                "workplace": "Hävla Factory",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Industrialist",
+                "workplace": "Haddebo Factory",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Industrialist",
+                "workplace": "Strångsjö Mechanical Workshop",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Industrialist",
+                "workplace": "Linden's Smithy",
+                "industry": "Mechanical",
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Industrialist",
+                "workplace": "Ernst Einar Nyköping Mechanical Workshop",
+                "industry": "Mechanical",
+                "start_date": "1922"
+            }
+        ]
+    }
+}

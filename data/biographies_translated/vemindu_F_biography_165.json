@@ -1,0 +1,110 @@
+{
+    "original": "FRIDMAN, Karl Gunnar, Grosshandlare, Karlstad, f Karlst 22/8 90 av fabr C A F o h h, f Edgren, gm Christina Lundgren. Genomg Lunds Priv Elem.lärov o Bröd Påhl-mans Hdlsinst, språk- o hdlsstud i Holl, Schweiz o Tyskl. Anst h Kindberg &amp; Co, Sthlm, 16—18. övertog faderns fma C A Fridman, Karlstad, ombild t Maskinfma C A Fridmans Eftr, även ag av K G Fridmans Importfirma f schweiziska finmek halvfabrikat sed. 18. Frimurare.",
+    "translated": "FRIDMAN, Karl Gunnar, Wholesaler, Karlstad, b. Karlst on August 22, 1890, son of factory owner C A F and his wife Edgren, m. Christina Lundgren. Completed education at Lund's Private Elementary School and Bröd Påhlman's Business Institute, language and trade studies in the Netherlands, Switzerland, and Germany. Employed at Kindberg & Co, Stockholm, from 1916 to 1918. Took over his father's company C A Fridman in Karlstad and restructured it into the Machinery Company C A Fridman's Successor, also became the agent for K G Fridman's Import Company for Swiss fine mechanical semi-finished products since 1918. Freemason.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Karl Gunnar Fridman",
+        "birthDate": "1890-08-22",
+        "birthPlace": "Karlstad",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Karlstad"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "C A F"
+            },
+            {
+                "@type": "Person",
+                "name": "Edgren"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Christina Lundgren"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Lund's Private Elementary School"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Bröd Påhlman's Business Institute"
+            }
+        ],
+        "employment": [
+            {
+                "@type": "Organization",
+                "name": "Kindberg & Co",
+                "location": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm"
+                },
+                "startDate": "1916-01-01",
+                "endDate": "1918-12-31"
+            }
+        ],
+        "business": [
+            {
+                "@type": "Organization",
+                "name": "C A Fridman",
+                "location": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Karlstad"
+                },
+                "startDate": "1918-01-01"
+            },
+            {
+                "@type": "Organization",
+                "name": "C A Fridman's Successor",
+                "location": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Karlstad"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "K G Fridman's Import Company",
+                "location": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Karlstad"
+                },
+                "startDate": "1918-01-01"
+            }
+        ],
+        "achievements": [
+            "Freemason"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Wholesaler",
+                "workplace": "Karlstad",
+                "industry": "Trade",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Kindberg & Co",
+                "industry": "Trade",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "C A Fridman",
+                "industry": "Machinery",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Agent",
+                "workplace": "K G Fridman's Import Company",
+                "industry": "Trade",
+                "start_date": "1918"
+            }
+        ]
+    }
+}

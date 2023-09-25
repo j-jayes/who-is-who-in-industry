@@ -1,0 +1,64 @@
+{
+    "original": "EKMAN, Elof Albert, Bankdirektör, Örebro, f Näshulta, Sörml, 29/11 01 av förvalt C A E o Elin Lindkvist, gm Ingrid Lindberg. Realex, språk- o bkstud Engl. Anst Sörinlbkn sed. 17. Styr.led Fabr Hammare AB, öbr hdlsgymn, led tax.nmdn.",
+    "translated": "EKMAN, Elof Albert, Bank Director, Örebro, b. Näshulta, Sörmland, November 29th, 1901, son of C A E and Elin Lindkvist, married to Ingrid Lindberg. Completed primary school, language and bookkeeping studies in English. Employed at Sörmland Bank since 1917. Board member of Hammare AB factory, additional studies in commercial high school, member of the tax committee.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Elof Albert Ekman",
+        "birthDate": "1901-11-29",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Näshulta"
+        },
+        "nationality": "Swedish",
+        "jobTitle": "Bank Director",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Sörmland Bank"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "PrimarySchool",
+            "credentialSubject": "Primary School"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "C A E"
+            },
+            {
+                "@type": "Person",
+                "name": "Elin Lindkvist"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ingrid Lindberg"
+        },
+        "additionalName": "Albert",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Hammare AB factory",
+                "roleName": "Board Member"
+            }
+        ],
+        "sameAs": "https://example.com/elof-albert-ekman"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Bank Director",
+                "workplace": "Sörmland Bank",
+                "industry": "Banking",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Board member",
+                "workplace": "Hammare AB factory",
+                "industry": "Manufacturing",
+                "start_date": ""
+            }
+        ]
+    }
+}

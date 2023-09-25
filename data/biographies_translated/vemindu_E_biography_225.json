@@ -1,0 +1,66 @@
+{
+    "original": "ERICSSON, Ears Erik, Direktör, Uppsala, f Rasbo, Uppl, 16/6 16. Dir i AB Motorcentralen samt Ups Bil- &amp; Gummi AB. Repr f AB Volvo i Uppsala.",
+    "translated": "ERICSSON, Ears Erik, Director, Uppsala, b Rasbo, Uppl, 16/6 16. Director in AB Motorcentralen and Ups Bil- & Gummi AB. Representative for AB Volvo in Uppsala.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Ears Erik Ericsson",
+        "jobTitle": "Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Uppsala",
+            "addressRegion": "Uppl",
+            "streetAddress": "Rasbo"
+        },
+        "birthDate": "1916-06-16",
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "AB Motorcentralen"
+            },
+            {
+                "@type": "Organization",
+                "name": "Ups Bil- & Gummi AB"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "AB Volvo"
+            }
+        ],
+        "representativeOf": {
+            "@type": "Organization",
+            "name": "AB Volvo",
+            "location": {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Uppsala"
+                }
+            }
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "AB Motorcentralen",
+                "industry": "Motor industry",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Ups Bil- & Gummi AB",
+                "industry": "Automotive industry",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Representative",
+                "workplace": "AB Volvo",
+                "industry": "Automotive industry",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "original": "EGGERTZ, Daniel, Civilingenjör, Göteborg, f Morbygden, Kopparb l, 4/12 91, gm Gunhild Agrell. Ex CTI 16. Ing v Scania Vabis Södertälje 16, v Nord Kullager AB Gbg 18, verkst. -chef o ing v Gbgs Hyrverks AB 19; deläg o styr.led i Fastigh AB J F Petterssons Arvingar 32. Deläg o vkst dir i Ing.fman Friberg &amp; Co AB Gbg sed. 32. Styr.led AB Hov-ås Villastad sed. 37.",
+    "translated": "EGGERTZ, Daniel, Civil Engineer, Gothenburg, from Morbygden, Kopparberg, born on 4/12 1891, married Gunhild Agrell. Formerly worked at CTI 16. Engineering studies at Scania Vabis Södertälje 16, employed at Nord Kullager AB Gothenburg 18, became manager and engineer at Gbgs Hyrverks AB 19; co-owner and board member of Fastigh AB J F Petterssons Arvingar 32. Co-owner and managing director at Ing.fman Friberg & Co AB Gothenburg since 32. Board member at AB Hov-ås Villastad since 37.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Daniel",
+        "familyName": "Eggertz",
+        "jobTitle": "Civil Engineer",
+        "birthDate": "1891-12-04",
+        "memberOf": [
+            {
+                "@id": "#organization3",
+                "@type": "OrganizationRole",
+                "startDate": "1919",
+                "roleName": "Manager and Engineer"
+            },
+            {
+                "@id": "#organization4",
+                "@type": "OrganizationRole",
+                "startDate": "1932",
+                "roleName": "Co-owner and Board Member"
+            },
+            {
+                "@id": "#organization5",
+                "@type": "OrganizationRole",
+                "startDate": "1932",
+                "roleName": "Co-owner and Managing Director"
+            },
+            {
+                "@id": "#organization6",
+                "@type": "OrganizationRole",
+                "startDate": "1937",
+                "roleName": "Board Member"
+            }
+        ],
+        "alumniOf": [
+            {
+                "@id": "#institution1",
+                "@type": "EducationalOrganization",
+                "name": "Scania Vabis Södertälje"
+            }
+        ],
+        "worksFor": [
+            {
+                "@id": "#organization2",
+                "@type": "Organization",
+                "name": "Nord Kullager AB"
+            },
+            {
+                "@id": "#organization3",
+                "@type": "Organization",
+                "name": "Gbgs Hyrverks AB"
+            },
+            {
+                "@id": "#organization4",
+                "@type": "Organization",
+                "name": "Fastigh AB J F Petterssons Arvingar"
+            },
+            {
+                "@id": "#organization5",
+                "@type": "Organization",
+                "name": "Ing.fman Friberg & Co AB"
+            },
+            {
+                "@id": "#organization6",
+                "@type": "Organization",
+                "name": "AB Hov-ås Villastad"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Gunhild Agrell"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Gothenburg",
+                "industry": "Engineering",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "CTI",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Engineering studies",
+                "workplace": "Scania Vabis Södertälje",
+                "industry": "Engineering",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Nord Kullager AB",
+                "workplace": "Gothenburg",
+                "industry": "Unknown",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Manager and Engineer",
+                "workplace": "Gbgs Hyrverks AB",
+                "industry": "Unknown",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Co-owner and Board member",
+                "workplace": "Fastigh AB J F Petterssons Arvingar",
+                "industry": "Real Estate",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Co-owner and Managing Director",
+                "workplace": "Ing.fman Friberg & Co AB",
+                "industry": "Engineering",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Board member",
+                "workplace": "AB Hov-ås Villastad",
+                "industry": "Real Estate",
+                "start_date": "1937"
+            }
+        ]
+    }
+}

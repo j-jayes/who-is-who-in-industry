@@ -1,0 +1,108 @@
+{
+    "original": "ERIKSSON, Artur Johan, Civilingenjör, Fabrikschef, Borås, f By, Kopparb l, 24/6 01 av murare G A E o Hilma Sundström, gm Gerda Jödahl. NReal i Sthlm, kem v AB Joh Ohlssons Tekn Fabr 17—20, KTH (kemi) 20 —24, ch f ammunitionsfabr :s försökslab i Sthlm 25—28, driftsing, senare driftschef o övering v AB Sv Konstsilke i Borås sed. 28.",
+    "translated": "ERIKSSON, Artur Johan, Civil Engineer, Factory Manager, Borås, born in Finspång, Kopparberg county, on June 24, 1901, to mason G A E and Hilma Sundström. Married to Gerda Jödahl. Studied at the Royal Institute of Technology in Stockholm, specializing in chemistry, from 1920 to 1924. Worked as a chemist at AB Joh Ohlssons Tekniska Fabrik from 1917 to 1920, and at the ammunition factory's experimental laboratory in Stockholm from 1925 to 1928. Later became a production engineer and chief engineer at AB Svenskt Konstsilke in Borås from 1928 onwards.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Artur Johan Eriksson",
+        "birthDate": "1901-06-24",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Finspång"
+        },
+        "nationality": "Swedish",
+        "description": "Civil Engineer, Factory Manager",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "AB Joh Ohlssons Tekniska Fabrik",
+                "role": "Chemist",
+                "startDate": "1917",
+                "endDate": "1920"
+            },
+            {
+                "@type": "Organization",
+                "name": "Ammunition Factory",
+                "role": "Chemist (Experimental Laboratory)",
+                "location": {
+                    "@type": "City",
+                    "name": "Stockholm"
+                },
+                "startDate": "1925",
+                "endDate": "1928"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Svenskt Konstsilke",
+                "role": "Production Engineer, Chief Engineer",
+                "location": {
+                    "@type": "City",
+                    "name": "Borås"
+                },
+                "startDate": "1928"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Gerda Jödahl"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Royal Institute of Technology (KTH)",
+            "location": {
+                "@type": "City",
+                "name": "Stockholm"
+            },
+            "degree": {
+                "@type": "EducationalDegree",
+                "name": "Civil Engineering",
+                "startDate": "1920",
+                "endDate": "1924"
+            }
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "G A E"
+            },
+            {
+                "@type": "Person",
+                "name": "Hilma Sundström"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "AB Joh Ohlssons Tekniska Fabrik",
+                "industry": "Unknown",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Chemist",
+                "workplace": "AB Joh Ohlssons Tekniska Fabrik",
+                "industry": "Unknown",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Chemist",
+                "workplace": "Ammunition factory's experimental laboratory",
+                "industry": "Unknown",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Production Engineer",
+                "workplace": "AB Svenskt Konstsilke",
+                "industry": "Textiles",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Chief Engineer",
+                "workplace": "AB Svenskt Konstsilke",
+                "industry": "Textiles",
+                "start_date": "1928"
+            }
+        ]
+    }
+}

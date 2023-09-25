@@ -1,0 +1,76 @@
+{
+    "original": "EKSTRÖM, Carl Harry, Kontorschef, Stockholm, f Sthlm 94 av ass.tj.man Henrik Ekström o Lisette Ebbesen, gm Sonja Ahl. Anst Komm.bol Kock &amp; Co o J Anderssons Kolimp 10—12, AB Bankirfman Alfred Berg Sthlm sed. 12, styr.led där.",
+    "translated": "EKSTRÖM, Carl Harry, Office Manager, Stockholm, b. Stockholm 1894, son of Assistant Manager Henrik Ekström and Lisette Ebbesen, m. Sonja Ahl (married in the year 19xx). Employed at Komm.bol Kock & Co and J Anderssons Kolimp 1910-1912, AB Bankirfman Alfred Berg Stockholm since 1912, board member there.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Harry Ekström",
+        "jobTitle": "Office Manager",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "birthDate": "1894-01-01",
+        "birthPlace": "Stockholm",
+        "father": {
+            "@type": "Person",
+            "name": "Henrik Ekström",
+            "jobTitle": "Assistant Manager"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Lisette Ebbesen"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Sonja Ahl",
+            "marriageDate": "19xx"
+        },
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "Komm.bol Kock & Co",
+                "startDate": "1910",
+                "endDate": "1912"
+            },
+            {
+                "@type": "Organization",
+                "name": "J Anderssons Kolimp"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Bankirfman Alfred Berg",
+                "startDate": "1912"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "AB Bankirfman Alfred Berg",
+                "roleName": "Board Member"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Office Manager",
+                "workplace": "Komm.bol Kock & Co",
+                "industry": "Unknown",
+                "start_date": "1910"
+            },
+            {
+                "occupational_title": "Office Manager",
+                "workplace": "J Anderssons Kolimp",
+                "industry": "Unknown",
+                "start_date": "1912"
+            },
+            {
+                "occupational_title": "Office Manager",
+                "workplace": "AB Bankirfman Alfred Berg",
+                "industry": "Banking",
+                "start_date": "1912"
+            }
+        ]
+    }
+}

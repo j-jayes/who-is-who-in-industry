@@ -1,0 +1,116 @@
+{
+    "original": "DAVIDSSON, Lars Ander, Fabrikör, Smålands Burseryd, f Vickelsbo Jkps l, 12/11 87. Prakt o anst inom järnbranschen å öl orter, genomg kurs v Alnarps hovbeslagssk 07, övert Faxes Skyddskofabr i Burseryd 09. Uppfunn öl typer av vildmarksharvar f bered av betesvallar. Init.tag t o deläg i Burseryds Kraft AB o AB Burseryds Träind. Hälsov.nmdns ordf 16 år, led av kommunalflm o kyrkoflm, kronoombud i tax.nrndn mm.",
+    "translated": "DAVIDSSON, Lars Ander, Industrialist, from Burseryd in Småland, born in Vickelsbo, Jönköping county, on November 12th, 1887. Had practical and employed experience in the iron industry in various locations. Completed a course at Alnarp's Horseshoeing School in 1907. Took over Faxe's Protection Shoe Factory in Burseryd in 1909. Invented various types of wilderness harrows for preparing pasture meadows. Took initiative and became co-owner of Burseryds Power Corporation and Burseryds Wood Industries AB. Served as chairman of the Health Committee for 16 years, was a member of the municipal board and church board, as well as a representative in the local tax office, among other things.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Lars Ander Davidsson",
+        "birthDate": "1887-11-12",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Vickelsbo",
+                "addressRegion": "Jönköping",
+                "addressCountry": "Sweden"
+            }
+        },
+        "occupation": "Industrialist",
+        "description": "Industrialist from Burseryd in Småland",
+        "worksFor": [
+            {
+                "@type": "Corporation",
+                "name": "Faxe's Protection Shoe Factory",
+                "foundingDate": "1909"
+            },
+            {
+                "@type": "Corporation",
+                "name": "Burseryds Power Corporation",
+                "foundingDate": "unknown"
+            },
+            {
+                "@type": "Corporation",
+                "name": "Burseryds Wood Industries AB",
+                "foundingDate": "unknown"
+            }
+        ],
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Course",
+            "educationalLevel": "unknown",
+            "provider": {
+                "@type": "EducationalOrganization",
+                "name": "Alnarp's Horseshoeing School"
+            },
+            "startDate": "1907"
+        },
+        "invention": [
+            {
+                "@type": "Product",
+                "name": "Wilderness Harrows",
+                "description": "Various types of wilderness harrows for preparing pasture meadows"
+            }
+        ],
+        "positions": [
+            {
+                "@type": "Role",
+                "roleName": "Chairman",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Health Committee"
+                },
+                "startDate": "unknown",
+                "endDate": "unknown",
+                "duration": "16 years"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Municipal Board"
+            },
+            {
+                "@type": "Organization",
+                "name": "Church Board"
+            },
+            {
+                "@type": "Organization",
+                "name": "Local Tax Office"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Practical and employed experience in the iron industry",
+                "workplace": "Various locations",
+                "industry": "Iron",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Took over Faxe's Protection Shoe Factory",
+                "workplace": "Burseryd",
+                "industry": "Shoe manufacturing",
+                "start_date": "1909"
+            },
+            {
+                "occupational_title": "Invented various types of wilderness harrows",
+                "workplace": "Unknown",
+                "industry": "Agricultural machinery",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Co-owner of Burseryds Power Corporation",
+                "workplace": "Burseryd",
+                "industry": "Power generation",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Co-owner of AB Burseryds Träind",
+                "workplace": "Burseryd",
+                "industry": "Wood industry",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

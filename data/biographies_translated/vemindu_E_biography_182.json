@@ -1,0 +1,85 @@
+{
+    "original": "ENGSTRÖM, Arne, Försäljningschef, Norrköping, f 22/5 03 av kommendör C C E o Gunhild Kjellberg, gm Ingeborg Leijonhielm. DHS 25. Anst Sv Litog Tryck 25, ch Litho-graf AB Sthlmskont 27, dir.ass o f or s.ch huv.-kont, Nkpg, sed 39. Kapt ing.trupp res.",
+    "translated": "ENGSTRÖM, Arne, Sales Manager, Norrköping, b. May 22, 1903, son of Commander C.C.E. and Gunhild Kjellberg, m. Ingeborg Leijonhielm. Graduated from the Swedish School of Lithography in 1925. Employed at Sv Litog Tryck from 1925, became head of the Stockholm branch of Litho-graf AB in 1927, assistant director and sales manager at the main office in Norrköping since 1939. Captain in the reserve.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Arne Engström",
+        "jobTitle": "Sales Manager",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Litho-graf AB"
+        },
+        "birthDate": "1903-05-22",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "C.C.E. Engström",
+                "jobTitle": "Commander"
+            },
+            {
+                "@type": "Person",
+                "name": "Gunhild Kjellberg"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ingeborg Leijonhielm"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Swedish School of Lithography",
+            "startDate": "1925"
+        },
+        "worksAt": {
+            "@type": "Organization",
+            "name": "Sv Litog Tryck",
+            "startDate": "1925"
+        },
+        "captainIn": "reserve",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Norrköping"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Sales Manager",
+                "workplace": "Norrköping",
+                "industry": "Unknown",
+                "start_date": "1939"
+            },
+            {
+                "occupational_title": "Director Assistant",
+                "workplace": "Norrköping",
+                "industry": "Unknown",
+                "start_date": "1939"
+            },
+            {
+                "occupational_title": "Head of Stockholm Branch",
+                "workplace": "Litho-graf AB",
+                "industry": "Lithography",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Litho-graf AB",
+                "industry": "Lithography",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Student",
+                "workplace": "Swedish School of Lithography",
+                "industry": "Education",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Captain (Reserve)",
+                "workplace": "Unknown",
+                "industry": "Military",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

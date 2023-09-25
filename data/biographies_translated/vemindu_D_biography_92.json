@@ -1,0 +1,254 @@
+{
+    "original": "DILOT, Carl Håkon, Civilingenjör, Äppelviken, f Bjuv, Malmöh l, 30/10 93 av e. prov.-läk C D o Christine Simonsson, gm Signe Moritz. Studex Hbg 12, CTI (maskinbyggn 0 mek tekn) 13—17. Bitr ing v Höganäs-Billesholms AB Billesh gruva 19—20, anst v Hudson Motor Car Co of NY 20—21, konstr v Stanley Motor Carriage Co Newton Mäss USA 21—23, v Nydqvist &amp; Holm AB Trollhättan 23—26, labing v AB Elektrolux Sthlm 27, chef f sistn AB:s exper.verkst sed. 40. Led Sv Tekn.frn o Chalm Ing.frn, styr.led Bromma luftsk.frn, sekr Trädgårdsstadsfrn Äppelv.-Smedslätten. Resor: Engl 28, 36, Holl 28, 31, 36, Danm, Finl. Hobbies: Foto, natur.",
+    "translated": "DILOT, Carl Håkon, Civil Engineer, Äppelviken, born in Bjuv, Malmö County, on October 30, 1893, to former prov.-doctor C. D. and Christine Simonsson, married to Signe Moritz. Studied in Helsingborg until 1912, CTI (mechanical engineering and technical mechanics) from 1913 to 1917. Assistant engineer at Höganäs-Billesholms AB Billesh mine from 1919 to 1920, employed at Hudson Motor Car Co of NY from 1920 to 1921, designer at Stanley Motor Carriage Co Newton Mäss USA from 1921 to 1923, at Nydqvist & Holm AB Trollhättan from 1923 to 1926, laboratory work at AB Elektrolux Stockholm in 1927, and chief of the company's experimental workshop since 1940. Member of the Swedish Technical Association and Chalmers Engineers Association, board member of Bromma Airforce Association, secretary of the Trädgårdsstads Association in Äppelviken-Smedslätten. Travelled to England in 1928 and 1936, the Netherlands in 1928, 1931, and 1936, Denmark and Finland. Hobbies: Photography, nature.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Håkon Dilöt",
+        "birthDate": "1893-10-30",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Bjuv"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Äppelviken",
+            "addressRegion": "Malmö County"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "C. D. Simonsson"
+            },
+            {
+                "@type": "Person",
+                "name": "Christine Simonsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Signe Moritz"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "diploma",
+            "educationalLevel": "Bachelor's degree",
+            "alumniOf": {
+                "@type": "EducationalOrganization",
+                "name": "Helsingborg"
+            },
+            "startDate": "1913",
+            "endDate": "1917"
+        },
+        "employmentHistory": [
+            {
+                "@type": "JobPosting",
+                "jobTitle": "Assistant Engineer",
+                "startDate": "1919",
+                "endDate": "1920",
+                "hiringOrganization": {
+                    "@type": "Organization",
+                    "name": "Höganäs-Billesholms AB",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Billesh gruva"
+                    }
+                }
+            },
+            {
+                "@type": "JobPosting",
+                "jobTitle": "Employee",
+                "startDate": "1920",
+                "endDate": "1921",
+                "hiringOrganization": {
+                    "@type": "Organization",
+                    "name": "Hudson Motor Car Co of NY"
+                }
+            },
+            {
+                "@type": "JobPosting",
+                "jobTitle": "Designer",
+                "startDate": "1921",
+                "endDate": "1923",
+                "hiringOrganization": {
+                    "@type": "Organization",
+                    "name": "Stanley Motor Carriage Co Newton Mäss USA"
+                }
+            },
+            {
+                "@type": "JobPosting",
+                "jobTitle": "Designer",
+                "startDate": "1923",
+                "endDate": "1926",
+                "hiringOrganization": {
+                    "@type": "Organization",
+                    "name": "Nydqvist & Holm AB"
+                }
+            },
+            {
+                "@type": "JobPosting",
+                "jobTitle": "Laboratory Worker",
+                "startDate": "1927",
+                "hiringOrganization": {
+                    "@type": "Organization",
+                    "name": "AB Elektrolux",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm"
+                    }
+                }
+            },
+            {
+                "@type": "JobPosting",
+                "jobTitle": "Chief",
+                "startDate": "1940",
+                "hiringOrganization": {
+                    "@type": "Organization",
+                    "name": "AB Elektrolux",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm"
+                    }
+                },
+                "description": "Experimental Workshop"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Technical Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Chalmers Engineers Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Bromma Airforce Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Trädgårdsstads Association",
+                "description": "Äppelviken-Smedslätten"
+            }
+        ],
+        "travel": [
+            {
+                "@type": "TravelAction",
+                "fromLocation": {
+                    "@type": "Country",
+                    "name": "Sweden"
+                },
+                "toLocation": {
+                    "@type": "Country",
+                    "name": "England"
+                },
+                "startDate": "1928",
+                "endDate": "1928"
+            },
+            {
+                "@type": "TravelAction",
+                "fromLocation": {
+                    "@type": "Country",
+                    "name": "Sweden"
+                },
+                "toLocation": {
+                    "@type": "Country",
+                    "name": "the Netherlands"
+                },
+                "startDate": "1928",
+                "endDate": "1928"
+            },
+            {
+                "@type": "TravelAction",
+                "fromLocation": {
+                    "@type": "Country",
+                    "name": "Sweden"
+                },
+                "toLocation": {
+                    "@type": "Country",
+                    "name": "the Netherlands"
+                },
+                "startDate": "1931",
+                "endDate": "1931"
+            },
+            {
+                "@type": "TravelAction",
+                "fromLocation": {
+                    "@type": "Country",
+                    "name": "Sweden"
+                },
+                "toLocation": {
+                    "@type": "Country",
+                    "name": "the Netherlands"
+                },
+                "startDate": "1936",
+                "endDate": "1936"
+            },
+            {
+                "@type": "TravelAction",
+                "fromLocation": {
+                    "@type": "Country",
+                    "name": "Sweden"
+                },
+                "toLocation": {
+                    "@type": "Country",
+                    "name": "Denmark"
+                }
+            },
+            {
+                "@type": "TravelAction",
+                "fromLocation": {
+                    "@type": "Country",
+                    "name": "Sweden"
+                },
+                "toLocation": {
+                    "@type": "Country",
+                    "name": "Finland"
+                }
+            }
+        ],
+        "additionalName": "Håkon",
+        "description": "Civil Engineer",
+        "colleague": [
+            {
+                "@type": "Person",
+                "name": "Cd Simonsson"
+            },
+            {
+                "@type": "Person",
+                "name": "Christine Simonsson"
+            }
+        ],
+        "knowsAbout": "Mechanical Engineering",
+        "hobbies": "Photography, Nature"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Assistant Engineer",
+                "workplace": "Höganäs-Billesholms AB Billesh mine",
+                "industry": "Mining",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Designer",
+                "workplace": "Stanley Motor Carriage Co Newton Mäss USA",
+                "industry": "Automotive",
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Laboratory Worker",
+                "workplace": "AB Elektrolux Stockholm",
+                "industry": "Technology/Electrical appliances",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Chief of Experimental Workshop",
+                "workplace": "AB Elektrolux Stockholm",
+                "industry": "Technology/Electrical appliances",
+                "start_date": "1940"
+            }
+        ]
+    }
+}

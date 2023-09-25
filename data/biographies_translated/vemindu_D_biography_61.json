@@ -1,0 +1,124 @@
+{
+    "original": "DANIELSON, Sven Alban, Juvelerare, Motala, f Björsäter, Ögl län, 21/6 00 av disp W D o Ellen Åström, gm Ebba Stålberg. Lärov 1 Vadst. Anst juv.AB John Petterssons eftr, Sthlm, 16—19, H Stålberg, Mora, 19—22. Egna f mr: H Stålbergs eftr, Malung, 22—30, E Linderoths eftr, Motala, sed. 30. Led av stdsflm o byggn.nmdn, ordf Motala fabr- o hantv.frn, styr.suppl Ögl ensk bk, Motala.",
+    "translated": "DANIELSON, Sven Alban, Jeweler, Motala, b. Björsäter, Ögl county, 21/6 00, son of disp (disponent) W D and Ellen Åström, m. Ebba Stålberg. Educated at Vadstena. Employed at jewelry company AB John Petterssons eftr in Stockholm from 1916 to 1919, and at H Stålberg in Mora from 1919 to 1922. Started his own business as a master jeweler in Malung from 1922 to 1930, and then at E Linderoth's in Motala from 1930 onwards. Served on the board of the Motala textile factory and trade association, and as a member of the Motala building committee. Also served as a deputy member of the Ögl county bank, Motala.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Sven Alban Danielson",
+        "birthDate": "1900-06-21",
+        "birthPlace": "Björsäter, Ögl county, Sweden",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "W D Danielson"
+            },
+            {
+                "@type": "Person",
+                "name": "Ellen Åström"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ebba Stålberg"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Vadstena",
+            "startDate": "unknown",
+            "endDate": "unknown"
+        },
+        "employment": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1916",
+                "endDate": "1919",
+                "roleName": "Jeweler",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB John Petterssons eftr",
+                    "location": "Stockholm"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1919",
+                "endDate": "1922",
+                "roleName": "Jeweler",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "H Stålberg",
+                    "location": "Mora"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1922",
+                "endDate": "1930",
+                "roleName": "Master Jeweler",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Sven Alban Danielson",
+                    "location": "Malung"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1930",
+                "roleName": "Master Jeweler",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "E Linderoth's",
+                    "location": "Motala"
+                }
+            }
+        ],
+        "memberships": [
+            {
+                "@type": "Organization",
+                "name": "Motala textile factory and trade association",
+                "roleName": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Motala building committee",
+                "roleName": "Member"
+            }
+        ],
+        "affiliations": [
+            {
+                "@type": "Organization",
+                "name": "Ögl county bank",
+                "roleName": "Deputy Member",
+                "location": "Motala"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Jeweler",
+                "workplace": "AB John Petterssons eftr",
+                "industry": "Jewelry",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Jeweler",
+                "workplace": "H Stålberg",
+                "industry": "Jewelry",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Master Jeweler",
+                "workplace": "Own business in Malung",
+                "industry": "Jewelry",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Master Jeweler",
+                "workplace": "E Linderoth's",
+                "industry": "Jewelry",
+                "start_date": "1930"
+            }
+        ]
+    }
+}

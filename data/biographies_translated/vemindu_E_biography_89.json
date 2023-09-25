@@ -1,0 +1,107 @@
+{
+    "original": "EKLÖF, Bertil Karl Emanuel, Civilingenjör, Alfta, f Sthlm 21/12 12 av skräddarm K A E o Elin Dahlin, gm Marianne Sundström. Studex Sthlm 31, KTH (V o V) 31—35. Anst konstr.avd v Sthlms stads gatukont 35, v Väg- 0 Vattenbyggn.styr :s brobyrå 35, nu arb.ch h AB Ska Cementgjuteriet, Alfta kraftvks-bygge. Led Sv Tekn.frn. Resor: Tyskl 35, Finl 36. Hobbies: Segling, jakt.",
+    "translated": "EKLÖF, Bertil Karl Emanuel, Civil Engineer, Alfta, b. Stockholm 21/12 12, son of tailor K A E and Elin Dahlin, married to Marianne Sundström. Completed secondary education in Stockholm in 1931, studied at the Royal Institute of Technology (V and V) from 1931 to 1935. Employed in the construction department of Stockholm City Roads Office in 1935, then at the Road and Water Construction Authority's Bridge Department in 1935, currently working at AB Ska Cement Foundry, Alfta for the power plant construction. Member of the Swedish Technical Association. Travels: Germany in 1935, Finland in 1936. Hobbies: Sailing, hunting.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Bertil Karl Emanuel Eklöf",
+        "jobTitle": "Civil Engineer",
+        "birthPlace": "Alfta",
+        "birthDate": "1912-12-21",
+        "father": {
+            "@type": "Person",
+            "name": "K A E"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Elin Dahlin"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Marianne Sundström"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "secondary education",
+            "educationalLevel": "completed",
+            "provider": {
+                "@type": "School",
+                "name": "Stockholm"
+            },
+            "endDate": "1931"
+        },
+        "alumniOf": [
+            {
+                "@type": "CollegeOrUniversity",
+                "name": "Royal Institute of Technology",
+                "attendanceStartDate": "1931",
+                "attendanceEndDate": "1935"
+            }
+        ],
+        "employment": [
+            {
+                "@type": "Organization",
+                "name": "Stockholm City Roads Office",
+                "department": "Construction",
+                "startDate": "1935"
+            },
+            {
+                "@type": "Organization",
+                "name": "Road and Water Construction Authority",
+                "department": "Bridge Department",
+                "startDate": "1935"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Ska Cement Foundry",
+                "department": "Power plant construction",
+                "startDate": "current"
+            }
+        ],
+        "membership": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Technical Association",
+                "memberStartDate": "current"
+            }
+        ],
+        "travel": [
+            {
+                "@type": "Trip",
+                "name": "Germany",
+                "startDate": "1935"
+            },
+            {
+                "@type": "Trip",
+                "name": "Finland",
+                "startDate": "1936"
+            }
+        ],
+        "hobbies": [
+            "Sailing",
+            "Hunting"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Stockholm City Roads Office",
+                "industry": "Construction",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Road and Water Construction Authority - Bridge Department",
+                "industry": "Construction",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "AB Ska Cement Foundry",
+                "industry": "Power plant construction",
+                "start_date": "Alfta"
+            }
+        ]
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "original": "EDGREN, Patrik Gerhard Åke, Civilingenjör, Lidingö, f Karlskoga s:n, Örebro l, 16/4 84 av kamrer Ax E o Hanna Randol, gm Kerstin Andersson. Studex 03, civingex 06. Avd.chef v AB Gadelius &amp; Co i Sthlm (grund 96). Tillh stdsflm, v. ordf i fattigv.styr, led av barnavårdsnmd, nykterhetsnmd, kyrkoflm o kyrkoråd, kyrkovärd, v. ordf Lidingö mod val-mansfru.",
+    "translated": "EDGREN, Patrik Gerhard Åke, Civil engineer, Lidingö, born in Karlskoga parish, Örebro county, on April 16, 1884, son of accountant Ax E and Hanna Randol, married to Kerstin Andersson. Received a diploma in 1903, earned a civil engineering degree in 1906. Department manager at AB Gadelius & Co in Stockholm (established in 1896). Belonged to Stockholm City Council, vice chairman of the poor relief board, member of the child welfare committee, temperance committee, church council, church ward, vice chairman of the Lidingö Mother's Association.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Patrik Gerhard Åke Edgren",
+        "jobTitle": "Department manager",
+        "birthDate": "1884-04-16",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Karlskoga",
+            "address": {
+                "@type": "PostalAddress",
+                "addressRegion": "Örebro",
+                "addressCountry": "Sweden"
+            }
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Ax E Edgren",
+                "jobTitle": "Accountant"
+            },
+            {
+                "@type": "Person",
+                "name": "Hanna Randol"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Kerstin Andersson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "Studex",
+                "dateAwarded": "1903"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "Civil engineering degree",
+                "dateAwarded": "1906"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Stockholm City Council"
+            },
+            {
+                "@type": "Organization",
+                "name": "poor relief board",
+                "position": "vice chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "child welfare committee"
+            },
+            {
+                "@type": "Organization",
+                "name": "temperance committee"
+            },
+            {
+                "@type": "Organization",
+                "name": "church council"
+            },
+            {
+                "@type": "Organization",
+                "name": "church ward"
+            },
+            {
+                "@type": "Organization",
+                "name": "Lidingö Mother's Association",
+                "position": "vice chairman"
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "AB Gadelius &amp; Co",
+            "foundingDate": "1896"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Lidingö",
+            "addressCountry": "Sweden"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil engineer",
+                "workplace": "AB Gadelius & Co",
+                "industry": "Engineering",
+                "start_date": "1906"
+            },
+            {
+                "occupational_title": "Department manager",
+                "workplace": "AB Gadelius & Co",
+                "industry": "Engineering",
+                "start_date": "1896"
+            }
+        ]
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "original": "ERICSSON, Carl August, Direktör, Eskilstuna, f Karlstad 12/7 92 av förrn J E E o Sara Pettersson, gm Signe Andersson. Hdlsinst i Gbg. Aff.prakt. Start tills m brod Henning E fma Bröderna Ericssons Maskinaffär 17, ombild denna t AB 23. ,",
+    "translated": "ERICSSON, Carl August, Director, Eskilstuna, born in Karlstad on July 12, 1892, son of former J.E.E. and Sara Pettersson, married to Signe Andersson. Merchant trainee in Gothenburg. Trade practitioner. Started together with brother Henning E. as a partner in Bröderna Ericssons Maskinaffär in 1917, which was later transformed into a limited company in 1923.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl August Ericsson",
+        "givenName": "Carl August",
+        "familyName": "Ericsson",
+        "birthDate": "1892-07-12",
+        "birthPlace": "Karlstad",
+        "description": "Director",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "J.E.E.",
+                "givenName": "J.E.E.",
+                "familyName": "",
+                "description": "Former"
+            },
+            {
+                "@type": "Person",
+                "name": "Sara Pettersson",
+                "givenName": "Sara",
+                "familyName": "Pettersson",
+                "description": "Mother"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Signe Andersson",
+            "givenName": "Signe",
+            "familyName": "Andersson"
+        },
+        "occupation": [
+            "Merchant trainee",
+            "Trade practitioner",
+            "Director"
+        ],
+        "workLocation": "Eskilstuna",
+        "affiliation": [
+            {
+                "@type": "Organization",
+                "name": "Bröderna Ericssons Maskinaffär",
+                "foundingDate": "1917",
+                "dissolutionDate": "1923",
+                "location": "Gothenburg",
+                "description": "Limited company"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant trainee",
+                "workplace": "Gothenburg",
+                "industry": "Trade",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Trade practitioner",
+                "workplace": null,
+                "industry": null,
+                "start_date": null
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Eskilstuna",
+                "industry": null,
+                "start_date": null
+            },
+            {
+                "occupational_title": "Partner",
+                "workplace": "Bröderna Ericssons Maskinaffär",
+                "industry": null,
+                "start_date": 1917
+            },
+            {
+                "occupational_title": "Partner",
+                "workplace": "AB Ericsson",
+                "industry": null,
+                "start_date": 1923
+            }
+        ]
+    }
+}

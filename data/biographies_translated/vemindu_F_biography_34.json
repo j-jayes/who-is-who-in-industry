@@ -1,0 +1,92 @@
+{
+    "original": "FELDBAUM, Ivar Nahum, Köpman, Malmö, f Polen 27/3 01 av Aron o Frida F, gm Olga Raigrotzky. Anst i fad aff Lkrona 18—24, eg fma i Hbg 24—28, i Ystad 28—30, inneh en grosaff i linnevaror i Malmö sed. 30. Aff- o studieres t Tyskl, Belg. Holl o Frankr 37.",
+    "translated": "FELDBAUM, Ivar Nahum, Merchant, Malmö, b. Poland 27/3 01, son of Aron and Frida F, m. Olga Raigrotzky. Employed by Lkrona 18-24, self-employed in Hbg 24-28, in Ystad 28-30, currently holds a wholesale business in linen goods in Malmö since 1930. Traveled and studied in Germany, Belgium, Netherlands, and France in 1937.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Ivar Nahum Feldbaum",
+        "birthDate": "1901-03-27",
+        "birthPlace": "Poland",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Aron Feldbaum"
+            },
+            {
+                "@type": "Person",
+                "name": "Frida Feldbaum"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Olga Raigrotzky"
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Lkrona",
+            "startDate": "1918",
+            "endDate": "1924"
+        },
+        "hasOccupation": {
+            "@type": "Merchant"
+        },
+        "hasOwnedBusiness": {
+            "@type": "Organization",
+            "name": "Wholesale Business in Linen Goods"
+        },
+        "currentLocation": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Malmö"
+            }
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Germany"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Belgium"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Netherlands"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "France"
+            }
+        ],
+        "travelDate": "1937"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Employed by Lkrona",
+                "workplace": "Lkrona",
+                "industry": "Unknown",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Self-employed",
+                "workplace": "Hbg",
+                "industry": "Unknown",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Self-employed",
+                "workplace": "Ystad",
+                "industry": "Unknown",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Malmö",
+                "industry": "Linen goods",
+                "start_date": "1930"
+            }
+        ]
+    }
+}

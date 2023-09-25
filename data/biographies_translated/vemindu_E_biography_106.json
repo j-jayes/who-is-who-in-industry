@@ -1,0 +1,151 @@
+{
+    "original": "EKMAN, Sven Axel, Civilingenjör, Stockholm, f Hamburg 13/6 06 av köpm A E o Ingegerd Bäckdahl, gm Gunvor Jonson. Studex Södertälje 24, KTH (maskinbyggn o mek tekn) 26—30. Anst v Packard Motor Car Co 1 Detroit o New York 25—26, AB Dahls Patentbyrå i Sthlm 31—34, H Albihns Patentbyrå AB i Gbg 34—43, nu h AB Atlas Diesel i Sickla. Resor: USA 25—26. Led av Sv Tekn.frn, Sv Ind:s Patenting:s Frn o Frn f Industriellt Rättsskydd. Hobby: Segling.",
+    "translated": "EKMAN, Sven Axel, Civil engineer, Stockholm, born in Hamburg on June 13, 1906, to merchant A E and Ingegerd Bäckdahl. Married Gunvor Jonson. Graduated from Södertälje School in 1924, and from the Royal Institute of Technology (Mechanical Engineering) in 1926-1930. Employed at Packard Motor Car Co in Detroit and New York from 1925-1926, AB Dahls Patentbyrå in Stockholm from 1931-1934, H Albihns Patentbyrå AB in Gothenburg from 1934-1943, currently employed at AB Atlas Diesel in Sickla. Traveled to the USA from 1925-1926. Member of the Swedish Association of Technicians, Swedish Industrial Patent Association, and the Association for Industrial Intellectual Property Rights. Hobby: Sailing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Sven Axel Ekman",
+        "jobTitle": "Civil Engineer",
+        "birthPlace": "Hamburg",
+        "birthDate": "1906-06-13",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "A E Ekman"
+            },
+            {
+                "@type": "Person",
+                "name": "Ingegerd Bäckdahl"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Gunvor Jonson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Södertälje School"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Royal Institute of Technology",
+                "startDate": "1926-01-01",
+                "endDate": "1930-12-31",
+                "alumniOf": "Royal Institute of Technology"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "Packard Motor Car Co",
+                "location": [
+                    {
+                        "@type": "Place",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressLocality": "Detroit",
+                            "addressRegion": "Michigan"
+                        }
+                    },
+                    {
+                        "@type": "Place",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressLocality": "New York",
+                            "addressRegion": "New York"
+                        }
+                    }
+                ],
+                "startDate": "1925-01-01",
+                "endDate": "1926-12-31"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Dahls Patentbyrå",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm",
+                        "addressCountry": "Sweden"
+                    }
+                },
+                "startDate": "1931-01-01",
+                "endDate": "1934-12-31"
+            },
+            {
+                "@type": "Organization",
+                "name": "H Albihns Patentbyrå AB",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Gothenburg",
+                        "addressCountry": "Sweden"
+                    }
+                },
+                "startDate": "1934-01-01",
+                "endDate": "1943-12-31"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Atlas Diesel",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Sickla",
+                        "addressCountry": "Sweden"
+                    }
+                },
+                "startDate": "1943-01-01"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Association of Technicians"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Industrial Patent Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Association for Industrial Intellectual Property Rights"
+            }
+        ],
+        "hobbies": [
+            "Sailing"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil engineer",
+                "workplace": "AB Atlas Diesel",
+                "industry": "Engineering",
+                "start_date": "1943"
+            },
+            {
+                "occupational_title": "Patent engineer",
+                "workplace": "H Albihns Patentbyrå AB",
+                "industry": "Legal Services",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Patent engineer",
+                "workplace": "AB Dahls Patentbyrå",
+                "industry": "Legal Services",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Packard Motor Car Co",
+                "industry": "Automotive",
+                "start_date": "1925"
+            }
+        ]
+    }
+}

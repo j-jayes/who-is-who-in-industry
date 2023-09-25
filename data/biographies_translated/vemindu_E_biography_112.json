@@ -1,0 +1,97 @@
+{
+    "original": "EKSTEDT, Janne, Järnhandlare, Lund, f Riseberga, Kristianstads l, 8/2 75 av lantbr O Trulsson o Bothilda Svensson, gm Constance Söderlund. Dir i AB J Ekstedts Järnhdl (grund 06). Stdsflm 27—42, var under fi år led av beredn.utsk o fattigv.styr.",
+    "translated": "EKSTEDT, Janne, Iron Merchant, Lund, born in Riseberga, Kristianstad county, on 8/2 1875, son of farmer Olof Trulsson and Bothilda Svensson, married to Constance Söderlund. Director of AB J Ekstedts Iron Trading Company (established in 1906). Active volunteer in the city council from 1927 to 1942, served for five years on the preparedness committee and the poor relief board.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Janne Ekstedt",
+        "birthDate": "1875-02-08",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Riseberga",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Kristianstad",
+                "addressRegion": "Kristianstads l"
+            }
+        },
+        "description": "Iron Merchant",
+        "nationality": "Swedish",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Olof Trulsson"
+            },
+            {
+                "@type": "Person",
+                "name": "Bothilda Svensson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Constance Söderlund"
+        },
+        "affiliation": {
+            "@type": "Organization",
+            "name": "AB J Ekstedts Järnhdl",
+            "foundingDate": "1906",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Lund"
+            }
+        },
+        "activity": [
+            {
+                "@type": "GovernmentOrganization",
+                "name": "City Council",
+                "memberOf": "Lund",
+                "startDate": "1927-01-01",
+                "endDate": "1942-12-31"
+            },
+            {
+                "@type": "GovernmentOrganization",
+                "name": "Preparedness Committee",
+                "duration": "P5Y"
+            },
+            {
+                "@type": "GovernmentOrganization",
+                "name": "Poor Relief Board",
+                "duration": "P5Y"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Iron Merchant",
+                "workplace": "AB J Ekstedts Iron Trading Company",
+                "industry": "Iron Trading",
+                "start_date": "1906"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "AB J Ekstedts Iron Trading Company",
+                "industry": "Iron Trading",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Volunteer",
+                "workplace": "City Council",
+                "industry": "Government",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Member of the Preparedness Committee",
+                "workplace": "City Council",
+                "industry": "Government",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Member of the Poor Relief Board",
+                "workplace": "City Council",
+                "industry": "Government",
+                "start_date": ""
+            }
+        ]
+    }
+}

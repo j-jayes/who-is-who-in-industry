@@ -1,0 +1,121 @@
+{
+    "original": "EKMAN, Gustaf, Blomsterhandlare, Göteborg, f 6/9 73. Inneh Vasa Blomsterhdl o Blomsterhdln Iris, Gbg. Styr.led o fd ordf Blomsterdekorat riksfrb, init.tag o förste ordf 1 Blomsterförmedlingen, init.tag t fortbildn.-kurs f blomsterdek på stat hantv.inst, init.tag o klassförestånd v yrkessk.binderikurser. Av trycket: »Blomsterbinderiet gm tiderna». »Yr-keskalkylation inom blomsterhdln», »Blomsterbindaren», »Blommor o grönt» (tills m prof Dahl), bresch »Blommor o välgörenhet». RVO, GM f ftj om yrkets förkovran.",
+    "translated": "EKMAN, Gustaf, Florist, Gothenburg, b. 6/9 1873. Owner of Vasa Florist Shop and Iris Florist Shop, Gothenburg. Member of the board and former chairman of the National Association of Flower Decorators. Founder and first chairman of the Flower Exchange. Initiated and attended advanced courses in flower decoration at the State Craft Institute. Initiated and served as class supervisor for vocational binding courses. Published works include: \"Flower Binding Through the Ages,\" \"Calculations in Flower Trade,\" \"The Florist,\" and \"Flowers and Charity\" (with Professor Dahl). Received the Royal Order of Vasa and honored with a gold medal for professional development. Married in [year] to [partner's name].",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Gustaf Ekman",
+        "birthDate": "1873-09-06",
+        "birthPlace": "Gothenburg",
+        "occupation": "Florist",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "National Association of Flower Decorators",
+                "roleName": "Board Member",
+                "endDate": "[date]"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Vasa Florist Shop",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Gothenburg"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Iris Florist Shop",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Gothenburg"
+                }
+            }
+        ],
+        "founderOf": [
+            {
+                "@type": "Organization",
+                "name": "Flower Exchange"
+            }
+        ],
+        "education": [
+            {
+                "@type": "Course",
+                "name": "Advanced Flower Decoration",
+                "provider": {
+                    "@type": "Organization",
+                    "name": "State Craft Institute"
+                },
+                "startDate": "[start date]",
+                "endDate": "[end date]"
+            },
+            {
+                "@type": "Course",
+                "name": "Vocational Binding Courses",
+                "provider": {
+                    "@type": "Organization",
+                    "name": "Unknown"
+                },
+                "startDate": "[start date]",
+                "endDate": "[end date]"
+            }
+        ],
+        "publication": [
+            "Flower Binding Through the Ages",
+            "Calculations in Flower Trade",
+            "The Florist",
+            "Flowers and Charity"
+        ],
+        "award": [
+            {
+                "@type": "Order",
+                "name": "Royal Order of Vasa"
+            },
+            {
+                "@type": "Medal",
+                "name": "Gold Medal for Professional Development"
+            }
+        ],
+        "marriage": {
+            "@type": "Person",
+            "spouse": "[partner's name]",
+            "startDate": "[marriage date]"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Florist",
+                "workplace": "Vasa Blomsterhdl",
+                "industry": "Flower trade",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Florist",
+                "workplace": "Blomsterhdln Iris",
+                "industry": "Flower trade",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Chairman",
+                "workplace": "National Association of Flower Decorators",
+                "industry": "Flower decoration",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Founder and Chairman",
+                "workplace": "Flowerförmedlingen",
+                "industry": "Flower trade",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Class Supervisor",
+                "workplace": "Vocational Binding Courses",
+                "industry": "Crafts",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

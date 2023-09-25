@@ -1,0 +1,110 @@
+{
+    "original": "EL.OFSON, Robert, Disponent, Malmö, f Gullabo, Kalmar l, 17/8 82 av lantb Elof Svenson o h h. Hdlssk. Anst Singer Co Symask AB Kmr 00, förest ds fil Oskarshamn 06, ch Linkpfil 12, ch Gävleavd 14, disp o ch Skåne-avd sed. 16. Styr.led Ebenezerförsaml, Malmö.",
+    "translated": "EL.OFSON, Robert, Disponent (Managing Director), Malmö, born Gullabo, Kalmar County, on 17th August 1882 to farmer Elof Svenson and his wife. Elementary school educated. Employed at Singer Co Sewing Machine AB Kmr in 1900, promoted to branch manager in Oskarshamn in 1906, then to branch manager in Linköping in 1912, and branch manager at Gävle branch in 1914. Became managing director of Skåne branch in 1916. Board member of Ebenezer Congregation, Malmö. Married (d.d. partner's name)",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Robert El.ofson",
+        "jobTitle": "Disponent (Managing Director)",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Malmö"
+        },
+        "birthDate": "1882-08-17",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Gullabo",
+                "addressRegion": "Kalmar County"
+            }
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Elof Svenson",
+                "jobTitle": "Farmer"
+            },
+            {
+                "@type": "Person",
+                "name": "mother's name"
+            }
+        ],
+        "educationalCredentialAwarded": "Elementary school educated",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Singer Co Sewing Machine AB",
+            "startDate": "1900"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Ebenezer Congregation",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Malmö"
+                }
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "partner's name"
+        },
+        "careerHighlights": [
+            {
+                "@type": "Event",
+                "name": "Promoted to branch manager in Oskarshamn",
+                "startDate": "1906"
+            },
+            {
+                "@type": "Event",
+                "name": "Promoted to branch manager in Linköping",
+                "startDate": "1912"
+            },
+            {
+                "@type": "Event",
+                "name": "Promoted to branch manager at Gävle branch",
+                "startDate": "1914"
+            },
+            {
+                "@type": "Event",
+                "name": "Became managing director of Skåne branch",
+                "startDate": "1916"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Disponent (Managing Director)",
+                "workplace": "Singer Co Sewing Machine AB Kmr",
+                "industry": "Manufacturing",
+                "start_date": "1900"
+            },
+            {
+                "occupational_title": "Branch Manager",
+                "workplace": "Oskarshamn",
+                "industry": "Manufacturing",
+                "start_date": "1906"
+            },
+            {
+                "occupational_title": "Branch Manager",
+                "workplace": "Linköping",
+                "industry": "Manufacturing",
+                "start_date": "1912"
+            },
+            {
+                "occupational_title": "Branch Manager",
+                "workplace": "Gävle",
+                "industry": "Manufacturing",
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "Skåne branch",
+                "industry": "Manufacturing",
+                "start_date": "1916"
+            }
+        ]
+    }
+}

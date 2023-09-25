@@ -1,0 +1,140 @@
+{
+    "original": "DAHL, Gustaf (Gösta), Civilingenjör, Stockholm, f Sthlm 5/4 97 av kont.ch A G D o Anna Meurling, gm Elsa Strömberg. Studex Nya elem Sthlm 15, civingex KTH (eltekn) 19. Patent-, offert- o anläggn.ing v AB Ars Sthlm 20—25, patenting v AB Elektrolux Sthlm sed. 25, ch f dess patentavd sed. 40. Av ch f just.-dep tillk sakk i 38 patentutredn sed. 41. Styr.led i Platen-Munters Refrigerating System AB sed. 37, i Centralkassan AB sed. 40, v ordf i Sv Ind:s Patenting :s Frn. Led Sv Tekn.frn o Sv Frn f Industr Rättsskydd. Resor i Europa o USA.",
+    "translated": "DAHL, Gustaf (Gösta), Engineer, Stockholm, b Stockholm 5/4 97, son of accountant A. G. D. and Anna Meurling, married to Elsa Strömberg. Studied at Nya elementarskolan in Stockholm until age 15, graduated as engineer from KTH (electrical engineering) in 1919. Worked in patents, sales, and installations at AB Ars Stockholm from 1920 to 1925, in patents at AB Elektrolux Stockholm since 1925, became head of its patent department in 1940. Appointed as expert in patent investigations by the Ministry of Justice in 1938, continuing in this position from 1941. Board member of Platen-Munters Refrigerating System AB since 1937, of Centralkassan AB since 1940, and vice chairman of the Swedish Industrial Patent Association. Member of the Swedish Technical Association and the Swedish Association for Industrial Legal Protection. Traveled in Europe and the USA.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Gustaf (Gösta) Dahl",
+        "birthDate": "1897-04-05",
+        "birthPlace": "Stockholm",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "A. G. D."
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Meurling"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Elsa Strömberg"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "highSchoolDiploma",
+                "educationalLevel": "elementarySchool",
+                "educationalRole": "student",
+                "startDate": "1909-01-01",
+                "endDate": "1914-12-31",
+                "alumniOf": {
+                    "@type": "Organization",
+                    "name": "Nya elementarskolan"
+                }
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "bachelorDegree",
+                "educationalLevel": "bachelor",
+                "educationalRole": "student",
+                "startDate": "1914-01-01",
+                "endDate": "1919-12-31",
+                "alumniOf": {
+                    "@type": "Organization",
+                    "name": "KTH"
+                },
+                "specialization": "electrical engineering"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Swedish Technical Association"
+        },
+        "work": [
+            {
+                "@type": "EmploymentEvent",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "AB Ars Stockholm"
+                },
+                "startDate": "1920",
+                "endDate": "1925",
+                "jobTitle": "Patent, Sales, and Installation Engineer"
+            },
+            {
+                "@type": "EmploymentEvent",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "AB Elektrolux Stockholm"
+                },
+                "startDate": "1925",
+                "jobTitle": "Patent Engineer",
+                "department": "Patent Department"
+            }
+        ],
+        "governmentalRoles": [
+            {
+                "@type": "GovernmentOrganizationRole",
+                "startDate": "1938",
+                "endDate": "1941",
+                "roleName": "Expert in Patent Investigations",
+                "jurisdiction": {
+                    "@type": "GovernmentOrganization",
+                    "name": "Ministry of Justice"
+                }
+            }
+        ],
+        "knowsAbout": [
+            "patents",
+            "sales",
+            "installations",
+            "electrical engineering"
+        ],
+        "travel": [
+            {
+                "@type": "TravelAction",
+                "toLocation": {
+                    "@type": "AdministrativeArea",
+                    "name": "Europe"
+                }
+            },
+            {
+                "@type": "TravelAction",
+                "toLocation": {
+                    "@type": "AdministrativeArea",
+                    "name": "USA"
+                }
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Patent-, offert- o anläggn.ing",
+                "workplace": "AB Ars",
+                "industry": "Unknown",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Patenting",
+                "workplace": "AB Elektrolux",
+                "industry": "Unknown",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Head of Patent Department",
+                "workplace": "AB Elektrolux",
+                "industry": "Unknown",
+                "start_date": "1940"
+            },
+            {
+                "occupational_title": "Expert in Patent Investigations",
+                "workplace": "Ministry of Justice",
+                "industry": "Unknown",
+                "start_date": "1938"
+            }
+        ]
+    }
+}

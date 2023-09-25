@@ -1,0 +1,231 @@
+{
+    "original": "FREDMAN, Johan Peter, Driftschef, Falkenberg, f Kalv, Älvsb l, 80 av lantbr P Gudmundsson o Mathilda Johansson, gm Gertrud Andersson. Borås tekn gymn. Anst Värnamo mek verkst 06—07, Skogsfors br Reftele 08— 16, AB Falkenbergs gjut &amp; verkst sed. 16. Led folksk.styr 23—39 (ordf sed. 24), hamnstyr 28—37 (ordf sed. 35), stdsflm 32—42, byggnadsnmd 39—42 samt kyrkorådet 40—43. Resor: Tyskl 08 o 24, Engl 09 o 24, Danm 09, Finl 22, 23 o 25, Frankr 24. Hobbies: Nykterhets- o ideellt föreningsarbete.",
+    "translated": "FREDMAN, Johan Peter, Operating Manager, Falkenberg, born in Kalv, Älvsborg län. Son of lantbr (farmer) P. Gudmundsson and Mathilda Johansson. Married to Gertrud Andersson. Attended Borås tekniska gymnasium. Employed at Värnamo mechanical workshop from 1906 to 1907, Skogsfors bridge in Reftele from 1908 to 1916, and AB Falkenbergs gjuteri & verkstäder since 1916. Served as a member of the elementary school board from 1923 to 1939 (chairman since 1924), the port authority from 1928 to 1937 (chairman since 1935), the city council from 1932 to 1942, the building committee from 1939 to 1942, and the church council from 1940 to 1943. Travelled to Germany in 1908 and 1924, England in 1909 and 1924, Denmark in 1909, Finland in 1922, 1923, and 1925, and France in 1924. Hobbies: Temperance and voluntary organization work.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Johan Peter Fredman",
+        "jobTitle": "Operating Manager",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Falkenberg",
+            "addressRegion": "Älvsborg län",
+            "addressCountry": "Sweden"
+        },
+        "birthPlace": "Kalv, Älvsborg län",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "P. Gudmundsson"
+            },
+            {
+                "@type": "Person",
+                "name": "Mathilda Johansson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Gertrud Andersson"
+        },
+        "alumniOf": {
+            "@type": "EducationalOrganization",
+            "name": "Borås tekniska gymnasium"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Värnamo mechanical workshop",
+                "startDate": "1906",
+                "endDate": "1907"
+            },
+            {
+                "@type": "Organization",
+                "name": "Skogsfors bridge in Reftele",
+                "startDate": "1908",
+                "endDate": "1916"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Falkenbergs gjuteri & verkstäder",
+                "startDate": "1916"
+            }
+        ],
+        "membership": [
+            {
+                "@type": "Organization",
+                "name": "elementary school board",
+                "startDate": "1923",
+                "endDate": "1939",
+                "roleName": "Member",
+                "roleAffiliation": {
+                    "@type": "Organization",
+                    "name": "Falkenberg School District"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "elementary school board",
+                "startDate": "1924",
+                "roleName": "Chairman",
+                "roleAffiliation": {
+                    "@type": "Organization",
+                    "name": "Falkenberg School District"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "port authority",
+                "startDate": "1928",
+                "endDate": "1937",
+                "roleName": "Member",
+                "roleAffiliation": {
+                    "@type": "Organization",
+                    "name": "Falkenberg Port Authority"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "port authority",
+                "startDate": "1935",
+                "roleName": "Chairman",
+                "roleAffiliation": {
+                    "@type": "Organization",
+                    "name": "Falkenberg Port Authority"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "city council",
+                "startDate": "1932",
+                "endDate": "1942",
+                "roleName": "Member",
+                "roleAffiliation": {
+                    "@type": "Organization",
+                    "name": "Falkenberg City Council"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "building committee",
+                "startDate": "1939",
+                "endDate": "1942",
+                "roleName": "Member",
+                "roleAffiliation": {
+                    "@type": "Organization",
+                    "name": "Falkenberg Building Committee"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "church council",
+                "startDate": "1940",
+                "endDate": "1943",
+                "roleName": "Member",
+                "roleAffiliation": {
+                    "@type": "Organization",
+                    "name": "Falkenberg Church Council"
+                }
+            }
+        ],
+        "travels": [
+            {
+                "@type": "Place",
+                "name": "Germany",
+                "startDate": "1908"
+            },
+            {
+                "@type": "Place",
+                "name": "Germany",
+                "startDate": "1924"
+            },
+            {
+                "@type": "Place",
+                "name": "England",
+                "startDate": "1909"
+            },
+            {
+                "@type": "Place",
+                "name": "England",
+                "startDate": "1924"
+            },
+            {
+                "@type": "Place",
+                "name": "Denmark",
+                "startDate": "1909"
+            },
+            {
+                "@type": "Place",
+                "name": "Finland",
+                "startDate": "1922"
+            },
+            {
+                "@type": "Place",
+                "name": "Finland",
+                "startDate": "1923"
+            },
+            {
+                "@type": "Place",
+                "name": "Finland",
+                "startDate": "1925"
+            },
+            {
+                "@type": "Place",
+                "name": "France",
+                "startDate": "1924"
+            }
+        ],
+        "hobbies": "Temperance and voluntary organization work"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Operating Manager",
+                "workplace": "AB Falkenbergs gjuteri & verkstäder",
+                "industry": "Manufacturing",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Member, Elementary School Board",
+                "workplace": "N/A",
+                "industry": "Education",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Chairman, Elementary School Board",
+                "workplace": "N/A",
+                "industry": "Education",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Member, Port Authority",
+                "workplace": "N/A",
+                "industry": "Transportation",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Chairman, Port Authority",
+                "workplace": "N/A",
+                "industry": "Transportation",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Member, City Council",
+                "workplace": "N/A",
+                "industry": "Government",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Member, Building Committee",
+                "workplace": "N/A",
+                "industry": "Construction",
+                "start_date": "1939"
+            },
+            {
+                "occupational_title": "Member, Church Council",
+                "workplace": "N/A",
+                "industry": "Religion",
+                "start_date": "1940"
+            }
+        ]
+    }
+}

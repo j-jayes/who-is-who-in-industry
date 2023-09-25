@@ -1,0 +1,81 @@
+{
+    "original": "FREDLUND, Axel Wilhelm, Byggmästare, Uppsala, f Rasbokil, Upps l, 21/1 88, gm Hilda Eriksson. Karlskoga prakt sk, prakt i byggn.branschen. Eg vksmh sed. 15, inneh Byggn.mtrl.aff Acke Upps sed. 21 o Byggn.fma A Fredlund Upps, ag Seglinge gård i Almunge. Komm.flm, omb f VA.",
+    "translated": "FREDLUND, Axel Wilhelm, Builder, Uppsala, born in Rasbokil, Uppsala county on January 21st, 1888, married to Hilda Eriksson. Practical school in Karlskoga, practical experience in construction industry. Established own construction material store in Uppsala in 1915, also owner of A Fredlund Construction Company in Uppsala and Seglinge estate in Almunge. Involved in municipal planning and representative for water and sanitation issues.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Axel Wilhelm Fredlund",
+        "birthDate": "1888-01-21",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Rasbokil",
+                "addressRegion": "Uppsala"
+            }
+        },
+        "jobTitle": "Builder",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Uppsala"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Hilda Eriksson"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "educationalLevel": "Practical school",
+            "provider": {
+                "@type": "Organization",
+                "name": "Karlskoga"
+            }
+        },
+        "memberOf": {
+            "@type": "Organization",
+            "name": "A Fredlund Construction Company",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Uppsala"
+            }
+        },
+        "owns": {
+            "@type": "Landform",
+            "name": "Seglinge estate",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Almunge"
+            }
+        },
+        "actsAs": {
+            "@type": "GovernmentOrganization",
+            "name": "Municipal Planning"
+        },
+        "representativeFor": {
+            "@type": "GovernmentOrganization",
+            "name": "Water and Sanitation"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Builder",
+                "workplace": "Uppsala",
+                "industry": "Construction",
+                "start_date": "1915"
+            },
+            {
+                "occupational_title": "Owner (Construction Material Store)",
+                "workplace": "Acke Upps",
+                "industry": "Construction",
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Owner (Construction Company)",
+                "workplace": "A Fredlund Upps",
+                "industry": "Construction",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

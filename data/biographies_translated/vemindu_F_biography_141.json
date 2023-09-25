@@ -1,0 +1,95 @@
+{
+    "original": "FREDRIKSON, Torsten Fredrik Wilhelm, Disponent, Malmö, f Sthlm 11/4 01 av dir E F o Anna Wennström, gm Lil Swart. Upps hal, Påhlm hdlsinst. Anst Sv hdlsbkn 20— 21, Henrik Gahns AB sed. 25. Styr.led Malmö Reklamfrn sed. 43. Resor: USA 22—25.",
+    "translated": "FREDRIKSON, Torsten Fredrik Wilhelm, Executive, Malmö, b. Stockholm 11/4 01, son of director E F and Anna Wennström, married to Lil Swart. Graduated from Uppsala Business School, Påhlm trade institute. Employed at Swedish Trade Bank 20-21, then at Henrik Gahns AB from 25. Board member of Malmö Advertising Agency since 43. Travel: USA 22-25.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Torsten Fredrik Wilhelm Fredrikson",
+        "jobTitle": "Executive",
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Malmö Advertising Agency",
+            "startDate": "1943"
+        },
+        "birthDate": "1901-04-11",
+        "birthPlace": "Stockholm",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "E F Fredrikson"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Wennström"
+            }
+        ],
+        "spouse": "Lil Swart",
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Graduate",
+                "alumniOf": {
+                    "@type": "Organization",
+                    "name": "Uppsala Business School"
+                },
+                "startDate": "1920",
+                "endDate": "1921"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Graduate",
+                "alumniOf": {
+                    "@type": "Organization",
+                    "name": "Påhlm Trade Institute"
+                }
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Trade Bank",
+                "startDate": "1920",
+                "endDate": "1921"
+            },
+            {
+                "@type": "Organization",
+                "name": "Henrik Gahns AB",
+                "startDate": "1925"
+            }
+        ],
+        "travelTo": {
+            "@type": "Country",
+            "name": "USA",
+            "startDate": "1922",
+            "endDate": "1925"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Disponent",
+                "workplace": "Malmö",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Swedish Trade Bank",
+                "industry": "Banking",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Henrik Gahns AB",
+                "industry": "Unknown",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Malmö Advertising Agency",
+                "industry": "Advertising",
+                "start_date": "1943"
+            }
+        ]
+    }
+}

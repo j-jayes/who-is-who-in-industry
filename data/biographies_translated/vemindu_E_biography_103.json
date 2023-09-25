@@ -1,0 +1,104 @@
+{
+    "original": "EKMAN, Otto, Direktör, Göteborg, f Sthlm 16/7 90 av ing N E o Amina Wettergren, gm Elsa Bulow. Ggbs real, Gbgs hdlsinst. Anst h stadsmäkl W Kullgren Gbg 07, deläg ban-kirfma Willgodt Kullgren sed. 38. Styr.led i R Söderberg &amp; Co AB, styr.suppl Vetlanda ullspinn AB. Odd Fellow.",
+    "translated": "EKMAN, Otto, Director, Gothenburg, born in Stockholm on July 16, 1890, son of engineer N. E. Ekman and Amina Wettergren, married to Elsa Bulow. Studied real estate and trade at the Gothenburg School of Business. Employed by city broker W. Kullgren in Gothenburg in 1907, and became a co-owner of the banking and investment firm Willgodt Kullgren in 1938. Board member of R. Söderberg & Co AB, and board supervisor of Vetlanda Wool Spinning AB. Member of the Odd Fellow society.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Otto Ekman",
+        "birthDate": "1890-07-16",
+        "birthPlace": "Stockholm",
+        "deathDate": "unknown",
+        "nationality": "Swedish",
+        "description": "Director in Gothenburg",
+        "parents": [
+            {
+                "name": "N. E. Ekman",
+                "@type": "Person",
+                "jobTitle": "Engineer"
+            },
+            {
+                "name": "Amina Wettergren",
+                "@type": "Person"
+            }
+        ],
+        "spouse": {
+            "name": "Elsa Bulow",
+            "@type": "Person"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Gothenburg School of Business",
+            "description": "Studied real estate and trade"
+        },
+        "employment": [
+            {
+                "@type": "Organization",
+                "name": "W. Kullgren",
+                "jobTitle": "City Broker",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Gothenburg"
+                },
+                "startDate": "1907"
+            },
+            {
+                "@type": "Organization",
+                "name": "Willgodt Kullgren",
+                "jobTitle": "Co-owner (since 1938)",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Gothenburg"
+                },
+                "startDate": "1938"
+            },
+            {
+                "@type": "Organization",
+                "name": "R. Söderberg & Co AB",
+                "jobTitle": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Vetlanda Wool Spinning AB",
+                "jobTitle": "Board Supervisor"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Odd Fellow"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Gothenburg",
+                "industry": "N/A",
+                "start_date": "N/A"
+            },
+            {
+                "occupational_title": "Employed by city broker",
+                "workplace": "W. Kullgren, Gothenburg",
+                "industry": "Finance",
+                "start_date": "1907"
+            },
+            {
+                "occupational_title": "Co-owner",
+                "workplace": "Willgodt Kullgren",
+                "industry": "Banking and investment",
+                "start_date": "1938"
+            },
+            {
+                "occupational_title": "Board member",
+                "workplace": "R. Söderberg & Co AB",
+                "industry": "N/A",
+                "start_date": "N/A"
+            },
+            {
+                "occupational_title": "Board supervisor",
+                "workplace": "Vetlanda Wool Spinning AB",
+                "industry": "Textiles",
+                "start_date": "N/A"
+            }
+        ]
+    }
+}

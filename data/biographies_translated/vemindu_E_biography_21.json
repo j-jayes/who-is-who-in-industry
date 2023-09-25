@@ -1,0 +1,136 @@
+{
+    "original": "EDQVIST, Knut, Ingenjör, Stockholm, f Nrkp 15/8 02 av överlär C J E o Fanny Hällström. Ex Nrkp Tekn Elem.sk (mek) 20, specialstud Techn Hochsch Karlsruhe 21—23. Anst Heinr Koppers, Essen, 21, Intern Har-vester Co 23, ASEA 24—28, SKF Hofors Bruk 28—30, Regulator AB Armas Sthlm sed. 30. Av trycket: Div uppsatser i tekn tidskr. Resor: Tyskl, Engl, Österrike, Schweiz.",
+    "translated": "EDQVIST, Knut, Engineer, Stockholm, b. Nrkp 15/8 02, son of headteacher C J E and Fanny Hällström. Former student at Nrkp Tekn Elem.sk (mechanical) 20, specialized studies at Techn Hochsch Karlsruhe 21-23. Employed at Heinr Koppers, Essen, 21, Intern Har-vester Co 23, ASEA 24-28, SKF Hofors Bruk 28-30, and Regulator AB Armas Sthlm since 30. Published various technical articles. Traveled to Germany, England, Austria, and Switzerland. Note: '\\d\\d m. partners name' indicates marriage in the year 19xx.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Knut Edqvist",
+        "birthDate": "1902-08-15",
+        "birthPlace": "Norrköping",
+        "nationality": "Swedish",
+        "description": "Engineer",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "C J E Edqvist",
+                "jobTitle": "Headteacher"
+            },
+            {
+                "@type": "Person",
+                "name": "Fanny Hällström"
+            }
+        ],
+        "educationalBackground": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Nrkp Tekn Elem.sk",
+                "location": "Norrköping",
+                "studyType": "Mechanical Engineering",
+                "attendanceStartDate": "1920"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Techn Hochsch Karlsruhe",
+                "location": "Karlsruhe",
+                "attendanceStartDate": "1921",
+                "attendanceEndDate": "1923"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "Heinr Koppers",
+                "location": "Essen",
+                "jobTitle": "Engineer",
+                "startDate": "1921"
+            },
+            {
+                "@type": "Organization",
+                "name": "Intern Harvester Co",
+                "location": "Unknown",
+                "jobTitle": "Engineer",
+                "startDate": "1923"
+            },
+            {
+                "@type": "Organization",
+                "name": "ASEA",
+                "location": "Unknown",
+                "jobTitle": "Engineer",
+                "startDate": "1924",
+                "endDate": "1928"
+            },
+            {
+                "@type": "Organization",
+                "name": "SKF Hofors Bruk",
+                "location": "Hofors",
+                "jobTitle": "Engineer",
+                "startDate": "1928",
+                "endDate": "1930"
+            },
+            {
+                "@type": "Organization",
+                "name": "Regulator AB Armas",
+                "location": "Stockholm",
+                "jobTitle": "Engineer",
+                "startDate": "1930"
+            }
+        ],
+        "publications": "Various technical articles",
+        "knowsLanguage": [
+            "German",
+            "English"
+        ],
+        "hasVisited": [
+            "Germany",
+            "England",
+            "Austria",
+            "Switzerland"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Former student",
+                "workplace": "Nrkp Tekn Elem.sk",
+                "industry": "Technical education",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Specialized studies",
+                "workplace": "Techn Hochsch Karlsruhe",
+                "industry": "Higher education",
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Heinr Koppers",
+                "industry": "Unknown",
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Intern",
+                "workplace": "Intern Harvester Co",
+                "industry": "Unknown",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "ASEA",
+                "industry": "Unknown",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "SKF Hofors Bruk",
+                "industry": "Unknown",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Regulator AB Armas Sthlm",
+                "industry": "Unknown",
+                "start_date": "1930"
+            }
+        ]
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "original": "ELVEFORS, Nils Alvar, Kamrer, Hälsingborg, f Örebro 18/9 01. Ex. Örebro hdlsgymn 20, studex 22, DHS 24. Anst Örebro sparbk 20—21, AB Ind.byrån (avd ekon org) 24—27, kamr o kont.ch AB Skånebrygg, Hbg, sed. 27.",
+    "translated": "ELVEFORS, Nils Alvar, Accountant, Hälsingborg, born Örebro 18/9 01. Graduate of Örebro commercial high school in 1920, obtained a school leaving certificate in 1922, and completed the DHS (Diploma of Higher Education in Commerce) in 1924. Employed at Örebro savings bank from 1920 to 1921, AB Industrial Bureau (department of economic organization) from 1924 to 1927, as an accountant and office manager at AB Skånebrygg in Hälsingborg since 1927.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Nils Alvar Elvefors",
+        "jobTitle": "Accountant",
+        "birthDate": "1901-09-18",
+        "birthPlace": "Örebro",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Hälsingborg"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Graduate",
+                "educationalLevel": "HighSchool",
+                "educationalCredentialAwarded": "Örebro commercial high school"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "SchoolLeaving",
+                "educationalCredentialAwarded": "School Leaving Certificate"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "HigherEducation",
+                "educationalCredentialAwarded": "DHS (Diploma of Higher Education in Commerce)"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "Örebro savings bank",
+                "startDate": "1920",
+                "endDate": "1921",
+                "jobTitle": "Employee"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Industrial Bureau",
+                "department": "Department of Economic Organization",
+                "startDate": "1924",
+                "endDate": "1927",
+                "jobTitle": "Accountant and Office Manager"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Skånebrygg",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Hälsingborg"
+                },
+                "startDate": "1927",
+                "jobTitle": "Accountant and Office Manager"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Kamrer",
+                "workplace": "Örebro sparbk",
+                "industry": "Savings bank",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Accountant",
+                "workplace": "AB Ind.byrån (avd ekon org)",
+                "industry": "Industrial Bureau",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Accountant and Office Manager",
+                "workplace": "AB Skånebrygg",
+                "industry": "Beverage company",
+                "start_date": "1927"
+            }
+        ]
+    }
+}

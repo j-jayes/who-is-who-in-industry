@@ -1,0 +1,80 @@
+{
+    "original": "ERLANDSSON, Per Rolf, Civilingenjör, Malmö, f Skövde 2/9 10 av överste P A E o Victoria Billvall, gm Anna Knutsdotter Blomquist. Studex Umeå 29, KTH (maskinbyggn o mek tekn) 30—35. Anst v Rörlednings AB Celsius Malmö sed. 35. Led Sv Tekn.frn. Resor: Danm, Tyskl, Österr, Schweiz.",
+    "translated": "ERLANDSSON, Per Rolf, Civil Engineer, Malmö, b. Skövde 2/9 10, son of Colonel P A E and Victoria Billvall, m. Anna Knutsdotter Blomquist. Graduated from Umeå 29, KTH (Mechanical Engineering) 30-35. Employed at Rörlednings AB Celsius in Malmö since 35. Member of Swedish Technical Association. Travels: Denmark, Germany, Austria, Switzerland..",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Per Rolf Erlandsson",
+        "jobTitle": "Civil Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Malmö"
+        },
+        "birthDate": "1910-09-02",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Colonel P A E"
+            },
+            {
+                "@type": "Person",
+                "name": "Victoria Billvall"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Anna Knutsdotter Blomquist"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "educationalLevel": "Studex",
+                "alumniOf": {
+                    "@type": "CollegeOrUniversity",
+                    "name": "Umeå",
+                    "startDate": "1929"
+                }
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "educationalLevel": "KTH",
+                "alumniOf": {
+                    "@type": "CollegeOrUniversity",
+                    "name": "KTH",
+                    "startDate": "1930",
+                    "endDate": "1935",
+                    "description": "Mechanical Engineering"
+                }
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Rörlednings AB Celsius",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Malmö"
+            },
+            "startDate": "1935"
+        },
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Swedish Technical Association"
+        },
+        "travels": [
+            "Denmark",
+            "Germany",
+            "Austria",
+            "Switzerland"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Rörlednings AB Celsius",
+                "industry": "Mechanical Engineering",
+                "start_date": "1935"
+            }
+        ]
+    }
+}

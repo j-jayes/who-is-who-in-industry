@@ -1,0 +1,88 @@
+{
+    "original": "DEGERMAN, Carl Erik, Direktör, Visby, f Sundsv 13/5 03 av grhdl Wilhelm D o Calla Nilsson, gm Edit Kristina Warpe. Jur kand, tingstjg, adv.verks.h, vkst dir i AB Carl De-german 33—43, kassadir h Speceristernas Varuinköp i Sthlm sed. 43 samt sakk i Ica-konc 1 jurid frågor.",
+    "translated": "DEGERMAN, Carl Erik, Director, Visby, born in Sundsvall on May 13th, 1903, son of the merchant Wilhelm Degerman and Calla Nilsson, married to Edit Kristina Warpe. Holder of a law degree, served as a court clerk, lawyer, and director of development in the company AB Carl Degerman from 1933 to 1943. Also served as a cashier at Speceristernas Varuinköp in Stockholm since 1943, as well as an expert in legal matters for the Ica Group.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Carl Erik Degerman",
+        "birthDate": "1903-05-13",
+        "birthPlace": "Sundsvall",
+        "description": "Director",
+        "nationality": "Swedish",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Wilhelm Degerman",
+                "jobTitle": "Merchant"
+            },
+            {
+                "@type": "Person",
+                "name": "Calla Nilsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Edit Kristina Warpe"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Juris Doctor",
+            "description": "Law degree"
+        },
+        "employment": [
+            {
+                "@type": "GovernmentOrganization",
+                "name": "AB Carl Degerman",
+                "jobTitle": "Director of Development",
+                "startDate": "1933",
+                "endDate": "1943"
+            },
+            {
+                "@type": "LocalBusiness",
+                "name": "Speceristernas Varuinköp",
+                "jobTitle": "Cashier",
+                "description": "Stockholm",
+                "startDate": "1943"
+            },
+            {
+                "@type": "Organization",
+                "name": "Ica Group",
+                "description": "Expert in Legal Matters"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Court Clerk",
+                "workplace": "Unknown",
+                "industry": "Legal",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Lawyer",
+                "workplace": "Unknown",
+                "industry": "Legal",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Director of Development",
+                "workplace": "AB Carl Degerman",
+                "industry": "Unknown",
+                "start_date": "1933"
+            },
+            {
+                "occupational_title": "Cashier",
+                "workplace": "Speceristernas Varuinköp",
+                "industry": "Retail",
+                "start_date": "1943"
+            },
+            {
+                "occupational_title": "Legal Expert",
+                "workplace": "Ica Group",
+                "industry": "Retail",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

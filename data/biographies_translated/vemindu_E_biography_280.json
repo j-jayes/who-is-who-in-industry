@@ -1,0 +1,248 @@
+{
+    "original": "ERNSTEER, Ernst August, Civilingenjör, Nykvarn, f Boden 5/11 92 av tågmäst A Johansson o Emma Andersdtr, gm Anna Brita Lewerentz. Studex Luleå 12, StHS 12—13, KTH 14—15 o 17—20, Tekn Högsk Berlin 21—22, dipl fr HHS.-s spec.kurs 23. Anst v SJ:s verkst i Notviken o Östersund, v Atlas-Diesel, Luleå Träsliperi, Domsjö Sulfitfabr, Köpman-holmens Sulfitfabr o Sörstafors Pappersbruk 23—27, v Sellnäs Träsliperi 28, Orsa Sulfatkommitté 29, reklam- o inform.chef v AB Karlstads Mek Verkst 29—37, v Celluloza Nadnie-menska SA Polen 37—39, fabr.ch v Nykvarns Br AB 39, pl.chef 42 o sed. 43 disp där. Resor : Norge, Danm, Finl, Estl, Lettl, Litauen, Tyskl, Österr, Ryssl, Polen 21—38. Medarb i Sv Trävarutidn o utl facktidskr. Hobbies: Fiske, frimärken.",
+    "translated": "ERNSTEER, Ernst August, Civil Engineer, Nykvarn, born in Boden on November 5, 1892, son of train conductor A Johansson and Emma Andersdtr, married to Anna Brita Lewerentz. Graduate of Luleå Technical School in 1912, Stockholm School of Technology in 1912-1913, Royal Institute of Technology in 1914-1915 and 1917-1920, Technical University of Berlin in 1921-1922, and completed a special course at the Stockholm School of Economics in 1923. Employed at the Swedish Railways' workshops in Notviken and Östersund, Atlas-Diesel, Luleå Wood Pulp Mill, Domsjö Sulfite Factory, Köpmanholmen Sulfite Factory, and Sörstafors Paper Mill in 1923-1927. Worked at Sellnäs Wood Pulp Mill in 1928, Orsa Sulfate Committee in 1929, advertising and information manager at AB Karlstad Mechanical Works in 1929-1937, Cellulose Nadniemenska SA in Poland in 1937-1939, factory manager at Nykvarns Paper Company in 1939, plant manager in 1942 and has been the managing director since 1943. Travelled to Norway, Denmark, Finland, Estonia, Latvia, Lithuania, Germany, Austria, Russia, and Poland in 1921-1938. Contributed to the Swedish Timber Magazine and various international trade journals. Hobbies: Fishing, stamp collecting.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Ernst August Ernsteer",
+        "jobTitle": "Civil Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Nykvarn"
+        },
+        "birthDate": "1892-11-05",
+        "birthPlace": "Boden",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "A Johansson",
+                "jobTitle": "Train Conductor"
+            },
+            {
+                "@type": "Person",
+                "name": "Emma Andersdtr"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Anna Brita Lewerentz"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Graduate",
+                "alumniOf": {
+                    "@type": "EducationalOrganization",
+                    "name": "Luleå Technical School",
+                    "startDate": "1912",
+                    "endDate": "1912"
+                }
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Graduate",
+                "alumniOf": {
+                    "@type": "EducationalOrganization",
+                    "name": "Stockholm School of Technology",
+                    "startDate": "1912",
+                    "endDate": "1913"
+                }
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Graduate",
+                "alumniOf": {
+                    "@type": "EducationalOrganization",
+                    "name": "Royal Institute of Technology",
+                    "startDate": "1914",
+                    "endDate": "1920"
+                }
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Graduate",
+                "alumniOf": {
+                    "@type": "EducationalOrganization",
+                    "name": "Technical University of Berlin",
+                    "startDate": "1921",
+                    "endDate": "1922"
+                }
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Diploma",
+                "alumniOf": {
+                    "@type": "EducationalOrganization",
+                    "name": "Stockholm School of Economics",
+                    "startDate": "1923"
+                }
+            }
+        ],
+        "employment": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Railways",
+                "department": "Workshops",
+                "location": [
+                    {
+                        "@type": "Place",
+                        "name": "Notviken"
+                    },
+                    {
+                        "@type": "Place",
+                        "name": "Östersund"
+                    }
+                ],
+                "startDate": "1923",
+                "endDate": "1927"
+            },
+            {
+                "@type": "Organization",
+                "name": "Atlas-Diesel"
+            },
+            {
+                "@type": "Organization",
+                "name": "Luleå Wood Pulp Mill"
+            },
+            {
+                "@type": "Organization",
+                "name": "Domsjö Sulfite Factory"
+            },
+            {
+                "@type": "Organization",
+                "name": "Köpmanholmen Sulfite Factory"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sörstafors Paper Mill"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sellnäs Wood Pulp Mill",
+                "startDate": "1928"
+            },
+            {
+                "@type": "Organization",
+                "name": "Orsa Sulfate Committee",
+                "startDate": "1929"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Karlstad Mechanical Works",
+                "department": "Advertising and Information",
+                "startDate": "1929",
+                "endDate": "1937"
+            },
+            {
+                "@type": "Organization",
+                "name": "Cellulose Nadniemenska SA",
+                "location": "Poland",
+                "startDate": "1937",
+                "endDate": "1939"
+            },
+            {
+                "@type": "Organization",
+                "name": "Nykvarns Paper Company",
+                "department": "Factory Management",
+                "startDate": "1939"
+            }
+        ],
+        "additionalProperty": [
+            {
+                "@type": "PropertyValue",
+                "name": "Travels",
+                "value": "Norway, Denmark, Finland, Estonia, Latvia, Lithuania, Germany, Austria, Russia, Poland",
+                "startDate": "1921",
+                "endDate": "1938"
+            },
+            {
+                "@type": "PropertyValue",
+                "name": "Hobbies",
+                "value": "Fishing, Stamp Collecting"
+            }
+        ],
+        "sameAs": "http://example.com/ernsteer"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Swedish Railways' workshops",
+                "industry": "Railway",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Atlas-Diesel",
+                "industry": "Engineering",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Luleå Wood Pulp Mill",
+                "industry": "Pulp and paper",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Domsjö Sulfite Factory",
+                "industry": "Chemical manufacturing",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Köpmanholmen Sulfite Factory",
+                "industry": "Chemical manufacturing",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Sörstafors Paper Mill",
+                "industry": "Pulp and paper",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Sellnäs Wood Pulp Mill",
+                "industry": "Pulp and paper",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Orsa Sulfate Committee",
+                "industry": "Chemical manufacturing",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Advertising and Information Manager",
+                "workplace": "AB Karlstad Mechanical Works",
+                "industry": "Engineering",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Factory Manager",
+                "workplace": "Cellulose Nadniemenska SA",
+                "industry": "Pulp and paper",
+                "start_date": "1937"
+            },
+            {
+                "occupational_title": "Factory Manager",
+                "workplace": "Nykvarns Paper Company",
+                "industry": "Pulp and paper",
+                "start_date": "1939"
+            },
+            {
+                "occupational_title": "Plant Manager",
+                "workplace": "Nykvarns Paper Company",
+                "industry": "Pulp and paper",
+                "start_date": "1942"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "Nykvarns Paper Company",
+                "industry": "Pulp and paper",
+                "start_date": "1943"
+            }
+        ]
+    }
+}

@@ -1,0 +1,125 @@
+{
+    "original": "ERIKSON, John Olof, Disponent, Borås, f Rydboholm, Älvsb l, 1/9 87. Studex 07, DHS 18. Tjm v Kinnaströms Väfveri AB i Kinna 18—20, kamrer v Rydboholms AB 21—26, v. vkst dir där 26—36, inneh AB John Erikson &amp; Co Konfektionsfabrik i Borås sed. 36. Styr.led i Kinnaströms Väfveri AB o Rydahls ManufakturAB.",
+    "translated": "ERIKSON, John Olof, Executive, Borås, b. Rydboholm, Älvsborg County, September 1, 1887. Graduated high school in 1907, obtained a diploma in commercial studies in 1918. Worked as an assistant at Kinnaströms Väfveri AB in Kinna from 1918 to 1920, as an accountant at Rydboholms AB from 1921 to 1926, then promoted to deputy managing director from 1926 to 1936. Established his own company, John Erikson & Co. Confectionery Factory in Borås since 1936. Serving on the board of directors at Kinnaströms Väfveri AB and Rydahls Manufaktur AB.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "John Olof Erikson",
+        "birthDate": "1887-09-01",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Rydboholm",
+                "addressRegion": "Älvsborg County",
+                "addressCountry": "Sweden"
+            }
+        },
+        "description": "Executive",
+        "alumniOf": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "High School",
+                "startDate": "1907"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Diploma in Commercial Studies",
+                "startDate": "1918"
+            }
+        ],
+        "workExperience": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Assistant",
+                "startDate": "1918",
+                "endDate": "1920",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Kinnaströms Väfveri AB",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Kinna",
+                        "addressCountry": "Sweden"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Accountant",
+                "startDate": "1921",
+                "endDate": "1926",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Rydboholms AB",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Borås",
+                        "addressCountry": "Sweden"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Deputy Managing Director",
+                "startDate": "1926",
+                "endDate": "1936",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Rydboholms AB",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Borås",
+                        "addressCountry": "Sweden"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Founder",
+                "startDate": "1936",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "John Erikson & Co. Confectionery Factory",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Borås",
+                        "addressCountry": "Sweden"
+                    }
+                }
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Rydahls ManufakturAB"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Assistant",
+                "workplace": "Kinnaströms Väfveri AB",
+                "industry": "Textile",
+                "start_date": "1918-01-01"
+            },
+            {
+                "occupational_title": "Accountant",
+                "workplace": "Rydboholms AB",
+                "industry": "Textile",
+                "start_date": "1921-01-01"
+            },
+            {
+                "occupational_title": "Deputy Managing Director",
+                "workplace": "Rydboholms AB",
+                "industry": "Textile",
+                "start_date": "1926-01-01"
+            },
+            {
+                "occupational_title": "Executive",
+                "workplace": "John Erikson & Co. Confectionery Factory",
+                "industry": "Manufacturing",
+                "start_date": "1936-01-01"
+            }
+        ]
+    }
+}

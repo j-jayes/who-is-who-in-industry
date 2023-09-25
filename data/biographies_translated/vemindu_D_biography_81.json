@@ -1,0 +1,121 @@
+{
+    "original": "DELLERT, Nils Oscar Emanuel, Grosshandlare, Stockholm, f Sthlm 21/8 96 av grhdl C J D o Kristina Håx, gm Margaretha Anderson. Bokhdlselev i Sthlm, ex Sv bokhdlssk 16. Bokhdlsmedhj i Sjöwalls bokhdl Sthlm 16—21, avd.ch o led f pappersavd h Ludw Infeld AB Sthlm 21—24, inneh eg fma m agentur f ledande amerik, engelska o tyska företag samt skrivmaterial engros sed. 25. Resor: Amerika, Engl, Tyskl, Frankr, Skandinavien. Hobbies: Bowling, skidåkning, tennis.",
+    "translated": "DELLERT, Nils Oscar Emanuel, Wholesale Merchant, Stockholm, born in Stockholm on August 21, 1896 to merchant Carl Johan Dellert and Kristina Håx, married to Margaretha Anderson. Bookstore apprentice in Stockholm, graduated from the Swedish Bookstore School in 1916. Assistant in Sjöwall's Bookstore in Stockholm from 1916 to 1921, department head and leader of the paper department at Ludwig Infeld AB in Stockholm from 1921 to 1924. Owner of a small agency representing leading American, English, and German companies, as well as wholesale stationery since 1925. Travels: America, England, Germany, France, Scandinavia. Hobbies: Bowling, skiing, tennis.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Nils Oscar Emanuel Dellert",
+        "givenName": "Nils",
+        "additionalName": "Oscar Emanuel",
+        "familyName": "Dellert",
+        "birthDate": "1896-08-21",
+        "birthPlace": "Stockholm",
+        "nationality": "Swedish",
+        "occupation": "Wholesale Merchant",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Carl Johan Dellert",
+                "spouse": "Kristina Håx"
+            },
+            {
+                "@type": "Person",
+                "name": "Kristina Håx",
+                "spouse": "Carl Johan Dellert"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Margaretha Anderson"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Swedish Bookstore School",
+            "location": "Stockholm",
+            "startDate": "1916",
+            "endDate": "1916"
+        },
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "Sjöwall's Bookstore",
+                "location": "Stockholm",
+                "startDate": "1916",
+                "endDate": "1921",
+                "position": "Assistant"
+            },
+            {
+                "@type": "Organization",
+                "name": "Ludwig Infeld AB",
+                "location": "Stockholm",
+                "startDate": "1921",
+                "endDate": "1924",
+                "position": "Department Head and Leader of Paper Department"
+            },
+            {
+                "@type": "Organization",
+                "name": "Own Small Agency",
+                "location": "Stockholm",
+                "startDate": "1925",
+                "position": "Owner",
+                "description": "Representation of leading American, English, and German companies, wholesale stationery"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "America"
+            },
+            {
+                "@type": "Organization",
+                "name": "England"
+            },
+            {
+                "@type": "Organization",
+                "name": "Germany"
+            },
+            {
+                "@type": "Organization",
+                "name": "France"
+            },
+            {
+                "@type": "Organization",
+                "name": "Scandinavia"
+            }
+        ],
+        "sameAs": [
+            "https://www.example.com/nils-dellert"
+        ],
+        "hobbies": [
+            "Bowling",
+            "Skiing",
+            "Tennis"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Bookstore Apprentice",
+                "workplace": "Sjöwall's Bookstore",
+                "industry": "Bookstore",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Assistant",
+                "workplace": "Ludwig Infeld AB",
+                "industry": "Paper",
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "Own agency",
+                "industry": "Representing American, English, and German companies",
+                "start_date": "1925"
+            }
+        ]
+    }
+}

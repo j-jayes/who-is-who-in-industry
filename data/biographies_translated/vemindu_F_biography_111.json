@@ -1,0 +1,106 @@
+{
+    "original": "FORSMAN, Lars Erik Hjalmar, Direktör, Norrtälje, f Roslagsbro, Sthlms l, 11/8 15 av dir E V F o Maria Åkerberg, gm Nanna Pettersson. Priv.sk, Norrt samrealsk, prakt hNafta Syndikat Sthlm, skepparex 2. kl, betongkurs, bokf.kurser v NKI. Anst AB Norrtälje järn- &amp; kolaffär fr 29, nu inneh av dna fma samt Fma Lars Forsman. Ag tre fastigh i Norrt samt stdsäg 633 o 646 i Täby. Resor: Norge, Finl 38, 39. Medl Norrt segelsällsk, Norrt skyt.frn. Hobbies: Kräftfiske, hus-byggn, arkitektur.",
+    "translated": "FORSMAN, Lars Erik Hjalmar, Director, Norrtälje, b. Roslagsbro, Stockholm county, November 8, 1915, son of director E V F and Maria Åkerberg, m. Nanna Pettersson. Primary school, Norrtälje secondary school, practical training at Nafta Syndicate Stockholm, sailor's exam class 2, concrete course, bookkeeping courses at NKI. Employed by AB Norrtälje iron and coal store since 1929, currently co-owner with his father E V F and the company Fma Lars Forsman. Owns three properties in Norrtälje and two plots (633 and 646) in Täby. Travelled to Norway and Finland in 1938 and 1939. Member of Norrt sailing club and Norrt shooting team. Hobbies: crayfish fishing, house construction, architecture.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Lars Erik Hjalmar Forsman",
+        "jobTitle": "Director",
+        "birthPlace": "Roslagsbro, Stockholm County, Sweden",
+        "birthDate": "1915-11-08",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "E V F"
+            },
+            {
+                "@type": "Person",
+                "name": "Maria Åkerberg"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Nanna Pettersson"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "educationalLevel": "Norrtälje secondary school",
+            "credentialCategory": "Practical training",
+            "credentialOfferedBy": "Nafta Syndicate Stockholm",
+            "credentialAwarded": "Bookkeeping courses at NKI"
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "AB Norrtälje iron and coal store",
+            "startDate": "1929"
+        },
+        "owns": [
+            {
+                "@type": "Place",
+                "name": "Norrtälje",
+                "propertiesOwned": [
+                    "Property 1",
+                    "Property 2",
+                    "Property 3"
+                ]
+            },
+            {
+                "@type": "Place",
+                "name": "Täby",
+                "propertiesOwned": [
+                    "Plot 633",
+                    "Plot 646"
+                ]
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Norrt sailing club"
+            },
+            {
+                "@type": "Organization",
+                "name": "Norrt shooting team"
+            }
+        ],
+        "hobbies": [
+            "Crayfish fishing",
+            "House construction",
+            "Architecture"
+        ],
+        "travels": [
+            {
+                "@type": "Trip",
+                "name": "Norway",
+                "date": "1938"
+            },
+            {
+                "@type": "Trip",
+                "name": "Finland",
+                "date": "1939"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Norrtälje",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Sailor (Class 2)",
+                "workplace": "Unknown",
+                "industry": "Maritime",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "AB Norrtälje iron and coal store",
+                "industry": "Retail",
+                "start_date": "1929"
+            }
+        ]
+    }
+}

@@ -1,0 +1,140 @@
+{
+    "original": "EDSBÄCKEK, .Ernst David, Disponent, Västervik, f Färnebo, Värml län, 30/4 90 av riksd.m Carl P Jansson o Maria Nilsson, gm Anna-Lena Magnusson. Studex 13, univ.stud. Disp o vkst dlr i Tjust Träexp.AB, V.vik, sed. 31. Egna föret: AB Swedish Propsexp Ltd, Sthlm, o AB Turinge Bränntorv, Sthlm. Stdsflm, kommiss f jub.utst i V.vik 33. AgKvarntorps Egendom i Värml län. Resor: Finl, Danm, Tyskl, Belg, Engl 33—39. RVO, Frimurare.",
+    "translated": "EDSBÄCKEK, Ernst David, Manager, Västervik, born in Färnebo, Värmland County, on April 30th, 1890, son of member of parliament Carl P Jansson and Maria Nilsson, married to Anna-Lena Magnusson. Graduated from high school at the age of 13, university studies. Manager and sales representative at Tjust Träexp.AB in Västervik since 1931. Owns companies: AB Swedish Propsexp Ltd in Stockholm, and AB Turinge Bränntorv in Stockholm. Commissioner for the jubilee exhibition in Västervik in 1933. Owner of AgKvarntorps Estate in Värmland County. Travelled to Finland, Denmark, Germany, Belgium, and England between 1933 and 1939. Recipient of the Royal Order of Vasa, Freemason.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Ernst David Edsbäckek",
+        "jobTitle": "Manager",
+        "birthDate": "1890-04-30",
+        "birthPlace": "Färnebo, Värmland County",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Carl P Jansson",
+                "jobTitle": "Member of Parliament"
+            },
+            {
+                "@type": "Person",
+                "name": "Maria Nilsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Anna-Lena Magnusson"
+        },
+        "education": {
+            "@type": "EducationEvent",
+            "identifier": "studex",
+            "name": "High School",
+            "endDate": "1903-05-30"
+        },
+        "alumniOf": {
+            "@type": "CollegeOrUniversity",
+            "name": "University"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Tjust Träexp.AB",
+                "jobTitle": "Manager and Sales Representative",
+                "startDate": "1931"
+            }
+        ],
+        "owns": [
+            {
+                "@type": "Organization",
+                "name": "AB Swedish Propsexp Ltd",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Turinge Bränntorv",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Freemason"
+            }
+        ],
+        "recipientOf": {
+            "@type": "Order",
+            "name": "Royal Order of Vasa"
+        },
+        "hasOccupation": "Manager",
+        "ownsProperty": [
+            {
+                "@type": "Place",
+                "name": "AgKvarntorps Estate",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Värmland County"
+                }
+            }
+        ],
+        "travels": [
+            {
+                "@type": "Place",
+                "name": "Finland"
+            },
+            {
+                "@type": "Place",
+                "name": "Denmark"
+            },
+            {
+                "@type": "Place",
+                "name": "Germany"
+            },
+            {
+                "@type": "Place",
+                "name": "Belgium"
+            },
+            {
+                "@type": "Place",
+                "name": "England"
+            }
+        ],
+        "relatedTo": {
+            "@type": "Event",
+            "name": "jubilee exhibition in Västervik",
+            "identifier": "jub.utst",
+            "startDate": "1933"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Manager",
+                "workplace": "Tjust Träexp.AB",
+                "industry": "Wood Export",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "AB Swedish Propsexp Ltd",
+                "industry": "Property Export",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "AB Turinge Bränntorv",
+                "industry": "Peat Export",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Commissioner",
+                "workplace": "Jubilee Exhibition",
+                "industry": "Event Organization",
+                "start_date": "1933"
+            }
+        ]
+    }
+}

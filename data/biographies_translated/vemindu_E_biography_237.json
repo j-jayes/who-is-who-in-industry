@@ -1,0 +1,128 @@
+{
+    "original": "ERIKSON, Karl Gustaf, Ingenjör, Örebro, f öbr 13/2 01 av fabr I E o Hanna Jönsson, gm Margit Pettersson. Solbacka lärov, öbr tekn gymn. Deläg Bröd Eriksons mek snick.-fabr samt Fma Byggmtrl, Nordemalm &amp; Co. Ag fastigh Hagastrand 6—8, Hertig Karls allé 1—3, Idrottsv 31 samt Väståtorg 2. Styr.led Sörmlbkns öbrkont. Resor: Tyskl, Frankr, USA.",
+    "translated": "ERIKSON, Karl Gustaf, Engineer, from Örebro, born on February 13, 1901, son of I.E. Erikson and Hanna Jönsson, married to Margit Pettersson. Educated at Solbacka School, Örebro's Technical Gymnasium. Co-owner of Bröd Eriksons Mechanical Carpentry Factory and Fma Building Materials. Property owner of Hagastrand 6-8, Hertig Karls allé 1-3, Idrottsv 31, and Väståtorg 2. Member of the Board of Directors of Sörmlandsbanken's Örebro branch. Traveled to Germany, France, and the USA.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Karl Gustaf",
+        "familyName": "Erikson",
+        "birthDate": "1901-02-13",
+        "birthPlace": "Örebro",
+        "father": {
+            "@type": "Person",
+            "givenName": "I.E.",
+            "familyName": "Erikson"
+        },
+        "mother": {
+            "@type": "Person",
+            "givenName": "Hanna",
+            "familyName": "Jönsson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "givenName": "Margit",
+            "familyName": "Pettersson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Solbacka School"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Örebro's Technical Gymnasium"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Bröd Eriksons Mechanical Carpentry Factory",
+                "ownershipFundingInfo": "Co-owner"
+            },
+            {
+                "@type": "Organization",
+                "name": "Fma Building Materials"
+            }
+        ],
+        "owns": [
+            {
+                "@type": "Building",
+                "address": "Hagastrand 6-8"
+            },
+            {
+                "@type": "Building",
+                "address": "Hertig Karls allé 1-3"
+            },
+            {
+                "@type": "Building",
+                "address": "Idrottsv 31"
+            },
+            {
+                "@type": "Building",
+                "address": "Väståtorg 2"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Sörmlandsbanken's Örebro branch",
+            "boardMember": true
+        },
+        "travelled": [
+            "Germany",
+            "France",
+            "USA"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Bröd Eriksons Mechanical Carpentry Factory",
+                "industry": "Manufacturing",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Co-owner",
+                "workplace": "Bröd Eriksons Mechanical Carpentry Factory",
+                "industry": "Manufacturing",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Co-owner",
+                "workplace": "Fma Building Materials",
+                "industry": "Construction",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Property owner",
+                "workplace": "Hagastrand 6-8",
+                "industry": "Real Estate",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Property owner",
+                "workplace": "Hertig Karls allé 1-3",
+                "industry": "Real Estate",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Property owner",
+                "workplace": "Idrottsv 31",
+                "industry": "Real Estate",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Property owner",
+                "workplace": "Väståtorg 2",
+                "industry": "Real Estate",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Board of Directors member",
+                "workplace": "Sörmlandsbanken's Örebro branch",
+                "industry": "Banking",
+                "start_date": null
+            }
+        ]
+    }
+}

@@ -1,0 +1,129 @@
+{
+    "original": "EHRENBORG, Georg A A, Civilingenjör, Stockholm, f Ystad 11/4 02 av major C A G E o Signe Richter, gm Agnes Reuterskiöld. Studex 20, KTH fackavd E 25. Anst ASEA 26—28, Cia Sudamericana SKF, Bogotå, 28— 33, SKF Gbg 33—38, Santorin-Verken AB Sthlm sed. 38, deläg o styr.ordf detta föret. Resor: Balkanst o Mindre Asien 23, Norra Syd-Am, Mellan-Am o ö :na i Karibiska hav 28—33, Tyskl, Frankr o Ital 38. Medl 02 års män.",
+    "translated": "EHRENBORG, Georg A A, Civil Engineer, Stockholm, b Ystad 11/4 02, son of Major C A G E and Signe Richter, married Agnes Reuterskiöld. Graduated from KTH faculty department E in 1925. Employed at ASEA 26—28, Cia Sudamericana SKF, Bogota, 28—33, SKF Gothenburg 33—38, Santorin Works AB Stockholm from 38, co-owner and chairman of the board of this company. Travels: Balkans and Lesser Asia in 1923, Northern South America, Central America and the Caribbean islands 28—33, Germany, France and Italy in 38. Member of the 02-year men's association.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Georg A A Ehrenborg",
+        "givenName": "Georg A A",
+        "familyName": "Ehrenborg",
+        "birthDate": "1902-04-11",
+        "birthPlace": "Ystad",
+        "nationality": "Swedish",
+        "education": {
+            "@type": "CollegeOrUniversity",
+            "name": "Royal Institute of Technology",
+            "location": "Stockholm",
+            "attendanceStartDate": "1920",
+            "attendanceEndDate": "1925",
+            "alumniOf": {
+                "@type": "EducationalOrganization",
+                "name": "KTH Faculty of Engineering"
+            }
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Major C A G E Ehrenborg"
+            },
+            {
+                "@type": "Person",
+                "name": "Signe Richter"
+            }
+        ],
+        "spouse": [
+            {
+                "@type": "Person",
+                "name": "Agnes Reuterskiöld"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1926",
+                "endDate": "1928",
+                "roleName": "ASEA"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1928",
+                "endDate": "1933",
+                "roleName": "Cia Sudamericana SKF (Bogota)"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1933",
+                "endDate": "1938",
+                "roleName": "SKF Gothenburg"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1938",
+                "roleName": "Santorin Works AB (Stockholm)",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Santorin Works AB",
+                    "url": "http://www.santorinworks.com"
+                },
+                "employeeRole": "co-owner and chairman"
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "TravelAction",
+                "startDate": "1923",
+                "endDate": "1923",
+                "fromLocation": "Balkans",
+                "toLocation": "Lesser Asia"
+            },
+            {
+                "@type": "TravelAction",
+                "startDate": "1928",
+                "endDate": "1933",
+                "fromLocation": "Northern South America",
+                "toLocation": "Central America and the Caribbean islands"
+            },
+            {
+                "@type": "TravelAction",
+                "startDate": "1938",
+                "endDate": "1938",
+                "fromLocation": "Germany",
+                "toLocation": "France and Italy"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "02-year men's association"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "ASEA",
+                "industry": "Engineering",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Cia Sudamericana SKF, Bogota",
+                "industry": "Engineering",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "SKF Gothenburg",
+                "industry": "Engineering",
+                "start_date": "1933"
+            },
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Santorin Works AB Stockholm",
+                "industry": "Engineering",
+                "start_date": "1938"
+            }
+        ]
+    }
+}

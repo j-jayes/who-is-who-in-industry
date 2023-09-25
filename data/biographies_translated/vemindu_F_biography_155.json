@@ -1,0 +1,99 @@
+{
+    "original": "FRIBERG, Folke Albert, Kontorschef, Göteborg, f Varberg 24/2 04 av köpm O A F o Anna Bengtsson, gm Ulla Hultén. Anst h Köpmännens Pappersvaru AB Varb 23—26, h Lundgrens Läderfabr AB Falkenberg 26—27, kont.ch i B S Hüttners AB Gbg sed. 27. Div off rev.uppdrag. Styr.ordf i Hallands Gille i Gbg sed. 40, ordf ds byggn.kté. Resor: Danm, Norge. Hobbies: Hembygdskunskap, hembygdsvård.",
+    "translated": "FRIBERG, Folke Albert, Office Manager, Gothenburg, b. Varberg 24/2 04, son of merchant O.A.F. and Anna Bengtsson, m. Ulla Hultén. Employed at Köpmännens Pappersvaru AB in Varberg 23-26, at Lundgrens Läderfabr AB in Falkenberg 26-27, office manager at B.S. Hüttners AB in Gothenburg since 27. Served in various military roles. Chairman of the Hallands Gille in Gothenburg since 40, chairman of the building committee. Travels: Denmark, Norway. Hobbies: Local history knowledge, heritage conservation.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Folke Albert Friberg",
+        "jobTitle": "Office Manager",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Gothenburg"
+        },
+        "birthDate": "1904-02-24",
+        "birthPlace": "Varberg",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "O.A.F.",
+                "jobTitle": "Merchant"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Bengtsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ulla Hultén"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Köpmännens Pappersvaru AB",
+                "startDate": "1923-01-01",
+                "endDate": "1926-12-31",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Varberg"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Lundgrens Läderfabr AB",
+                "startDate": "1926-01-01",
+                "endDate": "1927-12-31",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Falkenberg"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "B.S. Hüttners AB",
+                "startDate": "1927-01-01",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Gothenburg"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Hallands Gille",
+                "startDate": "1940-01-01",
+                "position": "Chairman",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Gothenburg"
+                }
+            }
+        ],
+        "nationality": "Swedish",
+        "militaryService": "Various",
+        "description": "Folke Albert Friberg was an office manager from Gothenburg, born on February 24, 1904, in Varberg. He was the son of merchant O.A.F. and Anna Bengtsson. He was married to Ulla Hultén. Folke worked at Köpmännens Pappersvaru AB in Varberg from 1923 to 1926, Lundgrens Läderfabr AB in Falkenberg from 1926 to 1927, and has been the office manager at B.S. Hüttners AB in Gothenburg since 1927. He served in various military roles. Folke has been the chairman of Hallands Gille in Gothenburg since 1940. His hobbies included local history knowledge and heritage conservation. He also enjoyed traveling to Denmark and Norway."
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Office Manager",
+                "workplace": "Köpmännens Pappersvaru AB",
+                "industry": "Paper goods",
+                "start_date": "1923-1926"
+            },
+            {
+                "occupational_title": "Office Manager",
+                "workplace": "Lundgrens Läderfabr AB",
+                "industry": "Leather manufacturing",
+                "start_date": "1926-1927"
+            },
+            {
+                "occupational_title": "Office Manager",
+                "workplace": "B.S. Hüttners AB",
+                "industry": "Unknown",
+                "start_date": "Since 1927"
+            }
+        ]
+    }
+}

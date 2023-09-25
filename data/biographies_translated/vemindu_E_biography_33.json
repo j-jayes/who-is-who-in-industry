@@ -1,0 +1,78 @@
+{
+    "original": "EDWARDS, Sven Edvard, Kontorschef, Eskilstuna, f Uppsala 23/1 94. Gbgs hdlsinst 12. Anst på kont i Gbg, Etuna o Sthlm, kont- o försäljningschef v Elektrokemiska AB Bohus 22—32, kont.chef o försäljn.chef v Etuna Stålpressnings AB Etuna sed. 32.",
+    "translated": "EDWARDS, Sven Edvard, Office Manager, Eskilstuna, born in Uppsala on January 23rd, 1894. Completed commercial education at Gothenburg's Trade Institute at age 12. Employed at various offices in Gothenburg, Eskilstuna, and Stockholm; became Chief of Office and Sales Manager at Elektrokemiska AB Bohus from 1922 to 1932. Since 1932, Office Manager and Sales Manager at Etuna Stålpressnings AB, Eskilstuna.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Sven Edvard Edwards",
+        "jobTitle": "Office Manager",
+        "birthDate": "1894-01-23",
+        "birthPlace": "Uppsala, Sweden",
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "commercial education",
+            "educationalLevel": "secondary",
+            "educationalProgram": "Gothenburg's Trade Institute",
+            "endDate": "1906"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Elektrokemiska AB Bohus",
+                "jobTitle": "Chief of Office and Sales Manager",
+                "startDate": "1922",
+                "endDate": "1932"
+            },
+            {
+                "@type": "Organization",
+                "name": "Etuna Stålpressnings AB",
+                "jobTitle": "Office Manager and Sales Manager",
+                "startDate": "1932"
+            }
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Eskilstuna, Sweden"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Kontorschef",
+                "workplace": "Eskilstuna",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Anställd på kontor",
+                "workplace": "Gothenburg",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Anställd på kontor",
+                "workplace": "Eskilstuna",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Anställd på kontor",
+                "workplace": "Stockholm",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Kontorschef och försäljningschef",
+                "workplace": "Elektrokemiska AB Bohus",
+                "industry": "Unknown",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Kontorschef och försäljningschef",
+                "workplace": "Etuna Stålpressnings AB Etuna",
+                "industry": "Unknown",
+                "start_date": "1932"
+            }
+        ]
+    }
+}

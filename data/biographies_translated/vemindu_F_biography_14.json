@@ -1,0 +1,61 @@
+{
+    "original": "FALCK, Otto A, Handlande, Perstorp, f Faringtofta 12/8 82. Anst fad möbelaff fma Carl Falck, förest dna 15, inneh sed. 28, av inneh fma Otto Falck, färg o kemikalier, gr 18, o målerifma Otto Falck, alla i Perstorp.",
+    "translated": "FALCK, Otto A, Merchant, Perstorp, born in Faringtofta on August 12th, 1882. Employed at his father's furniture store, owned by Carl Falck, from the age of 15. Became the owner in 1928. Also owned a paint and chemical company called Otto Falck, established in 1918, and a painting company with the same name, both located in Perstorp.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Otto A Falck",
+        "birthDate": "1882-08-12",
+        "description": "Merchant from Perstorp",
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Carl Falck's Furniture Store",
+            "startDate": "1897-01-01",
+            "endDate": "1928-12-31"
+        },
+        "owns": [
+            {
+                "@type": "Organization",
+                "name": "Otto Falck",
+                "startDate": "1918-01-01",
+                "endDate": null,
+                "description": "Paint and Chemical Company"
+            },
+            {
+                "@type": "Organization",
+                "name": "Otto Falck",
+                "startDate": "1928-01-01",
+                "endDate": null,
+                "description": "Painting Company"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Carl Falck Furniture Store",
+                "industry": "Retail",
+                "start_date": "From the age of 15"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "Carl Falck Furniture Store",
+                "industry": "Retail",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "Otto Falck Paint and Chemical Company",
+                "industry": "Chemicals",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "Otto Falck Painting Company",
+                "industry": "Construction",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

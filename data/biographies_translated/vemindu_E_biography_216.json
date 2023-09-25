@@ -1,0 +1,126 @@
+{
+    "original": "ERICSON, Johan Wilhelm, Konsul, Gävle, f Ovansjö, Gävleb län, 2/4 71 av köpm J L E 0 Ulrika Sjöberg, gm Anna Flensburg. Ex hdlsinst 90, språkstud utoml. Grundlägg o ag av samt dir f Pix AB, styr.ordf där o i AB Gavleverken samt AB Berba, Gävle, mm. Holl v.kons sed. 26. Resor: De fi europ länd, Afrika, Asien, Västind, Kuba, Madeira, Kanarieöarna. RNO, RVO, RNedONO, OffFrHl. Hobbies: Gamla konstvapen, segel- och motorsport.",
+    "translated": "ERICSON, Johan Wilhelm, Consul, Gävle, born in Ovansjö, Gävle County, April 2nd, 1871, son of merchant J.L.E. Ericson and Ulrika Sjöberg, married to Anna Flensburg. Former trade representative since 1890, language studies abroad. Founded and served as director of Pix AB, chairman of the board in AB Gavleverken and AB Berba, Gävle, among others. Consul of the Netherlands since 1926. Traveled to several European countries, Africa, Asia, the West Indies, Cuba, Madeira, and the Canary Islands. Recipient of the Order of the North Star, Royal Order of Vasa, Royal Norwegian Order of St. Olav, and French Officer of the Legion of Honor. Hobbies include ancient firearms, sailing, and motorsport activities.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Johan Wilhelm Ericson",
+        "birthDate": "1871-04-02",
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Ovansjö, Gävle County"
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "J.L.E. Ericson",
+                "jobTitle": "Merchant"
+            },
+            {
+                "@type": "Person",
+                "name": "Ulrika Sjöberg"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Anna Flensburg"
+        },
+        "occupation": [
+            {
+                "@type": "OrganizationRole",
+                "title": "Consul"
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Trade Representative",
+                "startDate": "1890"
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Director",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Pix AB"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Chairman of the Board",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Gavleverken"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Chairman of the Board",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Berba, Gävle"
+                }
+            }
+        ],
+        "nationality": "Swedish",
+        "affiliation": [
+            {
+                "@type": "Organization",
+                "name": "Pix AB"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Gavleverken"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Berba, Gävle"
+            }
+        ],
+        "honorificPrefix": "Konsul",
+        "honorificSuffix": "RNO, RVO, RNedONO, OffFrHl",
+        "hobbies": "Gamla konstvapen, segel- och motorsport",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Netherlands Consulate"
+            }
+        ],
+        "sameAs": {
+            "@type": "URL",
+            "url": "https://example.com/person/johan-wilhelm-ericson"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Trade Representative",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "1890"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Pix AB",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Chairman of the board",
+                "workplace": "AB Gavleverken",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Chairman of the board",
+                "workplace": "AB Berba",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Consul of the Netherlands",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "1926"
+            }
+        ]
+    }
+}

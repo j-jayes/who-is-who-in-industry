@@ -1,0 +1,161 @@
+{
+    "original": "EKBEBG, Ernst Arthur, Affärschef, Västervik, f Nrkpg 12/1 00 av Ernst Leonard Ekberg, o Elin Johansson, gm Ester Olsson. Aftonsk, självstud. Anst ensk o koop föret 14—22, förest konsumtionsfrn i Järle 22—24, koop frn Fram i Lindas 24—27, Nybro koop hdlsfrn 28—37, aff.ch konsum V.vik sed. 37, styr.led där. Led Kalm läns N kristidsstyr, v. ordf V.viks kristidsnmd o stadsrev, led hälsov.nmdn, hdls- o sjöf.nmdn. Hobby: Sång (2. bas V.viks manskör).",
+    "translated": "EKBEBG, Ernst Arthur, Business Manager, Västervik, born in Norrköping on January 12, 1900, to Ernst Leonard Ekberg and Elin Johansson, married Ester Olsson. Evening school, self-taught. Employed in private and cooperative companies from 1914 to 1922, managed the consumer cooperative in Järle from 1922 to 1924, cooperative company Fram in Lindas from 1924 to 1927, Nybro cooperative trade company from 1928 to 1937, business manager of Konsum Västervik since 1937, serving on the board there. Leader of the Kalmar County Northern Crisis Management Board, deputy chairman of the Västervik Crisis Committee and city auditor, member of the health committee, trade and maritime committee. Hobby: Singing (2nd bass in Västervik's men's choir).",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Ernst Arthur EKBEBG",
+        "jobTitle": "Business Manager",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Västervik"
+        },
+        "birthDate": "1900-01-12",
+        "birthPlace": "Norrköping",
+        "parents": [
+            {
+                "@type": "Person",
+                "givenName": "Ernst Leonard",
+                "familyName": "Ekberg"
+            },
+            {
+                "@type": "Person",
+                "givenName": "Elin",
+                "familyName": "Johansson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "givenName": "Ester",
+            "familyName": "Olsson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Evening school"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Self-taught"
+            }
+        ],
+        "workHistory": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1914",
+                "endDate": "1922",
+                "roleName": "Employee",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Private and Cooperative Companies"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1922",
+                "endDate": "1924",
+                "roleName": "Manager",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Consumer Cooperative in Järle"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1924",
+                "endDate": "1927",
+                "roleName": "Manager",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Cooperative Company Fram in Lindas"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1928",
+                "endDate": "1937",
+                "roleName": "Manager",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Nybro Cooperative Trade Company"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1937",
+                "roleName": "Business Manager",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Konsum Västervik"
+                }
+            }
+        ],
+        "boardMember": [
+            {
+                "@type": "Organization",
+                "name": "Kalmar County Northern Crisis Management Board"
+            },
+            {
+                "@type": "Organization",
+                "name": "Västervik Crisis Committee",
+                "roleName": "Deputy Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "City Auditor"
+            },
+            {
+                "@type": "Organization",
+                "name": "Health Committee",
+                "roleName": "Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Trade and Maritime Committee",
+                "roleName": "Member"
+            }
+        ],
+        "hobby": "Singing",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Västervik's men's choir",
+                "roleName": "2nd bass"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Business Manager",
+                "workplace": "Konsum Västervik",
+                "industry": "Consumer Cooperative",
+                "start_date": "1937"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Consumer Cooperative in Järle",
+                "industry": "Consumer Cooperative",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Fram in Lindas",
+                "industry": "Cooperative Company",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Trade Company Manager",
+                "workplace": "Nybro Cooperative Trade Company",
+                "industry": "Cooperative Trade",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Private and Cooperative Companies",
+                "industry": "Various",
+                "start_date": "1914"
+            }
+        ]
+    }
+}

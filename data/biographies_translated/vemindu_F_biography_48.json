@@ -1,0 +1,187 @@
+{
+    "original": "FISCHER, Jakob Erik, Direktörsassistent, Göteborg, f Jönköping 11/4 10 av hovrättsr G F o Svea Witte, gm Karin Ahlén. Realex Jönkp 26, Försäkr.tjm Allm Brand Jönkp 26— 28. Schartaus 28—303 utrik resestip. Anst Sylvander &amp; Cie Marseille 31—32, Sv hdls-kamm London 32—33, korresp Uddeholms AB Uddeh 33—43, dir.ass AB Lars Fosselius Gbg sed. 43. Resor: Tyskl 34, Belg, Frankr 35, Tjeckoslov 36. Lstlöjtn 40, vpl löjtn 44.",
+    "translated": "FISCHER, Jakob Erik, Director's Assistant, Gothenburg, born in Jönköping on April 11th, 1910, son of Court of Appeal Judge G.F. Fischer and Svea Witte, married to Karin Ahlén. Attended Jönköping Trade School until 1926, worked as an insurance clerk at Allm Brand in Jönköping from 1926 to 1928. Received a foreign travel scholarship from Schartaus in 1928, worked at Sylvander & Cie in Marseille from 1931 to 1932, Swedish Chamber of Commerce in London from 1932 to 1933, correspondent for Uddeholms AB in Uddeh from 1933 to 1943, and Director's Assistant at AB Lars Fosselius in Gothenburg since 1943. Traveled to Germany in 1934, Belgium and France in 1935, and Czechoslovakia in 1936. Became a Second Lieutenant in 1940 and a Lieutenant in the reserve in 1944.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Jakob Erik Fischer",
+        "jobTitle": "Director's Assistant",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Gothenburg"
+        },
+        "birthDate": "1910-04-11",
+        "birthPlace": "Jönköping",
+        "father": {
+            "@type": "Person",
+            "name": "G.F. Fischer",
+            "jobTitle": "Court of Appeal Judge"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Svea Witte"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Karin Ahlén"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Realex",
+                "credentialSubject": "Jönköping Trade School",
+                "endDate": "1926"
+            }
+        ],
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1926",
+                "endDate": "1928",
+                "roleName": "Insurance Clerk",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Allm Brand",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Jönköping"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1928",
+                "endDate": "1930",
+                "roleName": "Recipient of Foreign Travel Scholarship",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Schartaus"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1931",
+                "endDate": "1932",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Sylvander & Cie"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1932",
+                "endDate": "1933",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Swedish Chamber of Commerce"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1933",
+                "endDate": "1943",
+                "roleName": "Correspondent",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Uddeholms AB",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Uddeh"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1943",
+                "roleName": "Director's Assistant",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Lars Fosselius",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Gothenburg"
+                    }
+                }
+            }
+        ],
+        "travel": [
+            {
+                "@type": "Trip",
+                "name": "Germany",
+                "startDate": "1934"
+            },
+            {
+                "@type": "Trip",
+                "name": "Belgium and France",
+                "startDate": "1935"
+            },
+            {
+                "@type": "Trip",
+                "name": "Czechoslovakia",
+                "startDate": "1936"
+            }
+        ],
+        "militaryService": [
+            {
+                "@type": "MilitaryService",
+                "status": "Lieutenant",
+                "startDate": "1944",
+                "branchOfService": "Reserve"
+            },
+            {
+                "@type": "MilitaryService",
+                "status": "Second Lieutenant",
+                "startDate": "1940",
+                "endDate": "1944"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Direktörsassistent",
+                "workplace": "Gothenburg",
+                "industry": "Unknown",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Försäkr.tjm",
+                "workplace": "Allm Brand Jönkp",
+                "industry": "Insurance",
+                "start_date": 1926
+            },
+            {
+                "occupational_title": "Schartaus stipendiat",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": 1928
+            },
+            {
+                "occupational_title": "Anst Sylvander & Cie",
+                "workplace": "Marseille",
+                "industry": "Unknown",
+                "start_date": 1931
+            },
+            {
+                "occupational_title": "Sv hdls-kamm",
+                "workplace": "London",
+                "industry": "Trade",
+                "start_date": 1932
+            },
+            {
+                "occupational_title": "korresp Uddeholms AB",
+                "workplace": "Uddeh",
+                "industry": "Metallurgy",
+                "start_date": 1933
+            },
+            {
+                "occupational_title": "dir.ass AB Lars Fosselius Gbg",
+                "workplace": "Gothenburg",
+                "industry": "Unknown",
+                "start_date": 1943
+            }
+        ]
+    }
+}

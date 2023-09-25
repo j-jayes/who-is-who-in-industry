@@ -1,0 +1,120 @@
+{
+    "original": "FAHLESOX, Vilhelm Per, Civilingenjör, Nockeby, f Piteå 7/8 96 av körsn E J F o Hulda Dahlén, gm Vera Goldkuhl. Studex Luleå 16, KTH 23. Anst Fahleson &amp; Co Luleå 23—37. Eg fmor Fahleson &amp; Co Skellefteå sed. 37, d:o Umeå sed. 37, d:o Härnösand sed. 39, vkst dir o ag Fahleson &amp; Co m huv.kont Sthlm. Resor: Tyskl, Holl, Frankr, Belg, Danm. Tempelriddare, frimurare, Teosof S. Hobbies: Friluftsliv, filosofisk litt.",
+    "translated": "FAHLESOX, Vilhelm Per, Master of Engineering, Nockeby, born in Piteå on August 7th, 1896, son of E J F and Hulda Dahlén, married to Vera Goldkuhl. Graduated from Luleå in 1916, Royal Institute of Technology (KTH) in 1923. Employed at Fahleson & Co in Luleå from 1923 to 1937. Owner of Fahleson & Co in Skellefteå since 1937, Umeå since 1937, and Härnösand since 1939. Vice Director and Agent at Fahleson & Co with main office in Stockholm. Traveled to Germany, the Netherlands, France, Belgium, and Denmark. Member of the Knights Templar, Freemason, Theosophist. Hobbies include outdoor activities and philosophical literature. Note: '\\d\\d m. partner's name' refers to the year of marriage in the 1900s.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Vilhelm Per Fahlesox",
+        "birthDate": "1896-08-07",
+        "birthPlace": "Piteå",
+        "father": {
+            "@type": "Person",
+            "name": "E J F"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Hulda Dahlén"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Vera Goldkuhl"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Master of Engineering",
+            "educationalLevel": "College",
+            "awardedBy": {
+                "@type": "CollegeOrUniversity",
+                "name": "Luleå"
+            },
+            "startDate": "1916",
+            "endDate": "1923"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Fahleson & Co",
+                "startDate": "1923",
+                "endDate": "1937",
+                "location": "Luleå"
+            },
+            {
+                "@type": "Organization",
+                "name": "Fahleson & Co",
+                "startDate": "1937",
+                "endDate": null,
+                "location": "Skellefteå"
+            },
+            {
+                "@type": "Organization",
+                "name": "Fahleson & Co",
+                "startDate": "1937",
+                "endDate": null,
+                "location": "Umeå"
+            },
+            {
+                "@type": "Organization",
+                "name": "Fahleson & Co",
+                "startDate": "1939",
+                "endDate": null,
+                "location": "Härnösand"
+            },
+            {
+                "@type": "Organization",
+                "name": "Fahleson & Co",
+                "location": "Stockholm"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Knights Templar"
+            },
+            {
+                "@type": "Organization",
+                "name": "Freemason"
+            },
+            {
+                "@type": "Organization",
+                "name": "Theosophist"
+            }
+        ],
+        "nationality": "Swedish",
+        "interests": "Outdoor activities, philosophical literature",
+        "travelled": [
+            "Germany",
+            "Netherlands",
+            "France",
+            "Belgium",
+            "Denmark"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Master of Engineering",
+                "workplace": "Nockeby",
+                "industry": "Engineering",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Fahleson & Co",
+                "industry": "Unknown",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "Fahleson & Co",
+                "industry": "Unknown",
+                "start_date": "1937"
+            },
+            {
+                "occupational_title": "Vice Director and Agent",
+                "workplace": "Fahleson & Co",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

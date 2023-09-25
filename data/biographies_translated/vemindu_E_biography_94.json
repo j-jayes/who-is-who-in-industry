@@ -1,0 +1,82 @@
+{
+    "original": "EKMAN, Ernst W, Bankkamrer, Göteborg, f Sthlm 10/6 89 av ing N W o Amina Wettergren, gm Annmarie Losman. Studex Gbg h reall, ex Gbgs hdlsinst fackkurs, stud nat.ek GHS. Anst Michaelis &amp; Meier Hamburg 09, AB Göteborgs bk, Gbg sed. 10. Gbg Istfrb GM.",
+    "translated": "EKMAN, Ernst W, Bank Clerk, Gothenburg, born in Stockholm on June 10, 1889, son of engineer N. W. Ekman and Amina Wettergren, married to Annmarie Losman. Studied at Gothenburg Higher Real School, completed a specialized course at Gothenburg Commercial Institute, studied economics at Gothenburg School of Business. Employed at Michaelis & Meier in Hamburg in 1909, then worked at AB Gothenburg Bank since 1910. Member of the Gothenburg Society for Genealogy and Heraldry.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Ernst W Ekman",
+        "birthDate": "1889-06-10",
+        "birthPlace": "Stockholm",
+        "deathDate": null,
+        "father": {
+            "@type": "Person",
+            "name": "N W Ekman"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Amina Wettergren"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Annmarie Losman"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Gothenburg Higher Real School"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Gothenburg Commercial Institute",
+                "identifier": "fackkurs"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Gothenburg School of Business",
+                "identifier": "GHS"
+            }
+        ],
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "Michaelis & Meier",
+                "location": "Hamburg",
+                "startDate": "1909"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Gothenburg Bank",
+                "location": "Gothenburg",
+                "startDate": "1910"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Gothenburg Society for Genealogy and Heraldry"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Bank Clerk",
+                "workplace": "Gothenburg",
+                "industry": "Banking",
+                "start_date": "1910"
+            },
+            {
+                "occupational_title": "Bank Kamrer",
+                "workplace": "Gothenburg Savings Bank",
+                "industry": "Banking",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Michaelis & Meier",
+                "industry": "Hamburg Banking",
+                "start_date": "1909"
+            }
+        ]
+    }
+}
