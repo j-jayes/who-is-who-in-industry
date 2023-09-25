@@ -1,0 +1,159 @@
+{
+    "original": "GARMO, Johan Rudolf C:son, Civilingenör, Västerås, f Gävle 9/1 94 av brygg- o mälteri-äg J P Carlsson o Albertina Jansson, gm Anna Nisses-Gagnér. Studex Gävle 13, civ-ingex KTH (E) 19. Lär v Katrineh Tekn Sk 19—20, anst ASEA 20—21, Siemens-Schuckert-Werke GmbH 22—23 o 24—29, åter ASEA sed. 30. Resor: Tyskl 22, Irland 28, Frankr o Engl 29. Led Sv Tekn.frn. Hobbies: Teckning o målning.",
+    "translated": "GARMO, Johan Rudolf C:son, Engineer, Västerås, born in Gävle on 9/1 94, son of brewery and malt house owner J P Carlsson and Albertina Jansson, married to Anna Nisses-Gagnér. Graduated from Gävle at age 13, civil engineering degree from KTH (Royal Institute of Technology, Stockholm) in 19. Worked as a teacher at Katrineh Technical School from 19 to 20, employed at ASEA from 20 to 21, Siemens-Schuckert-Werke GmbH from 22 to 23 and 24 to 29, and returned to ASEA thereafter since 30. Traveled to Germany in 22, Ireland in 28, France and England in 29. Member of the Swedish Technical Association. Hobbies: Drawing and painting.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Johan Rudolf C:son Garmo",
+        "birthDate": "1894-01-09",
+        "birthPlace": "Gävle, Sweden",
+        "jobTitle": "Civil Engineer",
+        "nationality": "Swedish",
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Swedish Technical Association"
+        },
+        "education": {
+            "@type": "EducationalOccupationalProgram",
+            "startDate": "1907",
+            "endDate": "1919",
+            "educationalLevel": "High School Diploma",
+            "institution": {
+                "@type": "EducationalOrganization",
+                "name": "Gävle",
+                "location": "Gävle, Sweden"
+            }
+        },
+        "alumniOf": {
+            "@type": "CollegeOrUniversity",
+            "name": "Royal Institute of Technology",
+            "location": "Stockholm, Sweden",
+            "startDate": "1919",
+            "endDate": "1922"
+        },
+        "workExperience": [
+            {
+                "@type": "JobPosting",
+                "startDate": "1919",
+                "endDate": "1920",
+                "title": "Teacher",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Katrineh Technical School",
+                    "location": "Katrineholm, Sweden"
+                }
+            },
+            {
+                "@type": "JobPosting",
+                "startDate": "1920",
+                "endDate": "1921",
+                "title": "Employee",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "ASEA",
+                    "location": "Sweden"
+                }
+            },
+            {
+                "@type": "JobPosting",
+                "startDate": "1922",
+                "endDate": "1923",
+                "title": "Employee",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Siemens-Schuckert-Werke GmbH",
+                    "location": "Germany"
+                }
+            },
+            {
+                "@type": "JobPosting",
+                "startDate": "1924",
+                "endDate": "1929",
+                "title": "Employee",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Siemens-Schuckert-Werke GmbH",
+                    "location": "Germany"
+                }
+            },
+            {
+                "@type": "JobPosting",
+                "startDate": "1930",
+                "title": "Employee",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "ASEA",
+                    "location": "Sweden"
+                }
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Anna Nisses-Gagnér"
+        },
+        "travelHistory": [
+            {
+                "@type": "Trip",
+                "departureTime": "1922",
+                "arrivalTime": "1922",
+                "name": "Germany"
+            },
+            {
+                "@type": "Trip",
+                "departureTime": "1928",
+                "arrivalTime": "1928",
+                "name": "Ireland"
+            },
+            {
+                "@type": "Trip",
+                "departureTime": "1929",
+                "arrivalTime": "1929",
+                "name": "France"
+            },
+            {
+                "@type": "Trip",
+                "departureTime": "1929",
+                "arrivalTime": "1929",
+                "name": "England"
+            }
+        ],
+        "hobbies": [
+            "Drawing",
+            "Painting"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Teacher",
+                "workplace": "Katrineh Technical School",
+                "industry": "Education",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "ASEA",
+                "industry": "Electrical Engineering",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Siemens-Schuckert-Werke GmbH",
+                "industry": "Electrical Engineering",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Siemens-Schuckert-Werke GmbH",
+                "industry": "Electrical Engineering",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "ASEA",
+                "industry": "Electrical Engineering",
+                "start_date": "1930"
+            }
+        ]
+    }
+}

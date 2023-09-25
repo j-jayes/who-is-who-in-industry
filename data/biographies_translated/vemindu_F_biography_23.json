@@ -1,22 +1,17 @@
 {
     "original": "FALKMAN, Erik Johan Wilhelm, Civilingenjör, Uppsala, f Sireköpinge, Malmöh l, 29/7 07 av agronom S J F o Elisabeth Ganslandt, gm Gully Geier. Studex Malmö 25, KTH (V o V) 26—30. Priv.assist h prof C Heuman 31, anst h konsult in %. f ma Messrs Crompton &amp; Ekström (fil i Sthlm) 32, v Stat provn.anst 32 —35, assist i allm byggn.lära m vägtekn KTH 33—35, Väg- o Vatteribyggn.styr:s platskontr v brobyggn Skorped o Örnsköldsvik 35-^-36 samt i Gävleb län 37—38, väging.assist i Gävleborgs län 37—38, byggn.insp h Gävle Stads Byggn.nmd 38—44, nu byggn.insp h Upps Stads Byggn.nmd.",
-    "translated": "FALKMAN, Erik Johan Wilhelm, Engineer, Uppsala, born in Sireköpinge, Malmö county, 29/7 07 to agronomist S J F and Elisabeth Ganslandt, married to Gully Geier. Studied in Malmö 1925, KTH (V o V) 1926-1930. Private assistant to Professor C Heuman 1931, employed as a consultant at % firm Crompton & Ekström (architecture firm in Stockholm) 1932, worked at the State Testing Agency 1932-1935, assistant in general construction and road technology at KTH 1933-1935, served as site contractor for the Road and Water Construction Board in Skorped and Örnsköldsvik 1935-1936, and in Gävleborg County 1937-1938, worked as a road engineer in Gävleborg County 1937-1938, building inspector for the Gävle City Construction Board 1938-1944, currently serving as a building inspector for the Uppsala City Construction Board.",
+    "translated": "FALKMAN, Erik Johan Wilhelm, Civil Engineer, Uppsala, born in Sireköpinge, Malmö County, on July 29, 1907, son of agronomist S.J.F. and Elisabeth Ganslandt, married to Gully Geier. Graduated in Malmö in 1925, and studied at the Royal Institute of Technology (VT) from 1926 to 1930. Worked as a private assistant to Professor C. Heuman in 1931, and employed as a consultant at % of the firm Messrs Crompton & Ekström (located in Stockholm) in 1932. Joined the State Inspection Authority from 1932 to 1935, and served as an assistant in general building and road construction at the Royal Institute of Technology from 1933 to 1935. Held contract positions for the Road and Water Construction Board, overseeing bridge construction in Skorped and Örnsköldsvik from 1935 to 1936, as well as in Gävleborg County from 1937 to 1938. Additionally, worked as a road engineer assistant in Gävleborg County from 1937 to 1938 and as a building inspector for Gävle City Building Board from 1938 to 1944. Currently working as a building inspector for Uppsala City Building Board.",
     "structured": {
-        "@context": "http://schema.org",
+        "@context": "https://schema.org",
         "@type": "Person",
         "name": "Erik Johan Wilhelm Falkman",
-        "jobTitle": "Civilingenjör",
-        "address": {
-            "@type": "PostalAddress",
-            "addressLocality": "Uppsala"
-        },
+        "jobTitle": "Civil Engineer",
+        "birthPlace": "Sireköpinge, Malmö County",
         "birthDate": "1907-07-29",
-        "birthPlace": "Sireköpinge, Malmö county",
         "parents": [
             {
                 "@type": "Person",
-                "name": "S J F",
-                "jobTitle": "Agronomist"
+                "name": "S.J.F."
             },
             {
                 "@type": "Person",
@@ -30,110 +25,81 @@
         "education": [
             {
                 "@type": "EducationalOccupationalCredential",
-                "alumniOf": {
-                    "@type": "EducationalOrganization",
-                    "name": "Malmö"
-                },
-                "startDate": "1925"
+                "name": "Graduated in Malmö",
+                "endDate": "1925"
             },
             {
                 "@type": "EducationalOccupationalCredential",
-                "alumniOf": {
-                    "@type": "EducationalOrganization",
-                    "name": "KTH (V o V)"
-                },
+                "name": "Studied at Royal Institute of Technology",
                 "startDate": "1926",
                 "endDate": "1930"
             }
         ],
-        "workExperience": [
+        "work": [
             {
-                "@type": "JobPosting",
-                "employer": {
-                    "@type": "Person",
-                    "name": "C Heuman"
-                },
-                "title": "Private Assistant",
+                "@type": "EmploymentOrganization",
+                "name": "Private assistant to Professor C. Heuman",
                 "startDate": "1931"
             },
             {
-                "@type": "JobPosting",
-                "employer": {
-                    "@type": "Organization",
-                    "name": "Crompton & Ekström"
-                },
-                "title": "Consultant",
+                "@type": "EmploymentOrganization",
+                "name": "Consultant at Messrs Crompton & Ekström",
                 "startDate": "1932"
             },
             {
-                "@type": "JobPosting",
-                "employer": {
-                    "@type": "Organization",
-                    "name": "State Testing Agency"
-                },
-                "title": "Testing Assistant",
+                "@type": "EmploymentOrganization",
+                "name": "State Inspection Authority",
                 "startDate": "1932",
                 "endDate": "1935"
             },
             {
-                "@type": "JobPosting",
-                "employer": {
-                    "@type": "EducationalOrganization",
-                    "name": "KTH"
-                },
-                "title": "Assistant",
+                "@type": "EmploymentOrganization",
+                "name": "Assistant at Royal Institute of Technology",
                 "startDate": "1933",
-                "endDate": "1935",
-                "description": "General construction and road technology"
+                "endDate": "1935"
             },
             {
-                "@type": "JobPosting",
-                "employer": {
-                    "@type": "Organization",
-                    "name": "Road and Water Construction Board"
-                },
-                "title": "Site Contractor",
+                "@type": "EmploymentOrganization",
+                "name": "Road and Water Construction Board",
                 "startDate": "1935",
                 "endDate": "1936",
-                "location": [
+                "jobTitle": "Contract Positions",
+                "serviceArea": [
                     {
-                        "@type": "Place",
+                        "@type": "City",
                         "name": "Skorped"
                     },
                     {
-                        "@type": "Place",
+                        "@type": "City",
                         "name": "Örnsköldsvik"
                     }
                 ]
             },
             {
-                "@type": "JobPosting",
-                "employer": {
-                    "@type": "Place",
-                    "name": "Gävleborg County"
-                },
-                "title": "Site Contractor",
+                "@type": "EmploymentOrganization",
+                "name": "Gävleborg County",
                 "startDate": "1937",
                 "endDate": "1938",
-                "description": "Road engineering"
+                "jobTitle": "Contract Positions"
             },
             {
-                "@type": "JobPosting",
-                "employer": {
-                    "@type": "Place",
-                    "name": "Gävle City Construction Board"
-                },
-                "title": "Building Inspector",
+                "@type": "EmploymentOrganization",
+                "name": "Gävleborg County",
+                "startDate": "1937",
+                "endDate": "1938",
+                "jobTitle": "Road Engineer Assistant"
+            },
+            {
+                "@type": "EmploymentOrganization",
+                "name": "Gävle City Building Board",
                 "startDate": "1938",
-                "endDate": "1944"
+                "endDate": "1944",
+                "jobTitle": "Building Inspector"
             },
             {
-                "@type": "JobPosting",
-                "employer": {
-                    "@type": "Place",
-                    "name": "Uppsala City Construction Board"
-                },
-                "title": "Building Inspector"
+                "@type": "EmploymentOrganization",
+                "name": "Uppsala City Building Board",
+                "jobTitle": "Building Inspector"
             }
         ]
     },
@@ -141,51 +107,51 @@
         "career": [
             {
                 "occupational_title": "Private Assistant",
-                "workplace": "Professor C Heuman",
-                "industry": "Academia",
+                "workplace": "Professor C. Heuman",
+                "industry": "Education",
                 "start_date": "1931"
             },
             {
                 "occupational_title": "Consultant",
-                "workplace": "Crompton & Ekström",
-                "industry": "Architecture",
+                "workplace": "Messrs Crompton & Ekström",
+                "industry": "Engineering",
                 "start_date": "1932"
             },
             {
-                "occupational_title": "Assistant",
-                "workplace": "General Construction and Road Technology at KTH",
-                "industry": "Education",
+                "occupational_title": "Assistant in General Building and Road Construction",
+                "workplace": "Royal Institute of Technology",
+                "industry": "Education/Engineering",
                 "start_date": "1933"
             },
             {
-                "occupational_title": "Site Contractor",
-                "workplace": "Road and Water Construction Board (Skorped and Örnsköldsvik)",
+                "occupational_title": "Contract Position",
+                "workplace": "Road and Water Construction Board",
                 "industry": "Construction",
                 "start_date": "1935"
             },
             {
-                "occupational_title": "Site Contractor",
-                "workplace": "Road and Water Construction Board (Gävleborg County)",
+                "occupational_title": "Contract Position",
+                "workplace": "Road and Water Construction Board",
                 "industry": "Construction",
                 "start_date": "1937"
             },
             {
-                "occupational_title": "Road Engineer",
+                "occupational_title": "Road Engineer Assistant",
                 "workplace": "Gävleborg County",
                 "industry": "Construction",
                 "start_date": "1937"
             },
             {
                 "occupational_title": "Building Inspector",
-                "workplace": "Gävle City Construction Board",
+                "workplace": "Gävle City Building Board",
                 "industry": "Construction",
                 "start_date": "1938"
             },
             {
                 "occupational_title": "Building Inspector",
-                "workplace": "Uppsala City Construction Board",
+                "workplace": "Uppsala City Building Board",
                 "industry": "Construction",
-                "start_date": "CURRENT"
+                "start_date": "Unknown"
             }
         ]
     }

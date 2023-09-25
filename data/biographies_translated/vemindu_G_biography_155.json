@@ -1,0 +1,163 @@
+{
+    "original": "GUSTAFSSON, Carl Bertil, Disponent, Göteborg, f Örebro 1/8 84 av fabr K G G o Lina Gutafsson, gm Märta Löfgren. Studex Sthlm 04, tekn högsk i Darmstadt 07, stats-stip f stud.resor i USA 15 o 28 samt i Tyskl 22. Resoffex o ulöjtn i Pos.art.reg:s res 06,löjtn 13. Inneh eg stenfirma 07—12, driftsing h Skand Granit AB o ch f AB Västkustgranit, i Gbg 12—16, disp i AB Förenade Granitindustrier fr 17. Styr.led i sistn bolag o i Sv Granitind.frb, hed.ordf i Sthlms Stenhugg.idk.frb. Ordf i Vårdinge kommunalstämma 11—12, municipalflm i Hunnebostrand mm.",
+    "translated": "GUSTAFSSON, Carl Bertil, Manager, Gothenburg, born in Örebro on August 1st, 1884 to factory owner K G G and Lina Gutafsson. Married to Märta Löfgren. Completed secondary education in Stockholm in 1904, technical college in Darmstadt in 1907, and received government scholarship for study trips to the United States in 1915 and 1928, as well as Germany in 1922. Served as Reserve Officer and Second Lieutenant in the Artillery Regiment's Reserve in 1906, and promoted to Lieutenant in 1913. Owned a stone company from 1907 to 1912, was a managing director of Skand Granit AB and AB Västkustgranit in Gothenburg from 1912 to 1916, and became a manager in AB Förenade Granitindustrier from 1917. Served on the board of directors for the latter company and the Swedish Granite Industries Association, and held the honorary position of chairman in Stockholm's Stonecutting Industry Association. He was also chairman of the Vårdinge municipal meeting from 1911 to 1912, a member of the municipal council in Hunnebostrand, and more.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Bertil Gustafsson",
+        "birthDate": "1884-08-01",
+        "nationality": "Swedish",
+        "description": "Manager of Göteborg",
+        "spouse": {
+            "@type": "Person",
+            "name": "Märta Löfgren"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "SecondaryEducation",
+                "alumniOf": {
+                    "@type": "EducationalOrganization",
+                    "name": "Stockholm"
+                },
+                "endDate": "1904"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "CollegeOrUniversity",
+                "alumniOf": {
+                    "@type": "EducationalOrganization",
+                    "name": "Darmstadt"
+                },
+                "endDate": "1907"
+            }
+        ],
+        "deathDate": "",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "K G G"
+            },
+            {
+                "@type": "Person",
+                "name": "Lina Gutafsson"
+            }
+        ],
+        "affiliations": [
+            {
+                "@type": "Organization",
+                "name": "AB Förenade Granitindustrier",
+                "startDate": "1917",
+                "roleName": "Manager"
+            },
+            {
+                "@type": "Organization",
+                "name": "Skand Granit AB"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Västkustgranit",
+                "startDate": "1912",
+                "endDate": "1916",
+                "roleName": "Managing Director"
+            },
+            {
+                "@type": "Organization",
+                "name": "Stockholm's Stonecutting Industry Association",
+                "roleName": "Honorary Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Granite Industries Association",
+                "roleName": "Board of Directors"
+            }
+        ],
+        "positions": [
+            {
+                "@type": "Occupation",
+                "name": "Reserve Officer",
+                "startDate": "1906",
+                "endDate": ""
+            },
+            {
+                "@type": "Occupation",
+                "name": "Second Lieutenant",
+                "startDate": "1906",
+                "endDate": "1913",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Artillery Regiment's Reserve"
+                }
+            },
+            {
+                "@type": "Occupation",
+                "name": "Lieutenant",
+                "startDate": "1913",
+                "endDate": ""
+            }
+        ],
+        "scholarships": [
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Government Scholarship",
+                "description": "Study trips to the United States and Germany",
+                "startDate": "1915",
+                "endDate": "1928"
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Government Scholarship",
+                "description": "Study trip to Germany",
+                "startDate": "1922",
+                "endDate": ""
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Vårdinge municipal meeting",
+                "roleName": "Chairman",
+                "startDate": "1911",
+                "endDate": "1912"
+            },
+            {
+                "@type": "Organization",
+                "name": "Hunnebostrand municipal council"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Disponent",
+                "workplace": "Gothenburg",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Inneh eg stenfirma",
+                "workplace": "Unknown",
+                "industry": "Stonemasonry",
+                "start_date": "1907"
+            },
+            {
+                "occupational_title": "Driftsing h Skand Granit AB",
+                "workplace": "Gothenburg",
+                "industry": "Granite",
+                "start_date": "1912"
+            },
+            {
+                "occupational_title": "Driftsing h AB Västkustgranit",
+                "workplace": "Gothenburg",
+                "industry": "Granite",
+                "start_date": "1912"
+            },
+            {
+                "occupational_title": "Disp i AB Förenade Granitindustrier",
+                "workplace": "Unknown",
+                "industry": "Granite",
+                "start_date": "1917"
+            }
+        ]
+    }
+}

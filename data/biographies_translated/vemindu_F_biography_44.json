@@ -1,0 +1,163 @@
+{
+    "original": "FINDABX, Oscar, Fabrikör, Bjärnum, f Farstorp 21/12 82 av jordbr O F o h h Bengta, gm Karin Andersson. Utlärd snick, hdls-sk. Anst på möbelfabr 01—10. Eg möbelfabr 11—26, sågvksrör 11—43, ag Bjärnums Red-skapsfabr sed. 32, ag skogsfastigh i Vankiva, Finja, Markaryds o Farstorps s:r. Fd led kyrko- o skolråd, komm.rev. Vkst dir i Kungsbacka Möblerings AB Kungsbacka, AB Malmö Möbleringsaff Malmö, v. styr.ordf i Skånska Utsädes AB Sösdala. Frimurare (VI). Hobbies : Jakt, tennis.",
+    "translated": "FINDABX, Oscar, Manufacturer, Bjärnum, born in Farstorp on 21/12 1882, son of a farmer O.F. and his wife Bengta, married to Karin Andersson. Became a skilled carpenter, attended trade school. Employed at a furniture factory from 1901 to 1910. Started his own furniture factory from 1911 to 1926, also produced sawmill pipes from 1911 to 1943, became the managing director of Bjärnums Tool Factory since 1932, owned forest properties in Vankiva, Finja, Markaryds, and Farstorps parish. Former member of the church and school councils, municipal tax inspector. Director of development in Kungsbacka Möblerings AB in Kungsbacka, AB Malmö Möbleringsaff Malmö, vice chairman of Skånska Utsädes AB Sösdala. Freemason (VI). Hobbies: hunting, tennis.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Oscar Findabx",
+        "jobTitle": "Manufacturer",
+        "birthPlace": "Farstorp",
+        "birthDate": "1882-12-21",
+        "father": {
+            "@type": "Person",
+            "name": "O.F. Findabx"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Bengta Findabx"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Karin Andersson"
+        },
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Freemasons"
+        },
+        "hobbies": [
+            "Hunting",
+            "Tennis"
+        ],
+        "worksFor": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1901-01-01",
+                "endDate": "1910-12-31",
+                "roleName": "Employed at a furniture factory",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Unknown Furniture Factory"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1911-01-01",
+                "endDate": "1926-12-31",
+                "roleName": "Owner of own furniture factory",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Oscar Findabx Furniture Factory"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1911-01-01",
+                "endDate": "1943-12-31",
+                "roleName": "Produced sawmill pipes",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Oscar Findabx Furniture Factory"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1932-01-01",
+                "roleName": "Managing Director of Bjärnums Tool Factory",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Bjärnums Tool Factory"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Director of Development",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Kungsbacka Möblerings AB"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Director of Development",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Malmö Möbleringsaff"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Vice Chairman",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Skånska Utsädes AB"
+                }
+            }
+        ],
+        "owns": [
+            {
+                "@type": "Place",
+                "name": "Vankiva"
+            },
+            {
+                "@type": "Place",
+                "name": "Finja"
+            },
+            {
+                "@type": "Place",
+                "name": "Markaryd"
+            },
+            {
+                "@type": "Place",
+                "name": "Farstorp"
+            }
+        ],
+        "formerMemberOf": [
+            {
+                "@type": "Organization",
+                "name": "Church Council"
+            },
+            {
+                "@type": "Organization",
+                "name": "School Council"
+            },
+            {
+                "@type": "Organization",
+                "name": "Municipal Tax Inspector"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Skilled Carpenter",
+                "workplace": "Furniture Factory",
+                "industry": "Manufacturing",
+                "start_date": "1901"
+            },
+            {
+                "occupational_title": "Owner, Furniture Factory",
+                "workplace": "Own Business",
+                "industry": "Manufacturing",
+                "start_date": "1911"
+            },
+            {
+                "occupational_title": "Producer, Sawmill Pipes",
+                "workplace": "Own Business",
+                "industry": "Manufacturing",
+                "start_date": "1911"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "Bjärnums Tool Factory",
+                "industry": "Manufacturing",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Director of Development",
+                "workplace": "Kungsbacka Möblerings AB",
+                "industry": "Manufacturing",
+                "start_date": "N/A"
+            }
+        ]
+    }
+}

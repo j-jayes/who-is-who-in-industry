@@ -1,0 +1,171 @@
+{
+    "original": "GAMFEL.DT, Bror Sigfrid (Sigge), Direktör, Ålsten, f Slöta, Skarab l, 7/2 99 av nmdem Fritz Gustafsson o Klara Andersson, gm Greta Nylén. Katrineholms Tekn Sk. Avd.ch Karta &amp; Oaxens Kalkbr Sthlm 24, kont.ch Skand Eternit AB Sthlmskont 34, disp Limhamns Träind.AB Liljeholmen 35, ing o kont.ch Sv Maskinvkn Södertälje 39, försäljn.dir Gunnebo br AB Sthlmskont sed. 41. Resor: Tyskl, Frankr, Ital Skand v fi tillf. Odd Fellow. Hobbies: Jakt, golf.",
+    "translated": "GAMFEL.DT, Bror Sigfrid (Sigge), Director, Ålsten, born in Slöta, Skaraborg county, on 7/2 1899, son of farmer Fritz Gustafsson and Klara Andersson, married to Greta Nylén. Katrineholm Technical School. Division Head at Karta & Oaxens Lime Quarry in Stockholm in 1924, accountant at Skandia Eternit AB Stockholm in 1934, manager at Limhamn Wood Industries AB in Liljeholmen in 1935, engineer and accountant at Swedish Machinery Company in Södertälje in 1939, sales director at Gunnebo Brothers AB Stockholm since 1941. Travelled to Germany, France, Italy, and Scandinavian countries on various occasions. Member of the Odd Fellow fraternity. Hobbies: Hunting, golf.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Bror Sigfrid (Sigge) Gamfel",
+        "jobTitle": "Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Ålsten"
+        },
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Slöta",
+                "addressRegion": "Skaraborg county"
+            }
+        },
+        "birthDate": "1899-02-07",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Fritz Gustafsson"
+            },
+            {
+                "@type": "Person",
+                "name": "Klara Andersson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Greta Nylén"
+        },
+        "alumniOf": {
+            "@type": "EducationalOrganization",
+            "name": "Katrineholm Technical School"
+        },
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Odd Fellow"
+        },
+        "hasOccupation": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Division Head",
+                "startDate": "1924",
+                "endDate": null,
+                "namedPosition": {
+                    "@type": "Organization",
+                    "name": "Karta & Oaxens Lime Quarry"
+                },
+                "location": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Accountant",
+                "startDate": "1934",
+                "endDate": null,
+                "namedPosition": {
+                    "@type": "Organization",
+                    "name": "Skandia Eternit AB"
+                },
+                "location": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Manager",
+                "startDate": "1935",
+                "endDate": null,
+                "namedPosition": {
+                    "@type": "Organization",
+                    "name": "Limhamn Wood Industries AB"
+                },
+                "location": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Liljeholmen"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Engineer and Accountant",
+                "startDate": "1939",
+                "endDate": null,
+                "namedPosition": {
+                    "@type": "Organization",
+                    "name": "Swedish Machinery Company"
+                },
+                "location": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Södertälje"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Sales Director",
+                "startDate": "1941",
+                "endDate": null,
+                "namedPosition": {
+                    "@type": "Organization",
+                    "name": "Gunnebo Brothers AB"
+                },
+                "location": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm"
+                }
+            }
+        ],
+        "hasInterest": [
+            {
+                "@type": "Thing",
+                "name": "Hunting"
+            },
+            {
+                "@type": "Thing",
+                "name": "Golf"
+            },
+            {
+                "@type": "Thing",
+                "name": "Traveling"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Ålsten",
+                "industry": "N/A",
+                "start_date": "N/A"
+            },
+            {
+                "occupational_title": "Division Head",
+                "workplace": "Karta & Oaxens Lime Quarry",
+                "industry": "Construction materials",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Accountant",
+                "workplace": "Skandia Eternit AB",
+                "industry": "Construction materials",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Limhamn Wood Industries AB",
+                "industry": "Wood industry",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Engineer and Accountant",
+                "workplace": "Swedish Machinery Company",
+                "industry": "Machinery",
+                "start_date": "1939"
+            },
+            {
+                "occupational_title": "Sales Director",
+                "workplace": "Gunnebo Brothers AB",
+                "industry": "Security products",
+                "start_date": "1941"
+            }
+        ]
+    }
+}

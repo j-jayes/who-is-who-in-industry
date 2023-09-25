@@ -1,0 +1,162 @@
+{
+    "original": "GODBEBG, Valter Johan Erik, Civilingenjör, Traneberg, f Sthlm 28/8 13 av bryggmäst Erik G o Terese Eriksson-Solberg, gm Maj Karlberg. Studex NReal Sthlm 33, resoffex 35, löjtn i ing.truppernas res 39, civiugex KTH (V o V) 39. Konstr v AB Vattenbyggn.byrån 39—il, arb.ch h AB Bergendahl &amp; Höckert sed. 41. Ordf i V-sekt av KTH:s studentkår 38, klubbmäst i Sv Tekn.frns avd f väg- o vattenbyggn.konst 41—43. Resor: Danm 31 o 38, Tyskl, Ital, Jugoslav o Ung 38. Hobbies: Musik, filateli.",
+    "translated": "GODBEBG, Valter Johan Erik, Engineer, Traneberg, born in Stockholm on August 28, 1913, as the son of Master Brewer Erik G and Terese Eriksson-Solberg, married to Maj Karlberg. Graduated from Real Gymnasium in Stockholm in 1933, commissioned officer in the Engineer Corps reserve in 1935, promoted to Second Lieutenant in 1939, graduated as a Civil Engineer from the Royal Institute of Technology (Vertical Height and Water Engineering) in 1939. Worked as a construction engineer at AB Vattenbyggnadsbyrån from 1939 to present, and as an assistant supervisor at AB Bergendahl & Höckert since 1941. Served as chairman of the Vertical Height Division of the student union at the Royal Institute of Technology in 1938, and as club master in the Swedish Society of Technologists' section for road and water engineering from 1941 to 1943. Traveled to Denmark in 1931 and 1938, Germany, Italy, Yugoslavia, and Hungary in 1938. Hobbies include music and philately. Please note that the specification '\\d\\d m. partner's name' indicates that the person married in a specific year in the 19xx range.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Valter",
+        "additionalName": "Johan Erik",
+        "familyName": "GODBEBG",
+        "birthDate": "1913-08-28",
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Stockholm"
+        },
+        "description": "Engineer",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Vertical Height Division",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Student Union at the Royal Institute of Technology"
+                },
+                "startDate": "1938",
+                "endDate": "1943"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Society of Technologists",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Section for Road and Water Engineering"
+                },
+                "startDate": "1941",
+                "endDate": "1943",
+                "roleName": "Club Master"
+            }
+        ],
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Erik G"
+            },
+            {
+                "@type": "Person",
+                "name": "Terese Eriksson-Solberg"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Maj Karlberg"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Diploma",
+                "educationalLevel": "Secondary",
+                "educationalCredentialAwarded": "Graduated from Real Gymnasium",
+                "awardingInstitution": "Stockholm"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Degree",
+                "educationalLevel": "Bachelor's",
+                "educationalCredentialAwarded": "Civilingenjör",
+                "awardingInstitution": "Royal Institute of Technology (KTH)",
+                "startDate": "1935",
+                "endDate": "1939",
+                "major": "Vertical Height and Water Engineering"
+            }
+        ],
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Construction Engineer",
+                "startDate": "1939",
+                "endDate": "PRESENT",
+                "namedPosition": "AB Vattenbyggnadsbyrån"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Assistant Supervisor",
+                "startDate": "1941",
+                "namedPosition": "AB Bergendahl & Höckert"
+            }
+        ],
+        "hasOccupation": {
+            "@type": "Occupation",
+            "name": "Engineer"
+        },
+        "hasHobby": [
+            {
+                "@type": "Thing",
+                "name": "Music"
+            },
+            {
+                "@type": "Thing",
+                "name": "Philately"
+            }
+        ],
+        "hasTravelExperience": [
+            {
+                "@type": "Place",
+                "name": "Denmark",
+                "startDate": "1931",
+                "endDate": "1931"
+            },
+            {
+                "@type": "Place",
+                "name": "Denmark",
+                "startDate": "1938",
+                "endDate": "1938"
+            },
+            {
+                "@type": "Place",
+                "name": "Germany",
+                "startDate": "1938",
+                "endDate": "1938"
+            },
+            {
+                "@type": "Place",
+                "name": "Italy",
+                "startDate": "1938",
+                "endDate": "1938"
+            },
+            {
+                "@type": "Place",
+                "name": "Yugoslavia",
+                "startDate": "1938",
+                "endDate": "1938"
+            },
+            {
+                "@type": "Place",
+                "name": "Hungary",
+                "startDate": "1938",
+                "endDate": "1938"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "AB Vattenbyggnadsbyrån",
+                "industry": "Engineering",
+                "start_date": "1939"
+            },
+            {
+                "occupational_title": "Construction Engineer",
+                "workplace": "AB Vattenbyggnadsbyrån",
+                "industry": "Engineering",
+                "start_date": "1939"
+            },
+            {
+                "occupational_title": "Assistant Supervisor",
+                "workplace": "AB Bergendahl & Höckert",
+                "industry": "Construction",
+                "start_date": "1941"
+            }
+        ]
+    }
+}

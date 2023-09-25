@@ -1,0 +1,111 @@
+{
+    "original": "GLLL-BEKÖ, Erik Gustav Reinhold, Civilingenjör, Bromölla, f Målilla, Kalm l, 21/11 98 av stins A J G o Fanny Törnlöv, gm Fanny Dufwander. Studex Strängnäs 17, KTH (ma-skinbyggn o mek tekn) 20—24. Rit v Ford Motor Co Fordson Plant Detroit Mich USA 25—26, konstr v Detroit Edison Co 26—28, rit v Mechanical Handling Systems Inc Detroit 28, offert- o beräkn.ing v AB Sv Fläktfabr Sthlm 29—30, e. ing v Sthlms stads gatukont 30—34, konstr.lär i motortekn, flygmotorlära 0 maskinlära mm v Sthlms tekn inst 34, anst v AB Iföverken Bromölla sed. 35, entreprenadingenjör där. Led Sv Tekn.frn.",
+    "translated": "GLLL-BEKÖ, Erik Gustav Reinhold, Civil Engineer, Bromölla, born in Målilla, Kalmar County, on 21/11 1898, son of stationmaster A.J.G. and Fanny Törnlöv, married to Fanny Dufwander. High school graduate in Strängnäs 1917, studied at the Royal Institute of Technology (mechanical and structural engineering) 1920-1924. Worked as a drafter at Ford Motor Co Fordson Plant in Detroit, Michigan, USA, 1925-1926, designer at Detroit Edison Co 1926-1928, drafter at Mechanical Handling Systems Inc in Detroit 1928, involved in quotation and estimation at AB Svenska Fläktfabriken in Stockholm 1929-1930, civil engineer at the City of Stockholm Street Department 1930-1934, taught engineering subjects such as motor engineering, aviation engine theory, and mechanical engineering at Stockholm Technical Institute 1934, employed at AB Iföverken in Bromölla since 1935 as a construction engineer, currently working as a project engineer there. Member of the Swedish Society of Engineers (Sv. Tekniska Föreningen).",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Erik Gustav Reinhold GLLL-BEKÖ",
+        "jobTitle": "Civil Engineer",
+        "birthDate": "1898-11-21",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Målilla"
+        },
+        "nationality": "Swedish",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "A.J.G."
+            },
+            {
+                "@type": "Person",
+                "name": "Fanny Törnlöv"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Fanny Dufwander"
+        },
+        "alumniOf": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Strängnäs High School",
+                "endDate": "1917"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Royal Institute of Technology",
+                "startDate": "1920",
+                "endDate": "1924",
+                "alumniOf": "Mechanical and Structural Engineering"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Ford Motor Co Fordson Plant",
+                "location": "Detroit, Michigan, USA",
+                "startDate": "1925",
+                "endDate": "1926",
+                "jobTitle": "Drafter"
+            },
+            {
+                "@type": "Organization",
+                "name": "Detroit Edison Co",
+                "location": "Detroit, Michigan, USA",
+                "startDate": "1926",
+                "endDate": "1928",
+                "jobTitle": "Designer"
+            },
+            {
+                "@type": "Organization",
+                "name": "Mechanical Handling Systems Inc",
+                "location": "Detroit, Michigan, USA",
+                "startDate": "1928",
+                "jobTitle": "Drafter"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Svenska Fläktfabriken",
+                "location": "Stockholm",
+                "startDate": "1929",
+                "endDate": "1930",
+                "jobTitle": "Quotation and Estimation"
+            },
+            {
+                "@type": "Organization",
+                "name": "City of Stockholm Street Department",
+                "location": "Stockholm",
+                "startDate": "1930",
+                "endDate": "1934",
+                "jobTitle": "Civil Engineer"
+            },
+            {
+                "@type": "Organization",
+                "name": "Stockholm Technical Institute",
+                "location": "Stockholm",
+                "startDate": "1934",
+                "jobTitle": "Engineering Instructor"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Iföverken",
+                "location": "Bromölla",
+                "startDate": "1935",
+                "jobTitle": "Construction Engineer"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Swedish Society of Engineers"
+        }
+    },
+    "occupations": {
+        "career": {
+            "occupational_title": "Student",
+            "workplace": "Royal Institute of Technology",
+            "industry": "Education",
+            "start_date": "1920"
+        }
+    }
+}

@@ -1,29 +1,21 @@
 {
     "original": "FRÖSEL.L,, Sven Erik, Kontorschef, Nyköping, f Sthlm 18/4 10 av lärov.adj E F o Lena Nyström, gm Margit Possman. Studex 28, DHS 33, spec.stud nation.ek o statist StHS 35 —36. Anst P A Norstedt &amp; Söner 29—31, Rietz Pappers AB 33—37, Maskinaff Carl Lamm AB 37—40, org.uppdr i Stat krigsförsäkr.nmd 40, AB Åtvidabergs Ind 41—42, kont.ch Wedholms, Sv Mejeriernas Maskinfabr, AB, sed. 42. Resor: Danm, Tyskl 30, Tyskl, Frankr 32, 33, Tyskl 38. Frimurare, Odd Fellow. Hobby: Språkstudier.",
-    "translated": "FRÖSEL.L., Sven Erik, Office Manager, Nyköping, born in Stockholm on April 18, 1910, son of the schoolteacher E F and Lena Nyström, married to Margit Possman. Graduated from high school in 1928, completed studies in economic and statistical sciences at the National College of Advanced Studies in 1933, and specialized studies in economics and statistics at the Stockholm School of Economics in 1935-1936. Employed at P A Norstedt & Söner from 1929-1931, worked at Rietz Pappers AB from 1933-1937, Carl Lamm AB Machinery Store from 1937-1940, had organizational assignments in the State War Insurance Committee in 1940, worked at AB Åtvidabergs Ind from 1941-1942, and has been an office manager at Wedholms, Swedish Dairy Machinery Factory, AB since 1942. Traveled to Denmark and Germany in 1930, Germany and France in 1932 and 1933, and Germany in 1938. Member of Freemasons and Odd Fellows. Hobby: Language studies.",
+    "translated": "FRÖSEL.L,, Sven Erik, Office Manager, Nyköping, b. Sthlm (Stockholm) 18/4 1910, son of a school teacher E F and Lena Nyström, married to Margit Possman. Graduated high school 1928, attended the Royal Institute of Technology 1933, specialized in economics and statistics at Stockholm University 1935-1936. Worked at P A Norstedt & Sons 1929-1931, Rietz Pappers AB 1933-1937, Maskinaff Carl Lamm AB 1937-1940, appointed to an assignment in the State War Insurance Committee 1940, AB Åtvidabergs Ind 1941-1942, currently working as an office manager at Wedholms, Sv Mejeriernas Maskinfabr, AB since 1942. Travelled to Denmark and Germany in 1930, Germany and France in 1932 and 1933, Germany again in 1938. Member of the Freemasons and the Odd Fellow organization. Hobby: Language studies.",
     "structured": {
         "@context": "https://schema.org",
         "@type": "Person",
-        "givenName": "Sven Erik",
-        "familyName": "Frösel.L.",
+        "name": "Sven Erik Frösel",
         "jobTitle": "Office Manager",
         "address": {
             "@type": "PostalAddress",
             "addressLocality": "Nyköping"
         },
         "birthDate": "1910-04-18",
-        "birthPlace": {
-            "@type": "Place",
-            "address": {
-                "@type": "PostalAddress",
-                "addressLocality": "Stockholm"
-            }
-        },
-        "parents": [
+        "birthPlace": "Stockholm",
+        "parent": [
             {
                 "@type": "Person",
-                "name": "E F",
-                "jobTitle": "Schoolteacher"
+                "name": "E F"
             },
             {
                 "@type": "Person",
@@ -37,87 +29,66 @@
         "education": [
             {
                 "@type": "EducationalOccupationalCredential",
-                "credentialCategory": "High school diploma",
-                "educationalLevel": "Graduated from high school",
-                "yearAwarded": "1928"
+                "credentialCategory": "Secondary",
+                "credentialDate": "1928"
             },
             {
                 "@type": "EducationalOccupationalCredential",
-                "credentialCategory": "Certificate",
-                "educationalLevel": "Economic and statistical sciences",
-                "awardingInstitution": "National College of Advanced Studies",
-                "yearAwarded": "1933"
-            },
-            {
-                "@type": "EducationalOccupationalCredential",
-                "credentialCategory": "Certificate",
-                "educationalLevel": "Specialized studies in economics and statistics",
-                "awardingInstitution": "Stockholm School of Economics",
-                "yearAwarded": "1936"
+                "credentialCategory": "Bachelor's",
+                "credentialSubject": "Economics",
+                "credentialDate": "1933"
             }
         ],
-        "employmentHistory": [
+        "work": [
             {
-                "@type": "OrganizationRole",
+                "@type": "Organization",
+                "name": "P A Norstedt & Sons",
                 "startDate": "1929",
-                "endDate": "1931",
-                "organization": {
-                    "@type": "Organization",
-                    "name": "P A Norstedt & Söner"
-                },
-                "roleName": "Employee"
+                "endDate": "1931"
             },
             {
-                "@type": "OrganizationRole",
+                "@type": "Organization",
+                "name": "Rietz Pappers AB",
                 "startDate": "1933",
-                "endDate": "1937",
-                "organization": {
-                    "@type": "Organization",
-                    "name": "Rietz Pappers AB"
-                },
-                "roleName": "Employee"
+                "endDate": "1937"
             },
             {
-                "@type": "OrganizationRole",
+                "@type": "Organization",
+                "name": "Maskinaff Carl Lamm AB",
                 "startDate": "1937",
-                "endDate": "1940",
-                "organization": {
-                    "@type": "Organization",
-                    "name": "Carl Lamm AB Machinery Store"
-                },
-                "roleName": "Employee"
+                "endDate": "1940"
             },
             {
-                "@type": "OrganizationRole",
-                "startDate": "1940",
-                "organization": {
-                    "@type": "Organization",
-                    "name": "State War Insurance Committee"
-                },
-                "roleName": "Organizational Assignments"
+                "@type": "Organization",
+                "name": "State War Insurance Committee",
+                "startDate": "1940"
             },
             {
-                "@type": "OrganizationRole",
+                "@type": "Organization",
+                "name": "AB Åtvidabergs Ind",
                 "startDate": "1941",
-                "endDate": "1942",
-                "organization": {
-                    "@type": "Organization",
-                    "name": "AB Åtvidabergs Ind"
-                },
-                "roleName": "Employee"
+                "endDate": "1942"
             },
             {
-                "@type": "OrganizationRole",
-                "startDate": "1942",
-                "organization": {
-                    "@type": "Organization",
-                    "name": "Wedholms, Swedish Dairy Machinery Factory, AB"
-                },
-                "roleName": "Office Manager"
+                "@type": "Organization",
+                "name": "Wedholms, Sv Mejeriernas Maskinfabr, AB",
+                "startDate": "1942"
             }
         ],
-        "honorificPrefix": "Mr",
-        "nationality": "Swedish",
+        "travelHistory": [
+            {
+                "@type": "Place",
+                "name": "Denmark"
+            },
+            {
+                "@type": "Place",
+                "name": "Germany"
+            },
+            {
+                "@type": "Place",
+                "name": "France"
+            }
+        ],
         "memberOf": [
             {
                 "@type": "Organization",
@@ -125,49 +96,56 @@
             },
             {
                 "@type": "Organization",
-                "name": "Odd Fellows"
+                "name": "Odd Fellow"
             }
         ],
-        "sameAs": [
-            "Hobby: Language studies"
-        ]
+        "hasOccupation": {
+            "@type": "CreativeWork",
+            "name": "Language studies"
+        }
     },
     "occupations": {
         "career": [
             {
                 "occupational_title": "Office Manager",
-                "workplace": "P A Norstedt & Söner",
-                "industry": "Publishing",
+                "workplace": "Nyköping",
+                "industry": null,
+                "start_date": null
+            },
+            {
+                "occupational_title": null,
+                "workplace": "P A Norstedt & Sons",
+                "industry": null,
                 "start_date": "1929"
             },
             {
-                "occupational_title": "Office Manager",
+                "occupational_title": null,
                 "workplace": "Rietz Pappers AB",
-                "industry": "Pulp and Paper",
+                "industry": null,
                 "start_date": "1933"
             },
             {
-                "occupational_title": "Office Manager",
-                "workplace": "Carl Lamm AB Machinery Store",
-                "industry": "Machinery",
+                "occupational_title": null,
+                "workplace": "Maskinaff Carl Lamm AB",
+                "industry": null,
                 "start_date": "1937"
             },
             {
-                "occupational_title": "Organizational Assignments",
+                "occupational_title": null,
                 "workplace": "State War Insurance Committee",
                 "industry": "Government",
                 "start_date": "1940"
             },
             {
-                "occupational_title": "Office Manager",
+                "occupational_title": null,
                 "workplace": "AB Åtvidabergs Ind",
-                "industry": "Industrial",
+                "industry": null,
                 "start_date": "1941"
             },
             {
                 "occupational_title": "Office Manager",
-                "workplace": "Wedholms, Swedish Dairy Machinery Factory, AB",
-                "industry": "Dairy Machinery",
+                "workplace": "Wedholms, Sv Mejeriernas Maskinfabr, AB",
+                "industry": null,
                 "start_date": "1942"
             }
         ]

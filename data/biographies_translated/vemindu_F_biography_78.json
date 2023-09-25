@@ -1,0 +1,75 @@
+{
+    "original": "FLYGER, Gustaf Erik Martin, Disponent, Ängelholm, f 10/11 84 av byggm P F o Ida Svensson, gm Anna Peters. Hal. Anst brygg.-ind 01—05, disp AB Nya Centralbrygg, Oskarsh, 05—30, vkst dir o disp AB Linne-fabr Weco sed. 36. Kommflm. Styr.led Skjort-fabr Bore, Trollh. Frimurare. Hobbies: Jakt, fiske.",
+    "translated": "FLYGER, Gustaf Erik Martin, Manager, Ängelholm, b. 10/11 84 to builder P. F. and Ida Svensson, m. Anna Peters. Worked as a junior employee in the brewery industry from 1901-1905, manager of AB Nya Centralbrygg in Oskarshamn from 1905-1930, executive director and manager of AB Linne-fabr Weco since 1936. Municipal commissioner. Board member of Skjort-fabr Bore in Trollhättan. Freemason. Hobbies: Hunting, fishing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Gustaf Erik Martin Flyger",
+        "jobTitle": "Manager",
+        "birthDate": "1884-11-10",
+        "birthPlace": "Ängelholm",
+        "father": {
+            "@type": "Person",
+            "name": "P. F. Svensson"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Ida Svensson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Anna Peters"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "AB Nya Centralbrygg",
+                "startDate": "1905",
+                "endDate": "1930",
+                "position": "Manager"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Linne-fabr Weco",
+                "startDate": "1936",
+                "position": "Executive Director and Manager"
+            }
+        ],
+        "affiliation": [
+            {
+                "@type": "Organization",
+                "name": "Skjort-fabr Bore",
+                "location": "Trollhättan",
+                "roleName": "Board Member"
+            }
+        ],
+        "sameAs": "https://example.com/gustaf-erik-martin-flyger",
+        "hobbies": [
+            "Hunting",
+            "Fishing"
+        ],
+        "extraMetadata": "Municipal commissioner, Freemason"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Junior employee",
+                "workplace": "Brewery industry",
+                "industry": "Brewery",
+                "start_date": "1901"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "AB Nya Centralbrygg",
+                "industry": "Brewery",
+                "start_date": "1905"
+            },
+            {
+                "occupational_title": "Executive Director and Manager",
+                "workplace": "AB Linne-fabr Weco",
+                "industry": "Textile",
+                "start_date": "1936"
+            }
+        ]
+    }
+}

@@ -1,0 +1,127 @@
+{
+    "original": "GRÖNVALL, Sture Wilhelm, Direktör, Ängelholm, f Ängelholm 25/10 97 av fabr Wilh G 0 Anna Cronvall, gm Marta Larsson. Realex 14. Vkst dir o styr.ordf i AB Wilh Grönvalls Läderfabrik (akt.k 3 milj kr) i Ängelholm, tillika ch f Malmgrens Skoförsäljn AB i Hbg. Styr.led i Sv Garveriid.frn. Huvudm i Ängel-holms Sparbk, styr.led i Skand Bkns avd.-kont. Stdsflm 26, ordf i Ängelholms skollovskoloni.",
+    "translated": "GRÖNVALL, Sture Wilhelm, Director, Ängelholm, born in Ängelholm on 25/10 1897, son of factory owner Wilh G and Anna Cronvall, married to Marta Larsson. Completed secondary education at 14 years old. Became director and chairman of the board of AB Wilh Grönvalls Läderfabrik (capital stock of 3 million SEK) in Ängelholm, as well as chief of Malmgrens Skoförsäljn AB in Helsingborg. Board member of the Swedish Tanners Association. Headmaster of Ängelholm Savings Bank, board member of Skandinaviska Banken's local branch. City council member in Ängelholm since 1926, chairman of Ängelholm's school vacation colony.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Sture Wilhelm Grönvall",
+        "birthDate": "1897-10-25",
+        "birthPlace": "Ängelholm, Sweden",
+        "nationality": "Swedish",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Wilh G Grönvall",
+                "relation": "father"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Cronvall",
+                "relation": "mother"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Marta Larsson"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "secondary",
+            "dateEarned": "1911"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "AB Wilh Grönvalls Läderfabrik",
+                "jobTitle": "Director",
+                "startDate": "1920"
+            },
+            {
+                "@type": "Organization",
+                "name": "Malmgrens Skoförsäljn AB",
+                "jobTitle": "Chief",
+                "startDate": "1920"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Tanners Association",
+                "jobTitle": "Board member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Ängelholms Sparbk",
+                "jobTitle": "Headmaster"
+            },
+            {
+                "@type": "Organization",
+                "name": "Skandinaviska Banken",
+                "jobTitle": "Board member",
+                "department": "Local branch"
+            }
+        ],
+        "politicalCareer": [
+            {
+                "@type": "GovernmentOrganization",
+                "name": "Ängelholm City Council",
+                "jobTitle": "City council member",
+                "startDate": "1926"
+            }
+        ],
+        "otherPositions": [
+            {
+                "@type": "Organization",
+                "name": "Ängelholms skollovskoloni",
+                "jobTitle": "Chairman",
+                "startDate": "1926"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "AB Wilh Grönvalls Läderfabrik",
+                "industry": "Leather manufacturing",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Chairman of the Board",
+                "workplace": "AB Wilh Grönvalls Läderfabrik",
+                "industry": "Leather manufacturing",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Chief",
+                "workplace": "Malmgrens Skoförsäljn AB",
+                "industry": "Shoe sales",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Board member",
+                "workplace": "Swedish Tanners Association",
+                "industry": "Leather industry",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Headmaster",
+                "workplace": "Ängelholm Savings Bank",
+                "industry": "Banking",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Board member",
+                "workplace": "Skandinaviska Banken's local branch",
+                "industry": "Banking",
+                "start_date": null
+            },
+            {
+                "occupational_title": "City council member",
+                "workplace": "Ängelholm",
+                "industry": "Government",
+                "start_date": 1926
+            }
+        ]
+    }
+}

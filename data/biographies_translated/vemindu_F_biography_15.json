@@ -1,0 +1,72 @@
+{
+    "original": "FALEIJ, Karl-Erik, Disponent, Orsa, f Sthlm 2/4 15 av ing A F o Anna Andersson, gm Wilma Rhodin. Solbaqka lärov, Bar-Lock-inst. Chef f AB Orsa Spisbrödsfabr (gr 30X sed. 36, Orsa Cementvarufabr sed. 38, Ena Kvarn sed. 40.",
+    "translated": "FALEIJ, Karl-Erik, Manager, Orsa, born in Stockholm on April 2, 1915, son of engineer A F and Anna Andersson. Married to Wilma Rhodin. Graduate of Solbaqka School, Bar-Lock Institute. Chief executive of AB Orsa Spisbrödsfabrik (since 1930s), Orsa Cement Factory (since 1938), Ena Mill (since 1940).",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Karl-Erik Faleij",
+        "birthDate": "1915-04-02",
+        "birthPlace": "Stockholm",
+        "father": {
+            "@type": "Person",
+            "name": "A F Faleij"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Anna Andersson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Wilma Rhodin"
+        },
+        "education": [
+            {
+                "@type": "School",
+                "name": "Solbaqka lärov"
+            },
+            {
+                "@type": "Organization",
+                "name": "Bar-Lock-inst"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "AB Orsa Spisbrödsfabrik",
+                "startDate": "1930s"
+            },
+            {
+                "@type": "Organization",
+                "name": "Orsa Cementvarufabr",
+                "startDate": "1938"
+            },
+            {
+                "@type": "Organization",
+                "name": "Ena Kvarn",
+                "startDate": "1940"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Manager",
+                "workplace": "AB Orsa Spisbrödsfabrik",
+                "industry": "Food production",
+                "start_date": "1930s"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Orsa Cement Factory",
+                "industry": "Construction materials",
+                "start_date": "1938"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Ena Mill",
+                "industry": "Food production",
+                "start_date": "1940"
+            }
+        ]
+    }
+}

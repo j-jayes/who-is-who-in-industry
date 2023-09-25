@@ -1,0 +1,162 @@
+{
+    "original": "GULLANDER, Eric Gustaf Ragnar, Direktör, Stockholm, f Gbg- 27/9 82 av grhdl G E G o Mary Young, gm Signe Gustafson. Tekn stud 99—02, e. elev KTH 02—04. Ass KTH :s mtrlprovn.anst 02, l:e ass v dess mek lab 07— 10, ch f AB Axel Christiernssons oljefabr :r o oljeavd 10—23, vkst dir i AB Gullander &amp; Co oljeimp Sthlm sed. 26. Styr.led AB Sv Oljeind 16—19. Sakk h o ch f Stat ind.kommiss :s oljeavd 16—19, sakk.led Riksvärderingsnmdn fr 17. Led Sv Tekn.frn sed. 09.",
+    "translated": "GULLANDER, Eric Gustaf Ragnar, Director, Stockholm, b. in Gothenburg on September 27, 1882, son of the merchant Gustaf Erik Gustafsson and Mary Young, married Signe Gustafson. Technical studies from 1899 to 1902, former student at the Royal Institute of Technology (KTH) from 1902 to 1904. Assistant at KTH's material testing institute in 1902, first assistant at its mechanical laboratory from 1907 to 1910, then head of AB Axel Christiernsson's oil factory and oil department from 1910 to 1923, and later CEO of AB Gullander & Co, an oil importing company in Stockholm since 1926. Board member of AB Swedish Oil Industry from 1916 to 1919. Expert and head of the oil department at the State Industrial Commission from 1916 to 1919, expert member of the National Valuation Board from 1917 onward. Member of the Swedish Society of Engineering since 1909. Note: The abbreviation \"sed.\" indicates that he is still a member of the mentioned organization at the time of writing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Eric Gustaf Ragnar Gullander",
+        "jobTitle": "Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "birthDate": "1882-09-27",
+        "birthPlace": "Gothenburg",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Gustaf Erik Gustafsson"
+            },
+            {
+                "@type": "Person",
+                "name": "Mary Young"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Signe Gustafson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalProgram",
+                "educationalLevel": "Technical studies",
+                "startDate": "1899",
+                "endDate": "1902"
+            },
+            {
+                "@type": "EducationalOccupationalProgram",
+                "educationalLevel": "Royal Institute of Technology",
+                "startDate": "1902",
+                "endDate": "1904"
+            }
+        ],
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Assistant",
+                "startDate": "1902",
+                "endDate": "unknown",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "KTH's Material Testing Institute"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "First Assistant",
+                "startDate": "1907",
+                "endDate": "1910",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "KTH's Mechanical Laboratory"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Head",
+                "startDate": "1910",
+                "endDate": "1923",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Axel Christiernsson's Oil Factory and Oil Department"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "CEO",
+                "startDate": "1926",
+                "endDate": "unknown",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Gullander & Co"
+                }
+            }
+        ],
+        "membership": [
+            {
+                "@type": "Membership",
+                "startDate": "1909",
+                "endDate": "unknown",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Swedish Society of Engineering"
+                }
+            },
+            {
+                "@type": "Membership",
+                "startDate": "1916",
+                "endDate": "1919",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Swedish Oil Industry"
+                }
+            }
+        ],
+        "expertise": [
+            {
+                "@type": "Expertise",
+                "description": "Head of the oil department",
+                "startDate": "1916",
+                "endDate": "1919",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "State Industrial Commission"
+                }
+            },
+            {
+                "@type": "Expertise",
+                "description": "Expert member",
+                "startDate": "1917",
+                "endDate": "unknown",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "National Valuation Board"
+                }
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Assistant",
+                "workplace": "KTH's material testing institute",
+                "industry": "Education",
+                "start_date": "1902"
+            },
+            {
+                "occupational_title": "First Assistant",
+                "workplace": "KTH's mechanical laboratory",
+                "industry": "Education",
+                "start_date": "1907"
+            },
+            {
+                "occupational_title": "Head",
+                "workplace": "AB Axel Christiernsson's oil factory",
+                "industry": "Oil",
+                "start_date": "1910"
+            },
+            {
+                "occupational_title": "Head",
+                "workplace": "AB Axel Christiernsson's oil department",
+                "industry": "Oil",
+                "start_date": "1910"
+            },
+            {
+                "occupational_title": "CEO",
+                "workplace": "AB Gullander & Co",
+                "industry": "Oil importing",
+                "start_date": "1926"
+            }
+        ]
+    }
+}

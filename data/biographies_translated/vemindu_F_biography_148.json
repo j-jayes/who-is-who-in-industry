@@ -1,62 +1,72 @@
 {
     "original": "FRENDELIUS, Ewert Carl Gustav, Civilingenjör, Borås, f Hallstahammar 6/12 06, gm Ingri Bjurquist. Studex, civ.ing KTH, hdlssk i London. Anst Bultfabr.AB Hallsth 33, driftsing AB Sv Konstsilke, Borås, sed. 34. Styr.led Tekn frb, Borås, medl Sv Teknol.-frn. Resor: Engl 27—28, Tyskl 28—29. Hobby: Tennis.",
-    "translated": "FRENDELIUS, Ewert Carl Gustav, Civil Engineer, Borås, born in Hallstahammar on December 6th, 1906, married Ingri Bjurquist. Graduated, civil engineering, Royal Institute of Technology (KTH), business school in London. Employed at Bultfabr.AB Hallsth 1933, then worked as a process engineer at AB Sv Konstsilke in Borås from 1934. Board member of the Technical Association, Borås, and member of the Swedish Technological Association. Traveled to England in 1927-1928 and Germany in 1928-1929. Hobby: Tennis.",
+    "translated": "FRENDELIUS, Ewert Carl Gustav, Civil Engineer, Borås, b Hallstahammar 6/12 06, m Ingri Bjurquist. Graduated, civil engineering KTH, business school in London. Employed at Bultfabr.AB Hallsth 33, operating engineer at AB Sv Konstsilke, Borås, since 34. Board member of Tekn frb, Borås, member of the Swedish Technological Association. Travel: England 27-28, Germany 28-29. Hobby: Tennis.",
     "structured": {
         "@context": "https://schema.org",
         "@type": "Person",
-        "name": "Ewert Carl Gustav Brendelius",
+        "givenName": "Ewert",
+        "additionalName": "Carl Gustav",
+        "familyName": "Frendelius",
         "jobTitle": "Civil Engineer",
-        "birthPlace": "Hallstahammar",
         "birthDate": "1906-12-06",
+        "birthPlace": "Hallstahammar",
         "nationality": "Swedish",
         "spouse": {
             "@type": "Person",
             "name": "Ingri Bjurquist"
         },
-        "education": {
-            "@type": "EducationalOccupationalCredential",
-            "degree": "Civil Engineering",
-            "alumniOf": {
-                "@type": "CollegeOrUniversity",
-                "name": "Royal Institute of Technology (KTH)"
-            }
-        },
-        "employmentHistory": [
+        "alumniOf": [
             {
-                "@type": "OrganizationRole",
-                "startDate": "1933",
-                "endDate": null,
-                "namedPosition": "Process Engineer",
-                "memberOf": {
-                    "@type": "Organization",
-                    "name": "AB Sv Konstsilke"
-                }
+                "@type": "CollegeOrUniversity",
+                "name": "KTH",
+                "location": "Stockholm, Sweden"
             },
             {
-                "@type": "OrganizationRole",
-                "startDate": "1934",
-                "endDate": null,
-                "namedPosition": "Board member",
-                "memberOf": {
-                    "@type": "Organization",
-                    "name": "Technical Association, Borås"
-                }
+                "@type": "EducationalOrganization",
+                "name": "Business School",
+                "location": "London, United Kingdom"
             }
         ],
-        "memberOf": {
-            "@type": "Organization",
-            "name": "Swedish Technological Association"
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "Bultfabr.AB Hallsth",
+                "startDate": "1933"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Sv Konstsilke",
+                "location": "Borås",
+                "startDate": "1934",
+                "jobTitle": "Operating Engineer"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Tekn frb",
+                "location": "Borås",
+                "roleName": "Board member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Technological Association",
+                "location": "Sweden",
+                "roleName": "Member"
+            }
+        ],
+        "hasOccupation": {
+            "@type": "Occupation",
+            "name": "Civil Engineer"
         },
         "hobbies": [
             "Tennis"
         ],
-        "knownLanguages": [
-            "Swedish",
-            "English",
-            "German"
-        ],
         "knowsAbout": [
-            "Tennis"
+            "Civil Engineering"
+        ],
+        "sameAs": [
+            "https://www.example.com/ewert-frendelius"
         ]
     },
     "occupations": {
@@ -64,24 +74,12 @@
             {
                 "occupational_title": "Civil Engineer",
                 "workplace": "Borås",
-                "industry": null,
-                "start_date": null
+                "industry": "Engineering",
+                "start_date": "Unknown"
             },
             {
-                "occupational_title": "Graduated",
-                "workplace": "Royal Institute of Technology (KTH)",
-                "industry": null,
-                "start_date": null
-            },
-            {
-                "occupational_title": "Civil Engineer",
-                "workplace": "Business school in London",
-                "industry": null,
-                "start_date": null
-            },
-            {
-                "occupational_title": "Process Engineer",
-                "workplace": "AB Sv Konstsilke",
+                "occupational_title": "Operating Engineer",
+                "workplace": "AB Sv Konstsilke, Borås",
                 "industry": "Textile",
                 "start_date": "1934"
             }

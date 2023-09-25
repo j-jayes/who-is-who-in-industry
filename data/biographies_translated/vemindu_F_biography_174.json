@@ -1,34 +1,39 @@
 {
     "original": "FRISTEDT, Knut Albrekt (Alle), Konsul, Norrköping, f Linköping 12/4 72 av kr.läns-man Aug Fristedt o Anna Crona, gm Karin Ekstam. Studex Linkp. Anst fma Axel Andersén &amp; Co Nrkp 91, delas sed. 00, vkst dir clta AB:s Eftr sed. 10. Tjeckoslov kons sed. 24. Kyrkovärd, kyrkoråd. Led lokal- o centralstyr f östgötabkn, styr.led J Fristedts AB, Ögl ind- o hdlskamm, Tjeckoslov hdlskamm Sthlm, led Gustavianska stift f ungdomsvård, Reuterskiöldska Barnhusinrättn mfl. Resor 1 de fi eur länd. RVO, TjslVLO. Hobbies: Lantbruk, filateli.",
-    "translated": "FRISTEDT, Knut Albrekt (Alle), Consul, Norrköping, b. Linköping 12/4 1872, son of the county magistrate Aug Fristedt and Anna Crona, m. Karin Ekstam. Graduated in Linköping. Employed at Axel Andersén & Co in Norrköping since 1891, became a partner in 1900, and became a managing director at AB:s Eftr (shortened name) in 1910. Consul of Czechoslovakia since 1924. Church warden, church council member. Member of the board for local and central East Göta Bank, board member of J Fristedts AB, Östergötland Industrial and Commerce Chamber, Czechoslovak Commerce Chamber Stockholm, member of Gustavianska Foundation for Youth Care, Reuterskiöld's Orphanage, and others. Traveled extensively in Europe. Awarded with RVO (Order of the Polar Star) and TjslVLO (Czechoslovakian Order). Hobbies: Agriculture, philately.",
+    "translated": "FRISTEDT, Knut Albrekt (Alle), Consul, Norrköping, born in Linköping on April 12, 1872, son of county officer Aug Fristedt and Anna Crona, married to Karin Ekstam. Graduated from Linköping High School. Employee at Axel Andersén & Co in Norrköping in 1891, later became a managing director and partner in the company. Appointed Consul of Czechoslovakia in 1924. Churchwarden, member of the church council. Member of the local and central boards of Östgöta Bank, board member of J Fristedts AB, Öglind Industrial and Trade Chamber, Czechoslovak Trade Chamber in Stockholm, and the Gustavianska Foundation for Youth Welfare, Reuterskiöld's Children's Institution, among others. Traveled extensively throughout Europe. Recipient of the Order of the Polar Star (RVO) and the Swedish Medal for Distinguished Service (TjslVLO). Hobbies: Agriculture, philately.",
     "structured": {
         "@context": "https://schema.org",
         "@type": "Person",
-        "name": "FRISTEDT, Knut Albrekt (Alle)",
-        "givenName": "Knut Albrekt",
-        "additionalName": "Alle",
-        "familyName": "FRISTEDT",
+        "name": "Knut Albrekt Fristedt",
         "birthDate": "1872-04-12",
         "birthPlace": "Linköping",
-        "father": {
-            "@type": "Person",
-            "name": "Aug Fristedt",
-            "jobTitle": "County Magistrate"
-        },
-        "mother": {
-            "@type": "Person",
-            "name": "Anna Crona"
-        },
+        "description": "Consul in Norrköping",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Aug Fristedt",
+                "jobTitle": "County Officer"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Crona"
+            }
+        ],
         "spouse": {
             "@type": "Person",
             "name": "Karin Ekstam"
         },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "link:Studex",
+            "educationalLevel": "link:Linkoping High School"
+        },
         "work": [
             {
                 "@type": "OrganizationRole",
+                "roleName": "Employee",
                 "startDate": "1891",
                 "endDate": "1900",
-                "roleName": "Employee",
                 "organization": {
                     "@type": "Organization",
                     "name": "Axel Andersén & Co"
@@ -36,27 +41,18 @@
             },
             {
                 "@type": "OrganizationRole",
-                "startDate": "1900",
-                "endDate": "1910",
-                "roleName": "Partner",
-                "organization": {
-                    "@type": "Organization",
-                    "name": "Axel Andersén & Co"
-                }
-            },
-            {
-                "@type": "OrganizationRole",
-                "startDate": "1910",
                 "roleName": "Managing Director",
+                "startDate": "1910",
+                "endDate": "present",
                 "organization": {
                     "@type": "Organization",
-                    "name": "AB:s Eftr"
+                    "name": "AB's Eftr"
                 }
             },
             {
                 "@type": "OrganizationRole",
-                "startDate": "1924",
                 "roleName": "Consul",
+                "startDate": "1924",
                 "organization": {
                     "@type": "Organization",
                     "name": "Czechoslovakia"
@@ -66,52 +62,57 @@
         "memberOf": [
             {
                 "@type": "Organization",
-                "name": "Church",
-                "roleName": "Warden"
+                "name": "Östgöta Bank",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "East Central Bank Directors"
+                }
             },
             {
                 "@type": "Organization",
-                "name": "Church Council"
+                "name": "J Fristedts AB"
             },
             {
                 "@type": "Organization",
-                "name": "East Göta Bank",
-                "roleName": "Board Member"
+                "name": "Öglind Industrial and Trade Chamber"
             },
             {
                 "@type": "Organization",
-                "name": "J Fristedts AB",
-                "roleName": "Board Member"
+                "name": "Czechoslovak Trade Chamber in Stockholm"
             },
             {
                 "@type": "Organization",
-                "name": "Östergötland Industrial and Commerce Chamber",
-                "roleName": "Board Member"
+                "name": "Gustavianska Foundation for Youth Welfare"
             },
             {
                 "@type": "Organization",
-                "name": "Czechoslovak Commerce Chamber Stockholm",
-                "roleName": "Board Member"
-            },
-            {
-                "@type": "Organization",
-                "name": "Gustavianska Foundation for Youth Care",
-                "roleName": "Board Member"
-            },
-            {
-                "@type": "Organization",
-                "name": "Reuterskiöld's Orphanage",
-                "roleName": "Board Member"
+                "name": "Reuterskiöld's Children's Institution"
             }
         ],
-        "nationality": "Swedish",
-        "sameAs": [
-            "RVO",
-            "TjslVLO"
+        "travelHistory": "Traveled extensively throughout Europe",
+        "award": [
+            {
+                "@type": "Order",
+                "name": "Order of the Polar Star",
+                "awardDate": "unknown",
+                "identifier": "RVO"
+            },
+            {
+                "@type": "Medal",
+                "name": "Swedish Medal for Distinguished Service",
+                "awardDate": "unknown",
+                "identifier": "TjslVLO"
+            }
         ],
-        "hobbies": [
-            "Agriculture",
-            "Philately"
+        "hasOccupation": [
+            {
+                "@type": "Occupation",
+                "name": "Agriculture"
+            },
+            {
+                "@type": "Occupation",
+                "name": "Philately"
+            }
         ]
     },
     "occupations": {
@@ -123,21 +124,15 @@
                 "start_date": "1891"
             },
             {
-                "occupational_title": "Partner",
-                "workplace": "Axel Andersén & Co",
+                "occupational_title": "Managing Director",
+                "workplace": "Unknown",
                 "industry": "Unknown",
                 "start_date": "1900"
             },
             {
-                "occupational_title": "Managing Director",
-                "workplace": "AB:s Eftr",
-                "industry": "Unknown",
-                "start_date": "1910"
-            },
-            {
-                "occupational_title": "Consul",
-                "workplace": "Czechoslovakia",
-                "industry": "Unknown",
+                "occupational_title": "Consul of Czechoslovakia",
+                "workplace": "Unknown",
+                "industry": "Diplomatic",
                 "start_date": "1924"
             }
         ]

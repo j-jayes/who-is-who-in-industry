@@ -1,0 +1,121 @@
+{
+    "original": "FRITSCH, Sven Otto, Konsul, Landskrona, £ Lkrona 24/3 07 av kons C F o Sophie Sörensen, gm Ingrid Bunke. HHS, dess stip f aff.prakt i Tyskl, Frankr o Engl. Disp AB Silos, Lkrona, sed. 32. Eg föret: Fma S Fritsch, Lkrona (gr av f arf ad, kons W F, 78, spannmhdl, ångb.komm, försäkr.ag). Styr.-led AB Silos. Ordf Ungsv frn, Lkrona. Resor: Tyskl 26, Frankr o Engl 31—32. Hobby: Golf.",
+    "translated": "FRITSCH, Sven Otto, Consul, Landskrona, £ Lkrona 24/3 07, son of Consul C F and Sophie Sörensen, married Ingrid Bunke. Completed studies at HHS and received scholarships for practical work in Germany, France, and England. Holds a dispensation from AB Silos, Landskrona, since 1932. Also operates own business: Fma S Fritsch, Landskrona (inheritance from father, Consul W F, born in 1878, grain merchant, steamboat committee member, insurance company). Serves as board member and leader of the Young Society in Landskrona. Travels: Germany in 1926, France and England in 1931-1932. Hobby: Golf. Note: The format 'dd m. partners name' indicates marriage in the year 19xx.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Sven Otto Fritsch",
+        "birthDate": "24/3/1907",
+        "birthPlace": "Landskrona",
+        "jobTitle": "Consul",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "C F Fritsch",
+                "jobTitle": "Consul"
+            },
+            {
+                "@type": "Person",
+                "name": "Sophie Sörensen"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ingrid Bunke"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "HHS"
+        },
+        "alumniOf": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "HHS"
+            }
+        ],
+        "scholarships": [
+            {
+                "@type": "Scholarship",
+                "description": "Affiliated practical work in Germany, France, and England."
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "AB Silos",
+                "startDate": "1932"
+            },
+            {
+                "@type": "Organization",
+                "name": "Fma S Fritsch",
+                "description": "Own business inherited from father, Consul W F",
+                "startDate": "1878",
+                "endDate": "spannmhdl, ångb.komm, försäkr.ag"
+            },
+            {
+                "@type": "Organization",
+                "name": "Ungsv frn",
+                "description": "Board member of the Young Society",
+                "location": "Landskrona"
+            }
+        ],
+        "hobby": "Golf",
+        "travelHistory": [
+            {
+                "@type": "Place",
+                "name": "Germany",
+                "date": "1926"
+            },
+            {
+                "@type": "Place",
+                "name": "France",
+                "date": "1931-1932"
+            },
+            {
+                "@type": "Place",
+                "name": "England",
+                "date": "1931-1932"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Consul",
+                "workplace": "Landskrona",
+                "industry": "Diplomatic Service",
+                "start_date": "Before 1907"
+            },
+            {
+                "occupational_title": "Scholarship recipient",
+                "workplace": "Germany",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Scholarship recipient",
+                "workplace": "France",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Scholarship recipient",
+                "workplace": "England",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Dispensation holder",
+                "workplace": "AB Silos, Landskrona",
+                "industry": "Unknown",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Business Owner",
+                "workplace": "Fma S Fritsch, Landskrona",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

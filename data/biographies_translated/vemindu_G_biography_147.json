@@ -1,0 +1,106 @@
+{
+    "original": "GUSTAFSON, Karl Gösta, Kamrer, Ålsten, f Sthlm 16/1 02 av tjm K A G o h h, f Åkerlind, gm Halina Niewiarowska. Schartaus. Anst Knut Karlsson &amp; Co AB 20—21, Ternström &amp; Roos AB 22—24, ASEA V.ås 24—28, Warszawa 28—39, Sthlm sed. 39. Ag villa-fastgh Ålsten. Ordf ASEA:s skyttefrn, kas-saförv ASEA:s idr.frn.",
+    "translated": "GUSTAFSON, Karl Gösta, Accountant, Ålsten, born in Stockholm on January 16, 1902, son of Civil Servant K A G and housewife H H, born Åkerlind, married to Halina Niewiarowska. Attended Schartaus school. Employed at Knut Karlsson & Co AB 1920-1921, Ternström & Roos AB 1922-1924, ASEA Västerås 1924-1928, Warsaw 1928-1939, Stockholm since 1939. Lives in a villa in Ålsten. Chairman of ASEA's Shooting Association, Treasurer of ASEA's Sports Club.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Karl Gösta Gustafson",
+        "birthDate": "1902-01-16",
+        "birthPlace": "Stockholm",
+        "parent": {
+            "@type": "Person",
+            "name": "H H",
+            "jobTitle": "Housewife"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Halina Niewiarowska"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Schartaus school"
+        },
+        "jobTitle": "Accountant",
+        "workHistory": [
+            {
+                "@type": "Organization",
+                "name": "Knut Karlsson & Co AB",
+                "startDate": "1920",
+                "endDate": "1921"
+            },
+            {
+                "@type": "Organization",
+                "name": "Ternström & Roos AB",
+                "startDate": "1922",
+                "endDate": "1924"
+            },
+            {
+                "@type": "Organization",
+                "name": "ASEA Västerås",
+                "startDate": "1924",
+                "endDate": "1928"
+            },
+            {
+                "@type": "Organization",
+                "name": "Warsaw",
+                "startDate": "1928",
+                "endDate": "1939"
+            },
+            {
+                "@type": "Organization",
+                "name": "Stockholm"
+            }
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Ålsten"
+        },
+        "homeOwnership": "villa",
+        "affiliations": [
+            {
+                "@type": "Organization",
+                "name": "ASEA's Shooting Association",
+                "jobTitle": "Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "ASEA's Sports Club",
+                "jobTitle": "Treasurer"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Accountant",
+                "workplace": "Knut Karlsson & Co AB",
+                "industry": "Unknown",
+                "start_date": "1920-01-01"
+            },
+            {
+                "occupational_title": "Accountant",
+                "workplace": "Ternström & Roos AB",
+                "industry": "Unknown",
+                "start_date": "1922-01-01"
+            },
+            {
+                "occupational_title": "Accountant",
+                "workplace": "ASEA Västerås",
+                "industry": "Unknown",
+                "start_date": "1924-01-01"
+            },
+            {
+                "occupational_title": "Accountant",
+                "workplace": "Warsaw",
+                "industry": "Unknown",
+                "start_date": "1928-01-01"
+            },
+            {
+                "occupational_title": "Accountant",
+                "workplace": "Stockholm",
+                "industry": "Unknown",
+                "start_date": "1939-01-01"
+            }
+        ]
+    }
+}

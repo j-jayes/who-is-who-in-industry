@@ -1,179 +1,210 @@
 {
     "original": "FRICK, Bo Rudolf, Direktör, Stockholm, f Jkp 1/10 94 av v. hhövd N F o Gertrud Hay, gm Helena Mannerhjärta. Studex 13, jur kand 21, fil kand 22. Tingstjg 22, tjm i bankirfma Merck, Finck &amp; Co Munchen 22—23, i Banque de Suéde et de Paris i Paris 23—24, i bankirfma J Henry Schröder &amp; Co London 24—25, i Sv hdlsbkn Sthlm 25—28, vkst dir Allm kred.försäkrs.AB Sthlm 29—34, sekr i exp.-kreditnmdn 33 o vkst dir där sed. 39, tillika vkst dir AB Industrikredit sed. 34. Sakk v förh i Moskva o Riga 41, suppl i clear.nmdn sed. 39. Res i off uppdr t Norge, Danm, Lettl, Tyskl, Engl, Frankr, Schweiz, Tjeckoslov 34—39. • Av trycket: Upps i facktidskr rör off o priv kred.försäkr. RNO, RVO.",
-    "translated": "FRICK, Bo Rudolf, Director, Stockholm, b. Jönköping October 1, 1894, son of Vice Headmaster N F and Gertrud Hay, m. Helena Mannerheart. Graduated from high school at the age of 13, obtained a law degree in 1921, and a philosophy degree in 1922. Worked for the court in 1922, served as an employee in the banking firm Merck, Finck & Co in Munich from 1922 to 1923, worked in Banque de Suède et de Paris in Paris from 1923 to 1924, worked in the banking firm J Henry Schröder & Co in London from 1924 to 1925, worked at Sv handelsbanken Stockholm from 1925 to 1928, served as a managing director of Allmänna kreditförsäkrings AB Stockholm from 1929 to 1934, served as a secretary in the export credit board from 1933 and as a managing director there since 1939, also served as a managing director of AB Industrikredit since 1934. Served as an expert in Moscow and Riga in 1941, and as a substitute in the clearing board since 1939. Made official visits to Norway, Denmark, Latvia, Germany, England, France, Switzerland, and Czechoslovakia from 1934 to 1939. Published in specialized journals on official and private credit insurance. Recipient of the Royal Norwegian Order of St. Olav and the Order of Vasa.",
+    "translated": "FRICK, Bo Rudolf, Director, Stockholm, b. Jönköping 1/10 1894 to father H. Head N. F. and Gertrud Hay, m. Helena Mannerhjärta. Graduated at the age of 13, law degree in 1921, philosophy degree in 1922. Court clerk in 1922, employee at the banking firm Merck, Finck & Co in Munich 22-23, at Banque de Suéde et de Paris in Paris 23-24, at the banking firm J Henry Schröder & Co in London 24-25, at Sv hdlsbkn in Stockholm 25-28, assistant director at Allmänna kreditförsäkrings AB in Stockholm 29-34, secretary at the export credit committee in 33 and assistant director there since 1939, also assistant director at AB Industrikredit since 1934. Expert advisor in Moscow and Riga 41, substitute in the clear committee since 1939. Traveled on official assignments to Norway, Denmark, Latvia, Germany, England, France, Switzerland, and Czechoslovakia 34-39. • Published in specialized journals on public and private credit insurance. RNO, RVO.",
     "structured": {
         "@context": "https://schema.org",
         "@type": "Person",
         "name": "Bo Rudolf Frick",
-        "jobTitle": "Director",
         "birthDate": "1894-10-01",
-        "birthPlace": "Jönköping",
-        "deathDate": null,
-        "nationality": "Swedish",
+        "birthPlace": "Jönköping, Sweden",
+        "description": "Director, Stockholm",
         "parents": [
             {
-                "@type": "Person",
-                "name": "N. F. Frick",
-                "jobTitle": "Vice Headmaster"
+                "name": "H. Head N. F.",
+                "@type": "Person"
             },
             {
-                "@type": "Person",
-                "name": "Gertrud Hay"
+                "name": "Gertrud Hay",
+                "@type": "Person"
             }
         ],
         "spouse": {
-            "@type": "Person",
-            "name": "Helena Mannerheart"
+            "name": "Helena Mannerhjärta",
+            "@type": "Person"
         },
         "education": [
             {
-                "@type": "EducationalOccupationalCredential",
-                "credentialCategory": "High school",
-                "startDate": null,
-                "endDate": null,
-                "description": "Graduated at the age of 13"
-            },
-            {
-                "@type": "EducationalOccupationalCredential",
-                "credentialCategory": "Law degree",
+                "description": "Law degree",
                 "startDate": "1921",
-                "endDate": null
+                "@type": "EducationalOccupationalCredential"
             },
             {
-                "@type": "EducationalOccupationalCredential",
-                "credentialCategory": "Philosophy degree",
+                "description": "Philosophy degree",
                 "startDate": "1922",
-                "endDate": null
+                "@type": "EducationalOccupationalCredential"
             }
         ],
-        "worksFor": [
+        "employmentHistory": [
             {
-                "@type": "Organization",
-                "name": "Court",
-                "startDate": "1922",
-                "endDate": "1922"
-            },
-            {
-                "@type": "Organization",
-                "name": "Merck, Finck & Co",
+                "employer": "Merck, Finck & Co",
                 "location": "Munich",
                 "startDate": "1922",
-                "endDate": "1923"
+                "endDate": "1923",
+                "@type": "OrganizationRole"
             },
             {
-                "@type": "Organization",
-                "name": "Banque de Suède et de Paris",
+                "employer": "Banque de Suéde et de Paris",
                 "location": "Paris",
                 "startDate": "1923",
-                "endDate": "1924"
+                "endDate": "1924",
+                "@type": "OrganizationRole"
             },
             {
-                "@type": "Organization",
-                "name": "J Henry Schröder & Co",
+                "employer": "J Henry Schröder & Co",
                 "location": "London",
                 "startDate": "1924",
-                "endDate": "1925"
+                "endDate": "1925",
+                "@type": "OrganizationRole"
             },
             {
-                "@type": "Organization",
-                "name": "Sv handelsbanken Stockholm",
+                "employer": "Sv hdlsbkn",
+                "location": "Stockholm",
                 "startDate": "1925",
-                "endDate": "1928"
+                "endDate": "1928",
+                "@type": "OrganizationRole"
             },
             {
-                "@type": "Organization",
-                "name": "Allmänna kreditförsäkrings AB Stockholm",
+                "employer": "Allmänna kreditförsäkrings AB",
+                "location": "Stockholm",
                 "startDate": "1929",
                 "endDate": "1934",
-                "jobTitle": "Managing Director"
+                "@type": "OrganizationRole"
             },
             {
-                "@type": "Organization",
-                "name": "Export Credit Board",
-                "startDate": "1933",
-                "endDate": null,
-                "jobTitle": "Secretary"
-            },
-            {
-                "@type": "Organization",
-                "name": "AB Industrikredit",
+                "employer": "AB Industrikredit",
+                "location": "Stockholm",
                 "startDate": "1934",
-                "endDate": null,
-                "jobTitle": "Managing Director"
+                "@type": "OrganizationRole"
             }
         ],
-        "memberOf": [
+        "roles": [
             {
-                "@type": "Organization",
-                "name": "Clearing Board",
-                "startDate": "1939",
-                "endDate": null,
-                "jobTitle": "Substitute"
-            }
-        ],
-        "expertise": [
-            "Official and private credit insurance"
-        ],
-        "awards": [
-            {
-                "@type": "Order",
-                "name": "Royal Norwegian Order of St. Olav"
+                "title": "Court Clerk",
+                "startDate": "1922",
+                "@type": "OrganizationRole"
             },
             {
-                "@type": "Order",
-                "name": "Order of Vasa"
+                "title": "Assistant Director",
+                "employer": "Allmänna kreditförsäkrings AB",
+                "startDate": "1929",
+                "endDate": "1934",
+                "@type": "OrganizationRole"
+            },
+            {
+                "title": "Secretary",
+                "employer": "Export Credit Committee",
+                "startDate": "1933",
+                "endDate": "1939",
+                "@type": "OrganizationRole"
+            },
+            {
+                "title": "Assistant Director",
+                "employer": "Export Credit Committee",
+                "startDate": "1939",
+                "@type": "OrganizationRole"
+            },
+            {
+                "title": "Expert Advisor",
+                "location": "Moscow and Riga",
+                "startDate": "1941",
+                "@type": "OrganizationRole"
+            },
+            {
+                "title": "Substitute",
+                "employer": "Clear Committee",
+                "startDate": "1939",
+                "@type": "OrganizationRole"
             }
         ],
-        "sameAs": []
+        "travels": [
+            {
+                "countriesVisited": [
+                    "Norway",
+                    "Denmark",
+                    "Latvia",
+                    "Germany",
+                    "England",
+                    "France",
+                    "Switzerland",
+                    "Czechoslovakia"
+                ],
+                "startDate": "1934",
+                "endDate": "1939",
+                "@type": "Trip"
+            }
+        ],
+        "publications": [
+            "Published in specialized journals on public and private credit insurance"
+        ],
+        "honors": [
+            {
+                "name": "RNO"
+            },
+            {
+                "name": "RVO"
+            }
+        ]
     },
     "occupations": {
         "career": [
             {
-                "occupational_title": "Tjm i bankirfma",
+                "occupational_title": "Court clerk",
+                "workplace": "N/A",
+                "industry": "Legal",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Employee",
                 "workplace": "Merck, Finck & Co",
                 "industry": "Banking",
                 "start_date": "1922"
             },
             {
-                "occupational_title": "Tjm i Banque de Suéde et de Paris",
-                "workplace": "Paris",
+                "occupational_title": "Employee",
+                "workplace": "Banque de Suéde et de Paris",
                 "industry": "Banking",
                 "start_date": "1923"
             },
             {
-                "occupational_title": "Tjm i bankirfma J Henry Schröder & Co",
-                "workplace": "London",
+                "occupational_title": "Employee",
+                "workplace": "J Henry Schröder & Co",
                 "industry": "Banking",
                 "start_date": "1924"
             },
             {
-                "occupational_title": "Tjm i Sv hdlsbkn",
-                "workplace": "Stockholm",
+                "occupational_title": "Employee",
+                "workplace": "Sv hdlsbkn",
                 "industry": "Banking",
                 "start_date": "1925"
             },
             {
-                "occupational_title": "Vkst dir Allm kred.försäkrs.AB",
-                "workplace": "Stockholm",
+                "occupational_title": "Assistant Director",
+                "workplace": "Allmänna kreditförsäkrings AB",
                 "industry": "Insurance",
                 "start_date": "1929"
             },
             {
-                "occupational_title": "Sekr i exp.-kreditnmdn",
-                "workplace": "Export Credit Board",
-                "industry": "Government",
+                "occupational_title": "Secretary",
+                "workplace": "Export Credit Committee",
+                "industry": "Finance",
                 "start_date": "1933"
             },
             {
-                "occupational_title": "Vkst dir AB Industrikredit",
-                "workplace": "Stockholm",
+                "occupational_title": "Assistant Director",
+                "workplace": "Export Credit Committee",
+                "industry": "Finance",
+                "start_date": "1939"
+            },
+            {
+                "occupational_title": "Assistant Director",
+                "workplace": "AB Industrikredit",
                 "industry": "Finance",
                 "start_date": "1934"
             },
             {
-                "occupational_title": "Sakk v förh",
-                "workplace": "Moscow",
-                "industry": "Government",
+                "occupational_title": "Expert Advisor",
+                "workplace": "Moscow and Riga",
+                "industry": "N/A",
                 "start_date": "1941"
             }
         ]

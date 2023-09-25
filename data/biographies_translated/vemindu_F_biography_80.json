@@ -1,0 +1,132 @@
+{
+    "original": "FOGELBERG, Oösta Hilding, Ingenjör, Stockholm, f Rödeby, Blek, 12/12 08 av A Hanson o Elin Fogelberg, gm Märta Ca-vallin. Växjö hal, ex Tekn Gymn Örebro 30, reklamstud. Förest AB Växjö El Byrå 30 —31, avd.förest Graham Brothers AB 31—35, dir.ass Skand Osram-Philips Neon AB 35—42, försäljn.ch Nord Gummifabr AB Överman Sundbyberg sed. 42. Upprep res Tyskl, Holl, Österr, Danm, Norge 30—39. Av trycket: Div upps i öl facktidskr. Hobbies: Böcker, fotografi, bilar o motorer.",
+    "translated": "FOGELBERG, Oösta Hilding, Engineer, Stockholm, born in Rödeby, Blekinge, on December 12, 1908, to parents A Hanson and Elin Fogelberg, married to Märta Cavallin. Completed Technical Gymnasium in Örebro in 1930, studied advertising. Served as the manager of AB Växjö El Byrå from 1930 to 1931, department manager at Graham Brothers AB from 1931 to 1935, assistant director at Skand Osram-Philips Neon AB from 1935 to 1942, sales representative at Nord Gummifabr AB, and supervisor in Sundbyberg since 1942. Made repeated trips to Germany, the Netherlands, Austria, Denmark, and Norway from 1930 to 1939. Published various articles in specialized journals. Hobbies: Books, photography, cars, and engines.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Oösta Hilding Fogelberg",
+        "jobTitle": "Engineer",
+        "birthPlace": "Rödeby, Blekinge",
+        "birthDate": "1908-12-12",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "A Hanson"
+            },
+            {
+                "@type": "Person",
+                "name": "Elin Fogelberg"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Märta Cavallin"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Technical Gymnasium",
+                "alumniOf": "Örebro",
+                "endDate": "1930"
+            }
+        ],
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "AB Växjö El Byrå"
+                },
+                "startDate": "1930",
+                "endDate": "1931",
+                "roleName": "Manager"
+            },
+            {
+                "@type": "OrganizationRole",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Graham Brothers AB"
+                },
+                "startDate": "1931",
+                "endDate": "1935",
+                "roleName": "Department Manager"
+            },
+            {
+                "@type": "OrganizationRole",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Skand Osram-Philips Neon AB"
+                },
+                "startDate": "1935",
+                "endDate": "1942",
+                "roleName": "Assistant Director"
+            },
+            {
+                "@type": "OrganizationRole",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Nord Gummifabr AB"
+                },
+                "startDate": "1942",
+                "roleName": "Sales Representative"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Sundbyberg"
+        },
+        "travelsTo": [
+            "Germany",
+            "Netherlands",
+            "Austria",
+            "Denmark",
+            "Norway"
+        ],
+        "article": [
+            {
+                "@type": "Article",
+                "name": "Various articles in specialized journals"
+            }
+        ],
+        "hobbies": [
+            "Books",
+            "Photography",
+            "Cars",
+            "Engines"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "AB Växjö El Byrå",
+                "industry": "Engineering",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Department Manager",
+                "workplace": "Graham Brothers AB",
+                "industry": "Engineering",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Assistant Director",
+                "workplace": "Skand Osram-Philips Neon AB",
+                "industry": "Electronics",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Sales Representative",
+                "workplace": "Nord Gummifabr AB",
+                "industry": "Rubber Manufacturing",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Supervisor",
+                "workplace": "Sundbyberg",
+                "industry": "Unknown",
+                "start_date": "1942"
+            }
+        ]
+    }
+}

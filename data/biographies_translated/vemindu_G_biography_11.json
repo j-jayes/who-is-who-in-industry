@@ -1,0 +1,139 @@
+{
+    "original": "GARDE, Aa&amp;e, Civilingenjör, Västerås, f Sebber, Danm, 12/10 00 av kyrkoh A Th G o Ingeborg Thomsen, gm Margarethe Hoffmann. Metropol.skol, Kpnhmn, studex 18, Danm tekn höjsk, cand polyt 24. Anst Kpnhmns belysn.-väsen 24, ASEA 24—28, Titan Kpnhmn 28—30, ch ASEA konstr.lab sed. 30. Resor: Engl, USA 21, Polen 34. Av trycket: Olikformigh i spänn v maskiner m spänningsdelare, ASEA:s Tidn, 29, Metoder f snabbregi i kraft- o ind.-anläggn, Tekn Tidskr, 43. Dansk Ing.frn, Tekn Frn i V.ås. Hobbies: Skytte, tennis, skidåkn, bilkörn, fotografi.",
+    "translated": "GARDE, Aa&e, Civil Engineer, Västerås, born in Sebber, Denmark, on 10th December 1900, son of the reverend A Th G and Ingeborg Thomsen, married to Margarethe Hoffmann. Attended Metropolitan school in Copenhagen. Graduated in 1918 and studied at the Technical College in Denmark, earning a Bachelor degree in Engineering in 1924. Employed at the Lighting Department in Copenhagen from 1924, then worked at ASEA from 1924 to 1928, followed by Titan in Copenhagen from 1928 to 1930, and finally returned to ASEA as a construction laboratory manager since 1930. Traveled to England and the USA in 1921, and Poland in 1934. Published articles: \"Variations in tension in machines with tension dividers\" in ASEA's magazine in 1929, and \"Methods for quick regulation in power and industrial installations\" in Technical Journal in 1943. Danish Engineer Representative, Technical Representative in Västerås. Hobbies: Shooting, tennis, skiing, driving cars, photography.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Aa&e Garde",
+        "jobTitle": "Civil Engineer",
+        "birthDate": "1900-12-10",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Sebber",
+            "addressCountry": "Denmark"
+        },
+        "father": {
+            "@type": "Person",
+            "name": "A Th G"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Ingeborg Thomsen"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Margarethe Hoffmann"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Bachelor's degree",
+            "educationalLevel": "Undergraduate",
+            "provider": {
+                "@type": "CollegeOrUniversity",
+                "name": "Technical College"
+            },
+            "startDate": "1918",
+            "endDate": "1924"
+        },
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "Lighting Department",
+                "startDate": "1924",
+                "endDate": "1928"
+            },
+            {
+                "@type": "Organization",
+                "name": "ASEA",
+                "startDate": "1924",
+                "endDate": "1928"
+            },
+            {
+                "@type": "Organization",
+                "name": "Titan",
+                "startDate": "1928",
+                "endDate": "1930"
+            },
+            {
+                "@type": "Organization",
+                "name": "ASEA",
+                "position": "Construction Laboratory Manager",
+                "startDate": "1930"
+            }
+        ],
+        "nationality": "Swedish",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Metropolitan School",
+                "address": {
+                    "@type": "Place",
+                    "addressLocality": "Copenhagen",
+                    "addressCountry": "Denmark"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Technical Journal"
+            }
+        ],
+        "article": [
+            {
+                "@type": "Article",
+                "name": "Variations in tension in machines with tension dividers",
+                "publisher": {
+                    "@type": "Organization",
+                    "name": "ASEA's Magazine"
+                },
+                "datePublished": "1929"
+            },
+            {
+                "@type": "Article",
+                "name": "Methods for quick regulation in power and industrial installations",
+                "publisher": {
+                    "@type": "Organization",
+                    "name": "Technical Journal"
+                },
+                "datePublished": "1943"
+            }
+        ],
+        "sameAs": [
+            "https://en.wikipedia.org/wiki/Aa%26e_Garde"
+        ],
+        "hobbies": [
+            "Shooting",
+            "Tennis",
+            "Skiing",
+            "Driving cars",
+            "Photography"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "ASEA",
+                "industry": "Engineering",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Construction Laboratory Manager",
+                "workplace": "ASEA",
+                "industry": "Engineering",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Lighting Department Employee",
+                "workplace": "Copenhagen",
+                "industry": "Lighting",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Titan Employee",
+                "workplace": "Copenhagen",
+                "industry": "Unspecified",
+                "start_date": "1928"
+            }
+        ]
+    }
+}

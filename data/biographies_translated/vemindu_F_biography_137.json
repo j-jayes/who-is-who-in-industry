@@ -1,72 +1,90 @@
 {
     "original": "FREDIN, Carl Gustaf Harald, Bankdirektör, Tidaholm, f Skövde 30/7 91 av G A Fredin o Mathilda Löf, gm Torborg Silfwerhielm. H a l, ex Schartaus 09. Tim Skarab ensk bk Skövde 09, sifferrev 15, kamr Grästorp 18, dir o styr.ordf Tidah sed. 32. Styr.led Bost.rätts-frn Gruvan, Tidah bost.AB o Tidah stads elverk. Insp f Skarab ldst centr verkst.skolor.",
-    "translated": "FREDIN, Carl Gustaf Harald, Bank Director, Tidaholm, b. Skövde 30/7 91, son of G. A. Fredin and Mathilda Löf, m. Torborg Silfwerhielm. Centr. bor., former Schartau employee 09. Tim Skarab bank Skövde 09, numeral clerk 15, chamberlain Grästorp 18, director and chairman of the board Tidah since 32. Board member of Bost.rätts-frn Gruvan, Tidah bost. AB and Tidah city power station. Inspector of Skarab oldest central vocational schools.",
+    "translated": "FREDIN, Carl Gustaf Harald, Bank Director, Tidaholm, born in Skövde on July 30, 1891, to G A Fredin and Mathilda Löf, married Torborg Silfwerhielm. Education: Schartau School 1909. Worked at Skaraborgs Enskilda Bank in Skövde from 1909, became a clerk in 1915, became a cashier in Grästorp in 1918, and director and chairman of the board of Tidaholm since 1932. Also served on the board of Bostadsrätts från Gruvan, Tidah bost.AB, and Tidaholm City Power Plant. Engaged as an inspector at Skaraborg's oldest central vocational schools.",
     "structured": {
         "@context": "https://schema.org",
         "@type": "Person",
         "name": "Carl Gustaf Harald Fredin",
         "jobTitle": "Bank Director",
-        "birthPlace": "Skövde",
         "birthDate": "1891-07-30",
-        "parents": [
-            {
-                "@type": "Person",
-                "name": "G. A. Fredin"
-            },
-            {
-                "@type": "Person",
-                "name": "Mathilda Löf"
-            }
-        ],
+        "birthPlace": "Skövde",
         "spouse": {
             "@type": "Person",
             "name": "Torborg Silfwerhielm"
         },
-        "education": [
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "educationalLevel": "HighSchool",
+            "alumniOf": "Schartau School",
+            "endDate": "1909"
+        },
+        "work": [
             {
-                "@type": "EducationalOrganization",
-                "name": "Schartaus"
+                "@type": "OrganizationRole",
+                "startDate": "1909",
+                "endDate": "1932",
+                "roleName": "Clerk",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Skaraborgs Enskilda Bank"
+                },
+                "place": {
+                    "@type": "City",
+                    "name": "Skövde"
+                }
             },
             {
-                "@type": "EducationalOrganization",
-                "name": "Tim Skarab bank"
+                "@type": "OrganizationRole",
+                "startDate": "1915",
+                "endDate": null,
+                "roleName": "Cashier",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Grästorp"
+                }
             },
             {
-                "@type": "EducationalOrganization",
-                "name": "Grästorp"
+                "@type": "OrganizationRole",
+                "startDate": "1932",
+                "endDate": null,
+                "roleName": "Director and Chairman of the Board",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Tidaholm"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": null,
+                "endDate": null,
+                "roleName": "Board Member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Bostadsrätts från Gruvan"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": null,
+                "endDate": null,
+                "roleName": "Board Member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Tidah bost.AB"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": null,
+                "endDate": null,
+                "roleName": "Board Member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Tidaholm City Power Plant"
+                }
             }
         ],
-        "workExperience": [
-            {
-                "@type": "Organization",
-                "name": "Tim Skarab bank",
-                "startDate": "1909"
-            },
-            {
-                "@type": "Organization",
-                "name": "Grästorp",
-                "startDate": "1918"
-            },
-            {
-                "@type": "Organization",
-                "name": "Tidah",
-                "startDate": "1932"
-            }
-        ],
-        "memberOf": [
-            {
-                "@type": "Organization",
-                "name": "Bost.rätts-frn Gruvan"
-            },
-            {
-                "@type": "Organization",
-                "name": "Tidah bost. AB"
-            },
-            {
-                "@type": "Organization",
-                "name": "Tidah city power station"
-            }
-        ]
+        "additionalInfo": "Engaged as an inspector at Skaraborg's oldest central vocational schools."
     },
     "occupations": {
         "career": [
@@ -77,52 +95,22 @@
                 "start_date": "1932"
             },
             {
-                "occupational_title": "Former Schartau Employee",
-                "workplace": "Unknown",
-                "industry": "Unknown",
-                "start_date": "1909"
+                "occupational_title": "Cashier",
+                "workplace": "Grästorp",
+                "industry": "Banking",
+                "start_date": "1918"
             },
             {
-                "occupational_title": "Numeral Clerk",
-                "workplace": "Skarab Bank, Skövde",
+                "occupational_title": "Clerk",
+                "workplace": "Skaraborgs Enskilda Bank",
                 "industry": "Banking",
                 "start_date": "1915"
             },
             {
-                "occupational_title": "Chamberlain",
-                "workplace": "Grästorp",
-                "industry": "Unknown",
-                "start_date": "1918"
-            },
-            {
-                "occupational_title": "Director and Chairman of the Board",
-                "workplace": "Tidah",
-                "industry": "Unknown",
-                "start_date": "1932"
-            },
-            {
-                "occupational_title": "Board member",
-                "workplace": "Bost.rätts-frn Gruvan",
-                "industry": "Real Estate",
-                "start_date": "Unknown"
-            },
-            {
-                "occupational_title": "Board member",
-                "workplace": "Tidah bost. AB",
-                "industry": "Real Estate",
-                "start_date": "Unknown"
-            },
-            {
-                "occupational_title": "Board member",
-                "workplace": "Tidah city power station",
-                "industry": "Energy",
-                "start_date": "Unknown"
-            },
-            {
                 "occupational_title": "Inspector",
-                "workplace": "Skarab oldest central vocational schools",
+                "workplace": "Skaraborg's oldest central vocational schools",
                 "industry": "Education",
-                "start_date": "Unknown"
+                "start_date": "N/A"
             }
         ]
     }

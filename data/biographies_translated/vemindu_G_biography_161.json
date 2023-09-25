@@ -1,0 +1,135 @@
+{
+    "original": "GUSTAFSSON, Gunnar, Direktör, Stockholm, f Ytterselö 18/12 83 av folkskoll J G G o h h Ulrika, gm Ebba Nyander. 5 år allm lärov. Eft några års tjg v Mora—Vänerns järnv tullomb h fma Hugo Asplund, ch AB Rylander &amp; Asplunds sanitära avd 11—21. Deläg o ch AB Askania 22—34, eg fma Sanitetsfman G. G., Gunnar Gustafsson AB, sed. 34, styr.led där. Äg fastgh i Sthlm o Etuna. Av Sthlm magistr o hdlskamm förordn besiktn.man.",
+    "translated": "GUSTAFSSON, Gunnar, Director, Stockholm, b. Ytterselö 18/12 83, son of elementary school teacher J G G and his wife Ulrika, married to Ebba Nyander. 5 years of general education. After working for a few years at Mora—Vänern's railway customs office, he joined the company Hugo Asplund and AB Rylander & Asplunds sanitary department from 1911-1921. Co-owner and later sole owner of AB Askania from 1922-1934. Owner of Sanitetsfman GG, Gunnar Gustafsson AB since 1934, serving as a board member there. He owned properties in Stockholm and Etuna. Appointed as an inspection officer by Stockholm magistrate and commerce chamber.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Gunnar Gustafsson",
+        "birthDate": "1883-12-18",
+        "description": "Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "J G G"
+            },
+            {
+                "@type": "Person",
+                "name": "Ulrika"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ebba Nyander"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "description": "5 years of general education"
+        },
+        "occupation": {
+            "@type": "Occupation",
+            "name": "Director"
+        },
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "Mora—Vänern's railway customs office",
+                "startDate": "1906",
+                "endDate": "1911"
+            },
+            {
+                "@type": "Organization",
+                "name": "Hugo Asplund and AB Rylander & Asplunds sanitary department",
+                "startDate": "1911",
+                "endDate": "1921"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Askania",
+                "startDate": "1922",
+                "endDate": "1934"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sanitetsfman GG, Gunnar Gustafsson AB",
+                "startDate": "1934"
+            }
+        ],
+        "owns": [
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm"
+                }
+            },
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Etuna"
+                }
+            }
+        ],
+        "appointedBy": [
+            {
+                "@type": "GovernmentOrganization",
+                "name": "Stockholm Magistrate"
+            },
+            {
+                "@type": "GovernmentOrganization",
+                "name": "Commerce Chamber"
+            }
+        ],
+        "jobTitle": "Inspection Officer"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Elementary School Teacher",
+                "workplace": "Unknown",
+                "industry": "Education",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Customs Official",
+                "workplace": "Mora—Vänern's Railway Customs Office",
+                "industry": "Government",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Sanitary Department Staff",
+                "workplace": "Hugo Asplund and AB Rylander & Asplunds Sanitary Department",
+                "industry": "Sanitary/Plumbing",
+                "start_date": "1911"
+            },
+            {
+                "occupational_title": "Co-owner",
+                "workplace": "AB Askania",
+                "industry": "Unknown",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Sole Owner",
+                "workplace": "Gunnar Gustafsson AB",
+                "industry": "Sanitary/Plumbing",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Gunnar Gustafsson AB",
+                "industry": "Sanitary/Plumbing",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Inspection Officer",
+                "workplace": "Stockholm Magistrate and Commerce Chamber",
+                "industry": "Government",
+                "start_date": null
+            }
+        ]
+    }
+}

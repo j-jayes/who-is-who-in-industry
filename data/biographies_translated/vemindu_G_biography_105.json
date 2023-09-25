@@ -1,0 +1,123 @@
+{
+    "original": "GRUNDBERG, Carl Harry, Direktör, Göteborg, f Lundby församl, Gbg, 31/1 93 av ma-skinmäst J E G o Hanna Carlsson, gm Ingeborg Appelgren. Folksk, Palmers Hdlssk. Etabl eft anst i öl maskin- o motorfirmor AB Carl Grundberg &amp; Co Maskinfirma i Gbg 17. Värderingsman f motorbåtar. Medl av Gbgs Kgl Segelsällsk, Gbgs Sjövärnsflottilj mfl. Hobby: Motorbåtssport. Fman driver hdl m nya o beg maskiner o motorer f verkstäder, skeppsvarv, gruvor, sul-fitfabr, sågverk, byggn.företag, kommunala inrättn mfl samt m fartygsmotorer. Rörelsen omf av skeppsmäkl, spec motorbåts- o far-tygsförsäljn.",
+    "translated": "GRUNDBERG, Carl Harry, Director, Gothenburg, born in Lundby parish, Gothenburg, on January 31st, 1893, son of master furrier J E G and Hanna Carlsson, married to Ingeborg Appelgren. Attended elementary school and Palmers Trade School. Established after employment in beer machine and motor companies, AB Carl Grundberg & Co Machinery Firm in Gothenburg in 1917. Appointed as an appraiser of motor boats. Member of Gothenburg Royal Sailing Club, Gothenburg Naval Reserve Flotilla, and others. Hobby: Motorboat racing. The company engages in the trade of new and used machinery and engines from workshops, shipyards, mines, sulfuric acid factories, sawmills, construction companies, municipal institutions, and vessels' engines. The business includes ship brokerage, specializing in the sale of motorboats and ships.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Harry Grundberg",
+        "jobTitle": "Director",
+        "birthDate": "1893-01-31",
+        "birthPlace": {
+            "@type": "CivicStructure",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Gothenburg",
+                "addressRegion": "Lundby parish",
+                "addressCountry": "Sweden"
+            }
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "J E G"
+            },
+            {
+                "@type": "Person",
+                "name": "Hanna Carlsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ingeborg Appelgren"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Elementary School"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Palmers Trade School"
+            }
+        ],
+        "affiliation": [
+            {
+                "@type": "Organization",
+                "name": "AB Carl Grundberg & Co Machinery Firm"
+            },
+            {
+                "@type": "Organization",
+                "name": "Gothenburg Royal Sailing Club"
+            },
+            {
+                "@type": "Organization",
+                "name": "Gothenburg Naval Reserve Flotilla"
+            }
+        ],
+        "interest": "Motorboat racing",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "AB Carl Grundberg & Co Machinery Firm"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Gothenburg Royal Sailing Club"
+            },
+            {
+                "@type": "Organization",
+                "name": "Gothenburg Naval Reserve Flotilla"
+            }
+        ],
+        "hobbies": [
+            "Motorboat racing"
+        ],
+        "businessFunction": [
+            {
+                "@type": "TradeAction",
+                "name": "trade"
+            },
+            {
+                "@type": "SaleEvent",
+                "name": "sale of motorboats and ships"
+            }
+        ],
+        "hasOccupation": {
+            "@type": "Occupation",
+            "name": "Director"
+        },
+        "hasOfferCatalog": {
+            "@type": "OfferCatalog",
+            "name": "Machinery and Engine catalog"
+        },
+        "startDate": "1917"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Master Furrier",
+                "workplace": "J E G (father's business)",
+                "industry": "Furrier industry",
+                "start_date": "Before 1893"
+            },
+            {
+                "occupational_title": "Employee in beer machine and motor companies",
+                "workplace": "Unknown",
+                "industry": "Beer machine and motor",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "AB Carl Grundberg & Co Machinery Firm",
+                "industry": "Machinery",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Appraiser of motor boats",
+                "workplace": "Unknown",
+                "industry": "Boat appraisal",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

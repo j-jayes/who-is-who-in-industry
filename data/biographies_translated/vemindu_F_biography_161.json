@@ -1,18 +1,16 @@
 {
     "original": "FRICK, Emil, Köpman, Linköping, f Västanfors, Västml, 24/2 86, gm Gerda Gillström. Eft avslut skolgång garveri-, läder- o sko-branschpraktik i Västerås 99, hdlssk där 05, bitr h PUB Sthlm 06, stud i Engl 09—10, anst v AB John Beijers Skofabr Sthlm 10, Fma Jacobsson &amp; Enocson i Linkp 14, övert denna 17 o ombild den t Fma Fricks Skomagasin.",
-    "translated": "FRICK, Emil, Merchant, Linköping, b. Västanfors, Västml, 24/2 86, m. Gerda Gillström. After completing schooling worked in tanning, leather, and shoe industry in Västerås until 99, attended trade school there in 05, assistant at PUB in Stockholm in 06, studied in England from 09 to 10, employed by AB John Beijers Skofabr in Stockholm in 10, joined Fma Jacobsson & Enocson in Linköping in 14, took over the business in 17 and transformed it into Fma Fricks Skomagasin.",
+    "translated": "FRICK, Emil, Merchant, Linköping, b. Västanfors, Västmanland, 24/2 1886, m. Gerda Gillström. After completing school, he had an apprenticeship in a tannery, leather, and shoe industry in Västerås in 1899. He studied at a commerce school there in 1905 and worked as an assistant at PUB in Stockholm in 1906. He studied in England from 1909 to 1910 and was employed by AB John Beijers Skofabrik in Stockholm in 1910. In 1914, he became part owner of Fma Jacobsson & Enocson in Linköping, and took over the business in 1917, renaming it Fma Fricks Skomagasin (Fricks Shoestore).",
     "structured": {
         "@context": "https://schema.org",
         "@type": "Person",
         "name": "Emil Frick",
-        "birthPlace": "Västanfors, Västml",
         "birthDate": "1886-02-24",
-        "jobTitle": "Merchant",
-        "memberOf": {
-            "@type": "Organization",
-            "name": "Fma Fricks Skomagasin",
-            "startDate": "1917"
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Västanfors, Västmanland, Sweden"
         },
+        "description": "Merchant in Linköping",
         "spouse": {
             "@type": "Person",
             "name": "Gerda Gillström"
@@ -20,13 +18,21 @@
         "education": [
             {
                 "@type": "EducationalOrganization",
-                "name": "Västerås Tanning, Leather, and Shoe Industry",
-                "endDate": "1899"
+                "name": "Västerås Garveri-, Läder- och Sko-branschpraktik",
+                "startDate": "1899",
+                "endDate": "1899",
+                "description": "Apprenticeship in tannery, leather, and shoe industry"
             },
             {
                 "@type": "EducationalOrganization",
-                "name": "Trade School in Västerås",
-                "startDate": "1905"
+                "name": "Commerce School",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Västerås",
+                    "addressCountry": "Sweden"
+                },
+                "startDate": "1905",
+                "endDate": "1905"
             },
             {
                 "@type": "EducationalOrganization",
@@ -35,25 +41,34 @@
                 "endDate": "1910"
             }
         ],
-        "workExperience": [
+        "occupation": [
             {
-                "@type": "Organization",
-                "name": "PUB",
-                "location": "Stockholm",
-                "startDate": "1906"
+                "@type": "OrganizationRole",
+                "roleName": "Assistant",
+                "startDate": "1906",
+                "endDate": "1906",
+                "description": "Worked at PUB in Stockholm"
             },
             {
-                "@type": "Organization",
-                "name": "AB John Beijers Skofabr",
-                "location": "Stockholm",
-                "startDate": "1910"
+                "@type": "OrganizationRole",
+                "roleName": "Employee",
+                "startDate": "1910",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB John Beijers Skofabrik",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm",
+                        "addressCountry": "Sweden"
+                    }
+                },
+                "description": "Employed by AB John Beijers Skofabrik in Stockholm"
             },
             {
-                "@type": "Organization",
-                "name": "Fma Jacobsson & Enocson",
-                "location": "Linköping",
-                "startDate": "1914",
-                "endDate": "1917"
+                "@type": "OrganizationRole",
+                "roleName": "Owner",
+                "startDate": "1917",
+                "description": "Became part owner of Fma Jacobsson & Enocson in Linköping, renamed it Fma Fricks Skomagasin (Fricks Shoestore)"
             }
         ]
     },
@@ -62,50 +77,38 @@
             {
                 "occupational_title": "Merchant",
                 "workplace": "Linköping",
-                "industry": null,
-                "start_date": null
+                "industry": "Unknown",
+                "start_date": "Unknown"
             },
             {
-                "occupational_title": null,
+                "occupational_title": "Apprentice in tannery, leather, and shoe industry",
                 "workplace": "Västerås",
-                "industry": "Tanning, Leather, Shoe",
-                "start_date": "until 99"
-            },
-            {
-                "occupational_title": null,
-                "workplace": "Trade School",
-                "industry": null,
-                "start_date": "05"
+                "industry": "Tannery, Leather, and Shoe",
+                "start_date": "1899"
             },
             {
                 "occupational_title": "Assistant",
-                "workplace": "PUB Stockholm",
-                "industry": null,
-                "start_date": "06"
+                "workplace": "PUB, Stockholm",
+                "industry": "Retail",
+                "start_date": "1906"
             },
             {
-                "occupational_title": null,
-                "workplace": "Studied in England",
-                "industry": null,
-                "start_date": "09—10"
+                "occupational_title": "Employee",
+                "workplace": "AB John Beijers Skofabrik, Stockholm",
+                "industry": "Shoe Manufacturing",
+                "start_date": "1910"
             },
             {
-                "occupational_title": null,
-                "workplace": "AB John Beijers Skofabr Stockholm",
-                "industry": null,
-                "start_date": "10"
+                "occupational_title": "Part Owner",
+                "workplace": "Fma Jacobsson & Enocson, Linköping",
+                "industry": "Retail",
+                "start_date": "1914"
             },
             {
-                "occupational_title": null,
-                "workplace": "Fma Jacobsson & Enocson Linköping",
-                "industry": null,
-                "start_date": "14"
-            },
-            {
-                "occupational_title": null,
-                "workplace": "Fma Fricks Skomagasin",
-                "industry": null,
-                "start_date": "17"
+                "occupational_title": "Owner",
+                "workplace": "Fma Fricks Skomagasin (Fricks Shoestore), Linköping",
+                "industry": "Retail",
+                "start_date": "1917"
             }
         ]
     }

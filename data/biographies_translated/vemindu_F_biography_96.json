@@ -1,0 +1,69 @@
+{
+    "original": "FORS, Usa, Fru, Askersund, f Lerbäck 10/3 11 av dir K G Nilsson o Signe Andréasson. Realex. Stud v textilfabr i Chemnitz 29. Direktris AB Askersunds Trikåfabrik sed. 27. Resor: Tyskl 29, Engl 35.",
+    "translated": "FORS, Usa, Mrs, Askersund, born in Lerbäck on March 10, 1911, daughter of director K G Nilsson and Signe Andréasson. Completed Realex. Studied at a textile factory in Chemnitz in 1929. Director of AB Askersunds Trikåfabrik since 1927. Traveled to Germany in 1929 and to England in 1935.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "givenName": "Usa",
+        "familyName": "FORS",
+        "additionalName": "Mrs",
+        "birthDate": "1911-03-10",
+        "birthPlace": "Lerbäck",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "K G Nilsson",
+                "jobTitle": "Director"
+            },
+            {
+                "@type": "Person",
+                "name": "Signe Andréasson"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Realex"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "Studied at a textile factory in Chemnitz",
+                "startDate": "1929"
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "AB Askersunds Trikåfabrik",
+            "startDate": "1927",
+            "jobTitle": "Director"
+        },
+        "travel": [
+            {
+                "@type": "Place",
+                "name": "Germany",
+                "startDate": "1929"
+            },
+            {
+                "@type": "Place",
+                "name": "England",
+                "startDate": "1935"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Studied at a textile factory",
+                "workplace": "Chemnitz",
+                "industry": "Textile",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "AB Askersunds Trikåfabrik",
+                "industry": "Textile",
+                "start_date": "1927"
+            }
+        ]
+    }
+}

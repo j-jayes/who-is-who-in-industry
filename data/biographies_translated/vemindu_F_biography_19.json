@@ -1,0 +1,190 @@
+{
+    "original": "FALK, Kossuth V:son, Civilingenjör, Nocke by, f Umeå 27/6 96 av major K V F o Fanny Wedberg, gm Edith Fridholm. Studex V.ås 16, resoffex 18, civingex (mek) 23. Anst i Kanada 23—25 o i USA 25—32, Arbrå verkst. -AB 32—38, AB Åbjörn Anderson Svedala 38— 41, ch f Svedalavkn Sth sed. 41. Resor: Tyskl. Österr 22, Engl 23, Kanada o USA ss ovan; Norge 39.",
+    "translated": "FALK, Kossuth V:son, Civil Engineer, Nocke village, born in Umeå on June 27, 1896, to Major K V F and Fanny Wedberg. Married to Edith Fridholm. Studied at V.ås 16, became a reserve officer at 18, obtained a degree in civil engineering (mechanics) at 23. Worked in Canada from 1923 to 1925, and in the USA from 1925 to 1932. Employed at Arbrå Engineering Company from 1932 to 1938, then at AB Åbjörn Anderson in Svedala from 1938 to 1941, where he became the chief in Stockholm. Traveled to Germany and Austria in 1922, England in 1923, Canada",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Kossuth V:son Falk",
+        "birthDate": "1896-06-27",
+        "birthPlace": "Umeå",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Major K V F"
+            },
+            {
+                "@type": "Person",
+                "name": "Fanny Wedberg"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Edith Fridholm"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Studex",
+            "credentialSubject": "V.ås 16"
+        },
+        "occupations": [
+            {
+                "@type": "CivilEngineer",
+                "name": "Civil Engineer",
+                "specialty": "Mechanics"
+            }
+        ],
+        "workExperience": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1923-01-01",
+                "endDate": "1925-12-31",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Canada"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1925-01-01",
+                "endDate": "1932-12-31",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "USA"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1932-01-01",
+                "endDate": "1938-12-31",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Arbrå Engineering Company"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1938-01-01",
+                "endDate": "1941-12-31",
+                "roleName": "Chief",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Åbjörn Anderson",
+                    "location": {
+                        "@type": "City",
+                        "name": "Svedala"
+                    }
+                }
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "Trip",
+                "startDate": "1922-01-01",
+                "endDate": "1922-12-31",
+                "departureLocation": {
+                    "@type": "Country",
+                    "name": "Sweden"
+                },
+                "arrivalLocation": {
+                    "@type": "Country",
+                    "name": "Germany"
+                }
+            },
+            {
+                "@type": "Trip",
+                "startDate": "1922-01-01",
+                "endDate": "1922-12-31",
+                "departureLocation": {
+                    "@type": "City",
+                    "name": "Germany"
+                },
+                "arrivalLocation": {
+                    "@type": "Country",
+                    "name": "Austria"
+                }
+            },
+            {
+                "@type": "Trip",
+                "startDate": "1923-01-01",
+                "endDate": "1923-12-31",
+                "departureLocation": {
+                    "@type": "Country",
+                    "name": "Austria"
+                },
+                "arrivalLocation": {
+                    "@type": "Country",
+                    "name": "England"
+                }
+            },
+            {
+                "@type": "Trip",
+                "startDate": "1923-01-01",
+                "endDate": "1923-12-31",
+                "departureLocation": {
+                    "@type": "Country",
+                    "name": "England"
+                },
+                "arrivalLocation": {
+                    "@type": "Country",
+                    "name": "Canada"
+                }
+            },
+            {
+                "@type": "Trip",
+                "startDate": "1939-01-01",
+                "endDate": "1939-12-31",
+                "departureLocation": {
+                    "@type": "Country",
+                    "name": "Sweden"
+                },
+                "arrivalLocation": {
+                    "@type": "Country",
+                    "name": "Norge"
+                }
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Nocke village",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Employed in Canada",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Employed in the USA",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Employed at Arbrå Engineering Company",
+                "workplace": "Arbrå verkst. -AB",
+                "industry": "Unknown",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Employed at AB Åbjörn Anderson",
+                "workplace": "AB Åbjörn Anderson Svedala",
+                "industry": "Unknown",
+                "start_date": "1938"
+            },
+            {
+                "occupational_title": "Chief at Svedalavkn Stockholm",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "1941"
+            }
+        ]
+    }
+}

@@ -1,0 +1,126 @@
+{
+    "original": "GRÖNVALL, Sture Hilmer Uno, Ingenjör, Djursholm, f Djursholm 7/12 06 av överfyring U G o Hilma Johansson, gm Alice Svensson. Studex Sthlm 25, stud v KTH. Kem v AB Fructus Fabriker Sthlm 31, v Lazarolfabr Sthlm 32, fabr.ch v AB Lindahls Fabriker Sthlm sed. 33. Ulöjtn i Friv Automobilkåren 35, adj 37, löjtn 38.",
+    "translated": "GRÖNVALL, Sture Hilmer Uno, Engineer, Djursholm, b. Djursholm December 7, 1906, to father U G (unknown given name) and mother Hilma Johansson, to spouse Alice Svensson. Studied at Stockholm in 1925, studied at the Royal Institute of Technology. Worked in chemistry at AB Fructus Factories in Stockholm from 1931, at Lazarolfabr in Stockholm from 1932, as factory manager at AB Lindahls Factories in Stockholm from 1933. Second lieutenant in the Free Car Brigade in 1935, adjutant in 1937, lieutenant in 1938.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Sture Hilmer Uno Grönvall",
+        "birthDate": "1906-12-07",
+        "birthPlace": "Djursholm",
+        "father": {
+            "@type": "Person",
+            "name": "U G Grönvall"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Hilma Johansson"
+        },
+        "spouse": [
+            {
+                "@type": "Person",
+                "name": "Alice Svensson"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Stockholm University",
+                "startDate": "1925"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Royal Institute of Technology",
+                "startDate": "unknown"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1931",
+                "endDate": "unknown",
+                "namedPosition": "Chemist",
+                "roleName": "AB Fructus Factories",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1932",
+                "endDate": "unknown",
+                "namedPosition": "Chemist",
+                "roleName": "Lazarolfabr",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1933",
+                "endDate": "unknown",
+                "namedPosition": "Factory Manager",
+                "roleName": "AB Lindahls Factories",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm"
+                    }
+                }
+            }
+        ],
+        "militaryService": [
+            {
+                "@type": "MilitaryPerson",
+                "rank": "Second lieutenant",
+                "startDate": "1935",
+                "endDate": "unknown",
+                "militaryBranch": "Free Car Brigade"
+            },
+            {
+                "@type": "MilitaryPerson",
+                "rank": "Adjutant",
+                "startDate": "1937",
+                "endDate": "unknown",
+                "militaryBranch": "Free Car Brigade"
+            },
+            {
+                "@type": "MilitaryPerson",
+                "rank": "Lieutenant",
+                "startDate": "1938",
+                "endDate": "unknown",
+                "militaryBranch": "Free Car Brigade"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "AB Fructus Factories",
+                "industry": "Chemistry",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Lazarolfabr",
+                "industry": "Chemistry",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Factory Manager",
+                "workplace": "AB Lindahls Factories",
+                "industry": "Unknown",
+                "start_date": "1933"
+            }
+        ]
+    }
+}

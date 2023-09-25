@@ -1,0 +1,133 @@
+{
+    "original": "GUSTAFSON, Nils Erie Helmer, Civilingenjör, Ljungaverk, f Gbg 7/3 07 av sjökapt N G o Elin Eriksson, gm Ester Hagman. Studex 28, civ.ingex 32. Forskn.ass CTH 32—33, deläg 0 medarb HB Reagens, E Gustafsson &amp; Co, Gbg 34—39, drifting Sv oljeslag.ABs fabr Mölnd 34—40, fabr.cn 40—43, fabr.led Sthlms Superfosfat Fabr AB, Ljungaverk sed. 43. Resor: Engl 28, 32, Tyskl 37. Göta Coldin.",
+    "translated": "GUSTAFSON, Nils Erie Helmer, Engineer, Ljungaverk, born in Gothenburg on July 3, 1907, son of sea captain N. G and Elin Eriksson, married to Ester Hagman. Graduated from high school (Studex) in 1928, became a civil engineer in 1932. Research associate at CTH (Chalmers University of Technology) in 1932-1933, co-owner and employee at HB Reagens, E Gustafsson & Co, Gothenburg from 1934 to 1939, operated the Swedish oil refinery AB's factory in Mölndal from 1934 to 1940, factory director from 1940 to 1943 at Stockholm's Superphosphate Factory AB, Ljungaverk since 1943. Travelled to England in 1928 and 1932, Germany in 1937. Member of the Göta Coldin [society].",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Nils Erie Helmer Gustafson",
+        "description": "Engineer",
+        "birthDate": "1907-07-03",
+        "birthPlace": "Gothenburg",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "N. G Gustafson",
+                "jobTitle": "Sea Captain"
+            },
+            {
+                "@type": "Person",
+                "name": "Elin Eriksson"
+            }
+        ],
+        "spouse": "Ester Hagman",
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "high school",
+            "educationalLevel": "Studex",
+            "dateReceived": "1928"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "HB Reagens"
+            },
+            {
+                "@type": "Organization",
+                "name": "E Gustafsson & Co"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish oil refinery AB"
+            },
+            {
+                "@type": "Organization",
+                "name": "Stockholm's Superphosphate Factory AB"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "Employment",
+                "startDate": "1934",
+                "endDate": "1939",
+                "employer": "HB Reagens, E Gustafsson & Co"
+            },
+            {
+                "@type": "Employment",
+                "startDate": "1934",
+                "endDate": "1940",
+                "employer": "Swedish oil refinery AB",
+                "jobTitle": "Factory Operator",
+                "location": "Mölndal"
+            },
+            {
+                "@type": "Employment",
+                "startDate": "1940",
+                "endDate": "1943",
+                "employer": "Stockholm's Superphosphate Factory AB",
+                "jobTitle": "Factory Director",
+                "location": "Ljungaverk"
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "TravelAction",
+                "departureLocation": "Gothenburg",
+                "arrivalLocation": "England",
+                "startDate": "1928",
+                "endDate": "1928"
+            },
+            {
+                "@type": "TravelAction",
+                "departureLocation": "Gothenburg",
+                "arrivalLocation": "England",
+                "startDate": "1932",
+                "endDate": "1932"
+            },
+            {
+                "@type": "TravelAction",
+                "departureLocation": "Gothenburg",
+                "arrivalLocation": "Germany",
+                "startDate": "1937",
+                "endDate": "1937"
+            }
+        ],
+        "membershipIn": {
+            "@type": "Organization",
+            "name": "Göta Coldin"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Ljungaverk",
+                "industry": null,
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Research Associate",
+                "workplace": "CTH (Chalmers University of Technology)",
+                "industry": null,
+                "start_date": "1932-1933"
+            },
+            {
+                "occupational_title": "Co-owner and Employee",
+                "workplace": "HB Reagens, E Gustafsson & Co",
+                "industry": null,
+                "start_date": "1934-1939"
+            },
+            {
+                "occupational_title": "Factory Operator",
+                "workplace": "Swedish oil refinery AB's factory in Mölndal",
+                "industry": null,
+                "start_date": "1934-1940"
+            },
+            {
+                "occupational_title": "Factory Director",
+                "workplace": "Stockholm's Superphosphate Factory AB, Ljungaverk",
+                "industry": null,
+                "start_date": "1940-1943"
+            }
+        ]
+    }
+}

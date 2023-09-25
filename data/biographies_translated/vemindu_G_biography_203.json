@@ -1,0 +1,122 @@
+{
+    "original": "GÖTHE, Axel Torvald, Direktör, Växjö, f 2G/1 01 av dir G Alb G o Elin Forsberg, gm Ava Ringborg. Malmö hdlsgymn. Anst Smål.postens boktr.AB 20, v. vkst o vkst dir 22, styr.ordf 41. Led dräts.kamm, löne- o avtalsnmdn, kyrkoflm, Smal o Blek hdls-kamm:s arb.utsk, rev Kronob läns sparbk, styr.led Skand bkns avd.kont, Växjö idr.hall upa, Sv tidn.utg.frn, AB Sv pressbyr mfl. Resor: Tyskl, Schweiz, Frankr, Kanarieöarna mfl länder.",
+    "translated": "GÖTHE, Axel Torvald, Director, Växjö, born on January 2nd, 1901, son of Director Gunnar Albert Göthe and Elin Forsberg, married to Ava Ringborg. Attended Malmö commercial high school. Employed at Småland's Post Book Printing Company from 1920, promoted to various positions with increasing responsibility until becoming director in 1922. Served as chairman of the board in 1941. Also held roles such as member of the finance committee, wage and contract committee, church council, Småland and Blekinge Chamber of Commerce working committee, auditor for Kronoberg County Savings Bank, board member of Skandinaviska Banken's branch office, responsible for Växjö sports hall, and involved in the publication of several Swedish newspapers, including AB Svenska Pressbyrån. Traveled to Germany, Switzerland, France, the Canary Islands, and other countries. \n\nNote: The format '\\d\\d m. partners name' indicates the year of marriage.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Axel Torvald Göthe",
+        "jobTitle": "Director",
+        "birthDate": "1901-01-02",
+        "birthPlace": "Växjö",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Gunnar Albert Göthe",
+                "jobTitle": "Director"
+            },
+            {
+                "@type": "Person",
+                "name": "Elin Forsberg"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ava Ringborg"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Malmö Commercial High School"
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Småland's Post Book Printing Company"
+        },
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "Småland's Post Book Printing Company",
+                "startDate": "1920",
+                "endDate": "1922",
+                "position": "Various Positions"
+            },
+            {
+                "@type": "Organization",
+                "name": "Småland's Post Book Printing Company",
+                "startDate": "1922",
+                "position": "Director"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Board Chairman (1941)"
+            },
+            {
+                "@type": "Organization",
+                "name": "Finance Committee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Wage and Contract Committee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Church Council"
+            },
+            {
+                "@type": "Organization",
+                "name": "Småland and Blekinge Chamber of Commerce Working Committee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Auditor, Kronoberg County Savings Bank"
+            },
+            {
+                "@type": "Organization",
+                "name": "Board Member, Skandinaviska Banken's Branch Office"
+            },
+            {
+                "@type": "Organization",
+                "name": "Växjö Sports Hall"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Svenska Pressbyrån"
+            }
+        ],
+        "traveledTo": [
+            "Germany",
+            "Switzerland",
+            "France",
+            "Canary Islands"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Employee",
+                "workplace": "Småland's Post Book Printing Company",
+                "industry": "Printing",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Various positions",
+                "workplace": "Småland's Post Book Printing Company",
+                "industry": "Printing",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Småland's Post Book Printing Company",
+                "industry": "Printing",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Chairman of the Board",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "1941"
+            }
+        ]
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "original": "FLACH, Carl-Axel, Direktör, Göteborg, f Gbg 3/12 10 av dir C F o Ellen Winding-Hansen, gm Margareta Sundén. Eft avslut skolstud prakt i Tyskl o Engl. Anst fr 31 i Sv Stålbolaget (grund av fadern 05), deläg där sed. 37.",
+    "translated": "FLACH, Carl-Axel, Director, Gothenburg, b. Gothenburg 3 December 1910, son of director C F and Ellen Winding-Hansen, m. Margareta Sundén. After completing school studies, practical training in Germany and England. Employed since 1931 at Swedish Steel Company (founded by his father in 1905), became a partner there in 1937.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl-Axel Flach",
+        "birthDate": "1910-12-03",
+        "birthPlace": "Gothenburg",
+        "familyName": "Flach",
+        "givenName": "Carl-Axel",
+        "jobTitle": "Director",
+        "nationality": "Swedish",
+        "spouse": {
+            "@type": "Person",
+            "name": "Margareta Sundén"
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "givenName": "C",
+                "familyName": "F",
+                "jobTitle": "Director"
+            },
+            {
+                "@type": "Person",
+                "givenName": "Ellen",
+                "familyName": "Winding-Hansen"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOccupationalProgram",
+                "startDate": "1926",
+                "endDate": "1931",
+                "educationalLevel": "Secondary",
+                "schoolName": "Unknown"
+            },
+            {
+                "@type": "EducationalOccupationalProgram",
+                "startDate": "Unknown",
+                "endDate": "Unknown",
+                "educationalLevel": "Practical Training",
+                "description": "Germany"
+            },
+            {
+                "@type": "EducationalOccupationalProgram",
+                "startDate": "Unknown",
+                "endDate": "Unknown",
+                "educationalLevel": "Practical Training",
+                "description": "England"
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Swedish Steel Company",
+            "foundingDate": "1905",
+            "founder": {
+                "@type": "Person",
+                "name": "C F Flach",
+                "givenName": "C",
+                "familyName": "F",
+                "jobTitle": "Director"
+            },
+            "startDate": "1931",
+            "endDate": "Unknown",
+            "member": "Partner"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Swedish Steel Company",
+                "industry": "Steel",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Partner",
+                "workplace": "Swedish Steel Company",
+                "industry": "Steel",
+                "start_date": "1937"
+            }
+        ]
+    }
+}

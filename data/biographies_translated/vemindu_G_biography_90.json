@@ -1,0 +1,168 @@
+{
+    "original": "GRANSTRÖM, Yngve Ragnvald Wilhelm, Bergsingenjör, Södertälje, f Hudiksvall 18/2 98 av grhdl J W G o Eugenia Westin, gm Nanna Zetterstedt. Stud.ex 16, resoffex 18, KTH (bergs) 25. Red.ass Jernkont Annaler 25—26, gjuteriing Norrahammars Br 28— 32, gjuterich 32—41, ch.ing 41—42, dir.ass AB W. Dan Bergman sed. 42. Styr.led Sv Gjut-mäst.frb sed. 39, sekr sed. 40. Stud.res (bl a ss IVA-stip) USA 27—28, int gjut.kongresser o bes v gjut i Ital 29, Tjeckoslov 33, Frankr 37, Engl 38; upprep res t gjut i Norge, Danm, Tyskl, Schweiz. Sv Tekn.frn, Par Bricole.",
+    "translated": "GRANSTRÖM, Yngve Ragnvald Wilhelm, Mining Engineer, Södertälje, born in Hudiksvall on February 18th, 1898, to the nobleman J.W.G. and Eugenia Westin. Married to Nanna Zetterstedt. Completed secondary school in 1916, officer candidate school in 1918, and studied at the Royal Institute of Technology (mining) from 1925. Served as editorial assistant for Jernkont Annaler from 1925 to 1926, foundry engineer at Norrahammars Bruk from 1928 to 1932, chief engineer at the foundry from 1932 to 1941, chief engineer from 1941 to 1942, and assistant director at AB W. Dan Bergman since 1942. Board member of the Swedish Foundry Masters Association since 1939, secretary since 1940. Traveled as a student researcher (including IVA scholarship) to the United States from 1927 to 1928, and attended foundry congresses and visited foundries in Italy in 1929, Czechoslovakia in 1933, France in 1937, and England in 1938. Repeatedly traveled for research to foundries in Norway, Denmark, Germany, and Switzerland. Member of the Swedish Technical Association and Parisian association Par Bricole.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Yngve Ragnvald Wilhelm Granström",
+        "birthDate": "1898-02-18",
+        "birthPlace": "Hudiksvall, Sweden",
+        "description": "Mining Engineer",
+        "nationality": "Swedish",
+        "spouse": {
+            "@type": "Person",
+            "name": "Nanna Zetterstedt"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "diploma",
+            "educationalLevel": "Secondary Education",
+            "dateEducationalCredentialAwarded": "1916"
+        },
+        "alumniOf": {
+            "@type": "CollegeOrUniversity",
+            "name": "Royal Institute of Technology",
+            "location": "Stockholm, Sweden",
+            "course": "Mining Engineering",
+            "startDate": "1925",
+            "endDate": "Unknown"
+        },
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Editorial Assistant",
+                "startDate": "1925",
+                "endDate": "1926",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Jernkont Annaler"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Foundry Engineer",
+                "startDate": "1928",
+                "endDate": "1932",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Norrahammars Bruk"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Chief Engineer",
+                "startDate": "1941",
+                "endDate": "1942",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB W. Dan Bergman"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Assistant Director",
+                "startDate": "1942",
+                "endDate": "Unknown",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB W. Dan Bergman"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Foundry Masters Association",
+                "startDate": "1939",
+                "roleName": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Technical Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Par Bricole",
+                "location": "Paris, France"
+            }
+        ],
+        "researcher": [
+            {
+                "@type": "ScholarlyArticle",
+                "name": "IVAs stipendium",
+                "datePublished": "1927",
+                "publisher": {
+                    "@type": "Organization",
+                    "name": "IVA Foundation"
+                },
+                "isBasedOn": "United States"
+            },
+            {
+                "@type": "ResearchProject",
+                "name": "Foundry Congresses and Visits",
+                "startDate": "1929",
+                "endDate": "Unknown",
+                "location": [
+                    "Italy",
+                    "Czechoslovakia",
+                    "France",
+                    "England"
+                ]
+            }
+        ],
+        "traveler": [
+            {
+                "@type": "TravelAction",
+                "name": "Research Trips",
+                "startDate": "Unknown",
+                "endDate": "Unknown",
+                "location": [
+                    "Norway",
+                    "Denmark",
+                    "Germany",
+                    "Switzerland"
+                ]
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Mining Engineer",
+                "workplace": "Södertälje",
+                "industry": "Mining",
+                "start_date": "Not specified"
+            },
+            {
+                "occupational_title": "Editorial Assistant",
+                "workplace": "Jernkont Annaler",
+                "industry": "Publishing",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Foundry Engineer",
+                "workplace": "Norrahammars Bruk",
+                "industry": "Manufacturing",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Chief Engineer",
+                "workplace": "Norrahammars Bruk",
+                "industry": "Manufacturing",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Chief Engineer",
+                "workplace": "Not specified",
+                "industry": "Not specified",
+                "start_date": "1941"
+            },
+            {
+                "occupational_title": "Assistant Director",
+                "workplace": "AB W. Dan Bergman",
+                "industry": "Not specified",
+                "start_date": "1942"
+            }
+        ]
+    }
+}

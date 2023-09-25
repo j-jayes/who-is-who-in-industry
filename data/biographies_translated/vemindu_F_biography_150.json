@@ -1,133 +1,164 @@
 {
     "original": "FRENNE, Nils Gustaf Hezekiel, Direktör, Göteborg, f Hbg 10/4 89 av sadelm C Johansson o Ingrid Månsdtr, gm Maja Nyberg. Studex 08, KTH (mek) 12. Ing v Mell- o Norra Sv Ångpannefrn 13—16, v Ruthsaccumulator AB 17, övering 18, tekn dir 23, v. vkst dir 27—31, vkst dir AB Spontan 31—39, i Sv Flygmotor AB sed. 40, överflytt t Gbg f att där omhänderha AB:s ekon aff 43. Led av ing.frn i London samt Verein Deutsch Ing.",
-    "translated": "FRENNE, Nils Gustaf Hezekiel, Director, Gothenburg, born in Helsingborg on April 10th, 1889, the son of saddle maker C Johansson and Ingrid Månsdtr, married to Maja Nyberg. Graduated from high school in 1908, KTH (Mechanical Engineering) in 1912. Employed at Mell- and Norra Sv Ångpannefrn from 1913 to 1916, Ruthsaccumulator AB in 1917, promoted in 1918, Technical Director in 1923, Vice Managing Director from 1927 to 1931, Managing Director of AB Spontan from 1931 to 1939, and employed at Sv Flygmotor AB since 1940. Transferred to Gothenburg in 1943 to manage the company's financial affairs. Member of the Engineering Association in London and Verein Deutsch Ing. Please note that \"gm\" denotes the abbreviation for married and the years are not provided for those marriages.",
+    "translated": "FRENNE, Nils Gustaf Hezekiel, Director, Gothenburg, born in Helsingborg on October 4th, 1889. Son of Sadelm C Johansson and Ingrid Månsdtr. Married to Maja Nyberg. Completed secondary education in 1908 and studied Mechanical Engineering at the Royal Institute of Technology (KTH) until 1912. Worked at Mell- and Norra Sv Ångpannefrn from 1913 to 1916, at Ruthsaccumulator AB in 1917, promoted in 1918, became Technical Director in 1923, Vice Chief Technical Director in 1927 until 1931, Vice Chief Technical Director at AB Spontan from 1931 to 1939, and at Svenska Flygmotor AB since 1940. Transferred to Gothenburg in 1943 to take care of the company's financial affairs. Member of the Institution of Engineers in London and the Verein Deutsch Ing.",
     "structured": {
-        "@context": "https://schema.org",
+        "@context": "http://schema.org",
         "@type": "Person",
-        "name": "Nils Gustaf Hezekiel FRENNE",
-        "jobTitle": "Director",
+        "name": "Nils Gustaf Hezekiel Frenne",
+        "birthDate": "1889-10-04",
         "birthPlace": "Helsingborg",
-        "birthDate": "1889-04-10",
-        "parent": [
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Gothenburg"
+        },
+        "father": {
+            "@type": "Person",
+            "name": "Sadelm C Johansson"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Ingrid Månsdtr"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Maja Nyberg"
+        },
+        "educationalBackground": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "secondaryEducation",
+            "dateReceived": "1908"
+        },
+        "alumniOf": [
             {
-                "@type": "Person",
-                "name": "C Johansson",
-                "jobTitle": "Saddle Maker"
-            },
-            {
-                "@type": "Person",
-                "name": "Ingrid Månsdtr"
+                "@type": "CollegeOrUniversity",
+                "name": "Royal Institute of Technology (KTH)",
+                "location": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm"
+                },
+                "course": {
+                    "@type": "EducationalOccupationalProgram",
+                    "name": "Mechanical Engineering"
+                },
+                "startDate": "1908",
+                "endDate": "1912"
             }
         ],
-        "spouse": [
+        "work": [
             {
-                "@type": "Person",
-                "name": "Maja Nyberg"
-            }
-        ],
-        "education": [
-            {
-                "@type": "EducationalOccupationalCredential",
-                "credentialCategory": "High school diploma",
-                "educationalLevel": "Graduate",
-                "dateIssued": "1908"
-            },
-            {
-                "@type": "EducationalOccupationalCredential",
-                "credentialCategory": "Mechanical Engineering",
-                "educationalLevel": "Bachelor's Degree",
-                "dateIssued": "1912"
-            }
-        ],
-        "worksFor": [
-            {
-                "@type": "Organization",
-                "name": "Mell- and Norra Sv Ångpannefrn",
+                "@type": "OrganizationRole",
+                "namedPosition": "Director",
                 "startDate": "1913",
-                "endDate": "1916"
+                "endDate": "1916",
+                "worksFor": {
+                    "@type": "Organization",
+                    "name": "Mell- and Norra Sv Ångpannefrn"
+                }
             },
             {
-                "@type": "Organization",
-                "name": "Ruthsaccumulator AB",
-                "startDate": "1917"
+                "@type": "OrganizationRole",
+                "namedPosition": "Director",
+                "startDate": "1917",
+                "endDate": "1917",
+                "worksFor": {
+                    "@type": "Organization",
+                    "name": "Ruthsaccumulator AB"
+                }
             },
             {
-                "@type": "Organization",
-                "name": "AB Spontan",
+                "@type": "OrganizationRole",
+                "namedPosition": "Technical Director",
+                "startDate": "1923",
+                "endDate": "1927",
+                "worksFor": {
+                    "@type": "Organization",
+                    "name": "Mell- and Norra Sv Ångpannefrn"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "namedPosition": "Vice Chief Technical Director",
+                "startDate": "1927",
+                "endDate": "1931",
+                "worksFor": {
+                    "@type": "Organization",
+                    "name": "AB Spontan"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "namedPosition": "Vice Chief Technical Director",
                 "startDate": "1931",
-                "endDate": "1939"
+                "endDate": "1939",
+                "worksFor": {
+                    "@type": "Organization",
+                    "name": "AB Spontan"
+                }
             },
             {
-                "@type": "Organization",
-                "name": "Sv Flygmotor AB",
-                "startDate": "1940"
+                "@type": "OrganizationRole",
+                "namedPosition": "Vice Chief Technical Director",
+                "startDate": "1940",
+                "worksFor": {
+                    "@type": "Organization",
+                    "name": "Svenska Flygmotor AB"
+                }
             }
         ],
         "memberOf": [
             {
                 "@type": "Organization",
-                "name": "Engineering Association in London"
+                "name": "Institution of Engineers in London"
             },
             {
                 "@type": "Organization",
                 "name": "Verein Deutsch Ing"
             }
-        ],
-        "address": {
-            "@type": "PostalAddress",
-            "addressLocality": "Gothenburg"
-        },
-        "description": "Nils Gustaf Hezekiel FRENNE was a Swedish director born on April 10th, 1889, in Helsingborg. He was the son of saddle maker C Johansson and Ingrid Månsdtr. He was married to Maja Nyberg. He graduated from high school in 1908 and obtained a bachelor's degree in Mechanical Engineering from KTH in 1912. Nils Gustaf Hezekiel FRENNE worked for several organizations throughout his career, including Mell- and Norra Sv Ångpannefrn from 1913 to 1916, Ruthsaccumulator AB in 1917, AB Spontan from 1931 to 1939, and Sv Flygmotor AB since 1940. In 1943, he was transferred to Gothenburg to manage the financial affairs of the company. He was also a member of the Engineering Association in London and Verein Deutsch Ing."
+        ]
     },
     "occupations": {
         "career": [
             {
-                "occupational_title": "Engineer",
+                "occupational_title": "Ing v Mell- o Norra Sv Ångpannefrn",
                 "workplace": "Mell- and Norra Sv Ångpannefrn",
                 "industry": "Engineering",
                 "start_date": "1913"
             },
             {
-                "occupational_title": "Employee",
+                "occupational_title": "v Ruthsaccumulator AB",
                 "workplace": "Ruthsaccumulator AB",
-                "industry": "Unknown",
+                "industry": "Engineering",
                 "start_date": "1917"
             },
             {
-                "occupational_title": "Promotion",
+                "occupational_title": "övering",
                 "workplace": "Ruthsaccumulator AB",
-                "industry": "Unknown",
+                "industry": "Engineering",
                 "start_date": "1918"
             },
             {
-                "occupational_title": "Technical Director",
-                "workplace": "Unknown",
-                "industry": "Unknown",
+                "occupational_title": "tekn dir",
+                "workplace": "Ruthsaccumulator AB",
+                "industry": "Engineering",
                 "start_date": "1923"
             },
             {
-                "occupational_title": "Vice Managing Director",
-                "workplace": "Unknown",
-                "industry": "Unknown",
+                "occupational_title": "v. vkst dir",
+                "workplace": "AB Spontan",
+                "industry": "Engineering",
                 "start_date": "1927"
             },
             {
-                "occupational_title": "Managing Director",
+                "occupational_title": "vkst dir AB Spontan",
                 "workplace": "AB Spontan",
-                "industry": "Unknown",
+                "industry": "Engineering",
                 "start_date": "1931"
             },
             {
-                "occupational_title": "Employee",
+                "occupational_title": "i Sv Flygmotor AB",
                 "workplace": "Sv Flygmotor AB",
                 "industry": "Aviation",
                 "start_date": "1940"
-            },
-            {
-                "occupational_title": "Transfer to Gothenburg",
-                "workplace": "Sv Flygmotor AB",
-                "industry": "Aviation",
-                "start_date": "1943"
             }
         ]
     }

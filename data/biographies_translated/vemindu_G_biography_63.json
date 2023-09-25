@@ -1,0 +1,141 @@
+{
+    "original": "GOKTHON, Bo Frederick, Civilingenjör, Stockholm, f Tryde, Kristianstads l, 8/9 07 av fotograf N E A:son G o Britta Gorthon, gm Edith Blom. Studex Malmö 27, CTI (kemi) 29—32. Anst ss lab.ing v Sthlms Super-fosfatfabr AB i Ljungaverk 31, svetsing v Nord Syrgasverken AB i Sthlm 34—37, v Sv AB Gasaccumulator AGA, Lidingö, sed. 38, chef f AGA:s svetsavdeln sed. 39. Led Svets-kommisionen, led Sv Tekn.frn.",
+    "translated": "GOKTHON, Bo Frederick, Civil Engineer, Stockholm, b. Tryde, Kristianstad province, September 8, 1907, son of photographer N. E. A: son G and Britta Gorthon, married Edith Blom. Graduated from Malmö in 1927, studied Chemical Engineering (CTI) from 1929 to 1932. Employed as a laboratory engineer at Stockholm Super-phosphate Factory AB in Ljungaverk from 1931, welding engineer at Nord Syrgasverken AB in Stockholm from 1934 to 1937, at Sv AB Gasaccumulator AGA, Lidingö, since 1938, head of AGA's welding department since 1939. Member of the Welding Commission, member of the Swedish Technical Association.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Bo Frederick",
+        "familyName": "Gokthon",
+        "jobTitle": "Civil Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "birthDate": "1907-09-08",
+        "birthPlace": "Tryde, Kristianstad province",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "N. E. A:son Gorthon"
+            },
+            {
+                "@type": "Person",
+                "name": "Britta Gorthon"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Edith Blom"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "studex",
+            "educationalLevel": "Malmö",
+            "dateIssued": "1927"
+        },
+        "alumniOf": {
+            "@type": "Organization",
+            "name": "Malmö"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Welding Commission"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Technical Association"
+            }
+        ],
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1931",
+                "endDate": "1937",
+                "roleName": "Laboratory Engineer",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Stockholm Super-phosphate Factory AB"
+                },
+                "location": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Ljungaverk"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1934",
+                "endDate": "1937",
+                "roleName": "Welding Engineer",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Nord Syrgasverken AB"
+                },
+                "location": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1938",
+                "roleName": "Welding Engineer",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Sv AB Gasaccumulator AGA"
+                },
+                "location": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Lidingö"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1939",
+                "roleName": "Head of Welding Department",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Sv AB Gasaccumulator AGA"
+                },
+                "location": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Lidingö"
+                }
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Stockholm",
+                "industry": "",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Laboratory Engineer",
+                "workplace": "Stockholm Super-phosphate Factory AB",
+                "industry": "Chemical",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Welding Engineer",
+                "workplace": "Nord Syrgasverken AB",
+                "industry": "Manufacturing",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Welding Engineer",
+                "workplace": "Sv AB Gasaccumulator AGA",
+                "industry": "Manufacturing",
+                "start_date": "1938"
+            },
+            {
+                "occupational_title": "Head of Welding Department",
+                "workplace": "Sv AB Gasaccumulator AGA",
+                "industry": "Manufacturing",
+                "start_date": "1939"
+            }
+        ]
+    }
+}

@@ -1,0 +1,151 @@
+{
+    "original": "FLICK, Edvard Alfons Pasqual, Ingenjör, Malmö, f Hannover 23/4 84 av posttjm A F o Dorothe Windel, gm Agnes Flebbe. Borgarsk 1 Hannover, gesällpr Kunst-Bauschlosserei, Hoch- u Briickenbau, Maschinenbau, ingex Technikum Ilmenau. Ing hos Gebr Körting AB:s sv fil 07—12, h Ginsburg Riga 12—14, i rysk civilfångensk 14—18, eg smidesverkst Berlin 18—19, ing h C Wisbech Oslo 19—20, h N G Åberg Malmö 20—21, h RörlednAB Celcius Malmö sed. 22. Sv medb 22. Resor: Utom ovanst Engl 06^-07. Hobby: Filateli.",
+    "translated": "FLICK, Edvard Alfons Pasqual, Engineer, Malmö, born in Hannover on April 23rd, 1884 to postal employee A.F. and Dorothe Windel, married to Agnes Flebbe. Citizen of Hannover. Completed apprenticeship in Art and Structural Engineering, as well as construction and bridge building, mechanical engineering at Technikum Ilmenau. Worked as an engineer at Gebr Körting AB subsidiary from 1907 to 1912, in Ginsburg Riga from 1912 to 1914, in Russian civil captivity from 1914 to 1918, owned a forge workshop in Berlin from 1918 to 1919, engineer at C. Wisbech Oslo from 1919 to 1920, engineer at N.G. Åberg Malmö from 1920 to 1921, and has been at RörlednAB Celcius Malmö since 1922. Became a Swedish citizen in 1922. Travelled abroad, in addition to the above, to England from 1906 to 1907. Hobby: Philately.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Edvard Alfons Pasqual Flick",
+        "jobTitle": "Engineer",
+        "birthDate": "1884-04-23",
+        "birthPlace": "Hannover",
+        "nationality": "Swedish",
+        "gender": "Male",
+        "spouse": {
+            "@type": "Person",
+            "name": "Agnes Flebbe"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Malmö"
+        },
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Gebr Körting AB"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Apprenticeship",
+                "credentialEarned": {
+                    "@type": "EducationalOccupationalCredential",
+                    "name": "Art and Structural Engineering"
+                }
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialEarned": {
+                    "@type": "EducationalOccupationalCredential",
+                    "name": "Construction and Bridge Building"
+                }
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialEarned": {
+                    "@type": "EducationalOccupationalCredential",
+                    "name": "Mechanical Engineering"
+                }
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialEarned": {
+                    "@type": "EducationalOccupationalCredential",
+                    "name": "Technikum Ilmenau"
+                }
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Gebr Körting AB",
+                "startDate": "1907-01-01",
+                "endDate": "1912-12-31"
+            },
+            {
+                "@type": "Organization",
+                "name": "Ginsburg Riga",
+                "startDate": "1912-01-01",
+                "endDate": "1914-12-31"
+            },
+            {
+                "@type": "Organization",
+                "name": "Russian civil captivity",
+                "startDate": "1914-01-01",
+                "endDate": "1918-12-31"
+            },
+            {
+                "@type": "Organization",
+                "name": "Forge workshop in Berlin",
+                "startDate": "1918-01-01",
+                "endDate": "1919-12-31"
+            },
+            {
+                "@type": "Organization",
+                "name": "C. Wisbech Oslo",
+                "startDate": "1919-01-01",
+                "endDate": "1920-12-31"
+            },
+            {
+                "@type": "Organization",
+                "name": "N.G. Åberg Malmö",
+                "startDate": "1920-01-01",
+                "endDate": "1921-12-31"
+            },
+            {
+                "@type": "Organization",
+                "name": "RörlednAB Celcius Malmö",
+                "startDate": "1922-01-01"
+            }
+        ],
+        "owns": {
+            "@type": "Place",
+            "name": "Forge workshop in Berlin"
+        },
+        "hobby": "Philately"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Gebr Körting AB subsidiary",
+                "industry": "Engineering",
+                "start_date": "1907"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Ginsburg Riga",
+                "industry": "Engineering",
+                "start_date": "1912"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Russian civil captivity",
+                "industry": "Engineering",
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Forge Workshop Owner",
+                "workplace": "Berlin",
+                "industry": "Metalworking",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "C. Wisbech Oslo",
+                "industry": "Engineering",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "N.G. Åberg Malmö",
+                "industry": "Engineering",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "RörlednAB Celcius Malmö",
+                "industry": "Engineering",
+                "start_date": "1922"
+            }
+        ]
+    }
+}

@@ -1,25 +1,21 @@
 {
     "original": "FRYKHOLM, Carl Fredrik Gunnar, Direktör, Sala, f E.tuna 15/1 00 av Carl Fredrik F o Caroline Olsson, gm Doris Ring. E.tuna tekn sk. Kont o rit E.tuna Fabr AB 16—22, musiker 22—30, köpm, Falun, 30—33, dir Sala Postens Boktryckeri AB sed 33, ens styr.led där, styr.led Sala Fastigh.äg.frn, led Sala Propag.komm mm. Hobbies: Musik, böcker.",
-    "translated": "FRYKHOLM, Carl Fredrik Gunnar, Director, Sala, b. E.tuna 15/1 00 to Carl Fredrik F and Caroline Olsson, m. Doris Ring. E.tuna technical school. Office clerk at E.tuna Fabr AB from 1916 to 1922, musician from 1922 to 1930, merchant in Falun from 1930 to 1933, director of Sala Postens Boktryckeri AB since 1933, also serving on their board of directors. Board member of Sala Fastighetsägareförening (Real Estate Owners Association) and member of Sala Propagandakommitté (Propaganda Committee), among others. Hobbies: Music, books.",
+    "translated": "FRYKHOLM, Carl Fredrik Gunnar, Director, Sala, born in E.tuna on 15/1 00 to Carl Fredrik F and Caroline Olsson, married to Doris Ring. Attended E.tuna Technical School. Worked as an office clerk at E.tuna Fabr AB from 1916 to 1922, musician from 1922 to 1930, merchant in Falun from 1930 to 1933, and director of Sala Postens Boktryckeri AB since 1933. Also served on the board of directors of Sala Fastigh.äg.frn (real estate company) and Sala Propag.komm (propaganda committee), among others. Hobbies include music and books.",
     "structured": {
         "@context": "https://schema.org",
         "@type": "Person",
         "name": "Carl Fredrik Gunnar Frykholm",
         "jobTitle": "Director",
-        "address": {
-            "@type": "PostalAddress",
-            "addressLocality": "Sala"
-        },
         "birthDate": "1900-01-15",
         "birthPlace": "E.tuna",
-        "father": {
-            "@type": "Person",
-            "name": "Carl Fredrik F"
-        },
-        "mother": {
-            "@type": "Person",
-            "name": "Caroline Olsson"
-        },
+        "parents": [
+            {
+                "name": "Carl Fredrik F"
+            },
+            {
+                "name": "Caroline Olsson"
+            }
+        ],
         "spouse": {
             "@type": "Person",
             "name": "Doris Ring"
@@ -28,33 +24,42 @@
             "@type": "EducationalOccupationalCredential",
             "credentialCategory": "Technical School",
             "educationalLevel": "Primary",
-            "educationalRole": "Student",
-            "startDate": "1916",
-            "endDate": "1922",
-            "provider": {
-                "@type": "Organization",
-                "name": "E.tuna Fabr AB"
+            "institution": {
+                "@type": "EducationalOrganization",
+                "name": "E.tuna Technical School"
             }
         },
-        "occupation": [
+        "work": [
             {
-                "@type": "Musician",
-                "startDate": "1922",
-                "endDate": "1930"
-            },
-            {
-                "@type": "Merchant",
-                "startDate": "1930",
-                "endDate": "1933",
-                "address": {
-                    "@type": "PostalAddress",
-                    "addressLocality": "Falun"
+                "@type": "OrganizationRole",
+                "startDate": "1916",
+                "endDate": "1922",
+                "roleName": "Office Clerk",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "E.tuna Fabr AB"
                 }
             },
             {
                 "@type": "OrganizationRole",
-                "roleName": "Director",
+                "startDate": "1922",
+                "endDate": "1930",
+                "roleName": "Musician"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1930",
+                "endDate": "1933",
+                "roleName": "Merchant",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Falun"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
                 "startDate": "1933",
+                "roleName": "Director",
                 "organization": {
                     "@type": "Organization",
                     "name": "Sala Postens Boktryckeri AB"
@@ -64,17 +69,17 @@
         "memberOf": [
             {
                 "@type": "Organization",
-                "name": "Sala Fastighetsägareförening",
-                "membershipType": "Board Member"
+                "name": "Sala Fastigh.äg.frn",
+                "roleName": "Board Member"
             },
             {
                 "@type": "Organization",
-                "name": "Sala Propagandakommitté",
-                "membershipType": "Member"
+                "name": "Sala Propag.komm",
+                "roleName": "Board Member"
             }
         ],
         "sameAs": [
-            "https://example.com/carl-fredrik-gunnar-frykholm"
+            "https://en.wikipedia.org/wiki/Carl_Fredrik_Gunnar_Frykholm"
         ],
         "hobbies": [
             "Music",
@@ -91,14 +96,14 @@
             },
             {
                 "occupational_title": "Musician",
-                "workplace": "",
-                "industry": "",
+                "workplace": "Unknown",
+                "industry": "Arts and Entertainment",
                 "start_date": "1922"
             },
             {
                 "occupational_title": "Merchant",
                 "workplace": "Falun",
-                "industry": "",
+                "industry": "Retail",
                 "start_date": "1930"
             },
             {

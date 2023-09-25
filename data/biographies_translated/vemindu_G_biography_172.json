@@ -1,0 +1,97 @@
+{
+    "original": "GUSTAFSSON, Gustav Oskar Åke, Disponent, Älvsered, f Älvsered 12/2 01 av disp A E G o Ellen von Schedvin, gm Majken Söderström. Ing.utbildning. Prakt USA 22—27, ag AB Älvsereds Trikåfabr (gr 28) o fastigh Solliden. Ordf byggn.nmd, led komm.flm. Ordf i Ellen o A E Gustafssons understödsf o Älvsereds tennisklubb. Resor: USA 22—27, Norge, Danm. Hobbies: Filateli, tennis.",
+    "translated": "GUSTAFSSON, Gustav Oskar Åke, Manager, Älvsered, born in Älvsered on February 12, 1901, son of the manager A E G and Ellen von Schedvin. Married to Majken Söderström. No formal education. Practical experience in the USA from 1922 to 1927, worked for AB Älvsereds Trikåfabr (since 1928) and owned property called Solliden. Chairman of the building committee, member of the municipal board. Chairman of the Ellen and A E Gustafsson's relief fund and Älvsereds tennis club. Travelled to the USA from 1922 to 1927, as well as to Norway and Denmark. Hobbies: Philately, tennis.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Gustav Oskar Åke Gustafsson",
+        "jobTitle": "Manager",
+        "birthPlace": "Älvsered",
+        "birthDate": "1901-02-12",
+        "father": {
+            "@type": "Person",
+            "name": "A E G Gustafsson",
+            "jobTitle": "Manager"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Ellen von Schedvin"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Majken Söderström"
+        },
+        "education": "No formal education",
+        "workExperience": [
+            {
+                "@type": "Organization",
+                "name": "AB Älvsereds Trikåfabr",
+                "startDate": "1928"
+            }
+        ],
+        "owns": {
+            "@type": "Property",
+            "name": "Solliden"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Building Committee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Municipal Board"
+            },
+            {
+                "@type": "Organization",
+                "name": "Ellen and A E Gustafsson's Relief Fund"
+            },
+            {
+                "@type": "Organization",
+                "name": "Älvsereds Tennis Club"
+            }
+        ],
+        "travelled": [
+            {
+                "@type": "Place",
+                "name": "USA",
+                "startDate": "1922",
+                "endDate": "1927"
+            },
+            {
+                "@type": "Place",
+                "name": "Norway"
+            },
+            {
+                "@type": "Place",
+                "name": "Denmark"
+            }
+        ],
+        "hobbies": [
+            "Philately",
+            "Tennis"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Manager",
+                "workplace": "AB Älvsereds Trikåfabr",
+                "industry": "Textile manufacturing",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Chairman of the building committee",
+                "workplace": "Älvsered",
+                "industry": "Construction",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Member of the municipal board",
+                "workplace": "Älvsered",
+                "industry": "Government",
+                "start_date": null
+            }
+        ]
+    }
+}

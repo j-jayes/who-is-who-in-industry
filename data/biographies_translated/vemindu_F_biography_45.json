@@ -1,0 +1,151 @@
+{
+    "original": "FINEMAN, Carl Ludvig, Civilingenjör, Stockholm, f 19/2 92 av fil dr C G F o Ebba af Geijerstam, gm Greta Vogel. Studex 10, civingex KTH (kem tekn) 13; resoffex 12. Anst AB Bofors nobelkrut 14—19, Nykvarns pappersbr.AB/AB Nykvarns br 21—25, Kramfors AB 25—30, Sv cellulosa AB sed. 30. Ag villafastigh i Mellösa s:n Sörml. Studieres t USA 14, USA o Kanada 20—21. Frimurare, Par Bricole. Hobby: Filateli.",
+    "translated": "FINEMAN, Carl Ludvig, Civil Engineer, Stockholm, b. February 19, 1892, son of PhD C G F and Ebba af Geijerstam, m. Greta Vogel. Graduated (studex) at the age of 10, obtained a civil engineering degree (civingex) from the Royal Institute of Technology (KTH) in 1913 (chem. tech.). Commissioned officer candidate (resoffex) in 1912. Employed at AB Bofors Nobelkrut from 1914 to 1919, Nykvarns Pappersbr.AB/AB Nykvarns br from 1921 to 1925, Kramfors AB from 1925 to 1930, and Sv Cellulosa AB since 1930. Owns a villa property in Mellösa parish, Södermanland county. Studied in the USA in 1914, and in the USA and Canada from 1920 to 1921. Freemason, Par Bricole lodge. Hobby: Philately.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Ludvig Fineman",
+        "birthDate": "1892-02-19",
+        "birthPlace": "Stockholm",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "C G F",
+                "jobTitle": "PhD"
+            },
+            {
+                "@type": "Person",
+                "name": "Ebba af Geijerstam"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Greta Vogel"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "studex",
+            "educationalLevel": "Primary"
+        },
+        "knowsAbout": "Civil Engineering",
+        "alumniOf": {
+            "@type": "CollegeOrUniversity",
+            "name": "Royal Institute of Technology",
+            "location": "Stockholm"
+        },
+        "graduationDate": "1913",
+        "militaryService": {
+            "@type": "MilitaryPerson",
+            "category": "Reserve Officer Candidate",
+            "startDate": "1912"
+        },
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "AB Bofors Nobelkrut"
+                },
+                "startDate": "1914",
+                "endDate": "1919"
+            },
+            {
+                "@type": "OrganizationRole",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Nykvarns Pappersbr.AB/AB Nykvarns br"
+                },
+                "startDate": "1921",
+                "endDate": "1925"
+            },
+            {
+                "@type": "OrganizationRole",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Kramfors AB"
+                },
+                "startDate": "1925",
+                "endDate": "1930"
+            },
+            {
+                "@type": "OrganizationRole",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Sv Cellulosa AB"
+                },
+                "startDate": "1930"
+            }
+        ],
+        "owns": {
+            "@type": "LandmarksOrHistoricalBuildings",
+            "name": "Villa Property",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Mellösa",
+                "addressRegion": "Södermanland"
+            }
+        },
+        "additionalProperty": [
+            {
+                "@type": "PropertyValue",
+                "name": "Hobby",
+                "value": "Philately"
+            }
+        ],
+        "studyAbroad": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "studex",
+                "educationalLevel": "Primary",
+                "location": "USA",
+                "startDate": "1914"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "studex",
+                "educationalLevel": "Primary",
+                "location": "USA/Canada",
+                "startDate": "1920",
+                "endDate": "1921"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Freemasons"
+            },
+            {
+                "@type": "Organization",
+                "name": "Par Bricole Lodge"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "AB Bofors Nobelkrut",
+                "industry": "Explosives",
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Nykvarns Pappersbr.AB/AB Nykvarns br",
+                "industry": "Paper Manufacturing",
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Kramfors AB",
+                "industry": "Wood Industry",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Sv Cellulosa AB",
+                "industry": "Cellulose Manufacturing",
+                "start_date": "1930"
+            }
+        ]
+    }
+}

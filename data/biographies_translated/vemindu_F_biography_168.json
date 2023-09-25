@@ -1,0 +1,89 @@
+{
+    "original": "FRIMAN, Carl, Disponent, Lidköping, f Gösslunda, Skarab l, 16/9 82 av soldaten Alf ord Friman o h h. Eft att ha lärt smedyrket o några år anst ss smed o reparatör eg cykel- 0 rep.verkst und fma Lidans Verkstad 07, upptog tillverkn av fotogenmotorer 10 o motorvinschar av egen konstr 12, ombild fman t AB 18, huvuddeläg o vkst dir i detta. Resor: Norge, Danm, Finl, Lettl, Holl, Tyskl, Schweiz, Frankr, Ital. Odd Fellow.",
+    "translated": "FRIMAN, Carl, Manager, Lidköping, born in Gösslunda, Skaraborg County, on September 16, 1882, son of soldier Alf ord Friman and his wife. After learning the blacksmith trade and working for a few years as a blacksmith and bicycle repairman at Lidans Verkstad in 1907, he began manufacturing kerosene engines in 1910 and motor winches of his own design in 1912. The company was reorganized into a corporation in 1918, where he became the main owner and managing director. He traveled to Norway, Denmark, Finland, Latvia, the Netherlands, Germany, Switzerland, France, and Italy. He was a member of the Odd Fellow society.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Friman",
+        "jobTitle": "Manager",
+        "birthPlace": "Gösslunda, Skaraborg County, Sweden",
+        "birthDate": "1882-09-16",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Alford Friman",
+                "spouse": "Unknown"
+            }
+        ],
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Lidans Verkstad"
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Lidans Verkstad",
+            "startDate": "1907",
+            "endDate": "1918"
+        },
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Odd Fellow"
+        },
+        "travel": [
+            "Norway",
+            "Denmark",
+            "Finland",
+            "Latvia",
+            "Netherlands",
+            "Germany",
+            "Switzerland",
+            "France",
+            "Italy"
+        ],
+        "manufacturing": [
+            {
+                "product": "Kerosene engines",
+                "startDate": "1910"
+            },
+            {
+                "product": "Motor winches",
+                "design": "Own",
+                "startDate": "1912"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Blacksmith",
+                "workplace": "Lidans Verkstad",
+                "industry": "Manufacturing",
+                "start_date": "1907"
+            },
+            {
+                "occupational_title": "Bicycle Repairman",
+                "workplace": "Lidans Verkstad",
+                "industry": "Repair",
+                "start_date": "1907"
+            },
+            {
+                "occupational_title": "Manufacturer of Kerosene Engines",
+                "workplace": "Own company",
+                "industry": "Manufacturing",
+                "start_date": "1910"
+            },
+            {
+                "occupational_title": "Manufacturer of Motor Winches",
+                "workplace": "Own company",
+                "industry": "Manufacturing",
+                "start_date": "1912"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "Own company (reorganized into a corporation)",
+                "industry": "Manufacturing",
+                "start_date": "1918"
+            }
+        ]
+    }
+}

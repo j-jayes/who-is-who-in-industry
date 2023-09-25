@@ -1,0 +1,81 @@
+{
+    "original": "GULLANDER, Nils Emil Lennart, Disponent, Stockholm, f Sthlm 14/6 19 av dir E G R G o Signe Gustafson, gm Gerty Wulff. Kungsholmens hal, Schartaus. Anst h AB Gullander &amp; Co Sthlm sed. 39, disp sed. 44, deläg o styr.suppl där. Stud.res i Tyskl 37.",
+    "translated": "GULLANDER, Nils Emil Lennart, Accountant, Stockholm, b. Stockholm on June 14, 1919, son of director E.G.R.G and Signe Gustafson, m. Gerty Wulff. Resident of Kungsholmen, Schartau's. Employed at AB Gullander & Co in Stockholm since 1939, appointed as accountant in 1944, partial owner and board member there. Studied and resided in Germany in 1937.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Nils Emil Lennart Gullander",
+        "givenName": "Nils Emil Lennart",
+        "familyName": "Gullander",
+        "birthDate": "1919-06-14",
+        "birthPlace": "Stockholm",
+        "father": {
+            "@type": "Person",
+            "name": "E.G.R.G"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Signe Gustafson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Gerty Wulff"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm",
+            "streetAddress": "Kungsholmen"
+        },
+        "occupation": {
+            "@type": "Person",
+            "name": "Accountant",
+            "startDate": "1939",
+            "endDate": null
+        },
+        "affiliation": [
+            {
+                "@type": "Organization",
+                "name": "AB Gullander & Co",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm"
+                },
+                "position": {
+                    "@type": "Role",
+                    "roleName": "Accountant",
+                    "startDate": "1944",
+                    "endDate": null
+                },
+                "ownershipFundingInfo": "Partial owner"
+            },
+            {
+                "@type": "Organization",
+                "name": "Schartau's"
+            }
+        ],
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Studied",
+            "startDate": "1937",
+            "endDate": "1937",
+            "educationalLevel": "Resident",
+            "credentialSubject": "Germany"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Accountant",
+                "workplace": "AB Gullander & Co",
+                "industry": "Unknown",
+                "start_date": "1939"
+            },
+            {
+                "occupational_title": "Accountant",
+                "workplace": "AB Gullander & Co",
+                "industry": "Unknown",
+                "start_date": "1944"
+            }
+        ]
+    }
+}

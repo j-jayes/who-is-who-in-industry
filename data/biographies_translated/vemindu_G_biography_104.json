@@ -1,0 +1,102 @@
+{
+    "original": "GRUND, Johan (John) Fredrik, Järnhandlare, Kristinehamn, f Karlst 10/11 66 av fabr J G o Anna Andersson, gm Elin Larson. Karlst folksk.lär.semin övn.sk. Anst Nygren &amp; Åhlins järnhdl, Karlst, 81—92, Kjellman &amp; Co järnhdl, Kristineh, 92—00, etabl J Grund &amp; Co Järnhdl, Kristineh, 00, ch f denna. Styr.led Värml o Dals järnhdlfrn. Resor: Europa o Medelhavsland 28, USA o Västind 29. Frimurare. Hobbies: Läsn, resor, finsk badstu.",
+    "translated": "GRUND, Johan (John) Fredrik, Iron Merchant, Kristinehamn, born in Karlstad on November 10, 1866, the son of factory worker J G and Anna Andersson. Married to Elin Larson. Attended Karlstad Elementary School Teacher's Seminar, then worked at Nygren & Åhlins Iron Store in Karlstad from 1881-1892. Moved on to Kjellman & Co Iron Store in Kristinehamn from 1892-1900, and finally established J Grund & Co Iron Store in Kristinehamn from 1900, where he became the chairman. Also served on the board of Värmland and Dals Iron Trade Association. Traveled to Europe and Mediterranean countries in 1928 and to the USA and West Indies in 1929. Freemason. Hobbies include reading, traveling, and Finnish sauna.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Johan Fredrik Grund",
+        "alternateName": "John Grund",
+        "jobTitle": "Iron Merchant",
+        "birthDate": "1866-11-10",
+        "birthPlace": "Karlstad",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "J G",
+                "jobTitle": "Factory Worker"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Andersson"
+            }
+        ],
+        "spouse": [
+            {
+                "@type": "Person",
+                "name": "Elin Larson"
+            }
+        ],
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Karlstad Elementary School Teacher's Seminar"
+        },
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Nygren & Åhlins Iron Store",
+                    "location": "Karlstad"
+                },
+                "startDate": "1881",
+                "endDate": "1892"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Kjellman & Co Iron Store",
+                    "location": "Kristinehamn"
+                },
+                "startDate": "1892",
+                "endDate": "1900"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "J Grund & Co Iron Store",
+                    "location": "Kristinehamn"
+                },
+                "startDate": "1900"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Värmland and Dals Iron Trade Association",
+            "position": "Board Member"
+        },
+        "sameAs": [
+            "https://www.example.com/johan-grund"
+        ],
+        "hobbies": [
+            "Reading",
+            "Traveling",
+            "Finnish sauna"
+        ],
+        "birthGender": "Male",
+        "nationality": "Swedish"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Iron Merchant",
+                "workplace": "J Grund & Co Iron Store",
+                "industry": "Iron Trade",
+                "start_date": "1900"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Kjellman & Co Iron Store",
+                "industry": "Iron Trade",
+                "start_date": "1892"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Nygren & Åhlins Iron Store",
+                "industry": "Iron Trade",
+                "start_date": "1881"
+            }
+        ]
+    }
+}

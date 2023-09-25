@@ -1,21 +1,25 @@
 {
     "original": "FREDRIKSSON, Karl Evert, Direktör, Stockholm, f Gottröra, Uppl 15/2 03 av grhdl C F F o Elin Wall, gm Anna Jacobson. Studex, resoffex, prakt i utl. Anst Fredriksson &amp; Co AB fr 27, nu huv.deläg i detta. Timmerman.",
-    "translated": "FREDRIKSSON, Karl Evert, Director, Stockholm, born in Gottröra, Uppland on February 15, 1903, son of nobleman Carl Fredrik Fredriksson and Elin Wall, married to Anna Jacobson. Completed studies, served as a reserve officer, gained practical experience abroad. Employed at Fredriksson & Co AB since 1927, now a major shareholder. Carpenter by profession.",
+    "translated": "FREDRIKSSON, Karl Evert, Director, Stockholm, b. in Gottröra, Uppland on February 15, 1903, son of businessman Carl Fredrik Fredriksson and Elin Wall, married Anna Jacobson. Completed studies, served as a reserve officer, and gained practical experience abroad. Started working at Fredriksson & Co AB in 1927, and is currently a major shareholder in the company. Previously worked as a carpenter.",
     "structured": {
-        "@context": "https://schema.org",
+        "@context": "http://schema.org/",
         "@type": "Person",
         "name": "Karl Evert Fredriksson",
         "jobTitle": "Director",
         "birthDate": "1903-02-15",
         "birthPlace": {
-            "@type": "Country",
-            "name": "Sweden"
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Gottröra",
+                "addressRegion": "Uppland"
+            }
         },
-        "parent": [
+        "parents": [
             {
                 "@type": "Person",
                 "name": "Carl Fredrik Fredriksson",
-                "jobTitle": "Nobleman"
+                "jobTitle": "Businessman"
             },
             {
                 "@type": "Person",
@@ -28,50 +32,61 @@
         },
         "education": {
             "@type": "EducationalOccupationalCredential",
-            "credentialCategory": "Studex"
-        },
-        "occupation": {
-            "@type": "Occupation",
-            "name": "Director"
-        },
-        "workExperience": {
-            "@type": "OrganizationRole",
-            "namedPosition": "Reserve Officer",
-            "startDate": "1927"
+            "credentialCategory": "completed studies"
         },
         "memberOf": {
             "@type": "Organization",
-            "name": "Fredriksson & Co AB",
-            "founder": {
-                "@type": "Person",
-                "name": "Karl Evert Fredriksson"
-            },
-            "majorShareholder": [
-                {
-                    "@type": "Person",
-                    "name": "Karl Evert Fredriksson"
-                }
-            ]
+            "name": "Fredriksson & Co AB"
         },
-        "additionalProperty": {
-            "@type": "PropertyValue",
-            "name": "Profession",
-            "value": "Carpenter"
-        }
+        "workExperience": [
+            {
+                "@type": "WorkExperience",
+                "startDate": "1927",
+                "endDate": "Present",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Fredriksson & Co AB"
+                },
+                "position": "Major Shareholder"
+            },
+            {
+                "@type": "WorkExperience",
+                "position": "Carpenter"
+            }
+        ],
+        "hasOccupation": "Director"
     },
     "occupations": {
         "career": [
             {
+                "occupational_title": "Director",
+                "workplace": "Stockholm",
+                "industry": "Unknown",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Reserve Officer",
+                "workplace": "Unknown",
+                "industry": "Military",
+                "start_date": null
+            },
+            {
                 "occupational_title": "Carpenter",
-                "workplace": "Fredriksson & Co AB",
+                "workplace": "Unknown",
                 "industry": "Construction",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Fredriksson & Co AB",
+                "industry": "Unknown",
                 "start_date": "1927"
             },
             {
-                "occupational_title": "Director",
+                "occupational_title": "Major Shareholder",
                 "workplace": "Fredriksson & Co AB",
-                "industry": "Business",
-                "start_date": "Unknown"
+                "industry": "Unknown",
+                "start_date": null
             }
         ]
     }

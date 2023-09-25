@@ -1,0 +1,108 @@
+{
+    "original": "GRÄMER, Eric, Sågverksägare, Trävaruhandlare, Söderhamn, f Mo, Gävleb l, 20/11 87, gm Carin Söderblom. Anst h grhdl Evald Larsson Kilfors 10, eg rör i träv.bransch 11— 12, anst v Florsjö såg 13, övert dna 19, inneh av Wågbro såg 18, Axmarby såg 29—34, deläg i Järsvallens såg 32—36, inneh fma Eric Grämer, trav, Södhn. Styr.led Gefleb folkbk 17— 33. Hobby: Skytte.",
+    "translated": "GRÄMER, Eric, Sawmill owner, Timber merchant, Söderhamn, born in Gävleborg county, 20th November 1887, married to Carin Söderblom. Employed by Evald Larsson Kilfors 1910, worked in the wood industry from 1911 to 1912, employed by Florsjö sawmill in 1913, took over the business in 1919, owned Wågbro sawmill in 1918, owned Axmarby sawmill from 1929 to 1934, co-owned Järsvallens sawmill from 1932 to 1936. Owner of Eric Grämer Trav (a horse) in Söderhamn. Board member of Gefleborgs Folkbank from 1917 to 1933. Hobby: Shooting.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Eric Grämer",
+        "birthDate": "1887-11-20",
+        "birthPlace": "Gävleborg County",
+        "jobTitle": [
+            "Sawmill Owner",
+            "Timber Merchant"
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Evald Larsson Kilfors",
+                "startDate": "1910",
+                "endDate": "1910"
+            },
+            {
+                "@type": "Organization",
+                "name": "Florsjö Sawmill",
+                "startDate": "1913",
+                "endDate": "1913"
+            }
+        ],
+        "owns": [
+            {
+                "@type": "Organization",
+                "name": "Wågbro Sawmill",
+                "startDate": "1918",
+                "endDate": "1918"
+            },
+            {
+                "@type": "Organization",
+                "name": "Axmarby Sawmill",
+                "startDate": "1929",
+                "endDate": "1934"
+            },
+            {
+                "@type": "Organization",
+                "name": "Järsvallens Sawmill",
+                "startDate": "1932",
+                "endDate": "1936"
+            }
+        ],
+        "ownsBusiness": {
+            "@type": "Organization",
+            "name": "Eric Grämer Trav",
+            "location": "Söderhamn"
+        },
+        "spouse": "Carin Söderblom",
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Gefleborgs Folkbank",
+            "startDate": "1917",
+            "endDate": "1933"
+        },
+        "hobby": "Shooting"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Sawmill owner",
+                "workplace": "Eric Grämer",
+                "industry": "Sawmill industry",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Timber merchant",
+                "workplace": "Eric Grämer",
+                "industry": "Timber industry",
+                "start_date": "1911"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Evald Larsson Kilfors",
+                "industry": "Wood industry",
+                "start_date": "1910"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Florsjö sawmill",
+                "industry": "Sawmill industry",
+                "start_date": "1913"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "Wågbro sawmill",
+                "industry": "Sawmill industry",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "Axmarby sawmill",
+                "industry": "Sawmill industry",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Co-owner",
+                "workplace": "Järsvallens sawmill",
+                "industry": "Sawmill industry",
+                "start_date": "1932"
+            }
+        ]
+    }
+}

@@ -1,0 +1,147 @@
+{
+    "original": "FÅHRAEUS, Gustaf Edvard, Civilingenjör, Fil måg, Stockholm, f Sthlm 11/4 10 av rekt o lärov.råd R F o Disa Forsell, gm Leila Rycén. Fil kand 31, fil mag 32, civ.ing (el.tekn) 37. Forskn.ing Bolidens gruvAB centrallab, Sthlm, 37—41, offerting. AB Max Sievert, Ulvsunda, sed. 41. Resor: Norge o Danm fi ggr, Tyskl 36, 38, Österr, Tjeckoslov, Ung 38. °FÄI/TSTRöM, Carl Gustaf, Köpman, Falkenberg, f Falkenberg 30/4 93 av köpm H F o Olivia Hellberg. Inneh spannm- o foderfma Herman Fältström i Falkenberg, grund 88. Stdsflm fr 27, led av hamnstyr o dess ordf 38.",
+    "translated": "FÅHRAEUS, Gustaf Edvard, Civil Engineer, Master of Arts in Philosophy, Stockholm, born in Stockholm on April 11, 1910, son of the headmaster and school counsel R.F. and Disa Forsell, married to Leila Rycén. Bachelor of Arts in Philosophy in 1931, Master of Arts in Philosophy in 1932, Civil Engineer (Electrical Engineering) in 1937. Research engineer at Boliden Gruv AB Central Laboratory, Stockholm, from 1937 to 1941, then worked at AB Max Sievert in Ulvsunda since 1941. Traveled to Norway and Denmark several times, Germany in 1936 and 1938, Austria, Czechoslovakia, and Hungary in 1938.\n\nFÄI/TSTRÖM, Carl Gustaf, Merchant, Falkenberg, born in Falkenberg on April 30, 1893, son of merchant H.F. and Olivia Hellberg. Owner of the grain and feed company Herman Fältström in Falkenberg, established in 1888. Member of Stockholm's municipal council since 1927, member of the harbor board and its chairman since 1938.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Gustaf Edvard Fåhraeus",
+        "givenName": "Gustaf Edvard",
+        "familyName": "Fåhraeus",
+        "birthDate": "1910-04-11",
+        "birthPlace": "Stockholm",
+        "description": "Gustaf Edvard Fåhraeus was a Civil Engineer and a Master of Arts in Philosophy from Stockholm. He was born on April 11, 1910, in Stockholm. His parents were R.F. and Disa Forsell. He was married to Leila Rycén.",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "R.F. Fåhraeus",
+                "jobTitle": "Headmaster"
+            },
+            {
+                "@type": "Person",
+                "name": "Disa Forsell",
+                "jobTitle": "School Counsel"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Leila Rycén"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "bachelor",
+                "credentialSubject": "Arts in Philosophy",
+                "educationalLevel": "Bachelor's Degree",
+                "educationalProgram": {
+                    "@type": "EducationalProgram",
+                    "name": "Arts in Philosophy"
+                },
+                "dateAwarded": "1931"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "master",
+                "credentialSubject": "Arts in Philosophy",
+                "educationalLevel": "Master's Degree",
+                "educationalProgram": {
+                    "@type": "EducationalProgram",
+                    "name": "Arts in Philosophy"
+                },
+                "dateAwarded": "1932"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "professional",
+                "credentialSubject": "Civil Engineer (Electrical Engineering)",
+                "educationalLevel": "Professional Degree",
+                "educationalProgram": {
+                    "@type": "EducationalProgram",
+                    "name": "Civil Engineer (Electrical Engineering)"
+                },
+                "dateAwarded": "1937"
+            }
+        ],
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Research Engineer",
+                "startDate": "1937-01-01",
+                "endDate": "1941-12-31",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Boliden Gruv AB Central Laboratory",
+                    "address": {
+                        "@type": "PostalAddress"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Employee",
+                "startDate": "1941-01-01",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Max Sievert",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Ulvsunda"
+                    }
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Norway"
+            },
+            {
+                "@type": "Organization",
+                "name": "Denmark"
+            },
+            {
+                "@type": "Organization",
+                "name": "Germany"
+            },
+            {
+                "@type": "Organization",
+                "name": "Austria"
+            },
+            {
+                "@type": "Organization",
+                "name": "Czechoslovakia"
+            },
+            {
+                "@type": "Organization",
+                "name": "Hungary"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Boliden Gruv AB Central Laboratory, Stockholm",
+                "industry": "Mining",
+                "start_date": "1937"
+            },
+            {
+                "occupational_title": "Research Engineer",
+                "workplace": "Boliden Gruv AB Central Laboratory, Stockholm",
+                "industry": "Mining",
+                "start_date": "1937"
+            },
+            {
+                "occupational_title": "Research Engineer",
+                "workplace": "AB Max Sievert, Ulvsunda",
+                "industry": "Engineering",
+                "start_date": "1941"
+            },
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Herman Fältström, Falkenberg",
+                "industry": "Grain and Feed",
+                "start_date": "1888"
+            }
+        ]
+    }
+}

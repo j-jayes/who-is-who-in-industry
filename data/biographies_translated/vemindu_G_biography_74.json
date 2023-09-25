@@ -1,0 +1,113 @@
+{
+    "original": "GRAHAM, Edward Knut Patrik, Civilingenjör, Stockholm, f Sthlm 20/9 00 av ing Sam G 0 Kathie Peyron, gm Gerd Widell. Studex Lundsberg 19, KTH 24. El. ing Graham Brothers 25—32, KTH stip (hisstekn) Engl o USA 32—33, dir.ass Gran Broth 33—36, deläg Graham &amp; Son 37—40, ens ag sed. 40.",
+    "translated": "GRAHAM, Edward Knut Patrik, Engineer, Stockholm, b. Sthlm 20/9 00, son of engineer Sam G 0 Kathie Peyron, married to Gerd Widell. Student at Lundsberg 19, KTH 24. Electrical engineer at Graham Brothers 25—32, KTH scholarship (elevator technology) in England and the USA 32—33, assistant director at Gran Broth 33—36, co-owner of Graham & Son 37—40, sole proprietor since 40.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Edward Knut Patrik Graham",
+        "jobTitle": "Engineer",
+        "birthPlace": "Stockholm",
+        "birthDate": "1900-09-20",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Sam Graham",
+                "jobTitle": "Engineer"
+            },
+            {
+                "@type": "Person",
+                "name": "Kathie Peyron"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Gerd Widell"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Lundsberg"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "KTH"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Graham Brothers",
+                "startDate": "1925",
+                "endDate": "1932"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "KTH",
+                "roleName": "Scholarship Recipient",
+                "startDate": "1932",
+                "endDate": "1933",
+                "description": "Elevator technology"
+            },
+            {
+                "@type": "Organization",
+                "name": "Gran Broth",
+                "roleName": "Assistant Director",
+                "startDate": "1933",
+                "endDate": "1936"
+            },
+            {
+                "@type": "Organization",
+                "name": "Graham & Son",
+                "startDate": "1937",
+                "endDate": "1940",
+                "description": "Co-owner"
+            }
+        ],
+        "owns": {
+            "@type": "Organization",
+            "name": "Graham & Son",
+            "startDate": "1940",
+            "description": "Sole proprietor"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civilingenjör",
+                "workplace": "Stockholm",
+                "industry": "Engineering",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "El. ing",
+                "workplace": "Graham Brothers",
+                "industry": "Electrical Engineering",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "KTH stip (hisstekn)",
+                "workplace": "KTH",
+                "industry": "Scholarship (Elevator Technology)",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "dir.ass",
+                "workplace": "Gran Broth",
+                "industry": "Unknown",
+                "start_date": "1933"
+            },
+            {
+                "occupational_title": "deläg",
+                "workplace": "Graham & Son",
+                "industry": "Unknown",
+                "start_date": "1937"
+            },
+            {
+                "occupational_title": "ens ag sed.",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "1940"
+            }
+        ]
+    }
+}

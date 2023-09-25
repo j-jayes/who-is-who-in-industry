@@ -1,0 +1,128 @@
+{
+    "original": "GUSTAFSON, Harald Gustaf Rikard, Civilingenjör, Malmö, f Motala 24/8 91 av ing AG G o Jenny Hedvall, gm Tora Ahlin. Studex Linkp 10, KTH (VoV) 11—15. Militärkurs f intr i VVK 15, löjtn VVK 19, kapt 27. Anst v Ing.fina Kreiiger &amp; Linton 16, v SJ:s byggn- o bariavd 16—22, undering v SJ:s III distr 18—22, anst h AB Armerad Betong Malmö sed. 23. Led av Sv Tekn.frn.",
+    "translated": "GUSTAFSON, Harald Gustaf Rikard, Civil Engineer, Malmö, born in Motala on August 24th, 1891, son of engineer AG G and Jenny Hedvall, married to Tora Ahlin. Studied at Linköping University 1910, KTH (Royal Institute of Technology) 1911-1915. Military training at Väg- och Vattenbyggnadskåren (The Corps of Road and Water Construction) in 1915, promoted to Lieutenant in 1919, Captain in 1927. Employed at Ing.fina Kreiiger &amp; Linton in 1916, then at SJ:s (Swedish State Railways) construction and maintenance department from 1916-1922. Worked as an assistant engineer at SJ's III district from 1918-1922 and has been employed at AB Armerad Betong Malmö since 1923. Member of the Swedish Technical Association.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Harald Gustaf Rikard Gustafson",
+        "givenName": "Harald",
+        "familyName": "Gustafson",
+        "birthDate": "1891-08-24",
+        "birthPlace": "Motala, Sweden",
+        "description": "Civil Engineer",
+        "nationality": "Swedish",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "AG G Gustafson",
+                "jobTitle": "Engineer"
+            },
+            {
+                "@type": "Person",
+                "name": "Jenny Hedvall"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Tora Ahlin"
+        },
+        "education": [
+            {
+                "@type": "CollegeOrUniversity",
+                "name": "Linköping University",
+                "startDate": "1910",
+                "endDate": "1911"
+            },
+            {
+                "@type": "CollegeOrUniversity",
+                "name": "Royal Institute of Technology (KTH)",
+                "startDate": "1911",
+                "endDate": "1915"
+            }
+        ],
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "Ing.fina Kreiiger & Linton",
+                "startDate": "1916",
+                "endDate": "1916"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish State Railways (SJ)",
+                "department": "Construction and Maintenance",
+                "startDate": "1916",
+                "endDate": "1922"
+            },
+            {
+                "@type": "Organization",
+                "name": "SJ's III District",
+                "jobTitle": "Assistant Engineer",
+                "startDate": "1918",
+                "endDate": "1922"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Armerad Betong Malmö",
+                "startDate": "1923"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Technical Association"
+            }
+        ],
+        "militaryService": {
+            "@type": "Organization",
+            "name": "Väg- och Vattenbyggnadskåren (The Corps of Road and Water Construction)",
+            "trainingStartDate": "1915",
+            "promotions": [
+                {
+                    "@type": "PromotionEvent",
+                    "name": "Lieutenant",
+                    "promotionDate": "1919"
+                },
+                {
+                    "@type": "PromotionEvent",
+                    "name": "Captain",
+                    "promotionDate": "1927"
+                }
+            ]
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Malmö",
+                "industry": "Engineering",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Ing.fina Kreiiger & Linton",
+                "industry": "Engineering",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Assistant Engineer",
+                "workplace": "SJ's III district",
+                "industry": "Transportation",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "SJ's construction and maintenance department",
+                "industry": "Transportation",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "AB Armerad Betong Malmö",
+                "industry": "Construction",
+                "start_date": "1923"
+            }
+        ]
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "original": "FORELL,, Carl Wilhelm, Direktör, Göteborg, f Strömstad 21/2 93 av hdsskriv J F o Charlott Jeansen, gm Astrid Kärrby. Realex, Gbgs hdlsinst. Anst Norddeutsche Jutespin-nerei &amp; Weberei Hamburg 13—14, A Fröding &amp; Co Gbg 16—24, Fma Oscar Fröding Gbg 24—34, AB Oscar Fröding sed. 35, dela g o styr.led i de två sistn föret,",
+    "translated": "FORELL, Carl Wilhelm, Director, Gothenburg, b. Strömstad 21/2 93, son of customs officer J F and Charlott Jeansen, m. Astrid Kärrby. Realex (lower-level diploma), Gothenburg Commercial Institute. Employed at Norddeutsche Jutespinnerei & Weberei Hamburg 13-14, A Fröding & Co Gothenburg 16-24, Fma Oscar Fröding Gothenburg 24-34, AB Oscar Fröding since 35, co-owner and board member of the two latter companies.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Wilhelm Forell",
+        "jobTitle": "Director",
+        "birthDate": "1893-02-21",
+        "birthPlace": "Strömstad",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "J F Forell",
+                "jobTitle": "Customs Officer"
+            },
+            {
+                "@type": "Person",
+                "name": "Charlott Jeansen"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Astrid Kärrby"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Realex",
+            "educationalLevel": "Lower-level diploma",
+            "educationalCredentialAwarded": "Gothenburg Commercial Institute"
+        },
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "Norddeutsche Jutespinnerei & Weberei Hamburg",
+                "startDate": "1913",
+                "endDate": "1914"
+            },
+            {
+                "@type": "Organization",
+                "name": "A Fröding & Co",
+                "location": "Gothenburg",
+                "startDate": "1916",
+                "endDate": "1924"
+            },
+            {
+                "@type": "Organization",
+                "name": "Fma Oscar Fröding",
+                "location": "Gothenburg",
+                "startDate": "1924",
+                "endDate": "1934"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Oscar Fröding",
+                "location": "Gothenburg",
+                "startDate": "1935",
+                "roleName": "Co-owner and Board Member"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Employee",
+                "workplace": "Norddeutsche Jutespinnerei & Weberei",
+                "industry": "Textile manufacturing",
+                "start_date": "1913-1914"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "A Fröding & Co",
+                "industry": "Unknown",
+                "start_date": "1916-1924"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Fma Oscar Fröding",
+                "industry": "Unknown",
+                "start_date": "1924-1934"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "AB Oscar Fröding",
+                "industry": "Unknown",
+                "start_date": "Since 1935"
+            }
+        ]
+    }
+}

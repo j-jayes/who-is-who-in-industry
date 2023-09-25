@@ -1,0 +1,154 @@
+{
+    "original": "FJÄLLBÄCK, Lars Johan, Flygdirektör av 1. graden, Stockholm, f Sthlm 15/8 83 av fabr J A F o Carolina Carlsson, gm Susie Bolling. Civingex 06, stud USA, Engl, Frankr o Ryssl 06—12. Inneh Sv aeroplanfabr 13—16, ch.ing o vkst dir Nord aviatik AB 16—23, arb.ch v flygverkst v Flottans varv 23—26, stat be-siktn.man f luftfartyg 25—36, flygövering o ch Flygstyr :s tekn byrå 2&lt;&gt;—36, flygdir av 1. gr 36, ch Flygförvaltn :s kontr.byrå 36—38.",
+    "translated": "FJÄLLBÄCK, Lars Johan, Aviation Director of the 1st degree, Stockholm, born in Stockholm on August 15th, 1883, to factory worker J A F and Carolina Carlsson, married to Susie Bolling in 1906. Civil engineer exam in 1906, studied in the USA, England, France, and Russia from 1906 to 1912. Involved with Swedish airplane factory from 1913 to 1916, chief engineer and managing director of Nord Aviatik AB from 1916 to 1923, worked at the aviation workshop at the Naval shipyard from 1923 to 1926, state inspection officer for aircraft from 1925 to 1936, aviation inspector and chief of the Aeronautical Administration's Technical Bureau from 1928 to 1936, Aviation Director of the 1st degree from 1936, chief of the Aviation Administration's Contracts Bureau from 1936 to 1938.",
+    "structured": {
+        "@context": [
+            "http://schema.org",
+            {
+                "xsd": "http://www.w3.org/2001/XMLSchema#",
+                "date": "xsd:date"
+            }
+        ],
+        "@type": "Person",
+        "givenName": "Lars Johan",
+        "familyName": "Fjällbäck",
+        "birthDate": "1883-08-15",
+        "birthPlace": "Stockholm",
+        "description": "Aviation Director of the 1st degree",
+        "parents": [
+            {
+                "givenName": "J A F",
+                "occupation": "Factory Worker"
+            },
+            {
+                "givenName": "Carolina Carlsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "givenName": "Susie",
+            "familyName": "Bolling"
+        },
+        "education": [
+            {
+                "degree": "Civil Engineer",
+                "year": "1906"
+            },
+            {
+                "institution": "USA"
+            },
+            {
+                "institution": "England"
+            },
+            {
+                "institution": "France"
+            },
+            {
+                "institution": "Russia",
+                "startDate": "1906",
+                "endDate": "1912"
+            }
+        ],
+        "work": [
+            {
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Swedish Airplane Factory",
+                    "startDate": "1913",
+                    "endDate": "1916"
+                }
+            },
+            {
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Nord Aviatik AB",
+                    "startDate": "1916",
+                    "endDate": "1923"
+                },
+                "title": "Chief Engineer and Managing Director"
+            },
+            {
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Naval Shipyard",
+                    "startDate": "1923",
+                    "endDate": "1926"
+                },
+                "title": "Aviation Workshop"
+            },
+            {
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Aeronautical Administration",
+                    "startDate": "1925",
+                    "endDate": "1936"
+                },
+                "title": "State Inspection Officer"
+            },
+            {
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Aeronautical Administration's Technical Bureau",
+                    "startDate": "1928",
+                    "endDate": "1936"
+                },
+                "title": "Aviation Inspector and Chief"
+            },
+            {
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Aviation Administration's Contracts Bureau",
+                    "startDate": "1936",
+                    "endDate": "1938"
+                },
+                "title": "Chief"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Aviation Director of the 1st degree",
+                "workplace": "Stockholm",
+                "industry": "Aviation",
+                "start_date": "1936"
+            },
+            {
+                "occupational_title": "Chief of the Aviation Administration's Contracts Bureau",
+                "workplace": "Stockholm",
+                "industry": "Aviation",
+                "start_date": "1936"
+            },
+            {
+                "occupational_title": "State inspection officer for aircraft",
+                "workplace": "Stockholm",
+                "industry": "Aviation",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Aviation inspector and chief of the Aeronautical Administration's Technical Bureau",
+                "workplace": "Stockholm",
+                "industry": "Aviation",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Worked at the aviation workshop at the Naval shipyard",
+                "workplace": "Stockholm",
+                "industry": "Aviation",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Chief engineer and managing director of Nord Aviatik AB",
+                "workplace": "Stockholm",
+                "industry": "Aviation",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Involved with Swedish airplane factory",
+                "workplace": "Stockholm",
+                "industry": "Aviation",
+                "start_date": "1913"
+            }
+        ]
+    }
+}

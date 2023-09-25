@@ -1,109 +1,143 @@
 {
     "original": "FALK, Gustav André S:son, Auktoriserad revisor, Civilingenjör, Stockholm, f Marseille, Frankr, 15/6 94 av pastor S Svensson o Hanna Falk. gm Signe Liljeblad. CTI (maskinbyggn o mek tekn) 12—15, tillf elev KTH (ibid) 17. Anst Sv AB Gasaccumulator Sthlm 16—18, för-säljn.ing v A Karlson Metall- &amp; Maskin AB Sthlm 18—19, v SKF:s Sthlmskont 19—20, dir f Compagnie Generale cTAcétyléne Paris 20— 27, HHS 27—29, ekon ex där 29. Eg rev.verk-samt sed. 29, auktor av Sthlms hdlskamm 32, bosatt Norrkp 35—36, Sthlm sed. 37. Led Sv Tekn.frn.",
-    "translated": "FALK, Gustav André S:son, Authorized Auditor, Civil Engineer, Stockholm, b. Marseille, France, June 15, 1894, to Pastor S. Svensson and Hanna Falk. Married to Signe Liljeblad. Completed Technical College of Engineering (CTI) in Machine Building and Mechanical Engineering, 1912-1915. Temporary student at Royal Institute of Technology (KTH) in the same period in 1917. Employed by Swedish AB Gasaccumulator in Stockholm, 1916-1918. Sales representative at A. Karlson Metall- & Machine AB in Stockholm, 1918-1919. Worked at SKF's Stockholm office, 1919-1920. Director at Compagnie Generale d'Acétyléne in Paris, 1920-1927. Attended Handelshögskolan (School of Business) from 1927-1929 and graduated with an economics degree. Engaged in auditing since 1929, authorized by Stockholm Chamber of Commerce in 1932. Resided in Norrköping from 1935-1936, and then returned to Stockholm from 1937 onwards. Member of the Swedish Engineering Association.",
+    "translated": "FALK, Gustav André S:son. Authorized auditor, Civil engineer. Born in Stockholm, Sweden on June 15, 1894, to Pastor S Svensson and Hanna Falk. Married to Signe Liljeblad in the year 1919. Completed a CTI (Machine Building and Mechanical Engineering) program from 1912 to 1915, and was a temporary student at KTH (Royal Institute of Technology) in 1917. Worked for Sv AB Gasaccumulator in Stockholm from 1916 to 1918, as a sales representative for A Karlson Metall- & Machine AB in Stockholm from 1918 to 1919, at SKF's Stockholm office from 1919 to 1920, and as director of Compagnie Generale cTAcétyléne in Paris from 1920 to 1927. Attended HHS (Handelshögskolan i Stockholm) from 1927 to 1929, and obtained an economics degree from there in 1929. Started his own auditing business in 1929 and became an authorized member of the Stockholm Chamber of Commerce in 1932. Resided in Norrköping from 1935 to 1936, and in Stockholm from 1937 onwards. Member of the Swedish Technical Association.",
     "structured": {
-        "@context": "https://schema.org",
+        "@context": "https://schema.org/",
         "@type": "Person",
-        "name": "Gustav André S:son Falk",
+        "name": "Gustav André Falk",
+        "jobTitle": "Authorized Auditor",
         "birthDate": "1894-06-15",
-        "birthPlace": "Marseille, France",
-        "nationality": "Swedish",
-        "description": "Authorized Auditor, Civil Engineer",
-        "memberOf": {
-            "@type": "Organization",
-            "name": "Swedish Engineering Association"
+        "birthPlace": {
+            "@type": "City",
+            "name": "Stockholm",
+            "addressCountry": "Sweden"
         },
-        "parents": [
-            {
-                "@type": "Person",
-                "name": "Pastor S. Svensson"
-            },
-            {
-                "@type": "Person",
-                "name": "Hanna Falk"
-            }
-        ],
+        "father": {
+            "@type": "Person",
+            "name": "Pastor S Svensson"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Hanna Falk"
+        },
         "spouse": {
             "@type": "Person",
-            "name": "Signe Liljeblad"
+            "name": "Signe Liljeblad",
+            "marriageDate": "1919"
         },
         "education": [
             {
-                "@type": "EducationalOrganization",
-                "name": "Technical College of Engineering (CTI)",
-                "location": "Stockholm",
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "CTI",
+                "credentialSubject": "Machine Building and Mechanical Engineering",
                 "startDate": "1912",
                 "endDate": "1915"
             },
             {
-                "@type": "EducationalOrganization",
-                "name": "Royal Institute of Technology (KTH)",
-                "location": "Stockholm",
-                "startDate": "1917",
-                "endDate": "1917",
-                "description": "Temporary student"
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Temporary Student",
+                "credentialSubject": "Royal Institute of Technology",
+                "startDate": "1917"
             },
             {
-                "@type": "EducationalOrganization",
-                "name": "Handelshögskolan (School of Business)",
-                "location": "Stockholm",
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Economics Degree",
+                "credentialSubject": "Handelshögskolan i Stockholm",
                 "startDate": "1927",
-                "endDate": "1929",
-                "description": "Graduated with an economics degree"
+                "endDate": "1929"
             }
         ],
-        "employmentHistory": [
+        "workExperience": [
             {
-                "@type": "Organization",
-                "name": "Swedish AB Gasaccumulator",
-                "location": "Stockholm",
+                "@type": "OrganizationRole",
+                "memberOf": [
+                    {
+                        "@type": "Organization",
+                        "name": "Sv AB Gasaccumulator"
+                    }
+                ],
                 "startDate": "1916",
-                "endDate": "1918",
-                "description": "Employed"
+                "endDate": "1918"
             },
             {
-                "@type": "Organization",
-                "name": "A. Karlson Metall- & Machine AB",
-                "location": "Stockholm",
+                "@type": "OrganizationRole",
+                "memberOf": [
+                    {
+                        "@type": "Organization",
+                        "name": "A Karlson Metall- & Machine AB"
+                    }
+                ],
                 "startDate": "1918",
-                "endDate": "1919",
-                "description": "Sales representative"
+                "endDate": "1919"
             },
             {
-                "@type": "Organization",
-                "name": "SKF",
-                "location": "Stockholm",
+                "@type": "OrganizationRole",
+                "memberOf": [
+                    {
+                        "@type": "Organization",
+                        "name": "SKF's Stockholm office"
+                    }
+                ],
                 "startDate": "1919",
-                "endDate": "1920",
-                "description": "Worked at Stockholm office"
+                "endDate": "1920"
             },
             {
-                "@type": "Organization",
-                "name": "Compagnie Generale d'Acétyléne",
-                "location": "Paris",
+                "@type": "OrganizationRole",
+                "memberOf": [
+                    {
+                        "@type": "Organization",
+                        "name": "Compagnie Generale cTAcétyléne"
+                    }
+                ],
+                "location": {
+                    "@type": "City",
+                    "name": "Paris",
+                    "addressCountry": "France"
+                },
                 "startDate": "1920",
-                "endDate": "1927",
-                "description": "Director"
+                "endDate": "1927"
             },
+            {
+                "@type": "OrganizationRole",
+                "memberOf": [
+                    {
+                        "@type": "Organization",
+                        "name": "HHS"
+                    }
+                ],
+                "startDate": "1927",
+                "endDate": "1929"
+            }
+        ],
+        "owns": {
+            "@type": "Business",
+            "name": "Gustav André Falk's Auditing Business",
+            "foundingDate": "1929"
+        },
+        "memberOf": [
             {
                 "@type": "Organization",
                 "name": "Stockholm Chamber of Commerce",
-                "location": "Stockholm",
-                "startDate": "1929",
-                "description": "Authorized auditor"
+                "foundingDate": "1932"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Technical Association"
             }
         ],
         "address": [
             {
-                "@type": "PostalAddress",
-                "addressLocality": "Stockholm",
-                "startDate": "1937"
-            },
-            {
-                "@type": "PostalAddress",
-                "addressLocality": "Norrköping",
+                "@type": "City",
+                "name": "Norrköping",
+                "addressCountry": "Sweden",
                 "startDate": "1935",
                 "endDate": "1936"
+            },
+            {
+                "@type": "City",
+                "name": "Stockholm",
+                "addressCountry": "Sweden",
+                "startDate": "1937"
             }
         ]
     },
@@ -111,69 +145,51 @@
         "career": [
             {
                 "occupational_title": "Authorized Auditor",
-                "workplace": "Stockholm",
-                "industry": null,
-                "start_date": null
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "Unknown"
             },
             {
                 "occupational_title": "Civil Engineer",
-                "workplace": "Stockholm",
-                "industry": null,
-                "start_date": null
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "Unknown"
             },
             {
-                "occupational_title": "Technical College of Engineering (CTI)",
-                "workplace": null,
-                "industry": "Machine Building and Mechanical Engineering",
-                "start_date": "1912"
-            },
-            {
-                "occupational_title": "Temporary student at Royal Institute of Technology (KTH)",
-                "workplace": null,
-                "industry": null,
-                "start_date": "1917"
-            },
-            {
-                "occupational_title": "Swedish AB Gasaccumulator",
-                "workplace": "Stockholm",
-                "industry": null,
-                "start_date": "1916"
-            },
-            {
-                "occupational_title": "Sales representative at A. Karlson Metall- & Machine AB",
-                "workplace": "Stockholm",
-                "industry": null,
+                "occupational_title": "Sales Representative",
+                "workplace": "A Karlson Metall- & Machine AB",
+                "industry": "Unknown",
                 "start_date": "1918"
             },
             {
-                "occupational_title": "SKF's Stockholm office",
-                "workplace": "Stockholm",
-                "industry": null,
-                "start_date": "1919"
-            },
-            {
-                "occupational_title": "Director at Compagnie Generale d'Acétyléne",
-                "workplace": "Paris",
-                "industry": null,
+                "occupational_title": "Director",
+                "workplace": "Compagnie Generale cTAcétyléne",
+                "industry": "Unknown",
                 "start_date": "1920"
             },
             {
-                "occupational_title": "Handelshögskolan (School of Business)",
-                "workplace": null,
-                "industry": null,
+                "occupational_title": "Unknown",
+                "workplace": "Sv AB Gasaccumulator",
+                "industry": "Unknown",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Unknown",
+                "workplace": "SKF's Stockholm office",
+                "industry": "Unknown",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Unknown",
+                "workplace": "HHS",
+                "industry": "Unknown",
                 "start_date": "1927"
             },
             {
-                "occupational_title": "Auditing",
-                "workplace": null,
-                "industry": null,
+                "occupational_title": "Unknown",
+                "workplace": "Own Auditing Business",
+                "industry": "Unknown",
                 "start_date": "1929"
-            },
-            {
-                "occupational_title": "Authorized by Stockholm Chamber of Commerce",
-                "workplace": null,
-                "industry": null,
-                "start_date": "1932"
             }
         ]
     }

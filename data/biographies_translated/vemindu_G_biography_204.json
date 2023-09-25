@@ -1,0 +1,86 @@
+{
+    "original": "GÖTHEBSTBÖM, Gunnar Wilhelm, Disponent, Gäddviken, f Gamleby, Kalm l, 27/1 84 av l:e lantmät O G o Bertha Sabelström, gm Sigrid von Unge. KTH 06. Kem o driftsing v Gäddvikens Superf.fabr 05—08, fabrikschef 08, disp sed. 17. Kommunalflm i Nacka 14—34.",
+    "translated": "GÖTHEBSTBÖM, Gunnar Wilhelm, Disponent (Manager), Gäddviken, f (from) Gamleby, Kalm l (Kalmar län/County), 27/1 (January) 84 (1884), av (son) l:e (lantmäteri/Land surveyor) O G (Olof Gustaf) o (and) Bertha Sabelström, gm (married to) Sigrid von Unge. KTH (Royal Institute of Technology) 06 (1906). Kem (Chemistry) o (and) driftsing (Engineering) v (at) Gäddvikens Superf.fabr (Gäddviken's Superphosphate Factory) 05—08, fabrikschef (factory manager) 08 (1908), disp (manager) sed. (since) 17 (1917). Kommunalflm (Municipal official) i (in) Nacka 14—34 (1914-1934).\n\nTranslation:\nGunnar Wilhelm Göthebstböm, born on January 27, 1884 in Gäddviken, Gamleby, Kalmar County. He was the son of Olof Gustaf and Bertha Sabelström. He married Sigrid von Unge. He studied at the Royal Institute of Technology and graduated in 1906 with a degree in Chemistry and Engineering. From 1905 to 1908, he worked at Gäddvikens Superphosphate Factory, initially as a chemist, and then became the factory manager in 1908. He continued as the manager until 1917. From 1914 to 1934, he served as a municipal official in Nacka.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Gunnar Wilhelm Göthebstböm",
+        "birthDate": "1884-01-27",
+        "birthPlace": "Gäddviken, Gamleby, Kalmar County",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Olof Gustaf Göthebstböm"
+            },
+            {
+                "@type": "Person",
+                "name": "Bertha Sabelström"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Sigrid von Unge"
+        },
+        "alumniOf": {
+            "@type": "CollegeOrUniversity",
+            "name": "Royal Institute of Technology",
+            "startDate": "1906"
+        },
+        "occupation": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Chemist",
+                "startDate": "1905",
+                "endDate": "1908",
+                "namedPosition": "Gäddvikens Superphosphate Factory"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Factory Manager",
+                "startDate": "1908",
+                "namedPosition": "Gäddvikens Superphosphate Factory"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Manager",
+                "startDate": "1917",
+                "namedPosition": "Gäddvikens Superphosphate Factory"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Municipal Official",
+                "startDate": "1914",
+                "endDate": "1934",
+                "namedPosition": "Nacka"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Chemist",
+                "workplace": "Gäddvikens Superphosphate Factory",
+                "industry": "Chemical",
+                "start_date": "1905"
+            },
+            {
+                "occupational_title": "Factory Manager",
+                "workplace": "Gäddvikens Superphosphate Factory",
+                "industry": "Chemical",
+                "start_date": "1908"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Gäddvikens Superphosphate Factory",
+                "industry": "Chemical",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Municipal Official",
+                "workplace": "Nacka",
+                "industry": "Government",
+                "start_date": "1914"
+            }
+        ]
+    }
+}

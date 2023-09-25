@@ -1,22 +1,21 @@
 {
     "original": "FRISEEI,, Ernst Gustaf (Gösta), Direktör, Falun, f Falun 13/6 85 av öv.ljt E F o Greta Gahn, gm Ingrid Frieberg. Studex, KS, KHS, asp Gen.stab. Uljt Dalreg 05, kapt Gen.stab 17, major Dalreg res’ 35. Dir St Kopparb Bergsl AB sed. 19. Ordf i stdsflm sed. 31, i kyrkoflm sed. 40 o i pastoratstämman, ordf i samlärov lokalstyr sed. 29, komm flicksk styr sed. 36, led av kommun styr o nmdr, sakk Stat bränslekommiss, v. ordf i Stat Trafikkommiss. Styr.led SPP, Sv Sprit, Fören Sv Oljeimp AB, Smörjoljecentr, Falu el belysn.AB, Falu sparbk, Gefle nya stuv.AB, Skutskär-Härnäs stuv.-AB, AB Bergsl Prakt Sk. Arb.giv ömsesid Försäkr.bol. RSO, RNO, KVO2M.",
-    "translated": "FRISEEI, Ernst Gustaf (Gösta), Director, Falun, b. Falun 13/6 1885, son of Lieutenant Colonel E F and Greta Gahn, married Ingrid Frieberg. Graduated from high school, military college, and military staff college, served as a lieutenant in the Dalarna Regiment in 1905, promoted to captain in the General Staff in 1917, became a major in the Dalarna Regiment reserve in 1935. Director of Stora Kopparberg Bergslagen AB since 1919. Chairman of the County Film Council since 1931, in the Church Film Council since 1940, and in the parish assembly. Chairman of the Lower Secondary School Board since 1929, the Girls' School Board since 1936, member of the Municipal Board and Committees, expert in the State Fuel Commission, vice-chairman of the State Traffic Commission. Board member of SPP, Svenska Sprit AB, Förenade Svenska Oljeimport AB, Smörjoljecentralen, Falu Elektriska Belysnings AB, Falu Sparbank, Gefle Nya Stuv.AB, Skutskär-Härnäs Stuv.-AB, AB Bergslagens Praktiska Skola. Employer in the mutual insurance company. Awarded the Royal Order of the Sword, Royal Order of the North Star, and Royal Swedish Order of Vasa with grand cross.",
+    "translated": "FRISEEI, Ernst Gustaf (Gösta), Director, Falun, b. Falun 13/6 1885, son of Lieutenant Colonel E. F. and Greta Gahn, m. Ingrid Frieberg. Graduated, Royal Swedish Naval Academy, Royal Swedish War College, Royal Swedish Staff College, Second Lieutenant, Dalarna Regiment 1905, Captain, General Staff 1917, Major, Reserve Officer, Dalarna Regiment 1935. Director, Stora Kopparberg Mining Company since 1919. Chairman, Swedish Trade Union Federation since 1931, Church Federation since 1940, and Parish Council. Chairman, local board of secondary education since 1929, municipal girls' school board since 1936, member of municipal board and committees, expert in State Fuel Commission, vice chairman of State Traffic Commission. Board member of SPP, Swedish Spirits Company, Swedish Oil Importing Company, Lubricating Oil Center, Falun Electric and Lighting Company, Falun Savings Bank, Gefle New Warehouse Company, Skutskär-Härnösand Warehouse Company, AB Bergslagen Practical School. Employer of mutual insurance company. Receives: Royal Order of the Seraphim, Royal Order of the North Star, Knight of the Royal Order of Vasa (2nd Class with Swords).",
     "structured": {
         "@context": "https://schema.org",
         "@type": "Person",
         "name": "Ernst Gustaf (Gösta) Friseei",
         "birthDate": "1885-06-13",
-        "birthPlace": "Falun, Sweden",
-        "parents": [
+        "birthPlace": "Falun",
+        "nationality": "Swedish",
+        "parent": [
             {
                 "@type": "Person",
-                "name": "E F Friseei",
-                "relation": "Father"
+                "name": "Lieutenant Colonel E. F. Friseei"
             },
             {
                 "@type": "Person",
-                "name": "Greta Gahn",
-                "relation": "Mother"
+                "name": "Greta Gahn"
             }
         ],
         "spouse": {
@@ -25,206 +24,270 @@
         },
         "education": [
             {
-                "@type": "EducationalOrganization",
+                "@type": "EducationalOccupationalCredential",
                 "name": "Studex"
             },
             {
-                "@type": "EducationalOrganization",
-                "name": "KS"
+                "@type": "EducationalOccupationalCredential",
+                "name": "KS (Royal Swedish Naval Academy)"
             },
             {
-                "@type": "EducationalOrganization",
-                "name": "KHS"
+                "@type": "EducationalOccupationalCredential",
+                "name": "KHS (Royal Swedish War College)"
             },
             {
-                "@type": "EducationalOrganization",
-                "name": "asp Gen.stab"
+                "@type": "EducationalOccupationalCredential",
+                "name": "asp Gen.stab (Royal Swedish Staff College)"
             }
         ],
-        "work": [
+        "employmentHistory": [
             {
-                "@type": "MilitaryOrganization",
-                "name": "Uljt Dalreg",
-                "startDate": "1905"
-            },
-            {
-                "@type": "MilitaryOrganization",
-                "name": "Gen.stab",
-                "startDate": "1917"
-            },
-            {
-                "@type": "MilitaryOrganization",
-                "name": "Dalreg res",
-                "startDate": "1935",
-                "jobTitle": "Major"
-            },
-            {
-                "@type": "Corporation",
-                "name": "Stora Kopparberg Bergslagen AB",
+                "@type": "OrganizationRole",
+                "roleName": "Director",
                 "startDate": "1919",
-                "jobTitle": "Director"
+                "endDate": null,
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Stora Kopparberg Mining Company"
+                }
             }
         ],
         "memberOf": [
             {
-                "@type": "Organization",
-                "name": "County Film Council",
+                "@type": "OrganizationRole",
+                "roleName": "Chairman",
                 "startDate": "1931",
-                "jobTitle": "Chairman"
+                "endDate": null,
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Swedish Trade Union Federation"
+                }
             },
             {
-                "@type": "Organization",
-                "name": "Church Film Council",
+                "@type": "OrganizationRole",
+                "roleName": "Chairman",
                 "startDate": "1940",
-                "jobTitle": "Chairman"
+                "endDate": null,
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Church Federation"
+                }
             },
             {
-                "@type": "Organization",
-                "name": "Parish Assembly",
-                "jobTitle": "Chairman"
-            },
-            {
-                "@type": "Organization",
-                "name": "Lower Secondary School Board",
-                "startDate": "1929",
-                "jobTitle": "Chairman"
-            },
-            {
-                "@type": "Organization",
-                "name": "Girls' School Board",
-                "startDate": "1936",
-                "jobTitle": "Chairman"
-            },
-            {
-                "@type": "Organization",
-                "name": "Municipal Board"
-            },
-            {
-                "@type": "Organization",
-                "name": "Committees"
-            },
-            {
-                "@type": "Organization",
-                "name": "State Fuel Commission",
-                "jobTitle": "Expert"
-            },
-            {
-                "@type": "Organization",
-                "name": "State Traffic Commission",
-                "jobTitle": "Vice-Chairman"
-            },
-            {
-                "@type": "Organization",
-                "name": "SPP"
-            },
-            {
-                "@type": "Organization",
-                "name": "Svenska Sprit AB"
-            },
-            {
-                "@type": "Organization",
-                "name": "Förenade Svenska Oljeimport AB"
-            },
-            {
-                "@type": "Organization",
-                "name": "Smörjoljecentralen"
-            },
-            {
-                "@type": "Organization",
-                "name": "Falu Elektriska Belysnings AB"
-            },
-            {
-                "@type": "Organization",
-                "name": "Falu Sparbank"
-            },
-            {
-                "@type": "Organization",
-                "name": "Gefle Nya Stuv.AB"
-            },
-            {
-                "@type": "Organization",
-                "name": "Skutskär-Härnäs Stuv.-AB"
-            },
-            {
-                "@type": "Organization",
-                "name": "AB Bergslagens Praktiska Skola"
-            },
-            {
-                "@type": "Organization",
-                "name": "Mutual Insurance Company",
-                "jobTitle": "Employer"
+                "@type": "OrganizationRole",
+                "roleName": "Chairman",
+                "startDate": null,
+                "endDate": null,
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Parish Council"
+                }
             }
         ],
-        "awards": [
+        "boardMemberOf": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Board member",
+                "startDate": null,
+                "endDate": null,
+                "organization": {
+                    "@type": "Organization",
+                    "name": "SPP"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Board member",
+                "startDate": null,
+                "endDate": null,
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Swedish Spirits Company"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Board member",
+                "startDate": null,
+                "endDate": null,
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Swedish Oil Importing Company"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Board member",
+                "startDate": null,
+                "endDate": null,
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Lubricating Oil Center"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Board member",
+                "startDate": null,
+                "endDate": null,
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Falun Electric and Lighting Company"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Board member",
+                "startDate": null,
+                "endDate": null,
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Falun Savings Bank"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Board member",
+                "startDate": null,
+                "endDate": null,
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Gefle New Warehouse Company"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Board member",
+                "startDate": null,
+                "endDate": null,
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Skutskär-Härnösand Warehouse Company"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Board member",
+                "startDate": null,
+                "endDate": null,
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Bergslagen Practical School"
+                }
+            }
+        ],
+        "communityInvolvement": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Expert in State Fuel Commission",
+                "startDate": null,
+                "endDate": null
+            }
+        ],
+        "honors": [
             {
                 "@type": "Order",
-                "name": "Royal Order of the Sword",
-                "awardDate": "Unknown",
-                "awardType": "RSO"
+                "name": "Royal Order of the Seraphim"
             },
             {
                 "@type": "Order",
-                "name": "Royal Order of the North Star",
-                "awardDate": "Unknown",
-                "awardType": "RNO"
+                "name": "Royal Order of the North Star"
             },
             {
                 "@type": "Order",
-                "name": "Royal Swedish Order of Vasa",
-                "awardDate": "Unknown",
-                "awardType": "KVO2M"
+                "name": "Knight of the Royal Order of Vasa",
+                "awardGrade": "2nd Class with Swords"
+            }
+        ],
+        "memberOfGovernment": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Vice Chairman",
+                "startDate": null,
+                "endDate": null,
+                "organization": {
+                    "@type": "Organization",
+                    "name": "State Traffic Commission"
+                }
+            }
+        ],
+        "militaryService": [
+            {
+                "@type": "MilitaryService",
+                "name": "Second Lieutenant",
+                "startDate": "1905",
+                "endDate": null,
+                "militaryBranch": {
+                    "@type": "Organization",
+                    "name": "Dalarna Regiment"
+                }
+            },
+            {
+                "@type": "MilitaryService",
+                "name": "Captain",
+                "startDate": "1917",
+                "endDate": null,
+                "militaryBranch": {
+                    "@type": "Organization",
+                    "name": "General Staff"
+                }
+            },
+            {
+                "@type": "MilitaryService",
+                "name": "Major",
+                "startDate": "1935",
+                "endDate": null,
+                "militaryBranch": {
+                    "@type": "Organization",
+                    "name": "Dalarna Regiment"
+                },
+                "status": "Reserve Officer"
+            }
+        ],
+        "businessInterests": [
+            {
+                "@type": "BusinessInterest",
+                "name": "Stat bränslekommiss"
             }
         ]
     },
     "occupations": {
         "career": [
             {
-                "occupational_title": "Lieutenant",
-                "workplace": "Dalarna Regiment",
-                "industry": "Military",
-                "start_date": "1905"
-            },
-            {
-                "occupational_title": "Captain",
-                "workplace": "General Staff",
-                "industry": "Military",
-                "start_date": "1917"
-            },
-            {
-                "occupational_title": "Major",
-                "workplace": "Dalarna Regiment Reserve",
-                "industry": "Military",
-                "start_date": "1935"
-            },
-            {
                 "occupational_title": "Director",
-                "workplace": "Stora Kopparberg Bergslagen AB",
+                "workplace": "Stora Kopparberg Mining Company",
                 "industry": "Mining",
                 "start_date": "1919"
             },
             {
                 "occupational_title": "Chairman",
-                "workplace": "County Film Council",
-                "industry": "Film",
+                "workplace": "Swedish Trade Union Federation",
+                "industry": "Labor Union",
                 "start_date": "1931"
             },
             {
                 "occupational_title": "Chairman",
-                "workplace": "Church Film Council",
-                "industry": "Film",
+                "workplace": "Church Federation",
+                "industry": "Religion",
                 "start_date": "1940"
             },
             {
                 "occupational_title": "Chairman",
-                "workplace": "Lower Secondary School Board",
+                "workplace": "Local Board of Secondary Education",
                 "industry": "Education",
                 "start_date": "1929"
             },
             {
                 "occupational_title": "Chairman",
-                "workplace": "Girls' School Board",
+                "workplace": "Municipal Girls' School Board",
                 "industry": "Education",
                 "start_date": "1936"
+            },
+            {
+                "occupational_title": "Member",
+                "workplace": "Municipal Board and Committees",
+                "industry": "Government",
+                "start_date": null
             },
             {
                 "occupational_title": "Expert",
@@ -233,9 +296,63 @@
                 "start_date": null
             },
             {
-                "occupational_title": "Vice-Chairman",
+                "occupational_title": "Vice Chairman",
                 "workplace": "State Traffic Commission",
                 "industry": "Government",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "SPP",
+                "industry": "Insurance",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Swedish Spirits Company",
+                "industry": "Beverage",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Swedish Oil Importing Company",
+                "industry": "Energy",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Lubricating Oil Center",
+                "industry": "Manufacturing",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Falun Electric and Lighting Company",
+                "industry": "Energy",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Falun Savings Bank",
+                "industry": "Finance",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Gefle New Warehouse Company",
+                "industry": "Logistics",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Skutskär-Härnösand Warehouse Company",
+                "industry": "Logistics",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "AB Bergslagen Practical School",
+                "industry": "Education",
                 "start_date": null
             }
         ]

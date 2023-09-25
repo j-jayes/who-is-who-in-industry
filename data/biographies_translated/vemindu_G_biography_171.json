@@ -1,0 +1,106 @@
+{
+    "original": "GUSTAFSSON, Ernst Tore, Körsnär, Kristinehamn, f Krim 18/4 11 av handl E A G o Svea Brundin, gm Anna-Lisa Westerlund. Realsk. Anst AB Oscar Wigén Tranås o Sophie Ericssons Eftr Sthlm 31—35, fma Walldén &amp; Co öbr 35—39. Eg fma AB L E Gustafsson, Hatt-, Möss- o Pälsvaruaff, Krhn (grund av G:s farfar 70, AB vid mod död 42), styr.ordf där. Resor: USA 28—31. W6.",
+    "translated": "GUSTAFSSON, Ernst Tore, Körsnär (Cabinetmaker), Kristinehamn, born in Krim on April 18, 1911, to the merchant E.A.G. and Svea Brundin, married to Anna-Lisa Westerlund. Attended Real School at AB Oscar Wigén in Tranås from 1931 to 1935, then worked at Walldén & Co from 1935 to 1939. Eventually founded his own company, AB L.E. Gustafsson, a Hat, Cap, and Fur goods store in Kristinehamn, which was inherited from his grandfather (established 1870, turned into a limited company after his father's death in 1942). He served as a Chairman of the Board. Traveled to the USA from 1928 to 1931. W6..",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Ernst Tore Gustafsson",
+        "givenName": "Ernst Tore",
+        "familyName": "Gustafsson",
+        "jobTitle": "Cabinetmaker",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Kristinehamn"
+        },
+        "birthDate": "1911-04-18",
+        "birthPlace": "Krim",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "E.A.G.",
+                "jobTitle": "Merchant"
+            },
+            {
+                "@type": "Person",
+                "name": "Svea Brundin"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Anna-Lisa Westerlund"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "AB Oscar Wigén",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Tranås"
+                },
+                "startDate": "1931",
+                "endDate": "1935"
+            }
+        ],
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "Walldén & Co",
+                "startDate": "1935",
+                "endDate": "1939"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB L.E. Gustafsson",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Kristinehamn"
+                },
+                "foundingDate": "1870",
+                "dissolutionDate": "1942"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "AB L.E. Gustafsson",
+                "position": "Chairman of the Board"
+            }
+        ],
+        "travel": [
+            {
+                "@type": "Organization",
+                "name": "USA",
+                "startDate": "1928",
+                "endDate": "1931"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Cabinetmaker",
+                "workplace": "Kristinehamn",
+                "industry": "Furniture",
+                "start_date": "1939"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Walldén & Co",
+                "industry": "Unknown",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Student",
+                "workplace": "AB Oscar Wigén",
+                "industry": "Education",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Merchant",
+                "workplace": "AB L.E. Gustafsson",
+                "industry": "Retail",
+                "start_date": "1942"
+            }
+        ]
+    }
+}

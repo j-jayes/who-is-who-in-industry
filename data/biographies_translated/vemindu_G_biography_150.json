@@ -1,0 +1,57 @@
+{
+    "original": "GUSTAFSON, Nils Gustaf, Kamrer, Hagalund, f Sthlm 18/12 03 av Gustaf C G o Bertha Hellberg, gm Esther Gustafson. Realsk, själv- 0 priv.stud. Anst AB Max Sievert sed. 18. Styr.led AB Max S Pens.kassa-underst.frn.",
+    "translated": "GUSTAFSON, Nils Gustaf, Clerk, Hagalund, b Stockholm 18/12 03 to Gustaf C G and Bertha Hellberg, married Esther Gustafson. Completed lower secondary school, self- and private study. Employed at AB Max Sievert since 1918. Board member of AB Max S Pension Fund, received support from them.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Nils Gustaf Gustafson",
+        "description": "Clerk at Hagalund",
+        "birthDate": "1903-12-18",
+        "birthPlace": "Stockholm",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Gustaf C G Gustafson",
+                "sameAs": "father"
+            },
+            {
+                "@type": "Person",
+                "name": "Bertha Hellberg",
+                "sameAs": "mother"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Esther Gustafson",
+            "sameAs": "wife"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Realsk"
+            }
+        ],
+        "employment": {
+            "@type": "Organization",
+            "name": "AB Max Sievert",
+            "startDate": "1918"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "AB Max S Pension Fund",
+                "roleName": "Board member"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Clerk",
+                "workplace": "AB Max Sievert",
+                "industry": "",
+                "start_date": "1918"
+            }
+        ]
+    }
+}

@@ -1,204 +1,163 @@
 {
     "original": "FERNSTRÖM, Nils Holger William, Disponent, Karlshamn, f Asarum, Blek län, 8/4 04 av ing A F o Emma Hammar, gm Aina Frost. Realsk, gymn, hdlssk i Neuchåtel, prakt i utl. Vkst dir sed. 33 i Sv Granitind.AB, styr.led AB A K Fernstr Granitind, AB Peterstorp, AS Norske Granitind, Sv Granitind.AB, AB Idr.hallen upa, samtl i Karlsh. Resor: Europa utom Span, Portug o Balkan 33, 35, 37 o 39, USA 35 o 38. KAK, Bellevue tennisklubb, Malmö. Milit skyt.m s, milit o civ idr.m. Hobbies: Tennis, fiske.",
-    "translated": "FERNSTRÖM, Nils Holger William, Disponent (manager), Karlshamn, born in Asarum, County Blekinge, on April 8, 1904. son of engineer A. F. Fernström and Emma Hammar, married to Aina Frost. Educated at Realskola (secondary school), Gymnasium (high school), and Business School in Neuchâtel, Switzerland. gained practical experience abroad. Became Director of Development in 1933 at Svenska Granitindustrier AB (Swedish Granite Industries). Also served on the board of AB A.K. Fernström Granitindustrier, AB Peterstorp, AS Norske Granitindustrier, Svenska Granitindustrier AB, and AB Idrättshallen (Sports Hall). All companies based in Karlshamn. Travelled to Europe, excluding Spain, Portugal, and the Balkans in 1933, 1935, 1937, and 1939. Also travelled to the USA in 1935 and 1938. Member of the Swedish Royal Automobile Club (KAK) and Bellevue Tennis Club in Malmö. Active in military shooting and military and civilian sports. Hobbies include tennis and fishing.",
+    "translated": "FERNSTRÖM, Nils Holger William, Manager, Karlshamn, born in Asarum, Blekinge county, on April 8, 1904, to parents August Ferdinand Fernström and Emma Hammar. Married to Aina Frost. Attended Realskola, Gymnasium, and Trade School in Neuchåtel, with practical experience abroad. Became Director of Growth for Svenska Granitindustrier AB in 1933, and served on the board of AB A K Fernström Granitindustrier, AB Peterstorp, AS Norske Granitindustrier, Svenska Granitindustrier AB, and AB Idr.hallen upa, all in Karlshamn. Made extensive trips to Europe excluding Spain, Portugal, and the Balkans in 1933, 1935, 1937, and 1939, as well as the United States in 1935 and 1938. Member of Kungliga Automobil Klubben (Royal Automobile Club) and Bellevue Tennis Club, Malmö. Involved in military shooting and both military and civilian sports. Hobbies include tennis and fishing.",
     "structured": {
-        "@context": "http://schema.org",
+        "@context": "https://schema.org",
         "@type": "Person",
-        "givenName": "Nils Holger William",
-        "familyName": "Fernström",
+        "name": "Nils Holger William Fernström",
         "birthDate": "1904-04-08",
-        "jobTitle": "Disponent",
         "birthPlace": {
-            "@type": "Place",
+            "@type": "City",
+            "name": "Asarum",
             "address": {
                 "@type": "PostalAddress",
-                "addressLocality": "Asarum",
-                "addressRegion": "Blek län"
+                "addressRegion": "Blek län",
+                "addressCountry": "Sweden"
             }
         },
-        "parent": [
+        "familyName": "Fernström",
+        "givenName": "Nils Holger William",
+        "jobTitle": "Manager",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Svenska Granitindustrier AB"
+        },
+        "affiliation": [
             {
-                "@type": "Person",
-                "name": "A. F. Fernström",
-                "jobTitle": "Engineer"
+                "@type": "Organization",
+                "name": "AB A K Fernström Granitindustrier"
             },
             {
-                "@type": "Person",
-                "name": "Emma Hammar"
+                "@type": "Organization",
+                "name": "AB Peterstorp"
+            },
+            {
+                "@type": "Organization",
+                "name": "AS Norske Granitindustrier"
+            },
+            {
+                "@type": "Organization",
+                "name": "Svenska Granitindustrier AB"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Idr.hallen upa"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Realskola"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Gymnasium"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Trade School",
+                "recognizedBy": {
+                    "@type": "City",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Neuchåtel",
+                        "addressCountry": "Switzerland"
+                    }
+                }
             }
         ],
         "spouse": {
             "@type": "Person",
             "name": "Aina Frost"
         },
-        "education": [
-            {
-                "@type": "EducationalOccupationalCredential",
-                "educationalLevel": "Realskola"
-            },
-            {
-                "@type": "EducationalOccupationalCredential",
-                "educationalLevel": "Gymnasium"
-            },
-            {
-                "@type": "EducationalOccupationalCredential",
-                "educationalLevel": "Business School",
-                "location": "Neuchâtel, Switzerland"
-            }
-        ],
-        "work": [
-            {
-                "@type": "OrganizationRole",
-                "organization": {
-                    "@type": "Organization",
-                    "name": "Svenska Granitindustrier AB",
-                    "address": {
-                        "@type": "PostalAddress",
-                        "addressLocality": "Karlshamn"
-                    }
-                },
-                "startDate": "1933",
-                "roleName": "Director of Development"
-            },
-            {
-                "@type": "OrganizationRole",
-                "organization": {
-                    "@type": "Organization",
-                    "name": "AB A.K. Fernström Granitindustrier",
-                    "address": {
-                        "@type": "PostalAddress",
-                        "addressLocality": "Karlshamn"
-                    }
-                }
-            },
-            {
-                "@type": "OrganizationRole",
-                "organization": {
-                    "@type": "Organization",
-                    "name": "AB Peterstorp",
-                    "address": {
-                        "@type": "PostalAddress",
-                        "addressLocality": "Karlshamn"
-                    }
-                }
-            },
-            {
-                "@type": "OrganizationRole",
-                "organization": {
-                    "@type": "Organization",
-                    "name": "AS Norske Granitindustrier",
-                    "address": {
-                        "@type": "PostalAddress",
-                        "addressLocality": "Karlshamn"
-                    }
-                }
-            },
-            {
-                "@type": "OrganizationRole",
-                "organization": {
-                    "@type": "Organization",
-                    "name": "AB Idrättshallen",
-                    "address": {
-                        "@type": "PostalAddress",
-                        "addressLocality": "Karlshamn"
-                    }
-                }
-            }
-        ],
-        "travelHistory": [
-            {
-                "@type": "TravelAction",
-                "toLocation": [
-                    "Europe"
-                ],
-                "excluding": [
-                    "Spain",
-                    "Portugal",
-                    "Balkans"
-                ],
-                "startDate": "1933"
-            },
-            {
-                "@type": "TravelAction",
-                "toLocation": [
-                    "USA"
-                ],
-                "startDate": "1935"
-            },
-            {
-                "@type": "TravelAction",
-                "toLocation": [
-                    "USA"
-                ],
-                "startDate": "1938"
-            }
-        ],
+        "nationality": "Swedish",
         "memberOf": [
             {
                 "@type": "Organization",
-                "name": "Swedish Royal Automobile Club (KAK)"
+                "name": "Kungliga Automobil Klubben"
             },
             {
                 "@type": "Organization",
                 "name": "Bellevue Tennis Club"
             }
         ],
-        "interests": [
-            "Tennis",
-            "Fishing"
-        ],
-        "activity": [
+        "hasOccupation": [
             {
-                "@type": "SportingActivity",
+                "@type": "SportsTeam",
                 "name": "Military Shooting"
             },
             {
-                "@type": "SportingActivity",
-                "name": "Military Sports"
+                "@type": "SportsTeam",
+                "name": "Civilian Sports"
+            }
+        ],
+        "hobbies": [
+            "Tennis",
+            "Fishing"
+        ],
+        "travels": [
+            {
+                "@type": "Trip",
+                "name": "Europe",
+                "startDate": "1933",
+                "endDate": "1939",
+                "excluding": [
+                    "Spain",
+                    "Portugal",
+                    "Balkans"
+                ]
             },
             {
-                "@type": "SportingActivity",
-                "name": "Civilian Sports"
+                "@type": "Trip",
+                "name": "United States",
+                "startDate": "1935",
+                "endDate": "1938"
             }
         ]
     },
     "occupations": {
         "career": [
             {
-                "occupational_title": "Disponent",
+                "occupational_title": "Manager",
                 "workplace": "Karlshamn",
-                "industry": "Svenska Granitindustrier AB",
+                "industry": "Granite industry",
                 "start_date": "1933"
             },
             {
-                "occupational_title": "Director of Development",
+                "occupational_title": "Director of Growth",
                 "workplace": "Svenska Granitindustrier AB",
                 "industry": "Granite industry",
                 "start_date": "1933"
             },
             {
                 "occupational_title": "Board Member",
-                "workplace": "AB A.K. Fernström Granitindustrier",
+                "workplace": "AB A K Fernström Granitindustrier",
                 "industry": "Granite industry",
-                "start_date": ""
+                "start_date": "Unknown"
             },
             {
                 "occupational_title": "Board Member",
                 "workplace": "AB Peterstorp",
                 "industry": "Granite industry",
-                "start_date": ""
+                "start_date": "Unknown"
             },
             {
                 "occupational_title": "Board Member",
                 "workplace": "AS Norske Granitindustrier",
                 "industry": "Granite industry",
-                "start_date": ""
+                "start_date": "Unknown"
             },
             {
                 "occupational_title": "Board Member",
-                "workplace": "AB Idrättshallen",
-                "industry": "Sports facilities",
-                "start_date": ""
+                "workplace": "Svenska Granitindustrier AB",
+                "industry": "Granite industry",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "AB Idr.hallen upa",
+                "industry": "Unknown",
+                "start_date": "Unknown"
             }
         ]
     }

@@ -1,0 +1,138 @@
+{
+    "original": "GUSTAFSSON, Sven Oskar, Fabrikör, Gävle, f Norberg 4/10 90 av gruvarb H E G o h h, f Jacobsson, gm Anna Andersson. Efter avslutad skolgång innehaft olika anst 04—07, i Sthlms stads tjänst 07—08, andra anst i Sthlm 08—10, anst i faderns af f. rörelse i Gävle HK-12. Egen rörelse under fma Sven O Gustais-son, Gävle, sed. 12, fman ombild t AB 21. Ordf i Gävle Slakt- o Chark.frn, hed.led i Gävle Droskäg.frn sed. 27, l:ste styr.led o kassör i Gävle-Dala Travsällsk, vkst led i AB Gävle Travbanor, styr.led i Sv Chark- o Slakt. -idk:s Riksfrbs arb.utskott, Frn Gävle Köpmän, SMK:s Gävleb.avd, medl av Hantverks-frn, S H-n o Fastigh.äg.frn.",
+    "translated": "GUSTAFSSON, Sven Oskar, Manufacturer, Gävle, born in Norberg on October 4, 1890, son of miner H.E.G. and his wife H.H., born Jacobsson, married to Anna Andersson. After completing his schooling, he held various positions from 1904-1907, worked for the city of Stockholm from 1907-1908, held other positions in Stockholm from 1908-1910, and finally worked in his father's business in Gävle from 1910-1912. He started his own business under the name Sven O Gustafsson, Gävle, in 1912 and later restructured it into a limited company in 1921. He served as chairman of Gävle Meat and Sausage Association, honorary member of Gävle Carriage Association since 1927, board member and treasurer of Gävle-Dala Trotting Society, executive member of AB Gävle Racecourses, and board member of Swedish Meat and Sausage Trading Federation. He was also involved with Gävle Merchants Association, SMK's Gävle branch, and several other associations related to handicrafts, real estate, and trade. Note that '\\d\\d m. partners name' indicates that the person got married in the year 19xx.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Sven Oskar Gustafsson",
+        "birthDate": "1890-10-04",
+        "birthPlace": "Norberg",
+        "description": "Manufacturer",
+        "spouse": {
+            "@type": "Person",
+            "name": "Anna Andersson"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "H.E.G Gustafsson",
+                "jobTitle": "Miner"
+            },
+            {
+                "@type": "Person",
+                "name": "H.H. Gustafsson",
+                "jobTitle": "Homemaker"
+            }
+        ],
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "School Name"
+        },
+        "workExperience": [
+            {
+                "@type": "Organization",
+                "name": "City of Stockholm",
+                "startDate": "1907",
+                "endDate": "1908"
+            },
+            {
+                "@type": "Organization",
+                "name": "Father's Business",
+                "startDate": "1910",
+                "endDate": "1912"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sven O Gustafsson",
+                "startDate": "1912"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Guestafsson",
+                "startDate": "1921"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Gävle Meat and Sausage Association",
+                "roleName": "Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Gävle Carriage Association",
+                "honorificSuffix": "Honorary Member",
+                "startDate": "1927"
+            },
+            {
+                "@type": "Organization",
+                "name": "Gävle-Dala Trotting Society",
+                "roleName": "Board Member and Treasurer"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Gävle Racecourses",
+                "roleName": "Executive Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Meat and Sausage Trading Federation",
+                "roleName": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Gävle Merchants Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "SMK's Gävle branch"
+            },
+            {
+                "@type": "Organization",
+                "name": "Handicrafts Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Real Estate Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Trade Association"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Fabrikör",
+                "workplace": "Gävle",
+                "industry": "Manufacturing",
+                "start_date": "1912"
+            },
+            {
+                "occupational_title": "Anst",
+                "workplace": "Various",
+                "industry": "Various",
+                "start_date": "1904"
+            },
+            {
+                "occupational_title": "Sthlms stads tjänst",
+                "workplace": "Stockholm",
+                "industry": "Public Service",
+                "start_date": "1907"
+            },
+            {
+                "occupational_title": "Other anst",
+                "workplace": "Stockholm",
+                "industry": "Various",
+                "start_date": "1908"
+            },
+            {
+                "occupational_title": "Anst i faderns af f. rörelse",
+                "workplace": "Gävle",
+                "industry": "Mining",
+                "start_date": "1910"
+            }
+        ]
+    }
+}

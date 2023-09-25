@@ -1,16 +1,12 @@
 {
     "original": "FRID, Carl Hjalmar, Direktör, Stockholm, f Härna, Älvsb l, 23/1 86. Anst i spannm.fma 04, kont.ch i Sörml Lantmännens Centralfrn Nykp 10—12, ch f dess Eskilstunakont 12—17, dir f Sv Lantmännens Utsädes AB :s Sthlms-avd 17—24, bild Spannm- &amp; Utsädes AB 24 o Mälardalens Utsädes AB 34, dir i båda dessa föret samt i Mälardalens Lagerhusfrn. Led av Sv skiljenmd f spannm- o foderämneshdln samt av Grhdlssocieteten i Sthlm.",
-    "translated": "FRID, Carl Hjalmar, Director, Stockholm, born in Härna, Älvsborg county, on January 23, 1886. Employed in a grain company since 1904, became accountant in Sörmlands Lantmän's Central Office in Nyköping from 1910 to 1912, and then head of their Eskilstuna office from 1912 to 1917. Director of Sv Lantmännens Utsädes AB's Stockholm branch from 1917 to 1924, founded Spannm- & Utsädes AB in 1924 and Mälardalens Utsädes AB in 1934, serving as director in both of these companies as well as in Mälardalens Lagerhusfrn. Member of the Swedish Arbitration Board for Grain and Feed trade, as well as of the Grain Society in Stockholm.",
+    "translated": "FRID, Carl Hjalmar, Director, Stockholm, b. Härna, Älvsb l, January 23, 1886. Employed in the grain industry from 1904, accounting clerk at Sörmlands Lantmännens Centralfrn Nyköping 1910-1912, and from 1912 to 1917, chief of its Eskilstuna office. Director of Swedish Lantmännens Utsädes AB's Stockholm branch from 1917 to 1924, co-founded Spannm- & Utsädes AB in 1924 and Mälardalens Utsädes AB in 1934. Director in both of these companies as well as Mälardalens Lagerhusfrn. Member of the Swedish Arbitration Board for grain and animal feed trade, and the Commercial Society in Stockholm. Note: '\\d\\d m. partners name' indicates that the person got married in the year 19xx.",
     "structured": {
         "@context": "https://schema.org",
         "@type": "Person",
         "name": "Carl Hjalmar Frid",
-        "birthPlace": {
-            "@type": "Place",
-            "name": "Härna, Älvsborg County, Sweden"
-        },
         "birthDate": "1886-01-23",
-        "jobTitle": "Director",
+        "birthPlace": "Härna, Älvsb l, Sweden",
         "address": {
             "@type": "PostalAddress",
             "addressLocality": "Stockholm",
@@ -18,96 +14,131 @@
         },
         "employmentHistory": [
             {
-                "@type": "Organization",
-                "name": "Grain Company",
-                "startDate": "1904"
+                "@type": "OrganizationRole",
+                "startDate": "1904",
+                "endDate": null,
+                "roleName": "Employed in the grain industry"
             },
             {
-                "@type": "Organization",
-                "name": "Sörmlands Lantmän's Central Office",
-                "jobTitle": "Accountant",
+                "@type": "OrganizationRole",
                 "startDate": "1910",
                 "endDate": "1912",
-                "location": "Nyköping"
+                "roleName": "Accounting Clerk",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Sörmlands Lantmännens Centralfrn Nyköping"
+                }
             },
             {
-                "@type": "Organization",
-                "name": "Sörmlands Lantmän's Central Office",
-                "jobTitle": "Head of Eskilstuna Office",
+                "@type": "OrganizationRole",
                 "startDate": "1912",
                 "endDate": "1917",
-                "location": "Eskilstuna"
+                "roleName": "Chief",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Sörmlands Lantmännens Centralfrn Eskilstuna"
+                }
             },
             {
-                "@type": "Organization",
-                "name": "Sv Lantmännens Utsädes AB Stockholm",
-                "jobTitle": "Director",
+                "@type": "OrganizationRole",
                 "startDate": "1917",
-                "endDate": "1924"
+                "endDate": "1924",
+                "roleName": "Director",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Swedish Lantmännens Utsädes AB - Stockholm Branch"
+                }
             },
             {
-                "@type": "Organization",
-                "name": "Spannm- & Utsädes AB",
-                "startDate": "1924"
+                "@type": "OrganizationRole",
+                "startDate": "1924",
+                "endDate": null,
+                "roleName": "Co-founder and Director",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Spannm- & Utsädes AB"
+                }
             },
             {
-                "@type": "Organization",
-                "name": "Mälardalens Utsädes AB",
-                "startDate": "1934"
+                "@type": "OrganizationRole",
+                "startDate": "1934",
+                "endDate": null,
+                "roleName": "Director",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Mälardalens Utsädes AB"
+                }
             },
             {
-                "@type": "Organization",
-                "name": "Mälardalens Lagerhusfrn",
-                "jobTitle": "Director"
+                "@type": "OrganizationRole",
+                "startDate": null,
+                "endDate": null,
+                "roleName": "Director",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Mälardalens Lagerhusfrn"
+                }
             }
         ],
         "memberOf": [
             {
                 "@type": "Organization",
-                "name": "Swedish Arbitration Board for Grain and Feed trade"
+                "name": "Swedish Arbitration Board for Grain and Animal Feed Trade"
             },
             {
                 "@type": "Organization",
-                "name": "Grain Society, Stockholm"
+                "name": "Commercial Society in Stockholm"
             }
         ]
     },
     "occupations": {
         "career": [
             {
-                "occupational_title": "Employed in a grain company",
-                "workplace": "Unknown",
+                "occupational_title": "Accounting Clerk",
+                "workplace": "Sörmlands Lantmännens Centralfrn Nyköping",
                 "industry": "Grain industry",
-                "start_date": "1904"
-            },
-            {
-                "occupational_title": "Accountant",
-                "workplace": "Sörmlands Lantmän's Central Office",
-                "industry": "Agricultural",
                 "start_date": "1910"
             },
             {
-                "occupational_title": "Head of Eskilstuna office",
-                "workplace": "Sörmlands Lantmän's Central Office",
-                "industry": "Agricultural",
+                "occupational_title": "Chief of Eskilstuna Office",
+                "workplace": "Sörmlands Lantmännens Centralfrn Nyköping",
+                "industry": "Grain industry",
                 "start_date": "1912"
             },
             {
-                "occupational_title": "Director of Sv Lantmännens Utsädes AB's Stockholm branch",
-                "workplace": "Sv Lantmännens Utsädes AB",
-                "industry": "Agricultural",
+                "occupational_title": "Director of Stockholm Branch",
+                "workplace": "Swedish Lantmännens Utsädes AB",
+                "industry": "Grain industry",
                 "start_date": "1917"
             },
             {
-                "occupational_title": "Founder and Director of Spannm- &amp; Utsädes AB",
-                "workplace": "Spannm- &amp; Utsädes AB",
-                "industry": "Agricultural",
+                "occupational_title": "Co-founder",
+                "workplace": "Spannm- & Utsädes AB",
+                "industry": "Grain industry",
                 "start_date": "1924"
             },
             {
-                "occupational_title": "Founder and Director of Mälardalens Utsädes AB",
+                "occupational_title": "Co-founder",
                 "workplace": "Mälardalens Utsädes AB",
-                "industry": "Agricultural",
+                "industry": "Grain industry",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Spannm- & Utsädes AB",
+                "industry": "Grain industry",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Mälardalens Utsädes AB",
+                "industry": "Grain industry",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Mälardalens Lagerhusfrn",
+                "industry": "Grain industry",
                 "start_date": "1934"
             }
         ]

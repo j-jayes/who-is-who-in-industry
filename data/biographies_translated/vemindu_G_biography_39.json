@@ -1,0 +1,94 @@
+{
+    "original": "GERNANDT, Stig Herman, Disponent, Stockholm, f 16/6 08 av fabr B E H G o h h f Acharius, gm Ingrid von Schultz. Studex 29, resoffex 32. Anst fma J C E Gernandt (grund av G:s farfar 76), tjär-, färg- o fer-riissfabr, sed. 33, ag dta föret. Resor: Tyskl 30, Lettl 31—32, Frankr 38. Hobbies: Tennis, ridning.",
+    "translated": "GERNANDT, Stig Herman, Official, Stockholm, b. 16/6 08 son of factory owner B.E.H.G and housewife Acharius, m. Ingrid von Schultz. High school graduate in 1929, reserve officer in 1932. Employed by J.C.E Gernandt's tar, paint, and ironworks company since 1933 (due to G's grandfather, age 76). Currently managing the company. Traveled to Germany in 1930, Latvia in 1931-1932, and France in 1938. Hobbies: Tennis, horseback riding.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Stig Herman Gernandt",
+        "birthDate": "1908-06-16",
+        "jobTitle": "Official",
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Stockholm"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Ingrid von Schultz"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "name": "High school graduate",
+            "dateIssued": "1929"
+        },
+        "hasOccupation": [
+            {
+                "@type": "Role",
+                "startDate": "1933",
+                "endDate": "present",
+                "roleName": "Managing the company",
+                "namedPosition": {
+                    "@type": "OrganizationRole",
+                    "namedPosition": "Disponent",
+                    "organization": {
+                        "@type": "Organization",
+                        "name": "J.C.E Gernandt's tar, paint, and ironworks company"
+                    }
+                }
+            }
+        ],
+        "familyName": "Gernandt",
+        "father": {
+            "@type": "Person",
+            "name": "B.E.H.G"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Acharius"
+        },
+        "grandfather": {
+            "@type": "Person",
+            "age": 76
+        },
+        "travel": [
+            {
+                "@type": "TravelAction",
+                "fromLocation": "Stockholm",
+                "toLocation": "Germany",
+                "startDate": "1930"
+            },
+            {
+                "@type": "TravelAction",
+                "fromLocation": "Stockholm",
+                "toLocation": "Latvia",
+                "startDate": "1931",
+                "endDate": "1932"
+            },
+            {
+                "@type": "TravelAction",
+                "fromLocation": "Stockholm",
+                "toLocation": "France",
+                "startDate": "1938"
+            }
+        ],
+        "hobbies": [
+            "Tennis",
+            "Horseback riding"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Official",
+                "workplace": "Stockholm",
+                "industry": "Unknown",
+                "start_date": "1933"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "J.C.E Gernandt's tar, paint, and ironworks company",
+                "industry": "Tar, paint, and ironworks",
+                "start_date": "1933"
+            }
+        ]
+    }
+}

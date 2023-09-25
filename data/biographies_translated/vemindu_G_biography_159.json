@@ -1,0 +1,77 @@
+{
+    "original": "GUSTAFSSON, Gustaf Enoch Efraim, Kamrerare, Nyköping, f Värnamo 7/2 88 av skom.mäst P J G o h h Kristina, gm Elsa Tybeck. Hdlslärov. Anst Värnamo-Bladet 10—13, ekon.ch Jkpgs Läns Tidn 14—25, d:o Södermanl L T sed. 26 o styr.suppl. Kyrkoflm. Styr.led o skattm Nykpgs högerfrn o Smål Gille i Nykpg mm. Resor: Danm, Finl, Estl, Tyskl. Odd Fellow mfl.",
+    "translated": "GUSTAFSSON, Gustaf Enoch Efraim, Accountant, Nyköping, b. Värnamo 7/2 1888, son of master shoemaker P J G and his wife Kristina, m. Elsa Tybeck. Commercial education. Employed at Värnamo-Bladet 10-13, chief economist at Jönköpings Läns Tidning 14-25, the same at Södermanlands Läns Tidning from 1926 and board member. Member of church film board and treasurer of Nyköping's right-wing party and Småland's Guild in Nyköping, among others. Travelled to Denmark, Finland, Estonia, Germany. Member of Odd Fellows, among others.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Gustaf",
+        "additionalName": "Enoch Efraim",
+        "familyName": "Gustafsson",
+        "jobTitle": "Accountant",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Nyköping"
+        },
+        "birthDate": "1888-02-07",
+        "birthPlace": "Värnamo",
+        "father": {
+            "@type": "Person",
+            "givenName": "P J",
+            "familyName": "Gustafsson",
+            "jobTitle": "Master shoemaker"
+        },
+        "mother": {
+            "@type": "Person",
+            "givenName": "Kristina"
+        },
+        "spouse": {
+            "@type": "Person",
+            "givenName": "Elsa",
+            "familyName": "Tybeck"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Commercial education"
+        },
+        "memberOf": [
+            {
+                "@type": "Place",
+                "name": "Denmark"
+            },
+            {
+                "@type": "Place",
+                "name": "Finland"
+            },
+            {
+                "@type": "Place",
+                "name": "Estonia"
+            },
+            {
+                "@type": "Place",
+                "name": "Germany"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Apprentice",
+                "workplace": "Värnamo-Bladet",
+                "industry": "Media",
+                "start_date": "1910"
+            },
+            {
+                "occupational_title": "Chief Economist",
+                "workplace": "Jönköpings Läns Tidning",
+                "industry": "Media",
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Chief Economist",
+                "workplace": "Södermanlands Läns Tidning",
+                "industry": "Media",
+                "start_date": "1926"
+            }
+        ]
+    }
+}

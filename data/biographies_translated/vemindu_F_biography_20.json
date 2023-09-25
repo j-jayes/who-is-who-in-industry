@@ -1,0 +1,119 @@
+{
+    "original": "FALK, Nils Josef, Hypoteksdirektör, Lund, f N Vram, Malmöh län, 21/10 01 av dir N F o Karna Svensson, gm Anna Munck af Ro-senschöld. Studex 20, jur kand 27, M:ö nät kurator 25—27, Lunds stud.kårs ordf 27. Tingstjg Frosta o Eslövs doms 27—30, bitr omb.m Sk Hypot.frn 33—42, omb.m o vkst dir sed. 42. Styr.led Alnarpsinst, rev Malmöh läns hush.sällsk. Led Lunds lokalstyr f Lant-br.frbs Byggn.frn (LBF). Hobbies: Lantbr, golf.",
+    "translated": "FALK, Nils Josef, Mortgage Director, Lund, b. N Vram, Malmö County, 21/10 01, to parents Nils Falk and Karna Svensson. Married to Anna Munck af Ro-senschöld. Completed secondary school at 20, graduated with a law degree in 1927, member of the Malmö nation's board 1925-1927, president of Lund's student union in 1927. Assistant judge at Frosta and Eslöv's courts from 1927 to 1930, deputy representative and secretary of the Swedish Mortgage Society from 1933 to 1942, representative and deputy director since 1942. Board member of the Alnarp Institute, auditor of the Malmö County Agricultural Society. Member of Lund's local board of the Land and Building Society (LBF). Hobbies: Agriculture, golf.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "givenName": "Nils",
+        "additionalName": "Josef",
+        "familyName": "Falk",
+        "jobTitle": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1927",
+                "endDate": "1930",
+                "roleName": "Assistant Judge",
+                "namedPosition": "Frosta and Eslöv's courts"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1933",
+                "endDate": "1942",
+                "roleName": "Deputy Representative and Secretary",
+                "namedPosition": "Swedish Mortgage Society"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1942",
+                "roleName": "Representative and Deputy Director",
+                "namedPosition": "Swedish Mortgage Society"
+            }
+        ],
+        "birthPlace": "Vram, Malmö County",
+        "birthDate": "1901-10-21",
+        "parent": [
+            {
+                "@type": "Person",
+                "givenName": "Nils",
+                "familyName": "Falk"
+            },
+            {
+                "@type": "Person",
+                "givenName": "Karna",
+                "familyName": "Svensson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "givenName": "Anna",
+            "familyName": "Munck af Ro-senschöld"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "secondary school",
+                "awardDate": "1921"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "law degree",
+                "awardDate": "1927"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Alnarp Institute",
+                "roleName": "Board member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Malmö County Agricultural Society",
+                "roleName": "Auditor"
+            },
+            {
+                "@type": "Organization",
+                "name": "Lund's local board of the Land and Building Society (LBF)",
+                "roleName": "Board member"
+            }
+        ],
+        "hasOccupation": [
+            {
+                "@type": "DefinedTerm",
+                "name": "Agriculture"
+            },
+            {
+                "@type": "DefinedTerm",
+                "name": "Golf"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Mortgage Director",
+                "workplace": "Sk Hypot",
+                "industry": "Finance",
+                "start_date": "1942"
+            },
+            {
+                "occupational_title": "Assistant judge",
+                "workplace": "Frosta and Eslöv's courts",
+                "industry": "Legal",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Deputy Representative and Secretary",
+                "workplace": "Swedish Mortgage Society",
+                "industry": "Finance",
+                "start_date": "1933"
+            },
+            {
+                "occupational_title": "Representative and Deputy Director",
+                "workplace": "Swedish Mortgage Society",
+                "industry": "Finance",
+                "start_date": "1942"
+            }
+        ]
+    }
+}

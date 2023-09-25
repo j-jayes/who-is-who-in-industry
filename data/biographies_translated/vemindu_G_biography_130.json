@@ -1,0 +1,55 @@
+{
+    "original": "GULLBERG, Arvid Gustav, Fabrikör, Örebro, f Mariestad 31/8 88, gm Ingrid Carlstein. Verksam i charkuteribranschen sed. 03 bl a i broderns fma Seth Gullberg i Mariestad, etabl fma Arvid Gullbergs Livsmedel i öbr 14.",
+    "translated": "GULLBERG, Arvid Gustav, Manufacturer, Örebro, b. Mariestad 31/8 1888, m. Ingrid Carlstein. Active in the meat processing industry since 1903, including at his brother Seth Gullberg's company in Mariestad. Established his own company, Arvid Gullberg's Food, in 1914.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Arvid Gustav Gullberg",
+        "givenName": "Arvid Gustav",
+        "familyName": "Gullberg",
+        "birthPlace": "Mariestad",
+        "birthDate": "1888-08-31",
+        "gender": "Male",
+        "nationality": "Swedish",
+        "description": "Manufacturer in the meat processing industry",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Arvid Gullberg's Food",
+                "startDate": "1914"
+            },
+            {
+                "@type": "Organization",
+                "name": "Seth Gullberg's Company",
+                "location": "Mariestad",
+                "startDate": "1903"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ingrid Carlstein"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Manufacturer",
+                "workplace": "Örebro",
+                "industry": "Meat processing",
+                "start_date": "1903"
+            },
+            {
+                "occupational_title": "Manufacturer",
+                "workplace": "Seth Gullberg's company in Mariestad",
+                "industry": "Meat processing",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Producer",
+                "workplace": "Arvid Gullberg's Food",
+                "industry": "Food manufacturing",
+                "start_date": "1914"
+            }
+        ]
+    }
+}

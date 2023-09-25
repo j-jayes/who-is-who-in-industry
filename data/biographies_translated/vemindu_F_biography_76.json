@@ -1,0 +1,69 @@
+{
+    "original": "FLYBORG, Olof Albert, Direktör, Stockholm, f Madesjö, Kmr l, 28/7 83. Inneh eft slut skolstud spec- o spannm.aff i Kvarnlyckan 17—28, disp i AB Gösta Flyborg (engros-fma i papper, påsar o bindgarn) Sthlm 29, vkst dir sed. 35.",
+    "translated": "FLYBORG, Olof Albert, Director, Stockholm, b. Madesjö, Kmr l, 28/7 83 (born on July 28th, 1883). Education: Completed primary school and specialized in the grain trade. Worked at Kvarnlyckan from 1917 to 1928. Became a manager at AB Gösta Flyborg (wholesale company in paper, bags, and binding twine) in Stockholm in 1929, and promoted to the position of executive director since 1935.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Olof Albert Flyborg",
+        "birthDate": "1883-07-28",
+        "jobTitle": "Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Primary School"
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "AB Gösta Flyborg",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Stockholm"
+            },
+            "startDate": "1929-01-01",
+            "endDate": "1935-12-31"
+        },
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "Kvarnlyckan",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm"
+                },
+                "startDate": "1917-01-01",
+                "endDate": "1928-12-31"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Stockholm",
+                "industry": "",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Specialized in the grain trade",
+                "workplace": "Kvarnlyckan",
+                "industry": "",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "AB Gösta Flyborg",
+                "industry": "Wholesale company in paper, bags, and binding twine",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Executive Director",
+                "workplace": "AB Gösta Flyborg",
+                "industry": "Wholesale company in paper, bags, and binding twine",
+                "start_date": "1935"
+            }
+        ]
+    }
+}

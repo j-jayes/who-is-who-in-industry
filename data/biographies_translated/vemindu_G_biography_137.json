@@ -1,0 +1,88 @@
+{
+    "original": "GUNNARSON, Gunnar Demetrius, Riksbanksdirektör, Västerås, f Virserum, Kalm län, 20/6 88 av lantbr K E D G o Albertina Larsson, gm Greta Sjöö. Studex 08. Anst riksbkn sed. 11, kont.ch clearingnmdn 38—39, dir V.ås sed. 40.",
+    "translated": "GUNNARSON, Gunnar Demetrius, Director of the Riksbank, from Västerås, born in Virserum, Kalm County on June 20th, 1888, son of farmer K E D G and Albertina Larsson, married to Greta Sjöö. Graduated in 1908. Employed at the Riksbank since 1911, worked as a clearing committee member from 1938 to 1939, and became a director in Västerås in 1940.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Gunnar Demetrius Gunnarson",
+        "birthDate": "1888-06-20",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Virserum"
+        },
+        "nationality": "Swedish",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Västerås"
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "K E D G",
+                "relation": "father",
+                "occupation": "farmer"
+            },
+            {
+                "@type": "Person",
+                "name": "Albertina Larsson",
+                "relation": "mother"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Greta Sjöö"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "degree": "Studex",
+                "yearEarned": "1908"
+            }
+        ],
+        "jobTitle": "Director of the Riksbank",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Riksbank"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Riksbank",
+                "startDate": "1911"
+            },
+            {
+                "@type": "Organization",
+                "name": "Clearing Committee",
+                "startDate": "1938",
+                "endDate": "1939"
+            },
+            {
+                "@type": "Organization",
+                "name": "Västerås",
+                "startDate": "1940"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director of the Riksbank",
+                "workplace": "Riksbank",
+                "industry": "Banking",
+                "start_date": "1911"
+            },
+            {
+                "occupational_title": "Clearing Committee Member",
+                "workplace": "Riksbank",
+                "industry": "Banking",
+                "start_date": "1938"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Västerås",
+                "industry": "Unknown",
+                "start_date": "1940"
+            }
+        ]
+    }
+}

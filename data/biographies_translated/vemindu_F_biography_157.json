@@ -1,13 +1,38 @@
 {
     "original": "FRIBERG, Oscar Elof, Köpman, Värnamo, f Tofteryd, Jkps l, 25/2 90, gm Svea Claesson. Eft anst i Odens Parkettgolffabr i Jkp eg speceriaff i Tofteryd 16 o i Skillingaryd, etabl eg herrekip.aff i Vaggeryd 23, flyttade t Värnamo o etabl Fma Nya Beklädn.aff där 29, öppn fil i Alvesta 32 men överlät denna 42. Styrled i Värnamo Köpm.frns manuf.avd samt i Motorför:s Helnykterh.frbs Värnamoavd. Tillh Värnamo Kyrkobrödrakår.",
-    "translated": "FRIBERG, Oscar Elof, Merchant, Värnamo, born in Tofteryd, Jönköping County, on February 25, 1890, married to Svea Claesson. After working at Odens Parquet Flooring Factory in Jönköping, he established a grocery store in Tofteryd in 1916, and another one in Skillingaryd. In 1923, he established a gentlemen's clothing store in Vaggeryd, then moved to Värnamo and established a new clothing store called Fma Nya Beklädnadsaffär in 1929. He opened a branch in Alvesta in 1932 but sold it in 1942. He served as a board member in Värnamo Merchant Association's manufacturing division, as well as in the Motor Association's Alcohol-Free Society Värnamo Branch. He was also part of Värnamo Church Brotherhood.",
+    "translated": "FRIBERG, Oscar Elof, Merchant, Värnamo, b. Tofteryd, Jönköping County, 25/2 1890, m. Svea Claesson. Previously employed at Odens Parkettgolffabr in Jönköping, and later owned a grocery store in Tofteryd from 1916 to 1920, and in Skillingaryd. Established a men's clothing store in Vaggeryd in 1923, then moved to Värnamo and established Fma Nya Beklädningsaffär in 1929. Opened a branch in Alvesta in 1932 but sold it in 1942. Served on the board of Värnamo Merchant Association's manufacturing department and the Motorför's Temperance Society's Värnamo branch. Member of Värnamo Church Brotherhood.",
     "structured": {
-        "@context": "https://schema.org",
+        "@context": "http://schema.org",
         "@type": "Person",
         "name": "Oscar Elof Friberg",
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Tofteryd, Jönköping County"
+        },
         "birthDate": "1890-02-25",
-        "birthPlace": "Tofteryd, Jönköping County",
-        "description": "Merchant from Värnamo",
+        "jobTitle": "Merchant",
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Värnamo Church Brotherhood",
+            "memberOf": [
+                {
+                    "@type": "Organization",
+                    "name": "Värnamo Merchant Association",
+                    "hasPOS": {
+                        "@type": "Organization",
+                        "name": "Odens Parkettgolffabr"
+                    }
+                },
+                {
+                    "@type": "Organization",
+                    "name": "Motorför's Temperance Society",
+                    "branchOf": {
+                        "@type": "Organization",
+                        "name": "Värnamo branch"
+                    }
+                }
+            ]
+        },
         "spouse": {
             "@type": "Person",
             "name": "Svea Claesson"
@@ -15,106 +40,84 @@
         "worksFor": [
             {
                 "@type": "Organization",
-                "name": "Odens Parquet Flooring Factory",
+                "name": "Odens Parkettgolffabr",
                 "location": "Jönköping"
             },
             {
                 "@type": "Organization",
-                "name": "Fma Nya Beklädnadsaffär",
-                "location": "Värnamo"
+                "name": "Fma Nya Beklädningsaffär",
+                "location": "Värnamo",
+                "startDate": "1929"
+            },
+            {
+                "@type": "Organization",
+                "name": "Motorför's Temperance Society",
+                "location": "Värnamo",
+                "startDate": "1942"
             }
         ],
-        "employmentHistory": [
+        "owns": [
             {
                 "@type": "Organization",
-                "name": "Odens Parquet Flooring Factory",
-                "location": "Jönköping",
-                "endDate": "1916"
-            },
-            {
-                "@type": "Organization",
-                "name": "Tofteryd Grocery Store",
+                "name": "Grocery Store",
                 "location": "Tofteryd",
                 "startDate": "1916",
-                "endDate": "1923"
+                "endDate": "1920"
             },
             {
                 "@type": "Organization",
-                "name": "Skillingaryd Grocery Store",
-                "location": "Skillingaryd",
+                "name": "Grocery Store",
+                "location": "Skillingaryd"
+            },
+            {
+                "@type": "Organization",
+                "name": "Men's Clothing Store",
+                "location": "Vaggeryd",
                 "startDate": "1923"
             },
             {
                 "@type": "Organization",
-                "name": "Vaggeryd Gentlemen's Clothing Store",
-                "location": "Vaggeryd",
-                "startDate": "1923",
-                "endDate": "1929"
-            },
-            {
-                "@type": "Organization",
-                "name": "Fma Nya Beklädnadsaffär",
-                "location": "Värnamo",
-                "startDate": "1929",
-                "endDate": "1942"
-            },
-            {
-                "@type": "Organization",
-                "name": "Alvesta Clothing Store Branch",
+                "name": "Men's Clothing Store",
                 "location": "Alvesta",
                 "startDate": "1932",
                 "endDate": "1942"
             }
-        ],
-        "boardMemberOf": [
-            {
-                "@type": "Organization",
-                "name": "Värnamo Merchant Association's manufacturing division"
-            },
-            {
-                "@type": "Organization",
-                "name": "Motor Association's Alcohol-Free Society Värnamo Branch"
-            }
-        ],
-        "memberOf": {
-            "@type": "Organization",
-            "name": "Värnamo Church Brotherhood"
-        }
+        ]
     },
     "occupations": {
         "career": [
             {
                 "occupational_title": "Merchant",
-                "workplace": "Odens Parquet Flooring Factory",
-                "industry": "Wood and flooring manufacturing",
-                "start_date": "Before 1916"
+                "workplace": "Odens Parkettgolffabr",
+                "industry": "Flooring manufacturing",
+                "start_date": "Unknown"
             },
             {
-                "occupational_title": "Grocery Store Owner",
+                "occupational_title": "Grocery store owner",
                 "workplace": "Tofteryd",
                 "industry": "Retail",
                 "start_date": "1916"
             },
             {
-                "occupational_title": "Grocery Store Owner",
+                "occupational_title": "Grocery store owner",
                 "workplace": "Skillingaryd",
                 "industry": "Retail",
                 "start_date": "Unknown"
             },
             {
-                "occupational_title": "Gentlemen's Clothing Store Owner",
+                "occupational_title": "Men's clothing store owner",
                 "workplace": "Vaggeryd",
                 "industry": "Retail",
                 "start_date": "1923"
             },
             {
-                "occupational_title": "Clothing Store Owner",
-                "workplace": "Värnamo",
+                "occupational_title": "Merchant",
+                "workplace": "Fma Nya Beklädningsaffär",
                 "industry": "Retail",
                 "start_date": "1929"
             },
             {
-                "occupational_title": "Clothing Store Owner",
+                "occupational_title": "Merchant",
                 "workplace": "Alvesta",
                 "industry": "Retail",
                 "start_date": "1932"

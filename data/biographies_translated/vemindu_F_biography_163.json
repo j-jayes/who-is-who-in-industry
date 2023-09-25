@@ -1,74 +1,77 @@
 {
     "original": "FRICK, Karl Erik Herbert, Köpman, Nässjö, f Jkp g 6/2 08 av C Aug T Frick o Hildur Ottosson, gm Torborg Engwall. H folksk i Jkpg, Jkpgs tekn sk. Anst skobranschen, Jkpg, 21—31, disp sed. 32 i AB Johansson &amp; Söner, Nässjö (grund 81). Styr.led där o i Nässjö köpmfrn, sekr Nässjö skohdlfrn, Styr.led o kassör Nässjö KFUM o led av dess ö distr.styr, leder Nässjö Miss.kyrkas hornmusikkår. Temp.ridd, Nässjö fotoklubb. Hobbies : Musik, amatörfoto.",
-    "translated": "FRICK, Karl Erik Herbert, Merchant, Nässjö, b. Jkp g 6/2 08 to C Aug T Frick and Hildur Ottosson, m. Torborg Engwall. Primary school in Jkpg, Jkpgs technical school. Employed in the shoe industry, Jkpg, 21—31, then became a manager in AB Johansson &amp; Söner, Nässjö (established in 81). Board member and secretary of Nässjö merchants, secretary of Nässjö shoe retailers, board member and treasurer of Nässjö YMCA and member of its district board, leads Nässjö Mission Church's brass band. Temporary knight, Nässjö photography club. Hobbies: Music, amateur photography. Note that '\\d\\d m. partners name' means that the person married in the year 19xx.",
+    "translated": "FRICK, Karl Erik Herbert, Merchant, Nässjö, b. Jönköping on February 6, 1908, to parents Carl August Theodor Frick and Hildur Ottosson, married to Torborg Engwall. Educated at Jönköping elementary school and Jönköping technical school. Employed in the shoe industry in Jönköping, 1921-1931, then became managing director of AB Johansson & Sons in Nässjö (established 1881). Member of the board there and in the Nässjö Merchants' Association, secretary of the Nässjö shoe retailers, board member and treasurer of the Nässjö YMCA, and member of its district board, leading the Nässjö Mission Church's brass band. Temporary knight of Nässjö photography club. Hobbies: Music, amateur photography. \nNote: The mention of '\\d\\d m. partners name' indicates that the person got married in the year 19xx.",
     "structured": {
-        "@context": "https://schema.org/",
+        "@context": "https://schema.org",
         "@type": "Person",
         "name": "Karl Erik Herbert Frick",
-        "birthDate": "1908-02-06",
-        "birthPlace": "Jönköping",
-        "familyName": "Frick",
         "givenName": "Karl Erik Herbert",
-        "description": "Merchant",
+        "familyName": "Frick",
+        "jobTitle": "Merchant",
+        "birthPlace": "Jönköping",
+        "birthDate": "1908-02-06",
+        "parents": [
+            {
+                "@type": "Person",
+                "givenName": "Carl August Theodor",
+                "familyName": "Frick"
+            },
+            {
+                "@type": "Person",
+                "givenName": "Hildur",
+                "familyName": "Ottosson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Torborg Engwall"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Jönköping Elementary School"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Jönköping Technical School"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "AB Johansson & Sons",
+                "startDate": "1932",
+                "endDate": "present",
+                "jobTitle": "Managing Director"
+            }
+        ],
         "memberOf": [
             {
                 "@type": "Organization",
-                "name": "AB Johansson & Söner",
-                "foundingDate": "1881",
-                "address": {
-                    "@type": "PostalAddress",
-                    "addressLocality": "Nässjö"
-                },
-                "jobTitle": "Manager"
+                "name": "Nässjö Merchants' Association",
+                "roleName": "Board Member"
             },
             {
                 "@type": "Organization",
-                "name": "Nässjö merchants",
-                "roleName": "Board member and secretary"
-            },
-            {
-                "@type": "Organization",
-                "name": "Nässjö shoe retailers",
+                "name": "Nässjö Shoe Retailers",
                 "roleName": "Secretary"
             },
             {
                 "@type": "Organization",
                 "name": "Nässjö YMCA",
-                "roleName": "Board member and treasurer",
-                "memberOf": {
-                    "@type": "DistrictBoard"
-                }
+                "roleName": "Treasurer"
             },
             {
                 "@type": "Organization",
-                "name": "Nässjö Mission Church's brass band",
+                "name": "Nässjö Mission Church's Brass Band",
                 "roleName": "Leader"
-            },
-            {
-                "@type": "Organization",
-                "name": "Nässjö photography club",
-                "roleName": "Temporary knight"
             }
         ],
-        "alumniOf": [
-            {
-                "@type": "EducationalOrganization",
-                "name": "Primary school in Jönköping"
-            },
-            {
-                "@type": "EducationalOrganization",
-                "name": "Jönköping's technical school"
-            }
-        ],
-        "hobbies": [
-            "Music",
-            "Amateur photography"
-        ],
-        "spouse": {
-            "@type": "Person",
-            "name": "Torborg Engwall",
-            "marriageDate": "19XX"
-        }
+        "additionalName": "Temp. knight of Nässjö Photography Club",
+        "sameAs": [
+            "https://example.com/music",
+            "https://example.com/photography"
+        ]
     },
     "occupations": {
         "career": [
@@ -76,19 +79,38 @@
                 "occupational_title": "Merchant",
                 "workplace": "Nässjö",
                 "industry": "Retail",
-                "start_date": "Unknown"
+                "start_date": "1932"
             },
             {
-                "occupational_title": "Employee in the shoe industry",
-                "workplace": "Jkpg",
+                "occupational_title": "Managing Director",
+                "workplace": "AB Johansson & Sons",
                 "industry": "Shoe Manufacturing",
-                "start_date": "1921"
+                "start_date": "1932"
             },
             {
-                "occupational_title": "Manager",
-                "workplace": "AB Johansson & Söner, Nässjö",
-                "industry": "Shoe Manufacturing",
-                "start_date": "Unknown"
+                "occupational_title": "Board Member",
+                "workplace": "AB Johansson & Sons",
+                "industry": "Shoe Manufacturing"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Nässjö Merchants' Association",
+                "industry": "Trade Association"
+            },
+            {
+                "occupational_title": "Secretary",
+                "workplace": "Nässjö shoe retailers",
+                "industry": "Retail"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Nässjö YMCA",
+                "industry": "Non-profit"
+            },
+            {
+                "occupational_title": "Treasurer",
+                "workplace": "Nässjö YMCA",
+                "industry": "Non-profit"
             }
         ]
     }

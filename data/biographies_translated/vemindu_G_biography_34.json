@@ -1,0 +1,83 @@
+{
+    "original": "GERA:LF, Wilhelm Alfred, Civilingenjör, Stocksund, f Sthlm 29/8 03 av tjm A F G o Gerda Stjernlöf, gm Ingrid Swedberg. Studex öReal Sthlm 23, KTH (maskinbyggn o mek tekn) 24—28. Patenting v AB Elektrolux Sthlm 28, nu patentomb samt inneh av W Geralds Patentbyrå Sthlm. Styr.led i AB Termisk Isolation. Led Sv Tekn.frn.",
+    "translated": "GERA:LF, Wilhelm Alfred, Civil engineer, Stocksund, b. Stockholm 29/8 03, son of employee A F G and Gerda Stjernlöf, m. Ingrid Swedberg. Graduated from Real Sthlm 23, KTH (mechanical engineering) 24-28. Started working at AB Elektrolux Stockholm in 1928, currently working as a patent officer and owner of W Geralds Patentbyrå Stockholm. Board member of AB Termisk Isolation. Member of the Swedish Society of Engineering.\n\nNote: \"m.\" is an abbreviation for \"married\" and \"frn\" is an abbreviation for \"from.\"",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Wilhelm Alfred GERALF",
+        "jobTitle": "Civil engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stocksund",
+            "addressRegion": "Stockholm"
+        },
+        "birthDate": "1903-08-29",
+        "birthPlace": "Stockholm, Sweden",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "A F G"
+            },
+            {
+                "@type": "Person",
+                "name": "Gerda Stjernlöf"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ingrid Swedberg"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "diploma",
+            "issuer": {
+                "@type": "EducationalOrganization",
+                "name": "Real Sthlm"
+            },
+            "startDate": "1923",
+            "endDate": "1928"
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "AB Elektrolux",
+            "startDate": "1928"
+        },
+        "currentJobTitle": "Patent Officer",
+        "owns": {
+            "@type": "Organization",
+            "name": "W Geralds Patentbyrå Stockholm"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "AB Termisk Isolation"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Society of Engineering"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil engineer",
+                "workplace": "AB Elektrolux",
+                "industry": "Appliances",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Patent officer",
+                "workplace": "W Geralds Patentbyrå",
+                "industry": "Intellectual property",
+                "start_date": "Current"
+            },
+            {
+                "occupational_title": "Board member",
+                "workplace": "AB Termisk Isolation",
+                "industry": "Thermal insulation",
+                "start_date": "N/A"
+            }
+        ]
+    }
+}

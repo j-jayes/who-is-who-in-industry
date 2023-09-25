@@ -1,107 +1,85 @@
 {
     "original": "FRIMAN, Carl Harry, Kapten, Stockholm, f Skövde 14/8 91 av kamrer P E F o Alma Muntzing, gm Märta Skog. Stud i Tyskl 10, 1 Engl 11, ex tekn sk Sthlm 12. Resoffex 15, fänr Vnorrl reg:s res 15, löjtn 18, kapt 30. Ing v A Karlson Metall- &amp; Maskin AB Sthlm 12—16, ch f maskinavd där sed. 16. Styr.led i Falu Mek Verkst AB 17—23. Ordf Tekn frn M S Sthlm 30—32 o 34—36, led Sv Tekn.frn. K m:ts ombud i Sthlms Skyttefrb sed. 34. Resor: Tyskl, Engl, Danm, Norge, Holl, Belg, Schweiz o Ital v öl tillf 10—39. Sthlms Skyt-tefrbs ftJM, Sthlms Lstfrbs ftJM, guldmärken i idrott, skidlöpn, Skytte, pistol (av militära), Arméns skytteM, RiksGM, Mästarmärke g. Hobbies: Arbetet, Skytte, idrott.",
-    "translated": "FRIMAN, Carl Harry, Captain, Stockholm, born in Skövde on August 14, 1891, son of the accountant P.E.F. and Alma Muntzing, married to Märta Skog. Studied in Germany for 10 months, 1 month in England, and graduated from the technical school in Stockholm in 1912. Reserve officer examination in 1915, promoted to ensign in the northern regiment's reserve in 1915, lieutenant in 1918, captain in 1930. Worked for A. Karlson Metall- & Machine AB in Stockholm from 1912 to 1916, and then became head of the machine department there. Board member of Falu Mek Verkst AB from 1917 to 1923. Chairman of the Technical Association from M.S. in Stockholm from 1930 to 1932 and 1934 to 1936, member of the Swedish Technical Association. Appointed delegate for Stockholm Shooting Association since 1934. Travelled to Germany, England, Denmark, Norway, Holland, Belgium, Switzerland, and Italy on several occasions from 1910 to 1939. Finished first in Stockholm Shooting Association and Stockholm County Shooting Association competitions, received gold medals in sports, skiing, shooting, and military pistol competitions, Army Shooting Medal, National Shooting Gold Medal, Master's Badge. Hobbies: Work, Shooting, Sports.",
+    "translated": "FRIMAN, Carl Harry, Captain, Stockholm, born in Skövde on August 14, 1891, the son of treasurer P. E. F. and Alma Muntzing, married to Märta Skog. Studied in Germany for 10 months, in England for 11 months, and graduated from a technical school in Stockholm in 1912. Commissioned officer examination in 1915, second lieutenant in the reserve of the Northern Infantry Regiment in 1915, promoted to lieutenant in 1918, and to captain in 1930. Employed at A. Karlson Metall- & Machine Co. in Stockholm from 1912 to 1916, then became head of the machinery department there since 1916. Board member of Falu Mek Verkst AB from 1917 to 1923. Chairman of the Technical Society of Stockholm from 1930 to 1932 and 1934 to 1936, member of the Swedish Technical Association. Appointed as a representative by the Royal Majesty's delegate in Stockholm's Sharpshooting Association since 1934. Traveled to Germany, England, Denmark, Norway, Holland, Belgium, Switzerland, and Italy multiple times between 1910 and 1939. Achievements: Stockholm's Sharpshooting Association gold medal, Stockholm's Cross Country Skiing gold medal, marksmanship with gun and pistol (from the military), Army Sharpshooter medal, National Golden Cross in Shooting, Master's badge. Hobbies: Work, shooting, sports.",
     "structured": {
         "@context": "https://schema.org/",
         "@type": "Person",
-        "name": "Carl Harry Friman",
-        "jobTitle": "Captain",
-        "birthPlace": "Skövde",
+        "name": "FRIMAN, Carl Harry",
         "birthDate": "1891-08-14",
-        "parents": [
+        "birthPlace": "Skövde",
+        "description": "Captain, Stockholm, son of treasurer P. E. F. and Alma Muntzing, married to Märta Skog.",
+        "education": [
             {
-                "@type": "Person",
-                "name": "P.E.F. Friman",
-                "jobTitle": "Accountant"
-            },
-            {
-                "@type": "Person",
-                "name": "Alma Muntzing"
-            }
-        ],
-        "spouse": [
-            {
-                "@type": "Person",
-                "name": "Märta Skog"
-            }
-        ],
-        "studied": [
-            {
-                "@type": "EducationalOrganization",
-                "name": "Germany",
-                "duration": "10 months"
-            },
-            {
-                "@type": "EducationalOrganization",
-                "name": "England",
-                "duration": "1 month"
-            },
-            {
-                "@type": "EducationalOrganization",
-                "name": "Technical School Stockholm",
-                "endDate": "1912"
-            }
-        ],
-        "reserves": [
-            {
-                "@type": "Organization",
-                "name": "Northern Regiment",
-                "rank": "Ensign",
-                "startDate": "1915",
-                "endDate": "1918"
-            }
-        ],
-        "armyRank": "Captain",
-        "workExperience": [
-            {
-                "@type": "Organization",
-                "name": "A. Karlson Metall- & Machine AB",
-                "location": "Stockholm",
+                "@type": "EducationEvent",
+                "schoolName": "Technical School Stockholm",
                 "startDate": "1912",
-                "endDate": "1916"
+                "endDate": "1912"
+            },
+            {
+                "@type": "EducationEvent",
+                "schoolName": "Germany",
+                "startDate": "1910",
+                "endDate": "1911",
+                "description": "Studied for 10 months"
+            },
+            {
+                "@type": "EducationEvent",
+                "schoolName": "England",
+                "startDate": "1911",
+                "endDate": "1912",
+                "description": "Studied for 11 months"
+            }
+        ],
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "A. Karlson Metall- & Machine Co.",
+                "startDate": "1912",
+                "endDate": "1916",
+                "description": "Employee"
+            },
+            {
+                "@type": "Organization",
+                "name": "A. Karlson Metall- & Machine Co.",
+                "startDate": "1916",
+                "description": "Head of Machinery Department"
             },
             {
                 "@type": "Organization",
                 "name": "Falu Mek Verkst AB",
-                "position": "Board Member",
                 "startDate": "1917",
-                "endDate": "1923"
-            },
-            {
-                "@type": "Organization",
-                "name": "A. Karlson Metall- & Machine AB",
-                "position": "Head of Machine Department",
-                "startDate": "1916"
+                "endDate": "1923",
+                "description": "Board Member"
             }
         ],
-        "organizations": [
+        "membership": [
             {
                 "@type": "Organization",
-                "name": "Technical Association from M.S. Stockholm",
-                "position": "Chairman",
+                "name": "Technical Society of Stockholm",
                 "startDate": "1930",
-                "endDate": "1932"
+                "endDate": "1932",
+                "roleName": "Chairman"
             },
             {
                 "@type": "Organization",
-                "name": "Technical Association from M.S. Stockholm",
-                "position": "Chairman",
+                "name": "Technical Society of Stockholm",
                 "startDate": "1934",
-                "endDate": "1936"
+                "endDate": "1936",
+                "roleName": "Chairman"
             },
             {
                 "@type": "Organization",
                 "name": "Swedish Technical Association",
-                "position": "Member"
+                "startDate": "unknown"
             },
             {
                 "@type": "Organization",
-                "name": "Stockholm Shooting Association",
-                "position": "Delegate",
-                "startDate": "1934"
+                "name": "Stockholm's Sharpshooting Association",
+                "startDate": "1934",
+                "roleName": "Royal Majesty's Delegate Representative"
             }
         ],
-        "countriesVisited": [
+        "travelHistory": [
             "Germany",
             "England",
             "Denmark",
@@ -111,21 +89,18 @@
             "Switzerland",
             "Italy"
         ],
+        "awards": [
+            "Stockholm's Sharpshooting Association gold medal",
+            "Stockholm's Cross Country Skiing gold medal",
+            "Marksmanship with gun and pistol (from the military)",
+            "Army Sharpshooter medal",
+            "National Golden Cross in Shooting",
+            "Master's badge"
+        ],
         "hobbies": [
             "Work",
             "Shooting",
             "Sports"
-        ],
-        "awards": [
-            "First place in Stockholm Shooting Association competitions",
-            "First place in Stockholm County Shooting Association competitions",
-            "Gold medal in sports",
-            "Gold medal in skiing",
-            "Gold medal in shooting",
-            "Gold medal in military pistol competitions",
-            "Army Shooting Medal",
-            "National Shooting Gold Medal",
-            "Master's Badge"
         ]
     },
     "occupations": {
@@ -137,28 +112,46 @@
                 "start_date": "1930"
             },
             {
-                "occupational_title": "Head of Machine Department",
-                "workplace": "A. Karlson Metall- & Machine AB",
-                "industry": "Metallurgy and Machinery",
+                "occupational_title": "Commissioned Officer",
+                "workplace": "Northern Infantry Regiment",
+                "industry": "Military",
+                "start_date": "1915"
+            },
+            {
+                "occupational_title": "Second Lieutenant",
+                "workplace": "Northern Infantry Regiment",
+                "industry": "Military",
+                "start_date": "1915"
+            },
+            {
+                "occupational_title": "Lieutenant",
+                "workplace": "Northern Infantry Regiment",
+                "industry": "Military",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "A. Karlson Metall- & Machine Co.",
+                "industry": "Metallurgy and Mechanical Engineering",
+                "start_date": "1912"
+            },
+            {
+                "occupational_title": "Head of Machinery Department",
+                "workplace": "A. Karlson Metall- & Machine Co.",
+                "industry": "Metallurgy and Mechanical Engineering",
                 "start_date": "1916"
             },
             {
                 "occupational_title": "Board Member",
                 "workplace": "Falu Mek Verkst AB",
-                "industry": "Machinery",
+                "industry": "Mechanical Engineering",
                 "start_date": "1917"
             },
             {
-                "occupational_title": "Chairman of the Technical Association",
-                "workplace": "M.S. in Stockholm",
-                "industry": "Professional Association",
+                "occupational_title": "Chairman",
+                "workplace": "Technical Society of Stockholm",
+                "industry": "Professional Society",
                 "start_date": "1930"
-            },
-            {
-                "occupational_title": "Delegate for Stockholm Shooting Association",
-                "workplace": "Stockholm Shooting Association",
-                "industry": "Sports and Recreation",
-                "start_date": "1934"
             }
         ]
     }

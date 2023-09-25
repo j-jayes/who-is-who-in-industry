@@ -1,0 +1,86 @@
+{
+    "original": "GOEDECKE, Johan Fredrik, Färghandlare, Ludvika, f Kolbäck 6/5 94 av mejerist C G E G o h h f Wenander, gm Charlotta Hultgren. Hdlssk. Anst inom färgbranschen 08—17, eg fma Vän.bg 17—22, ag J Goedeckes Färghdl, Ludv, sed. 22. Styr.led Ludv stads lärl- &amp; yrkessk, tax.nmdn, hemv.nmdn, huv.m o styr.-led Ludv sparbk. V. ordf Ludv skytfrn, v. ordf o kass Ludv köprafrn, styr.led Dal färg-hrlfrn o tapethdlfrn. Frimurare, Odd Fellow; riksskyt.M g, Ludv skyt.frn ftjm s.",
+    "translated": "GOEDECKE, Johan Fredrik, Merchant, Ludvika, b. Kolbäck 6/5 94, son of dairyman C G E G and his wife Hilda Fredrika Wenander, married Charlotta Hultgren. Completed trade school. Employed in the paint industry 08-17, then owned his own business (Vän.bg) 17-22, since then owner of J Goedeckes Paint Store in Ludvika. Board member of Ludvika's apprentice and vocational school, tax committee, home insurance committee, and board member and deputy chairman of Ludvika savings bank. Vice chairman of Ludvika shooting club, vice chairman and treasurer of Ludvika purchasing association, board member of Dalarna's paint wholesalers and wallpaper merchants. Freemason, Odd Fellow; National shooting medalist, member of Ludvika shooting club since \\textit{year}.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Johan Fredrik Goedecke",
+        "alternateName": "J. Goedecke",
+        "birthDate": "1894-05-06",
+        "birthPlace": "Kolbäck, Sweden",
+        "description": "Merchant from Ludvika, Sweden",
+        "parent": {
+            "@type": "Person",
+            "name": "Hilda Fredrika Wenander",
+            "alternateName": "Hilda Fredrika Goedecke"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Charlotta Hultgren"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "trade school"
+        },
+        "jobTitle": "Merchant",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "J Goedeckes Paint Store",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Ludvika, Sweden"
+            }
+        },
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "Vän.bg",
+                "startDate": "1917",
+                "endDate": "1922",
+                "jobTitle": "Owner"
+            },
+            {
+                "@type": "Organization",
+                "name": "J Goedeckes Paint Store",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Ludvika, Sweden"
+                },
+                "startDate": "since 1922",
+                "jobTitle": "Owner"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Ludvika shooting club",
+            "startDate": "since year"
+        },
+        "nationality": "Swedish",
+        "award": {
+            "@type": "Medal",
+            "name": "National Shooting Medal"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Anst inom färgbranschen",
+                "workplace": "Unknown",
+                "industry": "Paint industry",
+                "start_date": "1908"
+            },
+            {
+                "occupational_title": "Eg fma",
+                "workplace": "Vän.bg",
+                "industry": "Unknown",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Ag J Goedeckes Färghdl",
+                "workplace": "J Goedeckes Färghdl, Ludv",
+                "industry": "Paint store",
+                "start_date": "1922"
+            }
+        ]
+    }
+}

@@ -1,0 +1,161 @@
+{
+    "original": "GIEBUP, Hans Yngve, Försäkringsdirektör, Lidingö, f Växjö 21/9 05 av distr.lantm H G o Siri Johansson, gm Elsa-Stina Håkansson. Studex, jur kand. Tingsmerit 30—33, omb.man Försäkr AB Bore 34, v.dir sed. 38, styr.suppl där. Ag fastgh Lidingö o Harplinge, Hall. Tj.gj Försäkr.rådet 36—37. Styr.ordf AB Getinge Mek Verkst, styr.led Försäkr AB Bores Förlags AB. Resor i de fi eur länd 30—42.",
+    "translated": "GIEBUP, Hans Yngve, Insurance Director, Lidingö, b. Växjö 21/9 05, son of district surveyor H G and Siri Johansson, married to Elsa-Stina Håkansson. Completed his studies, law degree. Worked in the court from 1930 to 1933, representative for Insurance Company Bore in 1934, became vice director in 1938, and later a board member. Owned properties in Lidingö and Harplinge, Hall. Served in the Insurance Council from 1936 to 1937. Chairman of the Board for Getinge Mechanical Works, and board member of Insurance Company Bore's Publishing AB. Traveled extensively in several European countries from 1930 to 1942.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Hans Yngve GIEBUP",
+        "jobTitle": [
+            {
+                "@type": "Role",
+                "startDate": "1930",
+                "endDate": "1933",
+                "namedPosition": "Court Representative"
+            },
+            {
+                "@type": "Role",
+                "startDate": "1934",
+                "namedPosition": "Representative",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Insurance Company Bore"
+                }
+            },
+            {
+                "@type": "Role",
+                "startDate": "1938",
+                "namedPosition": "Vice Director",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Insurance Company Bore"
+                }
+            },
+            {
+                "@type": "Role",
+                "startDate": "1938",
+                "namedPosition": "Board Member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Insurance Company Bore"
+                }
+            }
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Lidingö"
+        },
+        "birthDate": "1905-09-21",
+        "birthPlace": "Växjö",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "H G",
+                "jobTitle": "District Surveyor"
+            },
+            {
+                "@type": "Person",
+                "name": "Siri Johansson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Elsa-Stina Håkansson"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "studex",
+            "credentialEarned": "Juris Doctor"
+        },
+        "owns": [
+            {
+                "@type": "Place",
+                "name": "Lidingö"
+            },
+            {
+                "@type": "Place",
+                "name": "Harplinge, Hall"
+            }
+        ],
+        "membership": [
+            {
+                "@type": "Organization",
+                "startDate": "1936",
+                "endDate": "1937",
+                "name": "Insurance Council"
+            }
+        ],
+        "boardMembership": [
+            {
+                "@type": "Organization",
+                "namedPosition": "Chairman of the Board",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Getinge Mechanical Works"
+                }
+            },
+            {
+                "@type": "Organization",
+                "namedPosition": "Board Member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Insurance Company Bore's Publishing AB"
+                }
+            }
+        ],
+        "travelHistory": {
+            "@type": "TravelAction",
+            "startDate": "1930",
+            "endDate": "1942",
+            "fromLocation": "Sweden",
+            "toLocation": [
+                "Europe"
+            ]
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Insurance Director",
+                "workplace": "Lidingö",
+                "industry": "Insurance",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Representative",
+                "workplace": "Insurance Company Bore",
+                "industry": "Insurance",
+                "start_date": 1934
+            },
+            {
+                "occupational_title": "Vice Director",
+                "workplace": "Insurance Company Bore",
+                "industry": "Insurance",
+                "start_date": 1938
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Insurance Company Bore",
+                "industry": "Insurance",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Insurance Council Representative",
+                "workplace": "Försäkr.rådet",
+                "industry": "Insurance",
+                "start_date": 1936
+            },
+            {
+                "occupational_title": "Chairman of the Board",
+                "workplace": "Getinge Mechanical Works",
+                "industry": "Mechanical Engineering",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Insurance Company Bore's Publishing AB",
+                "industry": "Publishing",
+                "start_date": null
+            }
+        ]
+    }
+}

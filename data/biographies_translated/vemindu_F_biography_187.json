@@ -1,75 +1,70 @@
 {
     "original": "FRÄNDBERG, Carl Henrik Rudolf, Handlande, Göteborg, f Gbg 25/1 91, gm Anna Björnberg. Militärtjg 08—11, affärsanst 12— 19, deläg i fma Linoleumbolaget Jönsson, Frändberg &amp; Co i Gbg sed. 20. Ordf i Västra Sv Linoleumhandl.frb. Styr.led i AB Södra Hamngatan 25. Kassaförvalt o led i fattigv.-styr, rev i arb.lösh.ktén, led av tax.nmd. Ordf i Västra Sv Blåbandsfrb, v. ordf i Sv Blå-bandsfrn.",
-    "translated": "FRÄNDBERG, Carl Henrik Rudolf, Merchant, Gothenburg, b. Gothenburg 25/1 91, m. Anna Björnberg. Military service 08-11, employed in business 12-19, co-owner in the company Linoleumbolaget Jönsson, Frändberg & Co in Gothenburg since 20. Chairman of the Western Swedish Linoleum Dealers Association. Board member of AB Södra Hamngatan 25. Treasurer and board member of the poor relief authority, auditor in the unemployment commission, member of the taxation board. Chairman of the Western Swedish Temperance Society, vice chairman of the Swedish Temperance Society.",
+    "translated": "FRÄNDBERG, Carl Henrik Rudolf, Merchant, Gothenburg, born in Gothenburg on January 25, 1891, married to Anna Björnberg. Military training 1908-1911, business assistant 1912-1919, co-owner of the company Linoleumbolaget Jönsson, Frändberg & Co in Gothenburg since 1920. Chairman of the Western Swedish Linoleum Dealers Association. Board member of AB Södra Hamngatan 25. Treasurer and board member of the charity board, auditor in the unemployment committee, member of the tax board. Chairman of the Western Swedish Blue Ribbon Association, vice chairman of the Swedish Blue Ribbon Association.",
     "structured": {
         "@context": "https://schema.org",
         "@type": "Person",
         "name": "Carl Henrik Rudolf Frändberg",
-        "description": "Merchant",
-        "birthDate": "1891-01-25",
+        "jobTitle": "Merchant",
         "birthPlace": "Gothenburg",
+        "birthDate": "1891-01-25",
         "spouse": {
             "@type": "Person",
             "name": "Anna Björnberg"
         },
-        "militaryService": {
-            "@type": "Organization",
-            "name": "Swedish Military",
-            "startDate": "1908",
-            "endDate": "1911"
-        },
-        "employmentHistory": [
-            {
-                "@type": "Organization",
-                "name": "Business",
-                "role": "Employee",
-                "startDate": "1912",
-                "endDate": "1919"
-            },
+        "memberOf": [
             {
                 "@type": "Organization",
                 "name": "Linoleumbolaget Jönsson, Frändberg & Co",
-                "role": "Co-owner",
-                "location": "Gothenburg",
                 "startDate": "1920"
+            },
+            {
+                "@type": "Organization",
+                "name": "Western Swedish Linoleum Dealers Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Södra Hamngatan 25"
+            },
+            {
+                "@type": "Organization",
+                "name": "Western Swedish Blue Ribbon Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Blue Ribbon Association",
+                "roleName": "Vice Chairman"
             }
         ],
-        "organizations": [
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "startDate": "1908",
+                "endDate": "1911",
+                "credentialCategory": "Military Training"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "startDate": "1912",
+                "endDate": "1919",
+                "credentialCategory": "Business Assistant"
+            }
+        ],
+        "affiliations": [
             {
                 "@type": "Organization",
-                "name": "Western Swedish Linoleum Dealers Association",
-                "role": "Chairman"
+                "name": "Charity Board",
+                "roleName": "Treasurer and Board Member"
             },
             {
                 "@type": "Organization",
-                "name": "AB Södra Hamngatan 25",
-                "role": "Board member"
+                "name": "Unemployment Committee",
+                "roleName": "Auditor"
             },
             {
                 "@type": "Organization",
-                "name": "Poor Relief Authority",
-                "role": "Board member",
-                "position": "Treasurer"
-            },
-            {
-                "@type": "Organization",
-                "name": "Unemployment Commission",
-                "role": "Auditor"
-            },
-            {
-                "@type": "Organization",
-                "name": "Taxation Board",
-                "role": "Member"
-            },
-            {
-                "@type": "Organization",
-                "name": "Western Swedish Temperance Society",
-                "role": "Chairman"
-            },
-            {
-                "@type": "Organization",
-                "name": "Swedish Temperance Society",
-                "role": "Vice Chairman"
+                "name": "Tax Board",
+                "roleName": "Member"
             }
         ]
     },
@@ -78,56 +73,20 @@
             {
                 "occupational_title": "Merchant",
                 "workplace": "Gothenburg",
-                "industry": "Business",
-                "start_date": "1912"
-            },
-            {
-                "occupational_title": "Co-owner",
-                "workplace": "Linoleumbolaget Jönsson, Frändberg & Co",
-                "industry": "Business",
+                "industry": "Retail/Trade",
                 "start_date": "1920"
             },
             {
-                "occupational_title": "Chairman",
-                "workplace": "Western Swedish Linoleum Dealers Association",
-                "industry": "Trade Association",
-                "start_date": "Unknown"
-            },
-            {
-                "occupational_title": "Board member",
-                "workplace": "AB Södra Hamngatan 25",
+                "occupational_title": "Business Assistant",
+                "workplace": "Unknown",
                 "industry": "Unknown",
-                "start_date": "Unknown"
+                "start_date": "1912"
             },
             {
-                "occupational_title": "Treasurer and board member",
-                "workplace": "Poor Relief Authority",
-                "industry": "Public administration",
-                "start_date": "Unknown"
-            },
-            {
-                "occupational_title": "Auditor",
-                "workplace": "Unemployment Commission",
-                "industry": "Public administration",
-                "start_date": "Unknown"
-            },
-            {
-                "occupational_title": "Member",
-                "workplace": "Taxation Board",
-                "industry": "Public administration",
-                "start_date": "Unknown"
-            },
-            {
-                "occupational_title": "Chairman",
-                "workplace": "Western Swedish Temperance Society",
-                "industry": "Non-profit organization",
-                "start_date": "Unknown"
-            },
-            {
-                "occupational_title": "Vice Chairman",
-                "workplace": "Swedish Temperance Society",
-                "industry": "Non-profit organization",
-                "start_date": "Unknown"
+                "occupational_title": "Military Trainee",
+                "workplace": "Unknown",
+                "industry": "Military",
+                "start_date": "1908"
             }
         ]
     }

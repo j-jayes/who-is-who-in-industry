@@ -1,37 +1,89 @@
 {
     "original": "FRÅNBERG, Erik Eugen Edward, Direktör, Stockholm, f Selångers s:n 9/9 82 av handl N E F o Helena Åström, gm Elna Skoglund. Sundsvalls h a l o Sdsv Hdlsinst. Kass i fmaS Muscat Sdsv 08—14, däreft eg grhdlsrör i kolonialv o saftfabr i Sdsv, vkst dir Automo-bilägrs Garantifrn o AB Josef Länsberg Sthlm sed. 35. Led IOGT, Tempelriddare, MHF.",
-    "translated": "FRÅNBERG, Erik Eugen Edward, Director, Stockholm, b. Selånger parish on September 9th, 1882, to merchant N.E.F. and Helena Åström, m. Elna Skoglund. Former cashier at Muscat Company in Sundsvall, 1908-1914, then owner of a grocery store and juice factory in Sundsvall. Currently the managing director of Automo-bilägrs Garantifrn and AB Josef Länsberg in Stockholm since 1935. Member of IOGT, Tempelriddare, and MHF.",
+    "translated": "FRÅNBERG, Erik Eugen Edward, Director, Stockholm, born in Selånger parish on 9/9 1882, son of merchant N.E.F. and Helena Åström, married to Elna Skoglund. Former treasurer of the Sundsvalls Handelsinstitut. Cashier at fmaS Muscat in Sundsvall from 1908 to 1914, then owner of a grocery store and juice factory in Sundsvall. Currently managing director of Automo-bilägarens Garantiförening AB and AB Josef Länsberg in Stockholm since 1935. Member of IOGT, the Knights Templar, and the MHF.",
     "structured": {
-        "@context": "https://schema.org",
+        "@context": "http://schema.org",
         "@type": "Person",
         "name": "Erik Eugen Edward Frånberg",
         "birthDate": "1882-09-09",
-        "birthPlace": {
-            "@type": "Place",
-            "address": {
-                "@type": "PostalAddress",
-                "addressLocality": "Selånger",
-                "addressRegion": "N/A",
-                "addressCountry": "Sweden"
+        "birthPlace": "Selånger",
+        "deathDate": null,
+        "nationality": "Swedish",
+        "jobTitle": "Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "N.E.F."
+            },
+            {
+                "@type": "Person",
+                "name": "Helena Åström"
             }
-        },
-        "father": {
-            "@type": "Person",
-            "name": "N.E.F."
-        },
-        "mother": {
-            "@type": "Person",
-            "name": "Helena Åström"
-        },
+        ],
         "spouse": {
             "@type": "Person",
             "name": "Elna Skoglund"
         },
-        "jobTitle": "Director",
-        "worksFor": {
-            "@type": "Organization",
-            "name": "Stockholm"
-        },
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Sundsvalls Handelsinstitut"
+                },
+                "roleName": "Treasurer",
+                "startDate": "Unspecified",
+                "endDate": "Unspecified"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "fmaS Muscat"
+                },
+                "roleName": "Cashier",
+                "startDate": "1908",
+                "endDate": "1914",
+                "location": "Sundsvall"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Grocery Store and Juice Factory"
+                },
+                "roleName": "Owner",
+                "startDate": "Unspecified",
+                "endDate": "Unspecified",
+                "location": "Sundsvall"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Automo-bilägarens Garantiförening AB"
+                },
+                "roleName": "Managing Director",
+                "startDate": "1935",
+                "endDate": "Present",
+                "location": "Stockholm"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Josef Länsberg"
+                },
+                "roleName": "Managing Director",
+                "startDate": "1935",
+                "endDate": "Present",
+                "location": "Stockholm"
+            }
+        ],
         "memberOf": [
             {
                 "@type": "Organization",
@@ -39,75 +91,38 @@
             },
             {
                 "@type": "Organization",
-                "name": "Tempelriddare"
+                "name": "Knights Templar"
             },
             {
                 "@type": "Organization",
                 "name": "MHF"
-            }
-        ],
-        "event": [
-            {
-                "@type": "JobPosting",
-                "title": "Cashier at Muscat Company",
-                "startDate": "1908-01-01",
-                "endDate": "1914-12-31",
-                "location": {
-                    "@type": "Place",
-                    "address": {
-                        "@type": "PostalAddress",
-                        "addressLocality": "Sundsvall",
-                        "addressRegion": "N/A",
-                        "addressCountry": "Sweden"
-                    }
-                }
-            },
-            {
-                "@type": "JobPosting",
-                "title": "Owner of a grocery store and juice factory",
-                "startDate": "1915-01-01",
-                "endDate": "1934-12-31",
-                "location": {
-                    "@type": "Place",
-                    "address": {
-                        "@type": "PostalAddress",
-                        "addressLocality": "Sundsvall",
-                        "addressRegion": "N/A",
-                        "addressCountry": "Sweden"
-                    }
-                }
-            },
-            {
-                "@type": "JobPosting",
-                "title": "Managing Director of Automo-bilägrs Garantifrn and AB Josef Länsberg",
-                "startDate": "1935-01-01"
             }
         ]
     },
     "occupations": {
         "career": [
             {
+                "occupational_title": "Treasurer",
+                "workplace": "Sundsvalls Handelsinstitut",
+                "industry": "Education",
+                "start_date": "Unknown"
+            },
+            {
                 "occupational_title": "Cashier",
-                "workplace": "Muscat Company",
+                "workplace": "fmaS Muscat",
                 "industry": "Retail",
                 "start_date": "1908"
             },
             {
                 "occupational_title": "Owner",
-                "workplace": "Grocery store",
-                "industry": "Retail",
-                "start_date": "1914"
-            },
-            {
-                "occupational_title": "Owner",
-                "workplace": "Juice factory",
-                "industry": "Food and beverage",
-                "start_date": "1914"
+                "workplace": "Grocery store and juice factory",
+                "industry": "Food and Beverage",
+                "start_date": "Unknown"
             },
             {
                 "occupational_title": "Managing Director",
-                "workplace": "Automo-bilägrs Garantifrn",
-                "industry": "Automotive",
+                "workplace": "Automo-bilägarens Garantiförening AB",
+                "industry": "Insurance",
                 "start_date": "1935"
             },
             {

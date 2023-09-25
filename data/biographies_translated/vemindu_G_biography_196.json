@@ -1,0 +1,74 @@
+{
+    "original": "GÖRANSSON, Nils Albert, Direktör, Göteborg, f Lund 6/10 90 av möbelhandl N G o h h, f Palm, gm Tyra Lindwall. Efter avslutad skolg prakt i hatt- o mössbranschen. Anst h AB Carl Wikström, Gbg, sed. 15, dir där sed. 37. Resor: Tyskl o Engl. Frimurare. Göta Par Bricole.",
+    "translated": "GÖRANSSON, Nils Albert, Director, Gothenburg, b. Lund 6/10 1890, son of furniture dealer N.G. and his wife, Palm, married to Tyra Lindwall. After finishing school, he worked in the hat and cap industry. Employed at AB Carl Wikström, Gothenburg, since 1915, promoted to director there in 1937. Traveled to Germany and England. Freemason. Member of Göta Par Bricole..",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Nils Albert Göransson",
+        "birthDate": "1890-10-06",
+        "birthPlace": "Lund",
+        "nationality": "Swedish",
+        "jobTitle": "Director",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "AB Carl Wikström",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Gothenburg"
+            }
+        },
+        "education": {
+            "alumniOf": {
+                "@type": "EducationalOrganization",
+                "name": "School"
+            }
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Tyra Lindwall"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "N.G. Göransson",
+                "jobTitle": "Furniture Dealer"
+            },
+            {
+                "@type": "Person",
+                "name": "Palm"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Göta Par Bricole"
+        },
+        "occupation": "Furniture Dealer",
+        "affiliation": "Freemason",
+        "traveled": [
+            "Germany",
+            "England"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Direktör",
+                "workplace": "AB Carl Wikström",
+                "industry": "Furniture",
+                "start_date": "1937"
+            },
+            {
+                "occupational_title": "N/A",
+                "workplace": "AB Carl Wikström",
+                "industry": "Furniture",
+                "start_date": "1915"
+            },
+            {
+                "occupational_title": "N/A",
+                "workplace": "N/A",
+                "industry": "Hat and Cap",
+                "start_date": "N/A"
+            }
+        ]
+    }
+}

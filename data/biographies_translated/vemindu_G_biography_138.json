@@ -1,0 +1,125 @@
+{
+    "original": "GUNNEMUS, Hans Arne Gösta, Civilingenjör, Stockholm, f S :a Ny, Värml l, 1/11 99 av kontraktsprost O A G o Margrethe Unneberg, gm Tyra Henriksson. Studex Karlstad 18, civingex KTH (kemi) 25. Assist v Sundsvalls kem station 25, v Bertil Groths kem byrå 26, förest Sthlms tekn inst:s kem avd 27. Erhållit patent å sätt f gasbetongframställn, arsenik-saltframställn, behandl av matarvatten, regenerering av stilmetall mm. Led Sv Tekn.frn Av trycket: Bidrag t tekn facktidskr. Resor: Danm samt Norge uppr ggr. Hobby: Fiske.",
+    "translated": "GUNNEMUS, Hans Arne Gösta, Engineer, Stockholm, b. Ny, Värmland, 1/11 1899, son of the parish priest O A G and Margrethe Unneberg, married to Tyra Henriksson. Examined at Karlstad 1918, graduated from KTH (chemistry) 1925. Assistant at Sundsvall's chemical station 1925, at Bertil Groth's chemical office 1926, head of Stockholm's Technical Institute's chemical department 1927. Received patents for methods of producing gas concrete, arsenic salt production, water treatment, and regeneration of stellite metal, etc. Member of the Swedish Academy of Engineering Sciences. Contributions to technical journals. Trips: Denmark and Norway several times. Hobby: Fishing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Hans Arne Gösta Gunnemus",
+        "birthDate": "1899-11-01",
+        "birthPlace": "Ny, Värmland, Sweden",
+        "deathDate": null,
+        "description": "Engineer in Stockholm",
+        "father": {
+            "@type": "Person",
+            "name": "O A G"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Margrethe Unneberg"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Tyra Henriksson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "diploma",
+                "credentialEarned": "Examined at Karlstad 1918"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "diploma",
+                "credentialEarned": "Graduated from KTH (chemistry) 1925"
+            }
+        ],
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Assistant",
+                "startDate": "1925",
+                "endDate": null,
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Sundsvall's Chemical Station"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Assistant",
+                "startDate": "1926",
+                "endDate": null,
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Bertil Groth's Chemical Office"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Head of Department",
+                "startDate": "1927",
+                "endDate": null,
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Stockholm's Technical Institute's Chemical Department"
+                }
+            }
+        ],
+        "patent": [
+            {
+                "@type": "Patent",
+                "name": "Gas Concrete Production Method"
+            },
+            {
+                "@type": "Patent",
+                "name": "Arsenic Salt Production Method"
+            },
+            {
+                "@type": "Patent",
+                "name": "Water Treatment Method"
+            },
+            {
+                "@type": "Patent",
+                "name": "Stellite Metal Regeneration Method"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Swedish Academy of Engineering Sciences"
+        },
+        "contributionToPeriodical": {
+            "@type": "Article",
+            "name": "Contributions to technical journals"
+        },
+        "hobby": "Fishing",
+        "additionalProperty": [
+            {
+                "@type": "PropertyValue",
+                "name": "Trips",
+                "value": "Denmark, Norway"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Assistant",
+                "workplace": "Sundsvall's chemical station",
+                "industry": "Chemical",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Assistant",
+                "workplace": "Bertil Groth's chemical office",
+                "industry": "Chemical",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Head of department",
+                "workplace": "Stockholm's Technical Institute's chemical department",
+                "industry": "Chemical",
+                "start_date": "1927"
+            }
+        ]
+    }
+}

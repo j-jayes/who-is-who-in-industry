@@ -1,0 +1,151 @@
+{
+    "original": "GOTTHABDT, Herman, Direktör, Malmö, f Nykjöbing Falster, Danm, 1/10 73 av köpm Böje G o Hermine Nielsen. Realsk Nykj.F 79—88, hdlsutb Nakskov Danm 88—92, i skps-hdl Königsberg Tyskl 92—95, Sundsvall 96— 97. Hdlsres Sv, Norge, Finl 98—05, bosatt Malmö sed. 05, förest Cornelius Munch Eftr Malmö 05—09, övert f man 09 und namnet Herman Gotthardt, dir dta AB sed. 16; filialer i Sthlm o Gbg. Ag Tågvirkes- o Mattfabr Arlöv. Resor: Bosatt Kristiania Norge 98—05; USA 20, aff.res Engl, Ital, Frankr, Holl. Hobby: Samlar nutida nordisk o fransk konst.",
+    "translated": "GOTTHABDT, Herman, Director, Malmö, born in Nykøbing Falster, Denmark, on October 1, 1873, son of merchant Böje G and Hermine Nielsen. Attended Realskole in Nykøbing Falster from 1879 to 1888, commercial education in Nakskov, Denmark, from 1888 to 1892, involved in ship trading in Königsberg, Germany, from 1892 to 1895, in Sundsvall from 1896 to 1897. Commercial trips to Sweden, Norway, and Finland from 1898 to 1905, settled in Malmö since 1905, managed Cornelius Munch Eftr in Malmö from 1905 to 1909, took over as manager in 1909 under the name Herman Gotthardt, currently served as director of the mentioned company since 1916, with branches in Stockholm and Gothenburg. Also engaged in the management of Tågvirkes- and Mattfabr Arlöv. Residence in Kristiania, Norway, from 1898 to 1905, traveled to the USA in 1920 and conducted business trips to England, Italy, France, and the Netherlands. Hobby: collecting modern Nordic and French art.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Herman Gotthardt",
+        "birthDate": "1873-10-01",
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Nykøbing Falster, Denmark"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Böje G",
+                "jobTitle": "Merchant"
+            },
+            {
+                "@type": "Person",
+                "name": "Hermine Nielsen"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Realskole",
+                "location": "Nykøbing Falster, Denmark",
+                "startDate": "1879",
+                "endDate": "1888"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Commercial School",
+                "location": "Nakskov, Denmark",
+                "startDate": "1888",
+                "endDate": "1892"
+            }
+        ],
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "Königsberg Ship Trading",
+                "location": "Königsberg, Germany",
+                "startDate": "1892",
+                "endDate": "1895"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sundsvall",
+                "location": "Sundsvall, Sweden",
+                "startDate": "1896",
+                "endDate": "1897"
+            },
+            {
+                "@type": "Organization",
+                "name": "Cornelius Munch Eftr Malmö",
+                "location": "Malmö, Sweden",
+                "startDate": "1905",
+                "endDate": "1909",
+                "jobTitle": "Manager"
+            },
+            {
+                "@type": "Organization",
+                "name": "Herman Gotthardt AB",
+                "location": "Malmö, Sweden",
+                "startDate": "1916",
+                "jobTitle": "Director",
+                "hasPOS": [
+                    {
+                        "@type": "Organization",
+                        "name": "Branch in Stockholm"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "Branch in Gothenburg"
+                    }
+                ]
+            },
+            {
+                "@type": "Organization",
+                "name": "Tågvirkes- and Mattfabr Arlöv",
+                "location": "Arlöv, Sweden"
+            }
+        ],
+        "residence": [
+            {
+                "@type": "Place",
+                "name": "Kristiania, Norway",
+                "startDate": "1898",
+                "endDate": "1905"
+            },
+            {
+                "@type": "Place",
+                "name": "Malmö, Sweden",
+                "startDate": "1905"
+            }
+        ],
+        "travel": [
+            {
+                "@type": "Place",
+                "name": "United States",
+                "startDate": "1920"
+            },
+            {
+                "@type": "Place",
+                "name": "England"
+            },
+            {
+                "@type": "Place",
+                "name": "Italy"
+            },
+            {
+                "@type": "Place",
+                "name": "France"
+            },
+            {
+                "@type": "Place",
+                "name": "Netherlands"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Hobby: Collecting modern Nordic and French art"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Cornelius Munch Eftr",
+                "industry": "Unknown",
+                "start_date": "1905"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Cornelius Munch Eftr",
+                "industry": "Unknown",
+                "start_date": "1909"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "dta AB",
+                "industry": "Unknown",
+                "start_date": "1916"
+            }
+        ]
+    }
+}

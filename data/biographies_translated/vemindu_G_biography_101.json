@@ -1,0 +1,184 @@
+{
+    "original": "GRIPENSTEDT, Carl, Friherre, Bruksägare, Kilsmo, f Bälinge, Sörml, 23/2 93 av frih C G G o Ottonie de Maré, gm Anna Nordenfalk. Studex 11, Offex 13, AIHS 15, KHS 18— 20. Ulöjtn Svea art.reg 13, löjtn 17, kapt 27, avsked 27. Förvalt v Brevens Br 28—32, ag o ch sed. 32. Inneh sed. 32 Bysta fideikomm m Brevens Bruk. Tjg hovjägmäst 34. Styr.ordf öbr l sydöstra vägdistr, led div komm styr. RNO, RVO, RJohO.",
+    "translated": "GRIPENSTEDT, Carl, Baron, Estate Owner, Kilsmo, b. Bälinge, Sörmland, 23/2/1893, son of Baron C.G.G. and Ottonie de Maré, married Anna Nordenfalk. Graduated from Studex in 1911, Officer Candidate School in 1913, Royal Institute of Higher Studies in 1915, and Royal Hussars' School from 1918 to 1920. Second Lieutenant in Svea Artillery Regiment in 1913, Lieutenant in 1917, Captain in 1927, retired in 1927. Managed the estate of Brevens Bruk from 1928 to 1932, agricultural and forestry business owner since 1932. Inherited the estate of Bysta from Brevens Bruk. Served as court gamekeeper from 1934. Chairman of the board for the southeastern road district and member of various municipal boards. Knight of the Royal Order of the North Star, Commander of the Royal Order of Vasa, Knight of the Order of St John.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Gripstedt",
+        "givenName": "Carl",
+        "familyName": "Gripstedt",
+        "birthDate": "1893-02-23",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Bälinge",
+                "addressRegion": "Sörml",
+                "addressCountry": "Sweden"
+            }
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Baron C.G.G. Gripstedt"
+            },
+            {
+                "@type": "Person",
+                "name": "Ottonie de Maré"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Anna Nordenfalk"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Studex",
+                "credentialAwarded": "Graduated",
+                "startDate": "1911"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Offex",
+                "credentialAwarded": "Officer Candidate School",
+                "startDate": "1913"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "AIHS",
+                "credentialAwarded": "Royal Institute of Higher Studies",
+                "startDate": "1915"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "KHS",
+                "credentialAwarded": "Royal Hussars' School",
+                "startDate": "1918",
+                "endDate": "1920"
+            }
+        ],
+        "militaryService": [
+            {
+                "@type": "MilitaryService",
+                "serviceType": "Ulöjtn",
+                "startDate": "1913",
+                "organization": "Svea Artillery Regiment"
+            },
+            {
+                "@type": "MilitaryService",
+                "serviceType": "löjtn",
+                "startDate": "1917",
+                "organization": "Svea Artillery Regiment"
+            },
+            {
+                "@type": "MilitaryService",
+                "serviceType": "kapt",
+                "startDate": "1927",
+                "organization": "Svea Artillery Regiment"
+            },
+            {
+                "@type": "MilitaryService",
+                "serviceType": "avsked",
+                "startDate": "1927",
+                "organization": "Svea Artillery Regiment"
+            }
+        ],
+        "occupation": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Estate Owner",
+                "startDate": "1928",
+                "endDate": "1932",
+                "organization": "Brevens Bruk"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Agricultural and Forestry Business Owner",
+                "startDate": "1932",
+                "organization": "Bysta"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Court Gamekeeper",
+                "startDate": "1934"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Chairman of the Board",
+                "startDate": "<insert_start_date>",
+                "endDate": "<insert_end_date>",
+                "organization": "<insert_organization_name>"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Member of Various Municipal Boards",
+                "startDate": "<insert_start_date>",
+                "endDate": "<insert_end_date>",
+                "organization": "<insert_organization_name>"
+            }
+        ],
+        "awards": [
+            {
+                "@type": "Order",
+                "name": "Knight of the Royal Order of the North Star",
+                "dateAwarded": "<insert_date>"
+            },
+            {
+                "@type": "Order",
+                "name": "Commander of the Royal Order of Vasa",
+                "dateAwarded": "<insert_date>"
+            },
+            {
+                "@type": "Order",
+                "name": "Knight of the Order of St John"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Officer Candidate School Graduate",
+                "workplace": "Royal Institute of Higher Studies",
+                "industry": "Education",
+                "start_date": "1911"
+            },
+            {
+                "occupational_title": "Second Lieutenant",
+                "workplace": "Svea Artillery Regiment",
+                "industry": "Military",
+                "start_date": "1913"
+            },
+            {
+                "occupational_title": "Lieutenant",
+                "workplace": "Svea Artillery Regiment",
+                "industry": "Military",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Captain",
+                "workplace": "Svea Artillery Regiment",
+                "industry": "Military",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Estate Manager",
+                "workplace": "Brevens Bruk",
+                "industry": "Agriculture",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Agricultural and Forestry Business Owner",
+                "workplace": "Own Business",
+                "industry": "Agriculture, Forestry",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Court Gamekeeper",
+                "workplace": "Unknown",
+                "industry": "Public Service",
+                "start_date": "1934"
+            }
+        ]
+    }
+}

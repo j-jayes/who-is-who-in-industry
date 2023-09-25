@@ -1,0 +1,157 @@
+{
+    "original": "FLORIN, Tage Anton, Civilingenjör, Säffle, f Kalmar 18/1 87 av fabr P R F o Emma Jonsson, gm Märta Stenbeck. Mogenh.ex Kalmar 05, KTH (E) 06—09. Elev ASEA 10—11, ing där 11—12, rit v General Electric Co Sche-nectady NY USA 12, provn.ing v Westinghouse Electric &amp; Mfg Co East Pittsburgh Pä USA 12—15, ing ASEA 15—19, länskonsulent Jönk 19—20, ing v Elektr Prövn.anst i Gbg 21, ch f Billeruds AB:s elektr avd Säffle sed. 22. Led Sv Tekn.frn samt Sv Vattenkraftfrn.",
+    "translated": "FLORIN, Tage Anton, Civil Engineer, Säffle, b. Kalmar 18/1 87 to factory worker P.R.F. and Emma Jonsson, m. Märta Stenbeck. Completed secondary education in Kalmar in 1905, studied at KTH (Royal Institute of Technology) 06-09. Trainee at ASEA 10-11, engineer there from 11-12, drafter at General Electric Co in Schenectady, NY, USA in 1912, probationary engineer at Westinghouse Electric & Mfg Co in East Pittsburgh, PA, USA from 12-15, engineer at ASEA 15-19, county consultant in Jönköping from 19-20, engineer at Elektr Prövn.anst in Gothenburg in 1921, head of Billerud's electric department in Säffle since 1922. Member of the Swedish Tech. Association and Swedish Hydropower Association. \n\nNote: the abbreviation '\\d\\d m. partners name' signifies that the person got married in the year 19xx.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Tage Anton Florin",
+        "birthDate": "1887-01-18",
+        "birthPlace": "Kalmar, Sweden",
+        "description": "Civil Engineer",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Technical Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Hydropower Association"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Märta Stenbeck",
+            "marriageDate": "19xx"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Kalmar Secondary School",
+                "endDate": "1905"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Royal Institute of Technology",
+                "startDate": "1906",
+                "endDate": "1909"
+            }
+        ],
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "ASEA",
+                "occupation": "Trainee",
+                "startDate": "1910",
+                "endDate": "1911"
+            },
+            {
+                "@type": "Organization",
+                "name": "ASEA",
+                "occupation": "Engineer",
+                "startDate": "1911",
+                "endDate": "1912"
+            },
+            {
+                "@type": "Organization",
+                "name": "General Electric Co",
+                "location": "Schenectady, NY, USA",
+                "occupation": "Drafter",
+                "startDate": "1912"
+            },
+            {
+                "@type": "Organization",
+                "name": "Westinghouse Electric & Mfg Co",
+                "location": "East Pittsburgh, PA, USA",
+                "occupation": "Probationary Engineer",
+                "startDate": "1912",
+                "endDate": "1915"
+            },
+            {
+                "@type": "Organization",
+                "name": "ASEA",
+                "occupation": "Engineer",
+                "startDate": "1915",
+                "endDate": "1919"
+            },
+            {
+                "@type": "Organization",
+                "name": "Jönköping County",
+                "occupation": "County Consultant",
+                "startDate": "1919",
+                "endDate": "1920"
+            },
+            {
+                "@type": "Organization",
+                "name": "Elektr Prövn.anst",
+                "location": "Gothenburg, Sweden",
+                "occupation": "Engineer",
+                "startDate": "1921"
+            },
+            {
+                "@type": "Organization",
+                "name": "Billerud AB",
+                "location": "Säffle, Sweden",
+                "occupation": "Head of Electric Department",
+                "startDate": "1922"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Säffle",
+                "industry": "Engineering",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Trainee",
+                "workplace": "ASEA",
+                "industry": "Engineering",
+                "start_date": "1910"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "ASEA",
+                "industry": "Engineering",
+                "start_date": "1911"
+            },
+            {
+                "occupational_title": "Drafter",
+                "workplace": "General Electric Co",
+                "industry": "Electrical Engineering",
+                "start_date": "1912"
+            },
+            {
+                "occupational_title": "Probationary Engineer",
+                "workplace": "Westinghouse Electric & Mfg Co",
+                "industry": "Electrical Engineering",
+                "start_date": "1912"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "ASEA",
+                "industry": "Engineering",
+                "start_date": "1915"
+            },
+            {
+                "occupational_title": "County Consultant",
+                "workplace": "Jönköping",
+                "industry": "Engineering",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Elektr Prövn.anst",
+                "industry": "Engineering",
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Head of Electric Department",
+                "workplace": "Billeruds AB",
+                "industry": "Electrical Engineering",
+                "start_date": "1922"
+            }
+        ]
+    }
+}

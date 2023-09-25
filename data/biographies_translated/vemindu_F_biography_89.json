@@ -1,0 +1,85 @@
+{
+    "original": "FOJL, t.IN, Karl Gustaf Ingemar, överingenjör, Västerås, f Ransäter, Värml län, 24/2 11 av bruksföry G Jansson o Louise Follin, gm Agnes Laurin. Bergsing KTH 34. Valsv.ing Finspongs metallv AB 34—41, övering AB Sv metallv 41, tekn ch Sv metallv o Finsp metallv samtl verk sed. 42.",
+    "translated": "FOJL, t.IN, Karl Gustaf Ingemar, chief engineer, Västerås, born in Ransäter, Värmland county, on February 24th, 1911, to parents G Jansson and Louise Follin, married to Agnes Laurin. Mining engineering degree from the Royal Institute of Technology (KTH) in 1934. Roll pass engineer at Finspångs metallverk AB from 1934 to 1941, chief engineer at AB Svenska metallverken from 1941, technical manager at both AB Svenska metallverken and Finspångs metallverk from 1942 onwards.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Karl Gustaf Ingemar FOJL",
+        "jobTitle": "Technical Manager",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Västerås"
+        },
+        "birthDate": "1911-02-24",
+        "birthPlace": {
+            "@type": "PostalAddress",
+            "addressLocality": "Ransäter, Värmland County"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "G Jansson"
+            },
+            {
+                "@type": "Person",
+                "name": "Louise Follin"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Agnes Laurin"
+        },
+        "alumniOf": {
+            "@type": "CollegeOrUniversity",
+            "name": "Royal Institute of Technology (KTH)"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Finspångs metallverk AB",
+                "startDate": "1934",
+                "endDate": "1941",
+                "jobTitle": "Roll Pass Engineer"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Svenska metallverken",
+                "startDate": "1941",
+                "jobTitle": "Chief Engineer"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "AB Svenska metallverken"
+            },
+            {
+                "@type": "Organization",
+                "name": "Finspångs metallverk"
+            }
+        ],
+        "startDate": "1942"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Chief Engineer",
+                "workplace": "Västerås",
+                "industry": "Engineering",
+                "start_date": "1941"
+            },
+            {
+                "occupational_title": "Roll Pass Engineer",
+                "workplace": "Finspångs metallverk AB",
+                "industry": "Metallurgy",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Technical Manager",
+                "workplace": "AB Svenska metallverken",
+                "industry": "Metallurgy",
+                "start_date": "1942"
+            }
+        ]
+    }
+}

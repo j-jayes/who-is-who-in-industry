@@ -1,0 +1,70 @@
+{
+    "original": "GUSTAFSON, Carl Gustaf, Direktör, Trollhättan, f Sunnersbergs s:n, Skarab l, 17/8 76 av lantbr A G Johansson o Mathilda Johansson, gm Hulda Vennberg. Vkst dir i AB Eskilstunaboden i Trollhättan. Tillh styr t Trollhättans Sparbk (ordf där), styr f AB Sv Hdlsbkns avd.kont.",
+    "translated": "GUSTAFSON, Carl Gustaf, Director, Trollhättan, born in Sunnersbergs parish, Skaraborg county, on August 17th, 1876, son of agriculturalist A G Johansson and Mathilda Johansson, married to Hulda Vennberg. Growth manager in AB Eskilstunaboden in Trollhättan. Belongs to the board of directors of Trollhättan Savings Bank (chairman there) and the board of AB Swedish Trade Bank's departmental office. \nNote: \"\\d\\d m. partner's name\" indicates that the person got married in the year 19XX.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Gustaf Gustafson",
+        "description": "Director at Trollhättan",
+        "birthDate": "1876-08-17",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Sunnersbergs s:n",
+                "addressRegion": "Skaraborg",
+                "addressCountry": "Sweden"
+            }
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "A G Johansson",
+                "description": "Agriculturalist"
+            },
+            {
+                "@type": "Person",
+                "name": "Mathilda Johansson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Hulda Vennberg",
+            "description": "Married in 19XX"
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "AB Eskilstunaboden",
+            "description": "Growth manager in Trollhättan"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Trollhättan Savings Bank",
+                "description": "Board of Directors",
+                "roleName": "Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Swedish Trade Bank",
+                "department": "Departmental Office"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "AB Eskilstunaboden",
+                "industry": "Unknown",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Growth Manager",
+                "workplace": "AB Eskilstunaboden",
+                "industry": "Unknown",
+                "start_date": null
+            }
+        ]
+    }
+}

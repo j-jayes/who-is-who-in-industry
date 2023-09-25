@@ -1,0 +1,112 @@
+{
+    "original": "GUMMESON, Nils Erik, Affärschef, Nora, f Nydala, Jkps län, 12/6 00 av lantbr J G G o Matilda Bengtsson, gm Anny Hammarström. KF förest.kurser, korresp.kurser. Anst ensk div.hdl 16—24, koop d :o sed. 24, förest Lönne-berga 26—31, d :o Konsum Nora m omn sed. 31. Stdsflm sed. 35, kristidnmdn. Ordf Nora Miss.förs, sekr MHF Noraavd, Styr.led Nora Fp. Hobbies: Ideell o religiös verksamh, ekon stud, politik.",
+    "translated": "GUMMESON, Nils Erik, Chief Executive Officer, Nora, born in Nydala, Jönköping county, on June 12, 1900, son of farmer J.G.G. and Matilda Bengtsson, married to Anny Hammarström. Took courses as a representative of Co-operative Society (KF), correspondence courses. Worked for a private trading company from 1916 to 1924, became a member of a co-operative society in 1924, served as manager at Lönneberga from 1926 to 1931, and then continued as manager at Konsum Nora since 1931. Member of the local film association since 1935, served during the crisis years. Chairman of Nora Missionary Association, secretary of MHF Nora branch, and member of Nora Parish Board. Hobbies: Volunteer and religious activities, economics studies, politics.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Nils Erik Gummeson",
+        "jobTitle": "Chief Executive Officer",
+        "birthDate": "1900-06-12",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Nydala",
+                "addressRegion": "Jönköping County"
+            }
+        },
+        "father": {
+            "@type": "Person",
+            "name": "J.G.G. Gummeson"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Matilda Bengtsson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Anny Hammarström"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Co-operative Society (KF)"
+            },
+            {
+                "@type": "Organization",
+                "name": "Nora Missionary Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "MHF Nora branch"
+            },
+            {
+                "@type": "Organization",
+                "name": "Nora Parish Board"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "correspondence course"
+            }
+        ],
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "Private Trading Company",
+                "startDate": "1916",
+                "endDate": "1924"
+            },
+            {
+                "@type": "Organization",
+                "name": "Co-operative Society",
+                "startDate": "1924"
+            },
+            {
+                "@type": "Organization",
+                "name": "Lönneberga",
+                "startDate": "1926",
+                "endDate": "1931"
+            },
+            {
+                "@type": "Organization",
+                "name": "Konsum Nora",
+                "startDate": "1931"
+            }
+        ],
+        "hobbies": [
+            "Volunteer and religious activities",
+            "Economics studies",
+            "Politics"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Chief Executive Officer",
+                "workplace": "Konsum Nora",
+                "industry": "Co-operative Society",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Lönneberga",
+                "industry": "Co-operative Society",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Member, Co-operative Society",
+                "workplace": "Unknown",
+                "industry": "Co-operative Society",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Representative",
+                "workplace": "Private Trading Company",
+                "industry": "Unknown",
+                "start_date": "1916"
+            }
+        ]
+    }
+}

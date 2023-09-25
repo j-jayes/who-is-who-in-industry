@@ -1,108 +1,156 @@
 {
     "original": "FELLDIN, Karl Holger, Direktör, Göteborg, f Uppsala 30/3 90 av handl G F o h h, f Ahlqvist, gm Lisa Hagelin. Efter avslutad skolgång anst i kolonialvarubr i Upps 05—11, försälj h AB Wahlund &amp; Grönblad, Sthlm, 11—14, h Handels AB G Strömberg &amp; Co:s avd.-kontor, Malmö, 15—16 o små företags huv.-kontor i Hbg 16—18, v AB Julius Forsströms huv.kontor i Gävle 18—20, chef f AB Miranda, Karlsberg &amp; Co :s avd f kolonialvaror, Sthlm, 20—22. Egen agenturfma inom kolonialvarubr i Gävle 22—27, försäljn.chef h AB Mark Berg Gbg, 27—35, försäljn.chef h Carl A Olsson AB, Gbg, 35—40, inneh av o vkst dir i AB Nordiska Frukt- &amp; Kolonialagenturen, Gbg, sed. 40. Resor: Engl, Island, Polen, Finl, Norge, Danm. Hobbies: Tennis, friluftsliv.",
-    "translated": "FELLDIN, Karl Holger, Director, Gothenburg, b. Uppsala 30/3 1890, son of merchant G. F. and h. h., née Ahlqvist, m. Lisa Hagelin. After completing his education, he was employed in the colonial goods industry in Uppsala from 1905-1911, sales representative at AB Wahlund & Grönblad in Stockholm from 1911-1914, at the branch office of Handels AB G Strömberg & Co in Malmö from 1915-1916, and at the headquarters of small businesses in Helsingborg from 1916-1918. He then worked at the head office of AB Julius Forsström in Gävle from 1918-1920 and became the manager of the department for colonial goods at AB Miranda, Karlsberg & Co in Stockholm from 1920-1922. From 1922-1927, he ran his own agency for colonial goods in Gävle, followed by the position of sales manager at AB Mark Berg in Gothenburg from 1927-1935, and then at Carl A Olsson AB in Gothenburg from 1935-1940. Since 1940, he has been the owner and managing director of AB Nordiska Frukt- & Kolonialagenturen in Gothenburg. He has traveled to England, Iceland, Poland, Finland, Norway, and Denmark. Hobbies: tennis, outdoor activities.",
+    "translated": "FELLDIN, Karl Holger, Director, Gothenburg, b. Uppsala 30/3 1890 to merchant G.F. and h.h., b. Ahlqvist, m. Lisa Hagelin. After completing schooling, employed in the colonial goods business in Uppsala 1905—1911, sales at AB Wahlund & Grönblad, Stockholm, 1911—1914, at Handels AB G Strömberg & Co's branch office, Malmö, 1915—1916 and at small company headquarters in Helsingborg 1916—1918, at AB Julius Forsström's main office in Gävle 1918—1920, manager of AB Miranda, Karlsberg & Co's department of colonial goods, Stockholm, 1920—1922. Founded own agency of colonial goods in Gävle 1922—1927, sales manager at AB Mark Berg, Gothenburg, 1927—1935, sales manager at Carl A Olsson AB, Gothenburg, 1935—1940, owner and managing director of AB Nordiska Frukt- & Kolonialagenturen, Gothenburg, since 1940. Travels to England, Iceland, Poland, Finland, Norway, Denmark. Hobbies: Tennis, outdoor activities.",
     "structured": {
         "@context": "https://schema.org",
         "@type": "Person",
         "name": "Karl Holger Felldin",
+        "jobTitle": "Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Gothenburg"
+        },
         "birthDate": "1890-03-30",
         "birthPlace": "Uppsala",
-        "nationality": "Swedish",
-        "description": "Director at AB Nordiska Frukt- & Kolonialagenturen in Gothenburg",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "G.F. Felldin"
+            },
+            {
+                "@type": "Person",
+                "name": "H.H. Ahlqvist"
+            }
+        ],
         "spouse": {
             "@type": "Person",
             "name": "Lisa Hagelin"
         },
-        "parent": [
-            {
-                "@type": "Person",
-                "name": "G. F. Felldin",
-                "jobTitle": "Merchant"
-            },
-            {
-                "@type": "Person",
-                "name": "h. h. Ahlqvist"
-            }
-        ],
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "startDate": "1905",
+            "endDate": "1911",
+            "educationalLevel": "School"
+        },
         "employmentHistory": [
             {
                 "@type": "Organization",
-                "name": "Kolonialvarubr",
-                "location": "Uppsala",
+                "name": "Colonial Goods Business",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Uppsala"
+                },
                 "startDate": "1905",
                 "endDate": "1911"
             },
             {
                 "@type": "Organization",
                 "name": "AB Wahlund & Grönblad",
-                "location": "Stockholm",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm"
+                },
                 "startDate": "1911",
                 "endDate": "1914"
             },
             {
                 "@type": "Organization",
-                "name": "Handels AB G Strömberg & Co",
-                "location": "Malmö",
+                "name": "Handels AB G Strömberg & Co's branch office",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Malmö"
+                },
                 "startDate": "1915",
                 "endDate": "1916"
             },
             {
                 "@type": "Organization",
-                "name": "Huv.-kontor",
-                "location": "Helsingborg",
+                "name": "Small Company Headquarters",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Helsingborg"
+                },
                 "startDate": "1916",
                 "endDate": "1918"
             },
             {
                 "@type": "Organization",
-                "name": "AB Julius Forsströms",
-                "location": "Gävle",
+                "name": "AB Julius Forsström's Main Office",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Gävle"
+                },
                 "startDate": "1918",
                 "endDate": "1920"
             },
             {
                 "@type": "Organization",
-                "name": "AB Miranda, Karlsberg & Co",
-                "location": "Stockholm",
+                "name": "AB Miranda, Karlsberg & Co's Department of Colonial Goods",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm"
+                },
                 "startDate": "1920",
                 "endDate": "1922"
             },
             {
                 "@type": "Organization",
-                "name": "Egen agenturfma",
-                "location": "Gävle",
+                "name": "Own Agency of Colonial Goods",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Gävle"
+                },
                 "startDate": "1922",
                 "endDate": "1927"
             },
             {
                 "@type": "Organization",
                 "name": "AB Mark Berg",
-                "location": "Gothenburg",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Gothenburg"
+                },
                 "startDate": "1927",
                 "endDate": "1935"
             },
             {
                 "@type": "Organization",
                 "name": "Carl A Olsson AB",
-                "location": "Gothenburg",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Gothenburg"
+                },
                 "startDate": "1935",
                 "endDate": "1940"
             },
             {
                 "@type": "Organization",
                 "name": "AB Nordiska Frukt- & Kolonialagenturen",
-                "location": "Gothenburg",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Gothenburg"
+                },
                 "startDate": "1940"
             }
+        ],
+        "travelHistory": [
+            "England",
+            "Iceland",
+            "Poland",
+            "Finland",
+            "Norway",
+            "Denmark"
         ],
         "memberOf": [
             {
                 "@type": "SportsTeam",
                 "name": "Tennis"
+            },
+            {
+                "@type": "SportsTeam",
+                "name": "Outdoor activities"
             }
-        ],
-        "additionalName": "Holger",
-        "sameAs": "https://www.example.com/karlholgerfelldin"
+        ]
     },
     "occupations": {
         "career": [
@@ -113,38 +161,38 @@
                 "start_date": "1905"
             },
             {
-                "occupational_title": "Sales Representative",
+                "occupational_title": "Sales",
                 "workplace": "AB Wahlund & Grönblad",
                 "industry": "Stockholm",
                 "start_date": "1911"
             },
             {
-                "occupational_title": "Sales Representative",
-                "workplace": "Handels AB G Strömberg & Co",
+                "occupational_title": "Sales",
+                "workplace": "Handels AB G Strömberg & Co's branch office",
                 "industry": "Malmö",
                 "start_date": "1915"
             },
             {
-                "occupational_title": "Headquarters of Small Businesses",
+                "occupational_title": "Small company headquarters",
                 "workplace": "Helsingborg",
-                "industry": "Helsingborg",
+                "industry": "",
                 "start_date": "1916"
             },
             {
                 "occupational_title": "Manager",
-                "workplace": "AB Julius Forsström",
+                "workplace": "AB Julius Forsström's main office",
                 "industry": "Gävle",
                 "start_date": "1918"
             },
             {
-                "occupational_title": "Manager, Department of Colonial Goods",
-                "workplace": "AB Miranda, Karlsberg & Co",
+                "occupational_title": "Department Manager",
+                "workplace": "AB Miranda, Karlsberg & Co's department of colonial goods",
                 "industry": "Stockholm",
                 "start_date": "1920"
             },
             {
-                "occupational_title": "Owner",
-                "workplace": "Own Agency for Colonial Goods",
+                "occupational_title": "Founder",
+                "workplace": "Own agency of colonial goods",
                 "industry": "Gävle",
                 "start_date": "1922"
             },

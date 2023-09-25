@@ -1,0 +1,69 @@
+{
+    "original": "GARDFORS, Ernst Fredrik, Flottningschef, Örnsköldsvik, f Anundsjö 12/12 09 av flottn.-ch L R Carlsson o Elsa Flodin. Jur kand Sthlm 35. Ass Umeå Flottn.frn 35—40, flottn.-ch öviks Flottn.frn sed. 41. FFrK.",
+    "translated": "GARDFORS, Ernst Fredrik, Director of Timber Floating, Örnsköldsvik, born in Anundsjö on December 12, 1909, son of the timber floating supervisor L R Carlsson and Elsa Flodin. He received his law degree in Stockholm in 1935. Assistant at Umeå Timber Floating from 1935 to 1940, and director of Örnsköldsvik Timber Floating since 1941. Member of the Swedish Society for Fluvial Culture (FFrK). Please note that '\\d\\d m. partner's name' indicates that the person got married in the year 19xx.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Ernst Fredrik Gardfors",
+        "birthDate": "1909-12-12",
+        "birthPlace": "Anundsjö",
+        "nationality": "Swedish",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "L R Carlsson",
+                "jobTitle": "Timber Floating Supervisor"
+            },
+            {
+                "@type": "Person",
+                "name": "Elsa Flodin"
+            }
+        ],
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Juris Doctor",
+            "alumniOf": {
+                "@type": "EducationalOrganization",
+                "name": "University of Stockholm"
+            },
+            "startDate": "1935"
+        },
+        "jobTitle": [
+            "Director of Timber Floating",
+            "Assistant at Umeå Timber Floating"
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Örnsköldsvik Timber Floating",
+                "startDate": "1941"
+            },
+            {
+                "@type": "Organization",
+                "name": "Umeå Timber Floating",
+                "startDate": "1935",
+                "endDate": "1940"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Swedish Society for Fluvial Culture (FFrK)"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Assistant",
+                "workplace": "Umeå Timber Floating",
+                "industry": "Timber Floating",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Director of Timber Floating",
+                "workplace": "Örnsköldsvik Timber Floating",
+                "industry": "Timber Floating",
+                "start_date": "1941"
+            }
+        ]
+    }
+}

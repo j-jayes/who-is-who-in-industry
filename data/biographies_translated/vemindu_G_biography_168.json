@@ -1,0 +1,104 @@
+{
+    "original": "GUSTAFSSON, Per-Ossian, Disponent, Arboga, f Ripsa, Sörml, 30/3 97 av br.äg JAG o Emma Lindström, gm Ruth Johnsson. Ex Katrineholms Tekn sk 17. Arrend Arboga Tegelbr 22—37, ag dta sed 37 (årstillv c:a 2 milj tegelvaror). Stdsflm, huv.m o styr.led Arb sparbk. Styr.led AB Orresta Tegelbr, ordf Arb skyttegille, styr.led Västml skytte-frb. Västml skyttefrbs ftjGM; Frimurare, Odd Fellow. Hobbies: Skytte, jakt, tennis, skidsport.",
+    "translated": "GUSTAFSSON, Per-Ossian, Manager, Arboga, born in Ripsa, Sörmland, on March 30, 1897, son of the deceased owner JAG and Emma Lindström, married to Ruth Johnsson. Former student at Katrineholm Technical School, graduated in 1917. Tenant at Arboga Brickworks from 1922 to 1937, then became the owner. Resides in Stockholm, main member and board member of Arboga Savings Bank. Board member of AB Orresta Brickworks, chairman of Arboga Shooting Association, board member of Västmanland Shooting Association. Västmanland Shooting Association's shooting king and championship participant. Member of the Freemasons and Odd Fellows. Hobbies: Shooting, hunting, tennis, skiing.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Per-Ossian Gustafsson",
+        "jobTitle": "Manager",
+        "birthDate": "1897-03-30",
+        "birthPlace": "Ripsa, Sörmland",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "JAG Gustafsson",
+                "deathDate": "before 1897-03-30"
+            },
+            {
+                "@type": "Person",
+                "name": "Emma Lindström"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ruth Johnsson"
+        },
+        "alumniOf": {
+            "@type": "EducationalOrganization",
+            "name": "Katrineholm Technical School",
+            "endDate": "1917"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Arboga Savings Bank"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Orresta Brickworks"
+            },
+            {
+                "@type": "Organization",
+                "name": "Arboga Shooting Association",
+                "chairman": true
+            },
+            {
+                "@type": "Organization",
+                "name": "Västmanland Shooting Association"
+            }
+        ],
+        "residence": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Stockholm"
+            }
+        },
+        "memberOfSportsTeam": [
+            {
+                "@type": "SportsTeam",
+                "name": "Arboga Brickworks",
+                "startDate": "1922",
+                "endDate": "1937"
+            }
+        ],
+        "memberOfFraternities": [
+            {
+                "@type": "Organization",
+                "name": "Freemasons"
+            },
+            {
+                "@type": "Organization",
+                "name": "Odd Fellows"
+            }
+        ],
+        "hobbies": [
+            "Shooting",
+            "Hunting",
+            "Tennis",
+            "Skiing"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Manager",
+                "workplace": "Arboga",
+                "industry": "Tegelbruk (Brickworks)",
+                "start_date": "1937"
+            },
+            {
+                "occupational_title": "Tenant",
+                "workplace": "Arboga Brickworks",
+                "industry": "Tegelbruk (Brickworks)",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Student",
+                "workplace": "Katrineholm Technical School",
+                "industry": "Education",
+                "start_date": "1917"
+            }
+        ]
+    }
+}

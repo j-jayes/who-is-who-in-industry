@@ -1,0 +1,148 @@
+{
+    "original": "GYLLENSTEN, Carl Wictor, Disponent, Stockholm, f Björneborg, Finl, 13/4 90 av pannplåtslagarmäst J A W G o Anna Tilan-der, gm Ingrid Rangström. Folksk, borgarsk, aff.prakt Tyskl o Engl. Dir fma Werner &amp; Pfleiderer AB Sthlm (grund 19), agenturfma, spec maskiner o anläggn f bageri-, liysm- o kem.tekn ind. Aff- o stud.res Tyskl, Österr, Ung, Tjeckoslov, Schweiz, Ital, Frankr, Engl, Holl, Belg, Danm, Norge, Finl, Ryssl. Timmermansorden, Par Bricole, 90 års män, burskap ss borg, Grhdlssoc i Sthlm, Borgargillet, bowlingklbn KAP. Hobbies: Bowling, simning.",
+    "translated": "GYLLENSTEN, Carl Wictor, Manager, Stockholm, born in Björneborg, Finland, on April 13, 1890, son of master sheet metal worker J A W G and Anna Tilander, married to Ingrid Rangström. Completed primary school education, attended bourgeois school, practical training in German and English. Director at Werner & Pfleiderer AB in Stockholm (established in 1919), agency manager specializing in machinery and installations for bakery, lighting, and chemical industries. Business and study trips to Germany, Austria, Hungary, Czechoslovakia, Switzerland, Italy, France, England, the Netherlands, Belgium, Denmark, Norway, Finland, and Russia. Member of the Order of Carpenters, Par Bricole, 90-year-old men's club, citizen membership as a bourgeois, Member of the Society of Stockholm Grand Hotel, the Bourgeois Guild, and the bowling club KAP. Hobbies: Bowling, swimming.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Carl Wictor Gyllensten",
+        "birthDate": "1890-04-13",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Björneborg",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Finland"
+            }
+        },
+        "father": {
+            "@type": "Person",
+            "name": "J A W G",
+            "occupation": "Master Sheet Metal Worker"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Anna Tilander"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Ingrid Rangström"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Primary School Education",
+                "credentialLevel": {
+                    "@type": "DefinedTerm",
+                    "name": "Completed"
+                }
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Bourgeois School",
+                "credentialLevel": {
+                    "@type": "DefinedTerm",
+                    "name": "Attended"
+                }
+            }
+        ],
+        "occupation": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Manager",
+                "startDate": "UNKNOWN",
+                "endDate": "UNKNOWN",
+                "namedPosition": "Stockholm",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Werner & Pfleiderer AB",
+                    "foundingDate": "1919"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Agency Manager",
+                "startDate": "UNKNOWN",
+                "endDate": "UNKNOWN",
+                "namedPosition": "Stockholm",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Werner & Pfleiderer AB",
+                    "foundingDate": "1919"
+                },
+                "specialty": "Machinery and Installations for Bakery, Lighting, and Chemical Industries"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Order of Carpenters"
+            },
+            {
+                "@type": "Organization",
+                "name": "Par Bricole"
+            },
+            {
+                "@type": "Organization",
+                "name": "90-year-old men's club"
+            },
+            {
+                "@type": "Organization",
+                "name": "Society of Stockholm Grand Hotel"
+            },
+            {
+                "@type": "Organization",
+                "name": "Bourgeois Guild"
+            },
+            {
+                "@type": "Organization",
+                "name": "Bowling Club KAP"
+            }
+        ],
+        "nationality": {
+            "@type": "Country",
+            "name": "Sweden"
+        },
+        "hobbies": [
+            "Bowling",
+            "Swimming"
+        ],
+        "studyTrip": [
+            "Germany",
+            "Austria",
+            "Hungary",
+            "Czechoslovakia",
+            "Switzerland",
+            "Italy",
+            "France",
+            "England",
+            "Netherlands",
+            "Belgium",
+            "Denmark",
+            "Norway",
+            "Finland",
+            "Russia"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Disponent",
+                "workplace": "Stockholm",
+                "industry": "Unknown",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Werner & Pfleiderer AB",
+                "industry": "Machinery and installations for bakery, lighting, and chemical industries",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Agenturfma, spec maskiner o anläggn",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": null
+            }
+        ]
+    }
+}

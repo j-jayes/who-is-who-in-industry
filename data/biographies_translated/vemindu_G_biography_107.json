@@ -1,0 +1,145 @@
+{
+    "original": "GRUNDMARK, Karl Gunnar, Järnhandlare, Sölvesborg, f Grums, Vrml, 8/5 88 av hemm.äg J G o h h Lovisa, gm Anna Persson. Hdlssk. Anst Sandells Järnhdl Torsby 06, And. Perssons Järnhdl Torsby 08, Nya Järnboden Sölvesborg 11, deläg dta AB 17. Ag fastgh Solv. Led dräts.kamm, byggn.nmd, familjebidr.nmd. Led Skandbkns dir, styr.-suppl Sölvbgs Varvs- o Red AB, styr.led o kass S Sv Järnhandl.frn. Resor: Tyskl 38. Hobby: Segelsport.",
+    "translated": "GRUNDMARK, Karl Gunnar, Iron merchant, Sölvesborg, b. Grums, Värmland, May 8, 1888, to home owners J.G. and Lovisa, married to Anna Persson. Commercial school graduate. Employed at Sandell's Iron Trade in Torsby in 1906, And. Persson's Iron Trade in Torsby in 1908, New Iron Store Sölvesborg in 1911, and became co-owner of a limited company in 1917. Member of the Sölvesborg City Council, Building Committee, Family Allowance Committee. Board member of Skåne Bank, board alternate of Sölvesborg Shipyard and Shipping Co. Ltd., board member and treasurer of the South Swedish Iron Merchants. Traveled to Germany in 1938. Hobby: Sailing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Karl Gunnar Grundmark",
+        "birthDate": "1888-05-08",
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Grums, Värmland, Sweden"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Sölvesborg"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Anna Persson"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Commercial school graduate"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Sandell's Iron Trade",
+                "startDate": "1906",
+                "endDate": "1908",
+                "isCurrent": false
+            },
+            {
+                "@type": "Organization",
+                "name": "And. Persson's Iron Trade",
+                "startDate": "1908",
+                "endDate": "1911",
+                "isCurrent": false
+            },
+            {
+                "@type": "Organization",
+                "name": "New Iron Store Sölvesborg",
+                "startDate": "1911",
+                "isCurrent": false
+            },
+            {
+                "@type": "Organization",
+                "name": "Co-owner of a limited company",
+                "startDate": "1917",
+                "isCurrent": true
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Sölvesborg City Council",
+                "memberOf": [
+                    {
+                        "@type": "GovernmentOrganization",
+                        "name": "Building Committee"
+                    },
+                    {
+                        "@type": "GovernmentOrganization",
+                        "name": "Family Allowance Committee"
+                    }
+                ]
+            },
+            {
+                "@type": "Organization",
+                "name": "Skåne Bank",
+                "memberOf": [
+                    {
+                        "@type": "GovernmentOrganization",
+                        "name": "Board member"
+                    }
+                ]
+            },
+            {
+                "@type": "Organization",
+                "name": "Sölvesborg Shipyard and Shipping Co. Ltd.",
+                "memberOf": [
+                    {
+                        "@type": "GovernmentOrganization",
+                        "name": "Board alternate"
+                    }
+                ]
+            },
+            {
+                "@type": "Organization",
+                "name": "South Swedish Iron Merchants",
+                "memberOf": [
+                    {
+                        "@type": "GovernmentOrganization",
+                        "name": "Board member"
+                    },
+                    {
+                        "@type": "GovernmentOrganization",
+                        "name": "Treasurer"
+                    }
+                ]
+            }
+        ],
+        "additionalProperty": [
+            {
+                "@type": "PropertyValue",
+                "name": "Traveled to",
+                "value": "Germany",
+                "startDate": "1938"
+            },
+            {
+                "@type": "PropertyValue",
+                "name": "Hobby",
+                "value": "Sailing"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Iron merchant",
+                "workplace": "Sandell's Iron Trade",
+                "industry": "Iron trade",
+                "start_date": "1906"
+            },
+            {
+                "occupational_title": "Iron merchant",
+                "workplace": "And. Persson's Iron Trade",
+                "industry": "Iron trade",
+                "start_date": "1908"
+            },
+            {
+                "occupational_title": "Iron merchant",
+                "workplace": "New Iron Store Sölvesborg",
+                "industry": "Iron trade",
+                "start_date": "1911"
+            },
+            {
+                "occupational_title": "Co-owner",
+                "workplace": "Limited company",
+                "industry": "Iron trade",
+                "start_date": "1917"
+            }
+        ]
+    }
+}

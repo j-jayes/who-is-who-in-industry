@@ -1,16 +1,13 @@
 {
     "original": "FALL, Carl Gösta, Disponent, Eskilstuna, f Etuna 29/10 95, gm Anna Maria Persson. Stud v Eskilstuna tekn sk 15 o i Tyskl 21. Verkmäst v AB C I Fall i Eskilstuna 16—37 0 disp där sed. 37.",
-    "translated": "FALL, Carl Gösta, Manager, Eskilstuna, born in Etuna on 29/10 1895, married to Anna Maria Persson. Studied at Eskilstuna Technical School until the age of 15, and in Germany in 1921. Worked as a foreman at AB C I Fall in Eskilstuna from 1916 to 1937, and has been the manager there since 1937.",
+    "translated": "FALL, Carl Gösta, Manager, Eskilstuna, b. Etuna 29/10 1895, m. Anna Maria Persson. Studied at Eskilstuna Technical School until 1915 and in Germany until 1921. Foreman at AB C I Fall in Eskilstuna from 1916 to 1937, then became manager there.",
     "structured": {
         "@context": "https://schema.org",
         "@type": "Person",
         "name": "Carl Gösta Fall",
         "jobTitle": "Manager",
-        "address": {
-            "@type": "PostalAddress",
-            "addressLocality": "Eskilstuna"
-        },
         "birthDate": "1895-10-29",
+        "birthPlace": "Eskilstuna",
         "spouse": {
             "@type": "Person",
             "name": "Anna Maria Persson"
@@ -18,49 +15,30 @@
         "education": [
             {
                 "@type": "EducationalOrganization",
-                "name": "Eskilstuna Technical School"
-            },
-            {
-                "@type": "EducationalOrganization",
-                "name": "Technical School in Germany"
+                "name": "Eskilstuna Technical School",
+                "startDate": "1915",
+                "endDate": "1921"
             }
         ],
-        "work": [
-            {
-                "@type": "Organization",
-                "name": "AB C I Fall",
-                "address": {
-                    "@type": "PostalAddress",
-                    "addressLocality": "Eskilstuna"
-                },
-                "startDate": "1916",
-                "endDate": "1937",
-                "workTitle": "Foreman"
-            },
-            {
-                "@type": "Organization",
-                "name": "AB C I Fall",
-                "address": {
-                    "@type": "PostalAddress",
-                    "addressLocality": "Eskilstuna"
-                },
-                "startDate": "1937",
-                "workTitle": "Manager"
-            }
-        ]
+        "worksFor": {
+            "@type": "Organization",
+            "name": "AB C I Fall",
+            "startDate": "1916",
+            "endDate": "1937"
+        }
     },
     "occupations": {
         "career": [
             {
                 "occupational_title": "Foreman",
                 "workplace": "AB C I Fall",
-                "industry": "Unknown",
+                "industry": "Eskilstuna",
                 "start_date": "1916"
             },
             {
                 "occupational_title": "Manager",
                 "workplace": "AB C I Fall",
-                "industry": "Unknown",
+                "industry": "Eskilstuna",
                 "start_date": "1937"
             }
         ]

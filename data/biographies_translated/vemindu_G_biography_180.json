@@ -1,0 +1,133 @@
+{
+    "original": "GYULENHOFF, Carl Axel Henrik, Diplom-ingenjör, Lidingö, f Gunnarsnäs, Älvsb l, 28/8 00 av öv.ljt A G o Helena Halling, gm Anna-Hanna Brandorf. Studex Halmstad 20, diploming Techn Hochsch Darmstadt (pappers- o cellul.tekn) 24. Prakt öl sv pappers-o cellul.fabr 15—24, konstr AB Karlstads Mek Verkst 25—27, ing AB Delthirna o Leje &amp; Thurne AB 28—42, uppbyggt o org samt förest sistn fmas tekn avd 32—42, byråchef i Statens Bränslekommission 43 (byrån f ersättningsbränslen). Löjtn Sjövärnskåren. Äger villa -fastigh Lidingö. Resor: Prakt tag hela Europa 28—42 flera gånger årl (därav 7 långres i bil). Sthlms Friv Motorb.flott ftjts ef t 10 års akt delt i friv försv.arb, skyttemg. Hobbies: All sport, företrädesvis motorbåts- o bil-, konstintresse.",
+    "translated": "GYULENHOFF, Carl Axel Henrik, Diplom Engineer, Lidingö, born in Gunnarsnäs, Älvsborgs län, on August 28, 1900, son of Lieutenant Colonel A. G. and Helena Halling. Married to Anna-Hanna Brandorf. Completed secondary education in Halmstad in 1920, received diploma from Technische Hochschule Darmstadt (paper and cellulose technology) in 1924. Worked as a trainee in Swedish paper and cellulose factories from 1915-1924, served as a construction engineer at AB Karlstads Mekaniska Verkstad from 1925-1927, engineer at AB Delthirna and Leje & Thurne AB from 1928-1942, responsible for building and organizing the technical department from 1932-1942. Bureau chief at the State Fuel Commission from 1943 (responsible for alternative fuels). Lieutenant in the naval reserves. Owns a residential property in Lidingö. Traveled extensively throughout Europe from 1928-1942, making several annual trips (including 7 long-distance trips by car). Active member of the Stockholm Volunteer Motorboat Fleet for 10 years, participated in voluntary defense work and shooting exercises. Hobbies: All kinds of sports, particularly motorboating and cars, interest in art.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Axel Henrik Gyulenhoff",
+        "givenName": "Carl",
+        "additionalName": "Axel Henrik",
+        "familyName": "Gyulenhoff",
+        "description": "Diplom Engineer",
+        "birthPlace": "Gunnarsnäs, Älvsborgs län, Sweden",
+        "birthDate": "1900-08-28",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "A. G. Gyulenhoff",
+                "jobTitle": "Lieutenant Colonel"
+            },
+            {
+                "@type": "Person",
+                "name": "Helena Halling"
+            }
+        ],
+        "spouse": "Anna-Hanna Brandorf",
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "secondaryEducation",
+                "educationalLevel": "Studex",
+                "educationalInstitution": "Halmstad",
+                "startDate": "1920"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "diploma",
+                "educationalDegree": "Diploma",
+                "educationalInstitution": "Technische Hochschule Darmstadt",
+                "educationalSpecialization": "paper and cellulose technology",
+                "startDate": "1924"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "AB Karlstads Mekaniska Verkstad",
+                "jobTitle": "Construction Engineer",
+                "startDate": "1925",
+                "endDate": "1927"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Delthirna"
+            },
+            {
+                "@type": "Organization",
+                "name": "Leje & Thurne AB"
+            },
+            {
+                "@type": "Organization",
+                "name": "State Fuel Commission",
+                "jobTitle": "Bureau Chief",
+                "startDate": "1943"
+            }
+        ],
+        "owns": {
+            "@type": "OwnershipInfo",
+            "ownedFrom": "Lidingö"
+        },
+        "travels": [
+            {
+                "@type": "TravelAction",
+                "fromLocation": "Sweden",
+                "toLocation": "Europe",
+                "startDate": "1928",
+                "endDate": "1942"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Sjövärnskåren",
+                "jobTitle": "Lieutenant"
+            },
+            {
+                "@type": "Organization",
+                "name": "Stockholm Volunteer Motorboat Fleet",
+                "jobTitle": "Active Member",
+                "startDate": "1928"
+            }
+        ],
+        "hobbies": [
+            "All sports",
+            "Motorboating",
+            "Cars",
+            "Art"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Trainee",
+                "workplace": "Swedish paper and cellulose factories",
+                "industry": "Paper and cellulose",
+                "start_date": "1915"
+            },
+            {
+                "occupational_title": "Construction Engineer",
+                "workplace": "AB Karlstads Mekaniska Verkstad",
+                "industry": "Mechanical engineering",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "AB Delthirna and Leje & Thurne AB",
+                "industry": "Engineering",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Responsible for Building and Organizing the Technical Department",
+                "workplace": "AB Delthirna and Leje & Thurne AB",
+                "industry": "Engineering",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Bureau Chief",
+                "workplace": "State Fuel Commission",
+                "industry": "Fuel and energy",
+                "start_date": "1943"
+            }
+        ]
+    }
+}

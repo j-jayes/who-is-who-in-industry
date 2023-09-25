@@ -1,0 +1,139 @@
+{
+    "original": "GRÖNBLAD, Leonard Harry, Direktör, Gävle, f Vasa Finl 26/3 95 av pastor A G o Anna Andersson, gm Karin Hagberg. Karol lärov öbr, Gefle Hdlssk. Anst Skpsmäkl.fma österman &amp; Co Gävle 12, försäljn.ch AB Lars O. Walldin, Gävle (gr 07) 12—39, vkst dir Nya AB Lars O. Walldin sed. 39. Deläg Byggn.frn Vibro, Gävle. Styr.led Wester-grenska fonden, Gävle. Odd Fellow.",
+    "translated": "GRÖNBLAD, Leonard Harry, Director, Gävle, born in Vasa, Finland on 26th March 1895, to Pastor A G and Anna Andersson, married to Karin Hagberg. Educated at Karolinska High School and Gävle Commercial School. Employed as a Shipping Broker at Österman & Co in Gävle from 1912 to 1939. Sales Manager at AB Lars O. Walldin, Gävle (branch manager from 1907) from 1912 to 1939, then promoted to Vice President at Nya AB Lars O. Walldin. Partial owner of Vibro Building Firm, Gävle. Board member of Wester-gren's Fund, Gävle. Member of Odd Fellows.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Leonard Harry Grönblad",
+        "jobTitle": "Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Gävle"
+        },
+        "birthDate": "1895-03-26",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Vasa, Finland"
+            }
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "A G Andersson",
+                "jobTitle": "Pastor"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Andersson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Karin Hagberg"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Karolinska High School"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Gävle Commercial School"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Wester-gren's Fund",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Gävle"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Odd Fellows"
+            }
+        ],
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "Österman & Co",
+                "jobTitle": "Shipping Broker",
+                "startDate": "1912",
+                "endDate": "1939",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Gävle"
+                    }
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Lars O. Walldin",
+                "jobTitle": "Sales Manager",
+                "startDate": "1912",
+                "endDate": "1939",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Gävle"
+                    }
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Nya AB Lars O. Walldin",
+                "jobTitle": "Vice President",
+                "startDate": "1939",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Gävle"
+                    }
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Vibro Building Firm",
+                "jobTitle": "Partial Owner",
+                "startDate": "1939",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Gävle"
+                    }
+                }
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Shipping Broker",
+                "workplace": "Österman & Co",
+                "industry": "Shipping",
+                "start_date": "1912"
+            },
+            {
+                "occupational_title": "Sales Manager",
+                "workplace": "AB Lars O. Walldin",
+                "industry": "Retail",
+                "start_date": "1912"
+            },
+            {
+                "occupational_title": "Vice President",
+                "workplace": "Nya AB Lars O. Walldin",
+                "industry": "Retail",
+                "start_date": "1939"
+            }
+        ]
+    }
+}

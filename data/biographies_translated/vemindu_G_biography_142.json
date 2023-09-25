@@ -1,0 +1,144 @@
+{
+    "original": "GUSTAFSON, Carl Oskar, Urmakare, Karlstad, f Kansas City, USA, 20/3 90 av hemm,-äg O G o Maria Jakobson, gm Agnes Johnson. Optikerkurs i Rathenau o Munchen, optikerex. Anst Karl Olsson Krist, A E Mollstedt Krist o A Johnson Arvika. Eg fma, Carl Gustafsonur- o optik aff, Krst, sed. 16. Ag fastigh Järnvägsg 5 o Drottningg 27 Krist. R. T. Esaias Tegnér.",
+    "translated": "GUSTAFSON, Carl Oskar, Watchmaker, Karlstad, born in Kansas City, USA, on 20th March 1890, to parents Olaf Gustafson and Maria Jakobson, married to Agnes Johnson. Completed optometry courses in Rathenau and Munich, optometry degree obtained. Employed by Karl Olsson in Kriststad, A E Mollstedt in Kriststad, and A Johnson in Arvika. Established own business as a clockmaker and optometrist in Kriststad, since 1916. Owns properties at Järnvägsgatan 5 and Drottninggatan 27 in Kriststad. Member of Esaias Tegnér Royal Temperance Society.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Oskar Gustafson",
+        "birthDate": "1890-03-20",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Kansas City",
+                "addressCountry": "USA"
+            }
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Olaf Gustafson"
+            },
+            {
+                "@type": "Person",
+                "name": "Maria Jakobson"
+            }
+        ],
+        "occupation": "Watchmaker",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Karlstad"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Agnes Johnson"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "optometry degree",
+            "educationalLevel": "Optometry",
+            "educationalCredentialAwarded": "Optometry degree",
+            "awardDate": "unknown",
+            "recognizedBy": [
+                {
+                    "@type": "Organization",
+                    "name": "Rathenau"
+                },
+                {
+                    "@type": "Organization",
+                    "name": "Munich"
+                }
+            ]
+        },
+        "employment": [
+            {
+                "@type": "Organization",
+                "name": "Karl Olsson",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Kriststad"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "A E Mollstedt",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Kriststad"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "A Johnson",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Arvika"
+                }
+            }
+        ],
+        "owns": [
+            {
+                "@type": "OwnershipInfo",
+                "typeOfGood": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "streetAddress": "Järnvägsgatan 5",
+                        "addressLocality": "Kriststad"
+                    }
+                }
+            },
+            {
+                "@type": "OwnershipInfo",
+                "typeOfGood": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "streetAddress": "Drottninggatan 27",
+                        "addressLocality": "Kriststad"
+                    }
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Esaias Tegnér Royal Temperance Society"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Watchmaker",
+                "workplace": "Karlstad",
+                "industry": "Horology",
+                "start_date": "Before 1890"
+            },
+            {
+                "occupational_title": "Optometrist",
+                "workplace": "Karl Olsson, Kriststad",
+                "industry": "Optometry",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Optometrist",
+                "workplace": "A E Mollstedt, Kriststad",
+                "industry": "Optometry",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Optometrist",
+                "workplace": "A Johnson, Arvika",
+                "industry": "Optometry",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Clockmaker",
+                "workplace": "Own business, Kriststad",
+                "industry": "Horology",
+                "start_date": "1916"
+            }
+        ]
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "original": "GUDMUNDSON, Sven Erik, Civilingenjör, Traneberg, f Umeå 13/2 15 av seminarielär G G o Maria Eriksson, gm Vera Hedblom. Studex Gbgs h reallärov 33, civingex KTH (ma-skinbyggn o mek tekn) 39. l:e assist i flygtekn v KTH 39—41, avd.ing v Flygtekn För-söksanst sed. 41, uppeh en del av den vak prof i flygtekn v KTH sed. 42.",
+    "translated": "GUDMUNDSON, Sven Erik, Civil Engineer, Traneberg, born in Umeå on February 13, 1915, son of seminar teacher G G and Maria Eriksson, married to Vera Hedblom. Finished secondary school in Gothenburg in 1933, graduated with a Civil Engineering degree from the Royal Institute of Technology (specializing in mechanical and structural engineering) in 1939. First assistant in aeronautical engineering at the Royal Institute of Technology from 1939 to 1941, division engineer at the Aeronautical Research Institute since 1941, and held a temporary professorship in aeronautical engineering at the Royal Institute of Technology from 1942 onwards. Note that \"\\d\\d m. partner's name\" indicates that the person got married in the year 19xx.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Sven Erik Gudmundson",
+        "jobTitle": "Civil Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Traneberg"
+        },
+        "birthDate": "1915-02-13",
+        "birthPlace": "Umeå",
+        "spouse": {
+            "@type": "Person",
+            "name": "Vera Hedblom"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "G G Eriksson"
+            },
+            {
+                "@type": "Person",
+                "name": "Maria Eriksson"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "diploma",
+                "educationalLevel": "secondary school",
+                "educationalCredentialAwarded": "Studex",
+                "educationalInstitution": "Gothenburg secondary school",
+                "endDate": "1933"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "diploma",
+                "educationalLevel": "Civil Engineering",
+                "educationalCredentialAwarded": "Civilingenjör",
+                "educationalInstitution": "Royal Institute of Technology",
+                "specialization": "Mechanical and Structural Engineering",
+                "startDate": "1939",
+                "endDate": "1939"
+            }
+        ],
+        "jobTitleHistory": [
+            {
+                "@type": "JobPosting",
+                "title": "First Assistant",
+                "employer": "Royal Institute of Technology",
+                "startDate": "1939",
+                "endDate": "1941",
+                "description": "Aeronautical Engineering"
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Division Engineer",
+                "employer": "Aeronautical Research Institute",
+                "startDate": "1941"
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Temporary Professor",
+                "employer": "Royal Institute of Technology",
+                "startDate": "1942",
+                "description": "Aeronautical Engineering"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "First assistant in aeronautical engineering",
+                "workplace": "Royal Institute of Technology",
+                "industry": "Education/Research",
+                "start_date": "1939"
+            },
+            {
+                "occupational_title": "Division engineer",
+                "workplace": "Aeronautical Research Institute",
+                "industry": "Education/Research",
+                "start_date": "1941"
+            },
+            {
+                "occupational_title": "Temporary professor of aeronautical engineering",
+                "workplace": "Royal Institute of Technology",
+                "industry": "Education/Research",
+                "start_date": "1942"
+            }
+        ]
+    }
+}

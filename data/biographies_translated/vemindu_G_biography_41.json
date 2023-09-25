@@ -1,0 +1,96 @@
+{
+    "original": "GESTEBY, Carl Erik Martin, Kontorschef, Eskilstuna, f V.ås 10/8 07 av krim.overkonst C E Carlsson o Anna Hellström, gm Margaretha Körberg. Studex V.ås 27, HHS 28—31. Kont.tjm ASEA 27—28, AB Hakon Swenson 32, repr Gävle 37, kont.ch E.tuna sed. 40.",
+    "translated": "GESTEBY, Carl Erik Martin, Office Manager, Eskilstuna, b. V.ås (Västerås) 10/8 1907, son of Detective Chief Inspector C E Carlsson and Anna Hellström, m. (married to) Margaretha Körberg. Studied at V.ås (Västerås) High School 1927, and at HHS (Handelshögskolan) (Stockholm School of Economics) 1928-1931. Office Assistant at ASEA (Allmänna Svenska Elektriska Aktiebolaget) 1927-1928, AB Hakon Swenson 1932, represented in Gävle 1937, Office Manager at E.tuna (Eskilstuna) since 1940.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Erik Martin Gesteby",
+        "birthDate": "1907-08-10",
+        "birthPlace": "Västerås, Sweden",
+        "spouse": {
+            "@type": "Person",
+            "name": "Margaretha Körberg"
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "C E Carlsson",
+                "jobTitle": "Detective Chief Inspector"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Hellström"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Västerås High School",
+                "location": "Västerås, Sweden",
+                "startDate": "1927",
+                "endDate": "1927"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Stockholm School of Economics",
+                "location": "Stockholm, Sweden",
+                "startDate": "1928",
+                "endDate": "1931"
+            }
+        ],
+        "jobTitle": "Office Manager",
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "ASEA (Allmänna Svenska Elektriska Aktiebolaget)",
+                "startDate": "1927",
+                "endDate": "1928"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Hakon Swenson",
+                "startDate": "1932",
+                "endDate": "1932"
+            },
+            {
+                "@type": "Organization",
+                "name": "Gävle",
+                "startDate": "1937",
+                "endDate": "1937"
+            },
+            {
+                "@type": "Organization",
+                "name": "Eskilstuna",
+                "startDate": "1940"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Office Assistant",
+                "workplace": "ASEA (Allmänna Svenska Elektriska Aktiebolaget)",
+                "industry": "Electrical Engineering",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Office Manager",
+                "workplace": "AB Hakon Swenson",
+                "industry": "Unknown",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Representative",
+                "workplace": "Gävle",
+                "industry": "Unknown",
+                "start_date": "1937"
+            },
+            {
+                "occupational_title": "Office Manager",
+                "workplace": "Eskilstuna",
+                "industry": "Unknown",
+                "start_date": "1940"
+            }
+        ]
+    }
+}

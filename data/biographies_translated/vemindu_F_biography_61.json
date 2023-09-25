@@ -1,0 +1,97 @@
+{
+    "original": "FLENSBURG, Mls Mathias, Grosshandlare, Malmö, f Gävle 79 av grhdl F F o h h f Zetterström, gm Astrid Petersen. Studex 97. Anst å köpm.kont å kontin o i Engl 97—08, etabl 08 Fma Nils M Flensburg (imp av oljor o oljefröer, spec rå v f margarin-, såp-, tvål-0 kem.tekn ind; repr eng, amerik o argentinska f mor; AB 20). Medl Sk handelskamm o Malmö Börsfrn. Ag fastigheten Ingelstadsgat 7. Resor: Årl t europ länd. Hobby: Ridning.",
+    "translated": "FLENSBURG, Mls Mathias, Wholesale Merchant, Malmö, born Gävle 1879, son of the Wholesale Merchant F F and his wife Zetterström, married to Astrid Petersen. Graduated in 1897. Employed at commercial offices in continental Europe and England from 1897 to 1908, established Fma Nils M Flensburg in 1908 (importer of oils and oilseeds, specializing in raw materials for margarine, soap, detergent, and chemical-technical industries; representative of British, American, and Argentinean mother companies; AB 1920). Member of the Chamber of Commerce and Malmö Stock Exchange. Owns property at Ingelstadsgat 7. Travels annually to European countries. Hobbies: Horseback riding.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Mls Mathias Flensburg",
+        "birthDate": "1879-01-01",
+        "birthPlace": "Gävle",
+        "description": "Wholesale Merchant",
+        "spouse": {
+            "@type": "Person",
+            "name": "Astrid Petersen"
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "F F Flensburg",
+                "description": "Wholesale Merchant"
+            },
+            {
+                "@type": "Person",
+                "name": "Zetterström"
+            }
+        ],
+        "educationalCredentialAwarded": "Studex 97",
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "Commercial Offices",
+                "startDate": "1897-01-01",
+                "endDate": "1908-01-01",
+                "description": "Continental Europe and England"
+            },
+            {
+                "@type": "Organization",
+                "name": "Fma Nils M Flensburg",
+                "startDate": "1908-01-01",
+                "description": "Importer of oils and oilseeds, specializing in raw materials for margarine, soap, detergent, and chemical-technical industries; representative of British, American, and Argentinean mother companies; AB 1920"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Chamber of Commerce"
+            },
+            {
+                "@type": "Organization",
+                "name": "Malmö Stock Exchange"
+            }
+        ],
+        "owns": {
+            "@type": "Place",
+            "name": "Ingelstadsgat 7"
+        },
+        "additionalProperty": [
+            {
+                "@type": "PropertyValue",
+                "name": "Travels",
+                "value": "Annually to European countries"
+            },
+            {
+                "@type": "PropertyValue",
+                "name": "Hobbies",
+                "value": "Horseback riding"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Wholesale Merchant",
+                "workplace": "Malmö",
+                "industry": "",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Employee at commercial offices",
+                "workplace": "Continental Europe and England",
+                "industry": "",
+                "start_date": "1897"
+            },
+            {
+                "occupational_title": "Founder of Fma Nils M Flensburg",
+                "workplace": "",
+                "industry": "Importer of oils and oilseeds, specializing in raw materials for margarine, soap, detergent, and chemical-technical industries",
+                "start_date": "1908"
+            },
+            {
+                "occupational_title": "Representative of British, American, and Argentinean mother companies",
+                "workplace": "",
+                "industry": "",
+                "start_date": ""
+            }
+        ]
+    }
+}

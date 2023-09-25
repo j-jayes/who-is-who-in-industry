@@ -1,0 +1,126 @@
+{
+    "original": "FLETCHER, Charles Per Gert Ingvar, Direktör, Stockholm, f Gbg 6/6 06 av lärov.adj J G F o Ingegerd Dunér, gm Hildur Hernqvist. Studex 24, Gbgs Hdlsinst 25. Anst v Rederi AB Transatlantic i Gbg 25—34, chef för samma bolags kontor i Sthlm 34—43, Stat Krigs-försäkr.nmd 40, Sjöf.ktén 40—43, Sthlms Rederi AB Svea sed. 44. Resor: Polen o Tyskl. Hobbies: Golf, engelsk litteratur.",
+    "translated": "FLETCHER, Charles Per Gert Ingvar, Director, Stockholm, b. Gbg 6/6 06, son of schoolteacher J G F and Ingegerd Dunér, married to Hildur Hernqvist. Graduated 1924, Gbgs Hdlsinst 1925. Employed at Rederi AB Transatlantic in Gbg 1925-1934, manager of the same company's office in Stockholm 1934-1943, Stat Krigs-försäkr.nmd (National War Insurance Board) 1940, Sjöf.ktén (Maritime Commission) 1940-1943, Stockholm Rederi AB Svea since 1944. Travels: Poland and Germany. Hobbies: Golf, English literature.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Charles Per Gert Ingvar Fletcher",
+        "jobTitle": "Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "birthPlace": "Gbg",
+        "birthDate": "1906-06-06",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "J G F",
+                "jobTitle": "Schoolteacher"
+            },
+            {
+                "@type": "Person",
+                "name": "Ingegerd Dunér"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Hildur Hernqvist"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Secondary",
+                "credentialEarned": "Graduated",
+                "startDate": "1924"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Secondary",
+                "credentialEarned": "Gbgs Hdlsinst",
+                "startDate": "1925"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Rederi AB Transatlantic",
+                "startDate": "1925",
+                "endDate": "1934",
+                "jobTitle": "Employee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Rederi AB Transatlantic",
+                "startDate": "1934",
+                "endDate": "1943",
+                "jobTitle": "Office Manager"
+            },
+            {
+                "@type": "Organization",
+                "name": "Stat Krigs-försäkr.nmd (National War Insurance Board)",
+                "startDate": "1940"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sjöf.ktén (Maritime Commission)",
+                "startDate": "1940",
+                "endDate": "1943"
+            },
+            {
+                "@type": "Organization",
+                "name": "Stockholm Rederi AB Svea",
+                "startDate": "1944",
+                "jobTitle": "Employee"
+            }
+        ],
+        "travels": [
+            "Poland",
+            "Germany"
+        ],
+        "hobbies": [
+            "Golf",
+            "English literature"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Stockholm",
+                "industry": null,
+                "start_date": null
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Rederi AB Transatlantic",
+                "industry": null,
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Office Manager",
+                "workplace": "Rederi AB Transatlantic",
+                "industry": null,
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "National War Insurance Board",
+                "workplace": "Stat Krigs-försäkr.nmd",
+                "industry": null,
+                "start_date": "1940"
+            },
+            {
+                "occupational_title": "Maritime Commission",
+                "workplace": "Sjöf.ktén",
+                "industry": null,
+                "start_date": "1940"
+            },
+            {
+                "occupational_title": null,
+                "workplace": "Stockholm Rederi AB Svea",
+                "industry": null,
+                "start_date": "1944"
+            }
+        ]
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "original": "GUSTAFSON, Claes August, Köpman, Karlstad, f Vinköl, Skarab l, 30/6 78 av hemm.äg G Anderson o Johanna Svenson, gm Olava Persson. Hdlsbiträde i Axvall 96—00, i Skara 00—04, h E Wallerstedt &amp; Co i Karlstad 04— 06, eg speceri-, detalj- o kaffeaffär i Karlstad sed. 07. Styr.led i AB Jordbrukarbkns avd.-kont, i Karlstads Hdlsfrn o dess speceriavd, Wärml-Dals Köpm.frbs SSLF-avd samt sol-stickefonden, led av AB Hakon Swensons förtroenderåd i Karlstad. Köpm.frbs Ht g.",
+    "translated": "GUSTAFSON, Claes August, Merchant, Karlstad, born in Vinköl, Skaraborg county, on June 30, 1878, to home owners G Anderson and Johanna Svenson, married Olava Persson. Sales clerk in Axvall 1896-1900, in Skara 1900-1904, employee at E Wallerstedt & Co in Karlstad 1904-1906, owner of a grocery, retail, and coffee shop in Karlstad since 1907. Board member of the Farmers' Cooperative Association department office, Karlstads Handelsförening, and its grocery department, Wärmland-Dalarna Trade Association's Swedish Wholesale Society's department, as well as the sunflower fund. Member of the board of trustees of Hakon Swenson AB in Karlstad. Merchant's Company Handelsförening marriage year missing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Claes August Gustafson",
+        "jobTitle": "Merchant",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Farmers' Cooperative Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Karlstads Handelsförening"
+            },
+            {
+                "@type": "Organization",
+                "name": "Wärmland-Dalarna Trade Association's Swedish Wholesale Society"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sunflower Fund"
+            },
+            {
+                "@type": "Organization",
+                "name": "Hakon Swenson AB"
+            }
+        ],
+        "birthDate": "1878-06-30",
+        "birthPlace": {
+            "@type": "CivicStructure",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Vinköl",
+                "addressRegion": "Skaraborg",
+                "addressCountry": "Sweden"
+            }
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "G Anderson",
+                "jobTitle": "Home owner"
+            },
+            {
+                "@type": "Person",
+                "name": "Johanna Svenson",
+                "jobTitle": "Home owner"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Olava Persson"
+        },
+        "workExperience": [
+            {
+                "@type": "Organization",
+                "name": "Axvall",
+                "jobTitle": "Sales Clerk",
+                "startDate": "1896",
+                "endDate": "1900"
+            },
+            {
+                "@type": "Organization",
+                "name": "Skara",
+                "jobTitle": "Sales Clerk",
+                "startDate": "1900",
+                "endDate": "1904"
+            },
+            {
+                "@type": "Organization",
+                "name": "E Wallerstedt & Co",
+                "jobTitle": "Employee",
+                "startDate": "1904",
+                "endDate": "1906"
+            },
+            {
+                "@type": "Organization",
+                "name": "Own Business",
+                "jobTitle": "Owner",
+                "startDate": "1907"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Sales Clerk",
+                "workplace": "Axvall",
+                "industry": "Retail",
+                "start_date": "1896"
+            },
+            {
+                "occupational_title": "Sales Clerk",
+                "workplace": "Skara",
+                "industry": "Retail",
+                "start_date": "1900"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "E Wallerstedt & Co",
+                "industry": "Retail",
+                "start_date": "1904"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "Karlstad",
+                "industry": "Grocery, Retail, and Coffee",
+                "start_date": "1907"
+            }
+        ]
+    }
+}

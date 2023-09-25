@@ -1,215 +1,161 @@
 {
     "original": "FANT, Gösta, Ingenjör, Ålsten, f 5/8 84 av stins C G F o Lydia Lénström, gm Vicky Myrberg. Sala allm lärov, ex Tekn sk Sthlm (maskin) 04, stud Tyskl 04—06. Ing Fören El AB Sthlm o Ludvika 06—14, därav fil.ch i Sydam 09—11, ch f Graham Brothers el avd Sthlm 13—34, komm. repres. f Mather Platt Ltd, London, sed. 34, aut sprinkleranläggn. Ag villa i Ålsten. Styr.led AB Kristian Sthlm. Resor: Tyskl 04—06, Frankr, Engl, Sydam 09—11, Danm, Norge, Finl. Av trycket: Div upps i fackpress om radiosänd o centralradio-anläggn, aut eldsläckn m sprinkler, släckn av oljebränd m Mulsifyre-syst. Sv Tekn.frn, Sthlms Sportfiskeklubb. Hobbies: Jakt, fiske, orientering, blomsterodling, litteratur.",
-    "translated": "FANT, Gösta, Engineer, Ålsten, b. 5/8 1884 to station master C G F and Lydia Lénström, m. Vicky Myrberg. Graduated from Sala public school, then Technical School in Stockholm (mechanics) in 1904, studied German 1904-1906. Worked for Electrical Company AB in Stockholm and Ludvika 1906-1914, including studying in southern Germany 1909-1911. Head of the electrical department for Graham Brothers in Stockholm 1913-1934, then appointed representative for Mather Platt Ltd in London, since 1934. Author of publications in specialized press on radio broadcasting and central radio systems, as well as automatic fire extinguishing systems using sprinklers and Mulsifyre technology. Member of the Swedish Technical Association, Stockholm Sports Fishing Club. Travelled to Germany 1904-1906, France, England, southern Germany 1909-1911, Denmark, Norway, Finland. Outside of work, interests include hunting, fishing, orienteering, flower cultivation, and literature.",
+    "translated": "FANT, Gösta, Engineer, Ålsten, b. 5/8 84 to stationmaster C G F and Lydia Lénström, m. Vicky Myrberg. Graduate of Sala General School, Technical School Stockholm (mechanical) 04, studied German 04-06. Engineer at El AB Stockholm and Ludvika 06-14, including a degree in South America 09-11, head of Graham Brothers electrical department Stockholm 13-34, commissioned representative of Mather Platt Ltd, London, since 34, author of sprinkler systems at Ag Villa in Ålsten. Board member of AB Kristian Stockholm. Travels: German 04-06, France, England, South America 09-11, Denmark, Norway, Finland. Publications: Various articles in trade press on radio transmitting and central radio systems, automatic sprinkler fire extinguishing, and extinguishing oil fires with the Mulsifyre system. Member of the Swedish Society of Technology, Stockholm Sports Fishing Club. Hobbies: Hunting, fishing, orienteering, gardening, literature.\n\nNote: The abbreviation '\\d\\d m. partners name' indicates the person got married in the year 19xx.",
     "structured": {
         "@context": "https://schema.org",
         "@type": "Person",
-        "name": "Gösta Fant",
+        "givenName": "Gösta",
+        "familyName": "Fant",
+        "jobTitle": "Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Ålsten"
+        },
         "birthDate": "1884-08-05",
-        "birthPlace": "Ålsten",
         "parents": [
             {
                 "@type": "Person",
-                "name": "C G F",
-                "jobTitle": "Station Master"
+                "givenName": "C G F",
+                "familyName": "Lénström",
+                "jobTitle": "Stationmaster"
             },
             {
                 "@type": "Person",
-                "name": "Lydia Lénström"
+                "givenName": "Lydia",
+                "familyName": "Lénström"
             }
         ],
         "spouse": {
             "@type": "Person",
-            "name": "Vicky Myrberg"
+            "givenName": "Vicky",
+            "familyName": "Myrberg"
         },
         "education": [
             {
-                "@type": "EducationEvent",
-                "institution": {
-                    "@type": "Organization",
-                    "name": "Sala public school"
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Graduate",
+                "alumniOf": {
+                    "@type": "EducationalOrganization",
+                    "name": "Sala General School"
                 }
             },
             {
-                "@type": "EducationEvent",
-                "institution": {
-                    "@type": "Organization",
-                    "name": "Technical School in Stockholm",
-                    "alumniOf": {
-                        "@type": "Organization",
-                        "name": "Sala public school"
-                    }
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Degree",
+                "alumniOf": {
+                    "@type": "EducationalOrganization",
+                    "name": "Technical School Stockholm (mechanical)"
                 },
-                "studyMode": "full-time",
-                "startDate": "1904",
                 "endDate": "1904"
             },
             {
-                "@type": "EducationEvent",
-                "institution": {
-                    "@type": "Organization",
-                    "name": "Technical School in Stockholm",
-                    "alumniOf": {
-                        "@type": "Organization",
-                        "name": "Sala public school"
-                    }
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Course",
+                "alumniOf": {
+                    "@type": "EducationalOrganization",
+                    "name": "German Language Course"
                 },
-                "studyMode": "full-time",
                 "startDate": "1904",
-                "endDate": "1906",
-                "subEvent": {
-                    "@type": "Course",
-                    "name": "German"
-                }
+                "endDate": "1906"
             }
         ],
-        "work": [
-            {
-                "@type": "OrganizationRole",
-                "startDate": "1906",
-                "endDate": "1914",
-                "roleName": "Engineer",
-                "affiliation": {
-                    "@type": "Organization",
-                    "name": "Electrical Company AB",
-                    "location": [
-                        {
-                            "@type": "Place",
-                            "name": "Stockholm"
-                        },
-                        {
-                            "@type": "Place",
-                            "name": "Ludvika"
-                        }
-                    ]
-                }
-            },
-            {
-                "@type": "OrganizationRole",
-                "startDate": "1909",
-                "endDate": "1911",
-                "roleName": "Student",
-                "affiliation": {
-                    "@type": "Organization",
-                    "name": "Southern Germany",
-                    "alumniOf": {
-                        "@type": "Organization",
-                        "name": "Technical School in Stockholm"
-                    }
-                }
-            },
-            {
-                "@type": "OrganizationRole",
-                "startDate": "1913",
-                "endDate": "1934",
-                "roleName": "Head of Electrical Department",
-                "affiliation": {
-                    "@type": "Organization",
-                    "name": "Graham Brothers",
-                    "location": {
-                        "@type": "Place",
-                        "name": "Stockholm"
-                    }
-                }
-            },
-            {
-                "@type": "OrganizationRole",
-                "startDate": "1934",
-                "roleName": "Representative",
-                "affiliation": {
-                    "@type": "Organization",
-                    "name": "Mather Platt Ltd",
-                    "location": {
-                        "@type": "Place",
-                        "name": "London"
-                    }
-                }
-            }
-        ],
-        "publication": [
-            {
-                "@type": "Article",
-                "name": "Div upps i fackpress om radiosänd o centralradio-anläggn"
-            },
-            {
-                "@type": "Article",
-                "name": "aut eldsläckn m sprinkler, släckn av oljebränd m Mulsifyre-syst"
-            }
-        ],
-        "affiliation": [
+        "worksFor": [
             {
                 "@type": "Organization",
-                "name": "Swedish Technical Association"
+                "name": "El AB"
+            },
+            {
+                "@type": "Organization",
+                "name": "Graham Brothers"
+            },
+            {
+                "@type": "Organization",
+                "name": "Mather Platt Ltd"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Kristian Stockholm"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Society of Technology"
             },
             {
                 "@type": "Organization",
                 "name": "Stockholm Sports Fishing Club"
             }
         ],
-        "memberOf": {
-            "@type": "Organization",
-            "name": "AB Kristian Sthlm",
-            "boardMember": true
-        },
-        "travel": [
-            {
-                "@type": "Trip",
-                "name": "Germany",
-                "startDate": "1904",
-                "endDate": "1906"
-            },
-            {
-                "@type": "Trip",
-                "name": "France"
-            },
-            {
-                "@type": "Trip",
-                "name": "England"
-            },
-            {
-                "@type": "Trip",
-                "name": "Southern Germany",
-                "startDate": "1909",
-                "endDate": "1911"
-            },
-            {
-                "@type": "Trip",
-                "name": "Denmark"
-            },
-            {
-                "@type": "Trip",
-                "name": "Norway"
-            },
-            {
-                "@type": "Trip",
-                "name": "Finland"
-            }
+        "additionalName": [
+            "Ingenjör"
         ],
+        "description": "Author, Engineer, Sprinkler Systems Specialist",
+        "deathDate": "unknown",
+        "marriedTo": {
+            "@type": "Event",
+            "startDate": "19xx"
+        },
         "hobbies": [
             "Hunting",
             "Fishing",
             "Orienteering",
-            "Flower cultivation",
+            "Gardening",
             "Literature"
+        ],
+        "travels": [
+            {
+                "@type": "Place",
+                "name": "Germany"
+            },
+            {
+                "@type": "Place",
+                "name": "France"
+            },
+            {
+                "@type": "Place",
+                "name": "England"
+            },
+            {
+                "@type": "Place",
+                "name": "South America"
+            },
+            {
+                "@type": "Place",
+                "name": "Denmark"
+            },
+            {
+                "@type": "Place",
+                "name": "Norway"
+            },
+            {
+                "@type": "Place",
+                "name": "Finland"
+            }
+        ],
+        "publications": [
+            "Various articles in trade press on radio transmitting and central radio systems",
+            "Automatic sprinkler fire extinguishing",
+            "Extinguishing oil fires with the Mulsifyre system"
         ]
     },
     "occupations": {
         "career": [
             {
                 "occupational_title": "Engineer",
-                "workplace": "Electrical Company AB in Stockholm and Ludvika",
-                "industry": "Electrical Engineering",
+                "workplace": "El AB Sthlm o Ludvika",
+                "industry": "Electrical",
                 "start_date": "1906"
             },
             {
-                "occupational_title": "Head of Electrical Department",
-                "workplace": "Graham Brothers in Stockholm",
-                "industry": "Electrical Engineering",
+                "occupational_title": "Chief of Graham Brothers electrical department",
+                "workplace": "Sthlm",
+                "industry": "Electrical",
                 "start_date": "1913"
             },
             {
-                "occupational_title": "Representative",
-                "workplace": "Mather Platt Ltd in London",
+                "occupational_title": "Commissioned representative",
+                "workplace": "Mather Platt Ltd, London",
                 "industry": "Engineering",
                 "start_date": "1934"
             }

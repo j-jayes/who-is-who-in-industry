@@ -1,0 +1,124 @@
+{
+    "original": "GÖKANSSON, Karl Eric, Intendent Arboga, f Arb 22/12 00 av handl Göran Andersson o h h Emma, gm Karin Settergren. Hal Västerås o Ensk Gymn i Sthlm, Bröderna Påhl-mans Hdlsinst. Anst i faderns fma Göran Anderssons Bosättn.aff 24—27, ensam inneh av denna und namn Göran Anderssons Eftr 27— 43, intend v AB Arboga Margarinfabr sed. 44. Led av centralstyr f Glas- o Porslinshandl.frb o av styr f Arbogaortens Köpm.frn, sekr i Arboga Hdlsfrn. Led av krist.nmdn, stadsrev, rev i AB Arboga Margarinfabr. ÖM i Odd Fellowlogen 71 S:t Olof 39—42, v. ordf i Arboga Flygklubb. Hobbies: Filateli, modellbyggnad.",
+    "translated": "GÖKANSSON, Karl Eric, Superintendent Arboga, b. Arb 22/12 00 to merchant Göran Andersson and his wife Emma, m. Karin Settergren. Educated at Hal Västerås and Ensk Gymnasium in Stockholm. Employed at his father's company, Göran Anderssons Bosättningsaffär, from 24-27, sole owner of this under the name Göran Anderssons Eftr from 27-43, superintendent at AB Arboga Margarine Factory since 44. Member of the central board of the Glass and Porcelain Trade Association and the board of Arbogaortens Köpmannaförening (Arboga Merchant Association), secretary of Arboga Handelsförening (Arboga Trade Association). Member of the Christian council, city auditor, auditor at AB Arboga Margarine Factory. Member of the Odd Fellow Lodge, S:t Olof 71, from 39-42, vice chairman of Arboga Flying Club. Hobbies: Philately, model building.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Karl Eric Gökansson",
+        "birthDate": "1900-12-22",
+        "birthPlace": "Arb",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Göran Andersson",
+                "occupation": "merchant"
+            },
+            {
+                "@type": "Person",
+                "name": "Emma"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Karin Settergren"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Hal Västerås"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Ensk Gymnasium"
+            }
+        ],
+        "employment": [
+            {
+                "@type": "Organization",
+                "name": "Göran Anderssons Bosättningsaffär",
+                "startDate": "1924",
+                "endDate": "1927"
+            },
+            {
+                "@type": "Organization",
+                "name": "Göran Anderssons Eftr",
+                "startDate": "1927",
+                "endDate": "1943",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "AB Arboga Margarine Factory",
+                    "startDate": "1944"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Glass and Porcelain Trade Association",
+                "roleName": "central board member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Arbogaortens Köpmannaförening",
+                "roleName": "board member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Arboga Handelsförening",
+                "roleName": "secretary"
+            }
+        ],
+        "occupations": [
+            {
+                "@type": "Role",
+                "name": "Superintendent",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "AB Arboga Margarine Factory"
+                }
+            }
+        ],
+        "auditor": [
+            {
+                "@type": "Organization",
+                "name": "AB Arboga Margarine Factory"
+            }
+        ],
+        "memberOfLodge": [
+            {
+                "@type": "Organization",
+                "name": "Odd Fellow Lodge (S:t Olof 71)"
+            }
+        ],
+        "hobbies": [
+            "Philately",
+            "Model building"
+        ],
+        "viceChairmanOf": {
+            "@type": "Organization",
+            "name": "Arboga Flying Club"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Employee at father's company",
+                "workplace": "Göran Anderssons Bosättningsaffär",
+                "industry": "Unknown",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Sole owner",
+                "workplace": "Göran Anderssons Eftr",
+                "industry": "Unknown",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Superintendent",
+                "workplace": "AB Arboga Margarine Factory",
+                "industry": "Food manufacturing",
+                "start_date": "1944"
+            }
+        ]
+    }
+}

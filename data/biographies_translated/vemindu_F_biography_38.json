@@ -1,0 +1,121 @@
+{
+    "original": "FEMÄNDER, Svante Emil, Direktör, Sundsvall, f Svl 27/7 07 av grhdl M F o Esther Bresky, gm Gunborg Uhr. Studex Svl 26, ekon ex HHS 29. Anst sed. 29 i M Felländer AB (etabl 88), vkst dir där o i Syfabr Ekonomi AB sed. 41. Styr.led i dessa AB, AB Värml trikåfabr o AB Tidafors ind. Resor: Engl 31. Odd Fellow, W 6.",
+    "translated": "FEMÄNDER, Svante Emil, Director, Sundsvall, b. Svl 27/7 07 to father grhdl M F and mother Esther Bresky, m. Gunborg Uhr. Graduated from Svl 26, economic studies from HHS 29. Employed since 29 in M Felländer AB (established in 88), worked as the managing director there and in Syfabr Ekonomi AB since 41. Board member in these companies, AB Värml trikåfabr and AB Tidafors ind. Traveled to England in 31. Member of Odd Fellow, Group W 6.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Svante Emil Femänder",
+        "birthDate": "1907-07-27",
+        "birthPlace": "Sundsvall",
+        "father": {
+            "@type": "Person",
+            "name": "M F Femänder"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Esther Bresky"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Gunborg Uhr"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "Studex Svl",
+                "startDate": "1926"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "Ekon ex HHS",
+                "startDate": "1929"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1929",
+                "endDate": "1941",
+                "roleName": "Managing Director",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "M Felländer AB",
+                    "foundingDate": "1888"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1941",
+                "roleName": "Managing Director",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Syfabr Ekonomi AB"
+                }
+            }
+        ],
+        "boardMember": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Board Member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "M Felländer AB"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Board Member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Värml trikåfabr"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Board Member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Tidafors ind"
+                }
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "Trip",
+                "name": "England 31"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Odd Fellow"
+            },
+            {
+                "@type": "Organization",
+                "name": "W 6"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "M Felländer AB",
+                "industry": "Unknown",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "M Felländer AB",
+                "industry": "Unknown",
+                "start_date": "1941"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "Syfabr Ekonomi AB",
+                "industry": "Unknown",
+                "start_date": "1941"
+            }
+        ]
+    }
+}

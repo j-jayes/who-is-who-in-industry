@@ -1,0 +1,146 @@
+{
+    "original": "GÖKANSSON, Ernst Gerhard, Disponent, Eslöv, f Lund 21/4 88 av N Göransson o Helena Palm, gm Olga Ellborg. Bröd Bendtz hdlsinst Malmö. Aff.anst Lund 05—07, Löddekö-pinge 08—10, kass AB A Paulssons Maskin-aff Eslöv 11—18, disp där 18—32, disp o deläg AB Melichar-Maskiner Eslöv 32, ens inneh sed. 40. Ag fastigh Eslöv o St Mörshögs Gård Bjuv. Resor: Engl 33, Tyskl, Tjeckoslov, Österr, Ung 36, 38. Frimurare, Odd Fellow, Rotary, 88 års män. Hobbies: Arbetet, lantbruk.",
+    "translated": "GÖKANSSON, Ernst Gerhard, Managing Director, Eslöv, born in Lund on April 21, 1888, to N Göransson and Helena Palm, married to Olga Ellborg. Brother Bendtz, a merchant in Malmö. Business employee in Lund from 1905 to 1907, in Löddeköpinge from 1908 to 1910. Cashier at AB A Paulssons Machine Store in Eslöv from 1911 to 1918, where he later became the managing director from 1918 to 1932. He was also a managing director and co-owner of AB Melichar-Machines in Eslöv from 1932 and became the sole owner in 1940. Engaged in real estate in Eslöv and St Mörshög Farm in Bjuv. Travelled to England in 1933, Germany, Czechoslovakia, Austria, Hungary in 1936 and 1938. Member of Freemasons, Odd Fellows, Rotary, and the 88-year-olds association. Hobbies: Work, agriculture.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Ernst Gerhard Gökansson",
+        "givenName": "Ernst Gerhard",
+        "familyName": "Gökansson",
+        "jobTitle": "Managing Director",
+        "birthPlace": "Lund",
+        "birthDate": "1888-04-21",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "N Göransson"
+            },
+            {
+                "@type": "Person",
+                "name": "Helena Palm"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Olga Ellborg"
+        },
+        "siblings": [
+            {
+                "@type": "Person",
+                "name": "Bendtz"
+            }
+        ],
+        "workHistory": [
+            {
+                "@type": "Organization",
+                "name": "AB A Paulssons Machine Store",
+                "jobTitle": "Cashier",
+                "startDate": "1911",
+                "endDate": "1918"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Melichar-Machines",
+                "jobTitle": "Managing Director",
+                "startDate": "1932"
+            }
+        ],
+        "businessInterests": [
+            {
+                "@type": "Place",
+                "name": "Eslöv"
+            },
+            {
+                "@type": "Place",
+                "name": "St Mörshög Farm",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Bjuv"
+                }
+            }
+        ],
+        "travels": [
+            {
+                "@type": "Place",
+                "name": "England",
+                "startDate": "1933"
+            },
+            {
+                "@type": "Place",
+                "name": "Germany",
+                "startDate": "1936"
+            },
+            {
+                "@type": "Place",
+                "name": "Czechoslovakia",
+                "startDate": "1936"
+            },
+            {
+                "@type": "Place",
+                "name": "Austria",
+                "startDate": "1936"
+            },
+            {
+                "@type": "Place",
+                "name": "Hungary",
+                "startDate": "1938"
+            }
+        ],
+        "memberships": [
+            {
+                "@type": "Organization",
+                "name": "Freemasons"
+            },
+            {
+                "@type": "Organization",
+                "name": "Odd Fellows"
+            },
+            {
+                "@type": "Organization",
+                "name": "Rotary"
+            },
+            {
+                "@type": "Organization",
+                "name": "88-year-olds association"
+            }
+        ],
+        "hobbies": [
+            "Work",
+            "Agriculture"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Business Employee",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "1905"
+            },
+            {
+                "occupational_title": "Business Employee",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "1908"
+            },
+            {
+                "occupational_title": "Cashier",
+                "workplace": "AB A Paulssons Maskin-aff",
+                "industry": "Machine Store",
+                "start_date": "1911"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "AB A Paulssons Maskin-aff",
+                "industry": "Machine Store",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "AB Melichar-Maskiner",
+                "industry": "Unknown",
+                "start_date": "1932"
+            }
+        ]
+    }
+}

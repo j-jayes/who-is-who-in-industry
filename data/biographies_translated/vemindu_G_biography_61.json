@@ -1,0 +1,117 @@
+{
+    "original": "GOLDKUHL, Gustaf, Hektor, Stockholm, f Bolstad, Älvsbgs l, 26/3 90 av handl W E G o Anne Janson, gm Carola Trotzig. CTL 09 —13, avg.ex (V) där sistn år. Bitr ing Gbgs stds byggn.kontor 13—16 o vid Sthlms stds byggn.kontor 17, lär Tekn skolan i Katrineholm 16—21, vkst dir AB Teknikum (rekt Tekn Inst), Sthlm, sed. 21. Utf avloppsförsl t Vingåkers municip.samh 21. Av trycket: Räknestickans använd (9:e uppl 43), Arbetsmaskiner 0 arbetsmetoder f väg- o vattenbyggn, grund-läggn.arbeten mm (25). Led Sv Tekn.frn.",
+    "translated": "GOLDKUHL, Gustaf, Hektor, Stockholm, born in Bolstad, Älvsborg County, on March 26, 1890, son of merchant W. E. G. and Anne Janson, married Carola Trotzig. Attended CTL (Undetermined School) from 1909 to 1913, graduated (V) last year. Assistant at Gothenburg City Building Office from 1913 to 1916, and at Stockholm City Building Office in 1917. Teacher at Technical School in Katrineholm from 1916 to 1921. Vice Director of AB Teknikum (Technical Institute), Stockholm, since 1921. Carried out sewage proposals for Vingåker Municipality in 1921. Published works include: \"The Use of Slide Rulers\" (9th edition in 1943), \"Construction Machinery and Methods for Road and Water Building, Foundation Works, etc.\" (25th edition). Member of the Swedish Technical Association.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Gustaf Goldkuhl",
+        "givenName": "Gustaf",
+        "familyName": "Goldkuhl",
+        "birthDate": "1890-03-26",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Bolstad",
+                "addressRegion": "Älvsborg County",
+                "addressCountry": "Sweden"
+            }
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "W. E. Goldkuhl",
+                "givenName": "W. E.",
+                "familyName": "Goldkuhl",
+                "jobTitle": "Merchant"
+            },
+            {
+                "@type": "Person",
+                "name": "Anne Janson",
+                "givenName": "Anne",
+                "familyName": "Janson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Carola Trotzig",
+            "givenName": "Carola",
+            "familyName": "Trotzig"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Technical School, Katrineholm",
+            "startDate": "1916",
+            "endDate": "1921"
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "AB Teknikum",
+            "alternateName": "Technical Institute",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Stockholm",
+                "addressCountry": "Sweden"
+            }
+        },
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "Gothenburg City Building Office",
+                "startDate": "1913",
+                "endDate": "1916"
+            },
+            {
+                "@type": "Organization",
+                "name": "Stockholm City Building Office",
+                "startDate": "1917"
+            }
+        ],
+        "publishedWorks": [
+            {
+                "@type": "Book",
+                "name": "The Use of Slide Rulers",
+                "edition": "9th edition",
+                "datePublished": "1943"
+            },
+            {
+                "@type": "Book",
+                "name": "Construction Machinery and Methods for Road and Water Building, Foundation Works, etc.",
+                "edition": "25th edition"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Swedish Technical Association",
+            "alternateName": "Sv Tekn.frn"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Assistant",
+                "workplace": "Gothenburg City Building Office",
+                "industry": "Government",
+                "start_date": "1913"
+            },
+            {
+                "occupational_title": "Assistant",
+                "workplace": "Stockholm City Building Office",
+                "industry": "Government",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Teacher",
+                "workplace": "Technical School in Katrineholm",
+                "industry": "Education",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Vice Director",
+                "workplace": "AB Teknikum (Technical Institute), Stockholm",
+                "industry": "Education",
+                "start_date": "1921"
+            }
+        ]
+    }
+}

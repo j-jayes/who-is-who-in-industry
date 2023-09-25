@@ -1,0 +1,108 @@
+{
+    "original": "FOOGDE, Knut Thorsten, Bankkamrer, Katrineholm, f Nyed, Värml län, 12/12 97 av framl järnhandl C J F o Lovisa Eriksson, gm Eva Johansson. Studex. Anst Sydsv kreditAB 18, kont.förest Liatorp 22, kass Katrineh 23, AB Sv hdlsbkn 26, kass Nyköp 31, kont.förest Katrineh 38.",
+    "translated": "FOOGDE, Knut Thorsten, Bank Clerk, Katrineholm, born in Nyed, Värmland County, 12th December 1897, son of the merchant C.J.F and Lovisa Eriksson, married to Eva Johansson. High school graduate. Employed at South Swedish Credit AB from 1918, assistant manager in Liatorp from 1922, cashier in Katrineholm from 1923, AB Swedish Trade Bank from 1926, cashier in Nyköping from 1931, assistant manager in Katrineholm from 1938.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Knut Thorsten Foogde",
+        "givenName": "Knut Thorsten",
+        "familyName": "Foogde",
+        "jobTitle": "Bank Clerk",
+        "birthDate": "1897-12-12",
+        "birthPlace": "Nyed, Värmland County",
+        "father": {
+            "@type": "Person",
+            "name": "C.J.F"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Lovisa Eriksson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Eva Johansson"
+        },
+        "education": "High school graduate",
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "South Swedish Credit AB",
+                "startDate": "1918"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Swedish Trade Bank",
+                "startDate": "1926"
+            }
+        ],
+        "jobTitleHistory": [
+            {
+                "@type": "JobPosting",
+                "title": "Assistant Manager",
+                "startDate": "1922",
+                "endDate": "1923",
+                "location": "Liatorp"
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Cashier",
+                "startDate": "1923",
+                "endDate": "1931",
+                "location": "Katrineholm"
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Cashier",
+                "startDate": "1931",
+                "endDate": "present",
+                "location": "Nyköping"
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Assistant Manager",
+                "startDate": "1938",
+                "location": "Katrineholm"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Bank Clerk",
+                "workplace": "South Swedish Credit AB",
+                "industry": "Banking",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Assistant Manager",
+                "workplace": "Liatorp",
+                "industry": "Banking",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Cashier",
+                "workplace": "Katrineholm",
+                "industry": "Banking",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Cashier",
+                "workplace": "AB Swedish Trade Bank",
+                "industry": "Banking",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Cashier",
+                "workplace": "Nyköping",
+                "industry": "Banking",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Assistant Manager",
+                "workplace": "Katrineholm",
+                "industry": "Banking",
+                "start_date": "1938"
+            }
+        ]
+    }
+}

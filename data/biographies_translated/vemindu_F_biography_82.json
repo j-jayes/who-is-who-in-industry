@@ -1,0 +1,70 @@
+{
+    "original": "FOGELBERG, Svenoscar, Direktör, Stockholm, f Gävle 7/6 11, gm Ingrid Norman. Fader: Dir Birger Fogelberg. Vkst dir f Tekn AB Flora (Florodol), Gävle. Styr.ordf i AB Choklad- &amp; Konfektfabr Freja, Gävle. Resor: Norge, Danm, Tyskl, Holl, Belg, Engl, Amer, Frankr, Span, Schweiz, Italien, Ungern. Hobby: Motorsport.",
+    "translated": "FOGELBERG, Svenoscar, Director, Stockholm, born in Gävle on June 7th, 1911, married to Ingrid Norman. Father: Director Birger Fogelberg. Was a managing director at Tekn AB Flora (Florodol) in Gävle. Chairman of the board at AB Choklad- & Konfektfabr Freja in Gävle. Traveled to Norway, Denmark, Germany, the Netherlands, Belgium, England, America, France, Spain, Switzerland, Italy, and Hungary. Hobby: Motorsport.\n\nNote: '\\d\\d m. partners name' indicates that the person got married in the year 19xx.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Svenoscar Fogelberg",
+        "birthDate": "1911-06-07",
+        "birthPlace": "Gävle, Sweden",
+        "spouse": {
+            "@type": "Person",
+            "name": "Ingrid Norman",
+            "marriageDate": "19xx"
+        },
+        "parent": {
+            "@type": "Person",
+            "name": "Birger Fogelberg",
+            "jobTitle": "Director"
+        },
+        "jobTitle": "Director",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Tekn AB Flora (Florodol)",
+            "jobTitle": "Managing Director",
+            "location": "Gävle, Sweden"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "AB Choklad- & Konfektfabr Freja",
+                "jobTitle": "Chairman of the Board",
+                "location": "Gävle, Sweden"
+            }
+        ],
+        "hasOccupation": {
+            "@type": "SportsOrganization",
+            "name": "Motorsport"
+        },
+        "hasTravelled": [
+            "Norway",
+            "Denmark",
+            "Germany",
+            "Netherlands",
+            "Belgium",
+            "England",
+            "America",
+            "France",
+            "Spain",
+            "Switzerland",
+            "Italy",
+            "Hungary"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "Tekn AB Flora (Florodol)",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Chairman of the Board",
+                "workplace": "AB Choklad- & Konfektfabr Freja",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

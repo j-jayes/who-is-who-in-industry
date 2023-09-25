@@ -1,0 +1,90 @@
+{
+    "original": "GUSTAVSSON, David, Ritkontorschef, Morgårdshammar, f Ludvika 6/7 03 av gruvförm A G G p Albertina Andersson, gm Märta Svensson. Örebro tekn gymn 24, spec.stud KTH 37—39. Anrikn.ing Gruv AB Lekomberg Sör-vik 24—35, konstr AB Nyhammars Br Ny-hammar 35—37, ritkont.ch Morgårdshammar Mek Verkst AB sed. 40. Resor: Tyskl 31.",
+    "translated": "GUSTAVSSON, David, Chief Draughtsman, Morgårdshammar, b. Ludvika 6/7 03, son of mining foreman A.G.G. and Albertina Andersson, m. Märta Svensson. Örebro Technical Gymnasium 24, specialized studies at KTH 37-39. Enrichment engineer at Lekomberg Sör-vik Mining AB 24-35, constructor at Nyhammars Ironworks AB Ny-hammar 35-37, chief draughtsman at Morgårdshammar Mechanical Works AB from 1940. Travel: Germany 31..",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "David Gustavsson",
+        "birthDate": "1903-07-06",
+        "jobTitle": "Chief Draughtsman",
+        "description": "David Gustavsson was born on July 6, 1903, in Ludvika, Sweden. He was the son of mining foreman A.G.G. and Albertina Andersson. David married Märta Svensson. He attended Örebro Technical Gymnasium in 1924 and specialized in studies at KTH from 1937 to 1939. David worked as an enrichment engineer at Lekomberg Sör-vik Mining AB from 1924 to 1935, a constructor at Nyhammars Ironworks AB Ny-hammar from 1935 to 1937, and became the chief draughtsman at Morgårdshammar Mechanical Works AB in 1940. He traveled to Germany in 1931.",
+        "spouse": {
+            "@type": "Person",
+            "name": "Märta Svensson"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "A.G.G. Gustavsson"
+            },
+            {
+                "@type": "Person",
+                "name": "Albertina Andersson"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "diploma",
+                "educationalLevel": "secondary",
+                "name": "Örebro Technical Gymnasium",
+                "startDate": "1924",
+                "endDate": "1924"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "diploma",
+                "educationalLevel": "bachelor",
+                "name": "KTH",
+                "startDate": "1937",
+                "endDate": "1939"
+            }
+        ],
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Enrichment Engineer",
+                "namedPosition": "Lekomberg Sör-vik Mining AB",
+                "startDate": "1924",
+                "endDate": "1935"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Constructor",
+                "namedPosition": "Nyhammars Ironworks AB Ny-hammar",
+                "startDate": "1935",
+                "endDate": "1937"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Chief Draughtsman",
+                "namedPosition": "Morgårdshammar Mechanical Works AB",
+                "startDate": "1940"
+            }
+        ],
+        "knowsAbout": "Morgårdshammar, Ludvika, Sweden",
+        "memberOf": "KTH"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Enrichment engineer",
+                "workplace": "Lekomberg Sör-vik Mining AB",
+                "industry": "Mining",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Constructor",
+                "workplace": "Nyhammars Ironworks AB",
+                "industry": "Ironworks",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Chief Draughtsman",
+                "workplace": "Morgårdshammar Mechanical Works AB",
+                "industry": "Mechanical Engineering",
+                "start_date": "1940"
+            }
+        ]
+    }
+}

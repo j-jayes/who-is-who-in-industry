@@ -1,0 +1,95 @@
+{
+    "original": "GUSTAFSON, Herman Gunnar, Kamrer, Borlänge, f 2/6 02 av snickarmäst Herm G o Maria Hansson, gm Margareta Lundqvist. Anst v Kopparb Läns Andelsslakterifrn i Borlänge 16—18, AB Sv Hdlsbkn i Borlänge 18—20 o v AB Wasabryggeriet där sed. 20. Kassaförvalt 1 Tunabygdens Lstfrn. Vpl löjtnant. Odd Fellow. Hobbies: Friluftsliv, hundsport.",
+    "translated": "GUSTAFSON, Herman Gunnar, Clerk, Borlänge, b. 2/6 02 to master carpenter Herm G and Maria Hansson, m. Margareta Lundqvist. Employed by Kopparb Läns Andelsslakterifrn in Borlänge 16-18, AB Sv Hdlsbkn in Borlänge 18-20, and AB Wasabryggeriet since 20. Cashier at Tunabygdens Lstfrn. Reserve lieutenant. Member of Odd Fellow. Hobbies: Outdoor life, dog sports.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Herman Gunnar Gustafson",
+        "jobTitle": "Clerk",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Kopparb Läns Andelsslakterifrn",
+                "startDate": "1916-01-01",
+                "endDate": "1918-12-31",
+                "location": "Borlänge"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Sv Hdlsbkn",
+                "startDate": "1918-01-01",
+                "endDate": "1920-12-31",
+                "location": "Borlänge"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Wasabryggeriet",
+                "startDate": "1920-01-01",
+                "location": "Borlänge"
+            },
+            {
+                "@type": "Organization",
+                "name": "Tunabygdens Lstfrn",
+                "jobTitle": "Cashier",
+                "startDate": "unknown",
+                "location": "Tunabygden"
+            },
+            {
+                "@type": "Organization",
+                "name": "Odd Fellow"
+            }
+        ],
+        "birthDate": "1902-06-02",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Herm G",
+                "jobTitle": "Master Carpenter"
+            },
+            {
+                "@type": "Person",
+                "name": "Maria Hansson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Margareta Lundqvist"
+        },
+        "hobbies": [
+            "Outdoor life",
+            "Dog sports"
+        ],
+        "hasOccupation": {
+            "@type": "Person",
+            "jobTitle": "Reserve Lieutenant"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Clerk",
+                "workplace": "Kopparb Läns Andelsslakterifrn",
+                "industry": "Meat processing",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Clerk",
+                "workplace": "AB Sv Hdlsbkn",
+                "industry": "Trade bank",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Clerk",
+                "workplace": "AB Wasabryggeriet",
+                "industry": "Soft drink manufacturing",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Cashier",
+                "workplace": "Tunabygdens Lstfrn",
+                "industry": "Local branch of a savings bank",
+                "start_date": "not specified"
+            }
+        ]
+    }
+}

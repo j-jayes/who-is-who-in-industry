@@ -1,0 +1,132 @@
+{
+    "original": "FOLCKER, Knut Ivar Teodor, Civilingenjör, Stockholm, f Strömstad 25/9 93 av borgm C G F o Klara Anderson, gm Greta Spendrup. Studex NReal 12, KTH (eltekn) 16. Anst SKF Gbg 17—19, Stat vattenfallsvk 19—21, utl studieres 21—25, AB Osram-Elektravkn sed. 25, sekr. Sv Frn f Ljuskultur sed. 28. Styr.led Fera, styr.ordf Elhandlns utställn.-institut. Resor i de fi europ länd o Ryssl. Av trycket en måiigf art, bresch o skr på ljus- o belysn.-tekn omr.",
+    "translated": "FOLCKER, Knut Ivar Teodor, Civil Engineer, Stockholm, b. Strömstad 25/9 93 to mayor C G F and Klara Anderson, m. Greta Spendrup. Graduated from Realgymnasiet 12, Royal Institute of Technology (Electrical Engineering) 16. Employed at SKF Gbg 17—19, Swedish Waterfall Authority 19—21, foreign studies 21—25, AB Osram-Elektroverken since 25, secretary of the Swedish Association for Light Culture since 28. Board member of Fera, chairman of the Board of the Electric Trade Exhibition Institute. Travels in various European countries and Russia. Published several articles, speeches and writings on the subject of light and lighting technology.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Knut Ivar Teodor Folcker",
+        "birthDate": "1893-09-25",
+        "birthPlace": "Strömstad",
+        "nationality": "Swedish",
+        "description": "Civil Engineer",
+        "alumniOf": {
+            "@type": "EducationalOrganization",
+            "name": "Royal Institute of Technology",
+            "location": "Stockholm",
+            "alternateName": "Kungliga Tekniska högskolan",
+            "alumniOf": {
+                "@type": "Specialty",
+                "name": "Electrical Engineering"
+            },
+            "endDate": "1916"
+        },
+        "employment": [
+            {
+                "@type": "Organization",
+                "name": "SKF",
+                "location": "Göteborg",
+                "startDate": "1917",
+                "endDate": "1919"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Waterfall Authority",
+                "startDate": "1919",
+                "endDate": "1921"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Osram-Elektroverken",
+                "startDate": "1925"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Association for Light Culture",
+                "startDate": "1928",
+                "roleName": "Secretary"
+            },
+            {
+                "@type": "Organization",
+                "name": "Fera",
+                "roleName": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Electric Trade Exhibition Institute",
+                "roleName": "Chairman of the Board"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Greta Spendrup"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "C G F"
+            },
+            {
+                "@type": "Person",
+                "name": "Klara Anderson"
+            }
+        ],
+        "hasOccupation": {
+            "@type": "Occupation",
+            "name": "Civil Engineer"
+        },
+        "hasPublished": [
+            {
+                "@type": "CreativeWork",
+                "name": "Articles, speeches, and writings on the subject of light and lighting technology"
+            }
+        ],
+        "hasResidence": {
+            "@type": "Place",
+            "name": "Stockholm"
+        },
+        "hasTravelHistory": [
+            "Various European countries",
+            "Russia"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "AB Osram-Elektroverken",
+                "industry": "Electrical Engineering",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Secretary",
+                "workplace": "Swedish Association for Light Culture",
+                "industry": "Nonprofit",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Fera",
+                "industry": "Unknown",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Chairman of the Board",
+                "workplace": "Electric Trade Exhibition Institute",
+                "industry": "Unknown",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Unknown",
+                "workplace": "SKF Gbg",
+                "industry": "Unknown",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Unknown",
+                "workplace": "Swedish Waterfall Authority",
+                "industry": "Unknown",
+                "start_date": "1919"
+            }
+        ]
+    }
+}

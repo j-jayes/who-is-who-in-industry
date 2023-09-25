@@ -1,0 +1,96 @@
+{
+    "original": "FJELLMAN, Axel Wilhelm, Fabrikör, Marie -stad, f Björsäter, Skarab l, 17/11 86 av soldat J F o Maja-Lisa Andersson, gm Agnes Nöjd. Inneh Fjellmans Mek Verkst AB i Mariestad sed. 14. Styr.ordf i systembol. Ordf i dir:n f länslas i Mariestad, stdsflm fr 17, ordf fr 43, ordf i Skarab läns norra kristidsstyr.",
+    "translated": "FJELLMAN, Axel Wilhelm, Manufacturer, Marie-stad, born in Björsäter, Skaraborg county, on November 17, 1886, to soldier JF and Maja-Lisa Andersson, married to Agnes Nöjd. Owner of Fjellman's Mechanical Workshop AB in Mariestad since 1914. Chairman of the board at Systembolaget. Chairman of the county board of directors in Mariestad, civil defense commander since 1917, chairman since 1943, chairman of the northern civil defense force in Skaraborg county.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Axel Wilhelm Fjellman",
+        "birthDate": "1886-11-17",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Björsäter",
+                "addressRegion": "Skaraborg County"
+            }
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "JF"
+            },
+            {
+                "@type": "Person",
+                "name": "Maja-Lisa Andersson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Agnes Nöjd"
+        },
+        "occupation": "Manufacturer",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Fjellman's Mechanical Workshop AB",
+            "startDate": "1914"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Systembolaget",
+                "jobTitle": "Board Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "County Board of Directors in Mariestad",
+                "jobTitle": "Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Civil Defense Force",
+                "jobTitle": "Chairman",
+                "startDate": "1917",
+                "endDate": "1943"
+            },
+            {
+                "@type": "Organization",
+                "name": "Northern Civil Defense Force of Skaraborg County",
+                "jobTitle": "Chairman"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Manufacturer",
+                "workplace": "Fjellman's Mechanical Workshop AB",
+                "industry": "Manufacturing",
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Chairman of the board",
+                "workplace": "Systembolaget",
+                "industry": "Retail",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Chairman of the county board of directors",
+                "workplace": "Mariestad",
+                "industry": "Government",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Civil defense commander",
+                "workplace": "Mariestad",
+                "industry": "Defense",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Chairman of the northern civil defense force",
+                "workplace": "Skaraborg county",
+                "industry": "Defense",
+                "start_date": ""
+            }
+        ]
+    }
+}

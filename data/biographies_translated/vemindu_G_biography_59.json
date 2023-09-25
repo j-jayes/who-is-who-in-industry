@@ -1,0 +1,146 @@
+{
+    "original": "GOKSÖYR, Hans Lorens Hansen, Kamrer, Göteborg, f Runde, Heröy, Norge, 30/11 09 av fisker og gårdbruker H H G o Anna Rönnestad, gm Kanutte Kvalsvik. Volda Millom-skule, Bidsvoll Landsgymn, Solbergs hdlssk, Trondheim, stud margarinfabr i Silkeborg o a städ i Danm. Anst Ålesund Sardinfactories Ltd säsongerna 28, 29, 30, Heröy Canning Co A/S 31, Fosnavåg Cann Co A/S 34, Noregs Sildesalgslag, Storsild 28—38, AB Gbgs Kon-servfabr sed. 38. Eg exp av färsk sill fr Norge. Ag villa Göthsbo, V Frölunda. Medl i Sjövärnskåren.",
+    "translated": "GOKSÖYR, Hans Lorens Hansen, Accountant, Gothenburg, born in Runde, Herøy, Norway, on November 30th, 1909, son of fisherman and farmer H.H.G and Anna Rönnestad. Married to Kanutte Kvalsvik. \nAttended Volda Middle School, Bidsvoll National Gymnasium and Solberg's Commercial School in Trondheim. Studied margarine production in Silkeborg and worked in various cleaning jobs in Denmark. Employed at Ålesund Sardine Factories Ltd during the seasons of 1928, 1929, and 1930. Worked at Herøy Canning Co A/S in 1931 and Fosnavåg Cannery Co A/S in 1934. Also worked for Noregs Sildesalgslag (Norwegian Herring Sales Association) focusing on Baltic herring from 1928 to 1938. Employed by AB Gbgs Kon-servfabr since 1938. Exported fresh herring from Norway. Resided in Göthsbo, V Frölunda. Member of the Maritime Corps.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Hans Lorens Hansen Goksöyr",
+        "birthDate": "1909-11-30",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Runde, Herøy",
+                "addressCountry": "Norway"
+            }
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "H.H.G"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Rönnestad"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Kanutte Kvalsvik"
+        },
+        "educationalBackground": [
+            "Volda Middle School",
+            "Bidsvoll National Gymnasium",
+            "Solberg's Commercial School, Trondheim"
+        ],
+        "workExperience": [
+            {
+                "@type": "Organization",
+                "name": "Ålesund Sardine Factories Ltd",
+                "startDate": "1928",
+                "endDate": "1930",
+                "description": "Seasonal employment"
+            },
+            {
+                "@type": "Organization",
+                "name": "Herøy Canning Co A/S",
+                "startDate": "1931",
+                "description": "Employment"
+            },
+            {
+                "@type": "Organization",
+                "name": "Fosnavåg Cannery Co A/S",
+                "startDate": "1934",
+                "description": "Employment"
+            },
+            {
+                "@type": "Organization",
+                "name": "Noregs Sildesalgslag",
+                "startDate": "1928",
+                "endDate": "1938",
+                "description": "Employment. Focused on Baltic herring."
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Gbgs Kon-servfabr",
+                "startDate": "1938",
+                "description": "Employment"
+            }
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Göteborg",
+            "addressCountry": "Sweden"
+        },
+        "additionalProperty": [
+            {
+                "@type": "PropertyValue",
+                "name": "Export",
+                "description": "Exported fresh herring from Norway"
+            },
+            {
+                "@type": "PropertyValue",
+                "name": "Residence",
+                "description": "Göthsbo, V Frölunda"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Maritime Corps"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Kamrer",
+                "workplace": "Göteborg",
+                "industry": "Accounting",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Studied margarine production",
+                "workplace": "Silkeborg",
+                "industry": "Food Manufacturing",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Cleaning jobs",
+                "workplace": "Denmark",
+                "industry": "Janitorial",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Ålesund Sardinfactories Ltd",
+                "workplace": "Ålesund",
+                "industry": "Fish Processing",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Herøy Canning Co A/S",
+                "workplace": "Herøy",
+                "industry": "Food Manufacturing",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Fosnavåg Cann Co A/S",
+                "workplace": "Fosnavåg",
+                "industry": "Food Manufacturing",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Noregs Sildesalgslag",
+                "workplace": null,
+                "industry": "Sales Association",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "AB Gbgs Kon-servfabr",
+                "workplace": null,
+                "industry": "Food Manufacturing",
+                "start_date": "1938"
+            }
+        ]
+    }
+}

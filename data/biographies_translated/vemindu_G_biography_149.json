@@ -1,0 +1,122 @@
+{
+    "original": "GUSTAFSON, Karl Henning, Disponent, Sala, f Upps 31/8 88 av vagnmak K A G o Emma Carlsson, gm Ellen Andersson. Prins Gustafs sk, Upps, hdlsskkurs. Konditioner i Upps, Sthlm o Sala t 12, eg rör i spec.-branschen 12—15, kont.ch AB K. A. Andersson Sala 15—42, disp sed 42, styr.led där. Ag fastigh Kalken 7 o Kämnären 5, Sala. Led fattigv.styr o luftsk.ktén. Styr.led o kassör Sala Missionsförsaml.",
+    "translated": "GUSTAFSON, Karl Henning, Manager, Sala, born in Uppsala on August 31, 1888, son of carriage maker K A G and Emma Carlsson, married to Ellen Andersson. Completed primary school at Prins Gustafs school in Uppsala. Apprenticeship in conditioners in Uppsala, Stockholm, and Sala until 1912. Worked in the plumbing industry from 1912 to 1915. Office clerk at AB K. A. Andersson in Sala from 1915 to 1942. Became manager since 1942 and served on the board of directors. Owns properties at Kalken 7 and Kämnären 5 in Sala. Member of the poor relief board and the air defense association. Serves as a board member and treasurer of Sala Missionary Congregation.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Karl Henning Gustafson",
+        "birthDate": "1888-08-31",
+        "birthPlace": "Uppsala, Sweden",
+        "description": "Karl Henning Gustafson was born on August 31, 1888, in Uppsala, Sweden. He was the son of K A G, a carriage maker, and Emma Carlsson.",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Sala Missionary Congregation",
+                "memberRole": [
+                    "board member",
+                    "treasurer"
+                ]
+            },
+            {
+                "@type": "Organization",
+                "name": "Poor Relief Board"
+            },
+            {
+                "@type": "Organization",
+                "name": "Air Defense Association"
+            }
+        ],
+        "spouse": "Ellen Andersson",
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "name": "Prins Gustafs school, Uppsala",
+            "credentialCategory": "Primary School"
+        },
+        "occupation": [
+            {
+                "@type": "JobPosting",
+                "title": "Manager",
+                "startDate": "1942-01-01",
+                "endDate": null,
+                "company": {
+                    "@type": "Organization",
+                    "name": "Sala"
+                }
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Office Clerk",
+                "startDate": "1915-01-01",
+                "endDate": "1942-01-01",
+                "company": {
+                    "@type": "Organization",
+                    "name": "AB K. A. Andersson"
+                },
+                "location": "Sala"
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Apprentice",
+                "startDate": "1912-01-01",
+                "endDate": "1915-01-01",
+                "industry": "Conditioners",
+                "company": [
+                    {
+                        "@type": "Organization",
+                        "name": "Uppsala"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "Stockholm"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "Sala"
+                    }
+                ]
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Plumber",
+                "startDate": "1912-01-01",
+                "endDate": "1915-01-01"
+            }
+        ],
+        "address": [
+            {
+                "@type": "PostalAddress",
+                "streetAddress": "Kalken 7",
+                "addressLocality": "Sala",
+                "addressCountry": "Sweden"
+            },
+            {
+                "@type": "PostalAddress",
+                "streetAddress": "Kämnären 5",
+                "addressLocality": "Sala",
+                "addressCountry": "Sweden"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Apprentice",
+                "workplace": "Conditioners in Uppsala, Stockholm, and Sala",
+                "industry": "Plumbing",
+                "start_date": "Before 1912"
+            },
+            {
+                "occupational_title": "Office clerk",
+                "workplace": "AB K. A. Andersson",
+                "industry": "Unknown",
+                "start_date": "1915"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "AB K. A. Andersson",
+                "industry": "Unknown",
+                "start_date": "1942"
+            }
+        ]
+    }
+}

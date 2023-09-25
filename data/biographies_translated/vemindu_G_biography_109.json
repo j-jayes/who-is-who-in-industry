@@ -1,0 +1,116 @@
+{
+    "original": "GRÖNBERG, Gustaf Einar, Ingenjör, Stockholm, f Köping 9/5 85 av skrädd A Grönberg o Lovisa Ersson, gm Lilly Hagström. Avg.ex Tekn Skolans i Sthlm maskinyrkesskola 07. Prakt v olika verkstäder, anst v AB de Lavals Ångturbins konstr- o ritkontor samt offert-avd 07—16, verkstadschefsassist där 16—18, inköps- o försäljning v Gjuteri- o Pumpfabr AB, Lkrona, 19—23, ing v AB de Lavals Ångturbin, Sthlm, sed. 23, chef f dess inställ.avd f ångturbiner sed. 25.",
+    "translated": "GRÖNBERG, Gustaf Einar, Engineer, Stockholm, b. Köping 9/5 1885, the son of tailor A Grönberg and Lovisa Ersson, m. Lilly Hagström. Graduated from the Technical School's machine trade school in Stockholm in 1907. Practical experience in various workshops, employed at AB de Lavals Steam Turbine design and drafting office as well as the quotation department from 1907 to 1916. Assistant to the workshop manager there from 1916 to 1918. Involved in purchasing and sales at Gjuteri- o Pumpfabr AB in Lkrona from 1919 to 1923. Engineer at AB de Lavals Steam Turbine in Stockholm since 1923, head of its installation department for steam turbines since 1925.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Gustaf Einar Grönberg",
+        "jobTitle": "Engineer",
+        "birthPlace": "Köping, Sweden",
+        "birthDate": "1885-05-09",
+        "father": "A Grönberg",
+        "mother": "Lovisa Ersson",
+        "spouse": "Lilly Hagström",
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Diploma",
+            "educationalLevel": "High School",
+            "dateIssued": "1907",
+            "issuer": {
+                "@type": "Organization",
+                "name": "Technical School's Machine Trade School"
+            }
+        },
+        "workExperience": [
+            {
+                "@type": "WorkExperience",
+                "startDate": "1907",
+                "endDate": "1916",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "AB de Lavals Steam Turbine",
+                    "department": "Design and Drafting Office, Quotation Department"
+                },
+                "jobTitle": "Employee"
+            },
+            {
+                "@type": "WorkExperience",
+                "startDate": "1916",
+                "endDate": "1918",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "AB de Lavals Steam Turbine",
+                    "department": "Workshop"
+                },
+                "jobTitle": "Assistant to Workshop Manager"
+            },
+            {
+                "@type": "WorkExperience",
+                "startDate": "1919",
+                "endDate": "1923",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Gjuteri- o Pumpfabr AB",
+                    "location": "Lkrona, Sweden"
+                },
+                "jobTitle": "Purchasing and Sales"
+            },
+            {
+                "@type": "WorkExperience",
+                "startDate": "1923",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "AB de Lavals Steam Turbine",
+                    "department": "Installation Department for Steam Turbines"
+                },
+                "jobTitle": "Engineer"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "AB de Lavals Ångturbins",
+                "industry": "Steam Turbines",
+                "start_date": "Since 1923"
+            },
+            {
+                "occupational_title": "Head of Installation Department for Steam Turbines",
+                "workplace": "AB de Lavals Ångturbins",
+                "industry": "Steam Turbines",
+                "start_date": "Since 1925"
+            },
+            {
+                "occupational_title": "Assistant to Workshop Manager",
+                "workplace": "AB de Lavals Ångturbins",
+                "industry": "Steam Turbines",
+                "start_date": "1916-1918"
+            },
+            {
+                "occupational_title": "Purchasing and Sales",
+                "workplace": "Gjuteri- o Pumpfabr AB",
+                "industry": "Foundry and Pump Manufacturing",
+                "start_date": "1919-1923"
+            },
+            {
+                "occupational_title": "Design and Drafting Office, Quotation Department",
+                "workplace": "AB de Lavals Ångturbins",
+                "industry": "Steam Turbines",
+                "start_date": "1907-1916"
+            },
+            {
+                "occupational_title": "Machine Trade School Graduate",
+                "workplace": "Technical School in Stockholm",
+                "industry": "Education",
+                "start_date": "Graduated in 1907"
+            },
+            {
+                "occupational_title": "Practical Experience in Various Workshops",
+                "workplace": "Not specified",
+                "industry": "Not specified",
+                "start_date": "Not specified"
+            }
+        ]
+    }
+}

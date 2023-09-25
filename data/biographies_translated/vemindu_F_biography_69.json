@@ -1,0 +1,84 @@
+{
+    "original": "FLODIN, Tore, Advokat, Stockholm, f Sthlm 15/9 00 av överdir J F o Maria Leffler, gm Dagmar Pegelow. Studex N Latin 19, jur kand StHS 24. Anst h advokat Per Yngström 27—37, deläg i adv.fma Per Yngström o Töre Flodin sed. 38. Ag fastigh i Tyresö. Led förvaltn av H T Cedergrens uppfostr.-fond.",
+    "translated": "FLODIN, Tore, Lawyer, Stockholm, born in Stockholm on September 15, 1900, son of Director J.F. and Maria Leffler, married Dagmar Pegelow. Completed the Latin course at N Latin 19, received a law degree from StHS in 1924. Employed at lawyer Per Yngström's office from 1927 to 1937, became a partner in the law firm Per Yngström and Töre Flodin in 1938. Owned properties in Tyresö. Served as a member of the management for H.T. Cedergren's education fund.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "familyName": "Flodin",
+        "givenName": "Tore",
+        "jobTitle": "Lawyer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "birthDate": "1900-09-15",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Director J.F.",
+                "sameAs": ""
+            },
+            {
+                "@type": "Person",
+                "name": "Maria Leffler",
+                "sameAs": ""
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "givenName": "Dagmar",
+            "familyName": "Pegelow",
+            "sameAs": ""
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "Studex N Latin 19"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "jur kand StHS 24"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Per Yngström",
+                "startDate": "1927",
+                "endDate": "1937"
+            },
+            {
+                "@type": "Organization",
+                "name": "Per Yngström and Töre Flodin",
+                "startDate": "1938"
+            }
+        ],
+        "owns": [
+            {
+                "@type": "Place",
+                "name": "Tyresö"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "H.T. Cedergren's education fund",
+            "position": "Member of the management"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Lawyer",
+                "workplace": "Per Yngström's office",
+                "industry": "Law",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Partner",
+                "workplace": "Per Yngström and Töre Flodin law firm",
+                "industry": "Law",
+                "start_date": "1938"
+            }
+        ]
+    }
+}

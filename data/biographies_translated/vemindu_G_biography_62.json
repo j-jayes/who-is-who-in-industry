@@ -1,0 +1,156 @@
+{
+    "original": "GOLDSTEIN, Harald, Direktör, Stockholm, f Sundsvall 15/10 90 av köpm M G o Sara Peltin, gm Annie Masiv (d). SLatin Sthlm 99—06. Anst h Bendix Josephson &amp; Co Sthlm 06—12, inneh ag f tyska o engelska fabr 12— 15, repr f Henning Schlasberg &amp; Co AB Lkro-na sed. 15, dir f AB Strömberg &amp; Co Sthlm sed. 26. Borgare sed. 31, W6 (högsta gr), Sv Kontoristfrn, Sv Hdlsres.frn; inneh de två sistn :s veteranmärken samt PatrstGM. Rest 1 flert europ länder.",
+    "translated": "GOLDSTEIN, Harald, Director, Stockholm, b. Sundsvall 15/10 90, son of merchant M G and Sara Peltin, m. Annie Masiv (deceased). Graduated from Latin School in Stockholm 99—06. Employed at Bendix Josephson &amp; Co in Stockholm 06—12, owner of German and English factories 12—15, representative for Henning Schlasberg &amp; Co AB in Lkro-na. 15, director of AB Strömberg &amp; Co in Stockholm since 26. Granted citizenship in 31, awarded with W6 (highest grade), Swedish Office Clerk Union, Swedish Trade Traveler Union; owner of the two last mentioned veteran badges as well as the PatrstGM. Traveled extensively in several European countries.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Harald Goldstein",
+        "birthDate": "1890-10-15",
+        "birthPlace": "Sundsvall",
+        "description": "Director, Stockholm",
+        "nationality": "Swedish",
+        "father": {
+            "@type": "Person",
+            "name": "M G"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Sara Peltin"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Annie Masiv",
+            "deathDate": ""
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "startDate": "1899",
+            "endDate": "1906",
+            "institution": {
+                "@type": "EducationalOrganization",
+                "name": "Latin School",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm"
+                }
+            }
+        },
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1906",
+                "endDate": "1912",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Bendix Josephson & Co",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1912",
+                "endDate": "1915",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Goldstein Factories",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm"
+                    }
+                },
+                "description": "Owner of German and English factories"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1915",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Henning Schlasberg & Co AB",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Lkro-na"
+                    }
+                },
+                "description": "Representative for Henning Schlasberg & Co AB"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1926",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Strömberg & Co",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm"
+                    }
+                },
+                "description": "Director of AB Strömberg & Co"
+            }
+        ],
+        "citizenship": {
+            "@type": "Country",
+            "name": "Sweden",
+            "startDate": "1931"
+        },
+        "awards": [
+            {
+                "@type": "Order",
+                "name": "W6",
+                "description": "Highest grade"
+            },
+            {
+                "@type": "Badge",
+                "name": "Swedish Office Clerk Union Veteran Badge"
+            },
+            {
+                "@type": "Badge",
+                "name": "Swedish Trade Traveler Union Veteran Badge"
+            },
+            {
+                "@type": "Medal",
+                "name": "Patriotic Service Gold Medal"
+            }
+        ],
+        "travelHistory": {
+            "@type": "Place",
+            "name": "Europe"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Stockholm",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Bendix Josephson & Co",
+                "industry": "Unknown",
+                "start_date": "06-12"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "German and English factories",
+                "industry": "Unknown",
+                "start_date": "12-15"
+            },
+            {
+                "occupational_title": "Representative",
+                "workplace": "Henning Schlasberg & Co AB",
+                "industry": "Lkro-na",
+                "start_date": "15"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "AB Strömberg & Co",
+                "industry": "Stockholm",
+                "start_date": "26"
+            }
+        ]
+    }
+}

@@ -1,8 +1,8 @@
 {
     "original": "FELDBAUM, Ivar Nahum, Köpman, Malmö, f Polen 27/3 01 av Aron o Frida F, gm Olga Raigrotzky. Anst i fad aff Lkrona 18—24, eg fma i Hbg 24—28, i Ystad 28—30, inneh en grosaff i linnevaror i Malmö sed. 30. Aff- o studieres t Tyskl, Belg. Holl o Frankr 37.",
-    "translated": "FELDBAUM, Ivar Nahum, Merchant, Malmö, b. Poland 27/3 01, son of Aron and Frida F, m. Olga Raigrotzky. Employed by Lkrona 18-24, self-employed in Hbg 24-28, in Ystad 28-30, currently holds a wholesale business in linen goods in Malmö since 1930. Traveled and studied in Germany, Belgium, Netherlands, and France in 1937.",
+    "translated": "FELDBAUM, Ivar Nahum, Merchant, Malmö, born in Poland on 27th of March 1901 to parents Aron and Frida F, married to Olga Raigrotzky. Employed by Lkrona from 1918 to 1924, self-employed in textile trade in Helsingborg from 1924 to 1928, in Ystad from 1928 to 1930, and has owned a wholesale business in linen goods in Malmö since 1930. Traveled for business and studies to Germany, Belgium, the Netherlands, and France in 1937.\n\nIt is important to note that the abbreviation \"gm\" denotes \"gift med,\" which means \"married to\" in Swedish. Also, \"Aff-\" stands for \"affärsresor,\" meaning \"business trips,\" and \"studieres t\" stands for \"studieresa till,\" meaning \"study trip to.\"",
     "structured": {
-        "@context": "https://schema.org/",
+        "@context": "https://schema.org",
         "@type": "Person",
         "name": "Ivar Nahum Feldbaum",
         "birthDate": "1901-03-27",
@@ -21,58 +21,72 @@
             "@type": "Person",
             "name": "Olga Raigrotzky"
         },
-        "worksFor": {
-            "@type": "Organization",
-            "name": "Lkrona",
-            "startDate": "1918",
-            "endDate": "1924"
-        },
-        "hasOccupation": {
-            "@type": "Merchant"
-        },
-        "hasOwnedBusiness": {
-            "@type": "Organization",
-            "name": "Wholesale Business in Linen Goods"
-        },
-        "currentLocation": {
-            "@type": "Place",
-            "address": {
-                "@type": "PostalAddress",
-                "addressLocality": "Malmö"
-            }
-        },
-        "education": [
+        "memberOf": [
             {
-                "@type": "EducationalOrganization",
-                "name": "Germany"
-            },
-            {
-                "@type": "EducationalOrganization",
-                "name": "Belgium"
-            },
-            {
-                "@type": "EducationalOrganization",
-                "name": "Netherlands"
-            },
-            {
-                "@type": "EducationalOrganization",
-                "name": "France"
+                "@type": "Organization",
+                "name": "Lkrona",
+                "startDate": "1918-01-01",
+                "endDate": "1924-12-31"
             }
         ],
-        "travelDate": "1937"
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Self-employed",
+                "startDate": "1924-01-01",
+                "endDate": "1928-12-31"
+            },
+            {
+                "@type": "Organization",
+                "name": "Self-employed",
+                "startDate": "1928-01-01",
+                "endDate": "1930-12-31"
+            },
+            {
+                "@type": "Organization",
+                "name": "Wholesale business in linen goods",
+                "startDate": "1930-01-01"
+            }
+        ],
+        "travels": [
+            {
+                "@type": "Trip",
+                "name": "Business trip to Germany",
+                "startDate": "1937-01-01",
+                "endDate": "1937-12-31"
+            },
+            {
+                "@type": "Trip",
+                "name": "Business trip to Belgium",
+                "startDate": "1937-01-01",
+                "endDate": "1937-12-31"
+            },
+            {
+                "@type": "Trip",
+                "name": "Business trip to the Netherlands",
+                "startDate": "1937-01-01",
+                "endDate": "1937-12-31"
+            },
+            {
+                "@type": "Trip",
+                "name": "Business trip to France",
+                "startDate": "1937-01-01",
+                "endDate": "1937-12-31"
+            }
+        ]
     },
     "occupations": {
         "career": [
             {
-                "occupational_title": "Employed by Lkrona",
+                "occupational_title": "Employee",
                 "workplace": "Lkrona",
                 "industry": "Unknown",
                 "start_date": "1918"
             },
             {
                 "occupational_title": "Self-employed",
-                "workplace": "Hbg",
-                "industry": "Unknown",
+                "workplace": "Helsingborg",
+                "industry": "Textile trade",
                 "start_date": "1924"
             },
             {
@@ -82,7 +96,7 @@
                 "start_date": "1928"
             },
             {
-                "occupational_title": "Merchant",
+                "occupational_title": "Wholesale business owner",
                 "workplace": "Malmö",
                 "industry": "Linen goods",
                 "start_date": "1930"

@@ -1,0 +1,54 @@
+{
+    "original": "GADELIUS, Knut Edvard Taro, Ingenjör, Saltsjöbaden, f Tokyo, Japan, 27/8 13 av köpm K G o Gabriella Fahlkrantz. öbr Tekn Gymn (maskintekn) 36. Anst Gadelius &amp; Co AB Sthlm sed. 39, styr.led där.",
+    "translated": "GADELIUS, Knut Edvard Taro, Engineer, Saltsjöbaden, from Tokyo, Japan, born on 27/8 1913, son of merchant K G and Gabriella Fahlkrantz. Technical High School graduate (mechanical engineering) in 1936. Employed at Gadelius & Co AB in Stockholm since 1939, currently serving as a board member.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Knut Edvard Taro Gadelius",
+        "jobTitle": "Engineer",
+        "birthPlace": "Tokyo, Japan",
+        "birthDate": "1913-08-27",
+        "familyName": "Gadelius",
+        "givenName": "Knut Edvard Taro",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Gadelius & Co AB",
+                "startDate": "1939-01-01",
+                "roleName": "Employee",
+                "title": "Board Member"
+            }
+        ],
+        "nationality": "Swedish",
+        "educationalCredentialAwarded": "Technical High School Graduate",
+        "alumniOf": {
+            "@type": "EducationalOrganization",
+            "name": "Technical High School",
+            "areaServed": "Sweden",
+            "startDate": "1936-01-01",
+            "endDate": "1936-12-31",
+            "educationalLevel": "Bachelor's Degree",
+            "hasCredential": {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "diploma",
+                "description": "Mechanical Engineering"
+            }
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Gadelius & Co AB",
+                "industry": "Engineering",
+                "start_date": "1939"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Gadelius & Co AB",
+                "industry": "Engineering",
+                "start_date": "N/A"
+            }
+        ]
+    }
+}

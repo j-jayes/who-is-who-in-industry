@@ -1,0 +1,92 @@
+{
+    "original": "FLODIN, Gunnar Rafael, Disponent, Lysekil, f Lysekil 16/10 98 av fabr J F o Matilda Henriksson, gm Ebba Svensson. Folksk. Anst i fad fma t 21, AB Plåtmanuf 21—36, disp Lysekils Offset AB 33—43, vkst dir sed. 43, Lysekils Emball.fabr sed. 37. Stdsflm, fi komm styr.",
+    "translated": "FLODIN, Gunnar Rafael, Manager, Lysekil, b. Lysekil 16/10 98, son of factory owner J.F. and Matilda Henriksson, married Ebba Svensson. Elementary school. Employed in father's company until 1921. Worked at AB Plåtmanuf from 1921-1936. became Manager at Lysekils Offset AB from 1933-1943 and then moved on to become Director of Growth. Also involved in Lysekils Emballagefabrik since 1937. Involved in municipal government.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Gunnar Rafael Flodin",
+        "jobTitle": "Manager",
+        "birthPlace": "Lysekil",
+        "birthDate": "1898-10-16",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "J.F. Flodin",
+                "jobTitle": "Factory Owner"
+            },
+            {
+                "@type": "Person",
+                "name": "Matilda Henriksson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ebba Svensson"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Elementary school"
+        },
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "Father's company",
+                "startDate": "1900",
+                "endDate": "1921"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Plåtmanuf",
+                "startDate": "1921",
+                "endDate": "1936"
+            },
+            {
+                "@type": "Organization",
+                "name": "Lysekils Offset AB",
+                "jobTitle": "Manager",
+                "startDate": "1933",
+                "endDate": "1943"
+            },
+            {
+                "@type": "Organization",
+                "name": "Director of Growth",
+                "startDate": "1943"
+            },
+            {
+                "@type": "Organization",
+                "name": "Lysekils Emballagefabrik",
+                "startDate": "1937"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Lysekils Emballagefabrik"
+        },
+        "affiliation": {
+            "@type": "Organization",
+            "name": "Municipal government"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Manager",
+                "workplace": "Lysekils Offset AB",
+                "industry": "Offset Printing",
+                "start_date": "1933"
+            },
+            {
+                "occupational_title": "Director of Growth",
+                "workplace": "Lysekils Offset AB",
+                "industry": "Offset Printing",
+                "start_date": "1943"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "AB Plåtmanuf",
+                "industry": "Metal Manufacturing",
+                "start_date": "1921"
+            }
+        ]
+    }
+}
