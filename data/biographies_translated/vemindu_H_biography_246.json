@@ -1,0 +1,116 @@
+{
+    "original": "HELMERS, Einar Helge, Direktör, Landskrona, f Sthlm 3/2 98 av dir A Bernh H o Anna Grähs. Realgymn rg I, Bröd Påhlmans hdlsinst. Anst fma Einar Randel &amp; Carl G Holst Hmbrg 15—18, fma Lorens Helmers &amp; Skånska Marmor AB Lkrona sed. 18, prok fma Lorens Helmers o vkst dir Sk Marmor AB sed. 39. Styr.led Sk Marmor AB, AB Lkrona Tvättinr, Lkrona Badhus AB, suppl Lundstedts Fastigh AB, intend Lkrona Segel-sällsk, kass Sällsk Jultomtarne i Lkrona, v.ordf Lkrona Vattenidr.frn :rs Samorg.",
+    "translated": "HELMERS, Einar Helge, Director, Landskrona, b. Stockholm 3/2 98, son of director A Bernh H and Anna Grähs. Completed upper secondary school, Bröd Påhlmans Commercial Institute. Employed by Einar Randel & Carl G Holst Hamburg 15-18, partner in Lorens Helmers & Skånska Marmor AB Landskrona since 18, assistant manager in Lorens Helmers and deputy director in Skånska Marmor AB since 39. Board member of Skånska Marmor AB, AB Landskrona Tvättinr, Landskrona Badhus AB, substitute in Lundstedts Fastighets AB, treasurer in Sällskapet Jultomtarne i Landskrona, vice chairman in Landskrona Vattenidrottsförening from 'rs Samorg'.\n\nNote that '\\d\\d m. partners name' means that the person married in the year 19xx.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Einar Helge Helmers",
+        "birthDate": "1898-02-03",
+        "birthPlace": "Stockholm",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "A Bernh H",
+                "jobTitle": "Director"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Grähs"
+            }
+        ],
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Bröd Påhlmans Commercial Institute",
+            "level": "Upper Secondary"
+        },
+        "employment": [
+            {
+                "@type": "Organization",
+                "name": "Einar Randel & Carl G Holst",
+                "location": "Hamburg",
+                "startDate": "1915",
+                "endDate": "1918"
+            },
+            {
+                "@type": "Organization",
+                "name": "Lorens Helmers & Skånska Marmor AB",
+                "location": "Landskrona",
+                "position": "Partner",
+                "startDate": "1918"
+            },
+            {
+                "@type": "Organization",
+                "name": "Skånska Marmor AB",
+                "location": "Landskrona",
+                "position": "Assistant Manager",
+                "startDate": "1939"
+            }
+        ],
+        "boardMember": [
+            {
+                "@type": "Organization",
+                "name": "Skånska Marmor AB"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Landskrona Tvättinr"
+            },
+            {
+                "@type": "Organization",
+                "name": "Landskrona Badhus AB"
+            },
+            {
+                "@type": "Organization",
+                "name": "Lundstedts Fastighets AB",
+                "position": "Substitute"
+            }
+        ],
+        "membership": [
+            {
+                "@type": "Organization",
+                "name": "Sällskapet Jultomtarne i Landskrona",
+                "position": "Treasurer"
+            },
+            {
+                "@type": "Organization",
+                "name": "Landskrona Vattenidrottsförening",
+                "position": "Vice Chairman",
+                "startDate": "rs Samorg"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Landskrona",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Employed by Einar Randel & Carl G Holst",
+                "workplace": "Hamburg",
+                "industry": "Unknown",
+                "start_date": "1915"
+            },
+            {
+                "occupational_title": "Partner in Lorens Helmers & Skånska Marmor AB",
+                "workplace": "Landskrona",
+                "industry": "Masonry",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Assistant Manager in Lorens Helmers",
+                "workplace": "Unknown",
+                "industry": "Masonry",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Deputy Director in Skånska Marmor AB",
+                "workplace": "Unknown",
+                "industry": "Masonry",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

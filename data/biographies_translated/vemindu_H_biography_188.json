@@ -1,0 +1,92 @@
+{
+    "original": "HEDQVIST, Eric, Disponent, Morgongåva, f Gysinge 3/10 88 av skom.mäst A E H o Augusta Pettersson, gm Nanny Johansson. Anst AB Westeråsmaskiner (förut AB Westerås Lantbr.maskiner) sed. 03, lagerch 15, kont.ch 27, pl.chef Morgongåva sed. 35. Komm.flm, kyrkoflm. Styr.led Västerlöfsta Elektr distr.frn. Odd Fellow.",
+    "translated": "HEDQVIST, Eric, Manager, Morgongåva, born in Gysinge on October 3, 1888, son of shoemaker master A.E.H and Augusta Pettersson, married to Nanny Johansson. Employed at AB Westeråsmaskiner (previously AB Westerås Lantbr.maskiner) since 1903, warehouse assistant since 1915, office assistant since 1927, plant manager in Morgongåva since 1935. Member of the local municipality film committee, church film committee, and the board of Västerlöfsta Elektr distributive fraternity from Odd Fellow. Note that '\\d\\d m. partners name' means that the person married in the year 19xx.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Eric Hedqvist",
+        "birthDate": "1888-10-03",
+        "birthPlace": "Gysinge, Sweden",
+        "parents": {
+            "@type": "Person",
+            "mother": "Augusta Pettersson",
+            "father": "A.E.H"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Nanny Johansson",
+            "marriageDate": "19xx"
+        },
+        "jobTitle": "Manager",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "AB Westeråsmaskiner",
+            "startDate": "1903"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "AB Westerås Lantbr.maskiner",
+                "startDate": "previously"
+            },
+            {
+                "@type": "Organization",
+                "name": "Morgongåva",
+                "startDate": "1935"
+            },
+            {
+                "@type": "Organization",
+                "name": "Västerlöfsta Elektr distr.frn. Odd Fellow"
+            }
+        ],
+        "occupation": [
+            {
+                "@type": "OrganizationRole",
+                "title": "Warehouse Assistant",
+                "startDate": "1915"
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Office Assistant",
+                "startDate": "1927"
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Plant Manager",
+                "startDate": "1935"
+            }
+        ],
+        "communityCommittees": [
+            "Local Municipality Film Committee",
+            "Church Film Committee"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Manager",
+                "workplace": "AB Westeråsmaskiner",
+                "industry": "Machinery",
+                "start_date": "1903"
+            },
+            {
+                "occupational_title": "Warehouse Assistant",
+                "workplace": "AB Westeråsmaskiner",
+                "industry": "Machinery",
+                "start_date": "1915"
+            },
+            {
+                "occupational_title": "Office Assistant",
+                "workplace": "AB Westeråsmaskiner",
+                "industry": "Machinery",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Plant Manager",
+                "workplace": "Morgongåva",
+                "industry": "Machinery",
+                "start_date": "1935"
+            }
+        ]
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "original": "HEDBRO, Elis Ragnvald, Köpman, Linköping, f Nykil, Ögl, 19/11 08 av lantbr A Gustavsson o h h f Johansson. Hdlssk. Bitr i K J Karlssons manuf.aff, Linkp, 26—34, övert denna und fmanamn K J K:sons Eftr 34, omreg t fma Elis Hedbro 42.",
+    "translated": "HEDBRO, Elis Ragnvald, Merchant, Linköping, born in Nykil, district of Östergötland, on November 19, 1908, to farmer A Gustavsson and his wife Johansson. Elementary school graduate. Assistant in K J Karlsson's manufacturing business in Linköping from 1926 to 1934. Took over the business under the name K J Karlsson's After 1934, later renamed as Elis Hedbro in 1942.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Elis Ragnvald Hedbro",
+        "jobTitle": "Merchant",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Nykil"
+        },
+        "birthDate": "1908-11-19",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "A Gustavsson",
+                "jobTitle": "Farmer"
+            },
+            {
+                "@type": "Person",
+                "name": "Johansson",
+                "jobTitle": "Farmer's wife"
+            }
+        ],
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "name": "Elementary School Graduate"
+        },
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "K J Karlsson's Manufacturing Business",
+                "location": {
+                    "@type": "City",
+                    "name": "Linköping"
+                },
+                "startDate": "1926",
+                "endDate": "1934",
+                "jobTitle": "Assistant"
+            },
+            {
+                "@type": "Organization",
+                "name": "K J Karlsson's After",
+                "location": {
+                    "@type": "City",
+                    "name": "Linköping"
+                },
+                "startDate": "1934",
+                "jobTitle": "Owner"
+            },
+            {
+                "@type": "Organization",
+                "name": "Elis Hedbro",
+                "location": {
+                    "@type": "City",
+                    "name": "Linköping"
+                },
+                "startDate": "1942",
+                "jobTitle": "Owner"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Linköping",
+                "industry": "Business/Trade",
+                "start_date": "1942"
+            },
+            {
+                "occupational_title": "Assistant",
+                "workplace": "K J Karlsson's manufacturing business",
+                "industry": "Manufacturing",
+                "start_date": "1926"
+            }
+        ]
+    }
+}

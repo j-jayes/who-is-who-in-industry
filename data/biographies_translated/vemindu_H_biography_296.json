@@ -1,0 +1,174 @@
+{
+    "original": "HESSNER, Lars Otto, Bankdirektör, Nyköping, f Källsjön, Koppb l, 26/4 81 av över-skogv J Anderson o Anna Jansson, gm Emy Werner. Studex, hdlssk. Korresp Gbgs bk Sthlm 03—10, kamr Gbgs int. gar.AB 10—13, d:o Sv priv centralbk 13—16, kassadir Sörml-bkn Nyköp 16—23, styr.led sed. 17, vkst dir sed. 23. Styr.led Sörml stadshypot.frn o E.tuna jernmanuf.AB. Studieres Engl, Tyskl o Frankr. RNO, RVO. Hobby: Jakt.",
+    "translated": "HESSNER, Lars Otto, Bank Director, Nyköping, b Källsjön, Koppb l, 26/4 1881, son of over-forest J Anderson and Anna Jansson, m Emy Werner. Studied at hdlssk [business school]. Correspondent Gbgs bk [Gothenburg Bank] Sthlm [Stockholm] 03—10, clerk Gbgs int. gar. [Gothenburg International Bank] AB 10—13, same at Sv priv centralbk [Swedish Private Central Bank] 13—16, cash manager Sörml-bkn [Sörmland Bank] Nyköp [Nyköping] 16—23, board member since 17, executive director since 23. Board member of Sörml stadshypot. [Sörmland City Mortgage Company] and E.tuna jernmanuf.AB [Eskilstuna Iron Manufacturing Company]. Studied English, German, and French. RNO [Knight of the Royal Order of the North Star], RVO [Knight of the Royal Order of Vasa]. Hobby: Hunting.\n\nNote: The abbreviation 'gm' stands for 'gift med' which means 'married to' in English.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Lars Otto Hessner",
+        "givenName": "Lars Otto",
+        "familyName": "Hessner",
+        "birthDate": "1881-04-26",
+        "birthPlace": "Källsjön, Koppbl",
+        "description": "Bank Director",
+        "nationality": "Swedish",
+        "parents": [
+            {
+                "@type": "Person",
+                "givenName": "J Anderson",
+                "familyName": "Over-forest"
+            },
+            {
+                "@type": "Person",
+                "givenName": "Anna",
+                "familyName": "Jansson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Emy Werner"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Studex"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "hdlssk",
+                "name": "Business School"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1903",
+                "endDate": "1910",
+                "roleName": "Correspondent",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Gbgs bk",
+                    "location": "Stockholm"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1910",
+                "endDate": "1913",
+                "roleName": "Clerk",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Gbgs int. gar. AB",
+                    "location": "Gothenburg"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1913",
+                "endDate": "1916",
+                "roleName": "Clerk",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Sv priv centralbk",
+                    "location": "Sweden"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1916",
+                "endDate": "1923",
+                "roleName": "Cash Manager",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Sörml-bkn",
+                    "location": "Nyköping"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1923",
+                "roleName": "Executive Director",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Sörml-bkn",
+                    "location": "Nyköping"
+                }
+            }
+        ],
+        "boardMember": [
+            {
+                "@type": "Organization",
+                "name": "Sörml stadshypot. frn"
+            },
+            {
+                "@type": "Organization",
+                "name": "E.tuna jernmanuf.AB"
+            }
+        ],
+        "additionalName": [
+            "Knight of the Royal Order of the North Star",
+            "Knight of the Royal Order of Vasa"
+        ],
+        "sameAs": [],
+        "knowsLanguage": [
+            {
+                "@type": "Language",
+                "name": "English"
+            },
+            {
+                "@type": "Language",
+                "name": "German"
+            },
+            {
+                "@type": "Language",
+                "name": "French"
+            }
+        ],
+        "hasOccupation": [],
+        "hobbies": [
+            {
+                "@type": "Thing",
+                "name": "Hunting"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Correspondent",
+                "workplace": "Gbgs bk Sthlm",
+                "industry": "Banking",
+                "start_date": "1903"
+            },
+            {
+                "occupational_title": "Clerk",
+                "workplace": "Gbgs int. gar. AB",
+                "industry": "Banking",
+                "start_date": "1910"
+            },
+            {
+                "occupational_title": "Clerk",
+                "workplace": "Sv priv centralbk",
+                "industry": "Banking",
+                "start_date": "1913"
+            },
+            {
+                "occupational_title": "Cash Manager",
+                "workplace": "Sörml-bkn Nyköp",
+                "industry": "Banking",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Sörml stadshypot. and E.tuna jernmanuf.AB",
+                "industry": "Banking and Manufacturing",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Executive Director",
+                "workplace": "Sörml-bkn Nyköp",
+                "industry": "Banking",
+                "start_date": "1923"
+            }
+        ]
+    }
+}

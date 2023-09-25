@@ -1,0 +1,78 @@
+{
+    "original": "HJE:LM, Johan Gustaf Adolf, Grosshandlare, Stockholm, f Sthlm 11/8 80, gm Sigrid Nyquist. Eft slut skolstud anst i led fmor i sjukv.bransch 99—18. Gr eg fma, Gustaf Hjelm &amp; Co, sjukv.art mm, 18, deläg dna. Borgare. Odd Fellow, Sthlms Borgargille, Grhdlssoc, Sthlmsgillet, Frn 80 års män mfl.",
+    "translated": "HJE:LM stands for Herr Johan Gustaf Adolf, a merchant from Stockholm. He was born in Stockholm on November 8th, 1880, and married Sigrid Nyquist. After completing his school studies, he worked in various positions within the healthcare industry from 1899 to 1918. In 1918, he founded his own company called Gustaf Hjelm & Co, specializing in medical supplies and equipment. He became a partner in the company. He was a citizen of Stockholm and a member of organizations such as Odd Fellow, Sthlms Borgargille, Grhdlssoc, and Sthlmsgillet. He was also involved in activities for men over 80 years of age.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Johan Gustaf Adolf",
+        "jobTitle": "Grosshandlare",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "birthDate": "1880-08-11",
+        "spouse": {
+            "@type": "Person",
+            "name": "Sigrid Nyquist"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "School"
+        },
+        "workExperience": [
+            {
+                "@type": "Organization",
+                "name": "Gustaf Hjelm & Co",
+                "startDate": "1918",
+                "endDate": "present",
+                "description": "Medical supplies and equipment"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Odd Fellow"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sthlms Borgargille"
+            },
+            {
+                "@type": "Organization",
+                "name": "Grhdlssoc"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sthlmsgillet"
+            }
+        ],
+        "additionalProperty": [
+            {
+                "@type": "PropertyValue",
+                "name": "Borgare",
+                "value": "true"
+            },
+            {
+                "@type": "PropertyValue",
+                "name": "Frn 80 års män",
+                "value": "true"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Gustaf Hjelm & Co",
+                "industry": "Medical supplies",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Healthcare industry worker",
+                "workplace": "Various positions within the healthcare industry",
+                "industry": "Healthcare",
+                "start_date": "1899"
+            }
+        ]
+    }
+}

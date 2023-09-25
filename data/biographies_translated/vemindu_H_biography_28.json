@@ -1,0 +1,155 @@
+{
+    "original": "HAGLUND, Didrik Wilhelm, Ingenjör, Sandviken, f Laxå 15/10 02 av verkm G D H o Alida Högberg, gm Julia Göransson. Kristinehamns prakt sk 21, Tekn gymn Örebro 22—25. Anst Laxå Br Mek Verkst 16—21, kon-str.avd Sandvikens Jernvks AB 25—29, ds manufakt.tillv 29—32, fabr.ch AB Sv Råk-klinga Gävle 32—36, ch.ass leveranskontr.avd v Sandvikens Jernvks AB 36—41, ch bol:s hårdmetallavd sed. 42. Resor: Engl 31, Tyskl 34, 36, Danm 38, Finl 39.",
+    "translated": "HAGLUND, Didrik Wilhelm, Engineer, Sandviken, b. Laxå 15/10 02, son of workshop director G D H and Alida Högberg, m. Julia Göransson. Attended Kristinehamn practical school 21, Technical gymnasium in Örebro 22-25. Employed at Laxå Bridge and Machine Works 16-21, construction department at Sandvikens Jernvks AB 25-29, manufacturing department 29-32, factory manager at AB Sv Råkklinga in Gävle 32-36, assistant manager of the delivery contract department at Sandvikens Jernvks AB 36-41, head of the hard metal department for the company since 42. Travelled to England in 31, Germany in 34 and 36, Denmark in 38, and Finland in 39.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Didrik Wilhelm Haglund",
+        "jobTitle": "Engineer",
+        "birthDate": "1902-10-15",
+        "birthPlace": "Laxå",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "G.D.H.",
+                "jobTitle": "Workshop Director"
+            },
+            {
+                "@type": "Person",
+                "name": "Alida Högberg"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Julia Göransson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Kristinehamns praktiska skola",
+                "startDate": "1921"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Tekniska gymnasiet i Örebro",
+                "startDate": "1922",
+                "endDate": "1925"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "Laxå Bridge and Machine Works",
+                "startDate": "1916",
+                "endDate": "1921",
+                "position": "Employee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sandvikens Jernvks AB",
+                "department": "Construction",
+                "startDate": "1925",
+                "endDate": "1929",
+                "position": "Employee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sandvikens Jernvks AB",
+                "department": "Manufacturing",
+                "startDate": "1929",
+                "endDate": "1932",
+                "position": "Factory Manager"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Sv Råkklinga",
+                "location": "Gävle",
+                "startDate": "1932",
+                "endDate": "1936",
+                "position": "Factory Manager"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sandvikens Jernvks AB",
+                "department": "Delivery Contract",
+                "startDate": "1936",
+                "endDate": "1941",
+                "position": "Assistant Manager"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sandvikens Jernvks AB",
+                "department": "Hard Metal",
+                "startDate": "1942",
+                "position": "Head"
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "Trip",
+                "name": "England",
+                "startDate": "1931"
+            },
+            {
+                "@type": "Trip",
+                "name": "Germany",
+                "startDate": "1934"
+            },
+            {
+                "@type": "Trip",
+                "name": "Germany",
+                "startDate": "1936"
+            },
+            {
+                "@type": "Trip",
+                "name": "Denmark",
+                "startDate": "1938"
+            },
+            {
+                "@type": "Trip",
+                "name": "Finland",
+                "startDate": "1939"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Laxå Bridge and Machine Works",
+                "industry": "Mechanical Engineering",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Construction Department Employee",
+                "workplace": "Sandvikens Jernvks AB",
+                "industry": "Manufacturing",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Manufacturing Department Employee",
+                "workplace": "Sandvikens Jernvks AB",
+                "industry": "Manufacturing",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Factory Manager",
+                "workplace": "AB Sv Råkklinga",
+                "industry": "Manufacturing",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Assistant Manager of Delivery Contract Department",
+                "workplace": "Sandvikens Jernvks AB",
+                "industry": "Manufacturing",
+                "start_date": "1936"
+            },
+            {
+                "occupational_title": "Head of Hard Metal Department",
+                "workplace": "Sandvikens Jernvks AB",
+                "industry": "Manufacturing",
+                "start_date": "1942"
+            }
+        ]
+    }
+}

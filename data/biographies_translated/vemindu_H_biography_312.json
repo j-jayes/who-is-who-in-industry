@@ -1,0 +1,269 @@
+{
+    "original": "HISING, Karl Ivar, Direktör, Stockholm, f Kung Karls s:n, Västml, 23/8 89 av källarm L H o Louise Hagström, gm Sonja Schyller. Studex Falun 08, utex Skogsinst h kurs 12. Tjg skogslärpv, SkogsHS o stat skogsförs.anst 13—15, överjägm.ass 16—17, skogch.ass Vargö-konc 18—19, skogsexp h Sv emiss.AB 20—21, skogs- o träv.exp h Sv hdlsbkn 22—32, vkst dir Kramfors o Strömnäskonc 33—40, dir Lennakonc sed. 40, konk.förv i Yttersfors-Munksunds kk. Led V.norrl prövn.nmd 39, sakk luftsk.insp 40—41, suppl Riksluftsk.frbs arb.utsk sed. 41, ekon.utsk sed. 42. Styr.ordf AB Dalasågen, styr.led Barkens sågv.AB, Insjöns sågv.AB, Lenna br AB, AB Sv trähus sed. 40, led Sv träv.exp.frn :s centr.styr 33—40, fd styr.led i fi föret. Resor: De fi europ länd 12—39. Av trycket: Upps i tekn mfl fråg i facktidskr o dagl tidn. RVO, Riksl.sk.frbs ftjt g, Finska befolkn.skyd :s ftJM s, TMO o S:t Örjans gille. Hobbies: Jakt, fiske, idrott, Skytte.",
+    "translated": "HISING, Karl Ivar, Director, Stockholm, born in Kung Karl's parish, Västmanland, on August 23, 1889, to parents Lars Henrik and Louise Hagström. Married to Sonja Schyller. Studied in Falun until 1908 and completed forestry courses at Skogsinst in 1912. Served as a forestry apprentice at SkogsHS and state forestry research institute from 1913 to 1915, as an assistant forest manager from 1916 to 1917, as a forest chief assistant at Vargö-koncernen from 1918 to 1919, as a forest expert at Sv emiss.AB from 1920 to 1921, as a forestry and timber expert at Sv hdlsbkn from 1922 to 1932, as a cultivation director at Kramfors and Strömnäs koncernen from 1933 to 1940, as a director at Lennakoncernen since 1940, and as a liquidator in Yttersfors-Munksunds parish. Member of the northern Swedish examination board since 1939, expert air traffic inspector from 1940 to 1941, substitute in the National Air Force Reserve's work committee since 1941, and in the economic committee since 1942. Chairman of the board for AB Dalasågen and board member of Barkens sågv.AB, Insjöns sågv.AB, Lenna br AB, AB Sv trähus since 1940, and former board member of several foreign companies. Traveled extensively in several European countries from 1912 to 1939. Published articles on technical and other subjects in professional journals and daily newspapers. Awarded with RVO, Riksluftskole's gold medal, the Finnish population protection's gold medal, TMO's medal, and membership in S:t Örjans gille. Hobbies include hunting, fishing, sports, and shooting. \n\nNote: The abbreviation '\\d\\d m. partners name' indicates that the person got married in the year 19xx.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Karl Ivar Hising",
+        "jobTitle": "Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "birthDate": "1889-08-23",
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Kung Karl's parish, Västmanland"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Lars Henrik Hising"
+            },
+            {
+                "@type": "Person",
+                "name": "Louise Hagström"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Sonja Schyller",
+            "marriageDate": "19xx"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Studex",
+                "alumniOf": {
+                    "@type": "Organization",
+                    "name": "Falun"
+                },
+                "educationalLevel": "Graduate"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "utex",
+                "alumniOf": {
+                    "@type": "Organization",
+                    "name": "Skogsinst"
+                },
+                "educationalLevel": "Forestry courses",
+                "endDate": "1912"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1913",
+                "endDate": "1915",
+                "roleName": "Forestry Apprentice",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "SkogsHS and State Forestry Research Institute"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1916",
+                "endDate": "1917",
+                "roleName": "Assistant Forest Manager"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1918",
+                "endDate": "1919",
+                "roleName": "Forest Chief Assistant",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Vargö-koncernen"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1920",
+                "endDate": "1921",
+                "roleName": "Forest Expert",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Sv emiss.AB"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1922",
+                "endDate": "1932",
+                "roleName": "Forestry and Timber Expert",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Sv hdlsbkn"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1933",
+                "endDate": "1940",
+                "roleName": "Cultivation Director",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Kramfors and Strömnäs koncernen"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1940",
+                "roleName": "Director",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Lennakoncernen"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Liquidator",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Yttersfors-Munksunds parish"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Northern Swedish Examination Board",
+                "startDate": "1939"
+            },
+            {
+                "@type": "Organization",
+                "name": "National Air Force Reserve's Work Committee",
+                "roleName": "Substitute",
+                "startDate": "1941"
+            },
+            {
+                "@type": "Organization",
+                "name": "Economic Committee",
+                "roleName": "Substitute",
+                "startDate": "1942"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Dalasågen",
+                "roleName": "Chairman of the Board"
+            },
+            {
+                "@type": "Organization",
+                "name": "Barkens sågv.AB",
+                "roleName": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Insjöns sågv.AB",
+                "roleName": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Lenna br AB",
+                "roleName": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Sv trähus",
+                "roleName": "Board Member",
+                "startDate": "1940"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sv träv.exp.från :s centr.styr",
+                "roleName": "Board Member",
+                "startDate": "1933",
+                "endDate": "1940"
+            },
+            {
+                "@type": "Organization",
+                "name": "Former Board Member",
+                "startDate": "33",
+                "endDate": "40"
+            }
+        ],
+        "awards": [
+            {
+                "@type": "Order",
+                "name": "RVO"
+            },
+            {
+                "@type": "Medal",
+                "name": "Riksluftskole's Gold Medal"
+            },
+            {
+                "@type": "Medal",
+                "name": "Finnish Population Protection's Gold Medal"
+            },
+            {
+                "@type": "Medal",
+                "name": "TMO's Medal"
+            },
+            {
+                "@type": "Membership",
+                "name": "S:t Örjans Gille"
+            }
+        ],
+        "hobbies": [
+            "Hunting",
+            "Fishing",
+            "Sports",
+            "Shooting"
+        ],
+        "additionalName": "Ivar"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Forestry Apprentice",
+                "workplace": "SkogsHS and State Forestry Research Institute",
+                "industry": "Forestry",
+                "start_date": "1913"
+            },
+            {
+                "occupational_title": "Assistant Forest Manager",
+                "workplace": "Vargö-koncernen",
+                "industry": "Forestry",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Forest Chief Assistant",
+                "workplace": "Vargö-koncernen",
+                "industry": "Forestry",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Forest Expert",
+                "workplace": "Sv emiss.AB",
+                "industry": "Forestry",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Forestry and Timber Expert",
+                "workplace": "Sv hdlsbkn",
+                "industry": "Forestry",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Cultivation Director",
+                "workplace": "Kramfors and Strömnäs koncernen",
+                "industry": "Forestry",
+                "start_date": "1933"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Lennakoncernen",
+                "industry": "Forestry",
+                "start_date": "1940"
+            },
+            {
+                "occupational_title": "Liquidator",
+                "workplace": "Yttersfors-Munksunds parish",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

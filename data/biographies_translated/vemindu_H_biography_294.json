@@ -1,0 +1,93 @@
+{
+    "original": "HISSSUS, Birger Pontus, Bergsingenjör, Hofors, f Sthlm 2/7 09 av art.dir o kapt N B H o Ingeborg Svinhufvud, gm Ingrid Sandgren. Studex Jönkp 28, KTH (bergsvetensk) 28—34. l:e ass å lab f järnets bearb o be-handl KTH 34—35, anst v SKF, Hofors Bruk, sed. 35. Ch f Stat bränslekommiss :s byrå f ersättn.bränslen 42—43. Led Sv Tekn.frn.",
+    "translated": "HISSSUS, Birger Pontus, Mining Engineer, Hofors, born in Stockholm on 2nd July 1909, son of Artillery Director and Captain N.B.H and Ingeborg Svinhufvud, married to Ingrid Sandgren. Completed high school in Jönköping in 1928, attended the Royal Institute of Technology (majoring in Mining Engineering) from 1928 to 1934. First assistant at the laboratory for iron processing and handling at the Royal Institute of Technology from 1934 to 1935, employed by SKF (a Swedish engineering company) and the Hofors Steel Mill since 1935. Chief at the Fuel Compensation Bureau of the National Fuel Commission from 1942 to 1943. Member of the Swedish Society of Technicians.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Birger Pontus Hisssus",
+        "givenName": "Birger Pontus",
+        "familyName": "Hisssus",
+        "birthDate": "1909-07-02",
+        "birthPlace": "Stockholm",
+        "nationality": "Swedish",
+        "occupation": "Mining Engineer",
+        "description": "Birger Pontus Hisssus was a Swedish mining engineer.",
+        "spouse": {
+            "@type": "Person",
+            "name": "Ingrid Sandgren"
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "N.B.H",
+                "jobTitle": "Artillery Director"
+            },
+            {
+                "@type": "Person",
+                "name": "Ingeborg Svinhufvud",
+                "jobTitle": "Captain"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Jönköping High School",
+                "location": "Jönköping",
+                "endDate": "1928"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Royal Institute of Technology",
+                "location": "Stockholm",
+                "major": "Mining Engineering",
+                "startDate": "1928",
+                "endDate": "1934"
+            }
+        ],
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "SKF",
+                "startDate": "1935"
+            },
+            {
+                "@type": "Organization",
+                "name": "Hofors Steel Mill",
+                "startDate": "1935"
+            },
+            {
+                "@type": "Organization",
+                "name": "Fuel Compensation Bureau",
+                "department": "National Fuel Commission",
+                "startDate": "1942",
+                "endDate": "1943"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Swedish Society of Technicians"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Mining Engineer",
+                "workplace": "Hofors",
+                "industry": "Mining",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "First Assistant",
+                "workplace": "Royal Institute of Technology",
+                "industry": "Education",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Chief",
+                "workplace": "Fuel Compensation Bureau",
+                "industry": "Government",
+                "start_date": "1942"
+            }
+        ]
+    }
+}

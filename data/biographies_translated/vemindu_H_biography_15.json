@@ -1,0 +1,73 @@
+{
+    "original": "HAGGÅRD, Lars Olof, Civilekonom, Stockholm, f Torsebro 22/10 08 av major E V H o Carin von Oelreich, gm Barbro Lindahl. Studex, DHG. Anst Sala Maskinfabr 34—35, nu avd.chef h Tornberg &amp; Lundberg AB Sthlm. Resa: Engl 33. Frimurare, Par Bricole.",
+    "translated": "HAGGÅRD, Lars Olof, Economics graduate, Stockholm, born in Torsebro on October 22nd, 1908, to Major E.V.H and Carin von Oelreich. Married to Barbro Lindahl. Studied at the Stockholm School of Economics. Employed at Sala Maskinfabrik from 1934 to 1935, currently serving as department manager at Tornberg & Lundberg AB in Stockholm. Traveled to England in 1933. Freemason, Part of Bricole Lodge.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Lars Olof Haggård",
+        "jobTitle": "Economics Graduate",
+        "birthDate": "1908-10-22",
+        "birthPlace": "Torsebro",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "E.V.H",
+                "jobTitle": "Major"
+            },
+            {
+                "@type": "Person",
+                "name": "Carin von Oelreich"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Barbro Lindahl"
+        },
+        "alumniOf": {
+            "@type": "EducationalOrganization",
+            "name": "Stockholm School of Economics"
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Tornberg &amp; Lundberg AB",
+            "department": "Department Manager"
+        },
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "Sala Maskinfabrik",
+                "startDate": "1934",
+                "endDate": "1935"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Bricole Lodge",
+            "legalName": "Par Bricole"
+        },
+        "nationality": "Swedish",
+        "description": "Freemason"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Economics graduate",
+                "workplace": "Stockholm",
+                "industry": "Education",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Employed at Sala Maskinfabrik",
+                "workplace": "Sala Maskinfabrik",
+                "industry": "Manufacturing",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Department Manager",
+                "workplace": "Tornberg & Lundberg AB",
+                "industry": "Manufacturing",
+                "start_date": null
+            }
+        ]
+    }
+}

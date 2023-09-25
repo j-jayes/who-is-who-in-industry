@@ -1,0 +1,95 @@
+{
+    "original": "HAUSL,, Frans, Direktör, Långedrag, f Sthlm 22/4 02, av bildhugg F H o h h, gm Greta Forsell. Fil mag, musikstud v musik-konservat i Sthlm. Dir.ass Sandrewkonc Sthlm 36—41, vkst dir o styr.suppl fastigh.AB Orion i Gbg som ag av fi fastigh o 5 biogr där (bl a Palladium). Filosof o konsthist stud Österr o Tyskl 21—26. Hobbies: Film, musik.",
+    "translated": "HAUSL,, Frans, Director, Långedrag, b. Sthlm (Stockholm) 22/4 02, son of sculptor F.H. and h.w. (housewife), married to Greta Forsell. Holds a Master's degree in Philosophy, studied music at the music conservatory in Sthlm. Assistant director at Sandrew Concerts Sthlm 36-41, director and board member at real estate company AB Orion in Gbg (Gothenburg) owned by five properties and 5 cinemas (including Palladium). Studied philosophy and art history in Austria and Germany from 21-26. Hobbies: Film, music.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Frans Hausl",
+        "birthDate": "1902-04-22",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Stockholm"
+        },
+        "father": {
+            "@type": "Person",
+            "name": "F.H.",
+            "occupation": "Sculptor"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Housewife"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Greta Forsell"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Master's degree",
+            "educationalLevel": "Filosof",
+            "postName": "Magister"
+        },
+        "alumniOf": [
+            {
+                "@type": "CollegeOrUniversity",
+                "name": "Music Conservatory",
+                "location": "Stockholm"
+            },
+            {
+                "@type": "CollegeOrUniversity",
+                "name": "University of Austria"
+            },
+            {
+                "@type": "CollegeOrUniversity",
+                "name": "University of Germany"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Sandrew Concerts",
+                "title": "Assistant Director",
+                "startDate": "1936",
+                "endDate": "1941",
+                "location": "Stockholm"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Orion",
+                "title": "Director and Board Member",
+                "startDate": "1936",
+                "location": "Gothenburg"
+            }
+        ],
+        "owns": {
+            "@type": "RealEstateAgent",
+            "properties": [
+                {
+                    "@type": "RealEstateProperty",
+                    "name": "AB Orion",
+                    "numberOfElevators": 5
+                }
+            ]
+        },
+        "hobbies": [
+            "Film",
+            "Music"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Assistant director at Sandrew Concerts",
+                "workplace": "Sthlm (Stockholm)",
+                "industry": "Entertainment",
+                "start_date": "1936"
+            },
+            {
+                "occupational_title": "Director and board member at AB Orion",
+                "workplace": "Gbg (Gothenburg)",
+                "industry": "Real estate and cinema",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

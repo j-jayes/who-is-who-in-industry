@@ -1,0 +1,111 @@
+{
+    "original": "HANSEN, Vigo, Ingenjör, Stockholm* f Ånimskog, Älvsb l, 21/10 78 av baning V H o Jenny Norrbom, gm Josephina Hartemink. Ex tekn elem.sk Örebro 99, Techn Hochschule Berlin-Charlottenburg. Ing v Heilborns elektr byrå Sthlm 99—02, v General Electric Co Schenectady NY USA 02—05, v New York Edi-son Co 05—10, v Siemens-Schuckert Werke Berlin 10—11, v ASEA 11—12, v STAL Finspång 13—16 o v AB Ljungströms Ångturbin Sthlm sed. 16. Ag stadsäg 1191—95 i Lidingö. Led Sv Tekn.frn, American Soc of Sw Engi-neers, American Soc of El Engineers, KSSS. Resor: Jorden runt 02—39. Av trycket: Upps betr turbiner o turbindrivna lokomotiv. Frimurare. Hobby: Segling.",
+    "translated": "HANSEN, Vigo, Engineer, Stockholm* b Ånimskog, Älvsborg county, 21/10 1878, son of railway worker V H and Jenny Norrbom, married to Josephina Hartemink. Formerly employed by Örebro Technical School 1899, Technical University of Berlin-Charlottenburg. Engineer for Heilborn's electrical agency in Stockholm 1899-1902, General Electric Co in Schenectady, NY, USA 1902-1905, New York Edison Co 1905-1910, Siemens-Schuckert Werke in Berlin 1910-1911, ASEA 1911-1912, STAL in Finspång 1913-1916 and AB Ljungströms Steam Turbine in Stockholm since 1916. City council member in Lidingö from 1919 to 1923. Member of the Swedish Association of Engineers, American Society of Swedish Engineers, American Society of Electrical Engineers, KSSS (Royal Swedish Yacht Club). Traveled around the world from 1902 to 1939. Published works on turbines and turbine-powered locomotives. Freemason. Hobbies include sailing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Vigo Hansen",
+        "jobTitle": "City Council Member",
+        "birthPlace": "Ånimskog, Älvsborg County, Sweden",
+        "birthDate": "1878-10-21",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "V H Hansen",
+                "jobTitle": "Railway Worker"
+            },
+            {
+                "@type": "Person",
+                "name": "Jenny Norrbom"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Josephina Hartemink"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Örebro Technical School",
+                "endDate": "1899"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Technical University of Berlin-Charlottenburg"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Lidingö",
+                "startDate": "1919",
+                "endDate": "1923"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Segling"
+            }
+        ],
+        "travel": {
+            "@type": "Event",
+            "name": "World Travels",
+            "startDate": "1902",
+            "endDate": "1939"
+        },
+        "publication": [
+            {
+                "@type": "PublicationEvent",
+                "name": "Upps betr turbiner o turbindrivna lokomotiv"
+            }
+        ],
+        "additionalName": "Vigo Hansen"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Heilborn's electrical agency",
+                "industry": "Electrical",
+                "start_date": "1899"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "General Electric Co",
+                "industry": "Electrical",
+                "start_date": "1902"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "New York Edison Co",
+                "industry": "Electrical",
+                "start_date": "1905"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Siemens-Schuckert Werke",
+                "industry": "Electrical",
+                "start_date": "1910"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "ASEA",
+                "industry": "Electrical",
+                "start_date": "1911"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "STAL Finspång",
+                "industry": "Engineering",
+                "start_date": "1913"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "AB Ljungströms Ångturbin",
+                "industry": "Engineering",
+                "start_date": "1916"
+            }
+        ]
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "original": "HANSSON, Alfred William, Varvsingenjör, Enskede, f Sthlm 9/12 90 av verkmäst H H o Johanna Hansson, gm Siri Persson. Realex 07, ex tekn sk:s i Sthlm maskinyrkessk n. Rit v Finnboda varv 11—16, ing v Sthlms Red.AB Sveas insp 17—18, varvsing v S:a Varvet Sthlm 18—30, v Hammarbyvarvet Sthlm 30—43, varvsing v Sthlms Ångslups AB sed. 43. Led Sv Tekn.frn.",
+    "translated": "HANSSON, Alfred William, Shipyard Engineer, Enskede, b Stockholm on 9th December 1890, son of foreman H H and Johanna Hansson, married to Siri Persson. Completed Realex (secondary school) in 1907, former student of technical schools in Stockholm as a machinist. Draftsman at Finnboda Shipyard from 1911 to 1916, engineer at Stockholm Rederi AB Svea from 1917 to 1918, shipyard engineer at South Yard Stockholm from 1918 to 1930, at Hammarby Shipyard Stockholm from 1930 to 1943, shipyard engineer at Stockholm Steamship Company since 1943. Member of the Swedish Technical Association.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Alfred William Hansson",
+        "birthDate": "1890-12-09",
+        "birthPlace": "Stockholm",
+        "description": "Shipyard Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Enskede"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "H H Hansson",
+                "description": "Foreman"
+            },
+            {
+                "@type": "Person",
+                "name": "Johanna Hansson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Siri Persson"
+        },
+        "education": [
+            {
+                "@type": "EducationEvent",
+                "description": "Realex (Secondary School)",
+                "startDate": "1907"
+            },
+            {
+                "@type": "EducationEvent",
+                "description": "Technical schools in Stockholm as a machinist"
+            }
+        ],
+        "occupation": [
+            {
+                "@type": "Organization",
+                "description": "Finnboda Shipyard",
+                "name": "Draftsman",
+                "startDate": "1911",
+                "endDate": "1916"
+            },
+            {
+                "@type": "Organization",
+                "description": "Stockholm Rederi AB Svea",
+                "name": "Engineer",
+                "startDate": "1917",
+                "endDate": "1918"
+            },
+            {
+                "@type": "Organization",
+                "description": "South Yard Stockholm",
+                "name": "Shipyard Engineer",
+                "startDate": "1918",
+                "endDate": "1930"
+            },
+            {
+                "@type": "Organization",
+                "description": "Hammarby Shipyard Stockholm",
+                "name": "Shipyard Engineer",
+                "startDate": "1930",
+                "endDate": "1943"
+            },
+            {
+                "@type": "Organization",
+                "description": "Stockholm Steamship Company",
+                "name": "Shipyard Engineer",
+                "startDate": "1943"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Swedish Technical Association"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Shipyard Engineer",
+                "workplace": "Finnboda Shipyard",
+                "industry": "Shipbuilding",
+                "start_date": "1911"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Stockholm Rederi AB Svea",
+                "industry": "Maritime",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Shipyard Engineer",
+                "workplace": "South Yard Stockholm",
+                "industry": "Shipbuilding",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Shipyard Engineer",
+                "workplace": "Hammarby Shipyard Stockholm",
+                "industry": "Shipbuilding",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Shipyard Engineer",
+                "workplace": "Stockholm Steamship Company",
+                "industry": "Maritime",
+                "start_date": "1943"
+            }
+        ]
+    }
+}

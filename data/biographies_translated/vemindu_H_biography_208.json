@@ -1,0 +1,107 @@
+{
+    "original": "HEISS, Franz, Disponent, Stockholm, f Sthlm 4/2 67. Intr i brygg.ind 84, Brauakade-mie Weihenstephan 87—88. Underbryggmäst v Hamburgerbrygg Sthlm 88, bryggm 89, disp där sed. 00. Styr.led i AB Sthlms Bryggerier 00. Hed.led av Svenska, Danska o Norska Brygg.föreningarna.",
+    "translated": "HEISS, Franz, Manager, Stockholm, b. Stockholm 4/2 67. Entered the brewing industry in 84, Brewery Academy Weihenstephan 87-88. Assistant Brewer at Hamburgerbrygg Stockholm in 88, Brewer in 89, Manager since 00. Board member of AB Sthlms Bryggerier since 00. Honorary member of the Swedish, Danish and Norwegian Brewers Associations.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Franz Heiss",
+        "birthDate": "1867-02-04",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Stockholm"
+        },
+        "description": "Manager at Stockholm",
+        "memberOf": {
+            "@type": "Organization",
+            "name": "AB Sthlms Bryggerier"
+        },
+        "boardMember": [
+            {
+                "@type": "Organization",
+                "name": "AB Sthlms Bryggerier",
+                "startDate": "2000"
+            }
+        ],
+        "honoraryMemberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Brewers Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Danish Brewers Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Norwegian Brewers Association"
+            }
+        ],
+        "workExperience": [
+            {
+                "@type": "JobPosting",
+                "title": "Assistant Brewer",
+                "startDate": "1888",
+                "endDate": "1889",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Hamburgerbrygg Stockholm"
+                }
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Brewer",
+                "startDate": "1889",
+                "endDate": "1900",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Hamburgerbrygg Stockholm"
+                }
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Manager",
+                "startDate": "1900",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Hamburgerbrygg Stockholm"
+                }
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Brewery Academy Weihenstephan",
+                "startDate": "1887",
+                "endDate": "1888"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Disponent",
+                "workplace": "Stockholm",
+                "industry": "N/A",
+                "start_date": "N/A"
+            },
+            {
+                "occupational_title": "Underbryggmäst",
+                "workplace": "Hamburgerbrygg Sthlm",
+                "industry": "Brewing",
+                "start_date": "1888"
+            },
+            {
+                "occupational_title": "Bryggm",
+                "workplace": "Hamburgerbrygg Sthlm",
+                "industry": "Brewing",
+                "start_date": "1889"
+            },
+            {
+                "occupational_title": "Disponent",
+                "workplace": "Hamburgerbrygg Sthlm",
+                "industry": "Brewing",
+                "start_date": "1900"
+            }
+        ]
+    }
+}

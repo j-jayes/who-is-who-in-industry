@@ -1,0 +1,219 @@
+{
+    "original": "GRENSTADIUS, Gustaf (Gösta), Disponent, Mariestad, f Knutby, Sthlms l, 11/10 96 av lantbr G T Carlsson o Erika Johansson, gm Margareta Johansson. Studex Upps 14, civ.ing KTH (eltekn) 18. Distr.ing Älvkarleby Kraft -vks distr.kont Sthlm 19—20, distr.ass där 20— 28, ing Sthlms Elvk 28—35, l :e ing där 35—39, ch.ing Sthlms Gas- o Elvk 39—43, disp Kraft AB Gullspång—Munkfors sed. 43, styr.suppl där. Styr.suppl Örebro El AB o Gullspångs Elkem AB. Resor: Tyskl 29, 31, 35, Schweiz 31, Ung mfl länd 37, Finl 41 mfl. Led Sv Tekn.frn.",
+    "translated": "GRENSTADIUS, Gustaf (Gösta), Manager, Mariestad, born in Knutby, Stockholm county, on 11/10 1896, son of farmer G T Carlsson and Erika Johansson, married to Margareta Johansson. Completed high school in Uppsala in 1914, graduated from the Royal Institute of Technology (electrical engineering) in 1918. Worked as a district engineer at Älvkarleby Kraft's district office in Stockholm from 1919 to 1920, district assistant from 1920 to 1928, engineer at Sthlms Elvk from 1928 to 1935, senior engineer there from 1935 to 1939, chief engineer at Stockholm Gas and Elvk from 1939 to 1943, manager of Kraft AB Gullspång—Munkfors since 1943, and board member at the same company. Also served as a board member at Örebro El AB and Gullspångs Elkem AB. Traveled to Germany in 1929, 1931, and 1935, Switzerland in 1931, various countries including Hungary in 1937, Finland in 1941, among others. Member of the Swedish Institute of Technology Fraternity.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Gustaf Grenstadius",
+        "alternateName": "Gösta",
+        "jobTitle": "Manager",
+        "birthDate": "1896-10-11",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Knutby",
+                "addressRegion": "Stockholm county"
+            }
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "G T Carlsson",
+                "jobTitle": "Farmer"
+            },
+            {
+                "@type": "Person",
+                "name": "Erika Johansson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Margareta Johansson"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "High school diploma",
+            "educationalLevel": "Studex Upps 14"
+        },
+        "alumniOf": {
+            "@type": "CollegeOrUniversity",
+            "name": "Royal Institute of Technology",
+            "location": {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm"
+                }
+            },
+            "startDate": "1918",
+            "endDate": "1918"
+        },
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Swedish Institute of Technology Fraternity"
+        },
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "Älvkarleby Kraft",
+                "department": "District office in Stockholm",
+                "startDate": "1919",
+                "endDate": "1920",
+                "jobTitle": "District Engineer"
+            },
+            {
+                "@type": "Organization",
+                "name": "Älvkarleby Kraft",
+                "department": "District office in Stockholm",
+                "startDate": "1920",
+                "endDate": "1928",
+                "jobTitle": "District Assistant"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sthlms Elvk",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm"
+                    }
+                },
+                "startDate": "1928",
+                "endDate": "1935",
+                "jobTitle": "Engineer"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sthlms Elvk",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm"
+                    }
+                },
+                "startDate": "1935",
+                "endDate": "1939",
+                "jobTitle": "Senior Engineer"
+            },
+            {
+                "@type": "Organization",
+                "name": "Stockholm Gas and Elvk",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm"
+                    }
+                },
+                "startDate": "1939",
+                "endDate": "1943",
+                "jobTitle": "Chief Engineer"
+            },
+            {
+                "@type": "Organization",
+                "name": "Kraft AB Gullspång—Munkfors",
+                "startDate": "1943",
+                "jobTitle": "Manager"
+            }
+        ],
+        "boardMembership": [
+            {
+                "@type": "Organization",
+                "name": "Kraft AB Gullspång—Munkfors"
+            },
+            {
+                "@type": "Organization",
+                "name": "Örebro El AB"
+            },
+            {
+                "@type": "Organization",
+                "name": "Gullspångs Elkem AB"
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "Country",
+                "name": "Germany",
+                "startDate": "1929",
+                "endDate": "1929"
+            },
+            {
+                "@type": "Country",
+                "name": "Germany",
+                "startDate": "1931",
+                "endDate": "1931"
+            },
+            {
+                "@type": "Country",
+                "name": "Germany",
+                "startDate": "1935",
+                "endDate": "1935"
+            },
+            {
+                "@type": "Country",
+                "name": "Switzerland",
+                "startDate": "1931",
+                "endDate": "1931"
+            },
+            {
+                "@type": "Country",
+                "name": "Hungary"
+            },
+            {
+                "@type": "Country",
+                "name": "Finland",
+                "startDate": "1941",
+                "endDate": "1941"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Disponent",
+                "workplace": "Mariestad",
+                "industry": "",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Distr.ing Älvkarleby Kraft",
+                "workplace": "Stockholm",
+                "industry": "Electricity",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Distr.ass",
+                "workplace": "Stockholm",
+                "industry": "Electricity",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Ing Sthlms Elvk",
+                "workplace": "Stockholm",
+                "industry": "Electricity",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "L :e ing",
+                "workplace": "Sthlms Elvk",
+                "industry": "Electricity",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Ch.ing Sthlms Gas- o Elvk",
+                "workplace": "Stockholm",
+                "industry": "Gas and Electricity",
+                "start_date": "1939"
+            },
+            {
+                "occupational_title": "Disp Kraft AB Gullspång—Munkfors",
+                "workplace": "",
+                "industry": "Energy",
+                "start_date": "1943"
+            }
+        ]
+    }
+}

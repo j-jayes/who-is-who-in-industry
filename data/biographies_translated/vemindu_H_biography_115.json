@@ -1,0 +1,178 @@
+{
+    "original": "HANSEN, Gustav Conrad, Disponent, Djupadal, f Oslo 27/7 98 av disp R H o Henriette Fabricius, gm Karin Edensvärd. Studex Krist 18, Kavalleriskolan Eksjö 18—19, hdls-utbildn Gbg 19, hdls- o språkstud Engl 20. Anst i fma Outre-Mer-Frangais Paris 21—22, chefsass i ag.fma Henry Gabrielson Hmbg 23, anst h Åmotfors Pappersbruks AB sed. 24, försäljn.ch f Åmotfors Pappersbr AB, Bäck-hammars AB o Kohlsäters AB 35—38, nu disp v Djupafors Fabr AB i Djupadal. Aff.resor t Danm, Tyskl, Holl, Belg, Engl. Hobbies: Sportfiske, filateli.",
+    "translated": "HANSEN, Gustav Conrad, Manager, Djupadal, born in Oslo on July 27, 1898, son of R H Hansen and Henriette Fabricius, married to Karin Edensvärd. Graduated from Kristiania University in 1918, Cavalry School in Eksjö from 1918 to 1919, commercial education in Gothenburg in 1919, commercial and language studies in England in 1920. Employed in the company Outre-Mer-Frangais in Paris from 1921 to 1922, assistant manager in the company Henry Gabrielson in Hamburg in 1923, employed at Åmotfors Pappersbruks AB since 1924, sales manager of Åmotfors Pappersbr AB, Bäck-hammars AB, and Kohlsäters AB from 1935 to 1938, currently manager at Djupafors Fabr AB in Djupadal. Business trips to Denmark, Germany, Netherlands, Belgium, and England. Hobbies: Sport fishing, philately.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Gustav Conrad Hansen",
+        "jobTitle": "Manager",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Djupadal"
+        },
+        "birthDate": "1898-07-27",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Oslo"
+            }
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "R H Hansen"
+            },
+            {
+                "@type": "Person",
+                "name": "Henriette Fabricius"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Karin Edensvärd"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "graduation",
+                "educationalLevel": "Bachelor's degree",
+                "educationalCredentialAwarded": "Studex Kristiania University",
+                "startDate": "1918",
+                "endDate": "1918"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "graduation",
+                "educationalCredentialAwarded": "Cavalry School Eksjö",
+                "startDate": "1918",
+                "endDate": "1919"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "graduation",
+                "educationalCredentialAwarded": "Commercial Education in Gothenburg",
+                "startDate": "1919",
+                "endDate": "1919"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "graduation",
+                "educationalCredentialAwarded": "Commercial and Language Studies in England",
+                "startDate": "1920",
+                "endDate": "1920"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "Outre-Mer-Frangais",
+                "jobTitle": "Employee",
+                "startDate": "1921",
+                "endDate": "1922"
+            },
+            {
+                "@type": "Organization",
+                "name": "Henry Gabrielson",
+                "jobTitle": "Assistant Manager",
+                "location": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Hamburg"
+                },
+                "startDate": "1923",
+                "endDate": "1923"
+            },
+            {
+                "@type": "Organization",
+                "name": "Åmotfors Pappersbruks AB",
+                "jobTitle": "Employee",
+                "startDate": "1924"
+            },
+            {
+                "@type": "Organization",
+                "name": "Åmotfors Pappersbr AB, Bäck-hammars AB, Kohlsäters AB",
+                "jobTitle": "Sales Manager",
+                "startDate": "1935",
+                "endDate": "1938"
+            },
+            {
+                "@type": "Organization",
+                "name": "Djupafors Fabr AB",
+                "jobTitle": "Manager",
+                "location": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Djupadal"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Intangible",
+                "name": "Business trips",
+                "description": "Business trips to Denmark, Germany, Netherlands, Belgium, and England"
+            }
+        ],
+        "sameAs": [
+            "https://www.example.com/gustav-conrad-hansen"
+        ],
+        "knowsLanguage": [
+            "English"
+        ],
+        "knowsAbout": [
+            "Sport fishing",
+            "Philately"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Manager",
+                "workplace": "Djupadal",
+                "industry": "",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Employee at Outre-Mer-Frangais",
+                "workplace": "Paris",
+                "industry": "",
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Assistant Manager at Henry Gabrielson",
+                "workplace": "Hamburg",
+                "industry": "",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Employee at Åmotfors Pappersbruks AB",
+                "workplace": "Åmotfors",
+                "industry": "",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Sales Manager at Åmotfors Pappersbr AB",
+                "workplace": "",
+                "industry": "",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Sales Manager at Bäck-hammars AB",
+                "workplace": "",
+                "industry": "",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Sales Manager at Kohlsäters AB",
+                "workplace": "",
+                "industry": "",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Manager at Djupafors Fabr AB",
+                "workplace": "Djupadal",
+                "industry": "",
+                "start_date": ""
+            }
+        ]
+    }
+}

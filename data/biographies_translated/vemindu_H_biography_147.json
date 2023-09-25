@@ -1,0 +1,115 @@
+{
+    "original": "HAUFFMAN, Bertil Adolf, Civilingenjör, London, f Sthlm 7/8 01 av lärov.adj A G H o Jenny Waller. Studex Sthlm 19, KTH (E) 20—24. Som Sv-Amer Stift :s stip anst v Thos A Edisons Lab i East Orange NJ USA 25—28, anst v Sv Elektricitetsverksfrn i Sthlm 28, ing v Swedish Western Electric Co AB där 29—35, vkst dir f Western Electric Co i Bombay 35, nu anst v Electrical Research Products Inc (c/o Western Electric Co Ltd) i London.",
+    "translated": "HAUFFMAN, Bertil Adolf, Civil engineer, London, born in Stockholm on 7/8 01, son of the teacher A G H and Jenny Waller. Graduated from Stockholm in 1919, KTH (E) 1920-1924. As a recipient of the Swedish American Foundation's scholarship, he worked at Thos A Edison's Lab in East Orange NJ USA from 1925-1928, employed by the Swedish Electricity Company in Stockholm in 1928, engineer at Swedish Western Electric Co AB from 1929-1935, assistant director at Western Electric Co in Bombay in 1935, currently employed at Electrical Research Products Inc (c/o Western Electric Co Ltd) in London.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Bertil Adolf Hauffman",
+        "jobTitle": "Civil Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "London"
+        },
+        "birthDate": "1901-08-07",
+        "birthPlace": "Stockholm",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "A G H Hauffman",
+                "jobTitle": "Teacher"
+            },
+            {
+                "@type": "Person",
+                "name": "Jenny Waller"
+            }
+        ],
+        "alumniOf": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Royal Institute of Technology"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Stockholm University"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Thomas Edison's Lab",
+                "location": "East Orange, NJ, USA",
+                "startDate": "1925-01-01",
+                "endDate": "1928-12-31"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Electricity Company",
+                "location": "Stockholm, Sweden",
+                "startDate": "1928-01-01"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Western Electric Co AB",
+                "location": "Stockholm, Sweden",
+                "startDate": "1929-01-01",
+                "endDate": "1935-12-31"
+            },
+            {
+                "@type": "Organization",
+                "name": "Western Electric Co",
+                "location": "Bombay, India",
+                "startDate": "1935-01-01",
+                "endDate": "1935-12-31"
+            },
+            {
+                "@type": "Organization",
+                "name": "Electrical Research Products Inc",
+                "location": "London, UK",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Western Electric Co Ltd"
+                }
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil engineer",
+                "workplace": "London",
+                "industry": "Engineering",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Recipient of Swedish American Foundation's scholarship",
+                "workplace": "Thos A Edison's Lab",
+                "industry": "Research",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Employee at Swedish Electricity Company",
+                "workplace": "Stockholm",
+                "industry": "Electricity",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Engineer at Swedish Western Electric Co AB",
+                "workplace": "Unknown",
+                "industry": "Electronics",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Assistant Director at Western Electric Co",
+                "workplace": "Bombay",
+                "industry": "Electronics",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Employee at Electrical Research Products Inc",
+                "workplace": "London",
+                "industry": "Electronics",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

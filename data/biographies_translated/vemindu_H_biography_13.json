@@ -1,0 +1,85 @@
+{
+    "original": "HAGELIN, Boris Cæsar Wilhelm, Direktör, Civilingenjör, Stockholm, f Hadschikent, Aserbeidjan, 2/7 92 av gen.konsul K W H o Hilda Kinander, gm Annie Barth. Studex 10, ex KTH 14. Anst v ASEA 15—20, Standard Oil Co of N J i New York 21, eg uppfinn- o ind.verksamh, vkst dir t 42 samt huvudintress i AB Cryptoteknik i Sthlm. RVO, RFrHL. Hobbies: Musik, motorsport.",
+    "translated": "HAGELIN, Boris Caesar Wilhelm, Director, Civil Engineer, Stockholm, born in Hadschikent, Azerbaijan, on July 2nd, 1892, son of Honorary Consul General K W H and Hilda Kinander, married to Annie Barth. Studied at high school level in 1910, and graduated from the Royal Institute of Technology in 1914. Employed at ASEA from 1915 to 1920, Standard Oil Co of NJ in New York in 1921, and worked in the field of inventions and industrial operations, becoming Managing Director in 1942, with a main interest in AB Cryptoteknik in Stockholm. Awarded Royal Order of Vasa (RVO) and Royal Swedish Academy of Sciences' king's medal (RFrHL). Hobbies: Music, motorsport.\n\nNote: The abbreviation 'gm' means 'married'.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Boris Caesar Wilhelm Hagelin",
+        "birthDate": "1892-07-02",
+        "birthPlace": "Hadschikent, Azerbaijan",
+        "description": "Director, Civil Engineer, Stockholm",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "K. W. H.",
+                "honorificSuffix": "Honorary Consul General"
+            },
+            {
+                "@type": "Person",
+                "name": "Hilda Kinander"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Annie Barth"
+        },
+        "alumniOf": {
+            "@type": "Organization",
+            "name": "Royal Institute of Technology",
+            "foundingDate": "1914"
+        },
+        "employer": [
+            {
+                "@type": "Organization",
+                "name": "ASEA",
+                "startDate": "1915",
+                "endDate": "1920"
+            },
+            {
+                "@type": "Organization",
+                "name": "Standard Oil Co of NJ",
+                "location": "New York",
+                "startDate": "1921"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Cryptoteknik",
+                "location": "Stockholm",
+                "startDate": "1942"
+            }
+        ],
+        "honorificSuffix": "RVO, RFrHL",
+        "hobbies": [
+            "Music",
+            "Motorsport"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Stockholm",
+                "industry": "Engineering/Construction",
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "ASEA",
+                "industry": "Engineering/Manufacturing",
+                "start_date": "1915"
+            },
+            {
+                "occupational_title": "Unknown",
+                "workplace": "Standard Oil Co of NJ",
+                "industry": "Oil and Gas",
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Director of Growth",
+                "workplace": "AB Cryptoteknik",
+                "industry": "Technology/Security",
+                "start_date": "1942"
+            }
+        ]
+    }
+}

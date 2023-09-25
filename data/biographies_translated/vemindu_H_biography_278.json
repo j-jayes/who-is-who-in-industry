@@ -1,0 +1,178 @@
+{
+    "original": "HERMANSSON, Carl Thure, Fabrikör, Stockholm, f Götlunda, öbr l, 13/9 81 av mjöln C J H o h h, gm Anna Thorsell. Folksk, tekn aft.skolor Sthlm. I mjölnarlära 3 år, anst å Sickelsjö gårds mejeri 3 år. Anst AB Wiklunds verkst 00, Fören Konstgjuterierna 04, AB Skyltställ 07. Gr eg fma, Th Hermansson Metallfabrik Sthlm 10. Ordf Pelarorden. Resor: Norge, Finl, Danm. Tillh KSSS, KMK, NeptO, PelO, S H—n. Borgare i Sthlm sed. 28, medl i Borgargillet o Htvksfrn. Hobbies: Trädgårdsodling, fiske o jakt. Fma Th Hermansson Metallfabrik Sthlm startades 10. Arb.styrkan, som fr början bestod av 2 man, uppgår nu normalt t 35 man. Specialitet: Automobilkylare, butiksinredn o fasader i metall o rostfritt. Leverantör bl a till armén, flottan, flyget, SJ, SS o fl omnibusbolag.",
+    "translated": "HERMANSSON, Carl Thure, Manufacturer, Stockholm, born in Götlunda, Örebro län, on September 13, 1881, to miller C.J.H and his wife Anna Thorsell. Completed elementary school and technical evening school in Stockholm. Completed a 3-year apprenticeship in milling, worked for 3 years at Sickelsjö Farm's dairy. Employed by AB Wiklunds verkstäder in 1900, Förenade Konstgjuterierna in 1904, and AB Skyltställ in 1907. Established his own company, Th Hermansson Metallfabrik in Stockholm in 1910. Chairman of the Order of the Pillar. Traveled to Norway, Finland, and Denmark. Member of the Royal Swedish Yacht Club, Royal Motorboat Club, Neptune Order, Order of the Pillar, and Svea-Helios Circle. Citizen of Stockholm since 1928, member of the Bourgeois Guild and Hotel and Restaurant Workers' Union. Hobbies include gardening, fishing, and hunting. Th Hermansson Metallfabrik in Stockholm, which was established in 1910, initially employed 2 people and now has a regular workforce of 35. Specializes in automobile radiators, metal and stainless steel store fixtures and facades. Supplier to the army, navy, air force, Swedish State Railways, Swedish Shipbuilding and other bus companies.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Thure Hermansson",
+        "jobTitle": "Manufacturer",
+        "birthDate": "1881-09-13",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Götlunda"
+        },
+        "nationality": "Swedish",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "parent": {
+            "@type": "Person",
+            "name": "C.J.H"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Anna Thorsell"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Folksk",
+                "schoolName": "Elementary School"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Tekn Aft.Skolor",
+                "schoolName": "Technical Evening School"
+            }
+        ],
+        "apprenticeship": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Mjölnarlära",
+            "duration": "P3Y"
+        },
+        "workExperience": [
+            {
+                "@type": "JobPosting",
+                "jobTitle": "Dairy Worker",
+                "startDate": "1800",
+                "endDate": "1803"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Wiklunds verkst",
+                "startDate": "1900"
+            },
+            {
+                "@type": "Organization",
+                "name": "Fören Konstgjuterierna",
+                "startDate": "1904"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Skyltställ",
+                "startDate": "1907"
+            },
+            {
+                "@type": "Organization",
+                "name": "Th Hermansson Metallfabrik",
+                "startDate": "1910",
+                "employee": {
+                    "@type": "Person",
+                    "name": "Carl Thure Hermansson"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Pelarorden"
+            },
+            {
+                "@type": "Organization",
+                "name": "KSSS"
+            },
+            {
+                "@type": "Organization",
+                "name": "KMK"
+            },
+            {
+                "@type": "Organization",
+                "name": "NeptO"
+            },
+            {
+                "@type": "Organization",
+                "name": "PelO"
+            },
+            {
+                "@type": "Organization",
+                "name": "S H—n"
+            },
+            {
+                "@type": "Organization",
+                "name": "Borgargillet"
+            },
+            {
+                "@type": "Organization",
+                "name": "Htvksfrn"
+            }
+        ],
+        "hobbies": [
+            "Gardening",
+            "Fishing",
+            "Hunting"
+        ],
+        "manufacturerOf": [
+            {
+                "@type": "Organization",
+                "name": "Th Hermansson Metallfabrik",
+                "startDate": "1910",
+                "employee": {
+                    "@type": "Person",
+                    "name": "Carl Thure Hermansson"
+                }
+            }
+        ],
+        "travel": {
+            "@type": "TravelAction",
+            "toLocation": [
+                {
+                    "@type": "Country",
+                    "name": "Norway"
+                },
+                {
+                    "@type": "Country",
+                    "name": "Finland"
+                },
+                {
+                    "@type": "Country",
+                    "name": "Denmark"
+                }
+            ]
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Manufacturer",
+                "workplace": "Th Hermansson Metallfabrik, Stockholm",
+                "industry": "Metal fabrication",
+                "start_date": "1910"
+            },
+            {
+                "occupational_title": "Apprentice Miller",
+                "workplace": "Sickelsjö Farm's dairy",
+                "industry": "Dairy",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "AB Wiklunds verkstäder",
+                "industry": "Unknown",
+                "start_date": "1900"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Förenade Konstgjuterierna",
+                "industry": "Art casting",
+                "start_date": "1904"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "AB Skyltställ",
+                "industry": "Signholder manufacturing",
+                "start_date": "1907"
+            }
+        ]
+    }
+}

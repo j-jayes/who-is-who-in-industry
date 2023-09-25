@@ -1,0 +1,112 @@
+{
+    "original": "HEISING, Karl Konrad, Bankdirektör, Visby, f Västanfors, Västml, 12/11 91 av handl L Hellsing o Christina Nordström, gm Vanda Andersson. Studex 10. Anst Upl ensk bk 11, Mäl.prov bk 11, Sv hdlsbkn sed. 26, styr.led, vkst dir avd.centr Visby sed. 38. Resor: Tyskl, Belg o Danm 10.",
+    "translated": "HEISING, Karl Konrad, Bank Director, Visby, born in Västanfors, Västmanland, on November 12, 1891, to merchant L Hellsing and Christina Nordström, married to Vanda Andersson. Completed secondary school at age 10. Employed at Uplands Enskilda Bank in 1911, at Mälaren Provincial Bank in 1911, joined the Swedish Trade Bank in 1926, served as a member of the board and head of the growth department at the central office in Visby since 1938. Traveled to Germany, Belgium, and Denmark in 1910.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Karl Konrad Heising",
+        "birthDate": "1891-11-12",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Västanfors"
+        },
+        "nationality": "Swedish",
+        "jobTitle": "Bank Director",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Uplands Enskilda Bank",
+                "startDate": "1911"
+            },
+            {
+                "@type": "Organization",
+                "name": "Mälaren Provincial Bank",
+                "startDate": "1911"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Trade Bank",
+                "startDate": "1926"
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Swedish Trade Bank",
+            "department": {
+                "@type": "Organization",
+                "name": "Visby Central Office",
+                "jobTitle": "Head of Growth Department",
+                "startDate": "1938"
+            }
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Vanda Andersson"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "secondary school",
+            "startDate": "1901",
+            "endDate": "1902",
+            "educationalLevel": {
+                "@type": "DefinedTerm",
+                "name": "Studex 10"
+            }
+        },
+        "birthFamily": {
+            "@type": "Person",
+            "name": "L Hellsing",
+            "jobTitle": "Merchant"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Christina Nordström"
+        },
+        "travelHistory": [
+            "Germany",
+            "Belgium",
+            "Denmark"
+        ],
+        "travelYear": "1910"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Bank Director",
+                "workplace": "Visby",
+                "industry": "Banking",
+                "start_date": "1938"
+            },
+            {
+                "occupational_title": "Head of Growth Department",
+                "workplace": "Central Office, Visby",
+                "industry": "Banking",
+                "start_date": "1938"
+            },
+            {
+                "occupational_title": "Member of the Board",
+                "workplace": "Central Office, Visby",
+                "industry": "Banking",
+                "start_date": "1938"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Swedish Trade Bank",
+                "industry": "Banking",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Mälaren Provincial Bank",
+                "industry": "Banking",
+                "start_date": "1911"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Uplands Enskilda Bank",
+                "industry": "Banking",
+                "start_date": "1911"
+            }
+        ]
+    }
+}

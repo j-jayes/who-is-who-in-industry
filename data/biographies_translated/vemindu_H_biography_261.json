@@ -1,0 +1,131 @@
+{
+    "original": "HENNING, Karl Nils Torsten, Civilingenjör, Sandhem, f Drothem, Ögl, 4/1 01 av stadsing K H o Ebba Svensson, gm Anna-Tyra Eriksson. Studex Djursholm 21, KTH (E) 22—26. Ing.elev v ASEA 23—27, ing där (Ludvikavkn) 28—30, v Stat vattenf.verk 30—38. Lär v Tekn Gymn, Örebro, 38—40. Driftchef v AB öja-forsens Kraftverk sed. 41. Led Sv Tekn.frn. Av trycket: Elektr beräkn av distributionsnät (Tekn Tidskr 34), Om intermittent uppvärmning av byggnader (ibid 36).",
+    "translated": "HENNING, Karl Nils Torsten, Civil Engineer, born in Sandhem, Drothem, Ögl, on 4/1/01. Son of city engineer K H and Ebba Svensson. Married to Anna-Tyra Eriksson. Completed high school at Djursholm in 1921, and studied at KTH (Royal Institute of Technology) from 1922 to 1926. Engineering apprentice at ASEA from 1923 to 1927, engineer there (Ludvikavkn) from 1928 to 1930, and then worked at the State Water Authority from 1930 to 1938. Taught at Tekn Gymn in Örebro from 1938 to 1940. Became the chief operator at AB öja-forsens Power Plant in 1941. Member of the Swedish Technical Association. Published works include \"Electrical calculations of distribution networks\" (in Tekn Tidskr 34) and \"Intermittent heating of buildings\" (ibid 36).",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "givenName": "Karl Nils Torsten",
+        "familyName": "Henning",
+        "jobTitle": "Civil Engineer",
+        "birthPlace": "Sandhem, Drothem, Ögl",
+        "birthDate": "1901-01-04",
+        "parent": {
+            "@type": "Person",
+            "givenName": "Ebba",
+            "familyName": "Svensson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "givenName": "Anna-Tyra",
+            "familyName": "Eriksson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Djursholm",
+                "endDate": "1921"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "KTH",
+                "startDate": "1922",
+                "endDate": "1926"
+            }
+        ],
+        "workExperience": [
+            {
+                "@type": "JobPosting",
+                "title": "Engineering Apprentice",
+                "organization": "ASEA",
+                "startDate": "1923",
+                "endDate": "1927",
+                "description": "Engineering apprentice at ASEA from 1923 to 1927"
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Engineer",
+                "organization": "ASEA (Ludvikavkn)",
+                "startDate": "1928",
+                "endDate": "1930",
+                "description": "Engineer at ASEA (Ludvikavkn) from 1928 to 1930"
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Engineer",
+                "organization": "State Water Authority",
+                "startDate": "1930",
+                "endDate": "1938",
+                "description": "Worked at the State Water Authority from 1930 to 1938"
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Teacher",
+                "organization": "Tekn Gymn, Örebro",
+                "startDate": "1938",
+                "endDate": "1940",
+                "description": "Taught at Tekn Gymn in Örebro from 1938 to 1940"
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Chief Operator",
+                "organization": "AB öja-forsens Power Plant",
+                "startDate": "1941",
+                "description": "Became the chief operator at AB öja-forsens Power Plant in 1941"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Swedish Technical Association"
+        },
+        "publication": [
+            {
+                "@type": "Article",
+                "name": "Electrical calculations of distribution networks",
+                "publicationType": "Technical Journal",
+                "publicationVolume": "34",
+                "description": "Published in Tekn Tidskr 34"
+            },
+            {
+                "@type": "Article",
+                "name": "Intermittent heating of buildings",
+                "publicationType": "Technical Journal",
+                "publicationVolume": "36",
+                "description": "Published in Tekn Tidskr 36"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "ASEA",
+                "industry": "Engineering",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "ASEA (Ludvikavkn)",
+                "industry": "Engineering",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "State Water Authority",
+                "industry": "Water Management",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Teacher",
+                "workplace": "Tekn Gymn",
+                "industry": "Education",
+                "start_date": "1938"
+            },
+            {
+                "occupational_title": "Chief Operator",
+                "workplace": "AB öja-forsens Power Plant",
+                "industry": "Energy",
+                "start_date": "1941"
+            }
+        ]
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "original": "HANSSON, Hans Oscar, Köpman, Gävle, f Storvik, Gävleb l, 30/11 95, gm Elin Kvarnström. Deläg i o dir f AB Bröd Hanssons, Storvik, Gävleavd, bilfma o aukt försälj f General Motors Nord AB.",
+    "translated": "HANSSON, Hans Oscar, Merchant, Gävle, born in Storvik, Gävleb l, November 30, 1895, married to Elin Kvarnström. Co-owner and director of AB Bröd Hanssons, Storvik, Gävle branch, dealing with car sales and authorized selling for General Motors Nord AB.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Hans Oscar Hansson",
+        "jobTitle": "Merchant",
+        "birthDate": "1895-11-30",
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Storvik, Gävleb l"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Gävle"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Elin Kvarnström"
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "AB Bröd Hanssons",
+            "memberOf": [
+                {
+                    "@type": "Organization",
+                    "name": "General Motors Nord AB"
+                }
+            ]
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Gävle",
+                "industry": "Retail",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Co-owner and director",
+                "workplace": "AB Bröd Hanssons",
+                "industry": "Automotive",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Car sales and authorized selling",
+                "workplace": "AB Bröd Hanssons, Storvik, Gävle branch",
+                "industry": "Automotive",
+                "start_date": null
+            }
+        ]
+    }
+}

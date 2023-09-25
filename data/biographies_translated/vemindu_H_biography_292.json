@@ -1,0 +1,139 @@
+{
+    "original": "HESSELMAN, Stig, Civilingenjör, Stockholm, f Sthlm 17/5 05 av civ.ing K J E H o Anna Strandell, gm Margareta Hedenström. Studex Saltsjöbaden 23, KTH (maskinbyggn o mek tekn) 23—27. Anst v Hesselmans Patent AB 28—30, Oil Motors Ltd London 30, Hesselman Motor Corp Ltd London 31, provn.-ing v Hesselman Motor Corp AB Henriksdal 31—32, handhar tillverkn o försäljn av insprutn.detaljer f Hesselmanmotorer där fr 32, vkst dir i ing.fman AB Stig Hesselman sed. 43. Led Sv Tekn.frn.",
+    "translated": "HESSELMAN, Stig, Civil Engineer, Stockholm, born in Stockholm on May 17, 1905, son of civil engineer K J E H and Anna Strandell, married to Margareta Hedenström. Graduated from Saltsjöbaden 23, Royal Institute of Technology (Mechanical Engineering) 23-27. Employed at Hesselmans Patent AB 28-30, Oil Motors Ltd London 30, Hesselman Motor Corp Ltd London 31, served as a test engineer at Hesselman Motor Corp AB Henriksdal 31-32, responsible for manufacturing and sales of fuel injection parts for Hesselman engines from 32, promoted to managing director at Ing.fman AB Stig Hesselman since 43. Member of the Swedish Association of Engineers (Sv.Tekn.frn.).",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Stig Hesselman",
+        "birthDate": "1905-05-17",
+        "birthPlace": "Stockholm",
+        "description": "Civil Engineer",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "K J E H",
+                "jobTitle": "Civil Engineer"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Strandell"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Margareta Hedenström"
+        },
+        "education": {
+            "@type": "EducationalOccupationalProgram",
+            "programName": "Mechanical Engineering",
+            "startDate": "1923",
+            "endDate": "1927",
+            "alumniOf": {
+                "@type": "CollegeOrUniversity",
+                "name": "Royal Institute of Technology",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm"
+                }
+            }
+        },
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "Hesselmans Patent AB",
+                "startDate": "1928",
+                "endDate": "1930",
+                "jobTitle": "Employee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Oil Motors Ltd",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "London"
+                },
+                "startDate": "1930",
+                "endDate": "1931",
+                "jobTitle": "Employee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Hesselman Motor Corp Ltd",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "London"
+                },
+                "startDate": "1931",
+                "endDate": "1932",
+                "jobTitle": "Employee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Hesselman Motor Corp AB",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Henriksdal"
+                },
+                "startDate": "1931",
+                "endDate": "1932",
+                "jobTitle": "Test Engineer"
+            },
+            {
+                "@type": "Organization",
+                "name": "Ing.fman AB Stig Hesselman",
+                "startDate": "1943",
+                "jobTitle": "Managing Director"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Swedish Association of Engineers"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Stockholm",
+                "industry": "Engineering",
+                "start_date": "1923-1927"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Hesselmans Patent AB",
+                "industry": "Engineering",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Oil Motors Ltd",
+                "industry": "Engineering",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Hesselman Motor Corp Ltd",
+                "industry": "Engineering",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Test Engineer",
+                "workplace": "Hesselman Motor Corp AB",
+                "industry": "Engineering",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Responsible for manufacturing and sales",
+                "workplace": "Hesselman Motor Corp AB",
+                "industry": "Engineering",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "Ing.fman AB Stig Hesselman",
+                "industry": "Engineering",
+                "start_date": "1943"
+            }
+        ]
+    }
+}

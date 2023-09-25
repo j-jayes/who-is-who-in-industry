@@ -1,0 +1,66 @@
+{
+    "original": "HAGMAN, Folke A :son, Civilingenjör Skövde, f Sthlm 15/6 08 av major K H o Signe Eriksson. CTH (kem) 34. Anst Sköfde gas-betongfabr 35—41, Rockwoolbol, Skövde, sed.",
+    "translated": "HAGMAN, Folke A :son, Civil Engineer from Skövde, born in Stockholm on June 15, 1908, son of Major K H and Signe Eriksson. Graduated from Chalmers University of Technology with a degree in chemistry in 1934. Employed at Skövde gas-concrete factory from 1935 to 1941. Joined Rockwool company in Skövde afterwards.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Folke A Hagman",
+        "birthDate": "1908-06-15",
+        "birthPlace": "Stockholm",
+        "description": "Civil Engineer from Skövde",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Major K H"
+            },
+            {
+                "@type": "Person",
+                "name": "Signe Eriksson"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Chalmers University of Technology",
+                "location": "Gothenburg"
+            }
+        ],
+        "alumniOf": {
+            "@type": "EducationalOrganization",
+            "name": "CTH (kem)",
+            "location": "Gothenburg",
+            "startDate": "1934",
+            "endDate": "1934"
+        },
+        "workExperience": [
+            {
+                "@type": "Organization",
+                "name": "Skövde gas-concrete factory",
+                "location": "Skövde",
+                "startDate": "1935",
+                "endDate": "1941"
+            },
+            {
+                "@type": "Organization",
+                "name": "Rockwoolbol",
+                "location": "Skövde"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Skövde gas-concrete factory",
+                "industry": "Construction",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Rockwool company",
+                "industry": "Manufacturing",
+                "start_date": "1941"
+            }
+        ]
+    }
+}

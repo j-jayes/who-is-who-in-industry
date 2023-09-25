@@ -1,0 +1,113 @@
+{
+    "original": "HAGLIND, Bengt, Disponent, Växjö, f Vxö 27/4 08 av fabr J O H o Emma Danielsson. Studex, med. kand. Ag AB Sjödahl &amp; Haglind sed. 32. Fastigh AB Stormen, J O Haglinds sterbhus, alla i Växjö, styr.led båda förstn. Resor: Ital, Frankr 31, Tyskl 32.",
+    "translated": "HAGLIND, Bengt, Manager, Växjö, born in Växjö on April 27, 1908, son of factory owner J O H and Emma Danielsson. Completed studies, earned a medical degree from Ag AB Sjödahl & Haglind in 1932. Involved in the management board of Fastigh AB Stormen and J O Haglind's estate, both located in Växjö. Traveled to Italy and France in 1931 and to Germany in 1932.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Bengt Haglind",
+        "jobTitle": "Manager",
+        "birthPlace": "Växjö, Sweden",
+        "birthDate": "1908-04-27",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "J O H Haglind",
+                "jobTitle": "Factory Owner"
+            },
+            {
+                "@type": "Person",
+                "name": "Emma Danielsson"
+            }
+        ],
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Ag AB Sjödahl & Haglind",
+            "alumniOf": {
+                "@type": "Organization",
+                "name": "Ag AB Sjödahl & Haglind",
+                "startDate": "1932"
+            },
+            "degree": {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "med. kand.",
+                "educationalLevel": "Medical Doctorate"
+            }
+        },
+        "affiliation": [
+            {
+                "@type": "Organization",
+                "name": "Fastigh AB Stormen",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Växjö",
+                    "addressCountry": "Sweden"
+                },
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Management Board"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "J O Haglind's estate",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Växjö",
+                    "addressCountry": "Sweden"
+                },
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Management Board"
+                }
+            }
+        ],
+        "knowsLanguage": [
+            "Italian",
+            "French",
+            "German"
+        ],
+        "hasOccupation": {
+            "@type": "Occupation",
+            "name": "Manager"
+        },
+        "hasTravelHistory": [
+            {
+                "@type": "Place",
+                "name": "Italy",
+                "startDate": "1931"
+            },
+            {
+                "@type": "Place",
+                "name": "France",
+                "startDate": "1931"
+            },
+            {
+                "@type": "Place",
+                "name": "Germany",
+                "startDate": "1932"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Disponent",
+                "workplace": "Växjö",
+                "industry": null,
+                "start_date": null
+            },
+            {
+                "occupational_title": "Factory owner",
+                "workplace": "Växjö",
+                "industry": null,
+                "start_date": null
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Växjö",
+                "industry": null,
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

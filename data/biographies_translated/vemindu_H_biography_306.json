@@ -1,0 +1,104 @@
+{
+    "original": "HILLERSTRÖM, Otto Hilding, v. Konsul, Skeppsredare, Hälsingborg, f Hbg 12/9 82 av kass M Ohlsson o Elin Hillerström. 6 kl Hbgs h a l. Dir red.AB Hbg, AB Otto Hillerström, Lloyds ag. Stdsflm 21—30, grek v. kons i Hbg sed. 18, RVO, RDDO, R o Off av GrFrO.",
+    "translated": "HILLERSTRÖM, Otto Hilding, Honorary Consul, Shipowner, Helsingborg, born in Helsingborg on September 12, 1882, to Carl Magnus Ohlsson and Elin Hillerström. Attended the 6th grade at Helsingborg's Higher Elementary School. Currently serving as Director for AB Helsingborg, AB Otto Hillerström, and Lloyds agency. Served in the Swedish Standardization Association from 1921 to 1930. Greek Honorary Consul in Helsingborg since 1918. Recipient of the Royal Order of Vasa, the Reservists' Decoration of the Royal Order of the Sword, and the Red Cross Decoration. Also an Officer of the Greek Order of George I.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Otto Hilding Hillerström",
+        "birthDate": "1882-09-12",
+        "birthPlace": "Helsingborg, Sweden",
+        "parents": [
+            {
+                "name": "Carl Magnus Ohlsson",
+                "sameAs": "https://example.com/persons/carl_magnus_ohlsson"
+            },
+            {
+                "name": "Elin Hillerström",
+                "sameAs": "https://example.com/persons/elin_hillerstrom"
+            }
+        ],
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Helsingborg's Higher Elementary School",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Helsingborg",
+                "addressCountry": "Sweden"
+            },
+            "gradeLevel": "6"
+        },
+        "occupation": [
+            "Honorary Consul",
+            "Shipowner"
+        ],
+        "workLocation": "Helsingborg, Sweden",
+        "worksFor": [
+            {
+                "@type": "Corporation",
+                "name": "AB Helsingborg"
+            },
+            {
+                "@type": "Corporation",
+                "name": "AB Otto Hillerström"
+            },
+            {
+                "@type": "Organization",
+                "name": "Lloyds agency"
+            }
+        ],
+        "membership": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Standardization Association",
+                "startDate": "1921-01-01",
+                "endDate": "1930-12-31"
+            }
+        ],
+        "honorificSuffix": [
+            "RVO",
+            "RDDO",
+            "Officer of the Greek Order of George I"
+        ],
+        "additionalName": "Hilllerström"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Honorary Consul",
+                "workplace": "Helsingborg",
+                "industry": "Diplomatic Service",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Shipowner",
+                "workplace": "Helsingborg",
+                "industry": "Shipping",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "AB Helsingborg",
+                "industry": "Business",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "AB Otto Hillerström",
+                "industry": "Business",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Lloyds Agency",
+                "industry": "Insurance",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Swedish Standardization Association",
+                "workplace": null,
+                "industry": "Standardization",
+                "start_date": "1921"
+            }
+        ]
+    }
+}

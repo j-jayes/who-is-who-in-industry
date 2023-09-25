@@ -1,0 +1,141 @@
+{
+    "original": "HEINRICI, Carl Magnus, Assuransdirektör, Göteborg, f Gbg 25/8 82 av ass.tjm A M H o Louise Wingren. Mog.ex Gbgs Real 00, kurs på hdlsinst, språkstud v univ i Jena. Anst i Brand- o Lifförsäkr AB Svea 00, avd.chef där 17, kamr 20, bitr dir 25, v.dir sed. 42. Ag villafastigh »Furubacken», Västra Bodarna, Hemsjö. Tj.resor t Eur fi länd 07—42. Brand-o Lifförsäkr AB Sveas GM; led klbn Enigheten",
+    "translated": "HEINRICI, Carl Magnus, Insurance Director, Gothenburg, born in Gothenburg on August 25, 1882, to insurance clerk A M H and Louise Wingren. Completed education at Gothenburg Real School in 1900, followed by a course at the Commercial Institute and language studies at the University of Jena. Employed by Brand and Life Insurance Company Svea in 1900, department chief from 1917, secretary in 1920, assistant director in 1925, and vice director since 1942. Owns the villa property \"Furubacken\" in West Bodarna, Hemsjö. Regular business trips to various European countries from 1907-1942. General Manager of Brand and Life Insurance Company Svea; member of the club \"Enigheten\". Note: '\\d\\d m. partner's name' indicates that the person married in the year 19xx.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Carl Magnus",
+        "familyName": "Heinrici",
+        "birthDate": "1882-08-25",
+        "birthPlace": "Gothenburg",
+        "description": "Insurance Director",
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Enigheten"
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Brand and Life Insurance Company Svea",
+            "foundingDate": "1900",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Gothenburg"
+            }
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "high school diploma",
+                "educationalLevel": "secondary school",
+                "educationalProgram": "Gothenburg Real School",
+                "startDate": "1900",
+                "endDate": "1900"
+            },
+            {
+                "@type": "Course",
+                "name": "Commercial Institute",
+                "startDate": "unknown"
+            },
+            {
+                "@type": "Course",
+                "name": "Language studies",
+                "startDate": "unknown",
+                "endDate": "unknown",
+                "provider": {
+                    "@type": "CollegeOrUniversity",
+                    "name": "University of Jena"
+                }
+            }
+        ],
+        "partner": {
+            "@type": "Person",
+            "name": "Louise Wingren",
+            "birthPlace": "Gothenburg",
+            "spouse": "Carl Magnus Heinrici"
+        },
+        "owns": [
+            {
+                "@type": "Place",
+                "name": "Furubacken",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "West Bodarna, Hemsjö"
+                },
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Brand and Life Insurance Company Svea"
+                }
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "organization": "Brand and Life Insurance Company Svea",
+                "startDate": "1900",
+                "endDate": "1917",
+                "roleName": "Department Chief"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": "Brand and Life Insurance Company Svea",
+                "startDate": "1917",
+                "endDate": "1920",
+                "roleName": "Secretary"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": "Brand and Life Insurance Company Svea",
+                "startDate": "1925",
+                "endDate": "1942",
+                "roleName": "Assistant Director"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": "Brand and Life Insurance Company Svea",
+                "startDate": "1942",
+                "endDate": null,
+                "roleName": "Vice Director"
+            }
+        ],
+        "businessTrip": {
+            "@type": "Place",
+            "name": "Europe",
+            "startDate": "1907",
+            "endDate": "1942"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Insurance Director",
+                "workplace": "Brand and Life Insurance Company Svea",
+                "industry": "Insurance",
+                "start_date": "1900"
+            },
+            {
+                "occupational_title": "Department Chief",
+                "workplace": "Brand and Life Insurance Company Svea",
+                "industry": "Insurance",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Secretary",
+                "workplace": "Brand and Life Insurance Company Svea",
+                "industry": "Insurance",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Assistant Director",
+                "workplace": "Brand and Life Insurance Company Svea",
+                "industry": "Insurance",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Vice Director",
+                "workplace": "Brand and Life Insurance Company Svea",
+                "industry": "Insurance",
+                "start_date": "1942"
+            }
+        ]
+    }
+}

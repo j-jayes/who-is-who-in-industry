@@ -1,0 +1,135 @@
+{
+    "original": "HEIKKA, Carl Albin Valdemar, Direktör, Stockholm, f Neder-Torneå 26/6 86 av ma-skinm p sjökapt Carl H o Maria Bäckström, gm Oili Nieminen. Ass- o agr.ex 15, stud.res i Finl, Danm o Tyskl. Kont.ch i fma Chr Gedde 17—18, vkst dir i Sv Ost &amp; Conserv AB 18—24, disp f AB Wassbergs Fabr i Finl 25 —29, konsult o verksam på konserv.omr i Finl t 33, vkst dir f Maskin AB Indor Sthlm 34. Styr.led o v. styr.ordf i Frn Tukholman Suo-malainen Seura, led av Sv-Finska hdlskamm o samf Sv-Finl.",
+    "translated": "HEIKKA, Carl Albin Valdemar, Director, Stockholm, b. Neder-Torneå 26/6 86, son of seaman Carl H and Maria Bäckström, m. Oili Nieminen. Secondary and agricultural studies completed in 1915, conducted research in Finland, Denmark, and Germany. Office clerk at Chr Gedde Company 1917-1918, deputy director at Swedish East & Conservatory Ltd 1918-1924, dispatched to AB Wassbergs Factory in Finland 1925-1929, worked as a consultant and engaged in conservation activities in Finland until 1933, became director of Machine AB Indor in Stockholm from 1934. Board member and acting chairman of the Finnish Society in Stockholm, member of the Swedish-Finnish Chamber of Commerce and the Swedish-Finnish Society. \n\nNote: The abbreviation \"gm\" stands for \"married\".",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Albin Valdemar Heikka",
+        "birthDate": "1886-06-26",
+        "birthPlace": "Neder-Torneå",
+        "description": "Director, Stockholm",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Carl H"
+            },
+            {
+                "@type": "Person",
+                "name": "Maria Bäckström"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Oili Nieminen"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Secondary",
+                "credentialEarned": "Agricultural studies",
+                "startDate": "1915"
+            }
+        ],
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Office Clerk",
+                "startDate": "1917-01-01",
+                "endDate": "1918-12-31",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Chr Gedde Company"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Deputy Director",
+                "startDate": "1918-01-01",
+                "endDate": "1924-12-31",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Swedish East & Conservatory Ltd"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Consultant",
+                "startDate": "1925-01-01",
+                "endDate": "1933-12-31",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Finnish Conservation"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Director",
+                "startDate": "1934-01-01",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Machine AB Indor"
+                }
+            }
+        ],
+        "affiliations": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Board Member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Finnish Society in Stockholm"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Swedish-Finnish Chamber of Commerce"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Swedish-Finnish Society"
+                }
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Office Clerk",
+                "workplace": "Chr Gedde Company",
+                "industry": "Unknown",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Deputy Director",
+                "workplace": "Swedish East & Conservatory Ltd",
+                "industry": "Unknown",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Dispatched",
+                "workplace": "AB Wassbergs Factory",
+                "industry": "Unknown",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Consultant",
+                "workplace": null,
+                "industry": "Conservation",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Machine AB Indor",
+                "industry": "Machinery",
+                "start_date": "1934"
+            }
+        ]
+    }
+}

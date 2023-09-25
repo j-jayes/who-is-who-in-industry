@@ -1,0 +1,163 @@
+{
+    "original": "HELLMAN, Hans Petrus, Disponent, Saltsjö-Duvnäs, f 29/10 98 av lantbr H H o Karin Näslund. Ing Tekn Gymn öbr (mask.tekn) 23. Prakt mek verkst o träbearb.ind USA 23 —28, Europarepres f I F Laucks, Inc, Seattle, Wash, USA, 29, disp AB Lauxein-Casco Sthlm sed. 30, styr.led där, AB Si-Ko o Sv Formalin AB Sthlm. Upprep omf res i Eur o NordAm. Hobbies: Golf, skidor, jakt.",
+    "translated": "HELLMAN, Hans Petrus, Managing Director, Saltsjö-Duvnäs, b. 29/10 98 to farmer H H and Karin Näslund. Technical High School graduate (mechanical engineering) in 1923. Practical experience in mechanical workshops and woodworking industry in the USA from 1923 to 1928. European representative for I F Laucks, Inc. in Seattle, Washington, USA in 1929. Became managing director of AB Lauxein-Casco in Stockholm in 1930, and served on the board of directors there. Also involved in AB Si-Ko and Sv Formalin AB in Stockholm. Frequently traveled in Europe and North America. Hobbies: Golf, skiing, hunting.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Hans Petrus Hellman",
+        "birthDate": "1898-10-29",
+        "birthPlace": "Saltsjö-Duvnäs",
+        "father": {
+            "@type": "Person",
+            "name": "H H Hellman",
+            "occupation": "Farmer"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Karin Näslund"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "name": "Technical High School",
+            "dateReceived": "1923",
+            "credentialCategory": "mechanical engineering"
+        },
+        "workExperience": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1923-01-01",
+                "endDate": "1928-12-31",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Mechanical Workshops and Woodworking Industry",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressRegion": "USA"
+                    }
+                },
+                "roleName": "Practical Experience"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1929",
+                "endDate": "1929",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "I F Laucks, Inc",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Seattle",
+                        "addressRegion": "Washington",
+                        "addressCountry": "USA"
+                    }
+                },
+                "roleName": "European Representative"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1930",
+                "endDate": null,
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Lauxein-Casco",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm"
+                    }
+                },
+                "roleName": "Managing Director"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "unknown",
+                "endDate": null,
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Si-Ko"
+                },
+                "roleName": null
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "unknown",
+                "endDate": null,
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Sv Formalin AB",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm"
+                    }
+                },
+                "roleName": null
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "Place",
+                "name": "Europe"
+            },
+            {
+                "@type": "Place",
+                "name": "North America"
+            }
+        ],
+        "hobbies": [
+            "Golf",
+            "Skiing",
+            "Hunting"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Disponent",
+                "workplace": "Saltsjö-Duvnäs",
+                "industry": null,
+                "start_date": null
+            },
+            {
+                "occupational_title": "Ing Tekn Gymn öbr (mask.tekn)",
+                "workplace": null,
+                "industry": null,
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Prakt mek verkst o träbearb.ind",
+                "workplace": "USA",
+                "industry": "Mechanical workshops and woodworking industry",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Europarepres f I F Laucks, Inc",
+                "workplace": "Seattle, Washington, USA",
+                "industry": null,
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "disp AB Lauxein-Casco",
+                "workplace": "Sthlm",
+                "industry": null,
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "styr.led där",
+                "workplace": "AB Lauxein-Casco Sthlm",
+                "industry": null,
+                "start_date": null
+            },
+            {
+                "occupational_title": "AB Si-Ko",
+                "workplace": "Sthlm",
+                "industry": null,
+                "start_date": null
+            },
+            {
+                "occupational_title": "Sv Formalin AB Sthlm",
+                "workplace": null,
+                "industry": null,
+                "start_date": null
+            }
+        ]
+    }
+}

@@ -1,0 +1,111 @@
+{
+    "original": "HANSE, Carl Gunnar, Ingrenjör, Agnesberg, f Växjö 17/1 85, gm Anna Göthberg. Ing.ex Höh Techn Lehranst Bodenbach a d Elbe 13. Anst i Tyskl o Sv, disp Extractionsvkn AB Agnesberg sed. 25. Resor: Tyskl, Österr, Holl, Belg, Danm, Norge. Hobby: Svamp.",
+    "translated": "HANSE, Carl Gunnar, Engineer, Agnesberg, born in Växjö on January 17, 1885, married to Anna Göthberg. Graduated from Höhere Technische Lehranstalt in Bodenbach an der Elbe at the age of 13. Worked in Germany and Sweden, employed as a manager at Extractionsvkn AB Agnesberg since 1925. Traveled to Germany, Austria, the Netherlands, Belgium, Denmark, and Norway. Hobby: Mushrooms.\n\nNote: The abbreviation \"gm\" stands for \"gift med\" which means \"married to\" in English.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "HANSE, Carl Gunnar",
+        "jobTitle": "Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Agnesberg",
+            "addressRegion": "Växjö"
+        },
+        "birthDate": "1885-01-17",
+        "spouse": {
+            "@type": "Person",
+            "name": "Anna Göthberg"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "GraduateDegree",
+            "educationalLevel": "Engineer",
+            "alumniOf": {
+                "@type": "CollegeOrUniversity",
+                "name": "Höh Techn Lehranst Bodenbach a d Elbe"
+            },
+            "dateCredentialAwarded": "1898"
+        },
+        "employment": {
+            "@type": "OrganizationRole",
+            "startDate": "1925",
+            "endDate": "",
+            "roleName": "Manager",
+            "organization": {
+                "@type": "Organization",
+                "name": "Extractionsvkn AB Agnesberg"
+            }
+        },
+        "nationality": "Swedish",
+        "hasOccupation": [
+            {
+                "@type": "JobPosting",
+                "jobTitle": "Engineer"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Country",
+                "name": "Sweden"
+            },
+            {
+                "@type": "Country",
+                "name": "Germany"
+            }
+        ],
+        "knowsLanguage": [
+            {
+                "@type": "Language",
+                "name": "German"
+            },
+            {
+                "@type": "Language",
+                "name": "Swedish"
+            }
+        ],
+        "hobby": "Mushrooms",
+        "knowsAbout": "Mushrooms",
+        "traveler": [
+            {
+                "@type": "Country",
+                "name": "Germany"
+            },
+            {
+                "@type": "Country",
+                "name": "Austria"
+            },
+            {
+                "@type": "Country",
+                "name": "Netherlands"
+            },
+            {
+                "@type": "Country",
+                "name": "Belgium"
+            },
+            {
+                "@type": "Country",
+                "name": "Denmark"
+            },
+            {
+                "@type": "Country",
+                "name": "Norway"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Extractionsvkn AB Agnesberg",
+                "industry": "Unknown",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Extractionsvkn AB Agnesberg",
+                "industry": "Unknown",
+                "start_date": "1925"
+            }
+        ]
+    }
+}

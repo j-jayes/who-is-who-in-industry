@@ -1,0 +1,130 @@
+{
+    "original": "HAMMARSTRAND, Heinz Carl Richard Greiff-, Kamrer, Djursholm, f Berlin 13/7 08 av försäkr.dir A T H o Isse Jaeger, gm Margareta Malm. Studex 27, jurid o hdlstekn studier. Reseinsp Försäkr.bol Göta Sthlm 31—34, gen.-ag f Victoria zu Berlin 34—42, kamr Försäkr.bol Liv.Göta sed. 42. Resor: Studieresor Wien 2&amp;—29, Berlin 29—30, USA 30—31, vidare de fi europ länd.",
+    "translated": "HAMMARSTRAND, Heinz Carl Richard Greiff-, Accountant, Djursholm, born in Berlin on July 13th, 1908, son of insurance director A.T.H. and Isse Jaeger. Married to Margareta Malm. Completed secondary school in 1927, studied law and business technology. Traveling inspector for Göta Insurance Company in Stockholm from 1931 to 1934, general agent for Victoria in Berlin from 1934 to 1942, and accountant for Göta Life Insurance Company since 1942. Traveled on study trips to Vienna from 1922 to 1929, Berlin from 1929 to 1930, and the United States from 1930 to 1931, as well as various European countries.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Heinz Carl Richard Greiff-Hammarstrand",
+        "jobTitle": "Accountant",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Djursholm"
+        },
+        "birthDate": "1908-07-13",
+        "familyName": "Hammarstrand",
+        "givenName": "Heinz Carl Richard Greiff",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "A.T.H. Hammarstrand",
+                "jobTitle": "Insurance Director"
+            },
+            {
+                "@type": "Person",
+                "name": "Isse Jaeger",
+                "jobTitle": "Unknown"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Margareta Malm"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Secondary School",
+            "startDate": "1927",
+            "endDate": "N/A"
+        },
+        "alumniOf": {
+            "@type": "EducationalOrganization",
+            "name": "Studex"
+        },
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "Göta Insurance Company",
+                "jobTitle": "Traveling Inspector",
+                "startDate": "1931",
+                "endDate": "1934"
+            },
+            {
+                "@type": "Organization",
+                "name": "Victoria",
+                "jobTitle": "General Agent",
+                "startDate": "1934",
+                "endDate": "1942"
+            },
+            {
+                "@type": "Organization",
+                "name": "Göta Life Insurance Company",
+                "jobTitle": "Accountant",
+                "startDate": "1942",
+                "endDate": "N/A"
+            }
+        ],
+        "hasOccupation": [
+            {
+                "@type": "OccupationalExperience",
+                "startDate": "1931",
+                "endDate": "1934",
+                "experienceRequirements": "Traveling inspector for Göta Insurance Company in Stockholm"
+            },
+            {
+                "@type": "OccupationalExperience",
+                "startDate": "1934",
+                "endDate": "1942",
+                "experienceRequirements": "General agent for Victoria in Berlin"
+            },
+            {
+                "@type": "OccupationalExperience",
+                "startDate": "1942",
+                "experienceRequirements": "Accountant for Göta Life Insurance Company"
+            }
+        ],
+        "hasTravelHistory": [
+            {
+                "@type": "TravelAction",
+                "fromLocation": "Berlin",
+                "toLocation": "Vienna",
+                "startDate": "1922",
+                "endDate": "1929"
+            },
+            {
+                "@type": "TravelAction",
+                "fromLocation": "Vienna",
+                "toLocation": "Berlin",
+                "startDate": "1929",
+                "endDate": "1930"
+            },
+            {
+                "@type": "TravelAction",
+                "fromLocation": "Berlin",
+                "toLocation": "United States",
+                "startDate": "1930",
+                "endDate": "1931"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Accountant",
+                "workplace": "Djursholm",
+                "industry": "Insurance",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "General Agent",
+                "workplace": "Victoria, Berlin",
+                "industry": "Insurance",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Accountant",
+                "workplace": "Göta Life Insurance Company",
+                "industry": "Insurance",
+                "start_date": "1942"
+            }
+        ]
+    }
+}

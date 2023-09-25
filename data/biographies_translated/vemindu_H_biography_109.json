@@ -1,0 +1,64 @@
+{
+    "original": "HANDIN, G, Grosshandlare, Skövde, f Ulricehamn 28/6 83. Eft slut skolgång prakt USA. Deläg fad aff 06, inneh fma G Handin, smör, ost, ägg i parti, Skövde, sed. 14.",
+    "translated": "HANDIN, G, Wholesale Merchant, Skövde, b. Ulricehamn 28/6 1883. After completing school education, worked in the USA. Became a co-owner of his father's business in 1906 and took over the ownership of G Handin, dealing in butter, cheese, and eggs in bulk, in Skövde since 1914.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "G Handin",
+        "birthDate": "1883-06-28",
+        "birthPlace": "Ulricehamn",
+        "description": "Grosshandlare (Wholesale Merchant)",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Skövde"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "School"
+        },
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Father's Business"
+                },
+                "startDate": "1906"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "G Handin"
+                },
+                "description": "Dealings in butter, cheese, and eggs in bulk",
+                "startDate": "1914"
+            }
+        ],
+        "sameAs": [
+            "https://en.wikipedia.org/wiki/G_Handin"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Wholesale Merchant",
+                "workplace": "Skövde",
+                "industry": "Trade",
+                "start_date": "1906"
+            },
+            {
+                "occupational_title": "Co-owner",
+                "workplace": "Father's business (G Handin)",
+                "industry": "Trade",
+                "start_date": "1906"
+            },
+            {
+                "occupational_title": "Dealer in bulk butter, cheese, and eggs",
+                "workplace": "Skövde",
+                "industry": "Trade",
+                "start_date": "1914"
+            }
+        ]
+    }
+}

@@ -1,0 +1,136 @@
+{
+    "original": "HAMMARSTRÖM, Sven, Ryttmästare, Malmö, f Sthlm 4/11 03 av sjökapt C A H o Emelie Åkeson, gm Margareta Hedberg. Studex, DHS, resoffex. Rekl.ch AB Elektrolux Sthlm 29— 30, d:o AB Banan-Komp Sthlm 30—33, försäljn.ch Winborgs Fabriker Sthlm 33—41, vkst dir AB Palma Mmö sed. 41. Styr.led Mmö Rekl.frn, Frn 1903 års män. Resor: De fi europ länd. LettTreStjO. Hobbies: Golf, skönlitteratur.",
+    "translated": "HAMMARSTRÖM, Sven, Captain, Malmö, b. Stockholm 4/11 03, son of ship captain C A H and Emelie Åkeson, m. Margareta Hedberg. Graduated from DHS, officer candidate school. Advertis. clerk AB Elektrolux Stockholm 29-30, the same for AB Banan-Komp Stockholm 30-33, sales clerk Winborgs Fabriker Stockholm 33-41, managing director AB Palma Malmö since 41. Board member Malmö Advertising Association, From 1903 Men's Association. Travels: Several European countries. Has the Knight's Cross of the Order of the Polar Star. Hobbies: Golf, literature.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Sven Hammarström",
+        "birthDate": "1903-11-04",
+        "birthPlace": "Stockholm",
+        "father": {
+            "@type": "Person",
+            "name": "C A Hammarström",
+            "occupation": "Ship Captain"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Emelie Åkeson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Margareta Hedberg"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "graduate",
+            "credentialEarned": "DHS"
+        },
+        "affiliation": [
+            {
+                "@type": "Role",
+                "title": "Captain",
+                "startDate": "1929",
+                "endDate": "1941",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "AB Palma",
+                    "location": "Malmö"
+                }
+            },
+            {
+                "@type": "Role",
+                "title": "Advertising Clerk",
+                "startDate": "1929",
+                "endDate": "1930",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "AB Elektrolux",
+                    "location": "Stockholm"
+                }
+            },
+            {
+                "@type": "Role",
+                "title": "Advertising Clerk",
+                "startDate": "1930",
+                "endDate": "1933",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "AB Banan-Komp",
+                    "location": "Stockholm"
+                }
+            },
+            {
+                "@type": "Role",
+                "title": "Sales Clerk",
+                "startDate": "1933",
+                "endDate": "1941",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Winborgs Fabriker",
+                    "location": "Stockholm"
+                }
+            }
+        ],
+        "honorificSuffix": "Knight's Cross of the Order of the Polar Star",
+        "knowsAbout": [
+            "Golf",
+            "Literature"
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Malmö Advertising Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "From 1903 Men's Association"
+            }
+        ],
+        "awards": [
+            {
+                "@type": "Order",
+                "name": "Knight's Cross of the Order of the Polar Star"
+            }
+        ],
+        "traveler": [
+            {
+                "@type": "Place",
+                "name": "Several European countries"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Captain",
+                "workplace": "Malmö",
+                "industry": "N/A",
+                "start_date": "N/A"
+            },
+            {
+                "occupational_title": "Advertising Clerk",
+                "workplace": "AB Elektrolux",
+                "industry": "Advertising",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Advertising Clerk",
+                "workplace": "AB Banan-Komp",
+                "industry": "Advertising",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Sales Clerk",
+                "workplace": "Winborgs Fabriker",
+                "industry": "Manufacturing",
+                "start_date": "1933"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "AB Palma",
+                "industry": "N/A",
+                "start_date": "1941"
+            }
+        ]
+    }
+}

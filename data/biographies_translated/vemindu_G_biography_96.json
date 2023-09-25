@@ -1,0 +1,158 @@
+{
+    "original": "GREGERTSEN, Björn Nils, Diplomingenjör, Forshaga, f Eidsberg, Norge, 1/4 97 av distr.-läk H G o Ellen Wsenerlund, gm Elsa Lundberg. Studex 15, prakt v br Norge, Sv, Finl, dipl Tekn Högsk Trondheim 20, stud m stip KTH o tekn högsk Darmstadt 25—26. Driftsing Ranheims Papirfabr 20—24, Ljusnans Sul-fatfabr 27—29, platsch Klarafors Pappersbr sed. 29. Ordf div ktéer. Resor: Tyskl 25, Frankr 26, div res Holl, Belg, Schweiz. Hobbies: Segling, Fiske.",
+    "translated": "GREGERTSEN, Björn Nils, Diplomingenjör (Graduate Engineer), Forshaga, born in Eidsberg, Norway, on 1/4 1897, son of district physician H G and Ellen Wsenerlund, married to Elsa Lundberg. Completed secondary school at the age of 15, underwent practical training in Norway, Sweden, Finland, graduated from the Technical University of Trondheim in 1920, continued studies with scholarships at the Royal Institute of Technology (KTH) and the Technical University of Darmstadt from 1925 to 1926. Worked at Ranheims Paper Mill from 1920 to 1924, Ljusnans Sulphate Factory from 1927 to 1929, and later held a position at Klarafors Paper Mill starting in 1929. Chairman of various committees. Travelled to Germany in 1925, France in 1926, and made several trips to the Netherlands, Belgium, and Switzerland. Hobbies include sailing and fishing.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Björn Nils Gregertsen",
+        "givenName": "Björn",
+        "familyName": "Gregertsen",
+        "jobTitle": "Diplomingenjör",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Eidsberg",
+            "address": {
+                "@type": "PostalAddress",
+                "countryName": "Norway"
+            }
+        },
+        "birthDate": "1897-04-01",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "H G Gregertsen",
+                "jobTitle": "District Physician"
+            },
+            {
+                "@type": "Person",
+                "name": "Ellen Wsenerlund"
+            }
+        ],
+        "spouse": [
+            {
+                "@type": "Person",
+                "name": "Elsa Lundberg"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "diploma",
+                "educationalLevel": "Graduate Engineer",
+                "issuer": {
+                    "@type": "Organization",
+                    "name": "Technical University of Trondheim"
+                },
+                "startDate": "1920"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "educationalLevel": "Secondary School",
+                "startDate": "15"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "issuer": {
+                    "@type": "Organization",
+                    "name": "Royal Institute of Technology (KTH)"
+                },
+                "startDate": "1925",
+                "endDate": "1926"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "issuer": {
+                    "@type": "Organization",
+                    "name": "Technical University of Darmstadt"
+                },
+                "startDate": "1925",
+                "endDate": "1926"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "Ranheims Paper Mill",
+                "startDate": "1920",
+                "endDate": "1924"
+            },
+            {
+                "@type": "Organization",
+                "name": "Ljusnans Sulphate Factory",
+                "startDate": "1927",
+                "endDate": "1929"
+            },
+            {
+                "@type": "Organization",
+                "name": "Klarafors Paper Mill",
+                "startDate": "1929"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Various Committees"
+            }
+        ],
+        "hasOccupation": [
+            {
+                "@type": "Occupation",
+                "name": "Chairman"
+            }
+        ],
+        "knowsAbout": [
+            "Segling",
+            "Fiske"
+        ],
+        "knowsLanguage": [
+            "Swedish",
+            "Norwegian",
+            "English",
+            "German"
+        ],
+        "knows": [
+            {
+                "@type": "Place",
+                "name": "Tyskl"
+            },
+            {
+                "@type": "Place",
+                "name": "Frankr"
+            },
+            {
+                "@type": "Place",
+                "name": "Holl"
+            },
+            {
+                "@type": "Place",
+                "name": "Belg"
+            },
+            {
+                "@type": "Place",
+                "name": "Schweiz"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Driftsing (Operations Engineer)",
+                "workplace": "Ranheims Papirfabr",
+                "industry": "Paper industry",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Driftsing (Operations Engineer)",
+                "workplace": "Ljusnans Sul-fatfabr",
+                "industry": "Paper industry",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Driftschef (Operations Manager)",
+                "workplace": "Klarafors Pappersbr",
+                "industry": "Paper industry",
+                "start_date": "1929"
+            }
+        ]
+    }
+}

@@ -1,0 +1,207 @@
+{
+    "original": "HELLSTRÖM, Nils Erik, Kapten, Stockholm, f Husaby 18/4 98 av lantbr.dir E Hl H o Aus-usta Ttsell. gm Signe Hector. Studex 17, AIHS:s allm kurs 22, Ridsk 24. Fänr Uppl Art.reg 20, ljt 24. kapt Bodens Art.reg 34 (övgst). Tjm Försäkr.AB Skandia-Frejas kont Malmö 26—30. inneh ear assuransfma Sthlm 30—34, org.ch Forsa kr. AB Skandia 35, vkst dir AB Sv Golvindustri Sthlm sed. 42. Egen fma: N E Hellström AB Sthlm. Styr.led AB Sv Golvindustri, AB Industrema, N E Hellström AB o Frn 1898 års män.",
+    "translated": "HELLSTRÖM, Nils Erik, Captain, Stockholm, born in Husaby on April 18, 1898, son of the agricultural director E Hl H and Augusta Ttsell. Married to Signe Hector. Completed military service at age 17, general course at AIHS in 1922, and horse riding school in 1924. Second Lieutenant in the Uppland Artillery Regiment in 1920, lieutenant in 1924. Captain in the Boden Artillery Regiment in 1934 (promoted). Worked at Försäkr.AB Skandia-Frejas office in Malmö from 1926 to 1930. Owned an insurance company in Stockholm from 1930 to 1934, was organizing chairman of Forsa Insurance Company AB Skandia in 1935, and director of AB Sv Golvindustri in Stockholm since 1942. Owns N E Hellström AB in Stockholm. Board member of AB Sv Golvindustri, AB Industrema, N E Hellström AB, and the 1898 Men's Association.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Nils Erik Hellström",
+        "birthDate": "1898-04-18",
+        "birthPlace": "Husaby",
+        "nationality": "Swedish",
+        "jobTitle": "Captain",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "E Hl H"
+            },
+            {
+                "@type": "Person",
+                "name": "Augusta Ttsell"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Signe Hector"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Studex",
+                "startDate": "1917"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "AIHS general course",
+                "startDate": "1922"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Riding School",
+                "startDate": "1924"
+            }
+        ],
+        "militaryService": [
+            {
+                "@type": "MilitaryService",
+                "branchOfService": "Uppland Artillery Regiment",
+                "rank": "Second Lieutenant",
+                "startDate": "1920"
+            },
+            {
+                "@type": "MilitaryService",
+                "branchOfService": "Uppland Artillery Regiment",
+                "rank": "Lieutenant",
+                "startDate": "1924"
+            },
+            {
+                "@type": "MilitaryService",
+                "branchOfService": "Boden Artillery Regiment",
+                "rank": "Captain",
+                "promoted": true,
+                "startDate": "1934"
+            }
+        ],
+        "workExperience": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1926",
+                "endDate": "1930",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Försäkr.AB Skandia-Frejas",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Malmö"
+                    }
+                },
+                "roleName": "Tjm"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1930",
+                "endDate": "1934",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "N E Hellström AB",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm"
+                    }
+                },
+                "roleName": "ear assuransfma"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1935",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Forsa Insurance Company AB Skandia",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm"
+                    }
+                },
+                "roleName": "Organizing Chairman"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1942",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Sv Golvindustri",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm"
+                    }
+                },
+                "roleName": "Director"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "N E Hellström AB",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm"
+                    }
+                },
+                "roleName": "Owner"
+            }
+        ],
+        "boardMemberIn": [
+            {
+                "@type": "Organization",
+                "name": "AB Sv Golvindustri"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Industrema"
+            },
+            {
+                "@type": "Organization",
+                "name": "N E Hellström AB"
+            },
+            {
+                "@type": "Organization",
+                "name": "1898 Men's Association"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Captain",
+                "workplace": "Stockholm",
+                "industry": "Military",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Owner and Managing Director",
+                "workplace": "N E Hellström AB, Stockholm",
+                "industry": "Insurance",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Organizing Chairman",
+                "workplace": "AB Skandia (Forsa kr.)",
+                "industry": "Insurance",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "AB Sv Golvindustri, Stockholm",
+                "industry": "Flooring",
+                "start_date": "1942"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "AB Sv Golvindustri",
+                "industry": "Flooring",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "AB Industrema",
+                "industry": "Unknown",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "N E Hellström AB",
+                "industry": "Insurance",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "1898 Men's Association",
+                "industry": "Unknown",
+                "start_date": ""
+            }
+        ]
+    }
+}

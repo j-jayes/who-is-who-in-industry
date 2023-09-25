@@ -1,0 +1,53 @@
+{
+    "original": "HEDBLOM, Karl Olov (Olle), Bankkamrer, Ludvika, f Gävle 29/7 99. Studex 18. Anst Kopparb ensk bk Falun 19—22, Gbgs bk Falun 22—36, kamr o förest dess Ludv.kont sed. 36.",
+    "translated": "HEDBLOM, Karl Olov (Olle), Bank Clerk, Ludvika, born in Gävle on July 29, 1899. Graduated in 1918. Employed at Kopparbergs enskilda bank in Falun from 1919 to 1922, Goteborgs bank in Falun from 1922 to 1936, as a clerk and later as the branch manager of Ludvika since 1936.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Karl Olov Hedblom",
+        "alternateName": "Olle",
+        "jobTitle": "Bank Clerk",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Gävle"
+            }
+        },
+        "birthDate": "1899-07-29",
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Goteborgs bank",
+            "startDate": "1922",
+            "endDate": "1936"
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Goteborgs bank",
+            "department": "Ludvika",
+            "sinceDate": "1936"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Bank Clerk",
+                "workplace": "Kopparbergs enskilda bank",
+                "industry": "Banking",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Bank Clerk",
+                "workplace": "Goteborgs bank",
+                "industry": "Banking",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Branch Manager",
+                "workplace": "Ludvika",
+                "industry": "Banking",
+                "start_date": "1936"
+            }
+        ]
+    }
+}

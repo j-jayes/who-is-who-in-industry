@@ -1,0 +1,146 @@
+{
+    "original": "HEIJNE, Otto Henrik, Disponent, Jönköping, f Kvidinge, Krstds län, 10/4 93 av stins O C Andersson o Augusta Heijne, gm Märtha Skeppstedt. Studex 12, civ.ing KTH 16. Anst Hellefors br 19—22, Spruce Falls Co &amp; Kimberley Clark Co 22—25, Munksjö AB sed. 26, vkst dir Munksjökonc sed. 39. Ration o omb Vaggeryd sulfatfabr, Jkps sulfitfabr, Aspa sulfatfabr mm. Ordf Ska bkns Jkpstyr, v. ordf Sydsv virkesfrn o Sv papp.- o Cellul.ing.frn, styrled Munksjö AB, Lagamills AB, Sv papp.br.frb, Sv papp.br HAB, Furen &amp; Flårens regl.föret, Sv papp.br.frn, styr.suppl försäkr.bol Allm brand. Resor: USA o Canada 22—25. RVO.",
+    "translated": "HEIJNE, Otto Henrik, Manager, Jönköping, b. Kvidinge, Kristianstad County, 10/4 1893, s. of stationmaster O C Andersson and Augusta Heijne, m. Märtha Skeppstedt. High school graduate at age 12, civil engineer from KTH in 1916. Employed at Hellefors br. from 1919 to 1922, Spruce Falls Co & Kimberley Clark Co from 1922 to 1925, Munksjö AB since 1926, and executive director of Munksjökoncernen since 1939. Advisor to Vaggeryd sulfite factory, Jönköping sulfite factory, Aspa sulfate factory, and more. Chairman of Ska Bank in Jönköping, vice chairman of Sydsvenska virkesförädlingsingenjörers förening (Southern Swedish Forest Products Engineers' Association), and Swedish Paper and Cellulose Engineers' Association. Board member of Munksjö AB, Lagamills AB, Swedish Paper Board Association, Swedish Paper Board HAB, Furen & Flårens regular company, Swedish Paper Board Association and deputy on the board of Allmänna brandförsäkringsbolaget (General Fire Insurance Company). Traveled to the USA and Canada from 1922 to 1925. Received the Royal Order of Vasa.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Otto Henrik Heijne",
+        "jobTitle": "Manager",
+        "birthDate": "1893-04-10",
+        "birthPlace": {
+            "@type": "Country",
+            "name": "Sweden"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Jönköping"
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "O C Andersson",
+                "jobTitle": "Stationmaster"
+            },
+            {
+                "@type": "Person",
+                "name": "Augusta Heijne"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Märtha Skeppstedt"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "High school graduate",
+                "offeredBy": {
+                    "@type": "EducationalOrganization",
+                    "name": "Unknown"
+                },
+                "endDate": "1905"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Civil engineer",
+                "offeredBy": {
+                    "@type": "EducationalOrganization",
+                    "name": "KTH Royal Institute of Technology"
+                },
+                "endDate": "1916"
+            }
+        ],
+        "workExperience": [
+            {
+                "@type": "Organization",
+                "name": "Hellefors br.",
+                "startDate": "1919",
+                "endDate": "1922"
+            },
+            {
+                "@type": "Organization",
+                "name": "Spruce Falls Co & Kimberley Clark Co",
+                "startDate": "1922",
+                "endDate": "1925"
+            },
+            {
+                "@type": "Organization",
+                "name": "Munksjö AB",
+                "startDate": "1926"
+            }
+        ],
+        "executivePosition": {
+            "@type": "OrganizationRole",
+            "namedPosition": "Executive Director",
+            "startDate": "1939",
+            "organization": {
+                "@type": "Organization",
+                "name": "Munksjökoncernen"
+            }
+        },
+        "advises": [
+            {
+                "@type": "Organization",
+                "name": "Vaggeryd sulfite factory"
+            },
+            {
+                "@type": "Organization",
+                "name": "Jönköping sulfite factory"
+            },
+            {
+                "@type": "Organization",
+                "name": "Aspa sulfate factory"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Royal Order of Vasa"
+        },
+        "hasCredential": {
+            "@type": "HonoraryDegree",
+            "name": "Royal Order of Vasa"
+        },
+        "travel": [
+            {
+                "@type": "Place",
+                "name": "USA"
+            },
+            {
+                "@type": "Place",
+                "name": "Canada"
+            }
+        ],
+        "award": {
+            "@type": "Order",
+            "name": "Royal Order of Vasa"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Manager",
+                "workplace": "Hellefors br.",
+                "industry": "Unknown",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Spruce Falls Co &amp; Kimberley Clark Co",
+                "industry": "Unknown",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Munksjö AB",
+                "industry": "Unknown",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Executive Director",
+                "workplace": "Munksjökoncernen",
+                "industry": "Unknown",
+                "start_date": "1939"
+            }
+        ]
+    }
+}

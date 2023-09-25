@@ -1,0 +1,92 @@
+{
+    "original": "HILLMANN, Paul Arthur, Disponent, Göteborg, f Gbg 13/4 83 av disp Otto Hillmann o Laura Pettersson. Carlstedts EJpm.sk, V:a Real i Gbg, kem facksk i Berlin, 3 års kem-tekn prakt v fabr i Berlin o Dresden. Tekn led v Kern Ind AB i Norrkp 05—10, merkantil o tekn ch f Ominol Werke i Geestemiinde, anst i Gbgs Kern Fabr AB 13, fabr.disp där sed, 22.",
+    "translated": "HILLMANN, Paul Arthur, Manager, Gothenburg, b. Gothenburg on April 13th, 1883, to manager Otto Hillmann and Laura Pettersson. Completed his lower secondary education at Carlstedts School, pursued further studies at Västra Real in Gothenburg, and attended a chemical trade school in Berlin. Worked for 3 years in chemical-technical practice at factories in Berlin and Dresden. Served as a technical leader at Kern Industries AB in Norrköping from 1905 to 1910, then held managerial and technical positions at Ominol Werke in Geestemiunde. Employed at Kern Fabr AB in Gothenburg from 1913 and assumed the role of factory manager, which he currently holds since 1922.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Paul Arthur Hillmann",
+        "jobTitle": "Manager",
+        "birthDate": "1883-04-13",
+        "birthPlace": "Gothenburg",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Otto Hillmann",
+                "jobTitle": "Manager"
+            },
+            {
+                "@type": "Person",
+                "name": "Laura Pettersson"
+            }
+        ],
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Carlstedts School"
+        },
+        "additionalEducation": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Västra Real"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Chemical Trade School in Berlin"
+            }
+        ],
+        "workExperience": [
+            {
+                "@type": "Organization",
+                "name": "Kern Industries AB",
+                "location": "Norrköping",
+                "jobTitle": "Technical Leader",
+                "startDate": "1905-01-01",
+                "endDate": "1910-12-31"
+            },
+            {
+                "@type": "Organization",
+                "name": "Ominol Werke",
+                "location": "Geestemiunde",
+                "jobTitle": [
+                    "Managerial Position",
+                    "Technical Position"
+                ]
+            },
+            {
+                "@type": "Organization",
+                "name": "Kern Fabr AB",
+                "location": "Gothenburg",
+                "jobTitle": "Factory Manager",
+                "startDate": "1913-01-01",
+                "endDate": null
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Manager",
+                "workplace": "Gothenburg",
+                "industry": "",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Technical Leader",
+                "workplace": "Kern Industries AB",
+                "industry": "Norrköping",
+                "start_date": "1905"
+            },
+            {
+                "occupational_title": "Managerial and Technical Positions",
+                "workplace": "Ominol Werke",
+                "industry": "Geestemiunde",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Factory Manager",
+                "workplace": "Kern Fabr AB",
+                "industry": "Gothenburg",
+                "start_date": "1913"
+            }
+        ]
+    }
+}

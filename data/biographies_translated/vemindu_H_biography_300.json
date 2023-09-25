@@ -1,0 +1,92 @@
+{
+    "original": "HLLDEBERG, Sven Arendt, Civilingenjör, Norrköping, f Nora 4/3 02 av folksk.lär A Larsson o Maria Lindgren, gm Magnhild Spörck. Ex CTH 28. Anst Vat.byggn.byrån Sthlm 28—29, byggn.AB Konstruktör, Gävle, 30—38, Armerad Betongs Nrkpsavd sed. 39, avd.chef där sed. 42. Frimurare (VI).",
+    "translated": "HLLDEBERG, Sven Arendt, Civil Engineer, Norrköping. Born in Nora on April 3rd, 1902, to primary school teacher A Larsson and Maria Lindgren. Married to Magnhild Spörck. Graduated from Chalmers University of Technology in 1928. Worked at the State Building Bureau in Stockholm from 1928 to 1929, Konstruktör at the Construction Company in Gävle from 1930 to 1938, and in the Reinforced Concrete Division in Norrköping since 1939, where he became the department manager in 1942. Member of the Freemasons (VI).",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Sven Arendt Hlldeberg",
+        "birthDate": "1902-04-03",
+        "birthPlace": "Nora",
+        "nationality": "Swedish",
+        "jobTitle": "Civil Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Norrköping"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "A Larsson",
+                "jobTitle": "Primary school teacher"
+            },
+            {
+                "@type": "Person",
+                "name": "Maria Lindgren"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Magnhild Spörck"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Chalmers University of Technology",
+            "startDate": "1928",
+            "endDate": "1928",
+            "location": "Gothenburg"
+        },
+        "workExperience": [
+            {
+                "@type": "Organization",
+                "name": "State Building Bureau",
+                "startDate": "1928",
+                "endDate": "1929",
+                "location": "Stockholm"
+            },
+            {
+                "@type": "Organization",
+                "name": "Construction Company",
+                "jobTitle": "Konstruktör",
+                "startDate": "1930",
+                "endDate": "1938",
+                "location": "Gävle"
+            },
+            {
+                "@type": "Organization",
+                "name": "Reinforced Concrete Division",
+                "jobTitle": "Department Manager",
+                "startDate": "1939",
+                "endDate": "present",
+                "location": "Norrköping"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Freemasons"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "State Building Bureau, Stockholm",
+                "industry": "Construction",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Konstruktör",
+                "workplace": "Construction Company, Gävle",
+                "industry": "Construction",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Reinforced Concrete Division Manager",
+                "workplace": "Reinforced Concrete Division, Norrköping",
+                "industry": "Construction",
+                "start_date": "1939"
+            }
+        ]
+    }
+}

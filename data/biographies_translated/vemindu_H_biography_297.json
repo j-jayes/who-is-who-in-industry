@@ -1,0 +1,92 @@
+{
+    "original": "HEYMAN, August Henrik, Direktör, Göteborg, f 2/8 80 av dir Th Heyman o Hilda Davidson, gm Elsa Falck. Högre Reallvkt Gbg, Gbgs Hdlsinst. Dir f Rosenbergs AB 05—07, disp Brännö Väfveri AB 07—09, dir i eget företag, Heyman &amp; Holmberg AB, Gbg, sed. 10. Styr.led Sv Hdlsag Frn. Resor: Tyskl 99—01, Engl 01—02, Frankr 02—03, USA 17— 19. Hobbies: Musik, teater, modern konst.",
+    "translated": "HEYMAN, August Henrik, Director, Gothenburg, born on 2 August 1880, son of Director Th Heyman and Hilda Davidson, married to Elsa Falck. Completed higher real estate studies in Gothenburg, Gothenburg Commercial Institute. Director of Rosenberg's AB from 1905 to 1907, manager of Brännö Väfveri AB from 1907 to 1909, director in his own company, Heyman & Holmberg AB, in Gothenburg since 1910. Board member of the Swedish Commercial Company Frn. Traveled to Germany from 1899 to 1901, England from 1901 to 1902, France from 1902 to 1903, and the USA from 1917 to 1919. Hobbies: Music, theater, modern art.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "August Henrik Heyman",
+        "jobTitle": "Director",
+        "birthDate": "1880-08-02",
+        "familyName": "Heyman",
+        "givenName": "August Henrik",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Th Heyman",
+                "jobTitle": "Director"
+            },
+            {
+                "@type": "Person",
+                "name": "Hilda Davidson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Elsa Falck"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Higher Real Estate Studies in Gothenburg"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Gothenburg Commercial Institute"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Rosenberg's AB",
+                "startDate": "1905",
+                "endDate": "1907",
+                "jobTitle": "Director"
+            },
+            {
+                "@type": "Organization",
+                "name": "Brännö Väfveri AB",
+                "startDate": "1907",
+                "endDate": "1909",
+                "jobTitle": "Manager"
+            },
+            {
+                "@type": "Organization",
+                "name": "Heyman & Holmberg AB",
+                "startDate": "1910",
+                "jobTitle": "Director"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Swedish Commercial Company Frn",
+            "jobTitle": "Board Member"
+        },
+        "hobbies": [
+            "Music",
+            "Theater",
+            "Modern Art"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Rosenberg's AB",
+                "industry": "Unknown",
+                "start_date": "1905"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Brännö Väfveri AB",
+                "industry": "Unknown",
+                "start_date": "1907"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Heyman & Holmberg AB",
+                "industry": "Unknown",
+                "start_date": "1910"
+            }
+        ]
+    }
+}

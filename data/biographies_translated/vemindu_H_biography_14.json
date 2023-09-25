@@ -1,0 +1,151 @@
+{
+    "original": "HAGEN, Karl-Axel, Disponent, Stockholm, f Örsås, Älvsb l, 26/4 77 av fabr H A Andersson o Amalia Sundström, gm (2) Anja Hirmu. Borås hal, Versuchs- und Lehranstalt fur Brauerei Berlin 98—99. Prakt sv o ty brygg 94, bryggmäst o styr.led AB Nya Centralbrygg Vimmerby 00—08, disp Grönwalls brygg Sthlm 08—28, Miinchens brygg sed. 29. Led Sv Bryggarefrn sed. 00, suppl Brygg.frb sed. 19, styr.led Carlshamns brygg, Kalmar brygg, Gotlands Maltfabr. Resor: Tyskl, Frankr, Ital mfl. RVO, PatrGM; Frimurare, Sällskapet, KAK, Sthlms Köpm.klb. Hobby: Mitt arbete.",
+    "translated": "HAGEN, Karl-Axel, Administrator, Stockholm, born in Örsås, Älvsborg county, on April 26th, 1877, son of factory owner H A Andersson and Amalia Sundström, married (2) Anja Hirmu. Studied at the Breweries’ Trial and Training Institute in Berlin from 1898 to 1899. Practical training in Swedish and German brewing in 1894, brewmaster and board member of AB Nya Central Brewery in Vimmerby from 1900 to 1908. Administrator of Grönwall's Brewery in Stockholm from 1908 to 1928, and Munich's Brewery since 1929. Member of the Swedish Brewer's Association since 1900, supplementary member of the Brewery Association since 1919, board member of Carlshamns Brewery, Kalmar Brewery, and Gotland's Malt Factory. Travels: Germany, France, Italy, and more. Holder of the Royal Order of Vasa (RVO) and Patriotic Merit Medal (PatrGM); Freemason, member of the Society, Royal Automobile Club, and Stockholm's Merchants Club. Hobby: My work.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Karl-Axel Hagen",
+        "jobTitle": "Administrator",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Örsås",
+                "addressRegion": "Älvsborg",
+                "addressCountry": "Sweden"
+            }
+        },
+        "birthDate": "1877-04-26",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "H A Andersson",
+                "jobTitle": "Factory Owner"
+            },
+            {
+                "@type": "Person",
+                "name": "Amalia Sundström"
+            }
+        ],
+        "spouse": [
+            {
+                "@type": "Person",
+                "name": "Anja Hirmu"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Borås School, Trial and Training Institute for Brewing, Berlin",
+                "startDate": "1898",
+                "endDate": "1899"
+            }
+        ],
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "AB Nya Centralbrygg",
+                "jobTitle": "Brewmaster and Board Member",
+                "startDate": "1900",
+                "endDate": "1908",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Vimmerby"
+                    }
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Grönwalls brygg",
+                "jobTitle": "Administrator",
+                "startDate": "1908",
+                "endDate": "1928",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm"
+                    }
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "München's brygg",
+                "jobTitle": "Administrator",
+                "startDate": "1929",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Munich",
+                        "addressCountry": "Germany"
+                    }
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Freemason"
+            },
+            {
+                "@type": "Organization",
+                "name": "Society"
+            },
+            {
+                "@type": "Organization",
+                "name": "Royal Automobile Club"
+            },
+            {
+                "@type": "Organization",
+                "name": "Stockholm's Merchants Club"
+            }
+        ],
+        "nationality": "Swedish",
+        "awards": [
+            {
+                "@type": "Order",
+                "name": "Royal Order of Vasa (RVO)"
+            },
+            {
+                "@type": "Medal",
+                "name": "Patriotic Merit Medal (PatrGM)"
+            }
+        ],
+        "sameAs": "Hobby: My work"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Administrator",
+                "workplace": "Stockholm",
+                "industry": "Unknown",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Brewmaster",
+                "workplace": "AB Nya Central Brewery",
+                "industry": "Brewing",
+                "start_date": "1900"
+            },
+            {
+                "occupational_title": "Administrator",
+                "workplace": "Grönwall's Brewery",
+                "industry": "Brewing",
+                "start_date": "1908"
+            },
+            {
+                "occupational_title": "Administrator",
+                "workplace": "Munich's Brewery",
+                "industry": "Brewing",
+                "start_date": "1929"
+            }
+        ]
+    }
+}

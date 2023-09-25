@@ -1,0 +1,165 @@
+{
+    "original": "HEMBERG, Per Johan, Direktör, Stockholm, f Skövde 3/6 00 av kontr.prost J H o Signe Hedenius, gm Åsa Fogelqvist. Jur kand.ex. Bankombm o sen dir.ass Sv Hdls-bkns hvdkont Sthlm 28—36, vkst dir Fastigh AB D Carnegie &amp; Co sed. 36, vkst dir AB Surte Glasbr sed. 42, ordf i dir f Gbgs bks Sthlm-kont 40 o 41. Styr.ordf Bankirfma Langenskiöld, AB Berns Salonger o AB Berol-produkter, styr.led AB Fides, Elektrokem AB, Klagstorps Hamn AB. Styr.led o skattm Lidingö Golfklubb, medl Rotary, inneh Sv Golf-frbs ftjt. Hobbies: Golf o fiske.",
+    "translated": "HEMBERG, Per Johan, Director, Stockholm, born in Skövde on June 3, 1900, to the Reverend J.H. and Signe Hedenius, married to Åsa Fogelqvist. Law degree. Former bank clerk and later assistant director for the Swedish Trade Bank's head office in Stockholm from 1928 to 1936. Deputy director of Fastighets AB D Carnegie & Co since 1936. Deputy director of AB Surte Glasbruk since 1942. Chairman of the board for the Gothenburg Bank's Stockholm branch in 1940 and 1941. Chairman of the boards for Bankirfirma Langenskiöld, AB Berns Salonger, and AB Berol-produkter. Board member for AB Fides, Elektrokem AB, and Klagstorps Hamn AB. Board member and treasurer for Lidingö Golf Club. Member of the Rotary Club. Holds a prominent position in the Swedish Golf Association. Hobbies: golf and fishing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Per Johan Hemberg",
+        "jobTitle": "Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "birthDate": "1900-06-03",
+        "birthPlace": "Skövde",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "J.H. Hedenius",
+                "jobTitle": "Reverend"
+            },
+            {
+                "@type": "Person",
+                "name": "Signe Hedenius"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Åsa Fogelqvist"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "law degree"
+        },
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1928",
+                "endDate": "1936",
+                "roleName": "Bank Clerk",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Swedish Trade Bank",
+                    "parentOrganization": {
+                        "@type": "Organization",
+                        "name": "Fastighets AB D Carnegie & Co"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1936",
+                "roleName": "Deputy Director",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Fastighets AB D Carnegie & Co"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1942",
+                "roleName": "Deputy Director",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Surte Glasbruk"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1940",
+                "endDate": "1941",
+                "roleName": "Chairman",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Gothenburg Bank - Stockholm Branch"
+                }
+            }
+        ],
+        "boardMember": [
+            {
+                "@type": "Organization",
+                "name": "Bankirfirma Langenskiöld"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Berns Salonger"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Berol-produkter"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Fides"
+            },
+            {
+                "@type": "Organization",
+                "name": "Elektrokem AB"
+            },
+            {
+                "@type": "Organization",
+                "name": "Klagstorps Hamn AB"
+            },
+            {
+                "@type": "Organization",
+                "name": "Lidingö Golf Club",
+                "contactPoint": {
+                    "@type": "ContactPoint",
+                    "contactType": "Treasurer"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Rotary Club"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Golf Association",
+                "position": {
+                    "@type": "OrganizationRole",
+                    "roleName": "Prominent position"
+                }
+            }
+        ],
+        "hobbies": [
+            "Golf",
+            "Fishing"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Bank Clerk",
+                "workplace": "Swedish Trade Bank",
+                "industry": "Banking",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Assistant Director",
+                "workplace": "Swedish Trade Bank",
+                "industry": "Banking",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Deputy Director",
+                "workplace": "Fastighets AB D Carnegie & Co",
+                "industry": "Real Estate",
+                "start_date": "1936"
+            },
+            {
+                "occupational_title": "Deputy Director",
+                "workplace": "AB Surte Glasbruk",
+                "industry": "Glass Manufacturing",
+                "start_date": "1942"
+            },
+            {
+                "occupational_title": "Chairman of the Board",
+                "workplace": "Gothenburg Bank (Stockholm Branch)",
+                "industry": "Banking",
+                "start_date": "1940"
+            }
+        ]
+    }
+}

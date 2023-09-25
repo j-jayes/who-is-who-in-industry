@@ -1,0 +1,117 @@
+{
+    "original": "HELLGREN, Alvar Claes Theodor, Försäljningschef, Uppsala, f Kkrona 23/5 01 av fäng.-dir T H o Amanda Pettersson, gm Isa Dahl. Studex Sundsv 20, Noellische Handelshochschule Osnabriick 21—22. Anst The Chas Nelson Co, San Francisco, Cal, 23—26, prakt inom pappers- o cellulosaind 27, försäljn.ch AB Nord Metallduksväveriet Upps sed. 28. Sekr Upps Golfklubb. Resor: De fi europ länder årligen sed. 28, USA o Canada 39. Medl Upps Golfklubb, inneh idr o skidl m. Hobbies: Golf o Skidåkning.",
+    "translated": "HELLGREN, Alvar Claes Theodor, Sales Manager, Uppsala, born in Kkrona on May 23, 1901, son of prison director T H and Amanda Pettersson, married to Isa Dahl. Studied in Sundsvall until 1920, Noellische Handelshochschule in Osnabrück from 1921 to 1922. Employed by The Chas Nelson Co in San Francisco, California from 1923 to 1926, practical experience in the paper and cellulose industry in 1927, sales manager at AB Nord Metallduksväveriet in Uppsala since 1928. Secretary of Uppsala Golf Club. Travels: annually to various European countries since 1928, USA and Canada in 1939. Member of Uppsala Golf Club, involved in sports and skiing. Hobbies: Golf and Skiing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Alvar Claes Theodor Hellgren",
+        "jobTitle": "Sales Manager",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Uppsala"
+        },
+        "birthDate": "1901-05-23",
+        "father": {
+            "@type": "Person",
+            "name": "T H Hellgren"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Amanda Pettersson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Isa Dahl"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Studex Sundsvall",
+            "endDate": "1920"
+        },
+        "alumniOf": {
+            "@type": "EducationalOrganization",
+            "name": "Noellische Handelshochschule Osnabrück",
+            "startDate": "1921",
+            "endDate": "1922"
+        },
+        "work": {
+            "@type": "Organization",
+            "name": "The Chas Nelson Co",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "San Francisco",
+                "addressRegion": "California"
+            },
+            "startDate": "1923",
+            "endDate": "1926"
+        },
+        "industry": "paper and cellulose",
+        "employer": {
+            "@type": "Organization",
+            "name": "AB Nord Metallduksväveriet",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Uppsala"
+            },
+            "startDate": "1928"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Uppsala Golf Club"
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "Place",
+                "name": "Various European countries"
+            },
+            {
+                "@type": "Place",
+                "name": "USA"
+            },
+            {
+                "@type": "Place",
+                "name": "Canada"
+            }
+        ],
+        "hobbies": [
+            "Golf",
+            "Skiing"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Sales Manager",
+                "workplace": "AB Nord Metallduksväveriet",
+                "industry": "Metallduksväveriet (Textile Weaving)",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Practical Experience",
+                "workplace": "Paper and Cellulose Industry",
+                "industry": "Paper and Cellulose",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "The Chas Nelson Co",
+                "industry": "Unknown",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Student",
+                "workplace": "Noellische Handelshochschule",
+                "industry": "Unknown",
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Student",
+                "workplace": "Sundsvall",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

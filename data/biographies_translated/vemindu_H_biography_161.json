@@ -1,0 +1,97 @@
+{
+    "original": "HEDBOM, Karl Gösta Emanuel, Kontorschef, Östersund, f Gävle 26/1 04 av Gustaf Hedbom o Anna Abrahamsson, gm Dagny Åswärd. Realex Gävle 21, ex Gefle h hdlsinst 23. Anst fma Engwall Hellberg AB 25, kont.ch där 33—39, d:o Nordsv köpm.AB sed. 39. Lstlöjtn. Odd Fellow.",
+    "translated": "HEDBOM, Karl Gösta Emanuel, Office Manager, Östersund, born in Gävle on January 26th, 1904, to parents Gustaf Hedbom and Anna Abrahamsson, married to Dagny Åswärd. Attended Realex in Gävle until 1921 and completed Gefle Commercial Institute in 1923. Employed at Engwall Hellberg AB from 1925, promoted to Office Manager from 1933 to 1939, and then worked at Nordsv köpm.AB from 1939. Lieutenant in the Odd Fellow organization.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Karl Gösta Emanuel Hedbom",
+        "jobTitle": "Office Manager",
+        "birthPlace": "Gävle",
+        "birthDate": "1904-01-26",
+        "parents": [
+            {
+                "name": "Gustaf Hedbom"
+            },
+            {
+                "name": "Anna Abrahamsson"
+            }
+        ],
+        "spouse": "Dagny Åswärd",
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Realex",
+                "provider": "Gävle",
+                "startDate": "Until 1921"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Gefle Commercial Institute",
+                "provider": "Gävle",
+                "completionDate": "1923"
+            }
+        ],
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "organization": "Engwall Hellberg AB",
+                "startDate": "1925",
+                "endDate": "1933",
+                "roleName": "Employee"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": "Engwall Hellberg AB",
+                "startDate": "1933",
+                "endDate": "1939",
+                "roleName": "Office Manager"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": "Nordsv köpm.AB",
+                "startDate": "1939",
+                "roleName": "Employee"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Odd Fellow"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Realex Student",
+                "workplace": "Gävle",
+                "industry": "",
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Gefle Commercial Institute Student",
+                "workplace": "Gävle",
+                "industry": "",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Engwall Hellberg AB",
+                "industry": "",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Office Manager",
+                "workplace": "Engwall Hellberg AB",
+                "industry": "",
+                "start_date": "1933"
+            },
+            {
+                "occupational_title": "Office Manager",
+                "workplace": "Nordsv köpm.AB",
+                "industry": "",
+                "start_date": "1939"
+            }
+        ]
+    }
+}

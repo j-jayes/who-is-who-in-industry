@@ -1,0 +1,160 @@
+{
+    "original": "HEDIN, Tore Knut Albert, Disponent, Örebro, f Lidköp 30/1 00 av disp John H o Alice Lindmark, gm Ingrid Fosselius. Studex Skövde 18, ex KTH 22. Anst ASEA (bl a ASEA Electr Ltd, Lond) 23—24, sousch Örebro el AB 25—26, disp fr 26, vkst dir där o f kraftAB Gullspång-Munkfors 43. Styr.led dessa båda AB samt Gullsp el.kem AB, Skand bkns avd.kont, Sv vat.kr.frn, Sv elvksfrn o Ind.frbs allm avd. Led dräts.kamm.",
+    "translated": "HEDIN, Tore Knut Albert, Manager, Örebro, b. Lidköping on January 30, 1900, son of John H and Alice Lindmark. Married to Ingrid Fosselius. Graduated from Skövde School in 1918, obtained a degree from KTH (Royal Institute of Technology) in 1922. Employed at ASEA (including ASEA Electr Ltd, London) from 1923 to 1924, as an apprentice at Örebro Electricity AB from 1925 to 1926, promoted to manager in 1926, and became the director of growth at KraftAB Gullspång-Munkfors in 1943. A board member of both of these companies as well as Gullspång Chemical Electricity AB, Skandinaviska Banken's department office, Swedish Water Power Company, and the General Department of Industrial Unions. He was a member of the local council.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Tore Knut Albert HEDIN",
+        "jobTitle": "Manager",
+        "birthDate": "1900-01-30",
+        "birthPlace": "Lidköping",
+        "father": {
+            "@type": "Person",
+            "name": "John HEDIN"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Alice Lindmark"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Ingrid Fosselius"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "school",
+                "credentialEarned": "Studex",
+                "educationalLevel": "High school",
+                "educationalRole": "Student",
+                "endDate": "1918",
+                "provider": {
+                    "@type": "EducationalOrganization",
+                    "name": "Skövde School"
+                }
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "degree",
+                "credentialEarned": "Bachelor's degree",
+                "educationalLevel": "University",
+                "educationalRole": "Student",
+                "endDate": "1922",
+                "provider": {
+                    "@type": "EducationalOrganization",
+                    "name": "KTH (Royal Institute of Technology)"
+                }
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "ASEA",
+                    "department": [
+                        {
+                            "@type": "Organization",
+                            "name": "ASEA Electr Ltd"
+                        },
+                        {
+                            "@type": "Organization",
+                            "name": "London"
+                        }
+                    ]
+                },
+                "startDate": "1923",
+                "endDate": "1924",
+                "roleName": "Employee"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Örebro Electricity AB"
+                },
+                "startDate": "1925",
+                "endDate": "1926",
+                "roleName": "Apprentice"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Örebro Electricity AB"
+                },
+                "startDate": "1926",
+                "roleName": "Manager"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "KraftAB Gullspång-Munkfors"
+                },
+                "startDate": "1943",
+                "roleName": "Director of Growth"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "KraftAB Gullspång-Munkfors"
+            },
+            {
+                "@type": "Organization",
+                "name": "Gullspång Chemical Electricity AB"
+            },
+            {
+                "@type": "Organization",
+                "name": "Skandinaviska Banken's department office"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Water Power Company"
+            },
+            {
+                "@type": "Organization",
+                "name": "General Department of Industrial Unions"
+            },
+            {
+                "@type": "Organization",
+                "name": "Local council"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Manager",
+                "workplace": "Örebro",
+                "industry": "Unknown",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Employed at ASEA",
+                "workplace": "Unknown",
+                "industry": "ASEA Electr Ltd, London",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Apprentice at Örebro Electricity AB",
+                "workplace": "Unknown",
+                "industry": "Örebro Electricity AB",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Örebro Electricity AB",
+                "industry": "Unknown",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Director of Growth",
+                "workplace": "KraftAB Gullspång-Munkfors",
+                "industry": "Unknown",
+                "start_date": "1943"
+            }
+        ]
+    }
+}

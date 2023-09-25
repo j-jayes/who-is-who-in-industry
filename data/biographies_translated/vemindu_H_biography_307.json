@@ -1,0 +1,117 @@
+{
+    "original": "HILL-LINDQUIST, Lars Axel, Direktör, Billdal, f Gbg 7/8 01 av H Lindquist o Maggie Hill, gm Florence Mark. Gbgs Hdlsinst. Anst Förenade Kaffeimportörers Rosteri AB Triangeln, Gbg, sed. 26, dir där. Styr.led E A Rosengrens Kassaskåpsfabrik, Sv res Fören Konservfabr, Försäkr AB Union, Gbgs Köpm.frn, GKSS. Resor: Tyskl 22—23, Engl 24, Frankr 25. Hobby: Segling.",
+    "translated": "HILL-LINDQUIST, Lars Axel, Director, Billdal, b. Gothenburg 7/8 01, son of H. Lindquist and Maggie Hill, married to Florence Mark. Employed by Förenade Kaffeimportörers Rosteri AB Triangeln, Gothenburg, since 1926, currently serving as director. Also serves on the board of E A Rosengrens Kassaskåpsfabrik, Swedish Reserve Food Factory, Union Insurance Company, Gothenburg Merchants Association, and GKSS (Royal Gothenburg Yacht Club). Travelled to Germany in 1922-23, England in 1924, and France in 1925. Hobby: Sailing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Lars Axel Hill-Lindquist",
+        "jobTitle": "Director",
+        "birthPlace": "Gothenburg",
+        "birthDate": "1901-08-07",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "H. Lindquist"
+            },
+            {
+                "@type": "Person",
+                "name": "Maggie Hill"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Florence Mark"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Förenade Kaffeimportörers Rosteri AB Triangeln",
+                "startDate": "1926"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "E A Rosengrens Kassaskåpsfabrik"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Reserve Food Factory"
+            },
+            {
+                "@type": "Organization",
+                "name": "Union Insurance Company"
+            },
+            {
+                "@type": "Organization",
+                "name": "Gothenburg Merchants Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "GKSS (Royal Gothenburg Yacht Club)"
+            }
+        ],
+        "travelled": [
+            {
+                "@type": "Place",
+                "name": "Germany",
+                "startDate": "1922",
+                "endDate": "1923"
+            },
+            {
+                "@type": "Place",
+                "name": "England",
+                "startDate": "1924"
+            },
+            {
+                "@type": "Place",
+                "name": "France",
+                "startDate": "1925"
+            }
+        ],
+        "hasHobby": {
+            "@type": "Thing",
+            "name": "Sailing"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Förenade Kaffeimportörers Rosteri AB Triangeln",
+                "industry": "Coffee import",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Board member",
+                "workplace": "E A Rosengrens Kassaskåpsfabrik",
+                "industry": "Safe manufacturing",
+                "start_date": "N/A"
+            },
+            {
+                "occupational_title": "Board member",
+                "workplace": "Swedish Reserve Food Factory",
+                "industry": "Food processing",
+                "start_date": "N/A"
+            },
+            {
+                "occupational_title": "Board member",
+                "workplace": "Union Insurance Company",
+                "industry": "Insurance",
+                "start_date": "N/A"
+            },
+            {
+                "occupational_title": "Board member",
+                "workplace": "Gothenburg Merchants Association",
+                "industry": "Trade association",
+                "start_date": "N/A"
+            },
+            {
+                "occupational_title": "Board member",
+                "workplace": "GKSS (Royal Gothenburg Yacht Club)",
+                "industry": "Yacht club",
+                "start_date": "N/A"
+            }
+        ]
+    }
+}

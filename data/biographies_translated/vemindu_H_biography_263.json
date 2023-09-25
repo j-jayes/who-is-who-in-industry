@@ -1,0 +1,64 @@
+{
+    "original": "HENRIKSON, Carl Sigfrid, Grosshandlare, Laholm, f Veinge 86 av lantbr J P Henrikson o h h Johanna, gm Hanna Nyberg. Anst h fma Kull &amp; Hellsten Laholm 00—12. Inneh eg fma i spannmål, fodervaror, gödn.ämn samt speceri- o div.handel. Ordf Laholms sparb o Laholms högerfrn, ordf i lokalstyr f Skand bkn.",
+    "translated": "HENRIKSON, Carl Sigfrid, Merchant, Laholm, b. Veinge 1886 to farmer J.P. Henrikson and his wife Johanna, married to Hanna Nyberg. Employed at Kull & Hellsten Laholm from 1900 to 1912. Owner of a company dealing with grain, animal feed, fertilizers, as well as a grocery and miscellaneous goods store. Chairman of Laholms Savings Bank and Laholm's Conservative Party. Chairman of the local board of directors of Skandia Bank.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Sigfrid Henrikson",
+        "birthDate": "1886-XX-XX",
+        "birthPlace": "Veinge, Sweden",
+        "father": {
+            "@type": "Person",
+            "name": "J.P. Henrikson"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Johanna Henrikson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Hanna Nyberg"
+        },
+        "jobTitle": "Merchant",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Kull & Hellsten Laholm",
+            "startDate": "1900",
+            "endDate": "1912"
+        },
+        "owns": [
+            {
+                "@type": "Organization",
+                "name": "Henrikson Company",
+                "description": "Dealing with grain, animal feed, fertilizers, grocery, and miscellaneous goods"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Laholms Savings Bank",
+                "jobTitle": "Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Laholm's Conservative Party",
+                "jobTitle": "Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Skandia Bank",
+                "jobTitle": "Chairman of the local board of directors"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Kull & Hellsten Laholm",
+                "industry": "Grain, animal feed, fertilizers, grocery and miscellaneous goods",
+                "start_date": "1900"
+            }
+        ]
+    }
+}

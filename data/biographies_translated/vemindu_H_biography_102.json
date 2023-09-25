@@ -1,0 +1,69 @@
+{
+    "original": "HAMMARSTRÖM, Eric Hjalmar Robert, Ingenjör, Köping, f Kalmar 16/6 01 av fabr R N H o Augusta Berggren, gm Karin Andersson. Örebro tekn gymn. Verkst.ing Köpings mek verkst 28—32, platschef Holmens mek verkst, Nyby Bruk, 32—37, åter s verkst.ch i Kp mek verkst 37. V. ordf Kp stads yrk.sk sed. 38, krist.nmdn sed. 40. Styr.led Kp—Uttersb— Riddarhytte jvgsAB sed. 40, Sv verkst.ing frn sed. 41. Resor: Tyskl 38, 39, Engl 38. Odd Fellow mfl frn o klubb. Hobbies: Odling o studier.",
+    "translated": "HAMMARSTRÖM, Eric Hjalmar Robert, Engineer, Köping, born in Kalmar on June 16, 1901, son of factory owner R N H and Augusta Berggren, married to Karin Andersson. Attended Örebro Technical Gymnasium. Worked as an engineer at Köpings Mechanical Workshop from 1928 to 1932. Became site manager at Holmens Mechanical Workshop, Nyby Bruk, from 1932 to 1937, and returned as workshop manager at Köpings Mechanical Workshop in 1937. Vice chairman of Köping City Vocational School since 1938, member of the Christian Committee since 1940. Serving on the board of directors for Köping-Uttersb-Riddarhytte railway company since 1940 and Swedish Engineering Works since 1941. Has traveled to Germany in 1938 and 1939, and to England in 1938. Member of various organizations such as Odd Fellow and clubs. Hobbies include gardening and studying.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Eric Hjalmar Robert Hammarström",
+        "birthDate": "1901-06-16",
+        "birthPlace": "Kalmar",
+        "nationality": "Swedish",
+        "jobTitle": "Engineer",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Köpings Mechanical Workshop"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Örebro Technical Gymnasium"
+        },
+        "familyName": "Hammarström",
+        "givenName": "Eric Hjalmar Robert",
+        "father": {
+            "@type": "Person",
+            "name": "R N H"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Augusta Berggren"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Karin Andersson"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Odd Fellow"
+            },
+            {
+                "@type": "Organization",
+                "name": "Clubs"
+            }
+        ],
+        "hobbies": "Gardening, studying",
+        "sameAs": "http://example.com/eric-hammarstrom"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Köpings Mechanical Workshop",
+                "industry": "Mechanical engineering",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Site Manager",
+                "workplace": "Holmens Mechanical Workshop, Nyby Bruk",
+                "industry": "Mechanical engineering",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Workshop Manager",
+                "workplace": "Köpings Mechanical Workshop",
+                "industry": "Mechanical engineering",
+                "start_date": "1937"
+            }
+        ]
+    }
+}

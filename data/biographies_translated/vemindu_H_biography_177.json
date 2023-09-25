@@ -1,0 +1,96 @@
+{
+    "original": "HEDIN, Karl Henrik, Disponent, Stora Skedvi, f St Skedvi 13/11 96 av fabr A H o Sofia Johansson, gm Edit Johansson. Hdlssk. Deläg Landsbro Tegelbr sed. 15. disp 23, ordf o vkst dir dta AB o disp f bruket sed. 40. Stud.res Tyskl 37. Hobby: Idrott.",
+    "translated": "HEDIN, Karl Henrik, Manager, Stora Skedvi, born in Skedvi on 13/11 1896, son of factory worker A H and Sofia Johansson, married to Edit Johansson. Handicapped due to illness. Co-owner of Landsbro Tegelbr since 1915. Became manager in 1923, chairman and managing director of AB and factory manager since 1940. Studied in Germany in 1937. Hobby: Sports.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Karl Henrik Hedin",
+        "givenName": "Karl Henrik",
+        "familyName": "Hedin",
+        "description": "Manager",
+        "birthDate": "1896-11-13",
+        "birthPlace": "Skedvi",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "A H Hedin",
+                "jobTitle": "Factory Worker",
+                "birthPlace": "Skedvi"
+            },
+            {
+                "@type": "Person",
+                "name": "Sofia Johansson",
+                "jobTitle": "Unknown"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Edit Johansson"
+        },
+        "disability": {
+            "@type": "MedicalCondition",
+            "name": "Illness",
+            "description": "Handicapped due to illness"
+        },
+        "owns": {
+            "@type": "Organization",
+            "name": "Landsbro Tegelbr",
+            "startDate": "1915"
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "AB",
+            "startDate": "1940",
+            "jobTitle": "Factory Manager",
+            "subOrganization": [
+                {
+                    "@type": "Organization",
+                    "name": "Stora Skedvi",
+                    "jobTitle": "Manager",
+                    "startDate": "1923"
+                }
+            ]
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Germany",
+            "startDate": "1937",
+            "endDate": "1937"
+        },
+        "sameAs": ""
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Manager",
+                "workplace": "Stora Skedvi",
+                "industry": null,
+                "start_date": null
+            },
+            {
+                "occupational_title": "Co-owner",
+                "workplace": "Landsbro Tegelbr",
+                "industry": null,
+                "start_date": "1915"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "AB",
+                "industry": null,
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Chairman and Managing Director",
+                "workplace": "AB",
+                "industry": null,
+                "start_date": "1940"
+            },
+            {
+                "occupational_title": "Factory Manager",
+                "workplace": "AB",
+                "industry": null,
+                "start_date": "1940"
+            }
+        ]
+    }
+}

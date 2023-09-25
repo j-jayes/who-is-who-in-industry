@@ -1,0 +1,144 @@
+{
+    "original": "HANSON, Carl Magnus, Direktör, Stockholm, f Vänersborg 19/6 72 av gårdsäg o fånggevaldig J P H o h h, f Karlsson, gm Helfrid Kastengren. Vänbgs hal, hdlssk. Anst h David Johanssons Manuf- &amp; Klädeshdl Vänbg 90—97, h S L Lamm &amp; Son Sthlm 98— 04, resande h Heyman &amp; Schönthal Sthlm 05— 07, h Knut Hagberg Norrköping 08—13, ch f Drags AB:s Sthlmskont sed. 14. PatrGM; Frimurare.",
+    "translated": "HANSON, Carl Magnus, Director, Stockholm, b. Vänersborg on June 19, 1872, of farmer and prisoner J P H and h h, b. Karlsson, married to Helfrid Kastengren. Completed elementary school, commerce school. Employed at David Johansson's Manufacturing and Clothing Store in Vänbg from 1890 to 1897, at S L Lamm & Son in Stockholm from 1898 to 1904, traveling for Heyman & Schönthal in Stockholm from 1905 to 1907, at Knut Hagberg in Norrköping from 1908 to 1913, and became head of Drags AB's Stockholm office since 1914. Freemason.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Carl Magnus Hanson",
+        "birthDate": "1872-06-19",
+        "birthPlace": "Vänersborg, Sweden",
+        "nationality": "Swedish",
+        "occupation": "Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm",
+            "addressCountry": "Sweden"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "J P H",
+                "givenName": "J P",
+                "familyName": "H",
+                "occupation": "Farmer"
+            },
+            {
+                "@type": "Person",
+                "name": "h h",
+                "givenName": "h",
+                "familyName": "h",
+                "occupation": "Prisoner"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Helfrid Kastengren"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Elementary school"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Commerce school"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "David Johansson's Manufacturing and Clothing Store",
+                "location": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Vänbg",
+                    "addressCountry": "Sweden"
+                },
+                "startDate": "1890",
+                "endDate": "1897"
+            },
+            {
+                "@type": "Organization",
+                "name": "S L Lamm & Son",
+                "location": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm",
+                    "addressCountry": "Sweden"
+                },
+                "startDate": "1898",
+                "endDate": "1904"
+            },
+            {
+                "@type": "Organization",
+                "name": "Heyman & Schönthal",
+                "location": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm",
+                    "addressCountry": "Sweden"
+                },
+                "startDate": "1905",
+                "endDate": "1907"
+            },
+            {
+                "@type": "Organization",
+                "name": "Knut Hagberg",
+                "location": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Norrköping",
+                    "addressCountry": "Sweden"
+                },
+                "startDate": "1908",
+                "endDate": "1913"
+            },
+            {
+                "@type": "Organization",
+                "name": "Drags AB",
+                "location": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm",
+                    "addressCountry": "Sweden"
+                },
+                "startDate": "1914"
+            }
+        ],
+        "fraternalMembership": [
+            {
+                "@type": "Organization",
+                "name": "Freemasons"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Employee",
+                "workplace": "David Johansson's Manufacturing and Clothing Store",
+                "industry": "Manufacturing and Clothing",
+                "start_date": "1890"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "S L Lamm & Son",
+                "industry": "Manufacturing and Clothing",
+                "start_date": "1898"
+            },
+            {
+                "occupational_title": "Traveling Salesperson",
+                "workplace": "Heyman & Schönthal",
+                "industry": "Sales",
+                "start_date": "1905"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Knut Hagberg",
+                "industry": "Unknown",
+                "start_date": "1908"
+            },
+            {
+                "occupational_title": "Head of Stockholm Office",
+                "workplace": "Drags AB",
+                "industry": "Unknown",
+                "start_date": "1914"
+            }
+        ]
+    }
+}
