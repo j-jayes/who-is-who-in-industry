@@ -37,6 +37,17 @@ df['first_digit'] = df['Number'].apply(lambda x: int(str(x)[0]))
 # Apply the preprocessing function to the DataFrame
 df['processed_description'] = df['Description (tasks and duties)'].apply(preprocess)
 
+# remove "Workers unit group" from processed_description
+df['processed_description'] = df['processed_description'].apply(lambda x: x.replace('Workers unit group', ''))
+
+# remove "Specialisatio Unkown" from Name, as well as "Not Elsewhere Classified"
+df['Name'] = df['Name'].apply(lambda x: x.replace('Specialisation Unknown', ''))
+df['Name'] = df['Name'].apply(lambda x: x.replace('Not Elsewhere Classified', ''))
+
+# concatenate Name and processed_description into a new column called "hisco_text"
+df['hisco_text'] = df['Name'] + ' ' + df['processed_description']
+
+
 import openai
 import yaml
 
@@ -49,8 +60,8 @@ def get_embedding(text, model="text-embedding-ada-002"):
     text = text.replace("\n", " ")
     return openai.Embedding.create(input=[text], model=model)['data'][0]['embedding']
 
-# Apply the get_embedding function to your 'Description (tasks and duties)' column
-df['ada_embedding'] = df['Description (tasks and duties)'].apply(lambda x: get_embedding(x, model='text-embedding-ada-002'))
+# Apply the get_embedding function to your 'hisco_text' column
+df['ada_embedding'] = df['hisco_text'].apply(lambda x: get_embedding(x, model='text-embedding-ada-002'))
 
 # save embeddings dataset
-df.to_csv('data/occupations/3-digit-occupations_with_embeddings.csv')
+df.to_excel('data/occupations/3-digit-occupations_with_embeddings.xlsx')
