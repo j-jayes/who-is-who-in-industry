@@ -61,7 +61,44 @@ def get_embedding(text, model="text-embedding-ada-002"):
     return openai.Embedding.create(input=[text], model=model)['data'][0]['embedding']
 
 # Apply the get_embedding function to your 'hisco_text' column
-df['ada_embedding'] = df['hisco_text'].apply(lambda x: get_embedding(x, model='text-embedding-ada-002'))
+# df['ada_embedding'] = df['hisco_text'].apply(lambda x: get_embedding(x, model='text-embedding-ada-002'))
 
 # save embeddings dataset
-df.to_excel('data/occupations/3-digit-occupations_with_embeddings.xlsx')
+# df.to_excel('data/occupations/3-digit-occupations_with_embeddings.xlsx')
+
+# now get the embeddings for the hiscos
+import os
+import json
+from collections import Counter
+
+# Initialize a Counter to store occupational titles and their occurrences
+occupational_titles_count = Counter()
+
+# Define the path to the directory containing JSON files
+directory_path = 'data/biographies_translated'
+
+# Loop through all JSON files in the specified directory
+for filename in os.listdir(directory_path):
+    if filename.endswith('.json'):  # Check if the file is a JSON file
+        filepath = os.path.join(directory_path, filename)
+        
+        with open(filepath, 'r') as file:
+            data = json.load(file)
+            
+            # Retrieve the careers from the JSON data using the get() function
+            careers = data.get('occupations', {}).get('career', [])
+            
+            # Loop through all careers and collect occupational titles
+            for career in careers:
+                occupational_title = career.get('occupational_title', '')
+                if occupational_title:  # If occupational_title is not an empty string
+                    occupational_titles_count[occupational_title] += 1
+
+
+# Create a DataFrame from the Counter object
+df_titles = pd.DataFrame(occupational_titles_count.items(), columns=['occupational_title', 'count'])
+
+# Apply the lambda function to each occupational title in the DataFrame
+df_titles['ada_embedding'] = df_titles['occupational_title'].apply(lambda title: get_embedding(title))
+
+df_titles.to_excel('data/occupations/occupation_titles_with_embeddings.xlsx')
