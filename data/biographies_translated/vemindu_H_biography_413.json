@@ -1,0 +1,99 @@
+{
+    "original": "HULTMAN, Erik Sven August, Civilingenjör, Mölnlycke, f Falun 8/4 10 av civ.ing S A H o Agnes Hollander, gm Gunhild Söderström. Studex 29, KTH (kemi) 38. Anst Leje &amp; Thurne AB Sthlm 34—36, Mölnlycke Väfveri AB sed. 37. Resor: Tyskl, Polen, Tjeckoslov, Schweiz, Ital, Holl, Belg, Frankr, Span, Engl 34—36. Led o klbmäst Tekn Samf avd f tex-tiltekn, led Gbgs färgeritekn frn. Hobby: Jakt.",
+    "translated": "HULTMAN, Erik Sven August, Civil Engineer, Mölnlycke, born in Falun on 8/4 1910, son of Civil Engineer S.A.H. and Agnes Hollander, married to Gunhild Söderström. High school graduate in 1929, studied Chemistry at the Royal Institute of Technology (KTH) in 1938. Employed at Leje & Thurne AB in Stockholm from 1934 to 1936, and Mölnlycke Väfveri AB since 1937. Traveled to Germany, Poland, Czechoslovakia, Switzerland, Italy, the Netherlands, Belgium, France, Spain, and England from 1934 to 1936. Member and club master of the Technical Society Department for Textile Technology, member of the Gothenburg Dyeing Technology Association. Hobby: Hunting.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Erik Sven August Hultman",
+        "jobTitle": "Civil Engineer",
+        "birthDate": "1910-04-08",
+        "birthPlace": "Falun, Sweden",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "S.A.H.",
+                "jobTitle": "Civil Engineer"
+            },
+            {
+                "@type": "Person",
+                "name": "Agnes Hollander"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Gunhild Söderström"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "high school diploma",
+            "educationalLevel": "High School Graduate",
+            "alumniOf": [
+                {
+                    "@type": "CollegeOrUniversity",
+                    "name": "Royal Institute of Technology",
+                    "location": "Stockholm, Sweden"
+                }
+            ],
+            "endDate": "1929"
+        },
+        "experience": [
+            {
+                "@type": "JobPosting",
+                "title": "Leje & Thurne AB",
+                "startDate": "1934-01-01",
+                "endDate": "1936-12-31",
+                "location": "Stockholm, Sweden"
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Mölnlycke Väfveri AB",
+                "startDate": "1937-01-01",
+                "location": "Mölnlycke, Sweden"
+            }
+        ],
+        "travelHistory": [
+            "Germany",
+            "Poland",
+            "Czechoslovakia",
+            "Switzerland",
+            "Italy",
+            "Netherlands",
+            "Belgium",
+            "France",
+            "Spain",
+            "England"
+        ],
+        "affiliations": [
+            {
+                "@type": "Organization",
+                "name": "Technical Society Department for Textile Technology",
+                "roleName": "Club Master",
+                "memberOf": "Technical Society"
+            },
+            {
+                "@type": "Organization",
+                "name": "Gothenburg Dyeing Technology Association",
+                "memberOf": "Gothenburg"
+            }
+        ],
+        "hobbies": [
+            "Hunting"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Leje & Thurne AB",
+                "industry": "Engineering",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Mölnlycke Väfveri AB",
+                "industry": "Textile",
+                "start_date": "1937"
+            }
+        ]
+    }
+}

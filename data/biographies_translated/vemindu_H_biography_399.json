@@ -1,0 +1,166 @@
+{
+    "original": "HUL.DT, Ivar Hugo Eugen, Bankdirektör, Sundsvall, f Umeå 30/11 78 av komm.lantm C H H o Selma Ericsson, gm Regina Winter. Umeå hal. Anst BkAB Sthlm-övre Norrl, Norrl.-bkn 99, kass 04, rev 08, kamr 14—17, dir Svl ensk bks Hsandskont 17—37, v. vkst dir huv.-kont Svl o styr.suppl 37. Styr.ordf Hsands verkstAB, styr.led Ramövikens AB.",
+    "translated": "HUL.DT, Ivar Hugo Eugen, Bank Director, Sundsvall, born in Umeå on November 30, 1878, to district surveyor C H H and Selma Ericsson, married Regina Winter. Umeå half. Employed at BkAB Sthlm-övre Norrl, Norrl.-bkn from 1899, cashier in 1904, auditor in 1908, chamberlain from 1914 to 1917, director of Svl ensk bks Hsandskont from 1917 to 1937, deputy managing director of the main office in Svl and board member from 1937. Chairman of the Board of Hsands verkstAB, board member of Ramövikens AB.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Ivar Hugo Eugen",
+        "familyName": "HUL.DT",
+        "jobTitle": "Bank Director",
+        "birthDate": "1878-11-30",
+        "birthPlace": "Umeå",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "C H H",
+                "jobTitle": "District Surveyor"
+            },
+            {
+                "@type": "Person",
+                "name": "Selma Ericsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Regina Winter"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "BkAB Sthlm-övre Norrl",
+                "startDate": "1899"
+            },
+            {
+                "@type": "Organization",
+                "name": "Norrl.-bkn",
+                "startDate": "1899"
+            },
+            {
+                "@type": "Organization",
+                "name": "Svl ensk bks Hsandskont",
+                "startDate": "1917",
+                "endDate": "1937"
+            },
+            {
+                "@type": "Organization",
+                "name": "Hsands verkstAB",
+                "roleName": "Chairman of the Board"
+            },
+            {
+                "@type": "Organization",
+                "name": "Ramövikens AB",
+                "roleName": "Board Member"
+            }
+        ],
+        "workLocation": "Sundsvall",
+        "occupation": [
+            "Bankdirektör",
+            "Kamr"
+        ],
+        "workExperience": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1899",
+                "endDate": "1904",
+                "roleName": "Cashier",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "BkAB Sthlm-övre Norrl"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1908",
+                "endDate": "1914",
+                "roleName": "Auditor",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Norrl.-bkn"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1914",
+                "endDate": "1917",
+                "roleName": "Chamberlain",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Norrl.-bkn"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1917",
+                "endDate": "1937",
+                "roleName": "Director",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Svl ensk bks Hsandskont"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1937",
+                "roleName": "Deputy Managing Director",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Svl"
+                }
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Employed",
+                "workplace": "BkAB Sthlm-övre Norrl",
+                "industry": "Banking",
+                "start_date": "1899"
+            },
+            {
+                "occupational_title": "Cashier",
+                "workplace": "Norrl.-bkn",
+                "industry": "Banking",
+                "start_date": "1904"
+            },
+            {
+                "occupational_title": "Auditor",
+                "workplace": "Norrl.-bkn",
+                "industry": "Banking",
+                "start_date": "1908"
+            },
+            {
+                "occupational_title": "Chamberlain",
+                "workplace": "Svl ensk bks Hsandskont",
+                "industry": "Banking",
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Svl ensk bks Hsandskont",
+                "industry": "Banking",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Deputy Managing Director",
+                "workplace": "Main office in Svl",
+                "industry": "Banking",
+                "start_date": "1937"
+            }
+        ],
+        "board_memberships": [
+            {
+                "occupational_title": "Chairman",
+                "workplace": "Hsands verkstAB",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Ramövikens AB",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

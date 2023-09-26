@@ -1,0 +1,115 @@
+{
+    "original": "ISACSON, Folke Valdemar, Boktryckare, Göteborg, f Gbg 6/4 98 av boktr O I o Ester Lind, gm Sigrid Larsen. Gbgs högre .reallärov, Gbgs högre hdlsinst. Anst Gbgs bk Gbg 19— 20, Oscar Isacsons Boktr AB Gbg o AB Isac-sons Emballagefabr, Brännögård, sed. 20, dir dsa AB. Led tax.nmd; styr.led Gbgs Boktr.-frn, Gbgs Konstmusei Vänner. Resor: Danm, Norge, Engl, Tyskl, Frankr, Belg, Holl. Av trycket: Div tidn.art. Hobby: Konst, spec moderna tavlor o skulptur.",
+    "translated": "ISACSON, Folke Valdemar, Printer, Gothenburg, b. Gothenburg 6/4 1898 to printer Olof Isacson and Ester Lind, m. Sigrid Larsen. Education: Gothenburg Higher Realskola, Gothenburg Higher Commercial Institute. Employed by Gothenburg Book Company 1919-1920, Oscar Isacson's Printing Company Gothenburg and AB Isacson's Packaging Factory, Brännögård, since 1920, director of AB since then. Member of the tax committee; board member of the Gothenburg Book Trade Association, Friends of the Gothenburg Art Museum. Travelled to Denmark, Norway, England, Germany, France, Belgium, Netherlands. Published various newspaper articles. Hobby: Art, especially modern paintings and sculptures.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Folke Valdemar Isacson",
+        "birthDate": "1898-04-06",
+        "birthPlace": "Gothenburg",
+        "nationality": "Swedish",
+        "description": "Printer, Gothenburg",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Olof Isacson",
+                "jobTitle": "Printer"
+            },
+            {
+                "@type": "Person",
+                "name": "Ester Lind"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Sigrid Larsen"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Gothenburg Higher Realskola"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Gothenburg Higher Commercial Institute"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Gothenburg Book Company",
+                "startDate": "1919-01-01",
+                "endDate": "1920-12-31"
+            },
+            {
+                "@type": "Organization",
+                "name": "Oscar Isacson's Printing Company",
+                "startDate": "1920-01-01"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Isacson's Packaging Factory",
+                "location": "Brännögård",
+                "startDate": "1920-01-01"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB",
+                "startDate": "1920-01-01"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Tax Committee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Gothenburg Book Trade Association",
+                "roleName": "Board member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Friends of the Gothenburg Art Museum",
+                "roleName": "Board member"
+            }
+        ],
+        "hobbies": "Art, especially modern paintings and sculptures",
+        "travelledTo": [
+            "Denmark",
+            "Norway",
+            "England",
+            "Germany",
+            "France",
+            "Belgium",
+            "Netherlands"
+        ],
+        "hasOccupation": {
+            "@type": "Person",
+            "name": "Printer"
+        },
+        "article": "Published various newspaper articles"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Printer",
+                "workplace": "Gothenburg Book Company",
+                "industry": "Printing",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Printer",
+                "workplace": "Oscar Isacson's Printing Company",
+                "industry": "Printing",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "AB Isacson's Packaging Factory",
+                "industry": "Packaging",
+                "start_date": "1920"
+            }
+        ]
+    }
+}

@@ -1,0 +1,147 @@
+{
+    "original": "HAMBRAEUS, Gustaf Ragnar, Bankdirektör, Stockholm, f Nora 29/1 91 av org A E H o Maria Johansson, gm Karin Ström. Schartaus hdlsinst, språkstud Frankr 20, Engl o Tyskl 24. Lstkapt. Anst BankAB Södra Sverige Sthlm 11, Sv Hdlsbkn 19, kamr där 20, hvd-kamr 32, dir.ass 33, bitr dir 35, dir o led av bkns dir:on 41. Styr.led Centralrådet f Kronpr:an Margaretas Lstfond, Samf f Sv Folklivsforskn mm.",
+    "translated": "HAMBRAEUS, Gustaf Ragnar, Bank Director, Stockholm, born in Nora on January 29, 1891, son of A.E.H and Maria Johansson, married to Karin Ström. Graduate of Schartau School of Commerce, studied languages in France for 20 months, and in England and Germany for 24 months. Lieutenant Captain. Employed at Bank AB South Sweden in Stockholm since 1911, Swedish Trade Bank in 1919, promoted to assistant cashier in 1920, chief cashier in 1932, assistant director in 1933, deputy director in 1935, and director and member of the bank's board of directors in 1941. Board member of the Central Council for the Crown Princess Margareta's Memorial Foundation, the Association for Swedish Ethnology, etc.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Gustaf Ragnar Hambraeus",
+        "jobTitle": [
+            {
+                "@type": "JobTitle",
+                "name": "Assistant Cashier",
+                "startDate": "1920"
+            },
+            {
+                "@type": "JobTitle",
+                "name": "Chief Cashier",
+                "startDate": "1932"
+            },
+            {
+                "@type": "JobTitle",
+                "name": "Assistant Director",
+                "startDate": "1933"
+            },
+            {
+                "@type": "JobTitle",
+                "name": "Deputy Director",
+                "startDate": "1935"
+            },
+            {
+                "@type": "JobTitle",
+                "name": "Director and Board Member",
+                "startDate": "1941",
+                "memberOf": [
+                    {
+                        "@type": "Organization",
+                        "name": "Bank's Board of Directors"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "Central Council for the Crown Princess Margareta's Memorial Foundation"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "Association for Swedish Ethnology"
+                    }
+                ]
+            }
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "birthDate": "1891-01-29",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "A.E.H"
+            },
+            {
+                "@type": "Person",
+                "name": "Maria Johansson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Karin Ström"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Schartau School of Commerce"
+            },
+            {
+                "@type": "Language",
+                "name": "French"
+            },
+            {
+                "@type": "Language",
+                "name": "English"
+            },
+            {
+                "@type": "Language",
+                "name": "German"
+            }
+        ],
+        "workLocation": [
+            {
+                "@type": "Organization",
+                "name": "Bank AB South Sweden",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm"
+                },
+                "startDate": "1911"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Trade Bank",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm"
+                },
+                "startDate": "1919"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Bank Director",
+                "workplace": "Bank AB South Sweden",
+                "industry": "Banking",
+                "start_date": "1911"
+            },
+            {
+                "occupational_title": "Assistant Cashier",
+                "workplace": "Swedish Trade Bank",
+                "industry": "Banking",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Chief Cashier",
+                "workplace": "Swedish Trade Bank",
+                "industry": "Banking",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Assistant Director",
+                "workplace": "Swedish Trade Bank",
+                "industry": "Banking",
+                "start_date": "1933"
+            },
+            {
+                "occupational_title": "Deputy Director",
+                "workplace": "Swedish Trade Bank",
+                "industry": "Banking",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Director and Member of the Board of Directors",
+                "workplace": "Swedish Trade Bank",
+                "industry": "Banking",
+                "start_date": "1941"
+            }
+        ]
+    }
+}

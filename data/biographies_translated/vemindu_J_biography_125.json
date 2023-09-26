@@ -1,0 +1,80 @@
+{
+    "original": "JOHANSSON, Karl Henning Reinhold, Direktör, Göteborg, f Estuna, Sthlms l, 29/8 90 av Lars Johansson o Maria Gabrielsdtr, gm Maj-Britt Pettersson. Privatstud, Bröderna Påhlmans Hdlsinst. Anst 7 år h Toledo Com-pating Scale Co i Sthlm, däreft eg fma i Gbg i livsmedelsmaskiner, hotellinredningar, möbler etc. samt kylanläggningar.",
+    "translated": "JOHANSSON, Karl Henning Reinhold, Director, Gothenburg, b. Estuna, Stockholm county, 29/8 90 to Lars Johansson and Maria Gabrielsdtr, m. Maj-Britt Pettersson. Private studies, Bröderna Påhlmans Hdlsinst. Employed 7 years at Toledo Com-pating Scale Co in Stockholm, then self-employed in Gothenburg in food machinery, hotel interiors, furniture, etc., as well as refrigeration systems.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Karl Henning Reinhold Johansson",
+        "birthDate": "1890-08-29",
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Estuna, Stockholm county"
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Lars Johansson",
+                "gender": "male"
+            },
+            {
+                "@type": "Person",
+                "name": "Maria Gabrielsdtr",
+                "gender": "female"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Maj-Britt Pettersson",
+            "gender": "female"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Bröderna Påhlmans Hdlsinst"
+        },
+        "occupation": {
+            "@type": "Role",
+            "name": "Director"
+        },
+        "workLocation": {
+            "@type": "Place",
+            "name": "Gothenburg"
+        },
+        "workExperience": [
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Toledo Com-pating Scale Co"
+                },
+                "startDate": "1910-01-01",
+                "endDate": "1917-12-31",
+                "description": "Employed for 7 years"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Self-employed"
+                },
+                "startDate": "1918-01-01",
+                "description": "Engaged in food machinery, hotel interiors, furniture, and refrigeration systems"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Employee",
+                "workplace": "Toledo Com-pating Scale Co",
+                "industry": "Industrial",
+                "start_date": "7 years"
+            },
+            {
+                "occupational_title": "Self-employed",
+                "workplace": "Gothenburg",
+                "industry": "Food machinery, hotel interiors, furniture, etc., as well as refrigeration systems",
+                "start_date": "N/A"
+            }
+        ]
+    }
+}

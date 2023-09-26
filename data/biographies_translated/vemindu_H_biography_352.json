@@ -1,0 +1,163 @@
+{
+    "original": "HOLMBERG, Johan Per, Civilingenjör, Södertörns villastad, f Södertälje Idsförsaml 12/5 05 av agronom B J H o Gertrud Holmberg, gm Hjördis Ramen. Studex Södertälje 23, KTH (maskinbyggn o mek tekn) 24—28. Anst v Compagnie Bolinders Paris 29—31, AB Scania Vabis Södertälje 31—35, AB Atlas Die-sel Sthlm 35—40 m plac v Tow Handlowe Svea S A Warszawa Polen. Försvarsväsendets Verkstadsnäinnd 40—41, AB Pumpindustri 41 —43, Väg- o Vattenbyggn.styr fr 44.",
+    "translated": "HOLMBERG, Johan Per, Civil Engineer, Södertörn Villa City, b. Södertälje Parish 12/5 05, son of agronomist B J H and Gertrud Holmberg, m. Hjördis Ramen. Completed secondary education in Södertälje in 1923, attended the Royal Institute of Technology (mechanical engineering) 1924-1928. Employed at Compagnie Bolinders Paris 1929-1931, AB Scania Vabis Södertälje 1931-1935, AB Atlas Diesel Stockholm 1935-1940 with a posting at Tow Handlowe Svea S A Warsaw Poland. Involved in the Defense Works Committee 1940-1941, AB Pump Industry 1941-1943, and the Road and Water Construction Board from 1944 onwards.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Johan Per Holmberg",
+        "birthDate": "1905-05-12",
+        "birthPlace": "Södertälje, Sweden",
+        "description": "Civil Engineer",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "B J H Holmberg",
+                "jobTitle": "Agronomist"
+            },
+            {
+                "@type": "Person",
+                "name": "Gertrud Holmberg"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Hjördis Ramen"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Secondary",
+                "educationalLevel": "SecondaryEducation",
+                "awardDate": "1923",
+                "awardingInstitution": "Södertälje"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Bachelor's",
+                "educationalLevel": "Bachelor",
+                "major": "Mechanical Engineering",
+                "awardDate": "1928",
+                "awardingInstitution": "Royal Institute of Technology"
+            }
+        ],
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "title": "Civil Engineer",
+                "startDate": "1929-01-01",
+                "endDate": "1931-12-31",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Compagnie Bolinders",
+                    "location": "Paris, France"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Civil Engineer",
+                "startDate": "1931-01-01",
+                "endDate": "1935-12-31",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Scania Vabis",
+                    "location": "Södertälje, Sweden"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Civil Engineer",
+                "startDate": "1935-01-01",
+                "endDate": "1940-12-31",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Atlas Diesel",
+                    "location": "Stockholm, Sweden"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Civil Engineer",
+                "startDate": "1940-01-01",
+                "endDate": "1941-12-31",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Försvarsväsendets Verkstadsnäinnd",
+                    "location": ""
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Civil Engineer",
+                "startDate": "1941-01-01",
+                "endDate": "1943-12-31",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Pumpindustri",
+                    "location": ""
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Civil Engineer",
+                "startDate": "1944-01-01",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Väg- o Vattenbyggn.styr",
+                    "location": ""
+                }
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Södertörn Villa City",
+                "industry": "Engineering",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Compagnie Bolinders Paris",
+                "industry": "Engineering",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "AB Scania Vabis Södertälje",
+                "industry": "Engineering",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "AB Atlas Diesel Stockholm",
+                "industry": "Engineering",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Tow Handlowe Svea S A Warsaw Poland",
+                "industry": "Engineering",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Member of the Defense Works Committee",
+                "workplace": null,
+                "industry": null,
+                "start_date": "1940"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "AB Pump Industry",
+                "industry": "Engineering",
+                "start_date": "1941"
+            },
+            {
+                "occupational_title": "Member of the Road and Water Construction Board",
+                "workplace": null,
+                "industry": null,
+                "start_date": "1944"
+            }
+        ]
+    }
+}

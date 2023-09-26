@@ -1,0 +1,102 @@
+{
+    "original": "JOHANSSON, Göte Julius, Kamrer, Åstorp, f östra Ljungby 31/12 00 av fabr J J o Hilda Wittsell. Hbgs hdlsgymn 19, HHS 25. Anst v ASEA i Västerås 20—21, v J Johanssons Träförädlingsfabr (ombild t Ji-Te AB 37). sed. 25, av styr.led där. Resor: Tyskl 21—22, Engl 23.",
+    "translated": "JOHANSSON, Göte Julius, Clerk, Åstorp, b. in östra Ljungby on December 31, 1900, son of factory worker J J and Hilda Wittsell. Attended high school in Halmstad in 1919, then studied at Handelshögskolan in 1925. Employed at ASEA in Västerås from 1920 to 1921, then at J Johanssons Träförädlingsfabr (which was later transformed into Ji-Te AB in 1937). Since 1925, member of the board of directors there. Traveled to Germany in 1921-1922, and to England in 1923.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Göte Julius Johansson",
+        "jobTitle": "Clerk",
+        "birthDate": "1900-12-31",
+        "birthPlace": "östra Ljungby",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "J J Johansson"
+            },
+            {
+                "@type": "Person",
+                "name": "Hilda Wittsell"
+            }
+        ],
+        "education": [
+            {
+                "@type": "HighSchool",
+                "name": "Hbgs hdlsgymn",
+                "startDate": "1919"
+            },
+            {
+                "@type": "CollegeOrUniversity",
+                "name": "Handelshögskolan",
+                "startDate": "1925"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "ASEA",
+                "location": "Västerås",
+                "startDate": "1920",
+                "endDate": "1921"
+            },
+            {
+                "@type": "Organization",
+                "name": "J Johanssons Träförädlingsfabr",
+                "location": "Åstorp",
+                "startDate": "1921",
+                "endDate": "1937"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Ji-Te AB",
+            "location": "Åstorp",
+            "startDate": "1937"
+        },
+        "boardMember": {
+            "@type": "Organization",
+            "name": "J Johanssons Träförädlingsfabr",
+            "startDate": "1925"
+        },
+        "travel": [
+            {
+                "@type": "Trip",
+                "name": "Germany",
+                "startDate": "1921",
+                "endDate": "1922"
+            },
+            {
+                "@type": "Trip",
+                "name": "England",
+                "startDate": "1923"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Clerk",
+                "workplace": "Åstorp",
+                "industry": null,
+                "start_date": null
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "ASEA",
+                "industry": null,
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Johanssons Träförädlingsfabr",
+                "industry": null,
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Member of the Board of Directors",
+                "workplace": "Ji-Te AB",
+                "industry": null,
+                "start_date": "1925"
+            }
+        ]
+    }
+}

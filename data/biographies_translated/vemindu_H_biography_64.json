@@ -1,0 +1,127 @@
+{
+    "original": "HALLIN, Petrus, Ingenjör, Skoghall, f Ny-ed, Värml l, 17/9 83 av mjöln J P H o Lovisa Petersdotter, gm Sigrid Gustafsson. Ge-nomg Värml läns folkhögskola 02—03, elev v Finnshyttan 06 och v bergsskolan i Filipstad 06—07. Anst som verkm v Årås sulfitfabr 07—14, v planer- o nybyggn.arb f Skoghalls sulfitfabrik 15—17, driftsing där sed. 17.",
+    "translated": "HALLIN, Petrus, Engineer, Skoghall, born in Ny-ed, Värmland county, on 17th September 1883, the son of miller J. P. H. and Lovisa Petersdotter, married to Sigrid Gustafsson. Completed studies at Värmland County Folk High School in 1902-1903, was a student at Finnshyttan in 1906 and at the mining school in Filipstad from 1906-1907. Employed as a supervisor at Årås sulfite factory from 1907-1914, worked as a planner and in new construction at Skoghalls sulfite factory from 1915-1917, and has been employed as an engineer there since 1917. Note: The date format '\\d\\d m. partner's name' denotes marriage in the year 19xx.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Petrus Hallin",
+        "birthDate": "1883-09-17",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Ny-ed",
+                "addressRegion": "Värmland",
+                "addressCountry": "Sweden"
+            }
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "J. P. H."
+            },
+            {
+                "@type": "Person",
+                "name": "Lovisa Petersdotter"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Sigrid Gustafsson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Värmland County Folk High School",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "Sweden"
+                    }
+                },
+                "startDate": "1902",
+                "endDate": "1903"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Finnshyttan",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "Sweden"
+                    }
+                },
+                "startDate": "1906",
+                "endDate": "1906"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Mining school in Filipstad",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "Sweden"
+                    }
+                },
+                "startDate": "1906",
+                "endDate": "1907"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1907",
+                "endDate": "1914",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Årås Sulfite Factory"
+                },
+                "roleName": "Supervisor"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1915",
+                "endDate": "1917",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Skoghalls Sulfite Factory"
+                },
+                "roleName": "Planner and New Construction"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1917",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Skoghalls Sulfite Factory"
+                },
+                "roleName": "Engineer"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Årås sulfite factory",
+                "industry": "Sulfite industry",
+                "start_date": "1907"
+            },
+            {
+                "occupational_title": "Planner and New Construction",
+                "workplace": "Skoghalls sulfite factory",
+                "industry": "Sulfite industry",
+                "start_date": "1915"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Skoghalls sulfite factory",
+                "industry": "Sulfite industry",
+                "start_date": "1917"
+            }
+        ]
+    }
+}

@@ -1,0 +1,166 @@
+{
+    "original": "HÖK, John Abraham, Direktör, Linköping, f Gåsinge, Sörml län 11/4 91 av lantbr J H o Bertha Lindgren, gm Anna Larsson. Studex Lkp 12, agr Ultuna 16. Bokh Tislinge gård, Knivsta, 16—17, Lundås gård, Häverödal, 17— 20, förv Ronöholms gård, Hallstavik, 20—23, tekn led AB Tekn fabr Gripen, Lkp, 23—33, vkst dir o styr.led sed. 33. Kyrkoflm sed. 43. Studieres Tyskl 29. Frimurare.",
+    "translated": "HÖK, John Abraham, Director, Linköping, born in Gåsinge, Södermanland County on April 11th, 1891, son of farmer J.H. and Bertha Lindgren, married Anna Larsson. Graduated from Linköping School in 1912, studied agriculture at Ultuna from 1916. Bookkeeper at Tislinge farm, Knivsta, from 1916 to 1917, Lundås farm, Häverödal, from 1917 to 1920, administrator at Ronöholm farm, Hallstavik, from 1920 to 1923. Technical manager at AB Tekniska fabriken Gripen, in Linköping, from 1923 to 1933, later promoted to vice director and board member. Church trustee since 1943. Studied German in 1929. Member of the Freemasons.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "John Abraham HÖK",
+        "jobTitle": "Director",
+        "birthPlace": "Gåsinge, Södermanland County",
+        "birthDate": "1891-04-11",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "J.H. Hök",
+                "jobTitle": "Farmer"
+            },
+            {
+                "@type": "Person",
+                "name": "Bertha Lindgren"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Anna Larsson"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Graduation",
+            "earnedBy": {
+                "@type": "Person",
+                "name": "John Abraham Hök"
+            },
+            "educationalLevel": "12",
+            "educationalProgram": {
+                "@type": "EducationalOccupationalProgram",
+                "name": "Linköping School"
+            },
+            "startDate": "1912"
+        },
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1916",
+                "endDate": "1917",
+                "roleName": "Bookkeeper",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Tislinge farm",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Knivsta"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1917",
+                "endDate": "1920",
+                "roleName": "Administrator",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Lundås farm",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Häverödal"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1920",
+                "endDate": "1923",
+                "roleName": "Administrator",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Ronöholm farm",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Hallstavik"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1923",
+                "endDate": "1933",
+                "roleName": "Technical Manager",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Tekniska fabriken Gripen",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Linköping"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1933",
+                "roleName": "Vice Director and Board Member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Tekniska fabriken Gripen",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Linköping"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1943",
+                "roleName": "Church Trustee"
+            }
+        ],
+        "study": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Study",
+                "earnedBy": {
+                    "@type": "Person",
+                    "name": "John Abraham Hök"
+                },
+                "studySubject": [
+                    {
+                        "@type": "DefinedTerm",
+                        "name": "German"
+                    }
+                ],
+                "startDate": "1929"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Freemasons"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Bookkeeper",
+                "workplace": "Tislinge gård",
+                "industry": "Farming",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Bookkeeper",
+                "workplace": "Lundås gård",
+                "industry": "Farming",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Administrator",
+                "workplace": "Ronöholms gård",
+                "industry": "Farming",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Technical Manager",
+                "workplace": "AB Tekniska fabriken Gripen",
+                "industry": "Engineering",
+                "start_date": "1923"
+            }
+        ]
+    }
+}

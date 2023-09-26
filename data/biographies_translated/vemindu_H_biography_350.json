@@ -1,0 +1,156 @@
+{
+    "original": "HOLMBERG, David Herman, Grosshandlare, Norrköping, f Norrkp 17/8 78 av verkst-förman A P H o Charlotta Månsson, gm Judith Henning. Dir i Trävaru AB Olof Bagge &amp; Co i Norrkp. Styr.led i Norrkps Folkbk sed. 31. Stdsflm 28, suppl i beredn.utsk, led av lönenmd o pens.nmd, v. ordf i fattigv.-styr 14—37, styr.led i Kalbo arb.hem f män, led av centralstyr f Allm Valmansfrb i Norrköping 27.",
+    "translated": "HOLMBERG, David Herman, Wholesale Merchant, Norrköping, born in Norrköping on August 17th, 1878, son of foreman A P H and Charlotta Månsson, married to Judith Henning. Director of Timber Company Olof Bagge & Co in Norrköping. Board member of Norrköping People's Bank since 1931. Member of the film committee since 1928, supplementary member of the preparation committee, member of the salary board and pension board, vice chairman of the poor relief board from 1914 to 1937, board member of Kalbo Men's Work Home, member of the central board of the General Suffrage Association in Norrköping since 1927.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "David Herman Holmberg",
+        "birthDate": "1878-08-17",
+        "birthPlace": "Norrköping",
+        "father": {
+            "@type": "Person",
+            "name": "A P H Holmberg"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Charlotta Månsson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Judith Henning"
+        },
+        "jobTitle": "Wholesale Merchant",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Timber Company Olof Bagge & Co",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Norrköping"
+            }
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Norrköping People's Bank",
+                "startDate": "1931-01-01"
+            },
+            {
+                "@type": "Organization",
+                "name": "Kalbo Men's Work Home"
+            },
+            {
+                "@type": "Organization",
+                "name": "General Suffrage Association",
+                "startDate": "1927-01-01"
+            }
+        ],
+        "boardMember": [
+            {
+                "@type": "OrganizationRole",
+                "memberOf": "Norrköping People's Bank",
+                "roleName": "Board Member"
+            },
+            {
+                "@type": "OrganizationRole",
+                "memberOf": "Kalbo Men's Work Home",
+                "roleName": "Board Member"
+            }
+        ],
+        "committeeMember": [
+            {
+                "@type": "OrganizationRole",
+                "memberOf": "Film Committee",
+                "roleName": "Member",
+                "startDate": "1928-01-01"
+            },
+            {
+                "@type": "OrganizationRole",
+                "memberOf": "Preparation Committee",
+                "roleName": "Supplementary Member"
+            }
+        ],
+        "governmentalPosition": [
+            {
+                "@type": "GovernmentOrganizationRole",
+                "governmentOrganization": "Poor Relief Board",
+                "roleName": "Vice Chairman",
+                "startDate": "1914-01-01",
+                "endDate": "1937-12-31"
+            }
+        ],
+        "otherAffiliations": [
+            {
+                "@type": "Organization",
+                "name": "Salary Board"
+            },
+            {
+                "@type": "Organization",
+                "name": "Pension Board"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Wholesale Merchant",
+                "workplace": "Olof Bagge & Co",
+                "industry": "Timber",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Trävaru AB Olof Bagge & Co",
+                "industry": "Timber",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Norrköping People's Bank",
+                "industry": "Finance",
+                "start_date": 1931
+            },
+            {
+                "occupational_title": "Member of the Film Committee",
+                "workplace": null,
+                "industry": null,
+                "start_date": 1928
+            },
+            {
+                "occupational_title": "Supplementary Member of the Preparation Committee",
+                "workplace": null,
+                "industry": null,
+                "start_date": null
+            },
+            {
+                "occupational_title": "Member of the Salary Board",
+                "workplace": null,
+                "industry": null,
+                "start_date": null
+            },
+            {
+                "occupational_title": "Member of the Pension Board",
+                "workplace": null,
+                "industry": null,
+                "start_date": null
+            },
+            {
+                "occupational_title": "Vice Chairman of the Poor Relief Board",
+                "workplace": null,
+                "industry": null,
+                "start_date": 1914
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Kalbo Men's Work Home",
+                "industry": null,
+                "start_date": null
+            },
+            {
+                "occupational_title": "Member of the Central Board",
+                "workplace": "General Suffrage Association in Norrköping",
+                "industry": null,
+                "start_date": 1927
+            }
+        ]
+    }
+}

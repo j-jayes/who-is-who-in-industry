@@ -1,0 +1,112 @@
+{
+    "original": "HOLM, Svante, Civilingenjör, Olofström, f Kristiania 7/2 03 av målaremäst A H o Sofia Söderholm, gm Birgit Runnquist. Studex N-Real Sthlm 23, KTH (maskinbyggn o mek tekn) 24—28. Anst v Jonsereds Fabrikers AB 28—29, Sv Stålpressn AB Olofström sed. 29, verkst.ing där. Ordf i luftskyddsnmdn, i Olofströms Fiskevårdsfrn samt i Frn Olofströms Idrottsplats. Resor: Engl 26, 39, Tyskl 29 o 36. Hobby: Fiske.",
+    "translated": "HOLM, Svante, Civil Engineer, Olofström, b. Kristiania 7/2 03, son of master painter A H and Sofia Söderholm, m. Birgit Runnquist. Graduated N-Real Sthlm 23, KTH (Mechanical Engineering) 24-28. Employed at Jonsered Fabrikers AB 28-29, Sv Stålpressn AB Olofström since 29, working as an engineer there. Chairman of the air defense committee, Olofström Fisheries Conservation Association, and the Olofström Sports Field Association. Travels: England 26, 39, Germany 29 and 36. Hobby: Fishing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Svante Holm",
+        "jobTitle": "Civil Engineer",
+        "birthDate": "1903-02-07",
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Kristiania"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "A H Holm",
+                "jobTitle": "Master Painter"
+            },
+            {
+                "@type": "Person",
+                "name": "Sofia Söderholm"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Birgit Runnquist"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "N-Real Sthlm",
+                "startDate": "1923",
+                "endDate": null
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "KTH",
+                "department": "Mechanical Engineering",
+                "startDate": "1924",
+                "endDate": "1928"
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Sv Stålpressn AB",
+            "department": "Olofström",
+            "startDate": "1929"
+        },
+        "hobby": "Fishing",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Jonsereds Fabrikers AB",
+                "startDate": "1928",
+                "endDate": "1929"
+            },
+            {
+                "@type": "Organization",
+                "name": "Olofström Fisheries Conservation Association",
+                "position": "Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Olofström Sports Field Association",
+                "position": "Chairman"
+            }
+        ],
+        "travel": [
+            {
+                "@type": "Place",
+                "name": "England",
+                "startDate": "1926",
+                "endDate": null
+            },
+            {
+                "@type": "Place",
+                "name": "England",
+                "startDate": "1939",
+                "endDate": null
+            },
+            {
+                "@type": "Place",
+                "name": "Germany",
+                "startDate": "1929",
+                "endDate": null
+            },
+            {
+                "@type": "Place",
+                "name": "Germany",
+                "startDate": "1936",
+                "endDate": null
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Jonsered Fabrikers AB",
+                "industry": "Engineering",
+                "start_date": "1928-1929"
+            },
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Sv Stålpressn AB",
+                "industry": "Engineering",
+                "start_date": "1929"
+            }
+        ]
+    }
+}

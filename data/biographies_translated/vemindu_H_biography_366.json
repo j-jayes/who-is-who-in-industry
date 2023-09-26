@@ -1,0 +1,129 @@
+{
+    "original": "HOLMGREN, Ragnar, Direktör, Malmö, f Riddarhyttan, Västmanl l, 11/6 92 av folkskollär K J E Holmgren o Jenny Mellner, gm Amy Johansson. Hdlssk. Korresp v ol företag i Sv 14—20, kont.ch h fmor i Paris o London 21—24, repres o res f eng, franska o amerik affärshus 25—34, ch f AB Herrkonfektionen Örnen i Malmö sed. 35. Affärsresor i USA, Central- o Sydamerika, Asien, Afr o Austr. Medl av Travellers Club i Malmö, Druidorden o Cercle Suédois i Paris. Hobbies: Resor o friluftsliv.",
+    "translated": "HOLMGREN, Ragnar, Director, Malmö, b. Riddarhyttan, Västmanland County, June 11, 1892, son of elementary school teacher K J E Holmgren and Jenny Mellner, m. Amy Johansson. Elementary school education. Correspondent for a company in Sweden from 1914 to 1920, financial controller in Paris and London from 1921 to 1924, representative and manager for English, French, and American business houses from 1925 to 1934, and chief of AB Herrkonfektionen Örnen in Malmö since 1935. Business trips to the United States, Central and South America, Asia, Africa, and Australia. Member of the Travellers Club in Malmö, Druid Order, and Cercle Suédois in Paris. Hobbies: Traveling and outdoor activities.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Ragnar Holmgren",
+        "jobTitle": "Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Malmö"
+        },
+        "birthDate": "1892-06-11",
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Riddarhyttan, Västmanland County"
+        },
+        "parents": [
+            {
+                "name": "K J E Holmgren",
+                "jobTitle": "Elementary School Teacher"
+            },
+            {
+                "name": "Jenny Mellner"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Amy Johansson"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Elementary school education"
+        },
+        "career": [
+            {
+                "@type": "JobPosting",
+                "startDate": "1914-01-01",
+                "endDate": "1920-12-31",
+                "title": "Correspondent",
+                "employer": "Company in Sweden"
+            },
+            {
+                "@type": "JobPosting",
+                "startDate": "1921-01-01",
+                "endDate": "1924-12-31",
+                "title": "Financial Controller",
+                "employer": "Paris and London"
+            },
+            {
+                "@type": "JobPosting",
+                "startDate": "1925-01-01",
+                "endDate": "1934-12-31",
+                "title": "Representative and Manager",
+                "employer": "English, French, and American business houses"
+            },
+            {
+                "@type": "JobPosting",
+                "startDate": "1935-01-01",
+                "title": "Chief",
+                "employer": "AB Herrkonfektionen Örnen, Malmö"
+            }
+        ],
+        "sameAs": [
+            "https://www.example.com/your-website",
+            "https://www.example.com/your-social-profile"
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Travellers Club",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Malmö"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Druid Order"
+            },
+            {
+                "@type": "Organization",
+                "name": "Cercle Suédois",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Paris"
+                }
+            }
+        ],
+        "hasOccupation": [
+            {
+                "@type": "Occupation",
+                "name": "Director"
+            }
+        ],
+        "interest": [
+            "Traveling",
+            "Outdoor activities"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Correspondent",
+                "workplace": "Unknown Company in Sweden",
+                "industry": "Unknown",
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Financial Controller",
+                "workplace": "Paris and London",
+                "industry": "Unknown",
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Representative and Manager",
+                "workplace": "English, French, and American business houses",
+                "industry": "Unknown",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Chief",
+                "workplace": "AB Herrkonfektionen Örnen",
+                "industry": "Clothing Manufacturing",
+                "start_date": "1935"
+            }
+        ]
+    }
+}

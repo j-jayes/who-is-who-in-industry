@@ -1,0 +1,159 @@
+{
+    "original": "HALLÄNDER, Harald, Disponent, Nora, f Godegård, Ögl, 17/5 75 av Oscar I Andersson o h h, gm Martha Halländer. Hal, CTH, Kphmns jasn.fysiologiska, brygg.sk i Munchen. Bryggm i Borgå, Finl, 00—04, Nybro 05—11, disp Nora Brygg.AB sed. 11 o vkst dir där.",
+    "translated": "HALLÄNDER, Harald, Manager, Nora, born in Godegård, Ögl, on May 17th, 1875 to Oscar I Andersson and his wife. Married to Martha Halländer. Harald graduated from the Royal Institute of Technology (CTH) in Stockholm and studied physiological science in Copenhagen. He worked as a brewing apprentice in Munich, Germany. Harald worked as a brewmaster in Borgå, Finland from 1900 to 1904 and in Nybro from 1905 to 1911. Since 1911, he has been the manager of Nora Brygg.AB and has also held a position as a director there.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Harald Halländer",
+        "jobTitle": "Manager",
+        "birthDate": "1875-05-17",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Godegård"
+        },
+        "nationality": "Swedish",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Oscar I Andersson",
+                "gender": "male"
+            },
+            {
+                "@type": "Person",
+                "name": "Martha Halländer",
+                "gender": "female"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Martha Halländer",
+            "gender": "female"
+        },
+        "education": [
+            {
+                "@type": "CollegeOrUniversity",
+                "name": "Royal Institute of Technology",
+                "location": {
+                    "@type": "Country",
+                    "name": "Sweden"
+                }
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "Copenhagen Physiological Science Studies",
+                "studiedAt": {
+                    "@type": "CollegeOrUniversity",
+                    "name": "Copenhagen",
+                    "location": {
+                        "@type": "Country",
+                        "name": "Denmark"
+                    }
+                }
+            }
+        ],
+        "employment": [
+            {
+                "@type": "JobPosting",
+                "title": "Brewing Apprentice",
+                "startDate": "yyyy-mm-dd",
+                "endDate": "yyyy-mm-dd",
+                "location": {
+                    "@type": "Country",
+                    "name": "Germany"
+                },
+                "hiringOrganization": {
+                    "@type": "Organization",
+                    "name": "Munich Brewery"
+                }
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Brewmaster",
+                "startDate": "1900-01-01",
+                "endDate": "1904-12-31",
+                "location": {
+                    "@type": "Country",
+                    "name": "Finland"
+                },
+                "hiringOrganization": {
+                    "@type": "Organization",
+                    "name": "Borgå Brewery"
+                }
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Brewmaster",
+                "startDate": "1905-01-01",
+                "endDate": "1911-12-31",
+                "location": {
+                    "@type": "Country",
+                    "name": "Sweden"
+                },
+                "hiringOrganization": {
+                    "@type": "Organization",
+                    "name": "Nybro Brewery"
+                }
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Manager",
+                "startDate": "1911-01-01",
+                "location": {
+                    "@type": "LocalBusiness",
+                    "name": "Nora Brygg.AB"
+                },
+                "hiringOrganization": {
+                    "@type": "Organization",
+                    "name": "Nora Brygg.AB"
+                }
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Director",
+                "startDate": "yyyy-mm-dd",
+                "location": {
+                    "@type": "LocalBusiness",
+                    "name": "Nora Brygg.AB"
+                },
+                "hiringOrganization": {
+                    "@type": "Organization",
+                    "name": "Nora Brygg.AB"
+                }
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Brewing Apprentice",
+                "workplace": "Munich",
+                "industry": "Brewing",
+                "start_date": "unknown"
+            },
+            {
+                "occupational_title": "Brewmaster",
+                "workplace": "Borgå",
+                "industry": "Brewing",
+                "start_date": "1900"
+            },
+            {
+                "occupational_title": "Brewmaster",
+                "workplace": "Nybro",
+                "industry": "Brewing",
+                "start_date": "1905"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Nora Brygg.AB",
+                "industry": "Brewing",
+                "start_date": "1911"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Nora Brygg.AB",
+                "industry": "Brewing",
+                "start_date": "unknown"
+            }
+        ]
+    }
+}

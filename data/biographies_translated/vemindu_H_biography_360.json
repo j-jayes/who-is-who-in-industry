@@ -1,0 +1,295 @@
+{
+    "original": "HOLMGREN, Bertil, Bergsingenjör, Stockholm, f Sthlm 17/10 01 av övering T A F:son H o Estrid af Klintberg, gm Biddie Ryman. Studex Sthlm 20, KTH (bergs) 27; KS 22, fänr i Svea art.reg:s res 22, ulöjtn 24, löjtn 28, kapt 40. Ing v SKF Hofors Br 29—30, h AB Separator 30—32, eg vksmh i Holl 33— 34, försäljn.ing h Deutsche Magnesit A G Munchen sed. 35, ing i Stat ind.komm sed. 43. Styr.led AB Plåtmanufaktur sed. 42. Resor: USA 27—29, Holl, Engl 30, Holl Indien o Malacka 30—32, Holl 33—34, Norge, Finl, Tyskl årl 35—40. Skyttem, idr.m. Hobbies: Friluftsliv, sport.",
+    "translated": "HOLMGREN, Bertil, Mining Engineer, Stockholm, b. Sthlm 17/10 01, son of Captain T. A. F. Holmgren and Estrid af Klintberg, married to Biddie Ryman. Graduated from Stockholm High School in 1920, Royal Institute of Technology (mining) in 1927; Central School (military) in 1922, became second lieutenant in the Svea Artillery Regiment in 1922, lieutenant in 1924, and captain in 1940. Worked as an engineer at SKF Hofors Br from 1929 to 1930, at AB Separator from 1930 to 1932, had his own consulting business in the Netherlands from 1933 to 1934, served as a sales engineer at Deutsche Magnesit AG in Munich since 1935, and worked as an engineer at the State Industrial Committee since 1943. Board member of AB Plåtmanufaktur since 1942. Traveled to the USA from 1927 to 1929, Netherlands and England in 1930, Netherlands, India, and Malacca from 1930 to 1932, Netherlands from 1933 to 1934, and annually to Norway, Finland, and Germany from 1935 to 1940. Interests: Shooting, sports. Hobbies: Outdoor activities, sports.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Bertil Holmgren",
+        "jobTitle": "Mining Engineer",
+        "birthPlace": "Stockholm",
+        "birthDate": "1901-10-17",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "T. A. F. Holmgren",
+                "jobTitle": "Captain"
+            },
+            {
+                "@type": "Person",
+                "name": "Estrid af Klintberg"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Biddie Ryman"
+        },
+        "education": [
+            {
+                "@type": "educationalCredentialAwarded",
+                "name": "Graduate from Stockholm High School",
+                "dateAwarded": "1920"
+            },
+            {
+                "@type": "educationalCredentialAwarded",
+                "name": "Graduate from Royal Institute of Technology (mining)",
+                "dateAwarded": "1927"
+            },
+            {
+                "@type": "educationalCredentialAwarded",
+                "name": "Graduate from Central School (military)",
+                "dateAwarded": "1922"
+            }
+        ],
+        "militaryService": [
+            {
+                "@type": "OrganizationRole",
+                "title": "Second Lieutenant",
+                "startDate": "1922",
+                "endDate": "1924",
+                "namedPosition": {
+                    "@type": "Organization",
+                    "name": "Svea Artillery Regiment"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Lieutenant",
+                "startDate": "1924",
+                "endDate": "1928",
+                "namedPosition": {
+                    "@type": "Organization",
+                    "name": "Svea Artillery Regiment"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Captain",
+                "startDate": "1940",
+                "namedPosition": {
+                    "@type": "Organization",
+                    "name": "Svea Artillery Regiment"
+                }
+            }
+        ],
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "title": "Engineer",
+                "startDate": "1929",
+                "endDate": "1930",
+                "namedPosition": {
+                    "@type": "Organization",
+                    "name": "SKF Hofors Br"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Engineer",
+                "startDate": "1930",
+                "endDate": "1932",
+                "namedPosition": {
+                    "@type": "Organization",
+                    "name": "AB Separator"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Consultant",
+                "startDate": "1933",
+                "endDate": "1934",
+                "namedPosition": {
+                    "@type": "Organization",
+                    "name": "Own Consulting Business (the Netherlands)"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Sales Engineer",
+                "startDate": "1935",
+                "namedPosition": {
+                    "@type": "Organization",
+                    "name": "Deutsche Magnesit AG (Munich)",
+                    "location": {
+                        "@type": "Place",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "Germany",
+                            "addressLocality": "Munich"
+                        }
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Engineer",
+                "startDate": "1943",
+                "namedPosition": {
+                    "@type": "Organization",
+                    "name": "State Industrial Committee"
+                }
+            }
+        ],
+        "boardMember": [
+            {
+                "@type": "Organization",
+                "name": "AB Plåtmanufaktur",
+                "startDate": "1942"
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "TravelAction",
+                "fromLocation": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "United States"
+                    }
+                },
+                "toLocation": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "United States"
+                    }
+                },
+                "startDate": "1927",
+                "endDate": "1929"
+            },
+            {
+                "@type": "TravelAction",
+                "fromLocation": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "Netherlands"
+                    }
+                },
+                "toLocation": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "England"
+                    }
+                },
+                "startDate": "1930"
+            },
+            {
+                "@type": "TravelAction",
+                "fromLocation": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "Netherlands"
+                    }
+                },
+                "toLocation": {
+                    "@type": "Place",
+                    "name": "India",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "Malacca"
+                    }
+                },
+                "startDate": "1930",
+                "endDate": "1932"
+            },
+            {
+                "@type": "TravelAction",
+                "fromLocation": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "Netherlands"
+                    }
+                },
+                "toLocation": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "Netherlands"
+                    }
+                },
+                "startDate": "1933",
+                "endDate": "1934"
+            },
+            {
+                "@type": "TravelAction",
+                "fromLocation": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "Norway"
+                    }
+                },
+                "toLocation": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "Finland"
+                    }
+                },
+                "startDate": "1935",
+                "endDate": "1940"
+            },
+            {
+                "@type": "TravelAction",
+                "fromLocation": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "Germany"
+                    }
+                },
+                "toLocation": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "Germany"
+                    }
+                },
+                "startDate": "1935",
+                "endDate": "1940"
+            }
+        ],
+        "interests": [
+            "Shooting",
+            "Sports",
+            "Outdoor activities"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Mining Engineer",
+                "workplace": "SKF Hofors Br",
+                "industry": "Mining",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "AB Separator",
+                "industry": "Engineering",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Consulting Engineer",
+                "workplace": "Netherlands",
+                "industry": "Engineering",
+                "start_date": "1933"
+            },
+            {
+                "occupational_title": "Sales Engineer",
+                "workplace": "Deutsche Magnesit AG",
+                "industry": "Sales",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "State Industrial Committee",
+                "industry": "Engineering",
+                "start_date": "1943"
+            }
+        ]
+    }
+}

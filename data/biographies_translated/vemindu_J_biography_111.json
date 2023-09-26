@@ -1,0 +1,119 @@
+{
+    "original": "JOHANSSON, Emil Vilhelm, Rektor, Auktoriserad revisor, Hälsingborg, f Simtuna, Västml l, 20/11 84 av lantbr K J o h h f Lindberg, gm Marta Krok. Folkskollär.ex 07, dipl hdls-sk Gbg 25. Hdlslär v Kroks hdlsinst fr 16 o v Hbgs prakt mellansk fr 26, inneh nu Kroks hdlsinst samt rev.byrå. Tax.ordf o led av Hbgs stads rev und fi år. Resor: Tyskl 21, 22, 35, 36, Ital 22, Frankr 26, Finl o Ryssl 31, Polen o Balticum 38. Frimurare.",
+    "translated": "JOHANSSON, Emil Vilhelm, Principal, Authorized Auditor, Hälsingborg, b. Simtuna, Västmanland County, 20/11 1884, son of farmer K J o h h f Lindberg and Marta Krok. Completed elementary school teacher's education in 1907, diploma in commerce from Gothenburg in 1925. Commerce instructor at Kroks Commercial Institute since 1916 and at Halmstad Practical Middle School since 1926, currently owner of Kroks Commercial Institute and a auditing firm. Chairman and board member of Halmstad city auditing committee for several years. Travels: Germany 1921, 1922, 1935, 1936, Italy 1922, France 1926, Finland and Russia 1931, Poland and the Baltic states 1938. Freemason.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Emil Vilhelm Johansson",
+        "jobTitle": "Principal",
+        "alumniOf": {
+            "@type": "EducationalOrganization",
+            "name": "Kroks Commercial Institute"
+        },
+        "birthDate": "1884-11-20",
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Simtuna, Västmanland County"
+        },
+        "father": {
+            "@type": "Person",
+            "name": "K J o h h f Lindberg",
+            "occupation": "Farmer"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Marta Krok"
+        },
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Freemasonry"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Kroks Commercial Institute"
+            },
+            {
+                "@type": "Organization",
+                "name": "Auditing Firm"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Elementary School Teacher",
+                "educationalLevel": "Diploma",
+                "provider": {
+                    "@type": "LearningResource",
+                    "name": "Gothenburg"
+                },
+                "endDate": "1907"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Commerce",
+                "educationalLevel": "Diploma",
+                "provider": {
+                    "@type": "LearningResource",
+                    "name": "Gothenburg"
+                },
+                "endDate": "1925"
+            }
+        ],
+        "jobLocation": {
+            "@type": "Place",
+            "name": "Hälsingborg"
+        },
+        "travels": [
+            "Germany (1921-1922, 1935-1936)",
+            "Italy (1922)",
+            "France (1926)",
+            "Finland and Russia (1931)",
+            "Poland and the Baltic states (1938)"
+        ],
+        "auditingCommittee": {
+            "@type": "Organization",
+            "name": "Halmstad city auditing committee"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Principal",
+                "workplace": "Unknown",
+                "industry": "Education",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Authorized Auditor",
+                "workplace": "Unknown",
+                "industry": "Accounting",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Commerce Instructor",
+                "workplace": "Kroks Commercial Institute",
+                "industry": "Education",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Commerce Instructor",
+                "workplace": "Halmstad Practical Middle School",
+                "industry": "Education",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "Kroks Commercial Institute",
+                "industry": "Education",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Auditing Firm",
+                "workplace": "Unknown",
+                "industry": "Accounting",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

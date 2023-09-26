@@ -1,0 +1,84 @@
+{
+    "original": "HAMMARBERG, Nils Olof, Orgelbyggmästare, Nya Varvet, f Nya Varvet 23/6 13 av orgelbyggm O H o Hulda Grönvall, gm Daga Lundgren. Tekn sk, prakt Hannover, Lubeck, Köpenhamn 32—33. Anst E A Kemper &amp; Son Lubeck 33. Ledare Olof Hammarbergs orgelbyggeri, Nya Varvet. SHO :s Mästarbrev. Resor: Tyskl 34, 35, 36, 38. Odd Fellow. Fman gr av H :s farfarsfar 1847, sålunda 4 generationer i samma yrke.",
+    "translated": "HAMMARBERG, Nils Olof, Master Organ Builder, Nya Varvet, b. Nya Varvet 23/6 13, son of organ builder O.H and Hulda Grönvall, m. Daga Lundgren. Technical school, practical training in Hannover, Lubeck, Copenhagen 32-33. Employed at E.A Kemper & Son, Lubeck in 33. Leader of Olof Hammarberg's organ workshop, Nya Varvet. Holder of SHO's Master Certificate. Travelled to Germany in 34, 35, 36, 38. Member of the Odd Fellow society. Joined the profession inherited from his great-great-grandfather in 1847, thus representing 4 generations in the same occupation.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Nils Olof Hammarberg",
+        "birthDate": "1913-06-23",
+        "birthPlace": "Nya Varvet",
+        "description": "Master Organ Builder",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "O.H Hammarberg"
+            },
+            {
+                "@type": "Person",
+                "name": "Hulda Grönvall"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Daga Lundgren"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Technical school"
+        },
+        "workLocation": "Nya Varvet",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Olof Hammarberg's Organ Workshop"
+        },
+        "memberships": [
+            {
+                "@type": "Organization",
+                "name": "Odd Fellow"
+            }
+        ],
+        "travels": [
+            {
+                "@type": "Trip",
+                "startDate": "1934",
+                "endDate": "1934",
+                "location": "Germany"
+            },
+            {
+                "@type": "Trip",
+                "startDate": "1935",
+                "endDate": "1935",
+                "location": "Germany"
+            },
+            {
+                "@type": "Trip",
+                "startDate": "1936",
+                "endDate": "1936",
+                "location": "Germany"
+            },
+            {
+                "@type": "Trip",
+                "startDate": "1938",
+                "endDate": "1938",
+                "location": "Germany"
+            }
+        ],
+        "generation": 4
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Master Organ Builder",
+                "workplace": "Olof Hammarberg's organ workshop, Nya Varvet",
+                "industry": "Organ building",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "E.A Kemper & Son",
+                "industry": "Organ building",
+                "start_date": "1933"
+            }
+        ]
+    }
+}

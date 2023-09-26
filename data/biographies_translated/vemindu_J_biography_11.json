@@ -1,0 +1,142 @@
+{
+    "original": "JACOBSON, Nils Ingvar Birger, Direktör, Hälsingborg, f Hbg 12/10 08 av kam B J o h h, gm Gunvor Dahlén. Studex 27, ekon ex HHS 29, kont.prakt öl föret. Kamr AB L Daehnfeldts fröhdl 31, vkst dir sed. 36. Stflm, dräts.kamm, löne- o arb.avt.nmdn, v. ord ren-h.styr. Styr.led AB G H Cavallius Hbg, v. ordf Sv fröhdl.frn, led Borgeri valfrbs i Hbg styr o arb.utsk. Aff.res Tyskl, Holl, Belg, Österr, Tjeckoslov, Ung.",
+    "translated": "JACOBSON, Nils Ingvar Birger, Director, Hälsingborg, b. Hbg (Hälsingborg) 12/10 08, son of kam (chamberlain) B J and h h (housewife), married Gunvor Dahlén. Graduated 1927, economics graduate from HHS (Stockholm School of Economics) in 1929, worked as an accounting clerk at Daehnfeldt's wholesale company in 1931, promoted to deputy director in 1936. Board member of AB G H Cavallius in Hälsingborg, vice chairman of the Swedish Wholesale Company Association, member of the Hälsingborg City Council, salary and labor agreement committee, vice chairman of the municipal housing board. Board member of Borgeri electoral association in Hälsingborg, member of the executive and labor committee. Business trips to Germany, Netherlands, Belgium, Austria, Czechoslovakia, Hungary.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Nils Ingvar Birger Jacobson",
+        "birthDate": "1908-10-12",
+        "birthPlace": "Hälsingborg, Sweden",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "B J Jacobson",
+                "jobTitle": "Chamberlain"
+            },
+            {
+                "@type": "Person",
+                "name": "h h Jacobson",
+                "jobTitle": "Housewife"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Gunvor Dahlén"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "Studex",
+                "endDate": "1927"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "Economics degree",
+                "startDate": "1929",
+                "alumniOf": {
+                    "@type": "CollegeOrUniversity",
+                    "name": "Stockholm School of Economics"
+                }
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Daehnfeldt's Wholesale Company",
+            "startDate": "1931",
+            "endDate": "1936",
+            "jobTitle": "Accounting Clerk",
+            "location": {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Hälsingborg",
+                    "addressCountry": "Sweden"
+                }
+            }
+        },
+        "jobTitle": "Director",
+        "affiliation": [
+            {
+                "@type": "Organization",
+                "name": "AB G H Cavallius",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Hälsingborg",
+                        "addressCountry": "Sweden"
+                    }
+                },
+                "jobTitle": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Wholesale Company Association",
+                "jobTitle": "Vice Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Hälsingborg City Council",
+                "jobTitle": "Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Municipal Housing Board",
+                "jobTitle": "Vice Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Borgeri Electoral Association",
+                "jobTitle": "Board Member"
+            }
+        ],
+        "committee": [
+            {
+                "@type": "Organization",
+                "name": "Hälsingborg City Council Salary and Labor Agreement Committee",
+                "jobTitle": "Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Municipal Housing Board Renovation Steering Committee",
+                "jobTitle": "Vice Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Borgeri Electoral Association Executive and Labor Committee",
+                "jobTitle": "Member"
+            }
+        ],
+        "nationality": "Swedish",
+        "memberOf": [
+            "Germany",
+            "Netherlands",
+            "Belgium",
+            "Austria",
+            "Czechoslovakia",
+            "Hungary"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Hälsingborg",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Accounting Clerk",
+                "workplace": "Daehnfeldt's Wholesale Company",
+                "industry": "Wholesale",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Deputy Director",
+                "workplace": "Daehnfeldt's Wholesale Company",
+                "industry": "Wholesale",
+                "start_date": "1936"
+            }
+        ]
+    }
+}

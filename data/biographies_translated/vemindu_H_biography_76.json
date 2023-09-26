@@ -1,0 +1,263 @@
+{
+    "original": "HAMBERG, Carl Anders Harald, Direktör, Göteborg, f Domnarvet 17/5 91 av stins A H o Maria Ahlberg, gm Aina Ehn. Studex Falun 10, Gbgs hdlsinst 10—11, kont.prakt Duisburg o Sthlm 11—13. Anst SKF reklamavd Gbg 14—15, dir.ass SKF dtrbol i New Y.ork, Hartford, Philadelphia o Toronto 15—18, sekr h the Royal Swed Commissioner v sv leg i Wash o N Y 18—19, dir Compania Träns-marina de Cuba, Habana, 19—20, SKF insp.-kont f Östeuropa o Balkan, Wien, 20—24, Prag 24—31, ch SKF tjeckoslov dtrbol 24—31, vkst dir SKF ty dtrbol Verein Kug.lag.fabr AG, 32—41, SKF Gbg sed. 42. Styr.led där o i Sv ind.frb samt Sv allm exp.frn. KVOlo2kl, Royal Bachelor’s Club, Gbgs golfklubb, KAK.",
+    "translated": "HAMBERG, Carl Anders Harald, Director, Gothenburg, born in Domnarvet on May 17, 1891, son of station master A H and Maria Ahlberg, married to Aina Ehn. Graduate of Falun 1910, Gothenburg Commercial Institute 1910-1911, practical training in Duisburg and Stockholm 1911-1913. Employed by SKF advertising department in Gothenburg 1914-1915, assistant director of SKF subsidiary companies in New York, Hartford, Philadelphia and Toronto 1915-1918, secretary at the Royal Swedish Commissioner at the Swedish legation in Washington and New York 1918-1919, director of Compania Tran-marina de Cuba, Havana, 1919-1920, SKF inspection office for Eastern Europe and the Balkans in Vienna 1920-1924, Prague 1924-1931, chairman of SKF Czechoslovak subsidiary companies 1924-1931, Managing Director of SKF German subsidiary company, Verein Kug.lag.fabr AG, 1932-1941, SKF Gothenburg since 1942. Board member of SKF Gothenburg and Swedish Industrial Federation as well as the Swedish General Export Association. Member of the Royal Order of Vasa, Knight of the Royal Swedish Order of the Polar Star, member of the Royal Bachelor’s Club, Gothenburg Golf Club, Royal Automobile and Motorcycle Club.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Carl Anders Hamberg",
+        "birthDate": "1891-05-17",
+        "birthPlace": "Domnarvet",
+        "description": "Director, Gothenburg",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "A H Hamberg",
+                "jobTitle": "Station Master"
+            },
+            {
+                "@type": "Person",
+                "name": "Maria Ahlberg"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Aina Ehn"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Falun",
+                "endDate": "1910"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Gothenburg Commercial Institute",
+                "startDate": "1910",
+                "endDate": "1911"
+            }
+        ],
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "SKF",
+                "department": "Advertising Department",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Gothenburg"
+                    }
+                },
+                "startDate": "1914",
+                "endDate": "1915"
+            },
+            {
+                "@type": "Organization",
+                "name": "SKF",
+                "department": "Subsidiary Companies",
+                "location": {
+                    "@type": "Place",
+                    "address": [
+                        {
+                            "@type": "PostalAddress",
+                            "addressLocality": "New York"
+                        },
+                        {
+                            "@type": "PostalAddress",
+                            "addressLocality": "Hartford"
+                        },
+                        {
+                            "@type": "PostalAddress",
+                            "addressLocality": "Philadelphia"
+                        },
+                        {
+                            "@type": "PostalAddress",
+                            "addressLocality": "Toronto"
+                        }
+                    ]
+                },
+                "startDate": "1915",
+                "endDate": "1918"
+            },
+            {
+                "@type": "Organization",
+                "name": "Royal Swedish Commissioner",
+                "department": "Swedish Legation",
+                "location": {
+                    "@type": "Place",
+                    "address": [
+                        {
+                            "@type": "PostalAddress",
+                            "addressLocality": "Washington"
+                        },
+                        {
+                            "@type": "PostalAddress",
+                            "addressLocality": "New York"
+                        }
+                    ]
+                },
+                "startDate": "1918",
+                "endDate": "1919"
+            },
+            {
+                "@type": "Organization",
+                "name": "Compania Tran-marina de Cuba",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Havana"
+                    }
+                },
+                "startDate": "1919",
+                "endDate": "1920"
+            },
+            {
+                "@type": "Organization",
+                "name": "SKF",
+                "department": "Inspection Office",
+                "location": {
+                    "@type": "Place",
+                    "addressLocality": "Vienna"
+                },
+                "startDate": "1920",
+                "endDate": "1924"
+            },
+            {
+                "@type": "Organization",
+                "name": "SKF",
+                "department": "Czechoslovak Subsidiary Companies",
+                "location": {
+                    "@type": "Place",
+                    "address": [
+                        {
+                            "@type": "PostalAddress",
+                            "addressLocality": "Prague"
+                        }
+                    ]
+                },
+                "startDate": "1924",
+                "endDate": "1931"
+            },
+            {
+                "@type": "Organization",
+                "name": "SKF",
+                "department": "German Subsidiary Company",
+                "location": {
+                    "@type": "Place",
+                    "addressLocality": "Germany"
+                },
+                "startDate": "1932",
+                "endDate": "1941"
+            },
+            {
+                "@type": "Organization",
+                "name": "SKF",
+                "department": "Gothenburg",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Gothenburg"
+                    }
+                },
+                "startDate": "1942"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "SKF Gothenburg",
+                "jobTitle": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Industrial Federation",
+                "jobTitle": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish General Export Association",
+                "jobTitle": "Board Member"
+            }
+        ],
+        "awards": [
+            {
+                "@type": "Order",
+                "name": "Royal Order of Vasa",
+                "description": "Knight"
+            },
+            {
+                "@type": "Order",
+                "name": "Royal Swedish Order of the Polar Star",
+                "description": "Knight"
+            }
+        ],
+        "affiliation": [
+            {
+                "@type": "Organization",
+                "name": "Royal Bachelor’s Club"
+            },
+            {
+                "@type": "Organization",
+                "name": "Gothenburg Golf Club"
+            },
+            {
+                "@type": "Organization",
+                "name": "Royal Automobile and Motorcycle Club"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Gothenburg",
+                "industry": "SKF",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Secretary",
+                "workplace": "Swedish legation in Washington",
+                "industry": "Royal Swedish Commissioner",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Compania Tran-marina de Cuba",
+                "industry": "Havana",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "SKF inspection office for Eastern Europe and the Balkans",
+                "industry": "Vienna",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "SKF inspection office for Eastern Europe and the Balkans",
+                "industry": "Prague",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Chairman",
+                "workplace": "SKF Czechoslovak subsidiary companies",
+                "industry": "Prague",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "SKF German subsidiary company (Verein Kug.lag.fabr AG)",
+                "industry": "Germany",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "SKF Gothenburg",
+                "industry": "SKF",
+                "start_date": "1942"
+            }
+        ]
+    }
+}

@@ -1,0 +1,197 @@
+{
+    "original": "HALLBERG, Olof Ludvigr, Grosshandlare, Linköping, f Linkp 9/9 77 av stnsförm O Andersson o Lovisa Wallquist, gm (2) Hil-deborg Anderson. Linkp hal. Kont v Jon Asklunds tob.fabr, Linkp, 92, res 95—98, övert 98 L Hallbergs tob.hdl (gr 79). Fd stdsflm mm. Ordf o v. dir östg stadshyp.frn o östg bost.kred.frn, led Ögl ensk bks centr.styr, Ögl o Sörml hdlskamm o dess arb.utsk, styr.led Sv köpmfrb mfl. Aff.res Tyskl, Holl, Belg, Ital, Frankr, Danm o Norge. RVO, Frimurare (X), Odd Fellow (ExHP, ExöM, stor-logerepr), PB, Sv köpmfrbs gm m dipl, HedL Sv tob.hdl riksfrb.",
+    "translated": "HALLBERG, Olof Ludvigr, Merchant, Linköping, b. Linkp 9/9 1877, son of O Andersson and Lovisa Wallquist, m. (2) Hil-deborg Anderson. Linkp residence. Worked for Jon Asklund's tobacco factory in Linköping from 1892. Traveled during the years 1895-1898, took over L Hallberg's tobacco business in 1898 (since 1879). Former officer in the navy. Chairman and deputy director of Östergötland city rent and Östergötland housing credit union. Board member of Östergötland and Sörmland trade chambers and its working committee. Board member of Swedish Merchant Federation and others. Business trips to Germany, the Netherlands, Belgium, Italy, France, Denmark, and Norway. Royal Victorian Order, Freemason (X), Odd Fellow (Former High Priest, Former Master, Great Lodge Representative), Postal Bank, Swedish Merchant Federation with diploma, Swedish Tobacco Merchants Association honorary member.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Olof Ludvigr Hallberg",
+        "birthDate": "1877-09-09",
+        "birthPlace": "Linköping",
+        "description": "Merchant",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "O Andersson"
+            },
+            {
+                "@type": "Person",
+                "name": "Lovisa Wallquist"
+            }
+        ],
+        "spouse": [
+            {
+                "@type": "Person",
+                "name": "Hildeborg Anderson"
+            }
+        ],
+        "residence": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Linköping"
+            }
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Jon Asklund's tobacco factory"
+            },
+            {
+                "@type": "Organization",
+                "name": "L Hallberg's tobacco business"
+            }
+        ],
+        "workPeriod": [
+            {
+                "@type": "Event",
+                "startDate": "1892",
+                "endDate": "1895"
+            },
+            {
+                "@type": "Event",
+                "startDate": "1898",
+                "endDate": null
+            }
+        ],
+        "formerOccupation": [
+            {
+                "@type": "Organization",
+                "name": "The navy"
+            }
+        ],
+        "affiliations": [
+            {
+                "@type": "Organization",
+                "name": "Östergötland city rent"
+            },
+            {
+                "@type": "Organization",
+                "name": "Östergötland housing credit union"
+            },
+            {
+                "@type": "Organization",
+                "name": "Östergötland trade chamber"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sörmland trade chamber"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Merchant Federation"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Tobacco Merchants Association"
+            }
+        ],
+        "boardMemberIn": [
+            {
+                "@type": "Organization",
+                "name": "Östergötland trade chamber"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sörmland trade chamber"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Merchant Federation"
+            },
+            {
+                "@type": "Organization",
+                "name": "Östergötland city rent"
+            },
+            {
+                "@type": "Organization",
+                "name": "Östergötland housing credit union"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Postal Bank"
+            }
+        ],
+        "honoraryMemberIn": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Tobacco Merchants Association"
+            }
+        ],
+        "businessTrip": [
+            {
+                "@type": "Place",
+                "name": "Germany"
+            },
+            {
+                "@type": "Place",
+                "name": "Netherlands"
+            },
+            {
+                "@type": "Place",
+                "name": "Belgium"
+            },
+            {
+                "@type": "Place",
+                "name": "Italy"
+            },
+            {
+                "@type": "Place",
+                "name": "France"
+            },
+            {
+                "@type": "Place",
+                "name": "Denmark"
+            },
+            {
+                "@type": "Place",
+                "name": "Norway"
+            }
+        ],
+        "awards": [
+            {
+                "@type": "Order",
+                "name": "Royal Victorian Order"
+            }
+        ],
+        "membership": [
+            {
+                "@type": "Organization",
+                "name": "Freemason"
+            },
+            {
+                "@type": "Organization",
+                "name": "Odd Fellow"
+            },
+            {
+                "@type": "Organization",
+                "name": "Postal Bank"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Merchant Federation",
+                "description": "with diploma"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Tobacco Merchants Association",
+                "description": "honorary member"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Jon Asklunds tob.fabr",
+                "industry": "Tobacco manufacturing",
+                "start_date": "1892"
+            },
+            {
+                "occupational_title": "Merchant",
+                "workplace": "L Hallbergs tob.hdl",
+                "industry": "Tobacco retail",
+                "start_date": "1898"
+            }
+        ]
+    }
+}

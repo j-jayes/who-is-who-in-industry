@@ -1,0 +1,89 @@
+{
+    "original": "HALLQVIST, Erik Reinhold, Bokhandlare, Östersund, f Ösund 1/8 87 av handl F R H o Hilma Jonsson, gm Ester Sjöqvist. Folksk. Anst Gustav Wiséns bokh osund 99—05, Harald Borgströms bokh Borås 06—07, egen bokh.fma osund sed. 07. Ag fastigh Storg 37, Ösund. Styr.led Ösunds prakt mell.skola. Resor: Tyskl 30. Odd Fellow, Ösunds Hdls-o Ind.frn. Hobby: Böcker.",
+    "translated": "HALLQVIST, Erik Reinhold, Bookseller, Östersund, born in Ösund on August 1, 1887, son of the merchant F R H and Hilma Jonsson, married to Ester Sjöqvist. Attended Gustav Wisén's bookshop in Ösund from 1899 to 1905, Harald Borgström's bookshop in Borås from 1906 to 1907, and owned a bookshop in Ösund since 1907. Owns property on Storgatan 37, Östersund. Member of the board of Ösund's practical middle school. Travelled to Germany in 1930. Member of the Odd Fellow society, Ösund's Chamber of Commerce, and industry association. Hobby: Books.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Erik Reinhold Hallqvist",
+        "birthDate": "1887-08-01",
+        "birthPlace": "Ösund",
+        "description": "Bookseller",
+        "familyName": "Hallqvist",
+        "givenName": "Erik Reinhold",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Odd Fellow society"
+            },
+            {
+                "@type": "Organization",
+                "name": "Ösund's Chamber of Commerce"
+            },
+            {
+                "@type": "Organization",
+                "name": "Industry Association"
+            }
+        ],
+        "hobby": "Books",
+        "spouse": "Ester Sjöqvist",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "F R H"
+            },
+            {
+                "@type": "Person",
+                "name": "Hilma Jonsson"
+            }
+        ],
+        "educationalBackground": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Gustav Wisén's bookshop",
+                "location": "Ösund",
+                "startDate": "1899",
+                "endDate": "1905"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Harald Borgström's bookshop",
+                "location": "Borås",
+                "startDate": "1906",
+                "endDate": "1907"
+            }
+        ],
+        "owns": {
+            "@type": "Place",
+            "name": "Storgatan 37, Östersund"
+        },
+        "additionalProperty": [
+            {
+                "@type": "PropertyValue",
+                "name": "Resor",
+                "value": "Tyskl 30"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Bookseller",
+                "workplace": "Östersund",
+                "industry": "Bookstore",
+                "start_date": "1907"
+            },
+            {
+                "occupational_title": "Employee at Gustav Wisén's bookshop",
+                "workplace": "Ösund",
+                "industry": "Bookstore",
+                "start_date": "1899"
+            },
+            {
+                "occupational_title": "Employee at Harald Borgström's bookshop",
+                "workplace": "Borås",
+                "industry": "Bookstore",
+                "start_date": "1906"
+            }
+        ]
+    }
+}

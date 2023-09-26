@@ -1,0 +1,64 @@
+{
+    "original": "JOHANSSON, Gustaf Otto, Köpman, Växjö, f Ronneby 15/11 90, gm Anna Karlsson. Start eft mångår prakt i järn- o velocipedbranschen i Växjö o Malmö tills m brod Ernst J fma Bröderna Johansson i Växjö 23 (cykel- o elektr aff).",
+    "translated": "JOHANSSON, Gustaf Otto, Merchant, Växjö, b. Ronneby 15/11 90, m. Anna Karlsson. Started, after several years of apprenticeship in the iron and bicycle industry in Växjö and Malmö, a joint venture with his brother Ernst, called Bröderna Johansson in Växjö 23 (bicycle and electrical store).",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Gustaf Otto Johansson",
+        "jobTitle": "Merchant",
+        "birthPlace": "Ronneby",
+        "birthDate": "1890-11-15",
+        "spouse": {
+            "@type": "Person",
+            "name": "Anna Karlsson"
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Bröderna Johansson",
+            "foundingDate": "1923",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Växjö"
+            },
+            "makesOffer": [
+                {
+                    "@type": "Product",
+                    "name": "Bicycles"
+                },
+                {
+                    "@type": "Product",
+                    "name": "Electrical appliances"
+                }
+            ]
+        },
+        "description": "After several years of apprenticeship in the iron and bicycle industry in Växjö and Malmö, Gustaf Otto Johansson started a joint venture, Bröderna Johansson, with his brother Ernst in Växjö in 1923. The business primarily dealt with bicycles and electrical appliances."
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Växjö",
+                "industry": "General trade",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Apprentice",
+                "workplace": "Växjö",
+                "industry": "Iron industry",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Apprentice",
+                "workplace": "Malmö",
+                "industry": "Bicycle industry",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Co-owner",
+                "workplace": "Bröderna Johansson",
+                "industry": "Bicycle and electrical store",
+                "start_date": "1923"
+            }
+        ]
+    }
+}

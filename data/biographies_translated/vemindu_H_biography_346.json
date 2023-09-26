@@ -1,0 +1,123 @@
+{
+    "original": "HOLM, Tryggve Otto Andreas, Bergsingenjör, Direktör, Linköping, f Kristineh 5/2 02 av dir H T H o Augusta Mathiesen, gm Gunvor Bruu. KTH 29. Ing AB Bofors 29—30, Hess Bright Mfg Co i Philadelphia 30—31, stålv.ing AB Bofors 32—36, övering o ch f stålvkt där 36—39, vkst dir AB Sv Jvgsverk-städerna Linkp sed. 40.",
+    "translated": "HOLM, Tryggve Otto Andreas, Mining Engineer, Director, Linköping, born in Kristinehamn on February 5th, 1902, son of the director H.T.H. and Augusta Mathiesen, married Gunvor Bruu. Graduated from KTH in 1929. Engineer at AB Bofors from 1929 to 1930, Hess Bright Mfg Co in Philadelphia from 1930 to 1931, steel engineer at AB Bofors from 1932 to 1936, promoted to chief engineer and head of the steel department from 1936 to 1939, then became VP and managing director at AB Sv Jvgsverk-städerna (Swedish Railway Engineering Company) in Linköping from 1940 onwards.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Tryggve Otto Andreas Holm",
+        "jobTitle": "Mining Engineer, Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Linköping"
+        },
+        "birthDate": "1902-02-05",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "H.T.H. Holm"
+            },
+            {
+                "@type": "Person",
+                "name": "Augusta Mathiesen"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Gunvor Bruu"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Bachelor's degree",
+            "educationalLevel": "Bachelor's degree",
+            "degreeName": "Mining Engineering",
+            "educationalCredentialAwarded": "KTH"
+        },
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1929",
+                "endDate": "1930",
+                "roleName": "Engineer",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Bofors"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1930",
+                "endDate": "1931",
+                "roleName": "Engineer",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Hess Bright Mfg Co"
+                },
+                "description": "Philadelphia"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1932",
+                "endDate": "1936",
+                "roleName": "Steel Engineer",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Bofors"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1936",
+                "endDate": "1939",
+                "roleName": "Chief Engineer and Head of Steel Department",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Bofors"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1940",
+                "roleName": "VP and Managing Director",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Sv Jvgsverk-städerna (Swedish Railway Engineering Company)"
+                },
+                "description": "Linköping"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Mining Engineer",
+                "workplace": "AB Bofors",
+                "industry": "Mining",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Hess Bright Mfg Co",
+                "industry": "Manufacturing",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Steel Engineer",
+                "workplace": "AB Bofors",
+                "industry": "Steel",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Chief Engineer and Head of Steel Department",
+                "workplace": "AB Bofors",
+                "industry": "Steel",
+                "start_date": "1936"
+            },
+            {
+                "occupational_title": "VP and Managing Director",
+                "workplace": "AB Sv Jvgsverk-städerna (Swedish Railway Engineering Company)",
+                "industry": "Railway Engineering",
+                "start_date": "1940"
+            }
+        ]
+    }
+}

@@ -1,0 +1,117 @@
+{
+    "original": "HÖGLUND, John Erik, Kamrer, Stockholm, f Norrkp 1/1 99 av maskinmäst E G H o Maria Jansdotter, gm Karin Wahlström. Allm Ivk, div merk o tekn kurser. Anst Statens jämv.byggn:r 17—24, AB Superior Sthlm sed. 25, kamr där. Resor: I affärs-o studiesyfte i de skand länderna, Balticum o Tyskl uppr ggr de sen 15 åren. Par Bricole. Hobbies: Bridge, skidor o tennis.",
+    "translated": "HÖGLUND, John Erik, Accountant, Stockholm, born in Norrköping on January 1, 1899, to machine master E G H and Maria Jansdotter, married to Karin Wahlström. General education, various vocational and technical courses. Employed at the State's Equilibrium Construction Company from 1917 to 1924, AB Superior Stockholm from 1925, and currently works as an accountant there. Traveled for business and study purposes in the Scandinavian countries, the Baltic region, and Germany, on several occasions in the past 15 years. Lives in Bricole. Hobbies include bridge, skiing, and tennis.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "John Erik Höglund",
+        "jobTitle": "Accountant",
+        "birthDate": "1899-01-01",
+        "birthPlace": "Norrköping, Sweden",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "E G H",
+                "jobTitle": "Machine Master"
+            },
+            {
+                "@type": "Person",
+                "name": "Maria Jansdotter"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Karin Wahlström"
+        },
+        "educationLevel": "General",
+        "additionalName": "Erik",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "AB Superior Stockholm",
+            "jobTitle": "Accountant"
+        },
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "State's Equilibrium Construction Company",
+                "jobTitle": "Employee",
+                "startDate": "1917",
+                "endDate": "1924"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Superior Stockholm",
+                "jobTitle": "Accountant",
+                "startDate": "1925"
+            }
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm",
+            "addressCountry": "Sweden"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Bricole"
+            }
+        ],
+        "hobbies": [
+            "Bridge",
+            "Skiing",
+            "Tennis"
+        ],
+        "hasOccupation": "Accountant",
+        "hasResidence": [
+            {
+                "@type": "Place",
+                "name": "Bricole"
+            }
+        ],
+        "hasInterest": [
+            {
+                "@type": "Thing",
+                "name": "Bridge"
+            },
+            {
+                "@type": "Thing",
+                "name": "Skiing"
+            },
+            {
+                "@type": "Thing",
+                "name": "Tennis"
+            }
+        ],
+        "hasTravelHistory": [
+            {
+                "@type": "Place",
+                "name": "Scandinavian countries"
+            },
+            {
+                "@type": "Place",
+                "name": "Baltic region"
+            },
+            {
+                "@type": "Place",
+                "name": "Germany"
+            }
+        ],
+        "travelDuration": "15 years"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Accountant",
+                "workplace": "State's Equilibrium Construction Company",
+                "industry": "Construction",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Accountant",
+                "workplace": "AB Superior Stockholm",
+                "industry": "Unknown",
+                "start_date": "1925"
+            }
+        ]
+    }
+}

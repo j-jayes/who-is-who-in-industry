@@ -1,0 +1,145 @@
+{
+    "original": "HOLMBERG, Carl Erik, Direktör, Malmö, f Lund 20/3 90 a ing C O H o h h, f Carlsson, gm Inez Larsson. Studex 11, hdlsstud i Tyskl 11—12, DHS 15, hdlsstud USA 16. Vkst dir 1 Carl Holmbergs Mek Verkst AB, Lund, AB Vatten &amp; Värme Carl Holmberg, Lund, och Angelskogs Tegelbruks AB, Ronneby, 17—23. Därefter ensk aff.verksamh t 29. Vkst dir i AB Karosseritillbehör, Mmö, sed. 29, tillika inneh av fma Skand Agentur Bolaget, Mmö, sed. 36.",
+    "translated": "HOLMBERG, Carl Erik, Director, Malmö, born in Lund on March 20, 1890, son of Carl and Inez Larsson. Completed secondary education in 1911, studied trade in Germany from 1911 to 1912, acquired a Diploma in Higher Commercial Studies in 1915, and studied trade in the USA in 1916. Served as a managing director at Carl Holmbergs Mechanical Workshop Ltd in Lund, AB Vatten & Heat Carl Holmberg in Lund, and Angelskogs Brickworks Ltd in Ronneby from 1917 to 1923. After that, engaged in independent business activities from 1929. Also served as a managing director in AB Car Body Accessories in Malmö since 1929, and owns Skand Agentur Bolaget, Malmö, since 1936.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Carl Erik",
+        "familyName": "Holmberg",
+        "jobTitle": "Director",
+        "birthPlace": "Lund",
+        "birthDate": "1890-03-20",
+        "father": {
+            "@type": "Person",
+            "givenName": "Carl"
+        },
+        "mother": {
+            "@type": "Person",
+            "givenName": "Inez",
+            "familyName": "Larsson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "secondary education",
+                "startDate": "1911"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "trade studies",
+                "studySubject": "Germany",
+                "startDate": "1911",
+                "endDate": "1912"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Diploma in Higher Commercial Studies",
+                "startDate": "1915"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "trade studies",
+                "studySubject": "USA",
+                "startDate": "1916"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Managing Director",
+                "startDate": "1917",
+                "endDate": "1923",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Carl Holmbergs Mechanical Workshop Ltd",
+                    "location": "Lund"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Managing Director",
+                "startDate": "1917",
+                "endDate": "1923",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Vatten & Heat Carl Holmberg",
+                    "location": "Lund"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Managing Director",
+                "startDate": "1917",
+                "endDate": "1923",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Angelskogs Brickworks Ltd",
+                    "location": "Ronneby"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Managing Director",
+                "startDate": "1929",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Car Body Accessories",
+                    "location": "Malmö"
+                }
+            }
+        ],
+        "owns": {
+            "@type": "Organization",
+            "name": "Skand Agentur Bolaget",
+            "location": "Malmö",
+            "startDate": "1936"
+        },
+        "description": "Engaged in independent business activities from 1929."
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Malmö",
+                "industry": "N/A",
+                "start_date": "N/A"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "Carl Holmbergs Mechanical Workshop Ltd",
+                "industry": "Machinery Manufacturing",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "AB Vatten & Heat Carl Holmberg",
+                "industry": "Utilities",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "Angelskogs Brickworks Ltd",
+                "industry": "Brick Manufacturing",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Self-employed",
+                "workplace": "N/A",
+                "industry": "N/A",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "AB Car Body Accessories",
+                "industry": "Automotive",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "Skand Agentur Bolaget",
+                "industry": "N/A",
+                "start_date": "1936"
+            }
+        ]
+    }
+}

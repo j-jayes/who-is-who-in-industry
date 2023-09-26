@@ -1,0 +1,76 @@
+{
+    "original": "HOLMSTRÖM, Hjalmar, Köpman, Norberg, f Norberg 9/2 92 av fabr And H o h h f Eriksson, gm Elly Wahlström. Inneh fma Holmströms Manufakturaffär i Norberg (grund 22). Led av o v. ordf i municipalnmd, municipal-flm. Styr.ordf i Norbergs Köpm.frn sed. 30. Medl o en av grund av Norbergs manskör. Odd Fellow. Hobbies: Skytte o friluftsliv,",
+    "translated": "HOLMSTRÖM, Hjalmar, Merchant, Norberg, born in Norberg on February 9, 1892, son of factory worker Anders H and his wife Hilda, nee Eriksson, married to Elly Wahlström. Owner of Holmströms Manufakturaffär in Norberg (established in 1922). Deputy chairman of the municipal council and the municipal board. Chairman of the Norbergs Köpmänsförening since 1930. Member and one of the founders of the Norberg men's choir. Member of the Odd Fellows organization. Hobbies include shooting and outdoor activities.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Hjalmar Holmström",
+        "birthDate": "1892-02-09",
+        "birthPlace": "Norberg",
+        "description": "Merchant in Norberg.",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Anders Holmström",
+                "jobTitle": "Factory Worker"
+            },
+            {
+                "@type": "Person",
+                "name": "Hilda Eriksson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Elly Wahlström"
+        },
+        "owns": {
+            "@type": "Business",
+            "name": "Holmströms Manufakturaffär",
+            "foundingDate": "1922"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Norbergs Köpmänsförening",
+                "startDate": "1930",
+                "jobTitle": "Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Norberg men's choir",
+                "foundingDate": "Unknown",
+                "jobTitle": "Founder"
+            },
+            {
+                "@type": "Organization",
+                "name": "Odd Fellows"
+            }
+        ],
+        "hobbies": [
+            "Shooting",
+            "Outdoor activities"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Holmströms Manufakturaffär",
+                "industry": "Retail",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Deputy Chairman",
+                "workplace": "Municipal Council",
+                "industry": "Government",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Chairman",
+                "workplace": "Norbergs Köpmänsförening",
+                "industry": "Trade Association",
+                "start_date": "1930"
+            }
+        ]
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "original": "HALLSJÖ, Sven Georg Olsson, Civilingenjör, Höganäs, f Hille, Gävleb l, 11/9 85 av bruksförv Georg Olsson o Aug:a Larsson, gm Carin Bergmann. Mog.ex Gävle 04, ord elev KTH 05—08 o avg.ex där sistn år. Resoffex 06, ulöjtn i Fortif res 06, avsked 10. Besiktn.ing v Södra Sv Ångpannefrns elektr avd 10—15, förest f denna avd 15—20, 1:e ing v Höganäs-Billesholms kraft- o värmeavd sed. 20. Led av stdsflm sed. 39. Resor: USA 19, Tyskl 26 o 37. Led Sv Tekn.frn sed. 07. Hobbies: Golf, foto.",
+    "translated": "HALLSJÖ, Sven Georg Olsson, Civil Engineer, Höganäs, b. Hille, Gävle county, September 11th, 1885, to works manager Georg Olsson and Aug:a Larsson, m. Carin Bergmann. Previously lived in Gävle until 1904, completed his education as a student at the Royal Institute of Technology (KTH) from 1905 to 1908, and graduated in the last year. Commissioned officer in the reserve from 1906, second lieutenant in the Fortress Reserve from 1906, discharged in 1910. Inspection engineer at the Southern Swedish Steam Boiler Company's electric division from 1910 to 1915, head of this division from 1915 to 1920, first engineer at Höganäs-Billesholms power and heating division since 1920. Member of the Swedish Technical Association since 1907. Travel: USA in 1919, Germany in 1926 and 1937. Member of the Swedish Film Standard Association since 1939. Hobbies: Golf, photography. Marriage date not specified.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Sven Georg Olsson HALLSJÖ",
+        "birthDate": "1885-09-11",
+        "birthPlace": "Hille, Gävleb l",
+        "description": "Civil Engineer",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Georg Olsson"
+            },
+            {
+                "@type": "Person",
+                "name": "Aug:a Larsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Carin Bergmann"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Royal Institute of Technology (KTH)",
+                "startDate": "1905",
+                "endDate": "1908"
+            }
+        ],
+        "previousPlaceOfResidence": {
+            "@type": "Place",
+            "name": "Gävle",
+            "endDate": "1904"
+        },
+        "militaryService": [
+            {
+                "@type": "Organization",
+                "name": "Fortress Reserve",
+                "roleName": "Second Lieutenant",
+                "startDate": "1906",
+                "endDate": "1910"
+            }
+        ],
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "Southern Swedish Steam Boiler Company",
+                "department": "Electric Division",
+                "startDate": "1910",
+                "endDate": "1915"
+            },
+            {
+                "@type": "Organization",
+                "name": "Southern Swedish Steam Boiler Company",
+                "department": "Head of Electric Division",
+                "startDate": "1915",
+                "endDate": "1920"
+            },
+            {
+                "@type": "Organization",
+                "name": "Höganäs-Billesholms",
+                "department": "Power and Heating Division",
+                "startDate": "1920"
+            }
+        ],
+        "memberships": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Technical Association",
+                "startDate": "1907"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Film Standard Association",
+                "startDate": "1939"
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "Place",
+                "name": "USA",
+                "startDate": "1919"
+            },
+            {
+                "@type": "Place",
+                "name": "Germany",
+                "startDate": "1926"
+            },
+            {
+                "@type": "Place",
+                "name": "Germany",
+                "startDate": "1937"
+            }
+        ],
+        "hobbies": [
+            "Golf",
+            "Photography"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Höganäs",
+                "industry": "Engineering",
+                "start_date": "Not specified"
+            },
+            {
+                "occupational_title": "Commissioned Officer",
+                "workplace": "Fortress Reserve",
+                "industry": "Military",
+                "start_date": "1906"
+            },
+            {
+                "occupational_title": "Inspection Engineer",
+                "workplace": "Southern Swedish Steam Boiler Company",
+                "industry": "Engineering",
+                "start_date": "1910"
+            },
+            {
+                "occupational_title": "Head of Division",
+                "workplace": "Southern Swedish Steam Boiler Company",
+                "industry": "Engineering",
+                "start_date": "1915"
+            },
+            {
+                "occupational_title": "First Engineer",
+                "workplace": "Höganäs-Billesholms",
+                "industry": "Power and heating",
+                "start_date": "1920"
+            }
+        ]
+    }
+}

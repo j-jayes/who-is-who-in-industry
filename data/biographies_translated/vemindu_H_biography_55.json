@@ -1,0 +1,97 @@
+{
+    "original": "HALLDIN, Gustav (Gösta) Adolf, Förste kontrollör, Trollhättan, f Sthlm 17/11 96 av ing C A H o Ingeborg Johansson, gm Anna Sundström. Studex N Real 16, kansliex 23, StHS. Anst Sthlms stad 17—18, Stat vat.f.vk sed. 19 (Kgl vat.f.styr Sthlm, Götaälvsarb Thttn, Norrl kraftvkn, Umeå o nu Thtte kraftvk).",
+    "translated": "HALLDIN, Gustav (Gösta) Adolf, First Controller, Trollhättan, b Stockholm 17/11 96 to engineer C A H and Ingeborg Johansson, m Anna Sundström. Graduated from N Real 16, Office exam 23, StHS. Employed by the City of Stockholm 17-18, State Water Authority since 19 (Royal Water Control Board, Stockholm, Göta River Power Plant, Trollhättan, Norrland Power Plant, Umeå and currently Trollhättan Power Plant).",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "givenName": "Gustav",
+        "additionalName": "Gösta",
+        "familyName": "Halldin",
+        "birthDate": "1896-11-17",
+        "birthPlace": "Stockholm",
+        "father": {
+            "@type": "Person",
+            "givenName": "C A",
+            "familyName": "H"
+        },
+        "mother": {
+            "@type": "Person",
+            "givenName": "Ingeborg",
+            "familyName": "Johansson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "givenName": "Anna",
+            "familyName": "Sundström"
+        },
+        "jobTitle": "First Controller",
+        "worksFor": "Trollhättan Power Plant",
+        "education": [
+            {
+                "@type": "HighSchool",
+                "name": "N Real 16"
+            },
+            {
+                "@type": "Office",
+                "name": "Office exam 23"
+            },
+            {
+                "@type": "CollegeOrUniversity",
+                "name": "StHS"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "City of Stockholm",
+                "startDate": "1917",
+                "endDate": "1918"
+            },
+            {
+                "@type": "Organization",
+                "name": "State Water Authority",
+                "startDate": "1919",
+                "current": true,
+                "memberOf": [
+                    {
+                        "@type": "Organization",
+                        "name": "Royal Water Control Board",
+                        "location": "Stockholm"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "Göta River Power Plant",
+                        "location": "Trollhättan"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "Norrland Power Plant",
+                        "location": "Umeå"
+                    }
+                ]
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "First Controller",
+                "workplace": "Trollhättan",
+                "industry": "Power Plant",
+                "start_date": "19"
+            },
+            {
+                "occupational_title": "City Employee",
+                "workplace": "Stockholm",
+                "industry": "Government",
+                "start_date": "17"
+            },
+            {
+                "occupational_title": "State Water Authority Employee",
+                "workplace": "Various Locations (Stockholm, Trollhättan, Umeå)",
+                "industry": "Government",
+                "start_date": "19"
+            }
+        ]
+    }
+}

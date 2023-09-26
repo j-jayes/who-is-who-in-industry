@@ -1,0 +1,43 @@
+{
+    "original": "HOLM, Johan Aron, Fabrikör, Halmstad, f Kinna, Älvsb l, 24/12 86. Dir f J A Holms AB, grund 26 und namn AB Palmqvist &amp; Holm, Skofabrik.",
+    "translated": "HOLM, Johan Aron, Industrialist, Halmstad, born in Kinna, Älvsborg county, on December 24th, 1886. Director for J A Holm's Ltd, founded in 1926 and renamed to AB Palmqvist & Holm, Shoe Factory.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Johan Aron Holm",
+        "birthDate": "1886-12-24",
+        "description": "Industrialist, Halmstad, Sweden",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Kinna"
+        },
+        "nationality": "Swedish",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "J A Holm's Ltd",
+                "foundingDate": "1926"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Palmqvist & Holm",
+                "foundingDate": "1926",
+                "dissolutionDate": "unknown"
+            },
+            {
+                "@type": "Organization",
+                "name": "Skofabrik"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Industrialist",
+                "workplace": "J A Holm's Ltd",
+                "industry": "Shoe Factory",
+                "start_date": "1926"
+            }
+        ]
+    }
+}

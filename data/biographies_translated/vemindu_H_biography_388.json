@@ -1,0 +1,141 @@
+{
+    "original": "HOBNDAHL,, Bo Svantesson, Direktör, Norrköping, f Nrkp 30/6 08 av dir S I H o Nora Holm, gm Alice Gedda. 5 kl h a l, prakt i Polen o Tyskl. Anst h Ericsson &amp; Horndahl AB Nrkp sed. 24 m undant f prakt h AB Appelqvists Kolimp Sthlm o IVa års utl.vist. Led tax.nmd. Resor: Polen, Tyskl, Holl, Belg. Frimurare, Odd Fellow, W 6. Hobbies: Gymnastik, segling, friluftsliv.",
+    "translated": "HOBNDAHL, Bo Svantesson, Director, Norrköping, born in Norrköping on June 30, 1908, son of director S.I.H. and Nora Holm, married to Alice Gedda. Completed 5 years of primary school, practical experience in Poland and Germany. Employed at Ericsson & Horndahl AB in Norrköping since 1924, with exception of practical training at AB Appelqvists Kolimp in Stockholm and a one-year stay abroad. Serves as a member of the tax committee. Has traveled to Poland, Germany, Netherlands, and Belgium. Member of the Freemasons, Odd Fellow, and W 6. Hobbies include gymnastics, sailing, and outdoor activities.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Bo",
+        "familyName": "Hobndahl",
+        "name": "Bo Svantesson Hobndahl",
+        "jobTitle": "Director",
+        "birthDate": "1908-06-30",
+        "birthPlace": "Norrköping",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Norrköping"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "givenName": "Svantesson I.H.",
+                "familyName": "Hobndahl"
+            },
+            {
+                "@type": "Person",
+                "givenName": "Nora",
+                "familyName": "Holm"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "givenName": "Alice",
+            "familyName": "Gedda"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "educationalLevel": "Primary school",
+            "startDate": "YEAR_MONTH_DAY",
+            "endDate": "YEAR_MONTH_DAY"
+        },
+        "workExperience": [
+            {
+                "@type": "Organization",
+                "name": "Ericsson & Horndahl AB",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Norrköping"
+                },
+                "startDate": "1924-01-01"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Appelqvists Kolimp",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm"
+                },
+                "startDate": "YEAR_MONTH_DAY",
+                "endDate": "YEAR_MONTH_DAY"
+            }
+        ],
+        "membership": [
+            {
+                "@type": "Organization",
+                "name": "Freemasons"
+            },
+            {
+                "@type": "Organization",
+                "name": "Odd Fellow"
+            },
+            {
+                "@type": "Organization",
+                "name": "W 6"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Tax Committee"
+            }
+        ],
+        "hobbies": [
+            "Gymnastics",
+            "Sailing",
+            "Outdoor activities"
+        ],
+        "knowsLanguage": [
+            {
+                "@type": "Language",
+                "name": "Swedish"
+            }
+        ],
+        "hasOccupation": {
+            "@type": "Occupation",
+            "name": "Director"
+        },
+        "nationality": {
+            "@type": "Country",
+            "name": "Sweden"
+        },
+        "hasTravelled": [
+            {
+                "@type": "Place",
+                "name": "Poland"
+            },
+            {
+                "@type": "Place",
+                "name": "Germany"
+            },
+            {
+                "@type": "Place",
+                "name": "Netherlands"
+            },
+            {
+                "@type": "Place",
+                "name": "Belgium"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Ericsson & Horndahl AB",
+                "industry": "Technology/Telecommunications",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Practical Training",
+                "workplace": "AB Appelqvists Kolimp",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "One-year Stay Abroad",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

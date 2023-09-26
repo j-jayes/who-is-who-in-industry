@@ -1,0 +1,135 @@
+{
+    "original": "HUMBLE, Bengt Ivar, överingenjör, Skärblacka, f Växjö 19/9 00 av medicinalråd H E Petersson o Agda Ernberg, gm Sigrid Bergendahl. Studex NReal Sthlm 18, KTH (kemi) 19—23. Rit o kemist v Rydö Bruks o Fabr AB 23—26, sulfiting v Hylte Bruks AB 26—34, Sv-Amer Stift:s USA-stip 28—29, driftsing v AB Nykvarns Bruk 34—39, nu övering v Fiskeby Fabr AB i Skärblacka.",
+    "translated": "HUMBLE, Bengt Ivar, Senior Engineer, Skärblacka, born in Växjö on September 19th, 1900, to Medical Council H E Petersson and Agda Ernberg, married to Sigrid Bergendahl. Obtained high school diploma from Real Sthlm in 1918, studied chemistry at KTH (Royal Institute of Technology) from 1919 to 1923. Worked as a draftsman and chemist at Rydö Bruks och Fabr AB from 1923 to 1926, involved in sulfite production at Hylte Bruks AB from 1926 to 1934. Awarded a scholarship to the United States by the Swedish-America Foundation in 1928-1929. Served as an operations manager at AB Nykvarns Bruk from 1934 to 1939, currently holds the position of Senior Engineer at Fiskeby Fabr AB in Skärblacka.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Bengt Ivar Humble",
+        "jobTitle": "Senior Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Skärblacka"
+        },
+        "birthDate": "1900-09-19",
+        "birthPlace": "Växjö",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "H E Petersson",
+                "jobTitle": "Medical Council"
+            },
+            {
+                "@type": "Person",
+                "name": "Agda Ernberg"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Sigrid Bergendahl"
+        },
+        "education": [
+            {
+                "@type": "HighSchool",
+                "name": "Real Sthlm",
+                "endDate": "1918"
+            },
+            {
+                "@type": "CollegeOrUniversity",
+                "name": "Royal Institute of Technology",
+                "location": "Stockholm",
+                "memberOf": [
+                    {
+                        "@type": "EducationalOrganization",
+                        "name": "KTH"
+                    }
+                ],
+                "startDate": "1919",
+                "endDate": "1923"
+            }
+        ],
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "title": "Draftsman and Chemist",
+                "startDate": "1923",
+                "endDate": "1926",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Rydö Bruks och Fabr AB"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Sulfite Production",
+                "startDate": "1926",
+                "endDate": "1934",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Hylte Bruks AB"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Operations Manager",
+                "startDate": "1934",
+                "endDate": "1939",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Nykvarns Bruk"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Senior Engineer",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Fiskeby Fabr AB"
+                }
+            }
+        ],
+        "award": {
+            "@type": "Scholarship",
+            "description": "Swedish-America Foundation Scholarship",
+            "startDate": "1928",
+            "endDate": "1929",
+            "awardedBy": {
+                "@type": "Organization",
+                "name": "Swedish-America Foundation"
+            }
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Senior Engineer",
+                "workplace": "Fiskeby Fabr AB",
+                "industry": "Paper Manufacturing",
+                "start_date": "Currently holds this position"
+            },
+            {
+                "occupational_title": "Operations Manager",
+                "workplace": "AB Nykvarns Bruk",
+                "industry": "Paper Manufacturing",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Sulfite Production",
+                "workplace": "Hylte Bruks AB",
+                "industry": "Paper Manufacturing",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Draftsman and Chemist",
+                "workplace": "Rydö Bruks och Fabr AB",
+                "industry": "Unknown",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Chemistry Student",
+                "workplace": "KTH (Royal Institute of Technology)",
+                "industry": "Education",
+                "start_date": "1919"
+            }
+        ]
+    }
+}

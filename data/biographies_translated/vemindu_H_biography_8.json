@@ -1,0 +1,201 @@
+{
+    "original": "HAGBERG, Knut Fredrik Knutson, Direktör, Norrköping, f Nrkp 6/7 91 av dir K V H o Hedvig Asklund, gm Karin Hedin. Studex 11, kansliex 13, ekon ex HHS 17, stud Tyskl 15. Aman HHS geogr instit 15—16, bktjm 17, omb.m Sv allm hdlsfrn o red f dess tidn 18, omb.m o sekr Sv köpmfrb 19, omb.m Sv met.manuf.frn o Sv träind:ers frn 20—21, aman komm.koll 20—22, v. vkst dir Knut Hagberg fabr.AB, Nrkp, 22—29, vkst dir. sed. 29. Av trycket: Jvksfrns årsöversikter 19—22.",
+    "translated": "HAGBERG, Knut Fredrik Knutson, Director, Norrköping, born in Norrköping on July 6th, 1891, the son of director K V H and Hedvig Asklund, married to Karin Hedin. Graduated high school in 1911, clerk in 1913, economics degree from HHS in 1917, studied German in 1915. Assistant at the geography institute at HHS 1915-1916, assistant librarian in 1917, appointed as representative and editor for the Swedish General Trade Association's newspaper in 1918, appointed as representative and secretary for the Swedish Merchants Association in 1919, appointed as representative for the Swedish Metal and Manufacturing Association and the Swedish Timber Industry Association from 1920-1921, assistant to the municipal inspection board from 1920-1922, deputy managing director at Knut Hagberg Fabrication AB in Norrköping from 1922-1929, vice managing director since 1929. Publications: Annual Reviews of the State Railways 1919-1922.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Knut Fredrik Knutson Hagberg",
+        "jobTitle": "Director",
+        "birthDate": "1891-07-06",
+        "birthPlace": "Norrköping",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "K V H"
+            },
+            {
+                "@type": "Person",
+                "name": "Hedvig Asklund"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Karin Hedin"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "highSchoolDiploma",
+                "educationalLevel": "SecondarySchool",
+                "dateIssued": "1911"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "clerk",
+                "dateIssued": "1913"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "economicsDegree",
+                "educationalLevel": "BachelorDegree",
+                "dateIssued": "1917",
+                "awardingInstitution": {
+                    "@type": "EducationalOrganization",
+                    "name": "HHS"
+                }
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "germanStudies",
+                "dateIssued": "1915"
+            }
+        ],
+        "occupation": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Assistant",
+                "startDate": "1915",
+                "endDate": "1916",
+                "organization": {
+                    "@type": "EducationalOrganization",
+                    "name": "HHS geography institute"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Assistant Librarian",
+                "startDate": "1917",
+                "organization": {
+                    "@type": "EducationalOrganization",
+                    "name": "HHS"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Representative and Editor",
+                "startDate": "1918",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Swedish General Trade Association"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Representative and Secretary",
+                "startDate": "1919",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Swedish Merchants Association"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Representative",
+                "startDate": "1920",
+                "endDate": "1921",
+                "organization": [
+                    {
+                        "@type": "Organization",
+                        "name": "Swedish Metal and Manufacturing Association"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "Swedish Timber Industry Association"
+                    }
+                ]
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Assistant to Municipal Inspection Board",
+                "startDate": "1920",
+                "endDate": "1922"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Deputy Managing Director",
+                "startDate": "1922",
+                "endDate": "1929",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Knut Hagberg Fabrication AB"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Vice Managing Director",
+                "startDate": "1929"
+            }
+        ],
+        "publication": [
+            {
+                "@type": "PublicationIssue",
+                "issueNumber": "19-22",
+                "isAccessibleForFree": false,
+                "isPartOf": {
+                    "@type": "Periodical",
+                    "name": "Annual Reviews of the State Railways"
+                },
+                "startDate": "1919",
+                "endDate": "1922"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Assistant at the Geography Institute",
+                "workplace": "HHS",
+                "industry": "Education",
+                "start_date": "1915"
+            },
+            {
+                "occupational_title": "Assistant Librarian",
+                "workplace": "Unknown",
+                "industry": "Library",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Representative and Editor for Swedish General Trade Association's Newspaper",
+                "workplace": "Swedish General Trade Association",
+                "industry": "Media",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Representative and Secretary for Swedish Merchants Association",
+                "workplace": "Swedish Merchants Association",
+                "industry": "Business",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Representative for Swedish Metal and Manufacturing Association",
+                "workplace": "Swedish Metal and Manufacturing Association",
+                "industry": "Manufacturing",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Representative for Swedish Timber Industry Association",
+                "workplace": "Swedish Timber Industry Association",
+                "industry": "Forestry",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Assistant to the Municipal Inspection Board",
+                "workplace": "Municipal Inspection Board",
+                "industry": "Government",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Deputy Managing Director",
+                "workplace": "Knut Hagberg Fabrication AB",
+                "industry": "Manufacturing",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Vice Managing Director",
+                "workplace": "Knut Hagberg Fabrication AB",
+                "industry": "Manufacturing",
+                "start_date": "1929"
+            }
+        ]
+    }
+}

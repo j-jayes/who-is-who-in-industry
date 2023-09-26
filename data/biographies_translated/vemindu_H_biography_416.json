@@ -1,0 +1,74 @@
+{
+    "original": "HULTMAN, Karin Margit, Fru, Malmö, f Mmö 26/8 99 av grosshandl C J Salinder o Emma Rqsvall, gm sparv.dir Einar A Hultman, Mmö. Högre fisk, Maltestorps help f flickor, Särö, samt språkst i Frankr. Vkst dir o styr.led i Salinder &amp; Co AB, Mmö, sed. 41. Ag fastigh Sånekulla n:r 8, Mmö. Resor: Europ länder uppr ggr utom Port, Balkan o Ryssl.",
+    "translated": "HULTMAN, Karin Margit, Mrs., Malmö, born in Malmö on August 26, 1899, to the merchant C J Salinder and Emma Rqsvall. Married to the railway director Einar A Hultman in Malmö. Completed higher education in fisheries and worked at Maltestorp assisting girls, Särö, as well as language studies in France. Developed as a director and served on the board of Salinder & Co AB, Malmö, since 1941. Owns property at Sånekulla No. 8, Malmö. Traveled extensively in European countries several times, excluding Portugal, the Balkans, and Russia.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Karin Margit Hultman",
+        "givenName": "Karin",
+        "familyName": "Hultman",
+        "gender": "female",
+        "birthDate": "1899-08-26",
+        "birthPlace": "Malmö",
+        "spouse": {
+            "@type": "Person",
+            "name": "Einar A Hultman",
+            "jobTitle": "Railway Director"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "C J Salinder",
+                "jobTitle": "Merchant"
+            },
+            {
+                "@type": "Person",
+                "name": "Emma Rqsvall"
+            }
+        ],
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Maltestorps"
+        },
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "Salinder & Co AB",
+                "jobTitle": "Director",
+                "startDate": "1941"
+            }
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Malmö",
+            "streetAddress": "Sånekulla No. 8"
+        },
+        "travelHistory": {
+            "@type": "Place",
+            "name": "Europe",
+            "description": "Traveled extensively in European countries several times, excluding Portugal, the Balkans, and Russia."
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Assistant",
+                "workplace": "Maltestorp",
+                "industry": "Fisheries",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Language Studies",
+                "workplace": "France",
+                "industry": "Education",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Salinder & Co AB",
+                "industry": "Merchant",
+                "start_date": "1941"
+            }
+        ]
+    }
+}

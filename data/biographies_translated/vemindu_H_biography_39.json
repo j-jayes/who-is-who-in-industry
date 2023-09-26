@@ -1,0 +1,89 @@
+{
+    "original": "HAIJ, Curt Holger Knutsson, Civilingenjör, Stockholm, f Vänersborg 20/9’06 av v. hhövd K H o Agnes Malm, gm Ulla Viola Abel. Studex Vbg 25, KTH (E) 25—29. Anst v Telef.AB L M Ericsson Sthlm 30—32, anst i Ing.fma Stig K M Billman Sthlm sed. 32, övering o försäljn.chef där. Led av Sv Tekn.frn. Hobby: Filateli.",
+    "translated": "HAIJ, Curt Holger Knutsson, Civil engineer, Stockholm, born in Vänersborg on September 20, 1906, to parents Knut Holger Haij and Agnes Malm. Married to Ulla Viola Abel. Graduated from Vänersborg School in 1925 and Royal Institute of Technology (Electrical Engineering) from 1925 to 1929. Employed at Telef.AB L M Ericsson in Stockholm from 1930 to 1932, and then worked for Ing.fma Stig K M Billman in Stockholm since 1932 as a supervisor and sales manager. Member of the Swedish Technical Association. Hobby: Philately.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Curt Holger Knutsson Haij",
+        "jobTitle": "Civil engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "birthDate": "1906-09-20",
+        "birthPlace": "Vänersborg",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Knut Holger Haij",
+                "gender": "male"
+            },
+            {
+                "@type": "Person",
+                "name": "Agnes Malm",
+                "gender": "female"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ulla Viola Abel",
+            "gender": "female"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Vänersborg School",
+                "location": "Vänersborg",
+                "endDate": "1925"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Royal Institute of Technology",
+                "location": "Stockholm",
+                "startDate": "1925",
+                "endDate": "1929",
+                "degree": {
+                    "@type": "EducationalDegree",
+                    "name": "Electrical Engineering"
+                }
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "Telef.AB L M Ericsson",
+                "location": "Stockholm",
+                "startDate": "1930",
+                "endDate": "1932"
+            },
+            {
+                "@type": "Organization",
+                "name": "Ing.fma Stig K M Billman",
+                "location": "Stockholm",
+                "startDate": "1932",
+                "jobTitle": "Supervisor and Sales Manager"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Swedish Technical Association"
+        },
+        "sameAs": "Hobby: Philately"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil engineer",
+                "workplace": "Telef.AB L M Ericsson",
+                "industry": "Telecommunications",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Supervisor and sales manager",
+                "workplace": "Ing.fma Stig K M Billman",
+                "industry": "Engineering",
+                "start_date": "1932"
+            }
+        ]
+    }
+}

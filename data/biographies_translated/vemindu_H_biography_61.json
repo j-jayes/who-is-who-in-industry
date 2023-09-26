@@ -1,0 +1,143 @@
+{
+    "original": "HALLIN, Axel Gösta, Civilingenjör, Stockholm, f Kalmar 6/4 07 av kammarh A H o Helga Kreuger, gm Karin Sjögren. Studex Nya Elem.sk Sthlm 25, civingex KTH (M) 30, ljt Wendes Art reg:s res. Anst AB Lindholmen-Motala, avd Motala Verkstad 31—32, Bolinders Fabr AB Sthlm 33—39, mil.tjänst 40—41, anst Sv AB Vätö Sthlm sed. 41, v. vkst dir där sed. 43.",
+    "translated": "HALLIN, Axel Gösta, Engineer, Stockholm, b. Kalmar 6/4 1907, son of chamberlain A.H. and Helga Kreuger, m. Karin Sjögren. Studied at Nya Elementarläroverket in Stockholm until 1925, received a Master of Engineering degree from the Royal Institute of Technology in 1930. Served as a junior officer at Wendes Artillery Regiment. Employed at Lindholmen-Motala AB, Motala Verkstad Division from 1931 to 1932, and at Bolinders Fabriks AB, Stockholm from 1933 to 1939. Served in the military from 1940 to 1941. Employed at Swedish AB Vätö Stockholm since 1941, promoted to deputy managing director in 1943.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Axel Gösta Hallin",
+        "birthDate": "1907-04-06",
+        "birthPlace": "Kalmar",
+        "description": "Engineer",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "A. H. Hallin",
+                "jobTitle": "Chamberlain"
+            },
+            {
+                "@type": "Person",
+                "name": "Helga Kreuger"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Karin Sjögren"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Nya Elementarläroverket",
+                "location": "Stockholm",
+                "endDate": "1925"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Royal Institute of Technology",
+                "location": "Stockholm",
+                "endDate": "1930",
+                "degree": {
+                    "@type": "EducationalDegree",
+                    "name": "Master of Engineering"
+                }
+            }
+        ],
+        "occupation": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1931",
+                "endDate": "1932",
+                "roleName": "Junior Officer",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Wendes Artillery Regiment"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1931",
+                "endDate": "1932",
+                "roleName": "Engineer",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Lindholmen-Motala AB",
+                    "location": "Motala"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1933",
+                "endDate": "1939",
+                "roleName": "Engineer",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Bolinders Fabriks AB",
+                    "location": "Stockholm"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1940",
+                "endDate": "1941",
+                "roleName": "Military Service"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1941",
+                "roleName": "Engineer",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Swedish AB Vätö",
+                    "location": "Stockholm"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1943",
+                "roleName": "Deputy Managing Director",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Swedish AB Vätö",
+                    "location": "Stockholm"
+                }
+            }
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "AB Lindholmen-Motala",
+                "industry": "Engineering",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Bolinders Fabriks AB",
+                "industry": "Engineering",
+                "start_date": "1933"
+            },
+            {
+                "occupational_title": "Military Officer",
+                "workplace": "Wendes Artillery Regiment",
+                "industry": "Military",
+                "start_date": "1940"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Swedish AB Vätö",
+                "industry": "Unknown",
+                "start_date": "1941"
+            },
+            {
+                "occupational_title": "Deputy Managing Director",
+                "workplace": "Swedish AB Vätö",
+                "industry": "Unknown",
+                "start_date": "1943"
+            }
+        ]
+    }
+}

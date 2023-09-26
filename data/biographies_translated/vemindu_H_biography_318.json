@@ -1,0 +1,79 @@
+{
+    "original": "HJERTSTEDT, Karl Vilhelm, Byggnadsingenjör, Stockholm, f Sundsvall 22/4 90 av dir A F H o h h, f Andersson, gm Olga Lundin (d). Realex 07, Tekn Sk i Sthlm 12, däreft verksam inom byggn.branschen. Anst i byggn.fman Gumpel &amp; Bengtson AB i Sthlm sed. 17, numera arb.ch där. Resor: Danm, Tyskl, Holl, Frankr, Finl. Medl Sthlms Byggn.frn, årsfrn mfl. Hobbies: Motorsport, fiske.",
+    "translated": "HJERTSTEDT, Karl Vilhelm, Building Engineer, Stockholm, born in Sundsvall on 22/4 1890, son of director A.F.H. and his wife H.H., maiden name Andersson. Married to Olga Lundin (deceased). Completed elementary school in 1907 and Technical School in Stockholm in 1912, thereafter worked in the construction industry. Employed by the construction company Gumpel & Bengtson AB in Stockholm since 1917, currently still working there. Has traveled to Denmark, Germany, the Netherlands, France, and Finland. Member of the Stockholm Construction Association, annual meetings, and others. Hobbies: Motorsports, fishing. Note that '\\d\\d m. partner's name' means that the person married in the year 19xx.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Karl Vilhelm Hjertstedt",
+        "description": "Building Engineer",
+        "birthDate": "1890-04-22",
+        "birthPlace": "Sundsvall",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "A.F.H.",
+                "jobTitle": "Director"
+            },
+            {
+                "@type": "Person",
+                "name": "H.H."
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Olga Lundin",
+            "deathDate": "d"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "elementarySchool",
+                "educationalLevel": "Elementary School",
+                "endDate": "1907"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "technicalSchool",
+                "educationalLevel": "Technical School",
+                "name": "Tekn Sk i Sthlm",
+                "startDate": "1912"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Gumpel & Bengtson AB",
+                "startDate": "1917"
+            },
+            {
+                "@type": "Organization",
+                "name": "Stockholm Construction Association"
+            }
+        ],
+        "workLocation": "Stockholm",
+        "birthCountry": "Sweden",
+        "nationality": "Swedish",
+        "sameAs": "https://example.com/person/karl-vilhelm-hjertstedt",
+        "hobbies": [
+            "Motorsports",
+            "Fishing"
+        ],
+        "travelHistory": [
+            "Denmark",
+            "Germany",
+            "Netherlands",
+            "France",
+            "Finland"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Building Engineer",
+                "workplace": "Gumpel & Bengtson AB",
+                "industry": "Construction",
+                "start_date": "1917"
+            }
+        ]
+    }
+}

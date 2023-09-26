@@ -1,0 +1,111 @@
+{
+    "original": "HUSEN, Hans Oscar Torsten, Direktör, Stockholm, f öster-Åkers sn Sörml 15/5 92 av ekonomidir H A H o Ninni Wickholm. Studex NReal Sthlm 10. Anst Försäkr AB Heimdall Sthlm 10, Allm Livförsäkr.bol Sthlm 11—18, dir Försäkr AB Skandia Sthlm sed. 18. Resor: Engl, Frankr, Tyskl, Ital, de Skand länderna. Av trycket: Div idr.litt, medarb i Nord Idrottsliv o som idr.ref i div dagl tidn. Inneh Försäkr AB Skandias GM, IFK:s Hm; medl SHT, Bellmanssällsk, Sv Försäkrfrn mfl. Hobbies: Tennis, fiske.",
+    "translated": "HUSEN, Hans Oscar Torsten, Director, Stockholm, born in Öster-Åker parish, Sörmland, May 15, 1892, son of economic manager H A H and Ninni Wickholm. Graduated from Real Gymnasium in Stockholm in 1910. Employed at Insurance Company Heimdall in Stockholm from 1910 to 1918, and at General Life Insurance Company in Stockholm from 1911 to 1918. Director at Insurance Company Skandia in Stockholm since 1918. Has traveled to England, France, Germany, Italy, and the Scandinavian countries. Published various sports literature, collaborated with Nord Idrottsliv, and served as a sports referee for various daily newspapers. Holds positions at Skandia's General Meeting, IFK's Board of Directors; member of the Swedish History Association, Bellman Society, Swedish Insurance Association, and others. Hobbies include tennis and fishing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Hans Oscar Torsten Husen",
+        "birthDate": "1892-05-15",
+        "birthPlace": "Öster-Åker parish, Sörmland",
+        "jobTitle": "Director",
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Insurance Company Skandia",
+                "startDate": "1918-01-01"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationEvent",
+                "institution": {
+                    "@type": "Organization",
+                    "name": "Real Gymnasium"
+                },
+                "startDate": "1910-01-01",
+                "endDate": "1910-12-31",
+                "location": {
+                    "@type": "City",
+                    "name": "Stockholm"
+                }
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "Insurance Company Heimdall",
+                "startDate": "1910-01-01",
+                "endDate": "1918-12-31",
+                "location": {
+                    "@type": "City",
+                    "name": "Stockholm"
+                }
+            }
+        ],
+        "nationality": "Swedish",
+        "travelHistory": [
+            "England",
+            "France",
+            "Germany",
+            "Italy",
+            "Scandinavian countries"
+        ],
+        "publications": [
+            "Various sports literature"
+        ],
+        "affiliations": [
+            {
+                "@type": "Organization",
+                "name": "Skandia's General Meeting"
+            },
+            {
+                "@type": "Organization",
+                "name": "IFK's Board of Directors"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish History Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Bellman Society"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Insurance Association"
+            }
+        ],
+        "hobbies": [
+            "Tennis",
+            "Fishing"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Studex",
+                "workplace": "NReal Sthlm",
+                "industry": "Education",
+                "start_date": "1910"
+            },
+            {
+                "occupational_title": "Anst Försäkr AB Heimdall",
+                "workplace": "Sthlm",
+                "industry": "Insurance",
+                "start_date": "1910"
+            },
+            {
+                "occupational_title": "Allm Livförsäkr.bol",
+                "workplace": "Sthlm",
+                "industry": "Insurance",
+                "start_date": "1911"
+            },
+            {
+                "occupational_title": "Försäkr AB Skandia",
+                "workplace": "Sthlm",
+                "industry": "Insurance",
+                "start_date": "1918"
+            }
+        ]
+    }
+}

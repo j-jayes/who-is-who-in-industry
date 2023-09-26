@@ -1,0 +1,104 @@
+{
+    "original": "HÄHNEL, Carl Sigfrid (Sigge), Civilingenjör, Stockholm, f Sthlm 27/9 96 av grhdl G E H o Elfva Wagner, gm Hervor Gumaelius. Studex Sthlm 16, KTH (kemi) 17—21. Anst v AB Skand Glödlampsfabr i Nykp 21—25, v AB Elektraverken i Sthlm 25—26 o v AB Vin-&amp; Spritcentralen sed. 28, nu lab.chef där. Hobby: Botanik.",
+    "translated": "HÄHNEL, Carl Sigfrid (Sigge), Civil Engineer, Stockholm, b Stockholm 27/9 96, son of grhdl G E H and Elfva Wagner, married to Hervor Gumaelius. Studex Stockholm 16, KTH (chemistry) 17—21. Employed at AB Skand Glödlampsfabr in Nyköping 21—25, at AB Elektraverken in Stockholm 25—26, and at AB Vin-&amp; Spritcentralen since 28, currently serving as a lab manager. Hobby: Botany.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Sigfrid HÄHNEL",
+        "givenName": "Carl Sigfrid",
+        "additionalName": "Sigge",
+        "familyName": "HÄHNEL",
+        "jobTitle": "Lab Manager",
+        "location": {
+            "@type": "City",
+            "name": "Stockholm"
+        },
+        "birthDate": "1896-09-27",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "G E H",
+                "jobTitle": "Grandfather"
+            },
+            {
+                "@type": "Person",
+                "name": "Elfva Wagner",
+                "jobTitle": "Mother"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Hervor Gumaelius"
+        },
+        "alumniOf": [
+            {
+                "@type": "School",
+                "name": "Stockholm",
+                "startDate": "1916",
+                "endDate": "1921"
+            },
+            {
+                "@type": "CollegeOrUniversity",
+                "name": "KTH",
+                "url": "https://www.kth.se",
+                "studyType": "Chemistry",
+                "startDate": "1917",
+                "endDate": "1921"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "AB Skand Glödlampsfabr",
+                "location": {
+                    "@type": "City",
+                    "name": "Nyköping"
+                },
+                "startDate": "1921",
+                "endDate": "1925"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Elektraverken",
+                "location": {
+                    "@type": "City",
+                    "name": "Stockholm"
+                },
+                "startDate": "1925",
+                "endDate": "1926"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Vin-& Spritcentralen",
+                "location": {
+                    "@type": "City",
+                    "name": "Stockholm"
+                },
+                "startDate": "1928"
+            }
+        ],
+        "interest": "Botany"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "AB Skand Glödlampsfabr",
+                "industry": "Lighting Manufacturing",
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "AB Elektraverken",
+                "industry": "Electricity Generation",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Lab Manager",
+                "workplace": "AB Vin-& Spritcentralen",
+                "industry": "Alcoholic Beverage Distribution",
+                "start_date": "1928"
+            }
+        ]
+    }
+}

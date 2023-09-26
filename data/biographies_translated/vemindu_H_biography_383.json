@@ -1,0 +1,231 @@
+{
+    "original": "HOLSTI, Pehr Olof, Civilingenjör, Saltsjöbaden, f Hfors 7/4 89 av prof H H o AlineIspolatoff, gm Helga Satiren. Studex Hfors 07, civ.ing Hfors TH 12. Anst Tellander &amp; Klärichs’ tobaksfabr, Hfors, 12—13, samma fabr.fma, Södertälje, 13—15, ch Sv tob.monop cigarrettfabr 16—18, tekn ch o styr.suppl Sv tob.monop sed. 19. Led underst.kommiss rör detaljhdl m tob.varor 33—37, led av stat tob.-nmd 43. Resor: Ryssl, Tyskl, Österr, Ital o Frankr 13—14, Tyskl 14—18, Holl, Engl 19—20, Engl, USA, Cuba 21—22, Grekl, Turk, Bulg, Serb 24—35, USA, Engl, Frankr, Ung, Polen, Ryssl, Tyskl 36—39. RVO, RFFrK, TammerforsM. Hobbies: Segl, jakt, ornitolog!, mykologi.",
+    "translated": "HOLSTI, Pehr Olof, Engineer, Saltsjöbaden, born in Helsinki on 7/4 1889, the son of Professor H H and Aline Ispolatoff, married to Helga Satiren. Graduated from Helsinki University in 1907, civil engineer from Helsinki Technical University in 1912. Employed at Tellander & Klärichs' tobacco factory in Helsinki from 1912 to 1913, co-owner of the same factory in Södertälje from 1913 to 1915, technical director and board member of the Swedish Tobacco Monopoly cigarette factory from 1916 to 1918, technical director and board member of the Swedish Tobacco Monopoly since 1919. Member of the Lower Commission on Retail Trade in Tobacco Products from 1933 to 1937, member of the state tobacco committee in 1943. Travel: Russia, Germany, Austria, Italy, and France from 1913 to 1914, Germany from 1914 to 1918, Netherlands and England in 1919 and 1920, England, USA, and Cuba in 1921 and 1922, Greece, Turkey, Bulgaria, and Serbia from 1924 to 1935, USA, England, France, Hungary, Poland, Russia, and Germany from 1936 to 1939. He was awarded the Royal Order of Vasa (RVO), the Finnish Order of the White Rose, and medals from Tammerfors. Hobbies: Sailing, hunting, ornithology, mycology.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Pehr Olof Holsti",
+        "birthDate": "1889-04-07",
+        "birthPlace": "Helsinki",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "H H Holsti",
+                "jobTitle": "Professor"
+            },
+            {
+                "@type": "Person",
+                "name": "Aline Ispolatoff"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Helga Satiren"
+        },
+        "description": "Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Saltsjöbaden"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "graduate",
+                "educationalLevel": "Bachelor's Degree",
+                "educationalCredentialAwarded": "Studex",
+                "educationalInstitution": {
+                    "@type": "EducationalOrganization",
+                    "name": "Helsinki University",
+                    "location": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Helsinki"
+                    }
+                },
+                "endDate": "1907"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "graduate",
+                "educationalLevel": "Master's Degree",
+                "educationalCredentialAwarded": "Civilingenjör",
+                "educationalInstitution": {
+                    "@type": "EducationalOrganization",
+                    "name": "Helsinki Technical University",
+                    "location": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Helsinki"
+                    }
+                },
+                "endDate": "1912"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1912",
+                "endDate": "1913",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Tellander & Klärichs' tobacco factory",
+                    "location": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Helsinki"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1913",
+                "endDate": "1915",
+                "roleName": "Co-owner",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Tellander & Klärichs' tobacco factory",
+                    "location": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Södertälje"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1916",
+                "endDate": "1918",
+                "roleName": "Technical Director and Board Member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Swedish Tobacco Monopoly cigarette factory",
+                    "location": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Sweden"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1919",
+                "roleName": "Technical Director and Board Member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Swedish Tobacco Monopoly",
+                    "location": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Sweden"
+                    }
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Lower Commission on Retail Trade in Tobacco Products",
+                "startDate": "1933",
+                "endDate": "1937"
+            },
+            {
+                "@type": "Organization",
+                "name": "State Tobacco Committee",
+                "startDate": "1943"
+            }
+        ],
+        "awards": [
+            {
+                "@type": "Order",
+                "name": "Royal Order of Vasa (RVO)"
+            },
+            {
+                "@type": "Order",
+                "name": "Finnish Order of the White Rose"
+            },
+            {
+                "@type": "Medal",
+                "name": "Tammerfors Medal"
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "Trip",
+                "departureTime": "1913",
+                "arrivalTime": "1914",
+                "itinerary": "Russia, Germany, Austria, Italy, and France"
+            },
+            {
+                "@type": "Trip",
+                "departureTime": "1914",
+                "arrivalTime": "1918",
+                "itinerary": "Germany"
+            },
+            {
+                "@type": "Trip",
+                "departureTime": "1919",
+                "arrivalTime": "1920",
+                "itinerary": "Netherlands and England"
+            },
+            {
+                "@type": "Trip",
+                "departureTime": "1921",
+                "arrivalTime": "1922",
+                "itinerary": "England, USA, and Cuba"
+            },
+            {
+                "@type": "Trip",
+                "departureTime": "1924",
+                "arrivalTime": "1935",
+                "itinerary": "Greece, Turkey, Bulgaria, and Serbia"
+            },
+            {
+                "@type": "Trip",
+                "departureTime": "1936",
+                "arrivalTime": "1939",
+                "itinerary": "USA, England, France, Hungary, Poland, Russia, and Germany"
+            }
+        ],
+        "hobbies": [
+            "Sailing",
+            "Hunting",
+            "Ornithology",
+            "Mycology"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Tellander & Klärichs' tobacco factory",
+                "industry": "Tobacco",
+                "start_date": "1912"
+            },
+            {
+                "occupational_title": "Co-owner",
+                "workplace": "Same factory in Södertälje",
+                "industry": "Tobacco",
+                "start_date": "1913"
+            },
+            {
+                "occupational_title": "Technical Director and Board Member",
+                "workplace": "Swedish Tobacco Monopoly cigarette factory",
+                "industry": "Tobacco",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Technical Director and Board Member",
+                "workplace": "Swedish Tobacco Monopoly",
+                "industry": "Tobacco",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Member of Lower Commission on Retail Trade in Tobacco Products",
+                "workplace": "Unknown",
+                "industry": "Tobacco",
+                "start_date": "1933"
+            },
+            {
+                "occupational_title": "Member of State Tobacco Committee",
+                "workplace": "Unknown",
+                "industry": "Tobacco",
+                "start_date": "1943"
+            }
+        ]
+    }
+}

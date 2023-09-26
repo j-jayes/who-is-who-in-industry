@@ -1,0 +1,96 @@
+{
+    "original": "ISRAEI.SSON, Ida, Fröken, Linköping, f Kopparfly, Madesjö s :n, Kalmar l, 29/4 78. Hdlssk. Bitr i detaljhdl, eg aff v Flerohopp Bruk 98—08, försälj v Karlstads Strå- &amp; Filt-hattfabr o avd.ch v dess Sthlmskont 08—19, g:rund av samt deläg o vkst dir i Linkps Strå- &amp; Filthattfabr AB sed. 19, grund Hatt-fabr Står i Hallsberg 36 o deläg samt styr.led i detta AB sed. 37. Har företagit ett flert inköpsresor i utl.",
+    "translated": "ISRAEI.SSON, Ida, Miss, Linköping, b. Kopparfly, Madesjö parish, Kalmar county, 29/4 1878. Primary education. Assistant in retail trade, including manager at Flerohopp Bruk 1898-1908, saleswoman at Karlstads Straw & Felt Hat Factory and department manager at its Stockholm office 1908-1919. Co-owner and managing director at Linköping Straw & Felt Hat Factory since 1919. Founded Hatt-fabr Står in Hallsberg in 1936 and has been a co-owner and member of the board of directors since 1937. Has undertaken multiple purchasing trips abroad.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Ida Israei.Sson",
+        "birthDate": "1878-04-29",
+        "jobTitle": "Miss",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Linköping"
+        },
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Kopparfly, Madesjö parish, Kalmar county"
+        },
+        "educationLevel": "Primary education",
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Flerohopp Bruk",
+                "startDate": "1898",
+                "endDate": "1908",
+                "jobTitle": "Assistant Manager",
+                "industry": "Retail trade"
+            },
+            {
+                "@type": "Organization",
+                "name": "Karlstads Straw & Felt Hat Factory",
+                "startDate": "1908",
+                "endDate": "1919",
+                "jobTitle": "Saleswoman and Department Manager",
+                "industry": "Retail trade"
+            },
+            {
+                "@type": "Organization",
+                "name": "Linköping Straw & Felt Hat Factory",
+                "startDate": "1919",
+                "jobTitle": "Co-owner and Managing Director",
+                "industry": "Retail trade"
+            },
+            {
+                "@type": "Organization",
+                "name": "Hatt-fabr Står",
+                "startDate": "1936",
+                "jobTitle": "Co-owner and Member of the Board of Directors",
+                "industry": "Retail trade"
+            }
+        ],
+        "additionalProperty": {
+            "@type": "TravelAction",
+            "name": "Purchasing trips abroad"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Assistant in retail trade",
+                "workplace": "Flerohopp Bruk",
+                "industry": "Retail",
+                "start_date": "1898"
+            },
+            {
+                "occupational_title": "Saleswoman",
+                "workplace": "Karlstads Straw & Felt Hat Factory",
+                "industry": "Manufacturing",
+                "start_date": "1908"
+            },
+            {
+                "occupational_title": "Department Manager",
+                "workplace": "Karlstads Straw & Felt Hat Factory (Stockholm office)",
+                "industry": "Manufacturing",
+                "start_date": "1908"
+            },
+            {
+                "occupational_title": "Co-owner & Managing Director",
+                "workplace": "Linköping Straw & Felt Hat Factory",
+                "industry": "Manufacturing",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Founder & Co-owner",
+                "workplace": "Hatt-fabr Står (Hallsberg)",
+                "industry": "Manufacturing",
+                "start_date": "1936"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Hatt-fabr Står (Hallsberg)",
+                "industry": "Manufacturing",
+                "start_date": "1937"
+            }
+        ]
+    }
+}

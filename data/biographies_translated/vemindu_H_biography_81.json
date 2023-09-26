@@ -1,0 +1,106 @@
+{
+    "original": "HAMILTON, Gilbert Wathier, Greve, Civilingenjör, Bromölla 2, f Medelplana, Skarab l, 8/8 02 av major greve Wathier H o Fernanda Busck, gm Marie Bolander. Studex Upps 21, KTH (maskinbyggn o mek tekn) 23—27. Driftsassist v Skånska Cement AB i Limhamn 27—34, offerting v AB Iföverken i Bromölla sed. 34. Resor: Tyskl o Finl 29. Hobby: Artilleripjäser.",
+    "translated": "HAMILTON, Gilbert Wathier, Count, Civil Engineer, Bromölla 2, b. Medelplana, Skarab l, 8/8 02, son of Major Count Wathier H and Fernanda Busck, m. Marie Bolander. Studied at Uppsala University in 1921, Royal Institute of Technology (Mechanical Engineering) 1923-1927. Assisted with operations at Skånska Cement AB in Limhamn 1927-1934, tendering at AB Iföverken in Bromölla since 1934. Travels: Germany and Finland in 1929. Hobby: Artillery pieces.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Gilbert Wathier Hamilton",
+        "birthDate": "1902-08-08",
+        "birthPlace": "Medelplana, Skarab l",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bromölla 2"
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Wathier H",
+                "jobTitle": "Major"
+            },
+            {
+                "@type": "Person",
+                "name": "Fernanda Busck"
+            }
+        ],
+        "spouse": [
+            {
+                "@type": "Person",
+                "name": "Marie Bolander"
+            }
+        ],
+        "education": [
+            {
+                "@type": "CollegeOrUniversity",
+                "name": "Uppsala University",
+                "startDate": "1921"
+            },
+            {
+                "@type": "CollegeOrUniversity",
+                "name": "Royal Institute of Technology",
+                "startDate": "1923",
+                "endDate": "1927",
+                "programName": "Mechanical Engineering"
+            }
+        ],
+        "jobTitle": [
+            "Civil Engineer",
+            "Count"
+        ],
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "Skånska Cement AB",
+                "startDate": "1927",
+                "endDate": "1934",
+                "description": "Operations Assistant"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Iföverken",
+                "startDate": "1934",
+                "description": "Tendering"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Country",
+                "name": "Sweden"
+            }
+        ],
+        "hobby": "Artillery pieces",
+        "travel": [
+            {
+                "@type": "Country",
+                "name": "Germany"
+            },
+            {
+                "@type": "Country",
+                "name": "Finland"
+            }
+        ]
+    },
+    "occupations": {
+        "career": {
+            "occupational_title": [
+                "Civil Engineer",
+                "Driftsassist",
+                "Offerting"
+            ],
+            "workplace": [
+                "Bromölla 2",
+                "Skånska Cement AB",
+                "AB Iföverken"
+            ],
+            "industry": [
+                null,
+                "Cement Manufacturing",
+                "Sanitaryware Manufacturing"
+            ],
+            "start_date": [
+                null,
+                "1927",
+                "1934"
+            ]
+        }
+    }
+}

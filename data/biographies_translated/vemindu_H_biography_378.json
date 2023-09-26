@@ -1,0 +1,106 @@
+{
+    "original": "HOLMSTRÖM, Eric, Kamrer, Munkfors, f Sthlm 22/8 92 av hdlsresande Aug H o Nanny Carlsson, gm Ingeborg Lundberg. Eft slut stud anst i Bk AB Södra Sverige o ASEA, bokf o kassör h Uddeholms AB, kraftykn Munkfors, 15, kamr där sed. 27. Hobbies: Vildmarksliv, skidåkning.",
+    "translated": "HOLMSTRÖM, Eric, Cashier, Munkfors, b Stockholm 22/8 92 to traveling merchant August H and Nanny Carlsson, m Ingeborg Lundberg. After finishing studies employed in Bk AB Southern Sweden and ASEA, worked as bookkeeper and treasurer at Uddeholms AB, power station Munkfors, 15, promoted to cashier there since 27. Hobbies: Wilderness life, skiing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Eric",
+        "familyName": "Holmström",
+        "jobTitle": "Cashier",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Munkfors",
+            "addressCountry": "Sweden"
+        },
+        "birthDate": "1892-08-22",
+        "birthPlace": "Stockholm",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "August H. Holmström",
+                "jobTitle": "Traveling Merchant"
+            },
+            {
+                "@type": "Person",
+                "name": "Nanny Carlsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ingeborg Lundberg"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Bk AB Södra Sverige"
+            },
+            {
+                "@type": "Organization",
+                "name": "ASEA"
+            },
+            {
+                "@type": "Organization",
+                "name": "Uddeholms AB"
+            }
+        ],
+        "workLocation": {
+            "@type": "Place",
+            "name": "Munkfors"
+        },
+        "workExperience": [
+            {
+                "@type": "jobTitle",
+                "name": "bookkeeper",
+                "endDate": "1915"
+            },
+            {
+                "@type": "jobTitle",
+                "name": "treasurer",
+                "endDate": "1915"
+            },
+            {
+                "@type": "jobTitle",
+                "name": "cashier",
+                "startDate": "1927"
+            }
+        ],
+        "hobbies": [
+            "Wilderness life",
+            "Skiing"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Cashier",
+                "workplace": "Munkfors",
+                "industry": "Unknown",
+                "start_date": "27"
+            },
+            {
+                "occupational_title": "Bookkeeper and Treasurer",
+                "workplace": "Uddeholms AB",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Power Station Employee",
+                "workplace": "Munkfors",
+                "industry": "Unknown",
+                "start_date": "15"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Bk AB Southern Sweden",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "ASEA",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

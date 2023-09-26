@@ -1,0 +1,137 @@
+{
+    "original": "JOHANSSON, Johan Birger (Bigge), Grosshandlare, Falkenberg, f Stafsinge, Hall, 19/1 79 av jordbr P J o Gustava Andersson, gm Alma Andersson. Anst repslag 91—93, lantbr 94, spec.aff 94—97, manuf.fma E Hallberg i Fkb 98—07, etabl 07 fma Bigge Johansson (num engr.aff i klädesvaror), deläg o ch Bigge &amp; Co, vilken fma 35 övert fma B J:s detaljaff. Stdsflm o led folksk.styr mm 11—21. Ordf Fkbs köpm.frn 08 o 30—42, styr.led 17 Hall köpm.frb sed. 37. Resor: Tyskl, Frankr, Engl 24. Sv köpm.frbs ftjt g, TR, IOGT. Hobby: Nykterhetsrörelsen.",
+    "translated": "JOHANSSON, Johan Birger (Bigge), Merchant, Falkenberg, born in Stafsinge, Hall, on January 19, 1879, to farmers P J and Gustava Andersson, married Alma Andersson. Worked in rope making from 1891 to 1893, in agriculture in 1894, in special trade from 1894 to 1897, and was employed by the manufacturing company E Hallberg in Falkenberg from 1898 to 1907. Established his own business in 1907 as Bigge Johansson (currently engaged in the clothing goods industry), and became a partner in Bigge & Co, which took over B J's retail business in 1935. Actively involved in the local film industry and served on the board of the public primary school from 1911 to 1921. Chairman of Falkenberg's Merchants Association from 1908, and served as a board member of the Hall Merchants Association since 1917 until 1937. Traveled to Germany, France, and England in 1924. Member of the Swedish Merchants Association, the Temperance Movement, and various other organizations. Hobby: Prohibition movement.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Johan Birger",
+        "additionalName": "Bigge",
+        "familyName": "Johansson",
+        "jobTitle": "Merchant",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Stafsinge, Hall"
+            }
+        },
+        "birthDate": "1879-01-19",
+        "parents": [
+            {
+                "@type": "Person",
+                "givenName": "P J",
+                "familyName": "Andersson",
+                "jobTitle": "Farmer"
+            },
+            {
+                "@type": "Person",
+                "givenName": "Gustava",
+                "familyName": "Andersson",
+                "jobTitle": "Farmer"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "givenName": "Alma",
+            "familyName": "Andersson"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "E Hallberg",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Falkenberg"
+                },
+                "startDate": "1898-01-01",
+                "endDate": "1907-12-31"
+            },
+            {
+                "@type": "Organization",
+                "name": "Bigge Johansson"
+            },
+            {
+                "@type": "Organization",
+                "name": "Bigge & Co",
+                "startDate": "1935-01-01"
+            }
+        ],
+        "industry": "Clothing goods",
+        "activities": [
+            {
+                "@type": "Organization",
+                "name": "Falkenberg's Merchants Association",
+                "position": "Chairman",
+                "startDate": "1908-01-01"
+            },
+            {
+                "@type": "Organization",
+                "name": "Hall Merchants Association",
+                "position": "Board member",
+                "startDate": "1917-01-01",
+                "endDate": "1937-12-31"
+            }
+        ],
+        "educationalRole": [
+            {
+                "@type": "Organization",
+                "name": "Falkenberg's Public Primary School",
+                "position": "Board member",
+                "startDate": "1911-01-01",
+                "endDate": "1921-12-31"
+            }
+        ],
+        "traveler": [
+            "Germany",
+            "France",
+            "England"
+        ],
+        "organizations": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Merchants Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Temperance Movement"
+            }
+        ],
+        "hobbies": [
+            "Prohibition movement"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Rope Maker",
+                "workplace": "Repslag (rope making company)",
+                "industry": "Manufacturing",
+                "start_date": "1891"
+            },
+            {
+                "occupational_title": "Agricultural Worker",
+                "workplace": "Unknown",
+                "industry": "Agriculture",
+                "start_date": "1894"
+            },
+            {
+                "occupational_title": "Special Trade Worker",
+                "workplace": "Unknown",
+                "industry": "Trade",
+                "start_date": "1894"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "E Hallberg (manufacturing company)",
+                "industry": "Manufacturing",
+                "start_date": "1898"
+            },
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Bigge Johansson",
+                "industry": "Clothing Goods",
+                "start_date": "1907"
+            }
+        ]
+    }
+}

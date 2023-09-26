@@ -1,0 +1,203 @@
+{
+    "original": "HJORTH, Justus Fredrik, Civilingenjör, Gävle, f Sthlm 20/9 78 av sjökapt J Chr H o Fredrique Holmgren, gm Anna Christer-Svensson. Studex 98, KTH 02. Anst Surahammars br 02—04, Chrome Steel Works, New York, o Bethlehem Steel Comp, Pä, USA, 05, Hennebique Constr Co, New York, 05—07, avd.ch Sk Cement, Sthlm, 07—13, tekn ch Hfors cem- o asf.aff 13—14, vkst dir o styr.-ordf byggn.AB Konstruktör, Gävle, sed. start 14. V. ordf Gävle belysn.styr. Ordf Gävle byggn.fra o byggn.arb.giv.frn, styr.led Sv byggn.entrepr.frn, fastigh.AB Visheten o fas-tigh.AB Stella. Resor: USA 05—07, Finl 13— 14, Engl 39. Hobby: Ridning.",
+    "translated": "HJORTH, Justus Fredrik, Civil Engineer, Gävle, born in Stockholm on September 20th, 1878, son of sea captain J Chr H and Fredrique Holmgren, married to Anna Christer-Svensson. Passed the student examination in 1898 and graduated from the Royal Institute of Technology (KTH) in 1902. Employed at Surahammars Bruk from 1902 to 1904, Chrome Steel Works in New York and Bethlehem Steel Company in Pä, USA in 1905, Hennebique Construction Company in New York from 1905 to 1907, department chief at SK Cement in Stockholm from 1907 to 1913, technical director at Hfors cement and asphalt department from 1913 to 1914, and became the managing director and chairman of the board at Construction AB Konstruktör in Gävle from its establishment in 1914. Vice-chairman of Gävle Lighting Board, chairman of Gävle Building Association and Building Employers' Federation, board member of Swedish Building Entrepreneurs Association, Visheten Real Estate Company, and Stella Real Estate Company. Travel destinations: USA from 1905 to 1907, Finland in 1913 to 1914, and England in 1939. Hobby: Horseback riding.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Justus Fredrik Hjorth",
+        "givenName": "Justus Fredrik",
+        "familyName": "Hjorth",
+        "birthDate": "1878-09-20",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Stockholm"
+        },
+        "father": {
+            "@type": "Person",
+            "name": "J Chr H"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Fredrique Holmgren"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Anna Christer-Svensson"
+        },
+        "jobTitle": "Civil Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Gävle"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "student examination",
+            "educationalLevel": "Graduate",
+            "educationalCredentialAwarded": "KTH degree",
+            "educationalInstitution": {
+                "@type": "Organization",
+                "name": "Royal Institute of Technology"
+            },
+            "startDate": "1898",
+            "endDate": "1902"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Surahammars Bruk",
+                "startDate": "1902",
+                "endDate": "1904"
+            },
+            {
+                "@type": "Organization",
+                "name": "Chrome Steel Works"
+            },
+            {
+                "@type": "Organization",
+                "name": "Bethlehem Steel Company",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "USA",
+                    "addressRegion": "Pä"
+                },
+                "startDate": "1905"
+            },
+            {
+                "@type": "Organization",
+                "name": "Hennebique Construction Company",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "USA",
+                    "addressLocality": "New York"
+                },
+                "startDate": "1905",
+                "endDate": "1907"
+            },
+            {
+                "@type": "Organization",
+                "name": "SK Cement",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm"
+                },
+                "startDate": "1907",
+                "endDate": "1913"
+            },
+            {
+                "@type": "Organization",
+                "name": "Hfors Cement and Asphalt Department",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Sweden",
+                    "addressLocality": "Hfors"
+                },
+                "startDate": "1913",
+                "endDate": "1914"
+            },
+            {
+                "@type": "Organization",
+                "name": "Construction AB Konstruktör",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Gävle"
+                },
+                "startDate": "1914"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Gävle Lighting Board",
+                "memberOf": "Vice Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Gävle Building Association",
+                "memberOf": "Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Building Employers' Federation",
+                "memberOf": "Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Building Entrepreneurs Association",
+                "memberOf": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Visheten Real Estate Company",
+                "memberOf": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Stella Real Estate Company",
+                "memberOf": "Board Member"
+            }
+        ],
+        "travel": [
+            {
+                "destination": "USA",
+                "startDate": "1905",
+                "endDate": "1907"
+            },
+            {
+                "destination": "Finland",
+                "startDate": "1913",
+                "endDate": "1914"
+            },
+            {
+                "destination": "England",
+                "startDate": "1939"
+            }
+        ],
+        "knowsAbout": "Riding"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Surahammars Bruk",
+                "industry": "Steel Manufacturing",
+                "start_date": "1902"
+            },
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Chrome Steel Works",
+                "industry": "Steel Manufacturing",
+                "start_date": "1905"
+            },
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Bethlehem Steel Company",
+                "industry": "Steel Manufacturing",
+                "start_date": "1905"
+            },
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Hennebique Construction Company",
+                "industry": "Construction",
+                "start_date": "1905"
+            },
+            {
+                "occupational_title": "Department Chief",
+                "workplace": "SK Cement",
+                "industry": "Cement Manufacturing",
+                "start_date": "1907"
+            },
+            {
+                "occupational_title": "Technical Director",
+                "workplace": "Hfors Cement and Asphalt Department",
+                "industry": "Construction Materials",
+                "start_date": "1913"
+            },
+            {
+                "occupational_title": "Managing Director and Chairman",
+                "workplace": "Construction AB Konstruktör",
+                "industry": "Construction",
+                "start_date": "1914"
+            }
+        ]
+    }
+}

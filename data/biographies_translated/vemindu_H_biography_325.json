@@ -1,0 +1,78 @@
+{
+    "original": "HOBOHM, Albert, Direktör, Långedrag, f i Tyskl 22/5 85, gm Frieda Vendi. Hög- o fackskolor i Tyskl. Dir i eget företag, Ernström &amp; Co AB, Gbg o Sthlm. Styr.led AB Vattentät Cement, Gbg o Köpmannebro samt Örebro Marmor &amp; Mosaik AB, Örebro.",
+    "translated": "HOBOHM, Albert, Director, Långedrag, born in Tyskl on May 22nd, 1885, married to Frieda Vendi. Attended higher and technical schools in Tyskl. Director in his own company, Ernström & Co AB, in Gothenburg and Stockholm. Board member of AB Vattentät Cement in Gothenburg and Köpmannebro, as well as Örebro Marmor & Mosaik AB in Örebro.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Albert Hobohm",
+        "birthDate": "1885-05-22",
+        "gender": "Male",
+        "nationality": "Sweden",
+        "spouse": {
+            "@type": "Person",
+            "name": "Frieda Vendi"
+        },
+        "jobTitle": "Director",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Ernström & Co AB"
+        },
+        "birthPlace": "Tyskl",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Långedrag"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Higher school",
+                "educationalLevel": "Secondary"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Technical school",
+                "educationalLevel": "Secondary"
+            }
+        ],
+        "affiliation": [
+            {
+                "@type": "Organization",
+                "name": "AB Vattentät Cement",
+                "location": "Gothenburg and Köpmannebro"
+            },
+            {
+                "@type": "Organization",
+                "name": "Örebro Marmor & Mosaik AB",
+                "location": "Örebro"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Ernström & Co AB",
+                "industry": "Unknown",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "AB Vattentät Cement",
+                "industry": "Construction",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Köpmannebro",
+                "industry": "Unknown",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Örebro Marmor & Mosaik AB",
+                "industry": "Construction",
+                "start_date": null
+            }
+        ]
+    }
+}

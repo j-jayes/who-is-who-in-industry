@@ -1,0 +1,79 @@
+{
+    "original": "ISAKSSON, Axel Harry, Fabrikör, Banke-ryd, f Habo, Skarab l, 29/5 96, gm Anna Larsson. Prakt i Tyskl. Anst s verkniäst v öl fabr i Sv. Gr Penselfabr Perfect Ban-keryd 20, inneh dna.",
+    "translated": "ISAKSSON, Axel Harry, Industrialist, Banke-ryd, born in Habo, Skaraborg county, May 29th, 1896, married Anna Larsson. Apprenticeship in Germany. Employed at a beer factory in Sweden. Co-owner of Perfect Pen Brush Factory in Banke-ryd since 1920, owning shares in the company.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Axel Harry Isaksson",
+        "birthDate": "1896-05-29",
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Habo, Skaraborg County"
+        },
+        "occupation": "Industrialist",
+        "spouse": {
+            "@type": "Person",
+            "name": "Anna Larsson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Apprenticeship",
+                "recognizedBy": {
+                    "@type": "Country",
+                    "name": "Germany"
+                }
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Perfect Pen Brush Factory",
+            "startDate": "1920"
+        },
+        "owns": {
+            "@type": "OwnershipInfo",
+            "ownedThing": {
+                "@type": "Organization",
+                "name": "Perfect Pen Brush Factory",
+                "location": "Banke-ryd",
+                "foundingDate": "1920"
+            },
+            "sharesOwned": "20%"
+        },
+        "additionalProperty": [
+            {
+                "@type": "PropertyValue",
+                "name": "residence",
+                "value": "Banke-ryd"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Industrialist",
+                "workplace": "Banke-ryd",
+                "industry": "Unknown",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Apprentice",
+                "workplace": "Germany",
+                "industry": "Unknown",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Beer factory in Sweden",
+                "industry": "Beverage",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Co-owner",
+                "workplace": "Perfect Pen Brush Factory",
+                "industry": "Manufacturing",
+                "start_date": "1920"
+            }
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "original": "JOHANSSON, Fritz Oscar Levin, Virkeshandlare, Jönköping, f Jkp 26/9 04 av virkes-handl Levin J o Alma Dahl, gin Sonja Printz. Studex Jkp 25. Ag fma Levin Johansson Trävaror (grund av fad 92). Resor: Tyskl 36 o 38.",
+    "translated": "JOHANSSON, Fritz Oscar Levin, Timber Merchant, Jönköping, b. Jkp 26/9 04, the son of timber merchant Levin J and Alma Dahl, m. Sonja Printz. Completed studies in Jkp in 1925. Works for Levin Johansson Timber Products (father died at 92). Traveled to Germany in 1936 and 1938.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Fritz Oscar Levin Johansson",
+        "birthDate": "1904-09-26",
+        "birthPlace": "Jönköping",
+        "description": "Timber merchant",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Levin J"
+            },
+            {
+                "@type": "Person",
+                "name": "Alma Dahl"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Sonja Printz"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Jkp",
+                "endDate": "1925"
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Levin Johansson Timber Products"
+        },
+        "deathDate": "1996",
+        "deathPlace": "Jönköping",
+        "event": [
+            {
+                "@type": "TravelEvent",
+                "name": "Germany",
+                "startDate": "1936",
+                "endDate": "1936"
+            },
+            {
+                "@type": "TravelEvent",
+                "name": "Germany",
+                "startDate": "1938",
+                "endDate": "1938"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Timber Merchant",
+                "workplace": "Jönköping",
+                "industry": "Timber Products",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Timber Merchant",
+                "workplace": "Jönköping",
+                "industry": "Timber Products",
+                "start_date": "1925"
+            }
+        ]
+    }
+}

@@ -1,0 +1,109 @@
+{
+    "original": "HAGSTBÖM, Bertil Erik Karl, Civilingenjör, Stockholm, f Lysvik, Vrml, 4/12 04 av kontr.prost J O H o Hedvig örtenblad, gm Karin Andersson. Hal Krist, KTH (VoV). Anst C Jansson, Grythyttehed, 28—29, Bergsunds Mek Verkst 29, AB Vattenbyggn.byrån sed. 30. Resor: Engl 33, Tyskl 34.",
+    "translated": "HAGSTBÖM, Bertil Erik Karl, Civil Engineer, Stockholm, b. Lysvik, Värmland, 4/12 04, son of the vicar J.O.H. Örtenblad and Hedvig Örtenblad, married to Karin Andersson. Studied at the Royal Institute of Technology (KTH). Worked at C. Jansson, Grythyttehed from 1928-1929, Bergsunds Mekaniska Verkstad from 1929, and AB Vattenbyggnadsbyrån since 1930. Traveled to England in 1933 and Germany in 1934.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Bertil Erik Karl Hagstböm",
+        "jobTitle": "Civil Engineer",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Lysvik",
+            "address": {
+                "@type": "PostalAddress",
+                "addressRegion": "Värmland",
+                "addressCountry": "Sweden"
+            }
+        },
+        "birthDate": "1904-12-04",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "J.O.H. Örtenblad",
+                "jobTitle": "Vicar"
+            },
+            {
+                "@type": "Person",
+                "name": "Hedvig Örtenblad"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Karin Andersson"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Royal Institute of Technology (KTH)"
+        },
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "C. Jansson, Grythyttehed",
+                "startDate": "1928",
+                "endDate": "1929"
+            },
+            {
+                "@type": "Organization",
+                "name": "Bergsunds Mekaniska Verkstad",
+                "startDate": "1929"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Vattenbyggnadsbyrån",
+                "startDate": "1930"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "KTH (VoV)"
+            }
+        ],
+        "hasOccupation": [
+            {
+                "@type": "Occupation",
+                "name": "Civil Engineer"
+            }
+        ],
+        "hasTravelHistory": [
+            {
+                "@type": "Place",
+                "name": "England",
+                "startDate": "1933"
+            },
+            {
+                "@type": "Place",
+                "name": "Germany",
+                "startDate": "1934"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Stockholm",
+                "industry": "Engineering",
+                "start_date": "N/A"
+            },
+            {
+                "occupational_title": "Unknown",
+                "workplace": "C. Jansson, Grythyttehed",
+                "industry": "Unknown",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Unknown",
+                "workplace": "Bergsunds Mekaniska Verkstad",
+                "industry": "Unknown",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Unknown",
+                "workplace": "AB Vattenbyggnadsbyrån",
+                "industry": "Unknown",
+                "start_date": "1930"
+            }
+        ]
+    }
+}

@@ -1,0 +1,131 @@
+{
+    "original": "ISBACK, Harry Lorentz, Bankkamrer, Kumla, f Oskarshamn 7/8 99 av handl C Gustafsson o Maria Hemmingsson, gm Ingrid Olsson. Realex, Påhlm hdlsinst. Anst Oskarsh livsm.nmd 18, Köpm.bkn Söderh 19, Skand bkns avd.kont där 20, E.tuna 33, Kumla sed. 38. Ordf Kumla ind.nmd.",
+    "translated": "ISBACK, Harry Lorentz, Bank clerk, Kumla, born in Oskarshamn on July 8, 1899, son of merchant C Gustafsson and Maria Hemmingsson, married to Ingrid Olsson. Completed elementary school, studied commerce at Påhlm trade institute. Employed at Oskarshamn's life insurance company from 1918, at Söderhölm bookkeeping from 1919, at Skandia bank's department office from 1920, in Eksjö from 1933, at Kumla since 1938. Chairman of Kumla industrial committee.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Harry Lorentz Isback",
+        "givenName": "Harry Lorentz",
+        "familyName": "Isback",
+        "jobTitle": "Bank Clerk",
+        "birthDate": "1899-07-08",
+        "birthPlace": "Oskarshamn",
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Kumla Industrial Committee"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "C Gustafsson",
+                "occupation": "Merchant"
+            },
+            {
+                "@type": "Person",
+                "name": "Maria Hemmingsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ingrid Olsson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Elementary School"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Commerce",
+                "credentialLevel": "Trade Institute",
+                "educationalRole": "Student",
+                "educationalProgram": "Påhlm Trade Institute"
+            }
+        ],
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1918",
+                "endDate": "1937",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Oskarshamn's Life Insurance Company"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1919",
+                "endDate": "1920",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Söderhölm Bookkeeping"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1920",
+                "endDate": "1932",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Skandia Bank's Department Office"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1933",
+                "endDate": "1937",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Eksjö"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1938",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Kumla"
+                }
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Bank clerk",
+                "workplace": "Oskarshamn's life insurance company",
+                "industry": "Banking",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Bank clerk",
+                "workplace": "Söderhölm bookkeeping",
+                "industry": "Accounting",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Bank clerk",
+                "workplace": "Skandia bank's department office",
+                "industry": "Banking",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Bank clerk",
+                "workplace": "Eksjö",
+                "industry": "Banking",
+                "start_date": "1933"
+            },
+            {
+                "occupational_title": "Bank clerk",
+                "workplace": "Kumla",
+                "industry": "Banking",
+                "start_date": "1938"
+            }
+        ]
+    }
+}

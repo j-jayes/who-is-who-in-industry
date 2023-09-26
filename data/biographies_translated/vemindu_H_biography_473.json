@@ -1,0 +1,229 @@
+{
+    "original": "HÖRSTADIUS, Nils Wilhelm, Civilingenjör, Direktör, Borås, f Sthlm 25/11 94 av hovr.råd Wilh H o Svea Hård av Segerstad, gm Margit Bergengren. Studex 12, civ.ing KTH 18, stud The Amos Tuck School of Admin, and Finance, Hanover, NK, USA 21—22. Ljt fort res 22, kapt VVK 30. Ing AB Vatt.byggn.byr, Sthlm, 18—20, St Kopparb bergsl ABs kraftv.byggn i Forshuvudforsen, Borlänge, 20—21, Sv-Amer.-stift, komm.koll o VA USAstip 21—22, sekr Sv textilind.frb 23—25, vkst dir AB Sv konstsilke, Borås, sed. 25. Stdsflm Borås sed. 31, ordf löne-nmdn 40, bygg.nmdn sed. 40, led elverksstyr sed. 40, Vgl o N Hall hdlskamm sed 32, l :a kamm (h) 37, ordf Textilråd allm grupp sed. 42, styr.led Stift sv textilforskn sed. 43. Styr.led Borås WäfveriAB sed. 30, AB Nya brygg sed. 32, AB Sv fören trikåfabr sed. 39, Kilsunds AB sed. 42. RVO, öRKHt2kl.",
+    "translated": "HÖRSTADIUS, Nils Wilhelm, Civil Engineer, Director, Borås, born in Stockholm on November 25th, 1894, son of Court of Appeals Judge Wilh H and Svea Hård of Segerstad, married to Margit Bergengren. Completed secondary school in 1912, graduated from the Royal Institute of Technology (KTH) with a degree in Civil Engineering in 1918, studied at The Amos Tuck School of Administration and Finance in Hanover, New Hampshire, USA in 1921-1922. Served briefly in the military and became captain of the Västergötland Regiment in 1930. Worked as an engineer at the Water Building Bureau in Stockholm from 1918 to 1920, at the Power Building of Stora Kopparberget AB in Forshuvudforsen, Borlänge from 1920 to 1921, served as a commercial officer and VA USA representative of the Swedish-American Foundation in 1921-1922, secretary of the Swedish Textile Industry Association from 1923 to 1925. Became a managing director of AB Swedish Art Silk in Borås in 1925. Joined the board of directors of Borås Savings Bank in 1931 and served as chairman of the salary committee in 1940. Also served on the building committee from 1940 and was a board member of the power company and the Västergötland-Northern Halland Chamber of Commerce since 1932. Elected as the first chamber chairman in 1937 and served as chairman of the Textile Council general group since 1942. A board member of the Foundation for Swedish Textile Research since 1943. Also served on the board of directors of Borås Wäfveri AB since 1930, AB Nya Brygg since 1932, AB Swedish Knitwear Factory since 1939, and Kilsunds AB since 1942. Awarded RVO (Royal Order of Vasa), higher class, and the Royal Norwegian Order of St. Olav, 2nd Class.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Nils Wilhelm Hörstadius",
+        "birthDate": "1894-11-25",
+        "birthPlace": "Stockholm, Sweden",
+        "description": "Civil Engineer, Director",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Wilh H Hörstadius",
+                "description": "Father"
+            },
+            {
+                "@type": "Person",
+                "name": "Svea Hård",
+                "description": "Mother"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Margit Bergengren"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "secondarySchool",
+                "startDate": "1912",
+                "endDate": "1912"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "college",
+                "startDate": "1918",
+                "endDate": "1918",
+                "alumniOf": {
+                    "@type": "CollegeOrUniversity",
+                    "name": "Royal Institute of Technology (KTH)"
+                }
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "college",
+                "startDate": "1921",
+                "endDate": "1922",
+                "alumniOf": {
+                    "@type": "CollegeOrUniversity",
+                    "name": "The Amos Tuck School of Administration and Finance"
+                },
+                "location": {
+                    "@type": "Country",
+                    "name": "United States"
+                }
+            }
+        ],
+        "militaryService": {
+            "@type": "MilitaryService",
+            "branch": "Västergötland Regiment",
+            "rank": "Captain",
+            "startDate": "1930",
+            "endDate": "1930"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "AB Vatt.byggn.byr",
+                "startDate": "1918",
+                "endDate": "1920",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "Sweden",
+                        "addressLocality": "Stockholm"
+                    }
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Stora Kopparberget AB",
+                "startDate": "1920",
+                "endDate": "1921",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "Sweden",
+                        "addressLocality": "Borlänge"
+                    }
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish-American Foundation",
+                "startDate": "1921",
+                "endDate": "1922",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "United States",
+                        "addressRegion": "New Hampshire",
+                        "addressLocality": "Hanover"
+                    }
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Textile Industry Association",
+                "startDate": "1923",
+                "endDate": "1925",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "Sweden",
+                        "addressLocality": "Borås"
+                    }
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Swedish Art Silk",
+                "startDate": "1925",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "Sweden",
+                        "addressLocality": "Borås"
+                    }
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Borås Savings Bank",
+                "startDate": "1931"
+            },
+            {
+                "@type": "Organization",
+                "name": "Västergötland-Northern Halland Chamber of Commerce",
+                "startDate": "1932"
+            },
+            {
+                "@type": "Organization",
+                "name": "Textile Council",
+                "startDate": "1942"
+            },
+            {
+                "@type": "Organization",
+                "name": "Foundation for Swedish Textile Research",
+                "startDate": "1943"
+            },
+            {
+                "@type": "Organization",
+                "name": "Borås Wäfveri AB",
+                "startDate": "1930"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Nya Brygg",
+                "startDate": "1932"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Swedish Knitwear Factory",
+                "startDate": "1939"
+            },
+            {
+                "@type": "Organization",
+                "name": "Kilsunds AB",
+                "startDate": "1942"
+            }
+        ],
+        "award": [
+            {
+                "@type": "Order",
+                "name": "Royal Order of Vasa",
+                "category": "RVO",
+                "ranking": "higher class"
+            },
+            {
+                "@type": "Order",
+                "name": "Royal Norwegian Order of St. Olav",
+                "category": "ÖRKH",
+                "ranking": "2nd Class"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "AB Vatt.byggn.byr, Sthlm",
+                "industry": "Engineering",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Stora Kopparberget AB (Power Building)",
+                "industry": "Mining",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Commercial Officer and VA USA Representative",
+                "workplace": "Swedish-American Foundation",
+                "industry": "International Relations",
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Secretary",
+                "workplace": "Swedish Textile Industry Association",
+                "industry": "Textile",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "AB Swedish Art Silk",
+                "industry": "Textile",
+                "start_date": "1925"
+            }
+        ]
+    }
+}

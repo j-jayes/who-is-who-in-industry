@@ -1,0 +1,96 @@
+{
+    "original": "HOLMBERG, Lars Fredrik Mattias, Civilingenjör, Stockholm, f Sthlm 25/11 08 av riks-bkskamr K J N H o Judit Lundqvist, gm Gunvor Schram. Ex tekn gymn Örebro 30, KTH (maskinbyggn o mek tekn) 30—34. Anst v AB Ljungströms Ångturbins beräkn.avd Sthlm 35 —36, SJ i Malmö 36—38, nu åter h AB Ljungströms Ångturbin Sthlm, assistent v KTH sed. 42. Led Sv Tekn.frn.",
+    "translated": "HOLMBERG, Lars Fredrik Mattias, Civil Engineer, Stockholm, born in Stockholm on November 25, 1908, son of royal chamberlain K J N H and Judit Lundqvist, married to Gunvor Schram. Completed technical high school in Örebro in 1930, and attended the Royal Institute of Technology (specializing in mechanical engineering and mechanical technology) from 1930 to 1934. Employed at AB Ljungström's Steam Turbine Calculation Department in Stockholm from 1935 to 1936, at SJ in Malmö from 1936 to 1938, and is currently back at AB Ljungström's Steam Turbine in Stockholm. Assistant at the Royal Institute of Technology since 1942. A member of the Swedish Technical Association.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Lars Fredrik Mattias Holmberg",
+        "givenName": "Lars Fredrik Mattias",
+        "familyName": "Holmberg",
+        "jobTitle": "Civil Engineer",
+        "birthDate": "1908-11-25",
+        "birthPlace": "Stockholm",
+        "description": "Civil Engineer and member of the Swedish Technical Association",
+        "parent": {
+            "@type": "Person",
+            "name": "K J N H",
+            "jobTitle": "Royal Chamberlain"
+        },
+        "parent2": {
+            "@type": "Person",
+            "name": "Judit Lundqvist"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Gunvor Schram"
+        },
+        "education": [
+            {
+                "@type": "HighSchool",
+                "alumniOf": "Technical High School in Örebro",
+                "endDate": "1930"
+            },
+            {
+                "@type": "CollegeOrUniversity",
+                "alumniOf": "Royal Institute of Technology",
+                "startDate": "1930",
+                "endDate": "1934",
+                "specialization": "Mechanical Engineering and Mechanical Technology"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "AB Ljungströms Ångturbins",
+                "department": "Calculation Department",
+                "address": "Stockholm",
+                "startDate": "1935",
+                "endDate": "1936"
+            },
+            {
+                "@type": "Organization",
+                "name": "SJ",
+                "address": "Malmö",
+                "startDate": "1936",
+                "endDate": "1938"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Ljungströms Ångturbins",
+                "address": "Stockholm"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Swedish Technical Association"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "AB Ljungström's Steam Turbine Calculation Department",
+                "industry": "Engineering",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "SJ",
+                "industry": "Transportation",
+                "start_date": "1936"
+            },
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "AB Ljungström's Steam Turbine",
+                "industry": "Engineering",
+                "start_date": "1938"
+            },
+            {
+                "occupational_title": "Assistant",
+                "workplace": "Royal Institute of Technology",
+                "industry": "Education",
+                "start_date": "1942"
+            }
+        ]
+    }
+}

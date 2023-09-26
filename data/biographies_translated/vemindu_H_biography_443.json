@@ -1,0 +1,216 @@
+{
+    "original": "HÄGGSTRÖM, Erik Johannes, Civilingenjör, Långedrag, f Malmö 14/8 97 av J H o Ida Frölander, gm Tyra Fredricsson. Studex 15, civ.ing.ex CTH 19, yerkst.prakt USA 16 —17, ritkont.prakt AB öresundsvarvet Lkro-na 18. Anst öresundsvarvet 20—21, AB B Dieden Mmö 21—23, Newport News Shipbldg &amp; Dry Dock Co USA 23—24, ritkont.ch Eriksbergs Mek Verkst, Gbg, sed. 25. Sekr Tekn Samf, avd f mek o skeppsbyggn.konst Gbg 36—37. Resor: USA 16—17 o 23—24. Av trycket: »Kylanordningar i fartyg» (i Tekn Tidskr). Inneh CTH:s John EricssonM.",
+    "translated": "HÄGGSTRÖM, Erik Johannes, Civil Engineer, Långedrag, born in Malmö on August 14th, 1897, to parents J H and Ida Frölander, married to Tyra Fredricsson. Graduated with a Bachelor's Degree in Engineering in 1915, completed his engineering studies at Chalmers University of Technology in 1919, and worked as a trainee in the United States from 1916 to 1917. He also worked as a drafting assistant at AB Öresundsvarvet in Långedrag in 1918. Employed at Öresundsvarvet from 1920 to 1921, AB B Dieden in Malmö from 1921 to 1923, and Newport News Shipbuilding & Dry Dock Co in the USA from 1923 to 1924. Became a drafting manager at Eriksbergs Mekaniska Verkstads in Gothenburg from 1925 onwards. Secretary for the Technical Society, Mechanical and Shipbuilding Division in Gothenburg from 1936 to 1937. Traveled to the United States in 1916-1917 and 1923-1924. Published a work titled \"Cooling systems in ships\" (in Teknisk Tidskrift). Also a member of the Royal Swedish Society of Naval Sciences at Chalmers. Please note that \"married in the year 19xx\" is indicated by the abbreviation \"gm\" followed by the partner's name.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Erik Johannes Häggström",
+        "birthDate": "1897-08-14",
+        "birthPlace": "Malmö",
+        "description": "Civil Engineer",
+        "spouse": {
+            "@type": "Person",
+            "name": "Tyra Fredricsson"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "J H Häggström"
+            },
+            {
+                "@type": "Person",
+                "name": "Ida Frölander"
+            }
+        ],
+        "educationalCredentialAwarded": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "Bachelor's Degree in Engineering",
+                "dateAwarded": "1915"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "Engineering degree",
+                "dateAwarded": "1919",
+                "awardingInstitution": {
+                    "@type": "CollegeOrUniversity",
+                    "name": "Chalmers University of Technology"
+                }
+            }
+        ],
+        "nationality": "Swedish",
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1916",
+                "endDate": "1917",
+                "roleName": "Trainee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "United States"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1918",
+                "endDate": "1918",
+                "roleName": "Drafting Assistant",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Öresundsvarvet"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1920",
+                "endDate": "1921",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Öresundsvarvet"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1921",
+                "endDate": "1923",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB B Dieden"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1923",
+                "endDate": "1924",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Newport News Shipbuilding & Dry Dock Co"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1925",
+                "roleName": "Drafting Manager",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Eriksbergs Mekaniska Verkstads"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1936",
+                "endDate": "1937",
+                "roleName": "Secretary",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Technical Society"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Chalmers",
+                "description": "Royal Swedish Society of Naval Sciences"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "AB Öresundsvarvet"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB B Dieden"
+            },
+            {
+                "@type": "Organization",
+                "name": "Newport News Shipbuilding & Dry Dock Co"
+            },
+            {
+                "@type": "Organization",
+                "name": "Eriksbergs Mekaniska Verkstads"
+            },
+            {
+                "@type": "Organization",
+                "name": "Technical Society",
+                "department": "Mechanical and Shipbuilding Division"
+            }
+        ],
+        "publication": [
+            {
+                "@type": "Article",
+                "name": "Cooling systems in ships",
+                "publisher": {
+                    "@type": "Organization",
+                    "name": "Teknisk Tidskrift"
+                }
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "TravelAction",
+                "fromLocation": "Sweden",
+                "toLocation": "United States",
+                "startDate": "1916",
+                "endDate": "1917"
+            },
+            {
+                "@type": "TravelAction",
+                "fromLocation": "Sweden",
+                "toLocation": "United States",
+                "startDate": "1923",
+                "endDate": "1924"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Trainee",
+                "workplace": "United States",
+                "industry": "Unknown",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Drafting Assistant",
+                "workplace": "AB Öresundsvarvet",
+                "industry": "Shipbuilding",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "AB Öresundsvarvet",
+                "industry": "Shipbuilding",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "AB B Dieden",
+                "industry": "Unknown",
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Newport News Shipbuilding & Dry Dock Co",
+                "industry": "Shipbuilding",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Drafting Manager",
+                "workplace": "Eriksbergs Mekaniska Verkstads",
+                "industry": "Shipbuilding",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Secretary",
+                "workplace": "Technical Society",
+                "industry": "Unknown",
+                "start_date": "1936"
+            }
+        ]
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "original": "HÖGBERG, A G, Handlande, Johannisberg, f Haverö, Vnorrl l, 3/3 93. Björstedtska hdls-sk Sthlm. Anst Haverö Koop Hdlsfrn t 14, AB J Byström östavall 15—30. Inneh fma A G Högberg, manuf o div, Johannisberg, sed. 30. Kass Torps lokalavd av Medelp Köpm.frb. Hobby: Sportfiske.",
+    "translated": "HÖGBERG, A G, Merchant, Johannisberg, born in Haverö, northern Västernorrland province, 3rd of March, 1893. Björstedtska Trade School in Stockholm. Employed at Haverö Cooperative Trade Company from 1914, AB J Byström in Östavall from 1915 to 1930. Owner of A G Högberg Manufacturing and various businesses in Johannisberg since 1930. Treasurer of the Torp Local Branch of the Medelpad Merchant Association. Hobby: Sport fishing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "HÖGBERG, A G",
+        "jobTitle": "Merchant",
+        "birthDate": "1893-03-03",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Haverö",
+                "addressRegion": "Vnorrl",
+                "addressCountry": "Sweden"
+            }
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Björstedtska Trade School",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm",
+                        "addressCountry": "Sweden"
+                    }
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Haverö Cooperative Trade Company",
+                "startDate": "1914"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB J Byström",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Östavall",
+                        "addressCountry": "Sweden"
+                    }
+                },
+                "startDate": "1915",
+                "endDate": "1930"
+            },
+            {
+                "@type": "Organization",
+                "name": "A G Högberg Manufacturing",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Johannisberg",
+                        "addressCountry": "Sweden"
+                    }
+                },
+                "startDate": "1930"
+            },
+            {
+                "@type": "Organization",
+                "name": "Torps lokalavd av Medelp Köpm.frb",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Torps",
+                        "addressRegion": "Medelp",
+                        "addressCountry": "Sweden"
+                    }
+                },
+                "roleName": "Treasurer"
+            }
+        ],
+        "hobby": "Sport fishing"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Haverö Cooperative Trade Company",
+                "industry": "Retail",
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Merchant",
+                "workplace": "AB J Byström",
+                "industry": "Retail",
+                "start_date": "1915"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "A G Högberg Manufacturing",
+                "industry": "Manufacturing",
+                "start_date": "1930"
+            }
+        ]
+    }
+}

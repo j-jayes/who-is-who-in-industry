@@ -1,0 +1,66 @@
+{
+    "original": "HÄGGLUND, Olof Hjalmar, Direktör, Örnsköldsvik, f Järved, V.norrl län, 11/3 98 av fabr J H o Emma Strandberg, gm Ester Åström. Sundsv hdlssk 15—16. Dir sed. 20 o styr.led i AB Joh Hägglund. Odd Fellow, W6.",
+    "translated": "HÄGGLUND, Olof Hjalmar, Director, Örnsköldsvik, born in Järved, Västernorrland County, on November 3, 1898, to factory worker J.H. and Emma Strandberg. Married to Ester Åström. Attended Sundsvall Commercial School in 1915-1916. Director since 1920 and board member in AB Joh Hägglund. Member of the Odd Fellow society, Lodge W6.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Olof Hjalmar HÄGGLUND",
+        "jobTitle": "Director",
+        "birthDate": "1898-11-03",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Järved",
+            "address": {
+                "@type": "PostalAddress",
+                "addressRegion": "Västernorrland County",
+                "addressCountry": "Sweden"
+            }
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "J.H. HÄGGLUND",
+                "jobTitle": "Factory Worker"
+            },
+            {
+                "@type": "Person",
+                "name": "Emma STRANDBERG"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ester ÅSTRÖM"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Sundsvall Commercial School",
+            "startDate": "1915",
+            "endDate": "1916"
+        },
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "AB Joh Hägglund",
+                "position": "Director",
+                "startDate": "1920"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Odd Fellow",
+                "memberOf": "Lodge W6"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "AB Joh Hägglund",
+                "industry": "Unknown",
+                "start_date": 1920
+            }
+        ]
+    }
+}

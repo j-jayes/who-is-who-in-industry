@@ -1,0 +1,145 @@
+{
+    "original": "HAMMARBORG, Kurt Otto, Reklamkonsulent, Stockholm, f Sthlm 22/8 09 av godsäg P S H o Ebba Ringdahl, gra Wanja Nilsson. Studex 28, hdlsgymn 29. Eg fma C Hammarborg, agentur, 31, exp.man i fma Erik Dahl Sthlm 32—38, avd.ch AB Per Liljas Maskin-aff 38—40, v AB A Orton maskinaff 40—42, reklamch i fma Per Lilja 42—44, reklamkonsulent i AB Europa Film sed. 44. Styr.led Harris Nya Fabr AB Sthlm. Resor: Finl 38, Tyskl 41. Sthlms Reklamfrn. Hobby: Film.",
+    "translated": "HAMMARBORG, Kurt Otto, Advertising Consultant, Stockholm, born in Stockholm on August 22, 1909, son of estate owner P. S. H. and Ebba Ringdahl, married to Wanja Nilsson. Graduated in 1928, commercial high school in 1929. Started own agency in 1931, worked as an export manager at Erik Dahl in Stockholm from 1932 to 1938, department manager at AB Per Liljas Maskin-aff from 1938 to 1940, worked at AB A Orton maskinaff from 1940 to 1942, advertising manager at fma Per Lilja from 1942 to 1944, advertising consultant at AB Europa Film since 1944. Board member of Harris Nya Fabr AB in Stockholm. Travelled to Finland in 1938 and Germany in 1941. Member of Sthlms Reklamfrn (Stockholm Advertising Association). Hobby: Film.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Kurt Otto Hammarsborg",
+        "givenName": "Kurt Otto",
+        "familyName": "Hammarsborg",
+        "jobTitle": "Advertising Consultant",
+        "birthDate": "1909-08-22",
+        "birthPlace": "Stockholm, Sweden",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "P. S. H. Hammarsborg",
+                "jobTitle": "Estate Owner"
+            },
+            {
+                "@type": "Person",
+                "name": "Ebba Ringdahl"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Wanja Nilsson"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "diploma",
+            "educationalLevel": "Graduate",
+            "startDate": "1928",
+            "endDate": "1929"
+        },
+        "hasOccupation": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Export Manager",
+                "startDate": "1932",
+                "endDate": "1938",
+                "namedPosition": {
+                    "@type": "Organization",
+                    "name": "Erik Dahl",
+                    "location": "Stockholm"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Department Manager",
+                "startDate": "1938",
+                "endDate": "1940",
+                "namedPosition": {
+                    "@type": "Organization",
+                    "name": "AB Per Liljas Maskin-aff",
+                    "location": "Stockholm"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Advertising Manager",
+                "startDate": "1942",
+                "endDate": "1944",
+                "namedPosition": {
+                    "@type": "Organization",
+                    "name": "fma Per Lilja"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Advertising Consultant",
+                "startDate": "1944",
+                "namedPosition": {
+                    "@type": "Organization",
+                    "name": "AB Europa Film"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Sthlms Reklamfrn",
+                "location": "Stockholm",
+                "foundingDate": "unknown"
+            }
+        ],
+        "hobby": "Film",
+        "hasAccomplishments": [
+            {
+                "@type": "BoardMember",
+                "roleName": "Board Member",
+                "namedPosition": {
+                    "@type": "Organization",
+                    "name": "Harris Nya Fabr AB",
+                    "location": "Stockholm"
+                }
+            }
+        ],
+        "hasTravelHistory": [
+            {
+                "@type": "TravelAction",
+                "toLocation": "Finland",
+                "startDate": "1938"
+            },
+            {
+                "@type": "TravelAction",
+                "toLocation": "Germany",
+                "startDate": "1941"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Reklamkonsulent",
+                "workplace": "Stockholm",
+                "industry": "Advertising",
+                "start_date": "1944"
+            },
+            {
+                "occupational_title": "Reklamch",
+                "workplace": "fma Per Lilja",
+                "industry": "Advertising",
+                "start_date": "1942"
+            },
+            {
+                "occupational_title": "Avd.ch",
+                "workplace": "AB Per Liljas Maskin-aff",
+                "industry": "Machinery",
+                "start_date": "1938"
+            },
+            {
+                "occupational_title": "Exp.man",
+                "workplace": "Erik Dahl Sthlm",
+                "industry": "Unknown",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Agentur",
+                "workplace": "C Hammarborg",
+                "industry": "Unknown",
+                "start_date": "1931"
+            }
+        ]
+    }
+}

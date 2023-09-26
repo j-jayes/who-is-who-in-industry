@@ -1,0 +1,174 @@
+{
+    "original": "HÖGBERG, Robert, Direktör, Härnösand, f Hsand 22/4 90 av sjökapt A H o h h, f Fröberg, gm Lissy Lobeck. Efter avsl lärov.-stud anst h fma Chr B Thiis, Hsand, 07—11, praktik i London 11 o i Riga 12—13. Anst h konsul A J Norberg, Hsand, 14—22, övertog sistn år tills m grossh Emil Eriksson konsul Norbergs aff.rörelse, som fortf bedrives under fmanamn A J Norberg, Hsand. Styr.led i Torsviks Sågverks AB o i AB Bröderna Högberg, båda i Hsand.",
+    "translated": "HÖGBERG, Robert, Director, Härnösand, born in Härnösand on April 22, 1890, son of sea captain A.H. and his wife H.H. (nee Fröberg), married to Lissy Lobeck. After completing his studies at the local school, he worked at Chr B Thiis company in Härnösand from 1907 to 1911, followed by internships in London in 1911 and Riga from 1912 to 1913. He was employed by consul A.J. Norberg in Härnösand from 1914 to 1922. Last year he took over consul Norberg's business, along with his partner, merchant Emil Eriksson, and continues to operate it under the name A.J. Norberg in Härnösand. He serves on the board of directors for Torsviks Sågverks AB and AB Bröderna Högberg, both located in Härnösand.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Robert Högberg",
+        "jobTitle": "Director",
+        "birthDate": "1890-04-22",
+        "birthPlace": "Härnösand",
+        "father": {
+            "@type": "Person",
+            "name": "A.H. Högberg",
+            "occupation": "Sea Captain"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "H.H. Högberg",
+            "maidenName": "Fröberg"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Lissy Lobeck"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Local School"
+            }
+        ],
+        "work experience": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Employee",
+                "startDate": "1907-01-01",
+                "endDate": "1911-01-01",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Chr B Thiis",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Härnösand"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Intern",
+                "startDate": "1911-01-01",
+                "endDate": "1911-12-31",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "London"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Intern",
+                "startDate": "1912-01-01",
+                "endDate": "1913-12-31",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Riga"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Employee",
+                "startDate": "1914-01-01",
+                "endDate": "1922-01-01",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "A.J. Norberg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Härnösand"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Business Owner",
+                "startDate": "1921-01-01",
+                "endDate": "present",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "A.J. Norberg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Härnösand"
+                    }
+                }
+            }
+        ],
+        "boardMember": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Board Member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Torsviks Sågverks AB",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Härnösand"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Board Member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Bröderna Högberg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Härnösand"
+                    }
+                }
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Härnösand",
+                "industry": "Unknown",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Chr B Thiis",
+                "industry": "Unknown",
+                "start_date": "1907"
+            },
+            {
+                "occupational_title": "Intern",
+                "workplace": "London",
+                "industry": "Unknown",
+                "start_date": "1911"
+            },
+            {
+                "occupational_title": "Intern",
+                "workplace": "Riga",
+                "industry": "Unknown",
+                "start_date": "1912"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "A J Norberg",
+                "industry": "Consulate",
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Director (Jointly with Emil Eriksson)",
+                "workplace": "A J Norberg",
+                "industry": "Consulate",
+                "start_date": "last year (prior to the biography being written)"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Torsviks Sågverks AB",
+                "industry": "Unknown",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "AB Bröderna Högberg",
+                "industry": "Unknown",
+                "start_date": null
+            }
+        ]
+    }
+}

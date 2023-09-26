@@ -1,0 +1,102 @@
+{
+    "original": "HALLHAGEN, Oscar Frithiof, Civilingenjör, Stockholm, f östad, Älvsb l, 11/6 98 av folkskoll J F Benjaminsson o Anna Johansson, gm Rödakorssystern Margareta Pettersson. Civingex CTH (V o V) 23. Anst Motala Verkst 23—26, ing AB Vattenbyggnadsbyrån, avd f vattenkraft, Sthlm, sed. 26, konsult ing där sed. 38. Studieresa Tyskl 22, tjänsteresor Ryssl 0 Finl. Hobbies: Musik (violin, piano), sång.",
+    "translated": "HALLHAGEN, Oscar Frithiof, Civil Engineer, Stockholm, b. Östad, Älvsb l, on 11/6/1898 to elementary school teacher J F Benjaminsson and Anna Johansson, m. Red Cross sister Margareta Pettersson. Graduate of Royal Institute of Technology (V o V) in 1923. Employed at Motala Verkst from 1923 to 1926, engineer at AB Vattenbyggnadsbyrån, water power department, Stockholm since 1926, consultant engineer there since 1938. Study trip to Germany in 1922, business trips to Russia and Finland. Hobbies: Music (violin, piano), singing. Note: '\\d\\d m. partner's name' indicates marriage year in the 1900s.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Oscar Frithiof Hallhagen",
+        "birthDate": "1898-06-11",
+        "birthPlace": "Östad, Älvsb l",
+        "description": "Civil Engineer",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "J F Benjaminsson",
+                "description": "Elementary School Teacher"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Johansson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Margareta Pettersson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Royal Institute of Technology",
+                "startDate": "1923",
+                "endDate": "1923"
+            }
+        ],
+        "occupation": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Engineer",
+                "startDate": "1923",
+                "endDate": "1926",
+                "namedPosition": "Motala Verkst"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Engineer",
+                "startDate": "1926",
+                "namedPosition": "AB Vattenbyggnadsbyrån, Water Power Department, Stockholm",
+                "endDate": "1938"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Consultant Engineer",
+                "startDate": "1938",
+                "namedPosition": "AB Vattenbyggnadsbyrån, Water Power Department, Stockholm"
+            }
+        ],
+        "nationality": "Swedish",
+        "sameAs": "https://example.com/hallhagen",
+        "studyTrip": {
+            "@type": "Trip",
+            "name": "Study Trip to Germany",
+            "startDate": "1922",
+            "location": "Germany"
+        },
+        "businessTrips": [
+            {
+                "@type": "Trip",
+                "name": "Business Trip to Russia"
+            },
+            {
+                "@type": "Trip",
+                "name": "Business Trip to Finland"
+            }
+        ],
+        "hobbies": [
+            "Violin",
+            "Piano",
+            "Singing"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Motala Verkst",
+                "industry": "Engineering",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "AB Vattenbyggnadsbyrån",
+                "industry": "Water Power",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Consultant Engineer",
+                "workplace": "AB Vattenbyggnadsbyrån",
+                "industry": "Water Power",
+                "start_date": "1938"
+            }
+        ]
+    }
+}

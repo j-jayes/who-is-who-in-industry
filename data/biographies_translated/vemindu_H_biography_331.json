@@ -1,0 +1,161 @@
+{
+    "original": "HÖGMAN, Simon, Möbelhandlare, Västervik, f Mjölby 29/9 88 av skohandl Fr Th H o Augusta Jakobsson, gm Karin Bergström. Prakt i möbelbranschen i Mjölby, Lindesberg, Örebro o Sthlm t 12, inneh eg möbelaff i Lindesberg 12—21, i Västervik sed. 21. Styr.led 1 Vviks Köpm.frn 29 o några år framåt, sekr 31—33, Styr.led i Vviks Manuf.handl.frn 35—39. Led o ordf i Baptistförsaml :s fastigh.-sällsk, led o v. ordf i Smal Baptistmission. Resor: Norge 23, Danm 25, Tyskl 26 o 39, Finl 29, Frankr o Ital 39.",
+    "translated": "HÖGMAN, Simon, Furniture retailer, Västervik, born in Mjölby on September 29, 1888, son of the shoe retailer Fr Th H and Augusta Jakobsson, married to Karin Bergström. Worked in the furniture industry in Mjölby, Lindesberg, Örebro, and Stockholm until 1912, owned a furniture store in Lindesberg from 1912 to 1921, and in Västervik since 1921. Served on the board of Vviks Köpmannaförening (Vvik's Merchant Association) from 1929 for several years, secretary from 1931 to 1933, and on the board of Vviks Manufakturhandelsaktiebolag (Vvik's Retail Manufacturing Company) from 1935 to 1939. Member and chairman of the Baptist congregation's property association, and member and vice chairman of the Smal Baptist Mission. Travels: Norway in 1923, Denmark in 1925, Germany in 1926 and 1939, Finland in 1929, France and Italy in 1939.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Simon Högman",
+        "jobTitle": "Furniture retailer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Västervik"
+        },
+        "birthDate": "1888-09-29",
+        "birthPlace": "Mjölby",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Fr Th H Högman"
+            },
+            {
+                "@type": "Person",
+                "name": "Augusta Jakobsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Karin Bergström"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Högman Möbler AB",
+                "startDate": "1912",
+                "endDate": "1921",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Lindesberg"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Högman Möbler AB",
+                "startDate": "1921",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Västervik"
+                }
+            }
+        ],
+        "boardMembership": [
+            {
+                "@type": "Organization",
+                "name": "Vviks Köpmannaförening",
+                "startDate": "1929",
+                "endDate": "current",
+                "position": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Vviks Manufakturhandelsaktiebolag",
+                "startDate": "1935",
+                "endDate": "1939",
+                "position": "Board Member"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Baptist congregation",
+                "position": "Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Smal Baptist Mission",
+                "position": "Vice Chairman"
+            }
+        ],
+        "travels": [
+            {
+                "place": "Norway",
+                "date": "1923"
+            },
+            {
+                "place": "Denmark",
+                "date": "1925"
+            },
+            {
+                "place": "Germany",
+                "date": "1926"
+            },
+            {
+                "place": "Germany",
+                "date": "1939"
+            },
+            {
+                "place": "Finland",
+                "date": "1929"
+            },
+            {
+                "place": "France",
+                "date": "1939"
+            },
+            {
+                "place": "Italy",
+                "date": "1939"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Furniture retailer",
+                "workplace": "Västervik",
+                "industry": "Retail & Sales",
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Chairman of Vvik's Retail Manufacturing Company",
+                "workplace": "Västervik",
+                "industry": "Retail & Sales",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Secretary of Vvik's Merchant Association",
+                "workplace": "Västervik",
+                "industry": "Retail & Sales",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Furniture store owner",
+                "workplace": "Lindesberg",
+                "industry": "Retail & Sales",
+                "start_date": "1912"
+            },
+            {
+                "occupational_title": "Employee in the furniture industry",
+                "workplace": "Stockholm",
+                "industry": "Manufacturing",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Employee in the furniture industry",
+                "workplace": "Örebro",
+                "industry": "Manufacturing",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Employee in the furniture industry",
+                "workplace": "Lindesberg",
+                "industry": "Manufacturing",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Employee in the furniture industry",
+                "workplace": "Mjölby",
+                "industry": "Manufacturing",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

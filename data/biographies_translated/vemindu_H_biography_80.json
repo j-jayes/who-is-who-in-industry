@@ -1,0 +1,129 @@
+{
+    "original": "HAMILTON, Axel Wathier, Greve, Tranås, f Täckhammar 23/3 71 av kammarn G A H o grev:an Marianne Lewenhaupt, gm Emma von Hof sten (d 4X). KS, GCI. Off 93, major i res 21. Eg föret Hamiltons Tranåsbaden, öppn 30, fam.bol 35, Fd Styr.led Smal Idr.frb. Resor: Ryssl 5 år, flert europ länd. RSO, skytte- 0 idr.m g, Sv Idr.frbs ftjt g.",
+    "translated": "HAMILTON, Axel Wathier, Count, Tranås, born in Täckhammar on March 23, 1871, son of Chamberlain G A H and Countess Marianne Lewenhaupt, married to Emma von Hofsten (deceased 4X). Civil servant, member of the Royal Swedish Academy of Sciences. Officer since 1893, major in the reserve from 1921. Established Hamilton's Tranåsbaden in 1930, family business since 1935. Former board member of the Swedish Olympic Committee. Traveled to Russia for 5 years, multiple European countries. Received the Order of the Polar Star, involved in shooting and sports with the Swedish Sports Federation.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Axel Wathier Hamilton",
+        "birthDate": "1871-03-23",
+        "birthPlace": "Täckhammar",
+        "description": "Count, Tranås",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "G A H"
+            },
+            {
+                "@type": "Person",
+                "name": "Marianne Lewenhaupt"
+            }
+        ],
+        "spouse": [
+            {
+                "@type": "Person",
+                "name": "Emma von Hofsten"
+            }
+        ],
+        "deathDate": null,
+        "alumniOf": {
+            "@type": "Organization",
+            "name": "Royal Swedish Academy of Sciences"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Olympic Committee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Sports Federation"
+            }
+        ],
+        "occupation": [
+            {
+                "@type": "GovernmentOffice",
+                "name": "Civil servant"
+            },
+            {
+                "@type": "MilitaryPerson",
+                "name": "Officer",
+                "startDate": "1893"
+            },
+            {
+                "@type": "MilitaryPerson",
+                "name": "Major",
+                "startDate": "1921",
+                "memberOf": "Reserve"
+            }
+        ],
+        "foundingDate": [
+            {
+                "@type": "Organization",
+                "name": "Hamilton's Tranåsbaden",
+                "startDate": "1930",
+                "description": "Established in 1930"
+            },
+            {
+                "@type": "Organization",
+                "name": "Hamilton's Tranåsbaden",
+                "startDate": "1935",
+                "description": "Family business since 1935"
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "Country",
+                "name": "Russia",
+                "duration": "5 years"
+            },
+            {
+                "@type": "Country",
+                "name": "Multiple European countries"
+            }
+        ],
+        "awards": [
+            {
+                "@type": "Order",
+                "name": "Order of the Polar Star"
+            }
+        ],
+        "interests": [
+            {
+                "@type": "Thing",
+                "name": "Shooting"
+            },
+            {
+                "@type": "Thing",
+                "name": "Sports"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil servant",
+                "workplace": "Royal Swedish Academy of Sciences",
+                "industry": "Government",
+                "start_date": "1893"
+            },
+            {
+                "occupational_title": "Major (reserve)",
+                "workplace": "",
+                "industry": "Military",
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Founder",
+                "workplace": "Hamilton's Tranåsbaden",
+                "industry": "Hospitality",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Board member",
+                "workplace": "Swedish Olympic Committee",
+                "industry": "Sports",
+                "start_date": ""
+            }
+        ]
+    }
+}

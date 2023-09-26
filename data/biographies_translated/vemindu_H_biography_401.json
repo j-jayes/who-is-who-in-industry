@@ -1,0 +1,108 @@
+{
+    "original": "HULIN, Karl Rudolf, Verkstadschef, Nora, f Gullspång 6/4 04 av ing K B H o Ida Hansson, gm tandläk Gertrud Trollér. Stud CTI. Anst AB Sågbladsfabr i Nora sed. 24, styr.led där o i el- o vattenv 2 år. Resor: Norge, Danm, Finl, Estl Tyskl, Österr o Holl. Hobbies : Fiskodl, sportfiske.",
+    "translated": "HULIN, Karl Rudolf, Workshop Manager, Nora, born in Gullspång on April 6th, 1904, son of engineer K B Hulin and Ida Hansson, married to dentist Gertrud Trollér. Studied at CTI. Employed at AB Sågbladsfabr in Nora since 1924, served on the board of directors and in the electrical and water department for 2 years. Traveled to Norway, Denmark, Finland, Estonia, Germany, Austria, and the Netherlands. Hobbies: Fish farming, sport fishing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Karl Rudolf Hulin",
+        "jobTitle": "Workshop Manager",
+        "birthDate": "1904-04-06",
+        "birthPlace": "Gullspång, Sweden",
+        "father": {
+            "@type": "Person",
+            "name": "K B Hulin",
+            "jobTitle": "Engineer"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Ida Hansson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Gertrud Trollér",
+            "jobTitle": "Dentist"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "CTI"
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "AB Sågbladsfabr",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Nora"
+            },
+            "startDate": "1924"
+        },
+        "boardMembership": {
+            "@type": "Organization",
+            "name": "AB Sågbladsfabr",
+            "positionName": "Board of Directors",
+            "startDate": "1924",
+            "endDate": "1926"
+        },
+        "departmentMembership": {
+            "@type": "Organization",
+            "name": "AB Sågbladsfabr",
+            "positionName": "Electrical and Water Department",
+            "startDate": "1924",
+            "endDate": "1926"
+        },
+        "memberOf": [
+            {
+                "@type": "Place",
+                "name": "Norway"
+            },
+            {
+                "@type": "Place",
+                "name": "Denmark"
+            },
+            {
+                "@type": "Place",
+                "name": "Finland"
+            },
+            {
+                "@type": "Place",
+                "name": "Estonia"
+            },
+            {
+                "@type": "Place",
+                "name": "Germany"
+            },
+            {
+                "@type": "Place",
+                "name": "Austria"
+            },
+            {
+                "@type": "Place",
+                "name": "Netherlands"
+            }
+        ],
+        "hobbies": [
+            "Fish farming",
+            "Sport fishing"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Workshop Manager",
+                "workplace": "AB Sågbladsfabr",
+                "industry": "Manufacturing",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Board of Directors",
+                "workplace": "AB Sågbladsfabr",
+                "industry": "Manufacturing"
+            },
+            {
+                "occupational_title": "Electrical and Water Department",
+                "workplace": "AB Sågbladsfabr",
+                "industry": "Manufacturing",
+                "start_date": "unknown"
+            }
+        ]
+    }
+}

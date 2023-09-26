@@ -1,0 +1,105 @@
+{
+    "original": "HOLM, Hans, Ingenjör, Traneberg, f Sthlm 21/8 11 av dir H H H o Margarethe Feser, gm Barbro Andrén. Kungsh h a l, STI. Verkst.ch AB Hans Österman 28, anst h AB Tönseth &amp; Co Ulvsunda sed. 28, verkst.ch där sed 39. Resor: Engl, Tyskl m fi 36—42. Par Bricole, KAK, Sv Verkst.ing Frn, SXK m fl. Hobby: Segling.",
+    "translated": "HOLM, Hans, Engineer, Traneberg, born in Stockholm on August 21, 1911, son of director H H H and Margarethe Feser, married to Barbro Andrén. Residence: Kungsholmen, Stockholm. Employed at the company AB Hans Österman since 1928, and at the company AB Tönseth &amp; Co Ulvsunda since 1928, promoted to Engineer there in 1939. Traveled extensively to England, Germany, and other places from 1936 to 1942. Member of the Bricole Club, KAK (Royal Automobile Club), Swedish Association of Engineers, Swedish Sailing Association, and others. Hobby: Sailing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Hans Holm",
+        "jobTitle": "Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Traneberg",
+            "addressRegion": "Stockholm"
+        },
+        "birthDate": "1911-08-21",
+        "birthPlace": "Stockholm",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "H H H"
+            },
+            {
+                "@type": "Person",
+                "name": "Margarethe Feser"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Barbro Andrén"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Bricole Club"
+            },
+            {
+                "@type": "Organization",
+                "name": "Royal Automobile Club"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Association of Engineers"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Sailing Association"
+            }
+        ],
+        "hobbies": "Sailing",
+        "hasOccupation": [
+            {
+                "@type": "Organization",
+                "name": "AB Hans Österman",
+                "startDate": "1928"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Tönseth & Co Ulvsunda",
+                "startDate": "1928"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "AB Tönseth & Co Ulvsunda",
+                "startDate": "1928",
+                "endDate": "1939"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Tönseth & Co Ulvsunda",
+                "startDate": "1939"
+            }
+        ],
+        "travels": [
+            {
+                "@type": "Place",
+                "name": "England",
+                "startDate": "1936",
+                "endDate": "1942"
+            },
+            {
+                "@type": "Place",
+                "name": "Germany",
+                "startDate": "1936",
+                "endDate": "1942"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "AB Hans Österman",
+                "industry": "Unknown",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "AB Tönseth & Co Ulvsunda",
+                "industry": "Unknown",
+                "start_date": "1928"
+            }
+        ]
+    }
+}

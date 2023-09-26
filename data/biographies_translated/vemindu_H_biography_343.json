@@ -1,0 +1,126 @@
+{
+    "original": "HOLM, Sidney Fritjof, Herr, Stocksund, f 6/2 93 av fil dr J F H o Annie Johnson, gm Britta Hedenmark. Studex, res.off.ex. Chefs-assist fma Ekman &amp; Co Gbg 17—22, dir AB Calvert &amp; Co Gbg 22—27. Inneh fma Industri Traktor, Sthlm, agenturer i stålrör o el art etc. Styr.led AB Calvert &amp; Co Gbg. Resor: Tyskl 13, Engl 14—17. Hobbies: Fiske, tennis.",
+    "translated": "HOLM, Sidney Fritjof, Mr., Stocksund, born on February 6, 1893, to PhD J F H and Annie Johnson. Married to Britta Hedenmark. Studied at the University, reserve officer examination. Chief assistant at Ekman & Co in Gothenburg from 1917 to 1922, director at AB Calvert & Co in Gothenburg from 1922 to 1927. Owns shares in Industri Traktor, Stockholm, with agencies in steel pipes and electrical art, etc. Board member of AB Calvert & Co in Gothenburg. Travels: Germany 1913, England 1914-1917. Hobbies: Fishing, tennis.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Sidney Fritjof Holm",
+        "givenName": "Sidney",
+        "additionalName": "Fritjof",
+        "familyName": "Holm",
+        "gender": "Male",
+        "birthDate": "1893-02-06",
+        "birthPlace": "Stocksund",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "J F H",
+                "givenName": "J",
+                "additionalName": "F",
+                "familyName": "H",
+                "jobTitle": "PhD"
+            },
+            {
+                "@type": "Person",
+                "name": "Annie Johnson",
+                "familyName": "Johnson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Britta Hedenmark",
+            "familyName": "Hedenmark"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "name": "University degree"
+        },
+        "occupation": {
+            "@type": "JobTitle",
+            "name": "Reserve Officer"
+        },
+        "workExperience": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Chief Assistant",
+                "startDate": "1917",
+                "endDate": "1922",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Ekman & Co",
+                    "location": "Gothenburg"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Director",
+                "startDate": "1922",
+                "endDate": "1927",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Calvert & Co",
+                    "location": "Gothenburg"
+                }
+            }
+        ],
+        "owns": {
+            "@type": "OrganizationRole",
+            "roleName": "Shareholder",
+            "organization": {
+                "@type": "Organization",
+                "name": "Industri Traktor",
+                "location": "Stockholm"
+            },
+            "additionalProperty": [
+                {
+                    "@type": "PropertyValue",
+                    "name": "Agencies",
+                    "value": "Steel pipes and electrical art, etc."
+                }
+            ]
+        },
+        "memberOf": {
+            "@type": "OrganizationRole",
+            "roleName": "Board Member",
+            "organization": {
+                "@type": "Organization",
+                "name": "AB Calvert & Co",
+                "location": "Gothenburg"
+            }
+        },
+        "travel": [
+            {
+                "@type": "Trip",
+                "name": "Germany",
+                "startDate": "1913",
+                "endDate": "1913"
+            },
+            {
+                "@type": "Trip",
+                "name": "England",
+                "startDate": "1914",
+                "endDate": "1917"
+            }
+        ],
+        "interests": [
+            "Fishing",
+            "Tennis"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Chief Assistant",
+                "workplace": "Ekman & Co",
+                "industry": "Unknown",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "AB Calvert & Co",
+                "industry": "Unknown",
+                "start_date": "1922"
+            }
+        ]
+    }
+}

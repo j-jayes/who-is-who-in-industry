@@ -1,0 +1,148 @@
+{
+    "original": "HALL, Mac Ivar, Försäkringsdirektör, Djursholm, f Sdsv 16/11 92 av fondmak! A H o Laura Carlson, gm Astrid Grahm. Studex, stud v Hdlshögsk. Anst Försäkr.AB Heimdall 13—15, Försäkr.AB Fylgia sed. 15, v. dir där sed. 21, v. vkst dir där sed. 43. Ordf i div tariff sam.slutn bl försäkr.bolagen, styr.-led Allm Hagelskadeförs.bol o Sv Försäkr.frn. Resor: Div studieresor inom Europa o USA. Av trycket: Div försäkringslitt. RVO.",
+    "translated": "HALL, Mac Ivar, Insurance Director, Djursholm, born in Stockholm on November 16th, 1892, son of fond broker A. H and Laura Carlson, married to Astrid Grahm. Graduated, studied at Handelshögskolan. Employed at Insurance Company Heimdall from 1913 to 1915, then at Insurance Company Fylgia since 1915, became a vice director there in 1921, and later a vice managing director in 1943. Chairman of various tariff agreements between insurance companies, board member of Allmänna Hagelskadeförsäkringsbolaget and Svenska Försäkringsförbundet. Traveled on various study trips in Europe and the USA. Published several insurance-related articles. Received the Royal Victorian Order.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Mac Ivar Hall",
+        "jobTitle": "Insurance Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Djursholm",
+            "addressCountry": "Sweden"
+        },
+        "birthDate": "1892-11-16",
+        "birthPlace": "Stockholm",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "A.H",
+                "jobTitle": "Fond Broker"
+            },
+            {
+                "@type": "Person",
+                "name": "Laura Carlson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Astrid Grahm"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Bachelor's Degree",
+            "educationalLevel": "Undergraduate",
+            "alumniOf": {
+                "@type": "CollegeOrUniversity",
+                "name": "Handelshögskolan"
+            }
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Insurance Company Heimdall",
+                "startDate": "1913-01-01",
+                "endDate": "1915-01-01"
+            },
+            {
+                "@type": "Organization",
+                "name": "Insurance Company Fylgia",
+                "startDate": "1915-01-01",
+                "roleName": "Employee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Insurance Company Fylgia",
+                "startDate": "1921-01-01",
+                "roleName": "Vice Director"
+            },
+            {
+                "@type": "Organization",
+                "name": "Insurance Company Fylgia",
+                "startDate": "1943-01-01",
+                "roleName": "Vice Managing Director"
+            },
+            {
+                "@type": "Organization",
+                "name": "Allmänna Hagelskadeförsäkringsbolaget"
+            },
+            {
+                "@type": "Organization",
+                "name": "Svenska Försäkringsförbundet"
+            }
+        ],
+        "chairmanOf": [
+            {
+                "@type": "Organization",
+                "name": "Various tariff agreements"
+            }
+        ],
+        "hasOccupation": [
+            {
+                "@type": "Occupation",
+                "name": "Insurance Director"
+            }
+        ],
+        "hasCredential": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Bachelor's Degree",
+                "educationalLevel": "Undergraduate",
+                "alumniOf": {
+                    "@type": "CollegeOrUniversity",
+                    "name": "Handelshögskolan"
+                }
+            }
+        ],
+        "hasPublished": [
+            {
+                "@type": "Article",
+                "name": "Various insurance-related articles"
+            }
+        ],
+        "awards": [
+            {
+                "@type": "Order",
+                "name": "Royal Victorian Order"
+            }
+        ],
+        "hasTravelled": [
+            {
+                "@type": "Place",
+                "name": "Europe"
+            },
+            {
+                "@type": "Place",
+                "name": "USA"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Insurance Director",
+                "workplace": "Insurance Company Fylgia",
+                "industry": "Insurance",
+                "start_date": "1943"
+            },
+            {
+                "occupational_title": "Vice Managing Director",
+                "workplace": "Insurance Company Fylgia",
+                "industry": "Insurance",
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Vice Director",
+                "workplace": "Insurance Company Fylgia",
+                "industry": "Insurance",
+                "start_date": "1915"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Insurance Company Heimdall",
+                "industry": "Insurance",
+                "start_date": "1913"
+            }
+        ]
+    }
+}

@@ -1,0 +1,117 @@
+{
+    "original": "HALL,, David, Grosshandlare, Göteborg, f Gbg 31/7 71 av fabr D A Eriksson o h h, gm Anna Maria Forssman. Eft slut sk.stud anst fma Gust F Bratt &amp; Co Gbg, deläg dna 09. Vkst dir Gust F Bratt &amp; Co Äggexport AB Gbg, fil Tomelilla, Hässleholm, Laholm o Falkenberg, sed. 29, styr.ordf där o Hall &amp; Forssells AB Gbg o Sv Äggimp Frn Malmö.",
+    "translated": "HALL, David, Wholesale Merchant, Gothenburg, born in Gothenburg on July 31, 1871, son of factory owner D A Eriksson and his wife. Married to Anna Maria Forssman. After completing secondary school studies, worked at the company Gust F Bratt & Co in Gothenburg, became a partner in 1909. Became the Managing Director of Gust F Bratt & Co Äggexport AB in Gothenburg, with branches in Tomelilla, Hässleholm, Laholm, and Falkenberg since 1929. Also served as chairman of the board of directors for Hall & Forssells AB in Gothenburg, and for the Swedish Egg Import from Malmö.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "givenName": "David",
+        "familyName": "Hall",
+        "birthDate": "1871-07-31",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Gothenburg",
+                "addressCountry": "Sweden"
+            }
+        },
+        "father": {
+            "@type": "Person",
+            "name": "D A Eriksson",
+            "jobTitle": "Factory Owner"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "H H Eriksson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Anna Maria Forssman"
+        },
+        "jobTitle": "Wholesale Merchant",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Gust F Bratt & Co",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Gothenburg",
+                "addressCountry": "Sweden"
+            }
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Secondary School"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Hall & Forssells AB",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Gothenburg",
+                    "addressCountry": "Sweden"
+                },
+                "jobTitle": "Chairman of the Board of Directors"
+            },
+            {
+                "@type": "Organization",
+                "name": "Gust F Bratt & Co Äggexport AB",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Gothenburg",
+                    "addressCountry": "Sweden"
+                },
+                "jobTitle": "Managing Director"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Egg Import",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Malmö",
+                    "addressCountry": "Sweden"
+                }
+            }
+        ],
+        "event": [
+            {
+                "@type": "JobPosting",
+                "jobTitle": "Partner",
+                "startDate": "1909"
+            },
+            {
+                "@type": "JobPosting",
+                "jobTitle": "Vice President",
+                "startDate": "1929"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Wholesale Merchant",
+                "workplace": "Gust F Bratt & Co",
+                "industry": "Wholesale trade",
+                "start_date": "1909"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "Gust F Bratt & Co Äggexport AB",
+                "industry": "Egg export",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Chairman of the Board of Directors",
+                "workplace": "Hall & Forssells AB",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Chairman of the Board of Directors",
+                "workplace": "Swedish Egg Import",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

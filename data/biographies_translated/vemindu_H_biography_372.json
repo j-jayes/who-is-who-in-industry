@@ -1,0 +1,156 @@
+{
+    "original": "HOLMQVIST, Carl, Fabrikör, Lilla Harrie, f Torrlösa, Malmöh l, 23/9 82 av fabr N H o Johanna Persson, gm Ellen Olsson. Hdlssk 97—98. Anst i A Paulsson &amp; Co mask.aff Eslöv 98—03, AB Lilla Harrie Redskapsverkst sed. 03, styr.led dta AB 11, styr.ordf o vkst dir sed. 32. Led kyrkoråd, kyrkvärd, kass o räkensk.för kyrkokass, led Örtofta mfl förs past.kyrkoråd, kass o räkensk.för ds gemens kass. Styr.led Sv Lantbr.redsk.frn, Skandi-navbkns Eslövskont. Frimurare, Odd Fellow, Rotar y.",
+    "translated": "HOLMQVIST, Carl, Industrialist, Lilla Harrie, born in Torrlösa, Malmöh l, on 23rd September 1882, son of fabricator N H and Johanna Persson, married to Ellen Olsson. Attended trade school from 1897 to 1898. Employed at A Paulsson & Co machinery store in Eslöv from 1898 to 1903, AB Lilla Harrie Redskapsverkst since 1903, board member of daughter company AB 1911, board chairman and managing director since 1932. Member of church council, church ward, treasurer and accountant for church funds, member of Örtofta and other parish church councils, treasurer and accountant for their joint fund. Board member of Swedish Agricultural Machinery Association, Skandinavbank's Eslöv office. Member of Freemasons, Odd Fellow, Rotary.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Carl Holmqvist",
+        "birthDate": "1882-09-23",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Torrlösa",
+                "addressRegion": "Malmöh l"
+            }
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "N H Holmqvist",
+                "jobTitle": "Fabricator"
+            },
+            {
+                "@type": "Person",
+                "name": "Johanna Persson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ellen Olsson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Trade school",
+                "startDate": "1897",
+                "endDate": "1898"
+            }
+        ],
+        "occupation": [
+            {
+                "@type": "Organization",
+                "name": "A Paulsson & Co",
+                "jobTitle": "Employee",
+                "startDate": "1898",
+                "endDate": "1903",
+                "description": "Machinery store in Eslöv"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Lilla Harrie Redskapsverkst",
+                "jobTitle": "Industrialist",
+                "startDate": "1903"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "AB",
+                "startDate": "1911",
+                "description": "Daughter company"
+            }
+        ],
+        "boardMember": [
+            {
+                "@type": "Organization",
+                "name": "AB",
+                "jobTitle": "Board member",
+                "startDate": "1911"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Agricultural Machinery Association",
+                "jobTitle": "Board member"
+            }
+        ],
+        "managingDirector": {
+            "@type": "Organization",
+            "name": "AB Lilla Harrie Redskapsverkst",
+            "jobTitle": "Managing director",
+            "startDate": "1932"
+        },
+        "memberOfChurch": [
+            {
+                "@type": "Organization",
+                "name": "Church council",
+                "startDate": "unknown"
+            }
+        ],
+        "churchRole": [
+            {
+                "@type": "Organization",
+                "name": "Church ward",
+                "startDate": "unknown"
+            }
+        ],
+        "churchFinance": [
+            {
+                "@type": "Organization",
+                "name": "Church funds",
+                "jobTitle": "Treasurer and accountant",
+                "startDate": "unknown"
+            },
+            {
+                "@type": "Organization",
+                "name": "Örtofta and other parish church councils",
+                "jobTitle": "Member",
+                "startDate": "unknown"
+            }
+        ],
+        "organizationFinance": [
+            {
+                "@type": "Organization",
+                "name": "Joint fund",
+                "jobTitle": "Treasurer and accountant",
+                "startDate": "unknown"
+            }
+        ],
+        "memberOfFraternalOrganizations": [
+            {
+                "@type": "Organization",
+                "name": "Freemasons"
+            },
+            {
+                "@type": "Organization",
+                "name": "Odd Fellow"
+            },
+            {
+                "@type": "Organization",
+                "name": "Rotary"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Industrialist",
+                "workplace": "AB Lilla Harrie Redskapsverkst",
+                "industry": "Machine manufacturing",
+                "start_date": "1903"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "A Paulsson & Co machinery store",
+                "industry": "Machine retail",
+                "start_date": "1898"
+            },
+            {
+                "occupational_title": "Trade school student",
+                "workplace": "Not applicable",
+                "industry": "Education",
+                "start_date": "1897"
+            }
+        ]
+    }
+}

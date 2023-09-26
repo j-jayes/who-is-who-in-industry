@@ -1,0 +1,121 @@
+{
+    "original": "ISAKSON, Bror David, Bokhandlare Växjö, f Luleå 25/6 78 av boktr o tidn.utg N P I o h h f Ericson, gm Dagmar Nielsen. Realex Luleå 92. Anst i Norrb-Kur i Luleå 92—02, lokalred f dennas malmfältsavd 02—23, bok-handl i Gällivare o Malmberget 05—23, sed. 23 vkst dir o huv.deläg i AB Axel Quidings bokhdl i Växjö (gr 1832). Studieres t Holl, Belg, Engl, Frankr, Tyskl, Danm, Norge, Finl und åren 95—21. Skr resebrev t öl tidn. Odd Fellow (ExöM o Vet). Hobbies: I yngre dagar jakt o fiske.",
+    "translated": "ISAKSON, Bror David, Bookstore owner Växjö, b. Luleå 25/6 1878, son of book printer and newspaper publisher N.P.I and his wife Dagmar Nielsen. Graduated from Realex school in Luleå in 1892. Employed at Norrb-Kur in Luleå from 1892-1902, local editor of their mining division from 1902-1923. Bookstore owner in Gällivare and Malmberget from 1905-1923. Since 1923, managing director and major shareholder of AB Axel Quidings bookstore in Växjö (established 1832). Studied in Holland, Belgium, England, France, Germany, Denmark, Norway, Finland between 1895-1921. Wrote travel letters to various newspapers. Member of Odd Fellow (ExöM and Vet). Hobbies: Hunting and fishing in his younger days.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Bror David Isakson",
+        "birthDate": "1878-06-25",
+        "birthPlace": "Luleå",
+        "deathDate": "Unknown",
+        "description": "Bookstore owner",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Odd Fellow"
+            }
+        ],
+        "hasOccupation": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1923-01-01",
+                "roleName": "Managing Director",
+                "endDate": "Unknown",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Axel Quidings bookstore",
+                    "foundingDate": "1832"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1905-01-01",
+                "endDate": "1923-01-01",
+                "roleName": "Bookstore owner",
+                "organization": [
+                    {
+                        "@type": "Organization",
+                        "name": "Bookstore in Gällivare"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "Bookstore in Malmberget"
+                    }
+                ]
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1902-01-01",
+                "endDate": "1923-01-01",
+                "roleName": "Local Editor (Mining division)",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Norrb-Kur"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1892-01-01",
+                "endDate": "1902-01-01",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Norrb-Kur"
+                }
+            }
+        ],
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "educationalLevel": "Realex school",
+            "startDate": "1892-01-01",
+            "endDate": "Unknown",
+            "recognizedBy": {
+                "@type": "Organization",
+                "name": "Luleå"
+            }
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Dagmar Nielsen"
+        },
+        "nationality": "Swedish",
+        "hobbies": "Hunting, Fishing",
+        "sameAs": [
+            "URL-to-Isakson-profile"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Bookstore owner",
+                "workplace": "Växjö",
+                "industry": "Retail",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Local editor (mining division)",
+                "workplace": "Norrb-Kur",
+                "industry": "Publishing",
+                "start_date": "1902"
+            },
+            {
+                "occupational_title": "Bookstore owner",
+                "workplace": "Gällivare and Malmberget",
+                "industry": "Retail",
+                "start_date": "1905"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Norrb-Kur",
+                "industry": "Publishing",
+                "start_date": "1892"
+            },
+            {
+                "occupational_title": "Student",
+                "workplace": "Various countries (Holland, Belgium, England, France, Germany, Denmark, Norway, Finland)",
+                "industry": "Education",
+                "start_date": "1895"
+            }
+        ]
+    }
+}

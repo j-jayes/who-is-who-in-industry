@@ -1,0 +1,107 @@
+{
+    "original": "HULTIN, Valter Kleve, Advokat, Djursholm, f Vasa 18/2 93 av V Hultin o Dagmar Lindström, gm Sigrun von Segebaden. Studex Djh 12, jur kand StHS 17. Bitr jurist hos adv Carl Lundqvist, Sthlm, 19. Inneh Kleve Hultin Adv.kontor, Sthlm. Äg villafastigh Idun 4, Djursh. Ordf byggn.nmdn i Djursh sed. 37, stdsflm Djursh sed. 39. Styr. led AB Vägförbättringar Sthlm, Djursholms AB mfl. Ett stort antal utomlandsresor. Led Sv Adv.samf sed. 22.",
+    "translated": "HULTIN, Valter Kleve, Lawyer, Djursholm, born in Vasa on February 18, 1893, to parents V Hultin and Dagmar Lindström, married to Sigrun von Segebaden. Studied at Djursholm High School and graduated in 1912, obtained a law degree from Stockholm University in 1917. Assistant lawyer at Carl Lundqvist Law Firm in Stockholm in 1919. Owns Kleve Hultin Law Office in Stockholm. Owner of the residential property Idun 4 in Djursholm. Chairman of the Building Committee in Djursholm since 1937 and the Djursholm City Council since 1939. Board member of AB Vägförbättringar Stockholm, Djursholms AB, among others. Traveled extensively abroad. Member of the Swedish Bar Association since 1922.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Valter Kleve Hultin",
+        "birthDate": "1893-02-18",
+        "birthPlace": "Vasa",
+        "nationality": "Swedish",
+        "spouse": {
+            "@type": "Person",
+            "name": "Sigrun von Segebaden"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "educationalLevel": "HighSchool",
+            "alumniOf": "Djursholm High School",
+            "endDate": "1912"
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Kleve Hultin Law Office"
+        },
+        "occupation": "Lawyer",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "AB Vägförbättringar Stockholm"
+            },
+            {
+                "@type": "Organization",
+                "name": "Djursholms AB"
+            }
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Sweden",
+            "addressRegion": "Djursholm"
+        },
+        "owns": {
+            "@type": "Place",
+            "name": "Idun 4",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Sweden",
+                "addressRegion": "Djursholm"
+            }
+        },
+        "roleName": "Chairman",
+        "hasOccupation": [
+            {
+                "@type": "Role",
+                "occupationTitle": "Chairman of the Building Committee",
+                "startDate": "1937",
+                "endDate": "present"
+            },
+            {
+                "@type": "Role",
+                "occupationTitle": "Member of the Djursholm City Council",
+                "startDate": "1939",
+                "endDate": "present"
+            }
+        ],
+        "additionalName": "Kleve"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Assistant Lawyer",
+                "workplace": "Carl Lundqvist Law Firm",
+                "industry": "Law",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "Kleve Hultin Law Office",
+                "industry": "Law",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Chairman",
+                "workplace": "Building Committee in Djursholm",
+                "industry": "Construction",
+                "start_date": "1937"
+            },
+            {
+                "occupational_title": "Chairman",
+                "workplace": "Djursholm City Council",
+                "industry": "Government",
+                "start_date": "1939"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "AB Vägförbättringar Stockholm",
+                "industry": "Construction",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Djursholms AB",
+                "industry": "Real Estate",
+                "start_date": ""
+            }
+        ]
+    }
+}

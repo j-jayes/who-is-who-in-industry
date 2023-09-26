@@ -1,0 +1,338 @@
+{
+    "original": "IHRE, Jacob Henrik Olaus, Konsul, Visby, f 1/1 78 av bkkamr J E I o Maria Svebilius, gm Elisabeth Rydbeck. Anst hdlskont Visby 95—98, e.o tjm Gotl hyp.frn 96—00, riksbkn 96, registr Linköp.kont 01, kass Sundsv 05, kamr V.y 11, dir bkAB S Sv, V.y, 15—19, Sv hdls-bkns V.ykont 19—38. Dräts.kamm 15—28, stdsflm 27—38, rådm sed. 38, v. ordf Gotl hdls-kamm, ordf kristidsnmdn, styr f Gotl läns ep.sjukh o hem f krön sjuka samt direkt f Tbc sjukstug 32—41, led direkt f länssjukh sed. 42, huv.m DBW sparbk, finsk v. kons sed. 21. Ordf V.y spannm- o gödn.ämnAB, styr.led Sv hdlsbkns avd.kont, styr.suppl Gotl fornvänner. GV :sJmt, RVO, RFinlVROlkl, FFrK4kl.",
+    "translated": "IHRE, Jacob Henrik Olaus, Consul, Visby, born January 1, 1878, son of bank clerk J.E.I and Maria Svebilius, married to Elisabeth Rydbeck. Employed at a trading office in Visby from 1895 to 1898, temporary employee at Gotland's mortgage bank from 1896 to 1900, national bank from 1896, registered at Linköping office in 1901, cashier in Sundsvall in 1905, clerk in Visby in 1911, director of bkAB S Sv and Visby branch from 1915 to 1919, director of the Swedish Commercial Bank's Visby office from 1919 to 1938. Municipal treasurer from 1915 to 1928, city council member from 1927 to 1938, appointed as councilor in 1938, vice chairman of Gotland's Chamber of Commerce, chairman of the crisis committee, board member of Gotland County Hospital and Home for Chronic Patients, and director of the TB sanatorium from 1932 to 1941, board member of the county hospital since 1942, head of the DBW savings bank, honorary vice consul of Finland from 1921. Chairman of the Visby grain and fertilizer company, board member of the Swedish Commercial Bank's branch office, board alternate of Gotland's antiquarian society. Knight of the Order of Vasa, Commander of the Order of the Polar Star, Knight of the Order of the White Rose of Finland, Fourth Class, and so on.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Jacob Henrik Olaus Ihre",
+        "birthDate": "1878-01-01",
+        "birthPlace": "Visby",
+        "father": {
+            "@type": "Person",
+            "name": "J.E.I"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Maria Svebilius"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Elisabeth Rydbeck"
+        },
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "Trading Office, Visby",
+                "startDate": "1895",
+                "endDate": "1898"
+            },
+            {
+                "@type": "Organization",
+                "name": "Gotland's Mortgage Bank",
+                "startDate": "1896",
+                "endDate": "1900",
+                "description": "Temporary employee"
+            },
+            {
+                "@type": "Organization",
+                "name": "National Bank",
+                "startDate": "1896"
+            },
+            {
+                "@type": "Organization",
+                "name": "Linköping office",
+                "startDate": "1901",
+                "description": "Registered"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sundsvall",
+                "startDate": "1905",
+                "position": "Cashier"
+            },
+            {
+                "@type": "Organization",
+                "name": "Visby",
+                "startDate": "1911",
+                "position": "Clerk"
+            },
+            {
+                "@type": "Organization",
+                "name": "bkAB S Sv",
+                "startDate": "1915",
+                "endDate": "1919",
+                "description": "Director"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Commercial Bank",
+                "startDate": "1919",
+                "endDate": "1938",
+                "description": "Director, Visby office"
+            },
+            {
+                "@type": "Organization",
+                "name": "DBW Savings Bank",
+                "position": "Head"
+            }
+        ],
+        "positions": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1915",
+                "endDate": "1928",
+                "description": "Municipal treasurer",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "City Municipality"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1927",
+                "endDate": "1938",
+                "description": "City Council Member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "City Municipality"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1938",
+                "description": "Councilor",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "City Municipality"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "Unknown",
+                "description": "Vice Chairman",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Gotland's Chamber of Commerce"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "Unknown",
+                "description": "Chairman of Crisis Committee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Crisis Committee"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "Unknown",
+                "description": "Board Member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Gotland County Hospital and Home for Chronic Patients"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1932",
+                "endDate": "1941",
+                "description": "Director of TB Sanatorium",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "TB Sanatorium"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1942",
+                "description": "Board Member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "County Hospital"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "Unknown",
+                "position": "Honorary Vice Consul",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Consulate General of Finland"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "Unknown",
+                "description": "Chairman",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Visby Grain and Fertilizer Company"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "Unknown",
+                "description": "Board Member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Swedish Commercial Bank's Branch Office"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "Unknown",
+                "description": "Board Alternate",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Gotland's Antiquarian Society"
+                }
+            }
+        ],
+        "award": [
+            {
+                "@type": "Order",
+                "name": "Knight of the Order of Vasa"
+            },
+            {
+                "@type": "Order",
+                "name": "Commander of the Order of the Polar Star"
+            },
+            {
+                "@type": "Order",
+                "name": "Knight of the Order of the White Rose of Finland",
+                "description": "Fourth Class"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Employed at Trading office",
+                "workplace": "Visby",
+                "industry": "Trade",
+                "start_date": "1895"
+            },
+            {
+                "occupational_title": "Temporary Employee",
+                "workplace": "Gotland's Mortgage Bank",
+                "industry": "Banking",
+                "start_date": "1896"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "National Bank",
+                "industry": "Banking",
+                "start_date": "1896"
+            },
+            {
+                "occupational_title": "Registered Employee",
+                "workplace": "Linköping Office",
+                "industry": "Public Administration",
+                "start_date": "1901"
+            },
+            {
+                "occupational_title": "Cashier",
+                "workplace": "Sundsvall",
+                "industry": "Banking",
+                "start_date": "1905"
+            },
+            {
+                "occupational_title": "Clerk",
+                "workplace": "Visby",
+                "industry": "Public Administration",
+                "start_date": "1911"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "bkAB S Sv and Visby Branch",
+                "industry": "Banking",
+                "start_date": "1915"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Swedish Commercial Bank's Visby Office",
+                "industry": "Banking",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Municipal Treasurer",
+                "workplace": "Visby",
+                "industry": "Public Administration",
+                "start_date": "1915"
+            },
+            {
+                "occupational_title": "City Council Member",
+                "workplace": "Visby",
+                "industry": "Public Administration",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Councillor",
+                "workplace": "Visby",
+                "industry": "Public Administration",
+                "start_date": "1938"
+            },
+            {
+                "occupational_title": "Vice Chairman",
+                "workplace": "Gotland's Chamber of Commerce",
+                "industry": "Business Association",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Chairman",
+                "workplace": "Crisis Committee",
+                "industry": "Public Administration",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Gotland County Hospital and Home for Chronic Patients",
+                "industry": "Healthcare",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "TB Sanatorium",
+                "industry": "Healthcare",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "County Hospital",
+                "industry": "Healthcare",
+                "start_date": "1942"
+            },
+            {
+                "occupational_title": "Head",
+                "workplace": "DBW Savings Bank",
+                "industry": "Banking",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Honorary Vice Consul",
+                "workplace": "Finland",
+                "industry": "Diplomatic",
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Chairman",
+                "workplace": "Visby Grain and Fertilizer Company",
+                "industry": "Agriculture",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Swedish Commercial Bank's Branch Office",
+                "industry": "Banking",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Board Alternate",
+                "workplace": "Gotland's Antiquarian Society",
+                "industry": "Heritage",
+                "start_date": ""
+            }
+        ]
+    }
+}

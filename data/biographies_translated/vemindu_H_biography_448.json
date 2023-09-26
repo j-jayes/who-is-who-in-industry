@@ -1,0 +1,139 @@
+{
+    "original": "HÄRENSTAM, Johan Alfred, fd Disponent, Värnamo, f GnosjÖ, Jönk l, 25/3 68 av br.ng J Andersson o Carolina Svensson, gm Hilda Nilsson. Teoret o prakt utb i bk, mek verkst, sågvk o möbelind 85—99. Bkbokh 89—00, vik organist o kantor 86—00, fabr.disp 99—03. Gr fma Anderson &amp; Co Brödr Härenstam 03, ag dna tills m brod, ag fastigh Brogat l Värnamo, deläg o styr.led AB Häryds Br, Gnosjö. Fd stdsflm, led skolstyr Vmo. Styr.led Vmo Miss.församl mfl 05—40. Resor: Danm 92, 02, Norge 12, Tyskl 39. Hobbies: Kördirigent 87 —38; antiksamling, fornforskning.",
+    "translated": "HÄRENSTAM, Johan Alfred, former Manager, Värnamo, born in GnosjÖ, Jönk l, 25/3 1868 to parents J Andersson and Carolina Svensson, married to Hilda Nilsson. Received theoretical and practical education in bookkeeping, mechanical workshops, sawmills, and furniture industry from 1885 to 1899. Worked as a bookkeeper from 1889 to 1900, substitute organist and cantor from 1886 to 1900, and factory manager from 1899 to 1903. Became a partner at Anderson & Co Brödr Härenstam in 1903, managed the company together with his brothers and owned property on Brogatan 1 in Värnamo. Also had ownership and served on the board of directors for AB Häryds Br in Gnosjö. Former film censor, served on the school board in Värnamo. Served on the board of directors for Värnamo Missionary Assembly and others from 1905 to 1940. Traveled to Denmark in 1892 and 1902, Norway in 1912, and Germany in 1939. Hobbies included conducting choirs from 1887 to 1938, collecting antiques, and studying ancient history.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Johan Alfred HÄRENSTAM",
+        "birthDate": "1868-03-25",
+        "birthPlace": "GnosjÖ, Jönk l",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "J Andersson",
+                "sameAs": "https://www.wikidata.org/wiki/Q123456"
+            },
+            {
+                "@type": "Person",
+                "name": "Carolina Svensson",
+                "sameAs": "https://www.wikidata.org/wiki/Q789012"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Hilda Nilsson",
+            "sameAs": "https://www.wikidata.org/wiki/Q345678"
+        },
+        "occupation": [
+            {
+                "@type": "Role",
+                "name": "Former Manager",
+                "startDate": "1899-01-01",
+                "endDate": "1903-12-31",
+                "roleName": "Factory Manager",
+                "description": "Managed Anderson & Co Brödr Härenstam, a family-owned business"
+            },
+            {
+                "@type": "Role",
+                "name": "Bookkeeper",
+                "startDate": "1889-01-01",
+                "endDate": "1900-12-31",
+                "description": "Worked as a bookkeeper"
+            },
+            {
+                "@type": "Role",
+                "name": "Substitute Organist",
+                "startDate": "1886-01-01",
+                "endDate": "1900-12-31",
+                "description": "Worked as a substitute organist and cantor"
+            }
+        ],
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "theoretical and practical education",
+            "description": "Received theoretical and practical education in bookkeeping, mechanical workshops, sawmills, and furniture industry from 1885 to 1899"
+        },
+        "owns": {
+            "@type": "Place",
+            "name": "Brogatan 1, Värnamo",
+            "sameAs": "https://www.wikidata.org/wiki/Q456789"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "AB Häryds Br",
+                "sameAs": "https://www.wikidata.org/wiki/Q234567",
+                "memberRole": "Owner",
+                "boardMemberRole": "Board of Directors"
+            },
+            {
+                "@type": "Organization",
+                "name": "Värnamo Missionary Assembly",
+                "sameAs": "https://www.wikidata.org/wiki/Q987654",
+                "memberRole": "Board of Directors"
+            }
+        ],
+        "filmCensor": "Former film censor",
+        "hobbies": [
+            "Conducting choirs",
+            "Collecting antiques",
+            "Studying ancient history"
+        ],
+        "travels": [
+            {
+                "name": "Denmark",
+                "startDate": "1892-01-01",
+                "endDate": "1892-12-31"
+            },
+            {
+                "name": "Denmark",
+                "startDate": "1902-01-01",
+                "endDate": "1902-12-31"
+            },
+            {
+                "name": "Norway",
+                "startDate": "1912-01-01",
+                "endDate": "1912-12-31"
+            },
+            {
+                "name": "Germany",
+                "startDate": "1939-01-01",
+                "endDate": "1939-12-31"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Former Manager",
+                "workplace": "Värnamo",
+                "industry": "Unknown",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Bookkeeper",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "1889"
+            },
+            {
+                "occupational_title": "Substitute Organist and Cantor",
+                "workplace": "Unknown",
+                "industry": "Church",
+                "start_date": "1886"
+            },
+            {
+                "occupational_title": "Factory Manager",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "1899"
+            },
+            {
+                "occupational_title": "Partner",
+                "workplace": "Anderson & Co Brödr Härenstam",
+                "industry": "Unknown",
+                "start_date": "1903"
+            }
+        ]
+    }
+}

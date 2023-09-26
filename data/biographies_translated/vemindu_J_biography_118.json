@@ -1,0 +1,102 @@
+{
+    "original": "JOHANSSON, Carl Georg:, Grosshandlare, Falun, f Falun 16/2 91 av grosshandl C o Sofia Johansson, gm Ingeborg Gustafsson. Realex 07, Schartaus 10. Anst h C Johansson i Falun 10, nu vkst dir i denna 33 t AB ombild fma. Styr.led i Sv Hdlsbkns avd.kont 34. Ordf i Dalarnes Engrossistfrn 36.",
+    "translated": "JOHANSSON, Carl Georg: Merchant, Falun, b. Falun 16/2 91 to merchant C and Sofia Johansson, m. Ingeborg Gustafsson. Completed real estate education in 1907, Schartaus 1910. Employed at C Johansson in Falun 1910, now chairman of the board in this wholesale trade company since 1933, which recently transformed into a limited company. Board member in the Swedish Trade Association branch office as of 1934. Chairman of the Dalarna Wholesale Merchants Association since 1936.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Georg Johansson",
+        "birthDate": "1891-02-16",
+        "birthPlace": "Falun, Sweden",
+        "description": "Merchant in Falun, Sweden",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "C Johansson"
+            },
+            {
+                "@type": "Person",
+                "name": "Sofia Johansson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ingeborg Gustafsson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "real estate",
+                "alumniOf": {
+                    "@type": "EducationalOrganization",
+                    "name": "Realex"
+                },
+                "startDate": "1907"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "general",
+                "alumniOf": {
+                    "@type": "EducationalOrganization",
+                    "name": "Schartaus"
+                },
+                "startDate": "1910"
+            }
+        ],
+        "affiliation": [
+            {
+                "@type": "Organization",
+                "name": "C Johansson",
+                "startDate": "1910",
+                "endDate": "1933",
+                "position": "Employee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Wholesale Trade Company",
+                "startDate": "1933",
+                "position": "Chairman of the Board"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Trade Association",
+                "department": "Branch Office",
+                "startDate": "1934",
+                "position": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Dalarna Wholesale Merchants Association",
+                "startDate": "1936",
+                "position": "Chairman"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "C Johansson",
+                "industry": "Wholesale trade",
+                "start_date": "1910"
+            },
+            {
+                "occupational_title": "Chairman of the Board",
+                "workplace": "Wholesale trade company",
+                "industry": "Wholesale trade",
+                "start_date": "1933"
+            },
+            {
+                "occupational_title": "Board member",
+                "workplace": "Swedish Trade Association branch office",
+                "industry": "Trade Association",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Chairman",
+                "workplace": "Dalarna Wholesale Merchants Association",
+                "industry": "Wholesale trade",
+                "start_date": "1936"
+            }
+        ]
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "original": "IVERMARK, Werner Henning, Civilingenjör, f Hamrånge, Gävleb län, 1/5 11 av ing F Eriksson o Hanna Karlsson. Studex Örebro 29, civ.ing KTH (eltekn) 34. Anst Sthlms elverk 34, Visby elverk 34—36, Avesta jvk 36— 44. Chef f Bergvik &amp; Ala Nya AB :s kraft-förvaltn, Bergvik, Söderhamn, fr 1/7 44. Hvobef Avesta-Krylbo-Grytnäs hvo. Resor: Tyskl 27 o 33. Hobbies: Skytte, fjällfärder.",
+    "translated": "IVERMARK, Werner Henning, Engineer, born in Hamrånge, Gävle County, on May 1, 1911, to engineer F Eriksson and Hanna Karlsson. Graduated from Örebro in 1929, and earned a civil engineering degree from KTH (Royal Institute of Technology, specializing in electrical engineering) in 1934. Employed at Stockholm Power Plant in 1934, Visby Power Plant from 1934 to 1936, and Avesta Steelworks from 1936 to 1944. Became the head of power management at Bergvik & Ala Nya AB, Bergvik, Söderhamn, starting from July 1, 1944. Served in the Avesta-Krylbo-Grytnäs Home Guard. Traveled to Germany in 1927 and 1933. Hobbies include shooting and mountain expeditions.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Werner Henning Ivermark",
+        "birthDate": "1911-05-01",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Hamrånge",
+            "address": {
+                "@type": "PostalAddress",
+                "addressRegion": "Gävleb län"
+            }
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "F Eriksson",
+                "jobTitle": "Engineer"
+            },
+            {
+                "@type": "Person",
+                "name": "Hanna Karlsson"
+            }
+        ],
+        "alumniOf": [
+            {
+                "@type": "Organization",
+                "name": "Örebro",
+                "startDate": "1929"
+            },
+            {
+                "@type": "Organization",
+                "name": "KTH",
+                "alternateName": "Royal Institute of Technology",
+                "startDate": "1934",
+                "specialization": "Electrical Engineering"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Stockholm Power Plant",
+                "startDate": "1934"
+            },
+            {
+                "@type": "Organization",
+                "name": "Visby Power Plant",
+                "startDate": "1934",
+                "endDate": "1936"
+            },
+            {
+                "@type": "Organization",
+                "name": "Avesta Steelworks",
+                "startDate": "1936",
+                "endDate": "1944"
+            },
+            {
+                "@type": "Organization",
+                "name": "Bergvik & Ala Nya AB",
+                "alternateName": "Bergvik",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Söderhamn"
+                },
+                "jobTitle": "Head of Power Management",
+                "startDate": "1944-07-01"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Avesta-Krylbo-Grytnäs Home Guard"
+            }
+        ],
+        "hobbies": [
+            "Shooting",
+            "Mountain expeditions"
+        ],
+        "travel": [
+            {
+                "@type": "Place",
+                "name": "Germany",
+                "startDate": "1927"
+            },
+            {
+                "@type": "Place",
+                "name": "Germany",
+                "startDate": "1933"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Stockholm Power Plant",
+                "industry": "Power generation",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Visby Power Plant",
+                "industry": "Power generation",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Avesta Steelworks",
+                "industry": "Steel manufacturing",
+                "start_date": "1936"
+            },
+            {
+                "occupational_title": "Head of power management",
+                "workplace": "Bergvik & Ala Nya AB",
+                "industry": "Power generation",
+                "start_date": "1944"
+            }
+        ]
+    }
+}

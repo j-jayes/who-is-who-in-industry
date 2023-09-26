@@ -1,0 +1,138 @@
+{
+    "original": "INGELMAN, Gösta Magnus Rickard, Civilingenjör, Stockholm, f Sthlm 22/3 07 av major C G I o Amy Bergh, gm Luck Edman (d). Studex Upps 25, KTH (maskinbyggn o mek tekn) 25—29. Tidsstudieing v AB Atlas Diesel Sthlm 29—30, verkst.ing v Telef.AB L M Ericsson Sthlm 30—33, ing v AB Ind.byråns (Sv Ind.frb) org.avd 33—35, v Sv Verkstads-frn Sthlm sed. 35. Led Sv Tekn.frn.",
+    "translated": "INGELMAN, Gösta Magnus Rickard, Civil Engineer, Stockholm, b. Stockholm 22/3 07, son of Major C G Ingelman and Amy Bergh, married Luck Edman (deceased). Studied at Uppsala University from 1925, Royal Institute of Technology (mechanical engineering) 1925-1929. Worked as a time study engineer at AB Atlas Diesel in Stockholm 1929-1930, worked as an engineer at Telef.AB L M Ericsson in Stockholm 1930-1933, worked as an engineer at AB Ind.byråns (Swedish Industry Association) organizational department 1933-1935, and has been working at Swedish Industrial Association in Stockholm since 1935. He is a member of the Swedish Engineering Society.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Gösta Magnus Rickard Ingelman",
+        "givenName": "Gösta",
+        "additionalName": "Magnus Rickard",
+        "familyName": "Ingelman",
+        "birthDate": "1907-03-22",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Stockholm"
+            }
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "C G Ingelman",
+                "jobTitle": "Major"
+            },
+            {
+                "@type": "Person",
+                "name": "Amy Bergh"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Luck Edman",
+            "deathDate": "https://schema.org/Deceased"
+        },
+        "educationalCredentialAwarded": {
+            "@type": "EducationalOccupationalCredential",
+            "name": "Civilingenjör"
+        },
+        "alumniOf": [
+            {
+                "@type": "CollegeOrUniversity",
+                "name": "Uppsala University",
+                "startDate": "1925"
+            },
+            {
+                "@type": "CollegeOrUniversity",
+                "name": "Royal Institute of Technology",
+                "startDate": "1925",
+                "endDate": "1929",
+                "educationalProgram": "Mechanical Engineering"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "AB Atlas Diesel",
+                "startDate": "1929",
+                "endDate": "1930",
+                "jobTitle": "Time Study Engineer",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Telef.AB L M Ericsson",
+                "startDate": "1930",
+                "endDate": "1933",
+                "jobTitle": "Engineer",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Ind.byråns (Swedish Industry Association)",
+                "startDate": "1933",
+                "endDate": "1935",
+                "jobTitle": "Engineer",
+                "department": "Organizational Department",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Industrial Association",
+                "startDate": "1935",
+                "jobTitle": "Engineer",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm"
+                }
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Swedish Engineering Society"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Stockholm",
+                "industry": null,
+                "start_date": null
+            },
+            {
+                "occupational_title": "Time Study Engineer",
+                "workplace": "AB Atlas Diesel",
+                "industry": null,
+                "start_date": "1929-01-01"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Telef.AB L M Ericsson",
+                "industry": null,
+                "start_date": "1930-01-01"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "AB Ind.byråns",
+                "industry": "Swedish Industry Association",
+                "start_date": "1933-01-01"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Swedish Industrial Association",
+                "industry": null,
+                "start_date": "1935-01-01"
+            }
+        ]
+    }
+}

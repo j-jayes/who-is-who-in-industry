@@ -1,0 +1,108 @@
+{
+    "original": "JOHANSSON, Carl Hugo Conrad, Direktör, Malmö, f Virserum, Kalmar l, 11/1 90, gm Brita Hedberg. Avslut stud v Mariannelunds Prakt sk 09, hdlshögsk Berlin 22. Anst v Vetlanda Snick.fabr, Gjuteri &amp; Mek Verkst 10— 12, v Sv Cykelfabr Monark i Varberg 13—21, de senare åren kont.ch där, kamrer v AB John Hedbergs Maskinaff i Malmö 23—32, vkst dir där sed. 33, tillika deläg o styr.led i Hedbergs Bil AB. Resor: USA, Frankr, Tyskl mfl länder.",
+    "translated": "JOHANSSON, Carl Hugo Conrad, Director, Malmö, born in Virserum, Kalmar county, on November 1, 1890, married to Brita Hedberg. Completed studies at Mariannelund Practical School in 1909, trade college in Berlin in 1922. Employed at Vetlanda Carpentry Factory, Foundry & Mechanical Workshop from 1910 to 1912, at the Swedish Bicycle Factory Monark in Varberg from 1913 to 1921, and held a position as accountant at AB John Hedbergs Machinery Store in Malmö from 1923 to 1932, then promoted to director there. Also co-owner and board member at Hedbergs Car AB. Traveled to the USA, France, Germany, and several other countries.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Hugo Conrad Johansson",
+        "jobTitle": "Director",
+        "birthDate": "1890-11-01",
+        "birthPlace": "Virserum, Kalmar county",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Malmö"
+        },
+        "spouse": "Brita Hedberg",
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Mariannelunds Praktiska Skola",
+                "endDate": "1909"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Trade College Berlin",
+                "endDate": "1922"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "Vetlanda Snickeri, Gjuteri & Mekanisk Verkstad",
+                "startDate": "1910",
+                "endDate": "1912"
+            },
+            {
+                "@type": "Organization",
+                "name": "Svenska Cykelfabriken Monark",
+                "startDate": "1913",
+                "endDate": "1921"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB John Hedbergs Maskinaffär",
+                "startDate": "1923",
+                "endDate": "1932",
+                "position": "Accountant"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB John Hedbergs Maskinaffär",
+                "startDate": "1933",
+                "position": "Director",
+                "hasOwnershipInterest": true,
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Hedbergs Bil AB",
+                    "legalName": "Hedbergs Car AB"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Hedbergs Bil AB",
+                "legalName": "Hedbergs Car AB"
+            }
+        ],
+        "travelHistory": [
+            "USA",
+            "France",
+            "Germany"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Accountant",
+                "workplace": "AB John Hedbergs Machinery Store",
+                "industry": "Machinery Store",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "AB John Hedbergs Machinery Store",
+                "industry": "Machinery Store",
+                "start_date": "1933"
+            },
+            {
+                "occupational_title": "Co-owner and Board Member",
+                "workplace": "Hedbergs Car AB",
+                "industry": "Automotive",
+                "start_date": "1933"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Vetlanda Carpentry Factory, Foundry & Mechanical Workshop",
+                "industry": "Carpentry, Foundry, Mechanical",
+                "start_date": "1910"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Swedish Bicycle Factory Monark",
+                "industry": "Bicycle Manufacturing",
+                "start_date": "1913"
+            }
+        ]
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "original": "JOHANSSON, Carl Gustav Vilhelm, Trävaruhandlare, Värnamo, f Våxtorp, Hall, 3/8 92 av O Pettersson o Emma Johansson, gm Alfhild Hansson. Eg aff.rör sed. 16, inneh såg- o hyvleri i Värnamo sed. 28 und fma Gustav Johanssons Trävaruaffär.",
+    "translated": "JOHANSSON, Carl Gustav Vilhelm, Timber Merchant, Värnamo, born in Våxtorp, Halland on August 3, 1892, to parents O. Pettersson and Emma Johansson, married to Alfhild Hansson. Engaged in business since 1916, owning a sawmill and planing mill in Värnamo since 1928, originally started by Gustav Johansson's Timber Store.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Carl Gustav Vilhelm Johansson",
+        "birthDate": "1892-08-03",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Våxtorp",
+            "address": {
+                "@type": "PostalAddress",
+                "addressRegion": "Halland"
+            }
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "O. Pettersson"
+            },
+            {
+                "@type": "Person",
+                "name": "Emma Johansson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Alfhild Hansson"
+        },
+        "occupation": "Timber Merchant",
+        "workLocation": {
+            "@type": "City",
+            "name": "Värnamo"
+        },
+        "businessFunction": [
+            {
+                "@type": "BusinessFunction",
+                "name": "Timber Merchant",
+                "startDate": "1916-01-01"
+            }
+        ],
+        "owns": {
+            "@type": "Organization",
+            "name": "Sawmill and Planing Mill",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Värnamo"
+            },
+            "startDate": "1928-01-01",
+            "founder": {
+                "@type": "Person",
+                "name": "Gustav Johansson"
+            }
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Timber Merchant",
+                "workplace": "Värnamo",
+                "industry": "Timber industry",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Owner of sawmill and planing mill",
+                "workplace": "Värnamo",
+                "industry": "Timber industry",
+                "start_date": "1928"
+            }
+        ]
+    }
+}

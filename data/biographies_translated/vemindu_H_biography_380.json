@@ -1,0 +1,307 @@
+{
+    "original": "HOLMSTRÖM, Nils Gunnar Teodor, Direktör, Malmö, f Sthlm 30/10 04 av grhdl Hj H o Olga Ljunglin, gm Selma Sterner. Studex, jur kand, tingstjg. Fiskal Svea hovr 31—33, sekr, dir.ass o dir Sv arb.giv.frn 33—41, ekon.-dir o v. vkst dir Kockums mek verkst sed. 41. Led fat.v.nmdn, fam.bidr.nmdn o arb.lösh.-komm Sthlm 39—40, stdsflm Malmö sed. 43, exp f arb.giv i Int arb.org Geneve 39. Styr.led Kockums o fastigh.AB Centrum. Resor: Engl 21, 24, 30, 37, Frankr 36, 38, Tyskl 23, Schweiz 39. Av trycket: Lagen om frns- o förhandl.rätt 37, Semesterlagen 38—42 (4 uppl).",
+    "translated": "HOLMSTRÖM, Nils Gunnar Teodor, Director, Malmö, b. Stockholm 30/10 04 to parents Hj H and Olga Ljunglin, m. Selma Sterner. Studex, LL.B., court clerk. Fiscal at Svea Court of Appeal 31-33, secretary and assistant director of the Swedish Employers' Federation 33-41, economic director and deputy managing director of Kockums Mechanical Works since 1941. Member of the Board of the Unemployment Insurance Board, the Family Allowance Board, and the City of Stockholm's Unemployment Committee 39-40, member of the Board of the Malmö City Council since 1943, former advisor to the International Labour Organization in Geneva in 1939. Board member of Kockums and Centrum Real Estate Company. Travelled to England in 1921, 1924, 1930, and 1937, France in 1936 and 1938, Germany in 1923, and Switzerland in 1939. Publications: The Law on Dismissal and Bargaining Rights in 1937, The Annual Leave Act 1938-1942 (4 editions).",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Nils Gunnar Teodor Holmström",
+        "birthDate": "1904-10-30",
+        "birthPlace": "Stockholm",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Hj H"
+            },
+            {
+                "@type": "Person",
+                "name": "Olga Ljunglin"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Selma Sterner"
+        },
+        "nationality": "Swedish",
+        "occupation": "Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Malmö"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "studex",
+                "degree": {
+                    "@type": "EducationalDegree",
+                    "name": "LL.B."
+                }
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "jur kand"
+            }
+        ],
+        "workExperience": [
+            {
+                "@type": "Court",
+                "name": "Svea Court of Appeal",
+                "startDate": "1931-01-01",
+                "endDate": "1933-12-31",
+                "roleName": "Fiscal"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Swedish Employers' Federation"
+                },
+                "startDate": "1933-01-01",
+                "endDate": "1941-12-31",
+                "roleName": "Secretary and Assistant Director"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Kockums Mechanical Works"
+                },
+                "startDate": "1941-01-01",
+                "roleName": "Economic Director and Deputy Managing Director"
+            }
+        ],
+        "membership": [
+            {
+                "@type": "Organization",
+                "name": "Unemployment Insurance Board"
+            },
+            {
+                "@type": "Organization",
+                "name": "Family Allowance Board"
+            },
+            {
+                "@type": "Organization",
+                "name": "City of Stockholm's Unemployment Committee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Malmö City Council"
+            },
+            {
+                "@type": "Organization",
+                "name": "International Labour Organization"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Kockums"
+                },
+                "roleName": "Board Member"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Centrum Real Estate Company"
+                },
+                "roleName": "Board Member"
+            }
+        ],
+        "publication": [
+            {
+                "@type": "PublicationEvent",
+                "name": "Lagen om frns- o förhandl.rätt",
+                "startDate": "1937",
+                "endDate": "1937"
+            },
+            {
+                "@type": "PublicationEvent",
+                "name": "Semesterlagen",
+                "startDate": "1938",
+                "endDate": "1942"
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "TravelAction",
+                "fromLocation": {
+                    "@type": "Place",
+                    "name": "Sweden"
+                },
+                "toLocation": {
+                    "@type": "Place",
+                    "name": "England"
+                },
+                "startDate": "1921",
+                "endDate": "1921"
+            },
+            {
+                "@type": "TravelAction",
+                "fromLocation": {
+                    "@type": "Place",
+                    "name": "Sweden"
+                },
+                "toLocation": {
+                    "@type": "Place",
+                    "name": "England"
+                },
+                "startDate": "1924",
+                "endDate": "1924"
+            },
+            {
+                "@type": "TravelAction",
+                "fromLocation": {
+                    "@type": "Place",
+                    "name": "Sweden"
+                },
+                "toLocation": {
+                    "@type": "Place",
+                    "name": "England"
+                },
+                "startDate": "1930",
+                "endDate": "1930"
+            },
+            {
+                "@type": "TravelAction",
+                "fromLocation": {
+                    "@type": "Place",
+                    "name": "Sweden"
+                },
+                "toLocation": {
+                    "@type": "Place",
+                    "name": "England"
+                },
+                "startDate": "1937",
+                "endDate": "1937"
+            },
+            {
+                "@type": "TravelAction",
+                "fromLocation": {
+                    "@type": "Place",
+                    "name": "Sweden"
+                },
+                "toLocation": {
+                    "@type": "Place",
+                    "name": "France"
+                },
+                "startDate": "1936",
+                "endDate": "1936"
+            },
+            {
+                "@type": "TravelAction",
+                "fromLocation": {
+                    "@type": "Place",
+                    "name": "Sweden"
+                },
+                "toLocation": {
+                    "@type": "Place",
+                    "name": "France"
+                },
+                "startDate": "1938",
+                "endDate": "1938"
+            },
+            {
+                "@type": "TravelAction",
+                "fromLocation": {
+                    "@type": "Place",
+                    "name": "Sweden"
+                },
+                "toLocation": {
+                    "@type": "Place",
+                    "name": "Germany"
+                },
+                "startDate": "1923",
+                "endDate": "1923"
+            },
+            {
+                "@type": "TravelAction",
+                "fromLocation": {
+                    "@type": "Place",
+                    "name": "Sweden"
+                },
+                "toLocation": {
+                    "@type": "Place",
+                    "name": "Switzerland"
+                },
+                "startDate": "1939",
+                "endDate": "1939"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Malmö",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Studex",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "LL.B.",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Court Clerk",
+                "workplace": "Svea Court of Appeal",
+                "industry": "Legal",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Fiscal",
+                "workplace": "Svea Court of Appeal",
+                "industry": "Legal",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Secretary and Assistant Director",
+                "workplace": "Swedish Employers' Federation",
+                "industry": "Employers' Association",
+                "start_date": "1933"
+            },
+            {
+                "occupational_title": "Economic Director and Deputy Managing Director",
+                "workplace": "Kockums Mechanical Works",
+                "industry": "Mechanical Engineering",
+                "start_date": "1941"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Unemployment Insurance Board",
+                "industry": "Government",
+                "start_date": "1939"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Family Allowance Board",
+                "industry": "Government",
+                "start_date": "1939"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "City of Stockholm's Unemployment Committee",
+                "industry": "Government",
+                "start_date": "1939"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Malmö City Council",
+                "industry": "Government",
+                "start_date": "1943"
+            },
+            {
+                "occupational_title": "Advisor",
+                "workplace": "International Labour Organization",
+                "industry": "International Relations",
+                "start_date": "1939"
+            }
+        ]
+    }
+}

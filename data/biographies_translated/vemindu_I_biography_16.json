@@ -1,0 +1,82 @@
+{
+    "original": "ISAKSON, Carl Magnus, Direktör, Stockholm, f Lannaskede, Jkps l, 26/11 92, gm Margit Lilliesköld. Prakt i Tyskl, sped- o spannni-fmor 13—14. Anst i fma Fallenius &amp; Leffler Gbg 14—15, h Sven Hylander &amp; Co Sthlm 15— 20, Sv Lantmännens Riksfrb 20—22, start AB C M Isakson Sthlm 22, vkst dir där samt i AB Isaksons Spannm.magasin sed. 26. Huvudredare f m/s Ramnäs.",
+    "translated": "ISAKSON, Carl Magnus, Director, Stockholm, born in Lannaskede, Jönköping County, on November 26, 1892, married to Margit Lilliesköld. Apprenticeship in Germany, specializing in the grain and feed industry from 1913-1914. Employed at Fallenius & Leffler in Gothenburg from 1914-1915, Sven Hylander & Co in Stockholm from 1915-1920, and the Swedish Farmers' National Association from 1920-1922. Started AB C M Isakson in Stockholm in 1922, where he also served as managing director. Main shareholder of the m/s Ramnäs.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Magnus Isakson",
+        "jobTitle": "Director",
+        "birthPlace": "Lannaskede, Jönköping County",
+        "birthDate": "1892-11-26",
+        "spouse": {
+            "@type": "Person",
+            "name": "Margit Lilliesköld"
+        },
+        "affiliation": {
+            "@type": "Organization",
+            "name": "AB C M Isakson",
+            "startDate": "1922"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Fallenius & Leffler",
+                "location": "Gothenburg",
+                "startDate": "1914",
+                "endDate": "1915"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sven Hylander & Co",
+                "location": "Stockholm",
+                "startDate": "1915",
+                "endDate": "1920"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Farmers' National Association",
+                "location": "Unknown",
+                "startDate": "1920",
+                "endDate": "1922"
+            }
+        ],
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://example.com/CarlMagnusIsakson"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Apprentice",
+                "workplace": "Germany",
+                "industry": "Grain and Feed",
+                "start_date": "1913"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Fallenius & Leffler",
+                "industry": "Grain and Feed",
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Sven Hylander & Co",
+                "industry": "Grain and Feed",
+                "start_date": "1915"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Swedish Farmers' National Association",
+                "industry": "Agriculture",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "AB C M Isakson",
+                "industry": "Multiple",
+                "start_date": "1922"
+            }
+        ]
+    }
+}

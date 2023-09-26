@@ -1,0 +1,151 @@
+{
+    "original": "HJORT, Knut Erik Kristoffer, Ingenjör, Klippan, f Ivetofta, Krst l, 27/2 02 av förv V O Hjort o Dagmar Fugl, gm Rut Föjer. Studex Eslöv 20, CTI 20—24, avg.ex (K) där sistn år. Kemist v Dansk Svovlsyre- o Superphos-phatfabrik, Kastrup, 24—26, anst h AB Klippans Läderfabrik, Klippan, sed. 26, fabr.ch där sed. 29 o styr.led sed. 40. Led Sv Tekn.frn 31—35, Tekn Frn i Hbg sed. 35.",
+    "translated": "HJORT, Knut Erik Kristoffer, Engineer, Klippan, born in Ivetofta, Kristianstad, on the 27th of February 1902, to parents Otto Herman Hjort and Dagmar Fugl, married to Rut Föjer. Completed secondary education in Eslöv in 1920, attended the Chalmers University of Technology from 1920 to 1924, with the final exam (K) taken in the latter year. Worked as a chemist at Dansk Svovlsyre- o Superphos-phatfabrik in Kastrup from 1924 to 1926, employed at AB Klippans Läderfabrik in Klippan since 1926, holding a managerial position since 1929 and serving on the board of directors since 1940. Member of the Swedish Technical Association from 1931 to 1935, and the Technical Association in Helsingborg since 1935.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Knut Erik Kristoffer Hjort",
+        "birthDate": "1902-02-27",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Ivetofta",
+                "addressRegion": "Kristianstad"
+            }
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Otto Herman Hjort",
+                "jobTitle": "Engineer"
+            },
+            {
+                "@type": "Person",
+                "name": "Dagmar Fugl"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Rut Föjer"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "secondary",
+                "educationalLevel": {
+                    "@type": "DefinedTerm",
+                    "name": "Secondary education"
+                },
+                "educationalSpecialty": {
+                    "@type": "DefinedTerm",
+                    "name": "Engineering"
+                },
+                "offeredBy": {
+                    "@type": "EducationalOrganization",
+                    "name": "Eslöv"
+                },
+                "endDate": "1920"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "university",
+                "educationalLevel": {
+                    "@type": "DefinedTerm",
+                    "name": "University education"
+                },
+                "educationalSpecialty": {
+                    "@type": "DefinedTerm",
+                    "name": "Engineering"
+                },
+                "offeredBy": {
+                    "@type": "EducationalOrganization",
+                    "name": "Chalmers University of Technology",
+                    "location": {
+                        "@type": "Place",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressLocality": "Göteborg"
+                        }
+                    }
+                },
+                "startDate": "1920",
+                "endDate": "1924"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Dansk Svovlsyre- o Superphos-phatfabrik",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Kastrup"
+                    }
+                },
+                "jobTitle": "Chemist",
+                "startDate": "1924",
+                "endDate": "1926"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Klippans Läderfabrik",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Klippan"
+                    }
+                },
+                "jobTitle": "Engineer",
+                "startDate": "1926"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Technical Association",
+                "startDate": "1931",
+                "endDate": "1935"
+            },
+            {
+                "@type": "Organization",
+                "name": "Technical Association in Helsingborg",
+                "startDate": "1935"
+            }
+        ],
+        "boardMember": {
+            "@type": "Organization",
+            "name": "AB Klippans Läderfabrik"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Dansk Svovlsyre- o Superphos-phatfabrik",
+                "industry": "Chemical",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Chemist",
+                "workplace": "AB Klippans Läderfabrik",
+                "industry": "Leather",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "AB Klippans Läderfabrik",
+                "industry": "Leather",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Board of Directors",
+                "workplace": "AB Klippans Läderfabrik",
+                "industry": "Leather",
+                "start_date": "1940"
+            }
+        ]
+    }
+}

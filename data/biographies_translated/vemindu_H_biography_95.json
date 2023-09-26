@@ -1,0 +1,119 @@
+{
+    "original": "HAMMARLUND, Carl Olof, Disponent, Mjölby, f Kvillinge förs, Ögl, 27/11 12 av överkontr C A H o Ruth Werdenhoff, gm Linchen Hofegger. Tekn lärov, Kem facksk, Malmö, Skand Brygg.högsk, Kphmn, Skand bryggm.dipl 37. Anst AB Nya Centralbrygg, Vadst Brygg 37—38, AB Nya Centralbrygg Oskhmns Brygg 38—40, AB Nya Centralbrygg Mjölby Bryggeri sed. 40. Odd Fellow, V:a östergtl Motorkl.",
+    "translated": "HAMMARLUND, Carl Olof, Manager, Mjölby, born in Kvillinge parish, Ögl, 27/11 1912, son of senior superintendent C A H and Ruth Werdenhoff, married to Linchen Hofegger. Technical school education, Chemical vocational school, Malmö, Scandinavian Brewing High School, Copenhagen, Scandinavian brewing master's diploma 1937. Employed at AB Nya Centralbrygg, Vadstena Brewery 1937-1938, AB Nya Centralbrygg Oskarshamn Brewery 1938-1940, AB Nya Centralbrygg Mjölby Brewery since 1940. Member of Odd Fellow, Västra Östergötland Motor Club.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "HAMMARLUND, Carl Olof",
+        "jobTitle": "Manager",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Mjölby"
+        },
+        "birthDate": "1912-11-27",
+        "birthPlace": {
+            "@type": "PostalAddress",
+            "addressLocality": "Kvillinge",
+            "addressRegion": "Ögl"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "C A H",
+                "jobTitle": "Senior Superintendent"
+            },
+            {
+                "@type": "Person",
+                "name": "Ruth Werdenhoff"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Linchen Hofegger"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Technical School"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Chemical Vocational School",
+                "location": "Malmö"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Scandinavian Brewing High School",
+                "location": "Copenhagen"
+            }
+        ],
+        "degrees": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "Scandinavian Brewing Master's Diploma",
+                "dateAwarded": "1937"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "AB Nya Centralbrygg"
+            },
+            {
+                "@type": "Organization",
+                "name": "Vadstena Brewery",
+                "startDate": "1937",
+                "endDate": "1938"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Nya Centralbrygg Oskarshamn Brewery",
+                "startDate": "1938",
+                "endDate": "1940"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Nya Centralbrygg Mjölby Brewery",
+                "startDate": "1940"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Odd Fellow"
+            },
+            {
+                "@type": "Organization",
+                "name": "Västra Östergötland Motor Club"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Manager",
+                "workplace": "Mjölby",
+                "industry": "Brewing",
+                "start_date": "1940"
+            },
+            {
+                "occupational_title": "Brewing Master",
+                "workplace": "AB Nya Centralbrygg",
+                "industry": "Brewing",
+                "start_date": "1937"
+            },
+            {
+                "occupational_title": "AB Nya Centralbrygg",
+                "workplace": "Oskarshamn Brewery",
+                "industry": "Brewing",
+                "start_date": "1938"
+            },
+            {
+                "occupational_title": "AB Nya Centralbrygg",
+                "workplace": "Vadstena Brewery",
+                "industry": "Brewing",
+                "start_date": "1937"
+            }
+        ]
+    }
+}

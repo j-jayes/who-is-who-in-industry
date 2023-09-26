@@ -1,0 +1,122 @@
+{
+    "original": "HALLBERG, Axel Fredrik, Direktör, Hagaberg, Jönköping, f Fryele 19/6 83 av skrädd.m C J H o Emma Jakobsson, gm Anna Johansson. Etabl eg rör 04, flytt 08 t Norrahammars köping o gr A F Hallbergs Kortvarulager, AB 38, vkst dir där. Ag Hagabergs gård (fd Rösiöskolan) o Fiskaby gård, Svenarum. Resor: Engl 33, Orient o Nordafr 34 —36, Tyskl 29, 31, 35, 38, Tjeckoslov 29, Danm, Norge. Odd Fellow, Vänskapsfrb. Hobby: Mitt arbete.",
+    "translated": "HALLBERG, Axel Fredrik, Director, Hagaberg, Jönköping, born Fryele 19/6 83, son of tailor C J H and Emma Jakobsson, married to Anna Johansson. Established his own business in 1904, moved to Norrahammars köping in 1908 and became the Managing Director of A F Hallbergs Kortvarulager, AB in 1938. Owns Hagabergs estate (former Rösiöskolan) and Fiskaby farm, Svenarum. Traveled to England in 1933, the Orient and North Africa from 1934-1936, Germany in 1929, 1931, 1935, and 1938, Czechoslovakia in 1929, Denmark, and Norway. Member of Odd Fellow and Vänskapsfrb. Hobby: My work.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Axel Fredrik Hallberg",
+        "gender": "Male",
+        "birthDate": "1883-06-19",
+        "birthPlace": "Fryele",
+        "nationality": "Swedish",
+        "occupation": "Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Hagaberg",
+            "addressRegion": "Jönköping"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "C J H"
+            },
+            {
+                "@type": "Person",
+                "name": "Emma Jakobsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Anna Johansson"
+        },
+        "owns": [
+            {
+                "@type": "Place",
+                "name": "Hagabergs estate",
+                "alternateName": "Rösiöskolan",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Svenarum"
+                }
+            },
+            {
+                "@type": "Place",
+                "name": "Fiskaby farm",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Svenarum"
+                }
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "A F Hallbergs Kortvarulager, AB"
+        },
+        "jobTitle": "Managing Director",
+        "startDate": "1938",
+        "residences": [
+            {
+                "@type": "Place",
+                "name": "Norrahammars köping"
+            }
+        ],
+        "travels": [
+            {
+                "@type": "Place",
+                "name": "England",
+                "startDate": "1933"
+            },
+            {
+                "@type": "Place",
+                "name": "Orient and North Africa",
+                "startDate": "1934",
+                "endDate": "1936"
+            },
+            {
+                "@type": "Place",
+                "name": "Germany",
+                "startDate": "1929"
+            },
+            {
+                "@type": "Place",
+                "name": "Czechoslovakia",
+                "startDate": "1929"
+            },
+            {
+                "@type": "Place",
+                "name": "Denmark"
+            },
+            {
+                "@type": "Place",
+                "name": "Norway"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Odd Fellow"
+            },
+            {
+                "@type": "Organization",
+                "name": "Vänskapsfrb"
+            }
+        ],
+        "hobby": "My work"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Hagaberg",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "A F Hallbergs Kortvarulager, AB",
+                "industry": "Retail (Short goods)",
+                "start_date": "1938"
+            }
+        ]
+    }
+}

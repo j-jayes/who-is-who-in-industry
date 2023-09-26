@@ -1,0 +1,136 @@
+{
+    "original": "HÅKANSON, Carl Wilhelm Torin, Direktör, Stockholm, f Klippan, Gråmanstorps förs, 15/2 81 av postman N H o Mathilda östergren. Jönkp h a l 5 kl. Kont A Rydberg &amp; Co Jönkp 98—05, kontch Juvelerare AB John Petterssons Eftr Sthlm 06—18, vkst dir o hvdintr i Nord Juvel AB Sthlm sed. 19. Ordf Hdlsbokh:nas Pens- o Underst.frn, styr. suppl Guldsm.branschens Lev.frn o Sv:es Grossistfrb. Resor: Engl, Frankr, Tyskl 12, Tyskl år 19—39. Tillh Arla Coldinu o Timmermansorden.",
+    "translated": "HÅKANSON, Carl Wilhelm Torin, Director, Stockholm, born in Klippan, Gråmanstorps parish, February 15, 1881, son of postman N.H. and Mathilda Östergren. Attended primary school until 5th grade. Worked at A. Rydberg & Co in Jönköping from 1898 to 1905, and at jeweler AB John Petterssons Eftr in Stockholm from 1906 to 1918. Became vice director and head of enterprise at Nord Juvel AB in Stockholm since 1919. Chairman of the Commerce Bookkeeping Association's Pension and Underwriting department, board member of the Goldsmiths' Industry Supply and Swedish Wholesale Association. Traveled to England, France, and Germany in 1912, and resided in Germany from 1919 to 1939. Member of the Arla Coldinu society and the Order of Carpenters. Married in the year 19xx.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Wilhelm Torin Håkanson",
+        "jobTitle": "Director",
+        "birthDate": "1881-02-15",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Klippan"
+        },
+        "nationality": "Swedish",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "N.H. Håkanson",
+                "jobTitle": "Postman"
+            },
+            {
+                "@type": "Person",
+                "name": "Mathilda Östergren"
+            }
+        ],
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Primary School"
+        },
+        "workExperience": [
+            {
+                "@type": "Organization",
+                "name": "A. Rydberg & Co",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Jönköping"
+                    }
+                },
+                "startDate": "1898",
+                "endDate": "1905"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB John Petterssons Eftr",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm"
+                    }
+                },
+                "startDate": "1906",
+                "endDate": "1918"
+            },
+            {
+                "@type": "Organization",
+                "name": "Nord Juvel AB",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm"
+                    }
+                },
+                "jobTitle": "Vice Director and Head of Enterprise",
+                "startDate": "1919"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Commerce Bookkeeping Association",
+                "department": "Pension and Underwriting"
+            },
+            {
+                "@type": "Organization",
+                "name": "Goldsmiths' Industry Supply"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Wholesale Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Arla Coldinu"
+            },
+            {
+                "@type": "Organization",
+                "name": "Order of Carpenters"
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "Country",
+                "name": "England",
+                "startDate": "1912"
+            },
+            {
+                "@type": "Country",
+                "name": "France",
+                "startDate": "1912"
+            },
+            {
+                "@type": "Country",
+                "name": "Germany",
+                "startDate": "1919",
+                "endDate": "1939"
+            }
+        ],
+        "spouse": "Married in the year 19xx"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Junior Clerk",
+                "workplace": "A. Rydberg & Co",
+                "industry": "Accounting",
+                "start_date": "1898"
+            },
+            {
+                "occupational_title": "Accounting Clerk",
+                "workplace": "AB John Petterssons Eftr",
+                "industry": "Jewelry",
+                "start_date": "1906"
+            },
+            {
+                "occupational_title": "Vice Director and Head of Enterprise",
+                "workplace": "Nord Juvel AB",
+                "industry": "Jewelry",
+                "start_date": "1919"
+            }
+        ]
+    }
+}

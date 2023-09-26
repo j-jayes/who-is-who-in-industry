@@ -1,0 +1,62 @@
+{
+    "original": "HAGSTRÖM, Thorsten Mauritz, Disponent, Malmö, f M:mö 28/2 90 av folkskoll N H o Fanny Andréen. Ch f Finspongs Metallverks AB :s Mmökont 22—42 o eft sammanslagn av AB Sv Metallverken o Finspongs Metallverks AB ch f AB Sv Metallverkens avd.kont i Mmö 43.",
+    "translated": "HAGSTRÖM, Thorsten Mauritz, Manager, Malmö, born in Malmö on February 28, 1890, to parents Nils Henning and Fanny Andréen. He worked at Finspongs Metallverks AB as a Manager from 1922 to 1942, following the merger of AB Sv Metallverken and Finspongs Metallverks AB. He also managed the Malmö branch of AB Sv Metallverken from 1943 onwards. Note that the abbreviation '\\d\\d m. partners name' indicates that Thorsten got married in the year 19xx.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Thorsten",
+        "familyName": "Hagström",
+        "birthDate": "1890-02-28",
+        "birthPlace": "Malmö",
+        "parents": [
+            {
+                "@type": "Person",
+                "givenName": "Nils Henning"
+            },
+            {
+                "@type": "Person",
+                "givenName": "Fanny Andréen"
+            }
+        ],
+        "jobTitle": "Manager",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Finspongs Metallverks AB",
+                "startDate": "1922-01-01",
+                "endDate": "1942-12-31"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Sv Metallverken"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Sv Metallverken (Malmö branch)",
+                "startDate": "1943-01-01"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Disponent",
+                "workplace": "Malmö",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Finspongs Metallverks AB",
+                "industry": "Metallurgy",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "AB Sv Metallverken",
+                "industry": "Metallurgy",
+                "start_date": "1943"
+            }
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "original": "HAGBERG, Nils Gustaf, Direktör, Bollnäs, f Bollnäs 27/1 01. Studex Upps 22. Anst i AB Gustaf Hagbergs Manufakturaff (grund 84) i Bollnäs 29, förest sed. 33.",
+    "translated": "HAGBERG, Nils Gustaf, Director, Bollnäs, born in Bollnäs on January 27, 1901. Graduated from Uppsala University in 1922. Employed at AB Gustaf Hagbergs Manufakturaffär (established in 1884) in Bollnäs since 1929, promoted to manager in 1933.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Nils Gustaf Hagberg",
+        "birthDate": "1901-01-27",
+        "jobTitle": "Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Bollnäs"
+        },
+        "alumniOf": {
+            "@type": "EducationalOrganization",
+            "name": "Uppsala University",
+            "startDate": "1922",
+            "endDate": "1922"
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "AB Gustaf Hagbergs Manufakturaffär",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Bollnäs"
+            },
+            "foundingDate": "1884",
+            "employeeStartDate": "1929",
+            "employeePromotionDate": "1933"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "AB Gustaf Hagbergs Manufakturaffär",
+                "industry": "Manufacturing and Retail",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "AB Gustaf Hagbergs Manufakturaffär",
+                "industry": "Manufacturing and Retail",
+                "start_date": "1933"
+            }
+        ]
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "original": "HAMMARGREN, Lorenz Oscar Fritz Waldemar, Bankdirektör, Jönköping, f Bosjökloster, Malmöh l, 16/1 86 av dir C O H o h h f von Ekensteen, gm Ragnhild Vermdahl. Studex 41, fil kand 11. Anst i riksbkn sed. 05. Resor: Ryssl 12, 16, 17, 18. ORK Ht 2kl mkrgd, PrRK M3kl, TRH BM, RVO.",
+    "translated": "HAMMARGREN, Lorenz Oscar Fritz Waldemar, Bank Director, Jönköping, born in Bosjökloster, Malmöhus County, on January 16, 1886, son of Director C O H and his wife, von Ekensteen. Married to Ragnhild Vermdahl. Completed his studies in 1941, graduated with a bachelor's degree in 1911. Employed at the Central Bank since 1905. Travels: Russia in 1912, 1916, 1917, and 1918. Knight of the Order of the Polar Star, 2nd class with crossed swords, Commander of the Royal Red Cross, 3rd class, in the French Legion of Honor, recipient of the Royal Order of Vasa.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Lorenz Oscar Fritz Waldemar Hammargren",
+        "givenName": "Lorenz Oscar Fritz Waldemar",
+        "familyName": "Hammargren",
+        "jobTitle": "Bank Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Jönköping"
+        },
+        "birthDate": "1886-01-16",
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Bosjökloster, Malmöhus County"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "C O H"
+            },
+            {
+                "@type": "Person",
+                "name": "von Ekensteen"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ragnhild Vermdahl"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "bachelor's degree",
+            "educationalLevel": "Bachelor's Degree",
+            "dateRead": "1911"
+        },
+        "work": {
+            "@type": "Organization",
+            "name": "Central Bank"
+        },
+        "startDate": "1905",
+        "hasOccupation": {
+            "@type": "Role",
+            "name": "Bank Director"
+        },
+        "hasOfferCatalog": {
+            "@type": "OfferCatalog",
+            "name": "Travels",
+            "itemListElement": [
+                {
+                    "@type": "Offer",
+                    "name": "Russia",
+                    "startDate": "1912"
+                },
+                {
+                    "@type": "Offer",
+                    "name": "Russia",
+                    "startDate": "1916"
+                },
+                {
+                    "@type": "Offer",
+                    "name": "Russia",
+                    "startDate": "1917"
+                },
+                {
+                    "@type": "Offer",
+                    "name": "Russia",
+                    "startDate": "1918"
+                }
+            ]
+        },
+        "awards": [
+            {
+                "@type": "Order",
+                "name": "Knight of the Order of the Polar Star",
+                "description": "2nd class with crossed swords"
+            },
+            {
+                "@type": "OrganizationRole",
+                "name": "Royal Red Cross",
+                "roleName": "Commander",
+                "dateStarted": "unknown",
+                "description": "3rd class"
+            },
+            {
+                "@type": "OrganizationRole",
+                "name": "French Legion of Honor",
+                "roleName": "Recipient",
+                "dateStarted": "unknown"
+            },
+            {
+                "@type": "OrganizationRole",
+                "name": "Royal Order of Vasa",
+                "roleName": "Recipient",
+                "dateStarted": "unknown"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Bank Director",
+                "workplace": "Jönköping",
+                "industry": "Banking",
+                "start_date": "1905"
+            }
+        ]
+    }
+}

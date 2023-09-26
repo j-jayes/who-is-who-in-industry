@@ -1,0 +1,83 @@
+{
+    "original": "HOLMQVIST, Johan Ewald, Civilingenjör, Djursholm, f Gbg 26/5 85 av boktryck C R H o Olivia Gabrielsson, gm Sigrid Hjärne. CTL (E) 01—08. Förest ASEAis kont Gbg o Sundsvall 08—18, deläg o anst i Elektr AB Skandia Sthlm sed. 19. Led Sv Tekn.frn.",
+    "translated": "HOLMQVIST, Johan Ewald, Civil Engineer, Djursholm, born in Gothenburg on May 26, 1885, son of book printer C R H and Olivia Gabrielsson, married to Sigrid Hjärne. Employed at CTL (E) 01-08. Managed ASEA's office in Gothenburg and Sundsvall from 08-18. Became co-owner and employee at Elektr AB Skandia in Stockholm since 19. Member of the Swedish Technical Association. Note: 'gm' stands for married in Swedish.",
+    "structured": {
+        "name": "Johan Ewald Holmqvist",
+        "birthDate": "1885-05-26",
+        "birthPlace": "Gothenburg",
+        "description": "Civil Engineer",
+        "spouse": {
+            "@type": "Person",
+            "name": "Sigrid Hjärne"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "C R H (book printer)"
+            },
+            {
+                "@type": "Person",
+                "name": "Olivia Gabrielsson"
+            }
+        ],
+        "employment": [
+            {
+                "organization": {
+                    "@type": "Organization",
+                    "name": "CTL (E)",
+                    "startDate": "1901",
+                    "endDate": "1908"
+                },
+                "jobTitle": "Employee"
+            },
+            {
+                "organization": {
+                    "@type": "Organization",
+                    "name": "ASEA",
+                    "location": [
+                        "Gothenburg",
+                        "Sundsvall"
+                    ],
+                    "startDate": "1908",
+                    "endDate": "1918"
+                },
+                "jobTitle": "Office Manager"
+            },
+            {
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Elektr AB Skandia",
+                    "location": "Stockholm",
+                    "startDate": "1919"
+                },
+                "jobTitle": "Co-owner and Employee"
+            }
+        ],
+        "affiliation": {
+            "@type": "Organization",
+            "name": "Swedish Technical Association"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "CTL (E)",
+                "industry": "Engineering",
+                "start_date": "1901-01-01"
+            },
+            {
+                "occupational_title": "Manager, ASEA's office",
+                "workplace": "Gothenburg and Sundsvall",
+                "industry": "Engineering",
+                "start_date": "1908-01-01"
+            },
+            {
+                "occupational_title": "Co-owner and Employee",
+                "workplace": "Elektr AB Skandia",
+                "industry": "Electronics",
+                "start_date": "1919-01-01"
+            }
+        ]
+    }
+}

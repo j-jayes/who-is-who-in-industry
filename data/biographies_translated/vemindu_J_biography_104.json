@@ -1,0 +1,113 @@
+{
+    "original": "JOHANSSON, Carl Johan, Disponent, Nyköping, f Dunker, Sörml l, 80 av soldat J A Eriksson o Mathilda Eriksson, gm Hilma Charlotta Andersson. Disp v AB Nyköpings Möbelfabrik (grund 08). Led av drätselkamm, hamnstyr o arb.löshetsktén, fd led av stdsflm.",
+    "translated": "JOHANSSON, Carl Johan, Manager, Nyköping, born in Dunker, Sörmland county. Son of soldier J A Eriksson and Mathilda Eriksson. Married to Hilma Charlotta Andersson. Manager at AB Nyköpings Möbelfabrik (established in 1908). Member of the taxation committee, harbor authority, and unemployment compensation board. Former member of the board of the social insurance agency.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Johan Johansson",
+        "birthPlace": "Dunker, Sörmland county, Sweden",
+        "birthDate": "1880",
+        "father": {
+            "@type": "Person",
+            "name": "J A Eriksson"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Mathilda Eriksson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Hilma Charlotta Andersson"
+        },
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Manager",
+                "startDate": "1908-01-01",
+                "endDate": null,
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Nyköpings Möbelfabrik"
+                }
+            }
+        ],
+        "committeeMemberships": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Member of the taxation committee",
+                "startDate": null,
+                "endDate": null,
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Drätselkamm"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Member of the harbor authority",
+                "startDate": null,
+                "endDate": null,
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Hamnstyr"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Member of the unemployment compensation board",
+                "startDate": null,
+                "endDate": null,
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Arb.löshetsktén"
+                }
+            }
+        ],
+        "formerMemberships": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Former member of the board of the social insurance agency",
+                "startDate": null,
+                "endDate": null,
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Stdsflm"
+                }
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Manager",
+                "workplace": "AB Nyköpings Möbelfabrik",
+                "industry": "Furniture manufacturing",
+                "start_date": "1908"
+            },
+            {
+                "occupational_title": "Member of the taxation committee",
+                "workplace": "N/A",
+                "industry": "Government",
+                "start_date": "N/A"
+            },
+            {
+                "occupational_title": "Member of the harbor authority",
+                "workplace": "N/A",
+                "industry": "Government",
+                "start_date": "N/A"
+            },
+            {
+                "occupational_title": "Member of the unemployment compensation board",
+                "workplace": "N/A",
+                "industry": "Government",
+                "start_date": "N/A"
+            },
+            {
+                "occupational_title": "Former member of the board of the social insurance agency",
+                "workplace": "N/A",
+                "industry": "Government",
+                "start_date": "N/A"
+            }
+        ]
+    }
+}

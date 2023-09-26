@@ -1,0 +1,110 @@
+{
+    "original": "HAMMAR, Gustaf Frithiof, Disponent, Sala, f Repplinge, Kalm l, 27/4 67 av hhövd C H o Charlotta Björklund, gm Greta Lindwall. Kalmar storskola, bryggarakad i Worms.Bryggm Bjersjö brygg.AB, Simrish, 91—00, tekn led Carlstens porterbrygg, Sthlm, 00—11, disp Vänbgs fören brygg 11—18, disp o vkst dir Sala ångbrygg sed. 19. Stdsflm Vänbg. Styr.led Upl ensk bks Salakont. Resor: Afr 23, USA 33.",
+    "translated": "HAMMAR, Gustaf Frithiof was born on April 27th, 1867 in Repplinge, Kalmar l. He was the son of the distinguished Captain C H and Charlotta Björklund. He married Greta Lindwall. He attended the Kalmar storskola and the Bryggarakad in Worms. He worked as a brewmaster at Bjersjö Brygg.AB in Simrishamn from 1891 to 1900 and as a technical director at Carlstens Porter Brewery in Stockholm from 1900 to 1911. From 1911 to 1918, he served as a manager of Vänbgs Fören Brygg and later as a director of growth in Sala Ångbrygg. He was also a board member of Stadsfilmen Vänbg and Uplensk Bank's Salakont. He traveled to Africa in 1923 and to the USA in 1933.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Gustaf Frithiof Hammar",
+        "birthDate": "1867-04-27",
+        "birthPlace": "Repplinge, Kalmar l",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "C H Hammar"
+            },
+            {
+                "@type": "Person",
+                "name": "Charlotta Björklund"
+            }
+        ],
+        "spouse": "Greta Lindwall",
+        "education": [
+            {
+                "@type": "Organization",
+                "name": "Kalmar storskola"
+            },
+            {
+                "@type": "Organization",
+                "name": "Bryggarakad i Worms"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "Bjersjö Brygg.AB",
+                "startDate": "1891",
+                "endDate": "1900",
+                "jobTitle": "Brewmaster"
+            },
+            {
+                "@type": "Organization",
+                "name": "Carlstens Porter Brewery",
+                "startDate": "1900",
+                "endDate": "1911",
+                "jobTitle": "Technical Director"
+            },
+            {
+                "@type": "Organization",
+                "name": "Vänbgs Fören Brygg",
+                "startDate": "1911",
+                "endDate": "1918",
+                "jobTitle": "Manager"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sala Ångbrygg",
+                "jobTitle": "Director of Growth"
+            }
+        ],
+        "boardMembership": [
+            {
+                "@type": "Organization",
+                "name": "Stadsfilmen Vänbg"
+            },
+            {
+                "@type": "Organization",
+                "name": "Uplensk Bank's Salakont"
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "Place",
+                "name": "Africa",
+                "startDate": "1923"
+            },
+            {
+                "@type": "Place",
+                "name": "USA",
+                "startDate": "1933"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Brewmaster",
+                "workplace": "Bjersjö Brygg.AB",
+                "industry": "Brewing",
+                "start_date": "1891"
+            },
+            {
+                "occupational_title": "Technical Director",
+                "workplace": "Carlstens Porter Brewery",
+                "industry": "Brewing",
+                "start_date": "1900"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Vänbgs Fören Brygg",
+                "industry": "Brewing",
+                "start_date": "1911"
+            },
+            {
+                "occupational_title": "Director of Growth",
+                "workplace": "Sala Ångbrygg",
+                "industry": "Brewing",
+                "start_date": "19"
+            }
+        ]
+    }
+}

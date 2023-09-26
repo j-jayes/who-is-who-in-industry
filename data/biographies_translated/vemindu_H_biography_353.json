@@ -1,0 +1,105 @@
+{
+    "original": "HOLMBERG, Sten Edvard, Civilingenjör, Nynäshamn, f Sthlm 14/12 09 av bktjm E J H o Emelie Carlson, gm Violet Windsor-Clive. Studex Sthlm 27, KTH (kemi) 27—32. Tillf anst f experimentarb v Nitroglycerin AB Gyt-torp 32—33, kontr f asfalt h Sv Väg AB i Rumänien 33, nu driftsing h A Johnson &amp; Co IB oljeraffinaderi. Led Sv Tekn.frn.",
+    "translated": "HOLMBERG, Sten Edvard, Civil Engineer, Nynäshamn, born in Stockholm on December 14th, 1909, son of the bookkeeper E J H and Emelie Carlson, married to Violet Windsor-Clive. Studied in Stockholm until '27, and at the Royal Institute of Technology (chemistry) from '27 to '32. Temporarily employed as an experimental worker at Nitroglycerin AB Gyt-torp from '32 to '33, contracted for asphalt with Swedish Road AB in Romania in '33, currently employed at A Johnson & Co IB oil refinery. Member of the Swedish Engineering Association.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Sten Edvard Holmberg",
+        "jobTitle": "Civil Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Nynäshamn"
+        },
+        "birthDate": "1909-12-14",
+        "birthPlace": "Stockholm",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "E J H"
+            },
+            {
+                "@type": "Person",
+                "name": "Emelie Carlson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Violet Windsor-Clive"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Stockholm University",
+                "location": "Stockholm"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Royal Institute of Technology",
+                "location": "Stockholm"
+            }
+        ],
+        "alumniOf": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "KTH Royal Institute of Technology",
+                "location": "Stockholm",
+                "startDate": "1927",
+                "endDate": "1932",
+                "major": "Chemistry"
+            }
+        ],
+        "employeeOf": {
+            "@type": "Organization",
+            "name": "A Johnson & Co IB oil refinery"
+        },
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Swedish Engineering Association"
+        },
+        "workExperience": [
+            {
+                "@type": "Organization",
+                "name": "Nitroglycerin AB Gyt-torp",
+                "startDate": "1932",
+                "endDate": "1933",
+                "description": "Temporarily employed as an experimental worker"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Road AB",
+                "location": "Romania",
+                "startDate": "1933",
+                "endDate": "1933",
+                "description": "Contracted for asphalt"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Nynäshamn",
+                "industry": "Engineering",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Experimental Worker",
+                "workplace": "Nitroglycerin AB Gyt-torp",
+                "industry": "Chemical Manufacturing",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Contractor",
+                "workplace": "Swedish Road AB (in Romania)",
+                "industry": "Construction",
+                "start_date": "1933"
+            },
+            {
+                "occupational_title": "Driftsing at A Johnson & Co IB",
+                "workplace": "Oil Refinery",
+                "industry": "Petroleum",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

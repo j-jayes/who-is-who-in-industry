@@ -1,0 +1,131 @@
+{
+    "original": "HÖGBERG, Karl Edvin, Direktör, Arvika, f Boda, Värml län, 3/7 97 av Sven Högberg o Beda Persson, änkl. Realex 13, Schartau 16. Anst östlind &amp; Almquist pianofabr 16, korresp Fören piano- &amp; orgelfabr huv.kont 18, kamr 20, v. vkst dir sed. 30. Led stdsflm o kyrkoråd.",
+    "translated": "HÖGBERG, Karl Edvin, Director, Arvika, born in Boda, Värmland County, on July 3, 1897, to Sven Högberg and Beda Persson, widower. Completed secondary education in 1913 and Schartau business school in 1916. Employed at Östlind & Almquist piano factory in 1916, correspondent at the main office of the Association of Piano and Organ Manufacturers in 1918, chamberlain in 1920, acting deputy director since 1930. Member of the Swedish Film Censorship Board and church council.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Karl Edvin Höberg",
+        "jobTitle": "Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Arvika"
+        },
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Boda, Värmland County"
+        },
+        "birthDate": "1897-07-03",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Sven Högberg"
+            },
+            {
+                "@type": "Person",
+                "name": "Beda Persson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "unknown"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Completion",
+                "credentialSubject": {
+                    "@type": "EducationalOccupationalCredential",
+                    "name": "Secondary Education"
+                },
+                "dateAwarded": "1913"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Completion",
+                "credentialSubject": {
+                    "@type": "EducationalOccupationalCredential",
+                    "name": "Schartau Business School"
+                },
+                "dateAwarded": "1916"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1916",
+                "endDate": null,
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Östlind & Almquist Piano Factory"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1918",
+                "endDate": null,
+                "roleName": "Correspondent",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Association of Piano and Organ Manufacturers (Main Office)"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1920",
+                "endDate": null,
+                "roleName": "Chamberlain"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1930",
+                "endDate": null,
+                "roleName": "Acting Deputy Director"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Film Censorship Board"
+            },
+            {
+                "@type": "Organization",
+                "name": "Church Council"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Arvika",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Employee at Östlind & Almquist piano factory",
+                "workplace": "Unknown",
+                "industry": "Piano manufacturing",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Correspondent at the main office of the Association of Piano and Organ Manufacturers",
+                "workplace": "Unknown",
+                "industry": "Piano and organ manufacturing",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Chamberlain",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Acting Deputy Director",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "1930"
+            }
+        ]
+    }
+}

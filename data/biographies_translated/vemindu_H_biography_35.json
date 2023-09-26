@@ -1,0 +1,111 @@
+{
+    "original": "HAGSTRÖM, Erik Albin, Direktör, Älvdalen, f Orsa, Kopparb l, 25/5 05. Grund fma Albin Hagström (imp o försäljn av dragspel) i Älvdalen 24, vkst dir f denna 36 t AB ombild fma, start eg dragspelsfabr i Älvd 33, huvuddeläg i dtrbol i Oslo, Kphmn, Hfors o New York, Fabriker i Kphmn o Hfors. Resor: Tyskl, Ital, Frankr, Engl, USA mfl. Hobbies : Mitt arbete, friluftsliv, resor.",
+    "translated": "HAGSTRÖM, Erik Albin, Director, Älvdalen, born in Orsa, Kopparberg County, on May 25, 1905. Son of Albin Hagström (importer and seller of accordions) in Älvdalen. Founded the company Albin Hagström at the age of 24, became the managing director of this firm at 36. The company was later restructured and Erik started his own accordion factory in Älvdalen in 1933. He was the main shareholder in daughter companies located in Oslo, Copenhagen, Helsinki, and New York, with factories in Copenhagen and Helsinki. Traveled to Germany, Italy, France, England, USA, and others. Hobbies: My work, outdoor activities, and traveling.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Erik Albin Hagström",
+        "jobTitle": "Director",
+        "birthDate": "1905-05-25",
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Orsa, Kopparberg County"
+        },
+        "parent": {
+            "@type": "Person",
+            "name": "Albin Hagström"
+        },
+        "workLocation": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Älvdalen"
+            }
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Albin Hagström"
+        },
+        "foundingDate": "1929",
+        "alumniOf": {
+            "@type": "Organization",
+            "name": "Albin Hagström"
+        },
+        "owns": {
+            "@type": "Organization",
+            "name": "Erik Hagström Accordions"
+        },
+        "ownsSharesIn": [
+            {
+                "@type": "Organization",
+                "name": "Daughter Company Oslo"
+            },
+            {
+                "@type": "Organization",
+                "name": "Daughter Company Copenhagen"
+            },
+            {
+                "@type": "Organization",
+                "name": "Daughter Company Helsinki"
+            },
+            {
+                "@type": "Organization",
+                "name": "Daughter Company New York"
+            }
+        ],
+        "hasManufacturingProcess": [
+            {
+                "@type": "Organization",
+                "name": "Copenhagen Factory"
+            },
+            {
+                "@type": "Organization",
+                "name": "Helsinki Factory"
+            }
+        ],
+        "startDate": "1933",
+        "travelledTo": [
+            "Germany",
+            "Italy",
+            "France",
+            "England",
+            "USA"
+        ],
+        "knowsAbout": [
+            "Accordion Manufacturing",
+            "Sales"
+        ],
+        "hasInterest": [
+            "Outdoor Activities",
+            "Traveling"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Founder",
+                "workplace": "Albin Hagström",
+                "industry": "Accordion import and sales",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "Albin Hagström",
+                "industry": "Accordion manufacturing",
+                "start_date": "1941"
+            },
+            {
+                "occupational_title": "Accordion Factory Owner",
+                "workplace": "Älvdalen",
+                "industry": "Accordion manufacturing",
+                "start_date": "1933"
+            },
+            {
+                "occupational_title": "Main Shareholder",
+                "workplace": "Daughter Companies (Oslo, Copenhagen, Helsinki, New York)",
+                "industry": "Accordion manufacturing",
+                "start_date": "1947"
+            }
+        ]
+    }
+}

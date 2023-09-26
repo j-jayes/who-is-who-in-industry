@@ -1,0 +1,116 @@
+{
+    "original": "HULDT, Erik Kristoffer, Ingenjör, Direktör, Stockholm, f Sthlm 15/10 99 av dir K A H o Elin Torell, gm Brita Roth. Studex Sthlm 18, sjöoffex 22 o fänr i Flottans res s å, löjtn 40, extra stud v KTH 22—24. Inneh fma Kohlswa Fältspatgruva Erik Huldt fr 24, tilllika vkst dir f AB Feltspatkompaniet fr 28 o f Rånäs Bruks AB fr 40.",
+    "translated": "HULDT, Erik Kristoffer, Engineer, Director, Stockholm, b Stockholm 15/10 99 to director K A H and Elin Torell, m Brita Roth. Graduated from Stockholm 1918, naval officer 1922 and second lieutenant in the Navy Reserve the same year, lieutenant 1940, extra studies at KTH 1922-1924. Held positions as field manager at Kohlswa Feldspar Mine from 1924, as well as assistant director of AB Feltspatkompaniet from 1928 and of Rånäs Bruks AB from 1940.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Erik Kristoffer Huldt",
+        "birthDate": "1899-10-15",
+        "birthPlace": "Stockholm",
+        "familyName": "Huldt",
+        "givenName": "Erik Kristoffer",
+        "nationality": "Swedish",
+        "occupation": [
+            {
+                "@type": "Engineer",
+                "name": "Engineer"
+            },
+            {
+                "@type": "Director",
+                "name": "Director"
+            }
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "K A H",
+                "jobTitle": "Director"
+            },
+            {
+                "@type": "Person",
+                "name": "Elin Torell"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Brita Roth"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Stockholm University",
+                "location": "Stockholm",
+                "startDate": "1918",
+                "endDate": "Unknown"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "KTH Royal Institute of Technology",
+                "location": "Stockholm",
+                "startDate": "1922",
+                "endDate": "1924"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Navy Reserve",
+                "startDate": "1922",
+                "endDate": "Unknown"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Navy",
+                "startDate": "1940",
+                "endDate": "Unknown"
+            },
+            {
+                "@type": "Organization",
+                "name": "Kohlswa Feldspar Mine",
+                "startDate": "1924",
+                "endDate": "Unknown",
+                "jobTitle": "Field Manager"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Feltspatkompaniet",
+                "startDate": "1928",
+                "endDate": "Unknown",
+                "jobTitle": "Assistant Director"
+            },
+            {
+                "@type": "Organization",
+                "name": "Rånäs Bruks AB",
+                "startDate": "1940",
+                "endDate": "Unknown",
+                "jobTitle": "Assistant Director"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Kohlswa Fältspatgruva",
+                "industry": "Feldspar mining",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Assistant Director",
+                "workplace": "AB Feltspatkompaniet",
+                "industry": "Feldspar mining",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Assistant Director",
+                "workplace": "Rånäs Bruks AB",
+                "industry": "Ironworks",
+                "start_date": "1940"
+            }
+        ]
+    }
+}

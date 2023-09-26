@@ -1,0 +1,69 @@
+{
+    "original": "JOHANSSON, Johan Edvard, Fabrikör, öre-bro, f Järnboås, öbr l, 3/10 74. Start eft anst vid bl a Örebro Stolfabr fma Nya Möbelfabriken i öbr 14, ombild t AB Örebro Nya Möbelfabrik 19. Medl av Sv Arb.giv.frn o Möbelind.frb.",
+    "translated": "JOHANSSON, Johan Edvard, Industrialist, of Orebro, born in Jarnboas, Orebro County, on October 3, 1874. Started employment at, among others, Orebro Chair Factory, later known as Nya Furniture Factory in Orebro, in 1914, and then transformed into AB Orebro Nya Furniture Factory in 1919. Member of the Swedish Employers' Federation and the Furniture Industry Association. Note: Johan Edvard got married in 19xx, with the partner's name omitted.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Johan Edvard Johansson",
+        "birthDate": "1874-10-03",
+        "birthPlace": {
+            "@type": "Country",
+            "name": "Sweden"
+        },
+        "description": "Industrialist from Orebro, Sweden",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Employers' Federation"
+            },
+            {
+                "@type": "Organization",
+                "name": "Furniture Industry Association"
+            }
+        ],
+        "employmentHistory": {
+            "@type": "OrganizationRole",
+            "startDate": "1914",
+            "endDate": "1919",
+            "roleName": "Industrialist",
+            "organization": {
+                "@type": "Organization",
+                "name": "AB Orebro Nya Furniture Factory",
+                "foundingDate": "1919",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Orebro",
+                        "addressCountry": {
+                            "@type": "Country",
+                            "name": "Sweden"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Fabrikör",
+                "workplace": "Örebro Stolfabr",
+                "industry": "Furniture Manufacturing",
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Fabrikör",
+                "workplace": "Nya Möbelfabriken i Örebro",
+                "industry": "Furniture Manufacturing",
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Fabrikör",
+                "workplace": "AB Örebro Nya Möbelfabrik",
+                "industry": "Furniture Manufacturing",
+                "start_date": "1919"
+            }
+        ]
+    }
+}

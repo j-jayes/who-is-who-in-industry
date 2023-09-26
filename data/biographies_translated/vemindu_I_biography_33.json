@@ -1,0 +1,129 @@
+{
+    "original": "IVARSSON, I.nrs Iwan, Kamrer, Stockholm, f Sthlm 27/8 13 av direktör J Ivar Larsson o Signe Hellberg. Studex Sthlm 31, Schartaus 32. Korresp fma Gunnar Engstrand Sthlm 34—41, Hermes Kreditversiche-rungs AG Berlin 41, kamr Smides AB Bröd Lundberg &amp; Co Sthlm 41—42, försäljn.ch Sve-dia Dental-Industri AB Sthlm sed. 42. Odd Fellow, Mercuri-Schartauan, STF, Skådebanan; kassaförv Teosofiska Samf Adyar. Hobbies: Musik, friluftsliv.",
+    "translated": "IVARSSON, I.nrs Iwan, Accountant, Stockholm, b. Stockholm 27/8 13, son of director J Ivar Larsson and Signe Hellberg. Graduated Stockholm 31, Schartaus 32. Correspondent for Gunnar Engstrand Stockholm 34-41, Hermes Credit Insurance AG Berlin 41, accountant for Smides AB Bröd Lundberg & Co Stockholm 41-42, sales representative for Sve-dia Dental-Industri AB Stockholm since 42. Member of Odd Fellow, Mercuri-Schartauan, STF, Skådebanan; treasurer of the Teosofiska Samf Adyar. Hobbies: Music, outdoor life..\n\nNote: '\\d\\d m. partners name' indicates marriage in the year 19xx.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "IVARSSON, I.nrs Iwan",
+        "jobTitle": "Accountant",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "birthDate": "1913-08-27",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "director J Ivar Larsson"
+            },
+            {
+                "@type": "Person",
+                "name": "Signe Hellberg"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Stockholm",
+                "startDate": "1931"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Schartaus",
+                "startDate": "1932"
+            }
+        ],
+        "occupation": [
+            {
+                "@type": "Organization",
+                "name": "Gunnar Engstrand",
+                "startDate": "1934",
+                "endDate": "1941",
+                "jobTitle": "Correspondent"
+            },
+            {
+                "@type": "Organization",
+                "name": "Hermes Credit Insurance AG",
+                "startDate": "1941",
+                "endDate": "1941",
+                "jobTitle": "Correspondent"
+            },
+            {
+                "@type": "Organization",
+                "name": "Smides AB Bröd Lundberg & Co",
+                "startDate": "1941",
+                "endDate": "1942",
+                "jobTitle": "Accountant"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sve-dia Dental-Industri AB",
+                "startDate": "1942",
+                "jobTitle": "Sales Representative"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Odd Fellow"
+            },
+            {
+                "@type": "Organization",
+                "name": "Mercuri-Schartauan"
+            },
+            {
+                "@type": "Organization",
+                "name": "STF"
+            },
+            {
+                "@type": "Organization",
+                "name": "Skådebanan"
+            },
+            {
+                "@type": "Organization",
+                "name": "Teosofiska Samf Adyar",
+                "jobTitle": "Treasurer"
+            }
+        ],
+        "spouse": [
+            {
+                "@type": "Person",
+                "name": "PARTNER_NAME",
+                "startDate": "19XX"
+            }
+        ],
+        "sameAs": "IVARSSON, I.nrs Iwan",
+        "knowsAbout": [
+            "Music",
+            "Outdoor life"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Accountant",
+                "workplace": "Stockholm",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Correspondent",
+                "workplace": "Gunnar Engstrand Stockholm",
+                "industry": "Unknown",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Accountant",
+                "workplace": "Smides AB Bröd Lundberg & Co Stockholm",
+                "industry": "Unknown",
+                "start_date": "1941"
+            },
+            {
+                "occupational_title": "Sales Representative",
+                "workplace": "Sve-dia Dental-Industri AB Stockholm",
+                "industry": "Unknown",
+                "start_date": "1942"
+            }
+        ]
+    }
+}

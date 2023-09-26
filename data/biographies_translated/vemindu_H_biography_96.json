@@ -1,0 +1,94 @@
+{
+    "original": "HAMMARLUND, Svante Frithiof, Civilingenjör, Kristianstad, f Klippan, Krstds l, 5/10 76. Mog.ex Hbg 95, ex KTH (E) 98, prakt i Frankr, USA, Finl, Sthlm o Malmö 98—10. Inneh sed. 10 fma Elektriska Installationsbyrån i Krstd, repr f ASEA.",
+    "translated": "HAMMARLUND, Svante Frithiof, Civil Engineer, Kristianstad, born in Klippan, Kristianstad county, on October 5, 1876. Completed middle school in Helsingborg in 1895, graduated from the Royal Institute of Technology (Electrical Engineering) in 1898. Worked in France, USA, Finland, Stockholm, and Malmö from 1898 to 1910. Became the owner of the Electric Installation Agency in Kristianstad in 1910, also representing ASEA.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "givenName": "Svante",
+        "additionalName": "Frithiof",
+        "familyName": "Hammarlund",
+        "birthDate": "1876-10-05",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Klippan"
+        },
+        "deathDate": null,
+        "nationality": "Swedish",
+        "description": "Civil Engineer",
+        "alumniOf": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Helsingborg Middle School",
+                "endDate": "1895"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Royal Institute of Technology",
+                "department": "Electrical Engineering",
+                "endDate": "1898"
+            }
+        ],
+        "workLocations": [
+            {
+                "@type": "City",
+                "name": "Kristianstad"
+            },
+            {
+                "@type": "City",
+                "name": "France"
+            },
+            {
+                "@type": "Country",
+                "name": "USA"
+            },
+            {
+                "@type": "Country",
+                "name": "Finland"
+            },
+            {
+                "@type": "City",
+                "name": "Stockholm"
+            },
+            {
+                "@type": "City",
+                "name": "Malmö"
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Electric Installation Agency"
+        },
+        "memberOf": {
+            "@type": "Organization",
+            "name": "ASEA"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Kristianstad",
+                "industry": "Engineering",
+                "start_date": "1898"
+            },
+            {
+                "occupational_title": "Owner of Electric Installation Agency",
+                "workplace": "Kristianstad",
+                "industry": "Electricity",
+                "start_date": "1910"
+            },
+            {
+                "occupational_title": "Representative for ASEA",
+                "workplace": "(Electric Installation Agency in Kristianstad)",
+                "industry": "Electrical Engineering",
+                "start_date": "1910"
+            },
+            {
+                "occupational_title": "Practical Experience in France, USA, Finland, Stockholm, and Malmö",
+                "workplace": "France, USA, Finland, Stockholm, and Malmö",
+                "industry": "Varied",
+                "start_date": "1898"
+            }
+        ]
+    }
+}

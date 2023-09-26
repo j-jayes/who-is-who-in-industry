@@ -1,0 +1,151 @@
+{
+    "original": "HOLMGREN, Anton Gustaf Emanuel, Huvudkassör, Enskede, f Sthlm 27/9 00 av pred A F H o Anna Strotz, gm Tora Nilson. Priv skolst, språkst, riksdagsref.kurs i stenogr, ex fr hdlsinst, musikstudier. Korresp grossh.fma Wilh C Jacobsen Sthlm 18, priv.lär i musik 22, anst som korresp 23—26, sekr o avd.ch Ackumulator Fabr AB Tudor, Sthlm, sed. 34, nu huvudkassör där. Äg villafastigh i Enskede. Hobby: Musik, särsk kyrkomusik (inneh organistbefattn o utövar lär.vksht).",
+    "translated": "HOLMGREN, Anton Gustaf Emanuel, Chief Accountant, Enskede, b. Stockholm 27/9 00, son of priest A F H and Anna Strotz, married to Tora Nilson. Private school education, language studies, shorthand course at the National Parliament, graduated from the School of Commerce, studied music. Correspondent for the wholesale company Wilh C Jacobsen in Stockholm 18, private music teacher in 22, employed as a correspondent 23-26, secretary and department head at the Tudor Battery Factory AB in Stockholm since 34, currently serving as Chief Accountant there. Owns a villa property in Enskede. Hobbies: Music, especially church music (holding the position of organist and teaching vocal music).",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Anton Gustaf Emanuel Holmgren",
+        "jobTitle": "Chief Accountant",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Enskede",
+            "addressRegion": "Stockholm"
+        },
+        "birthDate": "1900-09-27",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "A. F. H. Holmgren",
+                "jobTitle": "Priest",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Strotz",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm"
+                }
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Tora Nilson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Private school"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "National Parliament",
+                "course": [
+                    "Shorthand"
+                ]
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "School of Commerce"
+            }
+        ],
+        "occupation": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1918",
+                "endDate": "1922",
+                "roleName": "Correspondent",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Wilh C Jacobsen",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm",
+                        "postalCode": "18"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1922",
+                "endDate": "1923",
+                "roleName": "Private Music Teacher"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1923",
+                "endDate": "1926",
+                "roleName": "Correspondent"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1934",
+                "roleName": "Secretary and Department Head",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Ackumulator Fabr AB Tudor",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "N/A",
+                "roleName": "Chief Accountant"
+            }
+        ],
+        "owns": {
+            "@type": "Place",
+            "name": "Villa Property"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Position of Organist"
+            },
+            {
+                "@type": "Organization",
+                "name": "Teaching Vocal Music"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Correspondent",
+                "workplace": "Wilh C Jacobsen",
+                "industry": "Wholesale",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Private Music Teacher",
+                "workplace": "Self-employed",
+                "industry": "Education",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Correspondent",
+                "workplace": "Ackumulator Fabr AB Tudor",
+                "industry": "Battery Manufacturing",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Secretary and Department Head",
+                "workplace": "Ackumulator Fabr AB Tudor",
+                "industry": "Battery Manufacturing",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Chief Accountant",
+                "workplace": "Ackumulator Fabr AB Tudor",
+                "industry": "Battery Manufacturing",
+                "start_date": "N/A"
+            }
+        ]
+    }
+}

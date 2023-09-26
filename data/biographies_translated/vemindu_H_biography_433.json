@@ -1,0 +1,181 @@
+{
+    "original": "HÅKANSSON, Anders, Direktör Stockholm, f Öja, Malmöh l, 20/8 75 av lantbr H Persson o Elna Andersson, gm Frieda Paul. Ing.ex v h tekn facksk Neustadt Tyskl, stud v Techn Hochschule Berlin-Charlottenburg. Ing, övering o vkst dir v utl företag 03—19, vkst dir AB Thulinverken 19—23, f AB Nord Armatur-fabr:a Sthlm 23, nu vkst dir f AB Boggier Sthlm. Styr.led i Munktells Mek Verkst AB 2&amp;—32, J &amp; C G Bolinders Mek Verkst AB, AB Bolinder-Munktell sed. 32 samt Sv Hammar AB. Led Sv Tekn.frn. RVO.",
+    "translated": "HÅKANSSON, Anders, Director Stockholm, born in Öja, Malmöh County, on August 20, 1875, to farmer H. Persson and Elna Andersson. Married to Frieda Paul. Graduated from the technical vocational school in Neustadt, Germany, and studied at the Technische Hochschule Berlin-Charlottenburg. Engineer, head of development, and executive director in international companies between 1903 and 1919. Growth director at AB Thulinverken from 1919 to 1923. Founded AB Nord Armatur-fabr:a Stockholm in 1923. Currently serving as the growth director at AB Boggier Stockholm. Served on the board of Munktells Mek Verkst AB from 1920 to 1932, J & C G Bolinders Mek Verkst AB, and AB Bolinder-Munktell since 1932, as well as Sv Hammar AB. Member of the Royal Swedish Academy of Engineering Sciences. Received the Order of Vasa (RVO).",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Anders Håkansson",
+        "birthDate": "1875-08-20",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Öja",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Sweden",
+                "addressRegion": "Malmöh County"
+            }
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "H. Persson"
+            },
+            {
+                "@type": "Person",
+                "name": "Elna Andersson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Frieda Paul"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Diploma",
+                "name": "Technical Vocational School",
+                "location": "Neustadt",
+                "provider": "Germany"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Degree",
+                "name": "Technische Hochschule Berlin-Charlottenburg",
+                "location": "Berlin",
+                "provider": "Germany"
+            }
+        ],
+        "occupation": [
+            {
+                "@type": "Occupation",
+                "name": "Engineer"
+            },
+            {
+                "@type": "Occupation",
+                "name": "Head of Development"
+            },
+            {
+                "@type": "Occupation",
+                "name": "Executive Director"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "AB Thulinverken",
+                "position": "Growth Director",
+                "startDate": "1919",
+                "endDate": "1923"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Nord Armatur-fabr:a Stockholm",
+                "position": "Founder",
+                "startDate": "1923"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Boggier Stockholm",
+                "position": "Growth Director"
+            }
+        ],
+        "boardMember": [
+            {
+                "@type": "Organization",
+                "name": "Munktells Mek Verkst AB",
+                "position": "Board Member",
+                "startDate": "1920",
+                "endDate": "1932"
+            },
+            {
+                "@type": "Organization",
+                "name": "J & C G Bolinders Mek Verkst AB",
+                "position": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Bolinder-Munktell",
+                "position": "Board Member",
+                "startDate": "1932"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sv Hammar AB",
+                "position": "Board Member"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Royal Swedish Academy of Engineering Sciences"
+        },
+        "awards": {
+            "@type": "Order",
+            "name": "Order of Vasa",
+            "description": "RVO"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "International companies",
+                "industry": "Unknown",
+                "start_date": "1903"
+            },
+            {
+                "occupational_title": "Head of Development",
+                "workplace": "International companies",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Executive Director",
+                "workplace": "International companies",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Growth Director",
+                "workplace": "AB Thulinverken",
+                "industry": "Unknown",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Founder",
+                "workplace": "AB Nord Armatur-fabr:a Stockholm",
+                "industry": "Unknown",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Growth Director",
+                "workplace": "AB Boggier Stockholm",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Munktells Mek Verkst AB",
+                "industry": "Unknown",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "J & C G Bolinders Mek Verkst AB",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "AB Bolinder-Munktell",
+                "industry": "Unknown",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Sv Hammar AB",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

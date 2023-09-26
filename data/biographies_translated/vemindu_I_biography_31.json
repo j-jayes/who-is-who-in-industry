@@ -1,0 +1,99 @@
+{
+    "original": "IVARSSON, Anton Oskar, Direktör, Osby, f Glimåkra 1/12 87 av fabr Ivar Bengtsson o Sissa Persson, gm folkskoll Elin Balte. Folksk, hdlssk 07, språkkurs 08, 15. Anst fad rör t 08. Gr 08 m brod fma Bröd Ivarsson (fabr i korgar o koffertar samt engrosaff i leks o hush.art, kortvaror o trikot), AB (familje-)37, vkst dir där. Ag Maglaröds gård, Verum. Ordf skolstyr, v ordf komm.nmd, verkstyr, sparbk, led komm.flm, kyrkoråd, kyrkoflm. Ordf Osby Högerfrn. Styr.led AB Osby Sam-realsk, Osby Hdls- o Ind.frn, Sk Sparbksfrn. Resor: Tyskl, Tjeckoslov, Jugoslav, Ital, Frankr, Holl, Belg, Danm, Norge, Finl. Frimurare. Hobbies: Litteratur, resor.",
+    "translated": "IVARSSON, Anton Oskar, Director, Osby, b. Glimåkra 1/12 87, son of factory worker Ivar Bengtsson and Sissa Persson, married elementary school teacher Elin Balte. Completed elementary school, trade school in 1907, language course in 1908 and 1915. Employed by father's plumbing business in 1908. Founded a joint stock company in 1908 together with his brother, Bröd Ivarsson (manufacturer of baskets and suitcases, as well as wholesale of toys and household items, small goods and knitwear). Serves as Managing Director of the (family-) company AB since 1937, located at Maglaröds farm in Verum. Chairman of the school board, Vice Chairman of the municipal committee, executive board member of the savings bank, member of the municipal council, church council, and church committee. Chairman of the Osby Right Wing Party. Board member of AB Osby Sam-realsk, Osby Commerce and Industry Association, Skåne Savings Banks' Association. Has traveled to Germany, Czechoslovakia, Yugoslavia, Italy, France, the Netherlands, Belgium, Denmark, Norway, Finland. Freemason. Hobbies: Literature, traveling.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Anton Oskar Ivarsson",
+        "birthDate": "1887-12-01",
+        "birthPlace": "Glimåkra, Sweden",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "AB",
+                "description": "Family company",
+                "foundingDate": "1937",
+                "position": "Managing Director"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Elin Balte",
+            "occupation": "Elementary School Teacher"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "Trade School",
+                "startDate": "1907"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "Language Course",
+                "startDate": "1908"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "Language Course",
+                "startDate": "1915"
+            }
+        ],
+        "father": {
+            "@type": "Person",
+            "name": "Ivar Bengtsson",
+            "occupation": "Factory Worker"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Sissa Persson"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Sweden",
+            "addressLocality": "Verum",
+            "streetAddress": "Maglaröds gård"
+        },
+        "honorificSuffix": "Director",
+        "jobTitle": "Director",
+        "nationality": "Swedish",
+        "travelledTo": [
+            "Germany",
+            "Czechoslovakia",
+            "Yugoslavia",
+            "Italy",
+            "France",
+            "Netherlands",
+            "Belgium",
+            "Denmark",
+            "Norway",
+            "Finland"
+        ],
+        "hobbies": [
+            "Literature",
+            "Traveling"
+        ],
+        "religion": "Freemason"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "AB Ivarsson (family company)",
+                "industry": "Various industries (manufacturing, wholesale)",
+                "start_date": "1937"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Father's plumbing business",
+                "industry": "Plumbing",
+                "start_date": "1908"
+            },
+            {
+                "occupational_title": "Founder",
+                "workplace": "AB Ivarsson (joint stock company)",
+                "industry": "Manufacturing (baskets and suitcases), Wholesale (toys and household items, small goods and knitwear)",
+                "start_date": "1908"
+            }
+        ]
+    }
+}

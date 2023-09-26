@@ -1,0 +1,70 @@
+{
+    "original": "HÖGFORS, Henning Einar C:son, Civilingenjör, Malmö, f Hogstad, Ögl l, 24/7 98 av lantbr O H Carlson o Augusta Karlson, gm Karin Malmström. Studex Linkp 17, KTH (maskinbyggn o mek tekn) 20—24. Anst h Sv AB Bromsregulator Malmö sed. 25, rit-kont.chef där sed. 28. Hobbies: Friluftsliv o sport.",
+    "translated": "HÖGFORS, Henning Einar C:son, Civil Engineer, Malmö, born in Hogstad, Ögl l, on July 24, 1898, to farmer O. H. Carlson and Augusta Karlson, married to Karin Malmström. Graduated from Linköping University in 1917 and the Royal Institute of Technology (Mechanical Engineering) from 1920 to 1924. Employed by Swedish AB Bromsregulator in Malmö since 1925, and promoted to head of the drawing office in 1928. Hobbies: Outdoor activities and sports.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Henning Einar C:son Högfors",
+        "jobTitle": "Head of Drawing Office",
+        "birthPlace": "Hogstad, Ögl l",
+        "birthDate": "1898-07-24",
+        "father": {
+            "@type": "Person",
+            "name": "O. H. Carlson"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Augusta Karlson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Karin Malmström"
+        },
+        "alumniOf": [
+            {
+                "@type": "CollegeOrUniversity",
+                "name": "Linköping University",
+                "startDate": "1917",
+                "endDate": "1917"
+            },
+            {
+                "@type": "CollegeOrUniversity",
+                "name": "Royal Institute of Technology",
+                "department": [
+                    {
+                        "@type": "Organization",
+                        "name": "Mechanical Engineering"
+                    }
+                ],
+                "startDate": "1920",
+                "endDate": "1924"
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Swedish AB Bromsregulator",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Malmö"
+            }
+        },
+        "startDate": "1928",
+        "hobbies": "Outdoor activities, sports"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Swedish AB Bromsregulator",
+                "industry": "Engineering",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Head of the Drawing Office",
+                "workplace": "Swedish AB Bromsregulator",
+                "industry": "Engineering",
+                "start_date": "1928"
+            }
+        ]
+    }
+}

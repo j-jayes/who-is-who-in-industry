@@ -1,0 +1,101 @@
+{
+    "original": "HAMMAR, Harry John Gustaf, Civlingen-jör, Stockholm, f Sthlm 3/6 87 av köpm J G H o Hilda Ekvall, gm Ingrid Johansson. Mog.ex h reallärov å Norrmalm i Sthlm 06, KTH 07—10, avg.ex där sistn år. Anst L A Groth &amp; Co Patentbyrå (gr 1869) Sthlm 11—28, deläg i samma fma sed. 28, ensam inneh sed. 35. Led Sv Tekn.frn sed. 19.",
+    "translated": "HAMMAR, Harry John Gustaf, Civil engineer, Stockholm, born in Stockholm on June 3, 1887, to merchant J.G.H and Hilda Ekvall, married Ingrid Johansson. Completed his high school education at Norrmalm in Stockholm in 1906, attended the Royal Institute of Technology from 1907 to 1910, graduated from there in the latter year. Employed at L.A Groth & Co Patent Office (founded in 1869) in Stockholm from 1911 to 1928, became a partner in the same firm in 1928, and sole proprietor from 1935. Member of the Swedish Technical Association since 1919..",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Harry John Gustaf Hammar",
+        "birthDate": "1887-06-03",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Stockholm",
+                "addressCountry": "Sweden"
+            }
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "J. G. H.",
+                "jobTitle": "Merchant"
+            },
+            {
+                "@type": "Person",
+                "name": "Hilda Ekvall"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ingrid Johansson"
+        },
+        "occupation": {
+            "@type": "Person",
+            "name": "Civil Engineer"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "High School",
+                "startDate": "1906",
+                "endDate": "1906",
+                "educationalLevel": "SecondaryEducation"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "Royal Institute of Technology",
+                "startDate": "1907",
+                "endDate": "1910",
+                "educationalLevel": "CollegeOrUniversity"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Swedish Technical Association"
+        },
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1911",
+                "endDate": "1928",
+                "roleName": "Employed at L. A. Groth & Co Patent Office",
+                "namedPosition": "Patent Engineer"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1928",
+                "endDate": "1935",
+                "roleName": "Partner at L. A. Groth & Co Patent Office",
+                "namedPosition": "Patent Engineer"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1935",
+                "roleName": "Sole Proprietor of L. A. Groth & Co Patent Office",
+                "namedPosition": "Patent Engineer"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil engineer",
+                "workplace": "L.A Groth & Co Patent Office",
+                "industry": "Patent and intellectual property law",
+                "start_date": "1911"
+            },
+            {
+                "occupational_title": "Partner",
+                "workplace": "L.A Groth & Co Patent Office",
+                "industry": "Patent and intellectual property law",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Sole proprietor",
+                "workplace": "L.A Groth & Co Patent Office",
+                "industry": "Patent and intellectual property law",
+                "start_date": "1935"
+            }
+        ]
+    }
+}

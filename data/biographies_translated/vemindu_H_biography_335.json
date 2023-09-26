@@ -1,0 +1,92 @@
+{
+    "original": "HOLLERTZ, Josef Edvard, Ingenjör, Stockholm, f Ö:a Skrukeby, Ögl, 26/8 84 av smidesmäst J A Andersson o Johanna Matsson-Nilsdotter, gm Agnes Ekwall. Mek yrkessk, tekn-, hdls- o språkkurser. Anst AB Atlas Diesel Sthlm sed. 06, försäljn.ing där sed. 11. Tj.res i Tyskl, Ryssl, Österr, Ung, Tjeckoslov, Finl, Norge, Danm. Av trycket: Tekn art o upps. RFinlVRO1kl; Frimurare, led Sv Tekn.frn mfl. Hobbies: Jakt, fiske, litteratur.",
+    "translated": "HOLLERTZ, Josef Edvard, Engineer, Stockholm, b. Ö:a Skrukeby, Ögl, on August 26, 1884, to master blacksmith J A Andersson and Johanna Matsson-Nilsdotter, m. Agnes Ekwall. Completed vocational school, technical, commercial, and language courses. Employed by AB Atlas Diesel in Stockholm since 1906, promoted to sales engineer in 1911. Travelled extensively in Germany, Russia, Austria, Hungary, Czechoslovakia, Finland, Norway, and Denmark. Published technical articles and research papers. Knight of the Order of the White Rose of Finland, First Class; Freemason, member of the Swedish Association of Technology, among others. Hobbies include hunting, fishing, and literature.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Josef Edvard Hollertz",
+        "jobTitle": "Engineer",
+        "birthPlace": "Ö:a Skrukeby, Ögl",
+        "birthDate": "1884-08-26",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "J A Andersson",
+                "jobTitle": "Master blacksmith"
+            },
+            {
+                "@type": "Person",
+                "name": "Johanna Matsson-Nilsdotter"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Agnes Ekwall"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "vocational",
+                "credentialSubject": "Engineering"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "technical",
+                "credentialSubject": "Technology"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "commercial",
+                "credentialSubject": "Business"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "language",
+                "credentialSubject": "Languages"
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "AB Atlas Diesel",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Stockholm"
+            },
+            "startDate": "1906"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Order of the White Rose of Finland",
+                "memberOf": [
+                    {
+                        "@type": "Organization",
+                        "name": "Freemasons"
+                    }
+                ]
+            }
+        ],
+        "hobbies": [
+            "Hunting",
+            "Fishing",
+            "Literature"
+        ],
+        "nationality": "Swedish"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "AB Atlas Diesel",
+                "industry": "Engineering",
+                "start_date": "1906"
+            },
+            {
+                "occupational_title": "Sales Engineer",
+                "workplace": "AB Atlas Diesel",
+                "industry": "Engineering",
+                "start_date": "1911"
+            }
+        ]
+    }
+}

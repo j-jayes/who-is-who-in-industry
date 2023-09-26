@@ -1,0 +1,130 @@
+{
+    "original": "HOLMSTRÖM, Nils Ossian, Kamrer, Örebro, f Motala 3/1 90 av kamr E H o Anna Normelli, gm Maria Sundström. Realex, hdlsgymn. Anst Arboga Mek Verkst 09—19, Andrew Hollingworth &amp; Co:s Verkstäder Arboga 19—24, då H flyttade t nmda fmas fil i Örebro, som blev frist företag 28 (Andrew Hollingworth &amp; Co i Örebro AB) m H som deläg o styr.led. Deläg fastigh Kv 11 a, tomt 5, 6, 7, Klostergat 23 o Magasinsgat 3, öbr, ag fastigh Romellsväg 7, öbr. Sv:es Orkesterfrngars riksfrbs GM, öbr Ork.frns GM. Frimurare, Odd Fellow, W-6 (övercer.-mäst). Hobby: Musik. Andrew Hollingworth &amp; Co grund i öbr 62 av den 55 t Sv infl eng ing A H, som bl a deltog i bygg av Sv:s första jvg, Köping—Hults jvg. Fman sälj maskiner, redsk o verktyg f lantbr, bruk, verkst etc samt har av spec sig på vatten- o värmeledn.branschen o maskinförnödenh i allm.",
+    "translated": "HOLMSTRÖM, Nils Ossian, Accountant, Örebro, born in Motala on March 1, 1890, son of accountant E H and Anna Normelli, married to Maria Sundström. Completed lower secondary education and commercial gymnasium. Employed at Arboga Mechanical Workshop from 1909 to 1919, and at Andrew Hollingworth &amp; Co's Workshops in Arboga from 1919 to 1924. Then, he moved to the aforementioned company's branch in Örebro, which became an independent business in 1928 (Andrew Hollingworth &amp; Co in Örebro AB). He became a partner and managing director. He owned a share in property Kv 11 a, lots 5, 6, 7, Klostergatan 23, and Magasinsgatan 3, in addition to other properties such as Romellsväg 7. He was a member of the Swedish Orchestral Association's regional board and Örebro Orchestra's regional board. He was also a Freemason, member of the Odd Fellows, and held the rank of W-6 (Master Overseer). His hobby was music. Andrew Hollingworth &amp; Co was founded in Örebro in 1862 by A H, who was one of the 55 Swedish engineers involved in the construction of Sweden's first railway, Köping—Hults railway. The company sells machinery, tools, and equipment for agriculture, industry, and workshops, specializing in the water and heating systems sector, as well as general machine supplies.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Nils Ossian Holmström",
+        "jobTitle": "Accountant",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Örebro"
+        },
+        "birthDate": "1890-03-01",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "E H Holmström"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Normelli"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Maria Sundström"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Realex",
+            "credentialLevel": "Lower Secondary Education"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Arboga Mechanical Workshop",
+                "startDate": "1909-01-01",
+                "endDate": "1919-01-01"
+            },
+            {
+                "@type": "Organization",
+                "name": "Andrew Hollingworth &amp; Co's Workshops",
+                "startDate": "1919-01-01",
+                "endDate": "1924-01-01",
+                "location": {
+                    "@type": "Place",
+                    "name": "Arboga"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Andrew Hollingworth &amp; Co in Örebro AB",
+                "startDate": "1928-01-01",
+                "location": {
+                    "@type": "Place",
+                    "name": "Örebro"
+                },
+                "roleName": "Partner and Managing Director"
+            }
+        ],
+        "owns": [
+            {
+                "@type": "LandmarksOrHistoricalBuildings",
+                "name": "Kv 11 a"
+            },
+            {
+                "@type": "LandmarksOrHistoricalBuildings",
+                "name": "Klostergatan 23"
+            },
+            {
+                "@type": "LandmarksOrHistoricalBuildings",
+                "name": "Magasinsgatan 3"
+            },
+            {
+                "@type": "LandmarksOrHistoricalBuildings",
+                "name": "Romellsväg 7"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Orchestral Association",
+                "memberOf": "Regional Board"
+            },
+            {
+                "@type": "Organization",
+                "name": "Örebro Orchestra",
+                "memberOf": "Regional Board"
+            },
+            {
+                "@type": "Organization",
+                "name": "Freemasons"
+            },
+            {
+                "@type": "Organization",
+                "name": "Odd Fellows"
+            }
+        ],
+        "honorificSuffix": "W-6",
+        "taxID": "Overseer Master",
+        "birthPlace": "Motala",
+        "nationality": "Swedish",
+        "memberOfHobby": {
+            "@type": "Organization",
+            "name": "Music"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Accountant",
+                "workplace": "Arboga Mekaniska Verkstad",
+                "industry": "Mechanical Workshop",
+                "start_date": "1909"
+            },
+            {
+                "occupational_title": "Accountant",
+                "workplace": "Andrew Hollingworth & Co's Workshops",
+                "industry": "Mechanical Workshop",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Accountant",
+                "workplace": "Andrew Hollingworth & Co in Örebro AB",
+                "industry": "Machinery and Equipment",
+                "start_date": "1928"
+            }
+        ]
+    }
+}

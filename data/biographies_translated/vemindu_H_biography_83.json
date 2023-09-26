@@ -1,0 +1,161 @@
+{
+    "original": "HAMMAR, Douglas Gustaf Otto, Ingenjör, Södertälje, f Sthlm 19/11 97 av dir f Sv allm exp.frn J H H o Ellen Swensson, gm Nina-Lisa Bianchini. Studex Djursholm 16, ing.tekn högsk.stud Berlin o Sthlm 16—19. Anst Rylander &amp; Asplund (pumpar, motorer) Sthlm 20—23, AB Hammar &amp; Co (skpsbyggn.mtrl, mask) 23—26, dir.ass AB L Heumann &amp; Co (farm prep) Sthlm 26—28, dir O/Y L Heumann &amp; Co Helsingfors 28—34, exportch AB Astra (läkemed, kemik), Södertälje, sed. 35. Resor: Finl, Norge, Danm, Tyskl, Holl, Polen, Rumän, Bulg, Ryssl. Hobby: Segling, fiske, visor.",
+    "translated": "HAMMAR, Douglas Gustaf Otto, Engineer, Södertälje, born in Stockholm on November 19th, 1897, son of a director at the Swedish General Export Company, J.H.H., and Ellen Swensson, married to Nina-Lisa Bianchini. Graduated from Djursholm School in 1916, engineering studies in Berlin and Stockholm from 1916 to 1919. Employed by Rylander & Asplund (pumps, motors) in Stockholm from 1920 to 1923, AB Hammar & Co (shipbuilding materials, machinery) from 1923 to 1926, assistant director at AB L. Heumann & Co (agricultural preparations) in Stockholm from 1926 to 1928, director at O/Y L. Heumann & Co in Helsinki from 1928 to 1934, export manager at AB Astra (pharmaceuticals, chemicals) in Södertälje since 1935. Travelled to Finland, Norway, Denmark, Germany, the Netherlands, Poland, Romania, Bulgaria, and Russia. Hobbies: sailing, fishing, singing songs.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Douglas Gustaf Otto Hammar",
+        "jobTitle": "Engineer",
+        "birthDate": "1897-11-19",
+        "birthPlace": "Stockholm",
+        "nationality": "Swedish",
+        "father": {
+            "@type": "Person",
+            "name": "J.H.H.",
+            "jobTitle": "Director",
+            "worksFor": {
+                "@type": "Organization",
+                "name": "Swedish General Export Company"
+            }
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Ellen Swensson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Nina-Lisa Bianchini"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "diploma",
+            "educationalLevel": "Graduate",
+            "earnedBy": {
+                "@type": "Person",
+                "name": "Douglas Gustaf Otto Hammar"
+            },
+            "provider": {
+                "@type": "EducationalOrganization",
+                "name": "Djursholm School"
+            },
+            "startDate": "1916",
+            "endDate": "1916"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Rylander & Asplund",
+                "jobTitle": "Engineer",
+                "startDate": "1920",
+                "endDate": "1923",
+                "description": "Pumps, motors"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Hammar & Co",
+                "jobTitle": "Engineer",
+                "startDate": "1923",
+                "endDate": "1926",
+                "description": "Shipbuilding materials, machinery"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB L. Heumann & Co",
+                "jobTitle": "Assistant Director",
+                "startDate": "1926",
+                "endDate": "1928",
+                "description": "Agricultural preparations"
+            },
+            {
+                "@type": "Organization",
+                "name": "O/Y L. Heumann & Co",
+                "jobTitle": "Director",
+                "startDate": "1928",
+                "endDate": "1934",
+                "description": "Helsinki"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Astra",
+                "jobTitle": "Export Manager",
+                "startDate": "1935",
+                "description": "Pharmaceuticals, chemicals"
+            }
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Södertälje"
+        },
+        "memberOf": [
+            {
+                "@type": "Country",
+                "name": "Sweden"
+            }
+        ],
+        "hasOccupation": [
+            {
+                "@type": "Occupation",
+                "name": "Engineer"
+            }
+        ],
+        "travelledTo": [
+            "Finland",
+            "Norway",
+            "Denmark",
+            "Germany",
+            "Netherlands",
+            "Poland",
+            "Romania",
+            "Bulgaria",
+            "Russia"
+        ],
+        "hasHobby": [
+            {
+                "@type": "Hobby",
+                "name": "Sailing"
+            },
+            {
+                "@type": "Hobby",
+                "name": "Fishing"
+            },
+            {
+                "@type": "Hobby",
+                "name": "Singing songs"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Rylander & Asplund",
+                "industry": "Pumps, Motors",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "AB Hammar & Co",
+                "industry": "Shipbuilding Materials, Machinery",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Assistant Director",
+                "workplace": "AB L. Heumann & Co",
+                "industry": "Agricultural Preparations",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "O/Y L. Heumann & Co",
+                "industry": "Agricultural Preparations",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Export Manager",
+                "workplace": "AB Astra",
+                "industry": "Pharmaceuticals, Chemicals",
+                "start_date": "1935"
+            }
+        ]
+    }
+}

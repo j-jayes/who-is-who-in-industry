@@ -1,0 +1,66 @@
+{
+    "original": "HOLMSTRAND, Torsten Ludvig Valdemar, Disponent, Göteborg, t Gbg 20/7 91 av J L Holmstrand och h h Hilma, gm Sigrid Larsson. Holmquists Hdlsinst Gbg. Anst Gbgs Remfabr AB sed. 07, inneh av o styr.led i samma AB sed. 36. Medl Göta Coldin. 230 HQLftTI",
+    "translated": "HOLMSTRAND, Torsten Ludvig Valdemar, Manager, Gothenburg, b. Gothenburg 20/7 1891, son of J L Holmstrand and wife Hilma, married Sigrid Larsson. Manager of Holmquist's Trading Establishment in Gothenburg. Employed at Gothenburg's Remfabrik AB since 1907, currently a shareholder and board member since 1936. Member of the Göta Coldin (presumably an organization). 230 HQLftTI.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Torsten Ludvig Valdemar Holmstrand",
+        "jobTitle": "Manager",
+        "birthDate": "1891-07-20",
+        "birthPlace": "Gothenburg",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "J L Holmstrand",
+                "spouse": "Hilma"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Sigrid Larsson"
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Holmquist's Trading Establishment",
+            "location": "Gothenburg"
+        },
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "Gothenburg's Remfabrik AB",
+                "startDate": "1907"
+            }
+        ],
+        "shareholderOf": {
+            "@type": "Organization",
+            "name": "Gothenburg's Remfabrik AB",
+            "startDate": "1936"
+        },
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Göta Coldin"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Manager",
+                "workplace": "Gothenburg",
+                "industry": "Holmquist's Trading Establishment",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Gothenburg's Remfabrik AB",
+                "industry": "Textile industry",
+                "start_date": "1907"
+            },
+            {
+                "occupational_title": "Shareholder and Board member",
+                "workplace": "Gothenburg's Remfabrik AB",
+                "industry": "Textile industry",
+                "start_date": "1936"
+            }
+        ]
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "original": "HULDT, Carl Gustaf, Grosshandlare, Trollhättan, f Munkfors 17/10 97 av fd faktor A F Huldt o Hilma Lindberg, gm Brita Blomgren. Fhsk, F Holmkvists hdlsinst h avd. Anst Uddeholms AB, Munkfors, 12—20, inneh grhdlsfma Dahlberg &amp; Huldt, förest Thttns jästförsäljn.AB, Styr.led Värml Gille i Thttn. Frimurare, Odd Fellow.",
+    "translated": "HULDT, Carl Gustaf, Merchant, Trollhättan, born in Munkfors on October 17, 1897, to former factor A F Huldt and Hilma Lindberg, married to Brita Blomgren. Fhsk (Folk High School), F Holmkvist's commercial institute division. Employed at Uddeholms AB, Munkfors, from 1912 to 1920, owned the grocery firm Dahlberg & Huldt, and served as manager for Thttns yeast sales AB. Also served on the Board of Directors for the Värml Gille in Thttn. Member of the Freemasons and Odd Fellow.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Carl Gustaf Huldt",
+        "jobTitle": "Merchant",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Trollhättan",
+            "addressCountry": "Sweden"
+        },
+        "birthDate": "1897-10-17",
+        "birthPlace": "Munkfors",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "A F Huldt",
+                "jobTitle": "Former Factor"
+            },
+            {
+                "@type": "Person",
+                "name": "Hilma Lindberg"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Brita Blomgren"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Folk High School"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialAwarded": "F Holmkvist's Commercial Institute Division"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Uddeholms AB",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Munkfors",
+                        "addressCountry": "Sweden"
+                    }
+                },
+                "startDate": "1912",
+                "endDate": "1920"
+            }
+        ],
+        "owns": {
+            "@type": "Organization",
+            "name": "Dahlberg & Huldt",
+            "industry": "Grocery Firm"
+        },
+        "servesOn": {
+            "@type": "Organization",
+            "name": "Thttns Yeast Sales AB",
+            "industry": "Yeast Sales"
+        },
+        "boardsAndCommittees": {
+            "@type": "Organization",
+            "name": "Värml Gille in Thttn",
+            "industry": "Non-profit",
+            "position": "Board of Directors"
+        },
+        "memberOf": [
+            "Freemasons",
+            "Odd Fellow"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Trollhättan",
+                "industry": "Unknown",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Factor",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Uddeholms AB",
+                "industry": "Unknown",
+                "start_date": "1912"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "Dahlberg & Huldt (grocery firm)",
+                "industry": "Retail",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Thttns yeast sales AB",
+                "industry": "Food & Beverage",
+                "start_date": ""
+            }
+        ]
+    }
+}

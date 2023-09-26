@@ -1,0 +1,88 @@
+{
+    "original": "HOLMSTEDT, Rolf Gunnar, Kamrer, Hälsingborg, f Väsby, Malmöh l, 13/1 12 av stat.-karl R H p Maria Nyberg, gm Svea Roslund. Realex Höganäs komm mellansk 28, Hbgs hdlsgymn 28—30. Anst Mörarpsortens Mej AB Hbg 30—38, kamr Hbgs Mjölkcentr, frn upa, sed. 39. Hobby: Astronomi.",
+    "translated": "HOLMSTEDT, Rolf Gunnar, Clerk, Hälsingborg, born in Väsby, Malmöh county, on January 13th, 1912, to civil servant R H and Maria Nyberg, married to Svea Roslund. Attended Realex (lower secondary school) in Höganäs municipality, followed by commercial high school in Helsingborg from 1928 to 1930. Employed at Mörarp's Dairy Products AB in Helsingborg from 1930 to 1938, promoted to clerk at Helsingborg's Milk Center in 1939. Interests: Astronomy.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Rolf Gunnar Holmstedt",
+        "jobTitle": "Clerk",
+        "birthDate": "1912-01-13",
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Väsby, Malmöh county"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "R H"
+            },
+            {
+                "@type": "Person",
+                "name": "Maria Nyberg"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Svea Roslund"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "Realex",
+                "educationLevel": "Lower Secondary School",
+                "startDate": "1928",
+                "endDate": "1930",
+                "location": {
+                    "@type": "Place",
+                    "name": "Höganäs municipality"
+                }
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "Commercial High School",
+                "educationLevel": "Secondary School",
+                "startDate": "1928",
+                "endDate": "1930",
+                "location": {
+                    "@type": "Place",
+                    "name": "Helsingborg"
+                }
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Mörarp's Dairy Products AB",
+                "startDate": "1930",
+                "endDate": "1938",
+                "location": {
+                    "@type": "Place",
+                    "name": "Helsingborg"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Helsingborg's Milk Center",
+                "jobTitle": "Clerk",
+                "startDate": "1939"
+            }
+        ],
+        "interests": "Astronomy"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Clerk",
+                "workplace": "Mörarp's Dairy Products AB",
+                "industry": "Dairy",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Clerk",
+                "workplace": "Helsingborg's Milk Center",
+                "industry": "Dairy",
+                "start_date": "1939"
+            }
+        ]
+    }
+}

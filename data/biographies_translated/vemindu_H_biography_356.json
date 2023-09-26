@@ -1,0 +1,125 @@
+{
+    "original": "HOLMBLAD, Erik Helnifrid, Kamrer, Djursholm, f Gbg 15/12 84 av sjökapt H A H o Hilda Lundberg, gin Maikki Gröndal. Studex 03, Gbgs hdlsinst 04, fil kand Upps 15. Anst Kopparb Ensk Bk 04—05, Sundsv Ensk Bk 05—10, AB Yngve Lindström 10—15, AB Industrimetoder (AB Gröndals Patenter) sed. 15, styr.led där. Ag villa i Djh. Komm.rev 21— 32. Styr.led stift Birkagården o ds fastigh AB.",
+    "translated": "HOLMBLAD, Erik Helnifrid, Auditor, Djursholm, born in Gothenburg on December 15, 1884, to Captain H.A.H. and Hilda Lundberg, married to Maikki Gröndal. Completed the studentexamen (equivalent to high school diploma) in 1903, studied at Gothenburg's Handelssinstitut in 1904, and earned a Bachelor's degree from Uppsala University in 1915. Employed at Kopparbergs Enskilda Bank from 1904 to 1905, Sundsvalls Enskilda Bank from 1905 to 1910, AB Yngve Lindström from 1910 to 1915, and AB Industrimetoder (AB Gröndals Patenter) since 1915, serving as a board member there. Owns a house in Djursholm. Served as a municipal tax inspector from 1921 to 1932. Serves as a board member of the Birkagården foundation and the corresponding real estate company.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Erik Helnifrid Holmblad",
+        "birthDate": "1884-12-15",
+        "birthPlace": "Gothenburg",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Captain H.A.H."
+            },
+            {
+                "@type": "Person",
+                "name": "Hilda Lundberg"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Maikki Gröndal"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "High School Diploma",
+                "educationalLevel": "Studentexamen",
+                "endDate": "1903"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "educationalLevel": "Bachelor's Degree",
+                "endDate": "1915",
+                "educationalCredentialAwarded": {
+                    "@type": "CollegeOrUniversity",
+                    "name": "Uppsala University"
+                }
+            }
+        ],
+        "jobTitle": "Auditor",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Djursholm"
+        },
+        "employment": [
+            {
+                "@type": "Organization",
+                "name": "Kopparbergs Enskilda Bank",
+                "startDate": "1904",
+                "endDate": "1905"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sundsvalls Enskilda Bank",
+                "startDate": "1905",
+                "endDate": "1910"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Yngve Lindström",
+                "startDate": "1910",
+                "endDate": "1915"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Industrimetoder (AB Gröndals Patenter)",
+                "startDate": "1915"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Birkagården Foundation"
+            },
+            {
+                "@type": "Organization",
+                "name": "Corresponding Real Estate Company"
+            }
+        ],
+        "occupation": "Municipal Tax Inspector",
+        "startDate": "1921",
+        "endDate": "1932"
+    },
+    "occupations": {
+        "career": {
+            "occupational_title": [
+                "Auditor",
+                "Employee",
+                "Employee",
+                "Employee",
+                "Board Member",
+                "Municipal Tax Inspector",
+                "Board Member"
+            ],
+            "workplace": [
+                "Djursholm",
+                "Kopparbergs Enskilda Bank",
+                "Sundsvalls Enskilda Bank",
+                "AB Yngve Lindström",
+                "AB Industrimetoder (AB Gröndals Patenter)",
+                null,
+                "Birkagården foundation and ds real estate AB"
+            ],
+            "industry": [
+                null,
+                "Banking",
+                "Banking",
+                null,
+                "Patents",
+                null,
+                "Non-profit"
+            ],
+            "start_date": [
+                null,
+                "1904",
+                "1905",
+                "1910",
+                "1915",
+                "1921",
+                null
+            ]
+        }
+    }
+}

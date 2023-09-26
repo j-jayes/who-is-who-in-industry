@@ -1,0 +1,176 @@
+{
+    "original": "HJORTH, Bo Erik, Kapten, Försäljningschef, Kristinehamn, f 6/8 05 av dir E H o Clara Waldenström. Studex, resoffex, DHS. Anst Sv allm exp.frn 29—30, AB Byggn.varor 30—31, försäkr.anst Gothia 32—33, eg maskin-fma 34—39, förs.ch Albin Motor sed. 39. KaptA.6 res. Styr.led Båt- &amp; motorlev:s frn. Resor: Engl 25 o 30 samt i flert europ länd. Rotary. Hobby: Motorbåtssport.",
+    "translated": "HJORTH, Bo Erik, Captain, Sales Manager, Kristinehamn, b. 6/8/05 to director E.H. and Clara Waldenström. Studex (high school diploma), reserve officer's exam, DHS (unknown abbreviation). Employed by Swedish General Export from 1929-1930, AB Building Supplies from 1930-1931, insurance company Gothia from 1932-1933, self-employed as a machine manufacturer from 1934-1939, sales manager at Albin Motor since 1939. Captain in the sixth reserve. Board member of Boat and Motor Supply Company since. Has traveled to England in 1925 and 1930, as well as several European countries. Member of Rotary. Hobby: Motorboat sports. Please note that the information \"\\d\\d m. partner's name\" indicates that the individual got married in the year 19xx.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Bo Erik HJORTH",
+        "birthDate": "1905-08-06",
+        "birthPlace": "Kristinehamn",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "E.H. HJORTH",
+                "jobTitle": "Director"
+            },
+            {
+                "@type": "Person",
+                "name": "Clara Waldenström"
+            }
+        ],
+        "education": [
+            {
+                "@type": "HighSchool",
+                "name": "Studex"
+            },
+            {
+                "@type": "ReserveOfficerExam"
+            },
+            {
+                "@type": "UnknownAbbreviation",
+                "name": "DHS"
+            }
+        ],
+        "occupation": [
+            {
+                "@type": "JobPosting",
+                "jobTitle": "Sales Manager",
+                "hiringOrganization": {
+                    "@type": "Organization",
+                    "name": "Kristinehamn"
+                },
+                "startDate": "1929-01-01",
+                "endDate": "1930-12-31"
+            },
+            {
+                "@type": "JobPosting",
+                "jobTitle": "Sales Manager",
+                "hiringOrganization": {
+                    "@type": "Organization",
+                    "name": "AB Building Supplies"
+                },
+                "startDate": "1930-01-01",
+                "endDate": "1931-12-31"
+            },
+            {
+                "@type": "JobPosting",
+                "jobTitle": "Sales Manager",
+                "hiringOrganization": {
+                    "@type": "Organization",
+                    "name": "Gothia"
+                },
+                "startDate": "1932-01-01",
+                "endDate": "1933-12-31"
+            },
+            {
+                "@type": "JobPosting",
+                "jobTitle": "Machine Manufacturer",
+                "hiringOrganization": {
+                    "@type": "Organization"
+                },
+                "startDate": "1934-01-01",
+                "endDate": "1939-12-31"
+            },
+            {
+                "@type": "JobPosting",
+                "jobTitle": "Sales Manager",
+                "hiringOrganization": {
+                    "@type": "Organization",
+                    "name": "Albin Motor"
+                },
+                "startDate": "1939-01-01"
+            }
+        ],
+        "knowsAbout": "Motorboat sports",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Rotary"
+            },
+            {
+                "@type": "Organization",
+                "name": "Boat and Motor Supply Company"
+            }
+        ],
+        "hasOccupationDuring": [
+            {
+                "@type": "Role",
+                "roleName": "Captain",
+                "startDate": "1939-01-01"
+            },
+            {
+                "@type": "Role",
+                "roleName": "Reserve Captain",
+                "startDate": "unknown"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Unknown",
+            "marriageDate": "19xx"
+        },
+        "hasTravels": [
+            {
+                "@type": "Trip",
+                "destination": "England",
+                "startDate": "1925-01-01"
+            },
+            {
+                "@type": "Trip",
+                "destination": "England",
+                "startDate": "1930-01-01"
+            },
+            {
+                "@type": "Trip",
+                "destination": "Europe",
+                "startDate": "unknown"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Captain",
+                "workplace": "Kristinehamn",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Sales Manager",
+                "workplace": "Kristinehamn",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Employed by Swedish General Export",
+                "workplace": "Unknown",
+                "industry": "General Export",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Employed by AB Building Supplies",
+                "workplace": "Unknown",
+                "industry": "Building Supplies",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Employed by insurance company Gothia",
+                "workplace": "Unknown",
+                "industry": "Insurance",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Self-employed as a machine manufacturer",
+                "workplace": "Unknown",
+                "industry": "Machine Manufacturing",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Sales Manager at Albin Motor",
+                "workplace": "Unknown",
+                "industry": "Motor",
+                "start_date": "1939"
+            }
+        ]
+    }
+}

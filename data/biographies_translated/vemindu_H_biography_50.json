@@ -1,0 +1,91 @@
+{
+    "original": "HALLBERG, John Eric, Disponent, Vimmerby, f Vvik 6/12 95 av fabr G V H o Ada Jansson, gm Ingeborg Andersson. Realex. Disp Vimmerby träförädl.fabr sed. 17, deläg o styr.led i detta fam.bol. Ordf lönenmdn, led stdsflm, dräts.kamm o direkt f sjukstug. Idr.m g, sällsk N N. Hobbies: Jakt, fiske.",
+    "translated": "HALLBERG, John Eric, Manager, Vimmerby, born in Vvik on December 6th, 1895, son of G V H and Ada Jansson, married Ingeborg Andersson. Completed lower secondary school. Employed at Vimmerby wood processing factory since 1917, co-owner and board member of this family company. Chairman of the salary committee, member of the benefactor film board, municipal finance committee, and director of the hospital. Engaged in sports, member of the hunting and fishing club. Hobbies: Hunting, fishing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "John Eric Hallberg",
+        "birthDate": "1895-12-06",
+        "birthPlace": "Vvik",
+        "father": {
+            "@type": "Person",
+            "name": "G. V. H."
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Ada Jansson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Ingeborg Andersson"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Realex",
+            "educationalLevel": "Lower Secondary School"
+        },
+        "occupation": {
+            "@type": "Manager",
+            "name": "Disponent"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Vimmerby wood processing factory",
+                "startDate": "1917",
+                "endDate": null,
+                "roleName": "Employee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Family Company",
+                "roleName": "Co-owner and Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Salary Committee",
+                "roleName": "Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Benefactor Film Board",
+                "roleName": "Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Municipal Finance Committee",
+                "roleName": "Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Hospital",
+                "roleName": "Director"
+            },
+            {
+                "@type": "Organization",
+                "name": "Hunting and Fishing Club",
+                "roleName": "Member"
+            }
+        ],
+        "hasOccupation": [
+            {
+                "@type": "SportsActivity",
+                "name": "Hunting"
+            },
+            {
+                "@type": "SportsActivity",
+                "name": "Fishing"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Manager",
+                "workplace": "Vimmerby wood processing factory",
+                "industry": "Wood processing",
+                "start_date": "1917"
+            }
+        ]
+    }
+}
