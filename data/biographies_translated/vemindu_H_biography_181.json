@@ -1,0 +1,93 @@
+{
+    "original": "HEDLUND, Georg Emanuel, Direktör, Hedemora, f Mora 26/3 08 av fabr A B H o Anna Maria Andersdotter, gm Sara Molin. Studex Söderm h a l, Sthlm, 27, DHS 30. Anst AB O Kraepelin Sthlm 30—33, Verkst.AB Bernh Hedlund Hmora sed. 34, dir där sed. 41, styr.led där. Medl Sv Ekon.frn.",
+    "translated": "HEDLUND, Georg Emanuel, Director, Hedemora, b. Mora on March 26, 1908, son of factory owner A B H and Anna Maria Andersdotter, m. Sara Molin. Studied at Söderm h a l, Stockholm, graduated in 1927, obtained DHS degree in 1930. Employed at AB O Kraepelin, Stockholm, from 1930 to 1933, Executive at AB Bernh Hedlund, Hedemora, since 1934, promoted to Director there in 1941, and served on the board. Member of the Swedish Economic Association since [year not specified].",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Georg Emanuel Hedlund",
+        "jobTitle": "Director",
+        "birthPlace": "Mora",
+        "birthDate": "1908-03-26",
+        "familyName": "Hedlund",
+        "givenName": "Georg Emanuel",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "A B H",
+                "jobTitle": "Factory Owner"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Maria Andersdotter"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Sara Molin"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Studex",
+                "educationalLevel": "High School",
+                "educationalRole": "Student",
+                "startDate": "1927",
+                "endDate": "1927",
+                "awardDate": "1927"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "DHS",
+                "educationalLevel": "Bachelor's",
+                "educationalRole": "Student",
+                "startDate": "1930",
+                "endDate": "1930",
+                "awardDate": "1930"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "AB O Kraepelin",
+                "jobTitle": "Employee",
+                "startDate": "1930",
+                "endDate": "1933"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Bernh Hedlund",
+                "jobTitle": "Executive",
+                "startDate": "1934",
+                "endDate": null
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Economic Association"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Chief Executive Officer",
+                "workplace": "AB Bernh Hedlund",
+                "industry": "Manufacturing",
+                "start_date": 1934
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "AB Bernh Hedlund",
+                "industry": "Manufacturing",
+                "start_date": 1941
+            },
+            {
+                "occupational_title": "Executive",
+                "workplace": "AB O Kraepelin",
+                "industry": "Manufacturing",
+                "start_date": 1930
+            }
+        ]
+    }
+}

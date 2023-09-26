@@ -1,0 +1,110 @@
+{
+    "original": "GREEN, Per Wilhelm, Direktör, Göteborg, f Gbg 25/11 99 av verkm K G o Hanna Andersson, gm Karin Boisen. Studex, hdlsinst. Privatsekr hos stadsrev Axel Ramm Gbg 19, kont.ch h Aug Werner &amp; Co Fabr &amp; HdlsAB Gbg 20—33. Eg fma Per W. Green AB Gbg, strumpor, trikå, manuf o gärd i parti, sed. 33. Resor: Norge, Danm, Tyskl, Tjeckoslov, Bfoll, Belg, Frankr, Span. Frimurare, Par Bricole, Coldinu. Hobbies: Musik, konst mm.",
+    "translated": "GREEN, Per Wilhelm, Director, Gothenburg, born in Gothenburg on November 25, 1899, to parents K G and Hanna Andersson. Married to Karin Boisen. Graduated from a trade institute. Private Secretary to city auditor Axel Ramm in Gothenburg until 1919, and then worked as a clerk at Aug Werner & Co Fabr & Trading Co in Gothenburg from 1920 to 1933. Established his own company, Per W. Green AB in Gothenburg, specializing in socks, knits, manufacturing, and wholesale since 1933. Traveled to Norway, Denmark, Germany, Czechoslovakia, Poland, Belgium, France, and Spain. Freemason, member of Par Bricole, Coldinu. Hobbies include music, art, and more.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Per Wilhelm Green",
+        "jobTitle": "Director",
+        "birthDate": "1899-11-25",
+        "birthPlace": "Gothenburg",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "K G Andersson"
+            },
+            {
+                "@type": "Person",
+                "name": "Hanna Andersson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Karin Boisen"
+        },
+        "education": "Trade institute",
+        "workExperience": [
+            {
+                "@type": "Organization",
+                "name": "City Auditor Axel Ramm",
+                "jobTitle": "Private Secretary",
+                "location": "Gothenburg",
+                "startDate": "1919"
+            },
+            {
+                "@type": "Organization",
+                "name": "Aug Werner & Co Fabr & Trading Co",
+                "jobTitle": "Clerk",
+                "location": "Gothenburg",
+                "startDate": "1920",
+                "endDate": "1933"
+            },
+            {
+                "@type": "Organization",
+                "name": "Per W. Green AB",
+                "jobTitle": "Owner",
+                "description": "Specializing in socks, knits, manufacturing, and wholesale",
+                "location": "Gothenburg",
+                "startDate": "1933"
+            }
+        ],
+        "nationality": "Swedish",
+        "memberOf": [
+            {
+                "@type": "Place",
+                "name": "Norway"
+            },
+            {
+                "@type": "Place",
+                "name": "Denmark"
+            },
+            {
+                "@type": "Place",
+                "name": "Germany"
+            },
+            {
+                "@type": "Place",
+                "name": "Czechoslovakia"
+            },
+            {
+                "@type": "Place",
+                "name": "Poland"
+            },
+            {
+                "@type": "Place",
+                "name": "Belgium"
+            },
+            {
+                "@type": "Place",
+                "name": "France"
+            },
+            {
+                "@type": "Place",
+                "name": "Spain"
+            }
+        ],
+        "hobbies": "Music, art, etc."
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Private Secretary",
+                "workplace": "City auditor Axel Ramm, Gothenburg",
+                "industry": "Public Administration",
+                "start_date": "Unknown - 1919"
+            },
+            {
+                "occupational_title": "Clerk",
+                "workplace": "Aug Werner & Co Fabr & Trading Co, Gothenburg",
+                "industry": "Manufacturing and Trading",
+                "start_date": "1920 - 1933"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Per W. Green AB, Gothenburg",
+                "industry": "Manufacturing and Wholesale",
+                "start_date": "Since 1933"
+            }
+        ]
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "original": "HILDERMAN, John Erik, Avdelningschef, Djursholm, f Sthlm 20/3 05 av tullupps.man J E H o Anna Winter, gm Karoline Aas-Pettersen. Studex, högsk.stud i matem, statistik o försäkr.matem. Anst Sv Personal-Pens.kassan (SPP) Sthlm 25, v. avd.ch f SPP:s räkneavd 41—42, avd.ch f SPP :s sekr:iat o pers.avd sed. 42. Hobbies: Naturvetensk, kultur- o litt.hist samt psykoteknik.",
+    "translated": "HILDERMAN, John Erik, Division Manager, Djursholm, b. Stockholm 20/3 05, son of customs officer J E H and Anna Winter, mar. Karoline Aas-Pettersen. Graduated, studied mathematics, statistics, and actuarial mathematics. Employed at the Swedish Personnel Pension Fund (SPP) Stockholm 25, promoted to division chief of SPP's accounting department in 1941-1942, division chief of SPP's secretary and personnel department since 1942. Hobbies: Natural sciences, cultural and literary history, and psychotechnology.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "John Erik Hilderman",
+        "birthDate": "1905-03-20",
+        "birthPlace": "Stockholm",
+        "familyName": "Hilderman",
+        "givenName": "John Erik",
+        "jobTitle": "Division Manager",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Djursholm"
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "J E H",
+                "jobTitle": "Customs Officer"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Winter"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Karoline Aas-Pettersen"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "studex",
+            "educationalLevel": [
+                "mathematics",
+                "statistics",
+                "actuarial mathematics"
+            ]
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Swedish Personnel Pension Fund (SPP)",
+            "location": {
+                "@type": "PostalAddress",
+                "addressLocality": "Stockholm"
+            },
+            "startDate": "1925"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "SPP",
+                "department": {
+                    "@type": "Organization",
+                    "name": "Accounting Department",
+                    "startDate": "1941",
+                    "endDate": "1942"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "SPP",
+                "department": {
+                    "@type": "Organization",
+                    "name": "Secretary and Personnel Department",
+                    "startDate": "1942"
+                }
+            }
+        ],
+        "hobbies": [
+            "Natural sciences",
+            "cultural and literary history",
+            "psychotechnology"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Division Manager",
+                "workplace": "Swedish Personnel Pension Fund (SPP)",
+                "industry": "Financial Services",
+                "start_date": "1942"
+            },
+            {
+                "occupational_title": "Division Chief of SPP's Accounting Department",
+                "workplace": "Swedish Personnel Pension Fund (SPP)",
+                "industry": "Financial Services",
+                "start_date": "1941"
+            },
+            {
+                "occupational_title": "Division Chief of SPP's Secretary and Personnel Department",
+                "workplace": "Swedish Personnel Pension Fund (SPP)",
+                "industry": "Financial Services",
+                "start_date": "1942"
+            }
+        ]
+    }
+}

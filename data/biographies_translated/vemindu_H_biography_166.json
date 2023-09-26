@@ -1,0 +1,111 @@
+{
+    "original": "HEDE, Mats Abraham, Direktör, Stockholm, f Sthlm 23/11 06 av dir C A H o Agnes Winqvist, gm Ingrid Linroth. Studex, civ.ing KTH. Anst AB Finspongs Metallvk 31—32. Metallfabr AB C C Sporrong &amp; Co 32, vkst dir sed. 40. Sekr Sv Tekn.frns avd f ind ek o org. Resor: Norge, Tyskl, Schweiz, Österr, Ung, Jugoslav, Ital, Frankr, Engl, USA 33— 39. Sv Lstfrn:ars Centralfrbs ftjSM. Hobby: Modellbygge.",
+    "translated": "HEDE, Mats Abraham, Director, Stockholm, b. Stockholm 23/11 06, son of Director C A H and Agnes Winqvist, m. Ingrid Linroth. Studex, civ.ing KTH. Employed at AB Finspongs Metallworks 31-32. Metallfabr AB C C Sporrong & Co 32, promoted to director since 40. Secretary of the Swedish Engineering Society's department for industrial economy and organization. Travels: Norway, Germany, Switzerland, Austria, Hungary, Yugoslavia, Italy, France, England, USA 33-39. Member of the Swedish Railway Association's model construction section. Hobby: Model building.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Mats Abraham Hede",
+        "birthDate": "1906-11-23",
+        "birthPlace": "Stockholm",
+        "father": {
+            "@type": "Person",
+            "name": "C A Hede"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Agnes Winqvist"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Ingrid Linroth"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Studex, civ.ing KTH"
+        },
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Finspongs Metallvk",
+                    "startDate": "1931-01-01",
+                    "endDate": "1932-12-31"
+                },
+                "roleName": "Employee"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Metallfabr AB C C Sporrong & Co",
+                    "startDate": "1932-01-01"
+                },
+                "roleName": "Director"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Engineering Society",
+                "department": {
+                    "@type": "Organization",
+                    "name": "Department for Industrial Economy and Organization"
+                },
+                "roleName": "Secretary"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Railway Association",
+                "department": {
+                    "@type": "Organization",
+                    "name": "Model Construction Section"
+                },
+                "roleName": "Member"
+            }
+        ],
+        "travel": [
+            "Norway",
+            "Germany",
+            "Switzerland",
+            "Austria",
+            "Hungary",
+            "Yugoslavia",
+            "Italy",
+            "France",
+            "England",
+            "USA"
+        ],
+        "hobbies": [
+            "Model building"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Stockholm",
+                "industry": "Unknown",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "AB Finspongs Metallworks",
+                "industry": "Metallurgical",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Metallfabr AB C C Sporrong & Co",
+                "industry": "Metallurgical",
+                "start_date": "1940"
+            },
+            {
+                "occupational_title": "Secretary",
+                "workplace": "Swedish Engineering Society",
+                "industry": "Engineeering",
+                "start_date": null
+            }
+        ]
+    }
+}

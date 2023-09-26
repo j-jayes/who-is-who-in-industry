@@ -1,0 +1,108 @@
+{
+    "original": "HERLENIUS, Jonas, Bergsingenjör, Råda, f Bofors 11/11 90 av kab.kamm.h A H o Alice Lilliehöök, gm Elsa Jansson. Studex, KTH. Anst Carnegie Steel Comp, Homestead USA, 15, Americ Transmarine Comp New York 16— 19, Hamilton &amp; Hansell Inc New York 19—23, Uddeholm Agencies Ltd Birmingham Engl 23 —26, Uddeholms AB Uddeh sed. 26, försäljn.ch där. Resor: Tyskl 14, USA 15—23, Engl 23— 26. Av trycket: Div art om el ugnar i Iron Age, Metallurgical &amp; Chemical Engineering mfl. Sällskapet, KAK, Sv Tekn.frn. Hobbies: Flugfiske, jakt, skidåkning.",
+    "translated": "HERLENIUS, Jonas, Mining Engineer, Råda, born Bofors 11/11 90, son of cabin chamberlain A H and Alice Lilliehöök, married to Elsa Jansson. Graduated from KTH (Royal Institute of Technology). Employed at Carnegie Steel Company, Homestead USA, 1915. Worked at Americ Transmarine Company, New York, 1916-1919, and at Hamilton & Hansell Inc, New York, 1919-1923. Joined Uddeholm Agencies Ltd, Birmingham, England, from 1923 to 1926, and has been with Uddeholms AB in Uddeh since 1926, currently working in sales. Travelled to Germany in 1914, USA from 1915 to 1923, and England from 1923 to 1926. Published various articles on electric furnaces in Iron Age, Metallurgical & Chemical Engineering, among others. Member of the Society, KAK (Royal Automobile Club), and the Swedish Technical Society. Hobbies: Fly fishing, hunting, skiing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Jonas Hellenius",
+        "jobTitle": "Mining Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Råda"
+        },
+        "birthDate": "1890-11-11",
+        "parents": [
+            {
+                "name": "A H Hellenius",
+                "jobTitle": "Cabin Chamberlain"
+            },
+            {
+                "name": "Alice Lilliehöök"
+            }
+        ],
+        "spouse": "Elsa Jansson",
+        "alumniOf": {
+            "@type": "EducationalOrganization",
+            "name": "KTH (Royal Institute of Technology)"
+        },
+        "worksFor": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1915",
+                "endDate": "Present",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Uddeholms AB"
+                },
+                "roleName": "Salesperson",
+                "worksFor": {
+                    "@type": "Organization",
+                    "name": "Uddeholm Agencies Ltd"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Sv Tekn.frn"
+            }
+        ],
+        "hasOccupation": [
+            {
+                "@type": "DefinedTerm",
+                "name": "Fly fishing"
+            },
+            {
+                "@type": "DefinedTerm",
+                "name": "Hunting"
+            },
+            {
+                "@type": "DefinedTerm",
+                "name": "Skiing"
+            }
+        ],
+        "article": {
+            "@type": "Article",
+            "name": "Electric furnaces in Iron Age",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Metallurgical & Chemical Engineering"
+            }
+        },
+        "depiction": "image-url"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Mining Engineer",
+                "workplace": "Carnegie Steel Company",
+                "industry": "Steel",
+                "start_date": "1915"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Americ Transmarine Company",
+                "industry": "Transportation",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Hamilton & Hansell Inc",
+                "industry": "Unknown",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Uddeholm Agencies Ltd",
+                "industry": "Unknown",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Uddeholms AB",
+                "industry": "Unknown",
+                "start_date": "1926"
+            }
+        ]
+    }
+}

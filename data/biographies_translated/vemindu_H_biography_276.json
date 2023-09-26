@@ -1,0 +1,132 @@
+{
+    "original": "HERMANSSON, Helge Herman Erhard, Konditor, Stockholm, f 16/9 02 av slakt H Andersson o Wilhelmina Gredberg, gm Elsa Hoppe. Skolg på landet. Springp h John Siewertz Kond Sthlm 16, hos kond Gunnar Siewertz å Östermalm Sthlm 22, övertog denna rör tills m frkn E Lundberg 25, ensam inneh sed. 37. Ag sommarst Niklasberg, Munsö, o villa Ekefors v Skurusundet. Medl Htvksfrn, Sv:es Kond.frn, Sv Kond.frn, Sv:es Kafé- &amp; Kond.frb. Hobby: Målar litet på lediga stunder.",
+    "translated": "HERMANSSON, Helge Herman Erhard, Confectioner, Stockholm, born 16/9 02 to parents H Andersson and Wilhelmina Gredberg, married to Elsa Hoppe. Schooled in the countryside. Apprentice under John Siewertz Confectioners, Stockholm 1916, worked for Gunnar Siewertz Confectioners in Östermalm, Stockholm 1922, took over this business from Miss E Lundberg in 1925, sole proprietor since 1937. Summer residence in Niklasberg, Munsö, and Ekefors villa in Skurusundet. Member of the Swedish Confectioners Association, Swedish Confectioner's Federation, and Swedish Café and Confectionery Association. Hobby: Painting in spare time.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Helge Herman Erhard Hermansson",
+        "birthDate": "1902-09-16",
+        "birthPlace": "Stockholm",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "H Andersson"
+            },
+            {
+                "@type": "Person",
+                "name": "Wilhelmina Gredberg"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Elsa Hoppe"
+        },
+        "description": "Confectioner",
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Countryside School"
+            }
+        ],
+        "apprenticeship": {
+            "@type": "Employment",
+            "startDate": "1916",
+            "endDate": "1922",
+            "employer": {
+                "@type": "Organization",
+                "name": "John Siewertz Confectioners"
+            }
+        },
+        "employmentHistory": [
+            {
+                "@type": "Employment",
+                "startDate": "1922",
+                "endDate": "1925",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Gunnar Siewertz Confectioners"
+                }
+            },
+            {
+                "@type": "Employment",
+                "startDate": "1925",
+                "endDate": "1937",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Miss E Lundberg's Business"
+                }
+            },
+            {
+                "@type": "Employment",
+                "startDate": "1937",
+                "employer": {
+                    "@type": "Person",
+                    "name": "Helge Herman Erhard Hermansson"
+                }
+            }
+        ],
+        "residence": [
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Niklasberg, Munsö"
+                },
+                "description": "Summer residence"
+            },
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Skurusundet"
+                },
+                "description": "Ekefors villa"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Confectioners Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Confectioner's Federation"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Café and Confectionery Association"
+            }
+        ],
+        "hobbies": [
+            "Painting"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Apprentice Confectioner",
+                "workplace": "John Siewertz Confectioners",
+                "industry": "Confectionery",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Confectioner",
+                "workplace": "Gunnar Siewertz Confectioners",
+                "industry": "Confectionery",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Owner, Confectionery Business",
+                "workplace": "Miss E Lundberg",
+                "industry": "Confectionery",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Sole Proprietor, Confectionery Business",
+                "workplace": "Unknown",
+                "industry": "Confectionery",
+                "start_date": "1937"
+            }
+        ]
+    }
+}

@@ -1,0 +1,125 @@
+{
+    "original": "HANSSON, Bror Henrik, Direktör, Göteborg, f Laholm 15/2 81 av handl N H o Lovisa Åberg, gm Agnes Andersson. Anst hos Gbgs köpm.frns omb i Gbg John O Friman, audit John Greiffe o rev Gust Holm i 11 år, därefter bokh Gbgs köpm.frn 07, kont.ch 08, kamr 15, dir sed. 21, förest Köpm.frns Central f Ack- o Konkursärend Gbgsavd sed. 08.",
+    "translated": "HANSSON, Bror Henrik, Director, Gothenburg, b. Laholm 15/2 1881, son of merchant N H and Lovisa Åberg, m. Agnes Andersson. Employed at Gbgs köpmannaförening's office in Gothenburg, with John O Friman as auditee for 11 years, later bookkeeper at Gbgs köpmannaförening from 1907, accounting chief from 1908, chamberlain from 1915, director since 1921, and head of the Trade Association's Central Acknowledgment and Bankruptcy Department in the Gothenburg division since 1908.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Bror Henrik Hansson",
+        "jobTitle": "Director",
+        "birthDate": "1881-02-15",
+        "birthPlace": "Laholm, Sweden",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "N H Hansson",
+                "jobTitle": "Merchant"
+            },
+            {
+                "@type": "Person",
+                "name": "Lovisa Åberg"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Agnes Andersson"
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Gbgs köpmannaförening",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Gothenburg",
+                "addressCountry": "Sweden"
+            }
+        },
+        "employeeOf": [
+            {
+                "@type": "Organization",
+                "name": "Gbgs köpmannaförening",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Gothenburg",
+                    "addressCountry": "Sweden"
+                },
+                "startDate": "1907",
+                "endDate": "1921",
+                "jobTitle": "Bookkeeper"
+            },
+            {
+                "@type": "Organization",
+                "name": "Gbgs köpmannaförening",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Gothenburg",
+                    "addressCountry": "Sweden"
+                },
+                "startDate": "1908",
+                "endDate": "1921",
+                "jobTitle": "Accounting Chief"
+            },
+            {
+                "@type": "Organization",
+                "name": "Gbgs köpmannaförening",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Gothenburg",
+                    "addressCountry": "Sweden"
+                },
+                "startDate": "1915",
+                "endDate": "1921",
+                "jobTitle": "Chamberlain"
+            },
+            {
+                "@type": "Organization",
+                "name": "Trade Association",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Gothenburg",
+                    "addressCountry": "Sweden"
+                },
+                "startDate": "1908",
+                "jobTitle": "Head of Central Acknowledgment and Bankruptcy Department"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Employed Auditor",
+                "workplace": "Gbgs köpmannaförening's office",
+                "industry": "Merchant association",
+                "start_date": "1897"
+            },
+            {
+                "occupational_title": "Bookkeeper",
+                "workplace": "Gbgs köpmannaförening",
+                "industry": "Merchant association",
+                "start_date": "1907"
+            },
+            {
+                "occupational_title": "Accounting Chief",
+                "workplace": "Gbgs köpmannaförening",
+                "industry": "Merchant association",
+                "start_date": "1908"
+            },
+            {
+                "occupational_title": "Chamberlain",
+                "workplace": "-",
+                "industry": "-",
+                "start_date": "1915"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Gbgs köpmannaförening",
+                "industry": "Merchant association",
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Head of Trade Association's Central Acknowledgment and Bankruptcy Department",
+                "workplace": "Gothenburg division",
+                "industry": "Merchant association",
+                "start_date": "1908"
+            }
+        ]
+    }
+}

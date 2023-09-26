@@ -1,0 +1,213 @@
+{
+    "original": "HEDERSTRÖM, Wilhelm Edvard Viktor, Bankdirektör, Malmö, f Lund 4/8 96 av Ivks-adj G A H o Tekla Lundberg, gm Wända Palm. Studex 14, jur kand 18. Tingstjg Ingelst o Järrestds doms 19, d:o Färs hrds doms 20—23, e not rådhusr Mmö 24—31, polisnot aktuarie o exek.not där 32, assessor där 33—39, ombm Sparb Bikupan Mmö 36, vkst dir där sed. 39. Ordf expropr.nmdr Mmöh l, ordf txgsnmd, ordf Mmö stds pens.styr, av länsstyr uts rev i Mmö stds rättshj.anst. Styr.led o v. ordf Sk Travsällsk, led av dir f Pens.inrättn f städernas i Skåne tjms änkor o barn, styr.led Hdlsklassens i Mmö und.-stödsstift mm.",
+    "translated": "HEDERSTRÖM, Wilhelm Edvard Viktor, Bank Director, Malmö, born in Lund on 4th August 1896, the son of Ivan Karl Viktor Söderström-adjunkt at G A H (Göteborgs and Bohuslän Regiment) and Tekla Lundberg, married to Wända Palm. Graduated as a student at the age of 14, obtained a law degree in 1918. Served as a court clerk in Ingelst and Järrestad municipalities in 1919, and in Färs härad municipalities from 1920 to 1923. Became a notary at the Malmö City Council from 1924 to 1931, police notary and executor from 1932, assessor from 1933 to 1939, and official representative of the Sparbank Bikupan Malmö since 1936, becoming the managing director there since 1939. Appointed as chairman of the expropriation board in Malmö city, chairman of the tax assessment board, and chairman of the Malmö City's pension committee. Also appointed by the county government to review Malmö City's legal aid institution. Served as a board member and vice chairman of the Swedish Trotting Association. Additionally, served as a board member of the Pension Institution for widows and children of the cities in Skåne, and as a board member of the Trade Class' support foundation in Malmö, among others.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Wilhelm Edvard Viktor Hederström",
+        "birthDate": "1896-08-04",
+        "birthPlace": "Lund",
+        "description": "Bank Director in Malmö, Sweden",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Ivan Karl Viktor Söderström",
+                "jobTitle": "Söderström-adjunkt (Lecturer)",
+                "affiliation": "Göteborgs and Bohuslän Regiment"
+            },
+            {
+                "@type": "Person",
+                "name": "Tekla Lundberg"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Wända Palm"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "graduation",
+                "degreeName": "Studex",
+                "educationalLevel": "SecondaryEducation",
+                "dateIssued": "1910-01-01"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "graduation",
+                "degreeName": "jur kand",
+                "educationalLevel": "BachelorDegree",
+                "dateIssued": "1918"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "Employment",
+                "jobTitle": "Court Clerk",
+                "startDate": "1919",
+                "endDate": "1923",
+                "location": [
+                    {
+                        "@type": "AdministrativeArea",
+                        "name": "Ingelst"
+                    },
+                    {
+                        "@type": "AdministrativeArea",
+                        "name": "Järrestad"
+                    },
+                    {
+                        "@type": "AdministrativeArea",
+                        "name": "Färs härad"
+                    }
+                ]
+            },
+            {
+                "@type": "Employment",
+                "jobTitle": "Notary",
+                "startDate": "1924",
+                "endDate": "1931",
+                "location": {
+                    "@type": "AdministrativeArea",
+                    "name": "Malmö City Council"
+                }
+            },
+            {
+                "@type": "Employment",
+                "jobTitle": "Police Notary",
+                "startDate": "1932",
+                "location": {
+                    "@type": "AdministrativeArea",
+                    "name": "Malmö"
+                }
+            },
+            {
+                "@type": "Employment",
+                "jobTitle": "Assessor",
+                "startDate": "1933",
+                "endDate": "1939",
+                "location": {
+                    "@type": "AdministrativeArea",
+                    "name": "Malmö"
+                }
+            },
+            {
+                "@type": "Employment",
+                "jobTitle": "Managing Director",
+                "startDate": "1939",
+                "location": {
+                    "@type": "AdministrativeArea",
+                    "name": "Malmö"
+                },
+                "hiringOrganization": {
+                    "@type": "Organization",
+                    "name": "Sparbank Bikupan Malmö"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Expropriation Board of Malmö City"
+            },
+            {
+                "@type": "Organization",
+                "name": "Tax Assessment Board"
+            },
+            {
+                "@type": "Organization",
+                "name": "Malmö City's Pension Committee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Trotting Association",
+                "jobTitle": "Vice Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Pension Institution for widows and children of the cities in Skåne",
+                "jobTitle": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Trade Class' Support Foundation in Malmö",
+                "jobTitle": "Board Member"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Bank Director",
+                "workplace": "Malmö",
+                "industry": "Banking",
+                "start_date": "1939"
+            },
+            {
+                "occupational_title": "Notary",
+                "workplace": "Malmö City Council",
+                "industry": "Government",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Police Notary and Executor",
+                "workplace": "Malmö City Council",
+                "industry": "Government",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Assessor",
+                "workplace": "Malmö",
+                "industry": "Government",
+                "start_date": "1933"
+            },
+            {
+                "occupational_title": "Official Representative",
+                "workplace": "Sparbank Bikupan Malmö",
+                "industry": "Banking",
+                "start_date": "1936"
+            },
+            {
+                "occupational_title": "Chairman of Expropriation Board",
+                "workplace": "Malmö City",
+                "industry": "Government",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Chairman of Tax Assessment Board",
+                "workplace": "Malmö City",
+                "industry": "Government",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Chairman of Pension Committee",
+                "workplace": "Malmö City",
+                "industry": "Government",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Review Board Member",
+                "workplace": "Malmö City Legal Aid Institution",
+                "industry": "Legal",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Board Member and Vice Chairman",
+                "workplace": "Swedish Trotting Association",
+                "industry": "Sports",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Pension Institution for widows and children of cities in Skåne",
+                "industry": "Government",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Trade Class' Support Foundation in Malmö",
+                "industry": "Government",
+                "start_date": null
+            }
+        ]
+    }
+}

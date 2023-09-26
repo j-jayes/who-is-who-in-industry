@@ -1,0 +1,107 @@
+{
+    "original": "HEDBORG, Karl-Erik, Generalkonsul, Bryssel, f Sthlm 12/5 89 av sjökapt O F H o Anna Liedberg, gm Petra Klason. Studex 08, KTH mek 11, kemi 13. Ass KTH kem avd 13, ing AB Fören sv tändsticksfabr Gbgfabr 14—17, ch kem avd Kalmar 17—20, STABs belg repr o vkst dir f Union Allumettiére SA sed. 20. Sv gen.konsul Bryssel sed. 28. RNO, RVO, OffBKrO, RBLeopO.",
+    "translated": "HEDBORG, Karl-Erik, Consul General, Brussels, born in Stockholm on May 12, 1889, son of sea captain O. F. H. and Anna Liedberg, married to Petra Klason. Passed the student exam in 1908, studied mechanical engineering at KTH (Royal Institute of Technology) until 1911, and chemistry until 1913. Assistant in the chemical department at KTH from 1913, engineer at AB Fören sv tändsticksfabr Gbgfabr (Swedish Matchstick Factory in Gothenburg) from 1914 to 1917, head of the chemical department in Kalmar from 1917 to 1920. Belgian representative and director of the growth department for Union Allumettiére SA since 1920. Swedish Consul General in Brussels since 1928. Received the Royal Order of the North Star (RNO), the Royal Order of Vasa (RVO), Officer of the Belgian Order of the Crown (OffBKrO), and the Belgian Order of Leopold (RBLeopO)..",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Karl-Erik Hedborg",
+        "birthDate": "1889-05-12",
+        "birthPlace": "Stockholm",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "O F H Hedborg",
+                "jobTitle": "sea captain"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Liedberg"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Petra Klason"
+        },
+        "description": "Consul General in Brussels",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Royal Order of the North Star"
+            },
+            {
+                "@type": "Organization",
+                "name": "Royal Order of Vasa"
+            },
+            {
+                "@type": "Organization",
+                "name": "Officer of the Belgian Order of the Crown"
+            },
+            {
+                "@type": "Organization",
+                "name": "Belgian Order of Leopold"
+            }
+        ],
+        "alumniOf": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "KTH",
+                "location": "Stockholm",
+                "programName": "mechanical engineering",
+                "endDate": "1911"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "KTH",
+                "location": "Stockholm",
+                "programName": "chemistry",
+                "endDate": "1913"
+            }
+        ],
+        "hasOccupation": [
+            {
+                "@type": "Occupation",
+                "name": "Assistant",
+                "startDate": "1913",
+                "endDate": "1914"
+            },
+            {
+                "@type": "Occupation",
+                "name": "Belgian representative"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Assistant at the chemical department",
+                "workplace": "KTH",
+                "industry": "Education",
+                "start_date": "1913"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "AB Fören sv tändsticksfabr Gbgfabr",
+                "industry": "Manufacturing (Matchsticks)",
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Head of chemical department",
+                "workplace": "Kalmar",
+                "industry": "Chemicals",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Belgian representative and director of growth department",
+                "workplace": "Union Allumettiére SA",
+                "industry": "Manufacturing (Matches)",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Swedish Consul General",
+                "workplace": "Brussels",
+                "industry": "Diplomacy",
+                "start_date": "1928"
+            }
+        ]
+    }
+}

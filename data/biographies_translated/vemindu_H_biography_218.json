@@ -1,0 +1,150 @@
+{
+    "original": "HELLBERG, Carl Lennart, Ingenjör, Mörarp, f Mörarp 16/6 03 av dir C H o Hilma Stenson, gm Inga Lindskog. Tekn Studex. Anst AB Carl Hellberg 24—27, Int Harvester Comp, London o Neuss am Rhein, 27—29, försäljn.ch AB Carl Hellberg Mörarp 29—37, vkst dir sed. 38, styr.led där o Luggude här sparbk. Ordf komm.nmd, hälsov.nmd, byggn.-nmd, biblioteksnmd, föreläsningsfrn, komm.flm, kyrkoflm. Resor: Engl 27, Tyskl 28. Hobbies: Mitt arbete o resor.",
+    "translated": "HELLBERG, Carl Lennart, Engineer, Mörarp, born in Mörarp on June 16, 1903, son of director C.H. and Hilma Stenson, married to Inga Lindskog. Technical student. Employed at AB Carl Hellberg from 1924 to 1927, Int Harvester Comp, London and Neuss am Rhein from 1927 to 1929, sales manager at AB Carl Hellberg Mörarp from 1929 to 1937, promoted to executive director in 1938. Served on the board of directors at AB Carl Hellberg and Luggude savings bank. Chairman of the community committee, health committee, building committee, library committee, lecture committee, municipal film committee, and church film committee. Travels: England in 1927, Germany in 1928. Hobbies: My work and traveling.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Lennart Hellberg",
+        "jobTitle": "Engineer",
+        "birthPlace": "Mörarp",
+        "birthDate": "1903-06-16",
+        "father": {
+            "@type": "Person",
+            "name": "C.H. Hellberg"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Hilma Stenson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Inga Lindskog"
+        },
+        "educationCredential": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Technical Student"
+        },
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1924",
+                "endDate": "1927",
+                "roleName": "AB Carl Hellberg",
+                "description": "Employed as engineer"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1927",
+                "endDate": "1929",
+                "roleName": "International Harvester Comp",
+                "description": "Employed as engineer in London and Neuss am Rhein"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1929",
+                "endDate": "1937",
+                "roleName": "AB Carl Hellberg Mörarp",
+                "description": "Served as sales manager"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1938",
+                "roleName": "AB Carl Hellberg Mörarp",
+                "description": "Promoted to executive director"
+            }
+        ],
+        "boardMembership": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "AB Carl Hellberg",
+                "description": "Served on the board of directors"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Luggude Savings Bank",
+                "description": "Served on the board of directors"
+            }
+        ],
+        "committeeMembership": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Community Committee",
+                "description": "Served as chairman"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Health Committee",
+                "description": "Served as chairman"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Building Committee",
+                "description": "Served as chairman"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Library Committee",
+                "description": "Served as chairman"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Lecture Committee",
+                "description": "Served as chairman"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Municipal Film Committee",
+                "description": "Served as chairman"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Church Film Committee",
+                "description": "Served as chairman"
+            }
+        ],
+        "travels": [
+            {
+                "@type": "Event",
+                "name": "England",
+                "startDate": "1927"
+            },
+            {
+                "@type": "Event",
+                "name": "Germany",
+                "startDate": "1928"
+            }
+        ],
+        "hobbies": [
+            "My work",
+            "Traveling"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "AB Carl Hellberg",
+                "industry": "Engineering",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Int Harvester Comp, London and Neuss am Rhein",
+                "workplace": "AB Carl Hellberg",
+                "industry": "Sales",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Sales Manager",
+                "workplace": "AB Carl Hellberg Mörarp",
+                "industry": "Sales",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Executive Director",
+                "workplace": "AB Carl Hellberg",
+                "industry": "Management",
+                "start_date": "1938"
+            }
+        ]
+    }
+}

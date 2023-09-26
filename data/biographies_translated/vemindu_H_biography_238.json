@@ -1,0 +1,98 @@
+{
+    "original": "HELLSTEN, Sven Erik Johannes, Civilingenjör, Malmö, f Mrnö 27/9 96 av Ivksadj J H o Paula Ekelund, gm Maja Jakobsson. Studex Mmö 15. civingex CTH (mek facksk) 20, Eidgen T H Zurich 21—22. Div anst USA 23—29, STAL Finsp 29—31, ch f Ing.frma Sven Hellsten Malmö sed. dna fma gr 31.",
+    "translated": "HELLSTEN, Sven Erik Johannes, Civil Engineer, Malmö, born in Mrnö on September 27, 1896 to Ivksadj J H and Paula Ekelund, married to Maja Jakobsson. Completed secondary education in Mmö in 1915. Obtained a civil engineering degree from CTH (Mechanical Engineering School) in 1920 and also studied at Eidgen T H Zurich from 1921 to 1922. Worked for various companies in the United States from 1923 to 1929 and at STAL in Finsp from 1929 to 1931. Became the chief engineer at Sven Hellsten Engineering Firm in Malmö, a position held since 1931.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Sven Erik Johannes Hellsten",
+        "jobTitle": "Civil Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Malmö"
+        },
+        "birthDate": "1896-09-27",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Ivksadj J H"
+            },
+            {
+                "@type": "Person",
+                "name": "Paula Ekelund"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Maja Jakobsson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "SecondaryEducation",
+                "alumniOf": "Mmö",
+                "startDate": "1915"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "EngineeringDegree",
+                "alumniOf": "CTH",
+                "degree": "Civil Engineering",
+                "startDate": "1920"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "ContinuingEducation",
+                "alumniOf": "Eidgen T H Zurich",
+                "startDate": "1921",
+                "endDate": "1922"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "United States"
+            },
+            {
+                "@type": "Organization",
+                "name": "STAL",
+                "location": "Finsp",
+                "startDate": "1929",
+                "endDate": "1931"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sven Hellsten Engineering Firm",
+                "location": "Malmö",
+                "startDate": "1931"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Malmö",
+                "industry": "",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Engineering Firm Chief Engineer",
+                "workplace": "Sven Hellsten Engineering Firm, Malmö",
+                "industry": "",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Unknown",
+                "workplace": "United States",
+                "industry": "",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "STAL Employee",
+                "workplace": "STAL, Finsp",
+                "industry": "",
+                "start_date": "1929"
+            }
+        ]
+    }
+}

@@ -1,0 +1,131 @@
+{
+    "original": "HEDBERG, Sven Anders, Civilingenjör, Stockholm, f Grängesberg, Kopparb l, 28/1 02 av dir N R H o Signe Nordlund, gm Giggi Sjöberg. Studex Lundsbergs sk 20, KTH (E) 29. Förste ass v KTH å lab f elektr mättekn samt telegrafi o telefoni 30—31, å lab f telegrafi o telefoni 32—37, å lab f radiotekn 37— 38, anst v Aga-Baltic AB, Lidingö, sed. 38. Led Sv Tekn.frn.",
+    "translated": "HEDBERG, Sven Anders, Master Engineer, Stockholm, born in Grängesberg, Kopparberg county, on January 28, 1902, son of director N.R.H. and Signe Nordlund. Married to Giggi Sjöberg. Completed the intermediate level (Studex) at Lundsbergs school in 1920, and studied at the Royal Institute of Technology (E) starting in 1929. First assistant at the laboratory for electrical measurement technology, telegraphy, and telephony from 1930 to 1931, at the laboratory for telegraphy and telephony from 1932 to 1937, and at the laboratory for radio technology from 1937 to 1938. Employed at Aga-Baltic AB, Lidingö, since 1938. Member of the Swedish Technical Association.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Sven Anders Hedberg",
+        "birthDate": "1902-01-28",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Grängesberg",
+                "addressRegion": "Kopparbergs län"
+            }
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "N. R. H."
+            },
+            {
+                "@type": "Person",
+                "name": "Signe Nordlund"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Giggi Sjöberg"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "intermediate",
+                "credentialEarned": "Studex",
+                "educationalLevel": "SecondaryEducation",
+                "educationalRole": "student",
+                "educationalSpecialty": "Lundsbergs school",
+                "endDate": "1920"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialEarned": "Master Engineer",
+                "educationalLevel": "Bachelor",
+                "educationalRole": "student",
+                "educationalSpecialty": "Royal Institute of Technology (E)",
+                "startDate": "1929"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1930",
+                "endDate": "1931",
+                "roleName": "First Assistant",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Royal Institute of Technology",
+                    "department": "laboratory for electrical measurement technology, telegraphy, and telephony"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1932",
+                "endDate": "1937",
+                "roleName": "First Assistant",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Royal Institute of Technology",
+                    "department": "laboratory for telegraphy and telephony"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1937",
+                "endDate": "1938",
+                "roleName": "First Assistant",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Royal Institute of Technology",
+                    "department": "laboratory for radio technology"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1938",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Aga-Baltic AB",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Lidingö"
+                    }
+                }
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Swedish Technical Association"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "First Assistant at the Laboratory for Electrical Measurement Technology, Telegraphy, and Telephony",
+                "workplace": "KTH",
+                "industry": "Education",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "First Assistant at the Laboratory for Telegraphy and Telephony",
+                "workplace": "KTH",
+                "industry": "Education",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "First Assistant at the Laboratory for Radio Technology",
+                "workplace": "KTH",
+                "industry": "Education",
+                "start_date": "1937"
+            },
+            {
+                "occupational_title": "Employee at Aga-Baltic AB",
+                "workplace": "Lidingö",
+                "industry": "Technology",
+                "start_date": "1938"
+            }
+        ]
+    }
+}

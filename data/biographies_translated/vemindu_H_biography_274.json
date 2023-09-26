@@ -1,0 +1,180 @@
+{
+    "original": "HERLITZ, Ivar, Tekn Dr, Västerås, f Sthlm 17/6 94 av v. hhövd K G H o Gerda Fredholm, gm Kerstin Enhörning. Studex Sthlm 12, civ.ing KTH (E) 17, tekn dr 29. Anst v ASEA i Västerås 20, v samma företag i Ludvika 23—28, åter i Västerås sed. 29 ss chef f försäljn.avd :s utredn.byrå därst. Ordf i Tekn Frn i Västerås 32—36, led av Sv Tekn.frn sed. 17, ordf i dess avd E (Sv El.ing.frn) 39—41. Resor: USA 20—22 (ss Sv-Amerika Stift:s o IVA:s stip). Av trycket: Investigations on high tension electric transmission lines (IVA:s Handl nr 52), Erzeugung von stationären Magnetfeldern in einem elektrisch leitenden Material (Ark f mat, astr o fys 19), Elektriska kraftöverföringars dynamiska stabilitet (IVA:s Handl nr 87), tidskr.upps o firmabroschyrer.",
+    "translated": "HERLITZ, Ivar, Eng.Dr., Västerås, b. Sthlm 17/6 94, son of Colonel K G H and Gerda Fredholm, m. Kerstin Enhörning. Graduated from Sthlm 12, Civil Engineering from KTH (E) in 17, Eng.Dr. in 29. Employed by ASEA in Västerås from 20, at the same company in Ludvika from 23-28, returned to Västerås in 29 as head of the sales department's research office. Chairman of Technical Society in Västerås from 32-36, member of the Swedish Technical Society since 17, chairman of its electrical engineering division (Swedish Association of Electrical Engineers) from 39-41. Travelled to the USA from 20-22 as a recipient of scholarships from the Swedish-American Foundation and the Royal Swedish Academy of Engineering Sciences. Publications include Investigations on high tension electric transmission lines (Royal Swedish Academy of Engineering Sciences Publications no. 52), Generation of stationary magnetic fields in an electrically conducting material (Archives of Mathematics, Astronomy, and Physics vol. 19), Dynamic stability of electrical power transmissions (Royal Swedish Academy of Engineering Sciences Publications no. 87), journal articles, and company brochures.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Ivar Herlitz",
+        "givenName": "Ivar",
+        "familyName": "Herlitz",
+        "birthDate": "1894-06-17",
+        "birthPlace": "Stockholm, Sweden",
+        "spouse": {
+            "@type": "Person",
+            "name": "Kerstin Enhörning"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "K G H Herlitz"
+            },
+            {
+                "@type": "Person",
+                "name": "Gerda Fredholm"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Studex",
+                "educationalLevel": "High school",
+                "alumniOf": {
+                    "@type": "CollegeOrUniversity",
+                    "name": "Stockholm"
+                },
+                "endDate": "1912"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Civil Engineering",
+                "educationalLevel": "Bachelor's degree",
+                "alumniOf": {
+                    "@type": "CollegeOrUniversity",
+                    "name": "KTH Royal Institute of Technology"
+                },
+                "endDate": "1917"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Doctorate",
+                "educationalLevel": "Engineer",
+                "alumniOf": {
+                    "@type": "CollegeOrUniversity",
+                    "name": "KTH Royal Institute of Technology"
+                },
+                "endDate": "1929"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1920",
+                "endDate": "1923",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "ASEA",
+                    "location": "Västerås, Sweden"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1923",
+                "endDate": "1928",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "ASEA",
+                    "location": "Ludvika, Sweden"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1929",
+                "roleName": "Head of Sales Department's Research Office",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "ASEA",
+                    "location": "Västerås, Sweden"
+                }
+            }
+        ],
+        "membership": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1932",
+                "endDate": "1936",
+                "roleName": "Chairman",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Technical Society",
+                    "location": "Västerås, Sweden"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1939",
+                "endDate": "1941",
+                "roleName": "Chairman",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Swedish Technical Society",
+                    "location": "Sweden"
+                },
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Electrical Engineering Division (Swedish Association of Electrical Engineers)"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1917",
+                "roleName": "Member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Swedish Technical Society",
+                    "location": "Sweden"
+                }
+            }
+        ],
+        "scholarship": [
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Investigations on high tension electric transmission lines",
+                "publisher": {
+                    "@type": "Organization",
+                    "name": "Royal Swedish Academy of Engineering Sciences",
+                    "location": "Sweden"
+                },
+                "publicationDate": "1952"
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Generation of stationary magnetic fields in an electrically conducting material",
+                "publisher": {
+                    "@type": "Organization",
+                    "name": "Archives of Mathematics, Astronomy, and Physics",
+                    "location": "Sweden"
+                },
+                "publicationDate": "1919"
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Dynamic stability of electrical power transmissions",
+                "publisher": {
+                    "@type": "Organization",
+                    "name": "Royal Swedish Academy of Engineering Sciences",
+                    "location": "Sweden"
+                },
+                "publicationDate": "1987"
+            }
+        ],
+        "nationality": "Swedish"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Tekn Dr",
+                "workplace": "ASEA",
+                "industry": "Electrical engineering",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Chief of Sales Department's Research Office",
+                "workplace": "ASEA",
+                "industry": "Electrical engineering",
+                "start_date": "1929"
+            }
+        ]
+    }
+}

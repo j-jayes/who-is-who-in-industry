@@ -1,0 +1,62 @@
+{
+    "original": "HANSON, Algot Birger, Handlande, Göteborg, f Gbg 1/2 91, gm Birgit Wettergren. Anst i fma Valerius Hansson Gbg 12—19, etabl tills m brod Erie H fma Gbgs Herr- &amp; Barn-ekipering, Bröderna Hanson, 19.",
+    "translated": "HANSON, Algot Birger, Merchant, Gothenburg, b. Gothenburg 1/2 91, m. Birgit Wettergren. Employed at Valerius Hansson Gothenburg 12-19, later established a business with brother Erie H at Gothenburg's Men's and Children's Wear, Hanson Brothers, 19..",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Algot Birger Hanson",
+        "birthDate": "1891-02-01",
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Gothenburg"
+        },
+        "spouse": [
+            {
+                "@type": "Person",
+                "name": "Birgit Wettergren"
+            }
+        ],
+        "occupation": "Merchant",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Gothenburg"
+        },
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "Valerius Hansson",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Gothenburg"
+                },
+                "startDate": "1912",
+                "endDate": "1919"
+            },
+            {
+                "@type": "Organization",
+                "name": "Hanson Brothers",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Gothenburg"
+                },
+                "startDate": "1919"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Employee",
+                "workplace": "Valerius Hansson",
+                "industry": "Unknown",
+                "start_date": "December 1912"
+            },
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Hanson Brothers",
+                "industry": "Men's and Children's Wear",
+                "start_date": "1919"
+            }
+        ]
+    }
+}

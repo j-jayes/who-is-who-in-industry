@@ -1,0 +1,101 @@
+{
+    "original": "HEDSTRÖM, Arvid, Civilingenjör, Stockholm, f Varekil 22/6 82 av handl S H o Maria Sandbeck, gin Maria Svensson (d 36). Studex Gbgs reallvk 01, ing.ex CTI 04, Eidgen Polytechnikum Zürich 06. Anst AB Diesels Motorer Sthlm 08—17, åren 15—17 försäljn.ch, AB Var jag Sthlm sed. 18, vkst dir där. Resor: De fl europ länder,",
+    "translated": "HEDSTRÖM, Arvid, Civil Engineer, Stockholm, born in Varekil on June 22, 1882, son of merchant S.H. Hedström and Maria Sandbeck, whose maiden name was Maria Svensson (deceased in 1936). Graduated from Göteborg's Real Gymnasium in 1901, obtained an engineering degree from Chalmers University of Technology in 1904, and studied at Eidgenössische Technische Hochschule in Zürich in 1906. Employed at AB Diesels Motorer in Stockholm from 1908 to 1917, working as a sales representative from 1915 to 1917. Joined AB Var jag in Stockholm in 1918, and worked as a managing director there. Made various trips to countries in Europe. Note that '\\d\\d m. partner's name' indicates that the person got married in the year 19xx.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Arvid Hedström",
+        "jobTitle": "Civil Engineer",
+        "birthDate": "1882-06-22",
+        "birthPlace": "Varekil, Sweden",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "S.H. Hedström",
+                "jobTitle": "Merchant"
+            },
+            {
+                "@type": "Person",
+                "name": "Maria Sandbeck",
+                "maidenName": "Maria Svensson",
+                "deathDate": "1936"
+            }
+        ],
+        "education": [
+            {
+                "@type": "HighSchool",
+                "name": "Göteborg's Real Gymnasium",
+                "endDate": "1901"
+            },
+            {
+                "@type": "CollegeOrUniversity",
+                "name": "Chalmers University of Technology",
+                "degree": "Engineering",
+                "endDate": "1904"
+            },
+            {
+                "@type": "CollegeOrUniversity",
+                "name": "Eidgenössische Technische Hochschule Zürich",
+                "endDate": "1906"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "AB Diesels Motorer",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm"
+                },
+                "jobTitle": "Civil Engineer",
+                "startDate": "1908",
+                "endDate": "1917"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Var jag",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm"
+                },
+                "jobTitle": "Managing Director",
+                "startDate": "1918"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Place",
+                "name": "European countries"
+            }
+        ],
+        "hasOccupation": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Managing Director",
+                "startDate": "1918"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "AB Diesels Motorer",
+                "industry": "Engineering",
+                "start_date": "1908"
+            },
+            {
+                "occupational_title": "Sales Representative",
+                "workplace": "AB Diesels Motorer",
+                "industry": "Engineering",
+                "start_date": "1915"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "AB Var jag",
+                "industry": "Unknown",
+                "start_date": "1918"
+            }
+        ]
+    }
+}

@@ -1,0 +1,159 @@
+{
+    "original": "HEDSTRÖM, Johan Ewald, Gruvkamrer, Sörvik, f Trollhättan 8/10 03 av fabr Hj H o Emilia Moss, gm Ingrid Hallin. Holmqvists hdlsinst 21. Anst Stat vattenfallsvk Trht 21— 22, NOHAB Trht 22—23, Trht Elthermiska AB 23—28, AB Zinkgruvor Falun 29—38, Gruf AB Lekomberg, Sörvik, sed. 38. Stat rev i Ludvika familjebidr.nmd, rev Ludv kyrkokassa, rev.suppl Ludv kommun. Styr.led div idr.frn Ludv o Sörvik. Resor: Tyskl 39, Norge 41, 42. Odd Fellow. Hobbies: Friluftsliv, sport.",
+    "translated": "HEDSTRÖM, Johan Ewald, Mine Accountant, Sörvik, born Trollhättan 8/10/1903, son of factory worker Hj H and Emilia Moss, married to Ingrid Hallin. Employed at Holmqvists hdlsinst 1921. Worked at Stat vattenfallsvk in Trollhättan from 1921 to 1922, NOHAB in Trollhättan from 1922 to 1923, Trht Elthermiska AB from 1923 to 1928, AB Zinkgruvor in Falun from 1929 to 1938, and Gruf AB Lekomberg, Sörvik, since 1938. Served as a state auditor in Ludvika familjebidr.nmd, auditor of Ludvika kyrkokassa, and auditor's substitute in Ludvika municipality. Board member of various sports organizations in Ludvika and Sörvik. Travelled to Germany in 1939, Norway in 1941 and 1942. Member of the Odd Fellow society. Hobbies: Outdoor activities, sports.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Johan Ewald Hedström",
+        "birthDate": "1903-10-08",
+        "birthPlace": "Trollhättan",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Hj H",
+                "jobTitle": "Factory Worker"
+            },
+            {
+                "@type": "Person",
+                "name": "Emilia Moss"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ingrid Hallin"
+        },
+        "jobTitle": "Mine Accountant",
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Holmqvists hdlsinst",
+                "startDate": "1921",
+                "endDate": "1921"
+            },
+            {
+                "@type": "Organization",
+                "name": "Stat vattenfallsvk",
+                "location": "Trollhättan",
+                "startDate": "1921",
+                "endDate": "1922"
+            },
+            {
+                "@type": "Organization",
+                "name": "NOHAB",
+                "location": "Trollhättan",
+                "startDate": "1922",
+                "endDate": "1923"
+            },
+            {
+                "@type": "Organization",
+                "name": "Trht Elthermiska AB",
+                "location": "Trollhättan",
+                "startDate": "1923",
+                "endDate": "1928"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Zinkgruvor",
+                "location": "Falun",
+                "startDate": "1929",
+                "endDate": "1938"
+            },
+            {
+                "@type": "Organization",
+                "name": "Gruf AB Lekomberg",
+                "location": "Sörvik",
+                "startDate": "1938"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Stat rev i Ludvika familjebidr.nmd"
+            },
+            {
+                "@type": "Organization",
+                "name": "Ludvika kyrkokassa"
+            },
+            {
+                "@type": "Organization",
+                "name": "Ludvika municipality",
+                "jobTitle": "Auditor's Substitute"
+            },
+            {
+                "@type": "Organization",
+                "name": "Odd Fellow"
+            },
+            {
+                "@type": "Organization",
+                "name": "Various sports organizations"
+            }
+        ],
+        "sameAs": [
+            "https://www.example.com/hedstrom-johan-ewald"
+        ],
+        "interest": [
+            "Outdoor activities",
+            "Sports"
+        ],
+        "travel": [
+            {
+                "location": "Germany",
+                "startDate": "1939"
+            },
+            {
+                "location": "Norway",
+                "startDate": "1941"
+            },
+            {
+                "location": "Norway",
+                "startDate": "1942"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Mine Accountant",
+                "workplace": "Sörvik",
+                "industry": null,
+                "start_date": null
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Holmqvists hdlsinst",
+                "industry": null,
+                "start_date": 1921
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Stat vattenfallsvk",
+                "industry": null,
+                "start_date": 1921
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "NOHAB",
+                "industry": null,
+                "start_date": 1922
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Trht Elthermiska AB",
+                "industry": null,
+                "start_date": 1923
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "AB Zinkgruvor",
+                "industry": "Falun",
+                "start_date": 1929
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Gruf AB Lekomberg",
+                "industry": "Sörvik",
+                "start_date": 1938
+            }
+        ]
+    }
+}

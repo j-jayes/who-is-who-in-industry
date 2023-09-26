@@ -1,0 +1,134 @@
+{
+    "original": "HELLMAN, Axel Georg, Järnhandlare, Trosa, f Västervåla, Västml l, 31/1 85 av kontr.prost C J H o Eva Jäderberg. V.ås h a l. Anst i Axel Hygrell &amp; Co järnaff V.ås 02—15, förest Etunaboden Gävle 15—19, but.ch AB Ettma järnhdl 19—22, förest AB Wiström &amp; Lundquist järnaff Sdsv 22—24, övert 25 Etunaboden S.tälje und namn Axel Bellmans järn- &amp; redsk.hdl, etabl fil Trosa 29, flytt hela rörelsen t Trosa 31. Led järnhandl.frn.",
+    "translated": "HELLMAN, Axel Georg, Iron Merchant, Trosa, b. Västervåla, Västml l, 31/1 1885, son of the district chaplain C J H and Eva Jäderberg. Resided in Västerås. Employed at Axel Hygrell & Co iron store in Västerås from 1902 to 1915, manager of Etunaboden in Gävle from 1915 to 1919, butcher at AB Ettma iron trade from 1919 to 1922, manager of AB Wiström & Lundquist iron store in Sundsvall from 1922 to 1924, took over Etunaboden in Södertälje from 1925 under the name Axel Bellmans iron and tool trade, established a branch in Trosa in 1929, moved the entire business to Trosa in 1931. Led the iron trade from.. (date missing).",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Axel Georg Hellman",
+        "birthDate": "1885-01-31",
+        "birthPlace": "Västervåla, Västml l",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "C J H",
+                "jobTitle": "District Chaplain"
+            },
+            {
+                "@type": "Person",
+                "name": "Eva Jäderberg"
+            }
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Trosa"
+        },
+        "employment": [
+            {
+                "@type": "Organization",
+                "name": "Axel Hygrell & Co",
+                "jobTitle": "Iron Merchant",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Västerås"
+                },
+                "startDate": "1902",
+                "endDate": "1915"
+            },
+            {
+                "@type": "Organization",
+                "name": "Etunaboden",
+                "jobTitle": "Manager",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Gävle"
+                },
+                "startDate": "1915",
+                "endDate": "1919"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Ettma",
+                "jobTitle": "Butcher",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Gävle"
+                },
+                "startDate": "1919",
+                "endDate": "1922"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Wiström & Lundquist",
+                "jobTitle": "Manager",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Sundsvall"
+                },
+                "startDate": "1922",
+                "endDate": "1924"
+            },
+            {
+                "@type": "Organization",
+                "name": "Etunaboden",
+                "jobTitle": "Owner",
+                "alternateName": "Axel Bellmans iron and tool trade",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Södertälje"
+                },
+                "startDate": "1925"
+            },
+            {
+                "@type": "Organization",
+                "name": "Axel Bellmans iron and tool trade",
+                "jobTitle": "Owner",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Trosa"
+                },
+                "startDate": "1929",
+                "endDate": "1931"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Iron Merchant",
+                "workplace": "Trosa",
+                "industry": "Iron Trade",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Etunaboden in Södertälje",
+                "industry": "Iron and Tool Trade",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "AB Wiström & Lundquist iron store in Sundsvall",
+                "industry": "Iron Trade",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Butcher",
+                "workplace": "AB Ettma iron trade",
+                "industry": "Iron Trade",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Etunaboden in Gävle",
+                "industry": "Iron Trade",
+                "start_date": "1915"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Axel Hygrell & Co iron store in Västerås",
+                "industry": "Iron Trade",
+                "start_date": "1902"
+            }
+        ]
+    }
+}

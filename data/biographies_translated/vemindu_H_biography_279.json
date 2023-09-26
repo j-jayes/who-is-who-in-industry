@@ -1,0 +1,115 @@
+{
+    "original": "HERMELIN, Bengt Olof. Friherre, Godsägare, Frinnaryd, f Råby Rekarne, Sörml l, 25/12 01 av godsäg frih M H o Märta Rääf i Småland, gm Elsa Rosenblad. Studex Sthlm 20, sjöoffex 23, kurs i värmeledn.tekn 30. Off på aktiv stat v Flottan 23—29, delt i exp :r t Medelhavet, Sydafr o europ hamnar, anst i Nord Rör AB i Sthlm 29—32, disp i AB öster-bymo Fören Industrier 33—38, ag o bebor Degela gård, Frinnaryd, m tillh gårdsind :r sed. 89. Av trycket: Div upps betr värme-ledn.tekn.",
+    "translated": "HERMELIN, Bengt Olof. Baron, Landowner, Frinnaryd, born in Råby Rekarne, Södermanland, on December 25th, 1901. Son of landowner baron M.H. Hermelin and Märta Rääf from Småland. Married to Elsa Rosenblad. Received a high school diploma in Stockholm in 1920, naval officer's exam in 1923, and completed a course in thermal conductor technology in 1930. Served in active duty for the Navy from 1923 to 1929, participated in expeditions to the Mediterranean, South Africa, and European ports. Employed at Nord Rör AB in Stockholm from 1929 to 1932, served as director in AB Österby Fören Industrier from 1933 to 1938. Currently manages and resides at Degela estate in Frinnaryd, working in the estate's industrial operations since 1989. Published various studies on thermal conductor technology.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Bengt Olof Hermelin",
+        "givenName": "Bengt Olof",
+        "familyName": "Hermelin",
+        "birthDate": "1901-12-25",
+        "birthPlace": "Råby Rekarne, Södermanland, Sweden",
+        "nationality": "Swedish",
+        "description": "Baron, Landowner",
+        "spouse": {
+            "@type": "Person",
+            "name": "Elsa Rosenblad"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "M.H. Hermelin",
+                "description": "Landowner Baron"
+            },
+            {
+                "@type": "Person",
+                "name": "Märta Rääf",
+                "description": "From Småland, Sweden"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Stockholm High School",
+                "location": "Stockholm, Sweden",
+                "startDate": "1920",
+                "endDate": "1920",
+                "description": "Received high school diploma"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Navy",
+                "startDate": "1923",
+                "endDate": "1929",
+                "description": "Served in active duty",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "The Navy",
+                    "inLanguage": "Swedish"
+                }
+            }
+        ],
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "Nord Rör AB",
+                "location": "Stockholm, Sweden",
+                "startDate": "1929",
+                "endDate": "1932",
+                "description": "Employed at Nord Rör AB in Stockholm"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Österby Fören Industrier",
+                "location": "Unknown",
+                "startDate": "1933",
+                "endDate": "1938",
+                "description": "Served as director in AB Österby Fören Industrier"
+            },
+            {
+                "@type": "Organization",
+                "name": "Degela Estate",
+                "location": "Frinnaryd, Sweden",
+                "startDate": "1989",
+                "description": "Manages and resides at Degela estate, working in the estate's industrial operations"
+            }
+        ],
+        "publication": [
+            {
+                "@type": "PublicationEvent",
+                "name": "Various studies on thermal conductor technology",
+                "location": "Unknown"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Naval Officer",
+                "workplace": "Flottan (Swedish Navy)",
+                "industry": "Military",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Nord Rör AB",
+                "industry": "Engineering",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "AB Österby Fören Industrier",
+                "industry": "Industrial",
+                "start_date": "1933"
+            },
+            {
+                "occupational_title": "Gardener",
+                "workplace": "Degela estate",
+                "industry": "Agriculture",
+                "start_date": "1989"
+            }
+        ]
+    }
+}

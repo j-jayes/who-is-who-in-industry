@@ -1,0 +1,93 @@
+{
+    "original": "HARBI, Ernst Tore Albrekt, Disponent, Nybro, f Lund 24/10 12 av köpm A H o h h Emilie, gm Margit Kristoffersson. Studex, hdlsgymn. Anst Orrefors 34—37, AB Engs-hyttan, Nybro, sed. 37. Resor: Engl 29, Tyskl 36, 38, Frankr 37, 39.",
+    "translated": "HARBI, Ernst Tore Albrekt, Manager, Nybro, born in Lund on October 24, 1912, son of merchant A.H and Emilie, married to Margit Kristoffersson. Completed high school studies, specialized in commerce. Worked at Orrefors Company from 1934 to 1937, then joined AB Engs-hyttan in Nybro, where he worked from 1937 onwards. Traveled to England in 1929, to Germany in 1936 and 1938, to France in 1937 and 1939.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Ernst Tore Albrekt Harbi",
+        "jobTitle": "Manager",
+        "birthDate": "1912-10-24",
+        "birthPlace": "Lund",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "A.H"
+            },
+            {
+                "@type": "Person",
+                "name": "Emilie"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Margit Kristoffersson"
+        },
+        "educationalCredentialAwarded": "High School Diploma",
+        "alumniOf": {
+            "@type": "HighSchool",
+            "name": "Hdlsgymn"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Orrefors Company",
+                "startDate": "1934",
+                "endDate": "1937"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Engs-hyttan",
+                "startDate": "1937"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Country",
+                "name": "England",
+                "startDate": "1929"
+            },
+            {
+                "@type": "Country",
+                "name": "Germany",
+                "startDate": "1936"
+            },
+            {
+                "@type": "Country",
+                "name": "Germany",
+                "startDate": "1938"
+            },
+            {
+                "@type": "Country",
+                "name": "France",
+                "startDate": "1937"
+            },
+            {
+                "@type": "Country",
+                "name": "France",
+                "startDate": "1939"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Manager",
+                "workplace": "Nybro",
+                "industry": "Unknown",
+                "start_date": "1937"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Orrefors Company",
+                "industry": "Glass manufacturing",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "AB Engs-hyttan",
+                "industry": "Unknown",
+                "start_date": "1937"
+            }
+        ]
+    }
+}

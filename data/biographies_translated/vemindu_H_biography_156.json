@@ -1,0 +1,133 @@
+{
+    "original": "HEDBERG, Helmer Olof Viking, Civilingenjör, Lidingö, f Linkp 1/10 86 av disp N J H o Anna Blomgren, gm Gunnvor Wislöff. Mog.ex Linkp 05, KTH 05—08, avg.ex sistn år. Rit v Sthlms Elverk 08—11, stud i USA o Canada 11—14, ing o dir f fma Gadelius &amp; Co Ltd m plac i Japan, Kina o Sverige 15—25, suppl manager h Gen Motors Nord AB 27— 29, chef f spisavd h Sv AB Gasaccumulator (AGA) sed. 29. RVO. Led Sv Tekn.frn.",
+    "translated": "HEDBERG, Helmer Olof Viking, Civil Engineer, Lidingö, b. Linköping on October 1st, 1886, son of N J H and Anna Blomgren. Married to Gunnvor Wislöff. Completed secondary education in Linköping in 1905 and attended the Royal Institute of Technology from 1905 to 1908, finishing with high grades. Worked as a draftsman at Stockholm's Electricity Works from 1908 to 1911 and studied in the United States and Canada from 1911 to 1914. Engaged in engineering and management positions at Gadelius & Co Ltd, with placements in Japan, China, and Sweden from 1915 to 1925. Served as a deputy manager at General Motors Nord AB from 1927 to 1929, and became the head of the stove department at Swedish AB Gasaccumulator (AGA) since 1929. Awarded with the Royal Swedish Order of Vasa (RVO). Member of the Swedish Engineering Association.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Helmer Olof Viking Hedberg",
+        "jobTitle": "Civil Engineer",
+        "birthPlace": "Linköping",
+        "birthDate": "1886-10-01",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "N J H Hedberg"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Blomgren"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Gunnvor Wislöff"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "SecondaryEducation",
+                "alumniOf": "Linköping",
+                "endDate": "1905"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "CollegeOrUniversity",
+                "alumniOf": "Royal Institute of Technology",
+                "startDate": "1905",
+                "endDate": "1908"
+            }
+        ],
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1908",
+                "endDate": "1911",
+                "roleName": "Draftsman",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Stockholm's Electricity Works"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1911",
+                "endDate": "1914",
+                "roleName": "Student",
+                "organization": {
+                    "@type": "CollegeOrUniversity",
+                    "name": "United States and Canada"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1915",
+                "endDate": "1925",
+                "roleName": "Engineer and Director",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Gadelius & Co Ltd",
+                    "location": [
+                        "Japan",
+                        "China",
+                        "Sweden"
+                    ]
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1927",
+                "endDate": "1929",
+                "roleName": "Deputy Manager",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "General Motors Nord AB"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1929",
+                "roleName": "Head of Stove Department",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Swedish AB Gasaccumulator (AGA)"
+                }
+            }
+        ],
+        "awards": {
+            "@type": "Order",
+            "name": "Royal Swedish Order of Vasa"
+        },
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Swedish Engineering Association"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Draftsman",
+                "workplace": "Stockholm's Electricity Works",
+                "industry": "Electricity",
+                "start_date": "1908"
+            },
+            {
+                "occupational_title": "Engineer and Manager",
+                "workplace": "Gadelius & Co Ltd",
+                "industry": "Engineering",
+                "start_date": "1915"
+            },
+            {
+                "occupational_title": "Deputy Manager",
+                "workplace": "General Motors Nord AB",
+                "industry": "Automotive",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Head of Stove Department",
+                "workplace": "Swedish AB Gasaccumulator (AGA)",
+                "industry": "Gas",
+                "start_date": "1929"
+            }
+        ]
+    }
+}

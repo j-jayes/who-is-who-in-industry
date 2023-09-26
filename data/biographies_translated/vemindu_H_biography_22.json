@@ -1,0 +1,87 @@
+{
+    "original": "HAGLUND, Gustaf Hugo Rudolf, Grosshandlare, Kumla, f St Kil, Värml län, 25/3 99 av stationskarlsförm A H o Ingeborg Lilja, gm Ruth Nilsson. Hdlsbitr 14—22, lanthdl i Fens-bol 23—25, deläg Ekman, Haglund &amp; Co, Kumla, sed. 25.",
+    "translated": "HAGLUND, Gustaf Hugo Rudolf, Wholesaler, Kumla, born in St Kil, Värmland county, on March 25, 1899, to station worker A H and Ingeborg Lilja. Married to Ruth Nilsson. Worked as a sales assistant from 1914 to 1922, ran a grocery store in Fensbol from 1923 to 1925, and later became a partner in Ekman, Haglund & Co in Kumla starting from 1925.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Gustaf Hugo Rudolf Haglund",
+        "jobTitle": "Wholesaler",
+        "birthDate": "1899-03-25",
+        "birthPlace": {
+            "@type": "City",
+            "name": "St Kil"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Kumla"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "A H",
+                "jobTitle": "Station Worker"
+            },
+            {
+                "@type": "Person",
+                "name": "Ingeborg Lilja"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ruth Nilsson"
+        },
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "Ekman, Haglund & Co",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Kumla"
+                },
+                "startDate": "1925"
+            }
+        ],
+        "occupation": [
+            {
+                "@type": "JobPosting",
+                "title": "Sales Assistant",
+                "startDate": "1914",
+                "endDate": "1922"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Fensbol Grocery Store",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Fensbol"
+                },
+                "startDate": "1923",
+                "endDate": "1925"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Sales Assistant",
+                "workplace": "Unknown",
+                "industry": "Retail",
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Grocery Store Owner",
+                "workplace": "Fensbol",
+                "industry": "Retail",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Wholesaler",
+                "workplace": "Ekman, Haglund & Co",
+                "industry": "Wholesale",
+                "start_date": "1925"
+            }
+        ]
+    }
+}

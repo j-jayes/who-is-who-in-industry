@@ -1,0 +1,337 @@
+{
+    "original": "HEMMAR, Axel, Advokat, Norrköping, f Sthlm 15/2 01 av sjökapt P O K o Ida Svanbom, gm Maria Swedin. Studex, jur kand. 2. not Ångerml mell doms 25—26, 1. d:o 26— 27, v. aud V.norrl reg o Norrl trängkår 26—27, bitr jur h adv W Klein i Hbg 27, d:o å Ögl jur byrå Nrkp 28—30, deläg där 30—35, start eg advbyrå i Nrkp 35. Ag fastigh i Krokek o Ringarum, Ögl län. Led dräts.kamm. Styr.ordf Jordbr.bkns avd.kont, AB Sv Ull, Nrkps centr vedorgan AB, Norsholms sågv.AB, styr.led AB Manus, fastigh.AB Centralpalatset, AB Ensjöns villatomter, Sv makaronifabr förs.AB mfl, sekr o omb.man i fi AB, styr.led Sv Adv.-samf o Adv.samf ö :a avd, skattm Nrkps segelsällskap. Resor: Danm, Tyskl, Holl, Engl, Frankr, Span 18—20, Tyskl 36, Finl 37, Engl 39.",
+    "translated": "HEMMAR, Axel, Lawyer, Norrköping, born in Stockholm on 15/2 01, son of Captain P O K and Ida Svanbom, married to Maria Swedin. Studied law, received a law degree. Second notary in the Ångerml District Court from 1925 to 1926, first notary from 1926 to 1927, auxiliary auditor in the Northern Regional Registry and Northern Transport Corps from 1926 to 1927, assistant to lawyer W Klein in Hbg in 1927, the same in the Ögl Law Office in Norrköping from 1928 to 1930, part owner there from 1930 to 1935, started own law firm in Norrköping in 1935. Owns properties in Krokek and Ringarum in the Ögl County. Member of the City Council. Chairman of the Board for the Agriculture Bank Department, AB Swedish Wool, Norrköping Central Firewood Organization AB, Norsholm Sawmill AB, board member of AB Manus, Central Palace Real Estate AB, Ensjön Villa Plots AB, Swedish Macaroni Factory Insurance AB, and others. Secretary and representative for a financial company, board member of the Swedish Lawyers' Association and the Association's first division, treasurer of the Norrköping Sailing Club. Travelled to Denmark, Germany, the Netherlands, England, France, and Spain from 1918 to 1920, Germany in 1936, Finland in 1937, and England in 1939.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Axel Hemmar",
+        "birthDate": "1901-02-15",
+        "birthPlace": "Stockholm",
+        "occupation": "Lawyer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Norrköping"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "P O K",
+                "occupation": "Sea Captain"
+            },
+            {
+                "@type": "Person",
+                "name": "Ida Svanbom"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Maria Swedin"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Studex"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "jur kand"
+            }
+        ],
+        "workExperience": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Second Notary",
+                "startDate": "1925",
+                "endDate": "1926",
+                "baseSalary": {
+                    "@type": "MonetaryAmount"
+                },
+                "namedPosition": {
+                    "@type": "DistrictCourt",
+                    "name": "Ångerml District Court"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "First Notary",
+                "startDate": "1926",
+                "endDate": "1927",
+                "baseSalary": {
+                    "@type": "MonetaryAmount"
+                },
+                "namedPosition": {
+                    "@type": "DistrictCourt",
+                    "name": "Ångerml District Court"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Auxiliary Auditor",
+                "startDate": "1926",
+                "endDate": "1927",
+                "namedPosition": [
+                    {
+                        "@type": "OrganizationRole",
+                        "roleName": "Auditor",
+                        "organization": {
+                            "@type": "Organization",
+                            "name": "Northern Regional Registry"
+                        }
+                    },
+                    {
+                        "@type": "OrganizationRole",
+                        "roleName": "Auditor",
+                        "organization": {
+                            "@type": "Organization",
+                            "name": "Northern Transport Corps"
+                        }
+                    }
+                ]
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Assistant Lawyer",
+                "startDate": "1927",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "W Klein"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Assistant Lawyer",
+                "startDate": "1928",
+                "endDate": "1930",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Ögl Law Office"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Part Owner",
+                "startDate": "1930",
+                "endDate": "1935",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Ögl Law Office"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Founder",
+                "startDate": "1935",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Own Law Firm"
+                }
+            }
+        ],
+        "owns": [
+            {
+                "@type": "OwnershipInfo",
+                "ownedFrom": "Krokek",
+                "ownershipType": "property"
+            },
+            {
+                "@type": "OwnershipInfo",
+                "ownedFrom": "Ringarum",
+                "ownershipType": "property"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "CivicStructure",
+                "name": "City Council"
+            },
+            {
+                "@type": "BoardingPolicyType",
+                "name": "Chairman",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Agriculture Bank Department"
+                }
+            },
+            {
+                "@type": "BoardingPolicyType",
+                "name": "Chairman",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Swedish Wool"
+                }
+            },
+            {
+                "@type": "BoardingPolicyType",
+                "name": "Chairman",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Norrköping Central Firewood Organization AB"
+                }
+            },
+            {
+                "@type": "BoardingPolicyType",
+                "name": "Chairman",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Norsholm Sawmill AB"
+                }
+            },
+            {
+                "@type": "BoardingPolicyType",
+                "name": "Board Member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Manus"
+                }
+            },
+            {
+                "@type": "BoardingPolicyType",
+                "name": "Board Member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Central Palace Real Estate AB"
+                }
+            },
+            {
+                "@type": "BoardingPolicyType",
+                "name": "Board Member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Ensjön Villa Plots AB"
+                }
+            },
+            {
+                "@type": "BoardingPolicyType",
+                "name": "Board Member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Swedish Macaroni Factory Insurance AB"
+                }
+            }
+        ],
+        "additionalProperty": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Secretary and Representative",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Financial Company"
+                }
+            },
+            {
+                "@type": "BoardingPolicyType",
+                "name": "Board Member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Swedish Lawyers' Association"
+                }
+            },
+            {
+                "@type": "BoardingPolicyType",
+                "name": "Board Member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Association's First Division"
+                }
+            },
+            {
+                "@type": "BoardingPolicyType",
+                "name": "Treasurer",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Norrköping Sailing Club"
+                }
+            }
+        ],
+        "travel": [
+            {
+                "@type": "Country",
+                "name": "Denmark"
+            },
+            {
+                "@type": "Country",
+                "name": "Germany"
+            },
+            {
+                "@type": "Country",
+                "name": "Netherlands"
+            },
+            {
+                "@type": "Country",
+                "name": "England"
+            },
+            {
+                "@type": "Country",
+                "name": "France"
+            },
+            {
+                "@type": "Country",
+                "name": "Spain"
+            },
+            {
+                "@type": "Country",
+                "name": "Germany"
+            },
+            {
+                "@type": "Country",
+                "name": "Finland"
+            },
+            {
+                "@type": "Country",
+                "name": "England"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Advocate",
+                "workplace": "Norrköping",
+                "industry": "Law",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Second Notary",
+                "workplace": "Ångerml District Court",
+                "industry": "Law",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "First Notary",
+                "workplace": "Ångerml District Court",
+                "industry": "Law",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Auxiliary Auditor",
+                "workplace": "Northern Regional Registry",
+                "industry": "Law",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Auxiliary Auditor",
+                "workplace": "Northern Transport Corps",
+                "industry": "Law",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Assistant to Lawyer",
+                "workplace": "W Klein, Hbg",
+                "industry": "Law",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Assistant to Lawyer",
+                "workplace": "Ögl Law Office, Norrköping",
+                "industry": "Law",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "Norrköping",
+                "industry": "Law",
+                "start_date": "1930"
+            }
+        ]
+    }
+}

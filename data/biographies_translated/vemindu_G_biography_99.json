@@ -1,0 +1,69 @@
+{
+    "original": "GRIEP, Oskar Emanuel, Civilingenjör, Oskarshamn, f Risinge, Ögl l, 12/3 00 av folkskoll K E Andersson o Ida Grip, gm Signe Bäckström. Örebro tekn gymn 23, KTH 27. Ing Sv Ackumulator AB Jungner sed. 33. Resor: Olika länd på kontin.",
+    "translated": "GRIEP, Oskar Emanuel, Civil Engineer, Oskarshamn, b. Risinge, Gotland, on March 12th, 1900, son of Elementary School Teacher K E Andersson and Ida Grip, married to Signe Bäckström. Graduated from Örebro Technical Gymnasium in 1923, and from the Royal Institute of Technology (KTH) in 1927. Engineer at Swedish Accumulator AB Jungner from 1933. Traveled to various countries on the continent.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Oskar Emanuel Griep",
+        "birthDate": "1900-03-12",
+        "birthPlace": "Risinge, Gotland",
+        "nationality": "Swedish",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "K E Andersson",
+                "jobTitle": "Elementary School Teacher"
+            },
+            {
+                "@type": "Person",
+                "name": "Ida Grip"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Signe Bäckström"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Örebro Technical Gymnasium",
+                "startDate": "1923",
+                "endDate": ""
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Royal Institute of Technology (KTH)",
+                "startDate": "1927",
+                "endDate": ""
+            }
+        ],
+        "occupation": [
+            {
+                "@type": "MonetaryAmount",
+                "currency": "SEK",
+                "value": "Civil Engineer"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Accumulator AB Jungner",
+                "startDate": "1933",
+                "endDate": ""
+            }
+        ],
+        "memberOf": {
+            "@type": "Country",
+            "name": "Sweden"
+        },
+        "description": "Oskar Emanuel Griep was a Swedish Civil Engineer born on March 12th, 1900 in Risinge, Gotland. He was the son of K E Andersson, an Elementary School Teacher, and Ida Grip. Oskar was married to Signe Bäckström. He completed his education at Örebro Technical Gymnasium in 1923 and the Royal Institute of Technology (KTH) in 1927. Oskar worked as a Civil Engineer at Swedish Accumulator AB Jungner starting from 1933. He had the opportunity to travel to various countries in Europe."
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Swedish Accumulator AB Jungner",
+                "industry": "Engineering",
+                "start_date": "1933"
+            }
+        ]
+    }
+}

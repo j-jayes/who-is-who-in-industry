@@ -1,0 +1,129 @@
+{
+    "original": "HECTOR, Carl Josef, Direktör, Göteborg, f Carlsberg, Lerum, 14/11 92 av C A H o Emma Olsson, gm Inga Ohlsson. Hdlssk, språkl självstud. Volont Kemik.fma Edvard Hector Eslöv 09—15, repres f Fredrik Palmers kemik.fma 16—21. Gr eg fma, Hectors Essence- &amp; Extraktfabr, essenser, droger o kemik, Gbg, 21, inneh dna. Resor: Danm, Tyskl, Finl 21, Danm, Norge Tyskl 35, Danm, Tyskl, Belg, Holl, Frankr 38. Hobbies: Sport, fiske, blomsterodling.",
+    "translated": "HECTOR, Carl Josef, Director, Gothenburg, born in Carlsberg, Lerum, on 14/11 92 to C A H and Emma Olsson, married to Inga Ohlsson. Handicapped, self-study of languages. Voluntary Chemist Assistant at Edvard Hector in Eslöv from 09 to 15, representative of Fredrik Palmers Chemist from 16 to 21. Great employee at Hector's Essence & Extract Factory, essences, drugs and chemicals in Gothenburg since 1921. Travelled to Denmark, Germany, and Finland in 1921, Denmark, Norway, and Germany in 1935, and Denmark, Germany, Belgium, Holland, and France in 1938. Hobbies include sports, fishing, and flower gardening.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Josef HECTOR",
+        "jobTitle": "Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Gothenburg"
+        },
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Carlsberg",
+                "addressRegion": "Lerum"
+            }
+        },
+        "birthDate": "1892-11-14",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "C A H"
+            },
+            {
+                "@type": "Person",
+                "name": "Emma Olsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Inga Ohlsson"
+        },
+        "disability": "Handicapped",
+        "educationalCredentialAwarded": "Self-study of languages",
+        "workExperience": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1909",
+                "endDate": "1915",
+                "roleName": "Voluntary Chemist Assistant",
+                "description": "Edvard Hector, Eslöv"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1916",
+                "endDate": "1921",
+                "roleName": "Representative",
+                "description": "Fredrik Palmers Chemist"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1921",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Hector's Essence & Extract Factory",
+                    "description": "Essences, drugs and chemicals in Gothenburg"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Hector's Essence & Extract Factory"
+            }
+        ],
+        "hobbies": [
+            "Sports",
+            "Fishing",
+            "Flower gardening"
+        ],
+        "travelHistory": [
+            {
+                "startDate": "1921",
+                "endDate": "1921",
+                "countriesVisited": [
+                    "Denmark",
+                    "Germany",
+                    "Finland"
+                ]
+            },
+            {
+                "startDate": "1935",
+                "endDate": "1935",
+                "countriesVisited": [
+                    "Denmark",
+                    "Norway",
+                    "Germany"
+                ]
+            },
+            {
+                "startDate": "1938",
+                "endDate": "1938",
+                "countriesVisited": [
+                    "Denmark",
+                    "Germany",
+                    "Belgium",
+                    "Holland",
+                    "France"
+                ]
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Voluntary Chemist Assistant",
+                "workplace": "Edvard Hector",
+                "industry": "Chemist",
+                "start_date": "1909"
+            },
+            {
+                "occupational_title": "Representative",
+                "workplace": "Fredrik Palmers Chemist",
+                "industry": "Chemist",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Hector's Essence & Extract Factory",
+                "industry": "Essences, Drugs, and Chemicals",
+                "start_date": "1921"
+            }
+        ]
+    }
+}

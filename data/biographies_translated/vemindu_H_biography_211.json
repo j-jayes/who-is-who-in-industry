@@ -1,0 +1,87 @@
+{
+    "original": "HELGESON, Olof Eric, Bryggmästare, Mariestad, f Motala 14/9 90 av disp H Jonsson o Cecilia Struwe, gm Elsie Trané. Mta samsk, Prakt v bryggerier i Munchen 24, i Munchen 25—26, dipl Lehr u Versuchanst f Brauer där. Anst Mta brygg 12—16, Zenks brygg Örebro 17—38, Mstads brygg AB sed. 39. Resor: Tyskl, Österr, Ital 24—26. Hobbies: Bil- o cykelsport.",
+    "translated": "HELGESON, Olof Eric, Master Brewer, Mariestad, born in Motala on September 14, 1890, son of dispenser H Jonsson and Cecilia Struwe, married to Elsie Trané. Graduated from a joint school, practical experience in breweries in Munich in 1924, in Munich from 1925 to 1926, with a diploma from the Teaching and Research Institute for Brewers there. Employed at Mota Brewery from 1912 to 1916, Zenk's Brewery in Örebro from 1917 to 1938, and at Mälstads Brewery AB since 1939. Traveled to Germany, Austria, and Italy from 1924 to 1926. Hobbies include car and bicycle sports.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Olof Eric Helgeson",
+        "jobTitle": "Master Brewer",
+        "birthDate": "1890-09-14",
+        "birthPlace": "Motala, Sweden",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "H Jonsson"
+            },
+            {
+                "@type": "Person",
+                "name": "Cecilia Struwe"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Elsie Trané"
+        },
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Mälstads Brewery AB",
+            "startDate": "1939-01-01"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Diploma",
+            "credentialOffered": {
+                "@type": "EducationalOccupationalProgram",
+                "name": "Teaching and Research Institute for Brewers"
+            }
+        },
+        "workExperience": [
+            {
+                "@type": "Organization",
+                "name": "Mota Brewery",
+                "startDate": "1912-01-01",
+                "endDate": "1916-12-31"
+            },
+            {
+                "@type": "Organization",
+                "name": "Zenk's Brewery",
+                "location": "Örebro, Sweden",
+                "startDate": "1917-01-01",
+                "endDate": "1938-12-31"
+            },
+            {
+                "@type": "Organization",
+                "name": "Mälstads Brewery AB",
+                "startDate": "1939-01-01"
+            }
+        ],
+        "hasOccupation": {
+            "@type": "Occupation",
+            "name": "Master Brewer"
+        },
+        "hobbies": "Car and bicycle sports",
+        "knowsAbout": "Swedish family history"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Master Brewer",
+                "workplace": "Mota Brewery",
+                "industry": "Brewery",
+                "start_date": "1912"
+            },
+            {
+                "occupational_title": "Master Brewer",
+                "workplace": "Zenk's Brewery",
+                "industry": "Brewery",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Master Brewer",
+                "workplace": "Mälstads Brewery AB",
+                "industry": "Brewery",
+                "start_date": "1939"
+            }
+        ]
+    }
+}

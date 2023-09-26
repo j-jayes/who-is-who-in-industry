@@ -1,0 +1,205 @@
+{
+    "original": "HENRIKSSON, Nils Torsten, Direktör, Ängby, f Sandviken 9/9 03 av köpm G H o Hilma Andréasson, gm Elsa Ångman. Studex Gävle 23, DHS 26. Anst AB Hakon Swenson, V.ås, 26—29, kontorschef Gävlefil 29—31, vkst dir Frn merk upplysning 31—i4, vkst dir i Sjö-assuradörernas Frn fr 44. 2:a kamm sed. 36, suppl bkutsk 37—40, d:o 2. särsk utsk v. urt riksd 39, suppl bev.utsk sed. 41, led 38 års tob.hdlsutr. Sekr Sthlms livsm.hdl.frb sed. 41, ordf Sthlms kaféidk.frn sed. 42, styr.led ol.förs.bol Mercur, Sthlmshögerns frb. Resor: Frankr 35, Tyskl 35, 36. Av trycket: Några ekon synp på konsumentkoop 35, Den priv detaljhandelns kostn.probl 38.",
+    "translated": "HENRIKSSON, Nils Torsten, Director, Ängby, born in Sandviken on September 9th, 1903, son of merchant G H and Hilma Andréasson, married to Elsa Ångman. Graduated from Gävle in 1923, Diploma in Higher Studies (DHS) in 1926. Employed at AB Hakon Swenson, Västerås, from 1926 to 1929, office manager at Gävle Branch from 1929 to 1931, executive director at Från merk upplysning from 1931 to 1944, executive director at Sjö-assuradörernas Från from 1944. Member of Parliament (2nd chamber) since 1936, substitute member of the budget committee from 1937 to 1940, substitute member of the 2nd special committee of the extraordinary parliament in 1939, substitute member of the budget committee since 1941, member of the 1938 tobacco trade union meeting. Secretary of the Stockholm Livestock Market Association since 1941, chairman of the Stockholm Café Trade Association since 1942, board member of the insurance company Mercur, Stockholm Right-Wing Association. Travels: France in 1935, Germany in 1935 and 1936. Published works: Några ekon synp på konsumentkoop in 1935, Den priv detaljhandelns kostn.probl in 1938.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Nils Torsten Henriksson",
+        "birthDate": "1903-09-09",
+        "birthPlace": "Sandviken, Sweden",
+        "father": {
+            "@type": "Person",
+            "name": "G H Henriksson",
+            "occupation": "Merchant"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Hilma Andréasson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Elsa Ångman"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "secondary",
+                "educationalLevel": "HighSchool",
+                "awardDate": "1923",
+                "educationalOrganization": {
+                    "@type": "EducationalOrganization",
+                    "name": "Gävle"
+                }
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "diploma",
+                "educationalLevel": "HigherStudies",
+                "awardDate": "1926"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "AB Hakon Swenson",
+                "employmentStartDate": "1926",
+                "employmentEndDate": "1929",
+                "jobTitle": "Employee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Gävle Branch",
+                "employmentStartDate": "1929",
+                "employmentEndDate": "1931",
+                "jobTitle": "Office Manager"
+            },
+            {
+                "@type": "Organization",
+                "name": "Från merk upplysning",
+                "employmentStartDate": "1931",
+                "employmentEndDate": "1944",
+                "jobTitle": "Executive Director"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sjö-assuradörernas Från",
+                "employmentStartDate": "1944",
+                "jobTitle": "Executive Director"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "OrganizationRole",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Parliament",
+                    "memberOf": {
+                        "@type": "Organization",
+                        "name": "2nd Chamber"
+                    }
+                },
+                "startDate": "1936",
+                "roleName": "Member of Parliament"
+            }
+        ],
+        "committeeMemberships": [
+            {
+                "@type": "OrganizationRole",
+                "committee": {
+                    "@type": "Organization",
+                    "name": "Budget Committee",
+                    "memberOf": {
+                        "@type": "Organization",
+                        "name": "Parliament"
+                    }
+                },
+                "startDate": "1937",
+                "endDate": "1940",
+                "roleName": "Substitute Member"
+            },
+            {
+                "@type": "OrganizationRole",
+                "committee": {
+                    "@type": "Organization",
+                    "name": "2nd Special Committee of the Extraordinary Parliament"
+                },
+                "startDate": "1939",
+                "roleName": "Substitute Member"
+            },
+            {
+                "@type": "OrganizationRole",
+                "committee": {
+                    "@type": "Organization",
+                    "name": "Budget Committee",
+                    "memberOf": {
+                        "@type": "Organization",
+                        "name": "Parliament"
+                    }
+                },
+                "startDate": "1941",
+                "roleName": "Substitute Member"
+            }
+        ],
+        "businessAffiliations": [
+            {
+                "@type": "Organization",
+                "name": "Stockholm Livestock Market Association",
+                "roleName": "Secretary",
+                "startDate": "1941"
+            },
+            {
+                "@type": "Organization",
+                "name": "Stockholm Café Trade Association",
+                "roleName": "Chairman",
+                "startDate": "1942"
+            },
+            {
+                "@type": "Organization",
+                "name": "Mercur (Insurance Company)"
+            },
+            {
+                "@type": "Organization",
+                "name": "Stockholm Right-Wing Association"
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "TravelAgency",
+                "name": "France",
+                "travelStartDate": "1935"
+            },
+            {
+                "@type": "TravelAgency",
+                "name": "Germany",
+                "travelStartDate": "1935"
+            },
+            {
+                "@type": "TravelAgency",
+                "name": "Germany",
+                "travelStartDate": "1936"
+            }
+        ],
+        "publications": [
+            {
+                "@type": "PublicationEvent",
+                "publicationType": "Article",
+                "name": "Några ekon synp på konsumentkoop",
+                "startDate": "1935"
+            },
+            {
+                "@type": "PublicationEvent",
+                "publicationType": "Article",
+                "name": "Den priv detaljhandelns kostn.probl",
+                "startDate": "1938"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "AB Hakon Swenson",
+                "industry": "Unknown",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Office Manager",
+                "workplace": "Gävle Branch",
+                "industry": "Unknown",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Executive Director",
+                "workplace": "Från merk upplysning",
+                "industry": "Unknown",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Executive Director",
+                "workplace": "Sjö-assuradörernas Från",
+                "industry": "Unknown",
+                "start_date": "1944"
+            }
+        ]
+    }
+}

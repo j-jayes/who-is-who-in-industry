@@ -1,0 +1,113 @@
+{
+    "original": "HEDLUND, Eric Natanael, Direktör, Malmö, f Gbg 9/6 91 av handl S O H o Kristina Nilsson, gm Emy Almgren. Ensk gymn, prakt hdlsutbildn. Ink.ch AB Gbgs Matserveringar 19, intend o ink.ch Gbgs Rest AB (sederm Västsv:es Allm Rest AB) 21, vkst dir Skånes Allm Rest AB, Malmö, sed. 42.",
+    "translated": "HEDLUND, Eric Natanael, Director, Malmö, b. Gothenburg 9/6 1891, son of merchant S O H and Kristina Nilsson, married to Emy Almgren. Completed primary school and practical business education. Became an employee and later director of AB Gothenburg Food Services in 1919, then worked as an assistant and later director of Gothenburg Restaurant AB (later Western Sweden Public Restaurants AB) from 1921. Became the director of Skåne's Public Restaurants AB in Malmö in 1942.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Eric Natanael Hedlund",
+        "birthDate": "1891-06-09",
+        "birthPlace": "Gothenburg, Sweden",
+        "deathDate": null,
+        "nationality": "Swedish",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "S O H",
+                "gender": "male",
+                "jobTitle": "Merchant"
+            },
+            {
+                "@type": "Person",
+                "name": "Kristina Nilsson",
+                "gender": "female",
+                "jobTitle": null
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Emy Almgren",
+            "gender": "female",
+            "birthDate": null,
+            "birthPlace": null,
+            "deathDate": null,
+            "nationality": null,
+            "jobTitle": null
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "educationLevel": "PrimarySchool",
+            "credentialCategory": "Diploma",
+            "provider": null
+        },
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Gothenburg Food Services"
+                },
+                "startDate": "1919",
+                "endDate": null,
+                "jobTitle": "Employee"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Gothenburg Restaurant AB"
+                },
+                "startDate": "1921",
+                "endDate": null,
+                "jobTitle": "Assistant"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Western Sweden Public Restaurants AB"
+                },
+                "startDate": "1921",
+                "endDate": null,
+                "jobTitle": "Director"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Skåne's Public Restaurants AB"
+                },
+                "startDate": "1942",
+                "endDate": null,
+                "jobTitle": "Director"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Employee",
+                "workplace": "AB Gothenburg Food Services",
+                "industry": "Food services",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Assistant",
+                "workplace": "Gothenburg Restaurant AB",
+                "industry": "Food services",
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Gothenburg Restaurant AB (later Western Sweden Public Restaurants AB)",
+                "industry": "Food services",
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Skåne's Public Restaurants AB",
+                "industry": "Food services",
+                "start_date": "1942"
+            }
+        ]
+    }
+}

@@ -1,0 +1,188 @@
+{
+    "original": "HANSON, Hans Lennart, Direktör, Djursholm, f Grangärde 8/12 86 av köpm o jordbr H E H o Mathilda Lindbom, gm Ester Cederberg. Studex 04, avg.ex fr Schartaus hdlsinst Sthlm 05, språkst utomlands 07—08. Tjm Gbgs bk Sthlm 05—07, 08—14, kamr Sundsv hdlsbk Sthlm -14—17, d:o Upl ensk bk Sthlm 17—18, kassadir där 18—30, vkst dir Ränte-o kapit.försäkr.anst Sthlm (gr 1850) sed. 30. Ag fastigh Stenbocksvägen 9 Djursh. Styr.led Ränte- o kapit.försäkr.anst sed. 32. RVO.",
+    "translated": "HANSON, Hans Lennart, Director, Djursholm, born in Grangärde on August 12, 1886, son of merchant and farmer H E H and Mathilda Lindbom, married to Ester Cederberg. Graduated in 1904, finished the Schartau's Business Institute in Stockholm in 1905, language studies abroad in 1907-1908. Assistant at Gothenburg Bank in Stockholm from 1905 to 1907, 1908-1914, clerk at Sundsvall Commercial Bank in Stockholm from 1914 to 1917, the same position at Upland Insurance Bank in Stockholm from 1917 to 1918, then cashier there from 1918 to 1930, development manager at the Interest and Capital Insurance Company in Stockholm (founded in 1850) since 1930. Owns property at Stenbocksvägen 9, Djursholm. Board member of the Interest and Capital Insurance Company since 1932. Awarded the Royal Order of Vasa.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Hans Lennart Hanson",
+        "givenName": "Hans Lennart",
+        "familyName": "Hanson",
+        "description": "Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Djursholm"
+        },
+        "birthDate": "1886-12-08",
+        "birthPlace": "Grangärde",
+        "father": {
+            "@type": "Person",
+            "name": "H E H"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Mathilda Lindbom"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Ester Cederberg"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Graduation",
+                "description": "Studex",
+                "alumniOf": {
+                    "@type": "EducationalOrganization",
+                    "name": "Schartau's Business Institute"
+                },
+                "endDate": "1904"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Coursework",
+                "description": "Language studies abroad",
+                "endDate": "1908",
+                "startDate": "1907"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Assistant",
+                "startDate": "1905",
+                "endDate": "1907",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Gothenburg Bank",
+                    "location": {
+                        "@type": "Place",
+                        "address": "Stockholm"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Assistant",
+                "startDate": "1908",
+                "endDate": "1914",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Gothenburg Bank",
+                    "location": {
+                        "@type": "Place",
+                        "address": "Stockholm"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Clerk",
+                "startDate": "1914",
+                "endDate": "1917",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Sundsvall Commercial Bank",
+                    "location": {
+                        "@type": "Place",
+                        "address": "Stockholm"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Clerk",
+                "startDate": "1917",
+                "endDate": "1918",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Upland Insurance Bank",
+                    "location": {
+                        "@type": "Place",
+                        "address": "Stockholm"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Cashier",
+                "startDate": "1918",
+                "endDate": "1930",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Upland Insurance Bank",
+                    "location": {
+                        "@type": "Place",
+                        "address": "Stockholm"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Development Manager",
+                "startDate": "1930",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Interest and Capital Insurance Company",
+                    "foundingDate": "1850",
+                    "location": {
+                        "@type": "Place",
+                        "address": "Stockholm"
+                    }
+                }
+            }
+        ],
+        "owns": {
+            "@type": "OwnershipInfo",
+            "ownedThrough": "Stenbocksvägen 9, Djursholm"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Interest and Capital Insurance Company",
+                "memberOf": "Board member",
+                "startDate": "1932"
+            }
+        ],
+        "honorificSuffix": "RVO"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Assistant",
+                "workplace": "Gothenburg Bank",
+                "industry": "Banking",
+                "start_date": "1905"
+            },
+            {
+                "occupational_title": "Assistant",
+                "workplace": "Gothenburg Bank",
+                "industry": "Banking",
+                "start_date": "1908"
+            },
+            {
+                "occupational_title": "Clerk",
+                "workplace": "Sundsvall Commercial Bank",
+                "industry": "Banking",
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Clerk",
+                "workplace": "Upland Insurance Bank",
+                "industry": "Insurance",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Cashier",
+                "workplace": "Upland Insurance Bank",
+                "industry": "Insurance",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Development Manager",
+                "workplace": "Interest and Capital Insurance Company",
+                "industry": "Insurance",
+                "start_date": "1930"
+            }
+        ]
+    }
+}

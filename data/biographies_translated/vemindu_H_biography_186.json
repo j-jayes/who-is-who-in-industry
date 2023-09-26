@@ -1,0 +1,107 @@
+{
+    "original": "HEDMAN, Harry Gösta Anders, överingenjör, Borås, f Gbg 2/9 98 av förv E H H o Linnea Björkegren, gm Tulli Laurell. Studex Borås 17, CTH (mek) 21. Anst Ing.fma C A Mörck Gbg 22—24, Eriksbergs Mek Verkst 25—27, öv.ing AB Sv Fören Trikåfabr Borås sed. 30. Led brandstyr Borås. Styr.led AB Jersey-Modeller, Borås. Resor: USA 30, ett flert res i Engl, Frankr, Tyskl mfl.",
+    "translated": "HEDMAN, Harry Gösta Anders, chief engineer, Borås, born in Gothenburg on September 2, 1898, to father E.H.H. Hedman and mother Linnea Björkegren, married to Tulli Laurell. Graduated from Borås High School in 1917, studied at the Chalmers University of Technology (mechanical engineering) and graduated in 1921. Employed as an engineer at C.A. Mörck in Gothenburg from 1922 to 1924, and at Eriksbergs Mekaniska Verkst from 1925 to 1927. Chief engineer at AB Svenska Fören Trikåfabrik in Borås since 1930. Member of the Borås Fire Brigade. Board member of AB Jersey-Modeller, Borås. Traveled to the United States in 1930 and made multiple trips to England, France, Germany, among others.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Harry Gösta Anders Hedman",
+        "jobTitle": "Chief Engineer",
+        "birthDate": "1898-09-02",
+        "birthPlace": "Gothenburg",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "E.H.H. Hedman",
+                "sameAs": ""
+            },
+            {
+                "@type": "Person",
+                "name": "Linnea Björkegren",
+                "sameAs": ""
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Tulli Laurell"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Borås High School"
+        },
+        "alumniOf": {
+            "@type": "CollegeOrUniversity",
+            "name": "Chalmers University of Technology",
+            "course": "Mechanical Engineering",
+            "startDate": "1917",
+            "endDate": "1921"
+        },
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "C.A. Mörck",
+                "jobTitle": "Engineer",
+                "startDate": "1922",
+                "endDate": "1924"
+            },
+            {
+                "@type": "Organization",
+                "name": "Eriksbergs Mekaniska Verkst",
+                "jobTitle": "Engineer",
+                "startDate": "1925",
+                "endDate": "1927"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Svenska Fören Trikåfabrik",
+                "jobTitle": "Chief Engineer",
+                "startDate": "1930"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Borås Fire Brigade",
+                "jobTitle": "Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Jersey-Modeller",
+                "jobTitle": "Board Member"
+            }
+        ],
+        "knowsLanguage": [
+            "English",
+            "French",
+            "German"
+        ],
+        "knowsAbout": [
+            "United States",
+            "England",
+            "France",
+            "Germany"
+        ],
+        "sameAs": ""
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Chief Engineer",
+                "workplace": "AB Svenska Fören Trikåfabrik",
+                "industry": "Textile Manufacturing",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Eriksbergs Mekaniska Verkst",
+                "industry": "Shipbuilding",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "C.A. Mörck",
+                "industry": "Engineering",
+                "start_date": "1922"
+            }
+        ]
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "original": "HAGLUND, Henning: Valdemar, Grosshandlare, Kumla, f Fryksta, Värml, 84 av Amandus o Ingeborg Haglund, gm Stina Andersson. Anställd firma C R Andersson, Frykstad, 98— 01, firma Jan Person, Mölnerud, Torsby, 01—08, Joh Andersson &amp; Co, Kumla, 08— 14, etabl fma Ekman, Haglund &amp; Co, Kumla, 14. Stdsflm, dräts.kamm, styr.ordf elverket, nmdeman. Hobby: Fiskodling.",
+    "translated": "HAGLUND, Henning: Valdemar, Merchant, from Kumla, born in Fryksta, Värmland. Son of Amandus and Ingeborg Haglund. Married to Stina Andersson. Employed by C R Andersson, Frykstad, from 1898 to 1901, Jan Person, Mölnerud, Torsby, from 1901 to 1908, Joh Andersson & Co, Kumla, from 1908 to 1914. Established Ekman, Haglund & Co, Kumla, in 1914. Member of the board of directors, municipal treasurer, chairman of the power plant. Jury member. Hobby: Fish farming.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Henning Haglund",
+        "givenName": "Henning",
+        "familyName": "Haglund",
+        "birthPlace": "Fryksta, Värmland",
+        "birthDate": "unknown",
+        "gender": "Male",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Amandus Haglund",
+                "gender": "Male",
+                "sameAs": "Father"
+            },
+            {
+                "@type": "Person",
+                "name": "Ingeborg Haglund",
+                "gender": "Female",
+                "sameAs": "Mother"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Stina Andersson",
+            "sameAs": "Wife"
+        },
+        "jobTitle": "Merchant",
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "C R Andersson",
+                "startDate": "1898-01",
+                "endDate": "1901-12",
+                "location": "Frykstad"
+            },
+            {
+                "@type": "Organization",
+                "name": "Jan Person",
+                "startDate": "1901-01",
+                "endDate": "1908-12",
+                "location": "Mölnerud, Torsby"
+            },
+            {
+                "@type": "Organization",
+                "name": "Joh Andersson & Co",
+                "startDate": "1908-01",
+                "endDate": "1914-12",
+                "location": "Kumla"
+            },
+            {
+                "@type": "Organization",
+                "name": "Ekman, Haglund & Co",
+                "startDate": "1914-01",
+                "location": "Kumla"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Board of Directors",
+                "sameAs": "Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Municipal Treasurer",
+                "sameAs": "Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Power Plant",
+                "roleName": "Chairman",
+                "sameAs": "Member"
+            }
+        ],
+        "hobby": "Fish farming"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "C R Andersson",
+                "industry": "Unknown",
+                "start_date": "1898"
+            },
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Jan Person",
+                "industry": "Unknown",
+                "start_date": "1901"
+            },
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Joh Andersson & Co",
+                "industry": "Unknown",
+                "start_date": "1908"
+            },
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Ekman, Haglund & Co",
+                "industry": "Unknown",
+                "start_date": "1914"
+            }
+        ]
+    }
+}

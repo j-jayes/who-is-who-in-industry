@@ -1,0 +1,135 @@
+{
+    "original": "HELMER, Nils Erik Govert, överingenjör, Sandviken, f Karlstad 7/11 05 av godsäg G H Olsson o Louise Indebetou, gm Charlotte Indebetou. Studex 24, KTH (bergs) 29. Anst v SKF Hofors Bruk 29—30, martining v Surahammars Bruk 31—36, hytt- o martining v AB Bofors 37—42, övering v Sandvikens Jernverks AB sed. 42. Resor: Tyskl, Österr, Ung, Engl 33. Av trycket: Div upps i Jernkont Annaler.",
+    "translated": "HELMER, Nils Erik Govert, chief engineer, Sandviken, born in Karlstad on November 7, 1905, the son of estate owner G H Olsson and Louise Indebetou, married to Charlotte Indebetou. Graduated from KTH (Royal Institute of Technology) with a degree in mining in 1929. Employed at SKF Hofors Bruk from 1929 to 1930, and at Surahammars Bruk as a supervisor from 1931 to 1936. Worked as a supervisor and smelting technician at AB Bofors from 1937 to 1942, and as chief engineer at Sandvikens Jernverks AB from 1942 onwards. Traveled to Germany, Austria, Hungary, and England in 1933. Published various articles in Jernkont Annaler (the Journal of the Iron and Steel Institute).",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Nils Erik Govert Helmer",
+        "birthDate": "1905-11-07",
+        "birthPlace": "Karlstad",
+        "description": "Chief engineer in Sandviken",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "G H Olsson",
+                "description": "Estate owner"
+            },
+            {
+                "@type": "Person",
+                "name": "Louise Indebetou",
+                "description": "Mother"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Charlotte Indebetou",
+            "description": "Wife"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "degree",
+            "educationalLevel": "Bachelor's degree",
+            "educationalCredentialAwarded": "Degree in Mining",
+            "provider": {
+                "@type": "Organization",
+                "name": "Royal Institute of Technology",
+                "identifier": "KTH"
+            },
+            "startDate": "1924",
+            "endDate": "1929"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "SKF Hofors Bruk",
+                "startDate": "1929",
+                "endDate": "1930",
+                "title": "Employee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Surahammars Bruk",
+                "startDate": "1931",
+                "endDate": "1936",
+                "title": "Supervisor"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Bofors",
+                "startDate": "1937",
+                "endDate": "1942",
+                "title": "Supervisor and Smelting Technician"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sandvikens Jernverks AB",
+                "startDate": "1942",
+                "title": "Chief Engineer"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Jernkont Annaler"
+        },
+        "nationality": "Swedish",
+        "memberOfNationalities": [
+            {
+                "@type": "Country",
+                "name": "Sweden"
+            }
+        ],
+        "knowsAbout": "Mining",
+        "hasOccupation": [
+            {
+                "@type": "Occupation",
+                "name": "Chief Engineer"
+            }
+        ],
+        "hasTravelMode": [
+            {
+                "@type": "TravelMode",
+                "name": "Germany"
+            },
+            {
+                "@type": "TravelMode",
+                "name": "Austria"
+            },
+            {
+                "@type": "TravelMode",
+                "name": "Hungary"
+            },
+            {
+                "@type": "TravelMode",
+                "name": "England"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Chief Engineer",
+                "workplace": "Sandviken",
+                "industry": "Engineering",
+                "start_date": "1942"
+            },
+            {
+                "occupational_title": "Supervisor",
+                "workplace": "Surahammars Bruk",
+                "industry": "Manufacturing",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Supervisor and Smelting Technician",
+                "workplace": "AB Bofors",
+                "industry": "Manufacturing",
+                "start_date": "1937"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "SKF Hofors Bruk",
+                "industry": "Industrial",
+                "start_date": "1929"
+            }
+        ]
+    }
+}

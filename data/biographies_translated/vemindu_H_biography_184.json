@@ -1,0 +1,156 @@
+{
+    "original": "HEDLUND, Michael, Sparbanksdirektör, Kristinehamn, f Upps 1/2 98 av kyrkoh P H o Märta Larsson, gm Märta Wennström. Studex 16, jur stud, hdlssk 18. Anst MäLprov bk Upps 18—22, Mäl.bkn Upps 22—25, Sv hdlsbkn Upps 25—29, kamr Filipst sparb 29—35, vkst dir Kr.hnms sparbk o godk granskn.m sed. 36. Rev Kr.hnms stad sed. 38, ordf tax.-nmdn 41, suppl byggn.nmdn mm. V. styr.ordf Värml sparbksfrn, suppl Sv sparbksfrns annonsråd, styr.led Frn f pauvr hont i Kr.hmn mm. Av trycket: Tidn.art i sparbksspörsm. Frimurare, Odd Fellow, W6, Rotary mfl.",
+    "translated": "HEDLUND, Michael, Bank Director, Kristinehamn, born in Uppsala on February 1, 1898, son of the parish priest P.H. Hedlund and Märta Larsson, married Märta Wennström. Completed secondary school at the age of 16, studied law, and attended business school at the age of 18. Employed at Mälarprovens Bank in Uppsala from 1918 to 1922, Mälarens Bank in Uppsala from 1922 to 1925, Svenska Handelsbanken in Uppsala from 1925 to 1929. Chamberlain at Filipstads Sparbank from 1929 to 1935, then became the director of Kr.sparbank and approved inspector. City auditor in Kristinehamn since 1938, chairman of the tax commission in 1941, and a member of the building commission, among other roles. Vice chairman of the board of Värmlands Sparbank, member of the advertising council of the Swedish Savings Banks Association, and a board member of various charitable organizations in Kristinehamn. Published articles on savings banks. Member of the Freemasons, Odd Fellow, W6, Rotary, and other associations.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Michael Hedlund",
+        "birthDate": "1898-02-01",
+        "birthPlace": "Uppsala",
+        "father": {
+            "@type": "Person",
+            "name": "P.H. Hedlund"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Märta Larsson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Märta Wennström"
+        },
+        "jobTitle": "Bank Director",
+        "workLocation": "Kristinehamn",
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Secondary school",
+                "dateEarned": "1914"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Law studies",
+                "dateStarted": "1914"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Business school",
+                "dateStarted": "1916",
+                "dateEnded": "1918"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1918",
+                "endDate": "1922",
+                "roleName": "Mälarprovens Bank",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Mälarprovens Bank"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1922",
+                "endDate": "1925",
+                "roleName": "Mälarens Bank",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Mälarens Bank"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1925",
+                "endDate": "1929",
+                "roleName": "Svenska Handelsbanken",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Svenska Handelsbanken"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1929",
+                "endDate": "1935",
+                "roleName": "Filipstads Sparbank",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Filipstads Sparbank"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1936",
+                "roleName": "Kr.sparbank",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Kr.sparbank"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1938",
+                "roleName": "City Auditor",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Kristinehamn"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Freemasons"
+            },
+            {
+                "@type": "Organization",
+                "name": "Odd Fellow"
+            },
+            {
+                "@type": "Organization",
+                "name": "W6"
+            },
+            {
+                "@type": "Organization",
+                "name": "Rotary"
+            }
+        ],
+        "article": [
+            {
+                "@type": "Article",
+                "name": "Articles on savings banks",
+                "description": "Published articles on savings banks."
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Bank Director",
+                "workplace": "Kristinehamn",
+                "industry": "Banking",
+                "start_date": "1936"
+            },
+            {
+                "occupational_title": "Chamberlain",
+                "workplace": "Filipstads Sparbank",
+                "industry": "Banking",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "City Auditor",
+                "workplace": "Kristinehamn",
+                "industry": "Government",
+                "start_date": "1938"
+            },
+            {
+                "occupational_title": "Chairman of the Tax Commission",
+                "workplace": "Kristinehamn",
+                "industry": "Government",
+                "start_date": "1941"
+            }
+        ]
+    }
+}

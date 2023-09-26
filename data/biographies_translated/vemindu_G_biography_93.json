@@ -1,0 +1,107 @@
+{
+    "original": "GREEN, Knut Herman, Disponent, Västerås, f Vingåker 23/9 94 av lantbr A F G o Johanna Anderson, gm Ester Söderberg. Hdlssk. Anst grhdl K J Anderson Etuna Ifr—18, AB Hakon Swenson sed. 19. Resor: Österr 37, Tyskl 38. PatrstGM, Sv Lawntennisfrb ftjm; Frimurare, Odd Fellow. Hobbies: Jakt, fiske, tennis.",
+    "translated": "GREEN, Knut Herman, Clerk, Västerås, b. Vingåker 23/9 94 to farmer A F G and Johanna Anderson. Married to Ester Söderberg. Secondary school education. Employed as a clerk at K J Anderson and Etuna Sporting Association until 1918, then joined AB Hakon Swenson. Travelled to Austria in 1937 and Germany in 1938. Member of the Swedish Lawn Tennis Association and the Masonic Order Odd Fellow. Hobbies include hunting, fishing, and tennis.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Knut Herman Green",
+        "jobTitle": "Clerk",
+        "email": "",
+        "birthDate": "1894-09-23",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Vingåker"
+            }
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "A F G"
+            },
+            {
+                "@type": "Person",
+                "name": "Johanna Anderson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ester Söderberg"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Secondary School"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "K J Anderson"
+            },
+            {
+                "@type": "Organization",
+                "name": "Etuna Sporting Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Hakon Swenson",
+                "startDate": "1919"
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Austria"
+                },
+                "startDate": "1937"
+            },
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Germany"
+                },
+                "startDate": "1938"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Lawn Tennis Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Masonic Order Odd Fellow"
+            }
+        ],
+        "hobbies": [
+            "Hunting",
+            "Fishing",
+            "Tennis"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Clerk",
+                "workplace": "K J Anderson",
+                "industry": "Retail",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Clerk",
+                "workplace": "Etuna Sporting Association",
+                "industry": "Sports",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Clerk",
+                "workplace": "AB Hakon Swenson",
+                "industry": "Unknown",
+                "start_date": "1918"
+            }
+        ]
+    }
+}

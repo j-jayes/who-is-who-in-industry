@@ -1,0 +1,162 @@
+{
+    "original": "HELLMAN, Fredrik Emanuel, Civilingenjör, Stockholm, f Västervåla, Västml l, 13/5 88- av kontr.prost C J H o Eva Jäderberg, gm Ebba Eklund. Mog.ex Västerås 08, KTH (maskiri-byggn o mek tekn) 09—12. Komm.koll :s USA-stip f stud av maskiner o arb.metoder inom tryckeribranschen m anställn i New York, Baltimore o Chicago 13—16, tekn ch v Sv Dagbladets AB sed. 16. Styr.led i Sv Tidn.utg.-frns arb.giv.sekt fr 21. Inneh fi uppdr f pressen. Led Sv Tekn.frn 17—26. Av trycket: Upps i tryckeritekn ämnen.",
+    "translated": "HELLMAN, Fredrik Emanuel, Civil Engineer, Stockholm, b. Västervåla, Västmanland county, on May 13th, 1888, son of the parish priest C.J.H and Eva Jäderberg, married to Ebba Eklund. Obtained his high school diploma in Västerås in 1908, studied at the Royal Institute of Technology (specializing in mechanical engineering and building construction) from 1909-1912. Received a scholarship from the Swedish Chamber of Commerce for studying machinery and work methods in the printing industry through employment in New York, Baltimore, and Chicago from 1913-1916, and therefore technically proficient and associated with the Svenska Dagbladets AB since 1916. Served as a member of the board of directors for the Swedish Newspaper Publishing Employers' sector from 1921. Held several positions in the press. Member of the Swedish Institute of Technology from 1917-1926. Published works on printing technology.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Fredrik Emanuel",
+        "familyName": "Hellman",
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Västervåla, Västmanland county"
+        },
+        "birthDate": "1888-05-13",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "C.J.H"
+            },
+            {
+                "@type": "Person",
+                "name": "Eva Jäderberg"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ebba Eklund"
+        },
+        "occupation": "Civil Engineer",
+        "nationality": "Swedish",
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "educationLevel": "High school diploma",
+                "educationalLevel": "HighSchool",
+                "awardDate": "1908",
+                "educationalInstitution": {
+                    "@type": "EducationalOrganization",
+                    "name": "Västerås"
+                }
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "educationLevel": "Civil Engineering",
+                "educationalLevel": "Bachelor's",
+                "awardDate": "1912",
+                "educationalInstitution": {
+                    "@type": "EducationalOrganization",
+                    "name": "Royal Institute of Technology"
+                },
+                "specialization": [
+                    "Mechanical Engineering",
+                    "Building Construction"
+                ]
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1913",
+                "endDate": "1916",
+                "roleName": "Machinery and Work Methods Study",
+                "baseSalary": {
+                    "@type": "MonetaryAmount",
+                    "currency": "USD"
+                },
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Swedish Chamber of Commerce"
+                },
+                "location": [
+                    {
+                        "@type": "Place",
+                        "name": "New York"
+                    },
+                    {
+                        "@type": "Place",
+                        "name": "Baltimore"
+                    },
+                    {
+                        "@type": "Place",
+                        "name": "Chicago"
+                    }
+                ]
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1916",
+                "endDate": null,
+                "roleName": "Svenska Dagbladets AB"
+            }
+        ],
+        "membership": [
+            {
+                "@type": "OrganizationMembership",
+                "startDate": "1921",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Swedish Newspaper Publishing Employers' sector"
+                },
+                "memberOf": [
+                    {
+                        "@type": "Organization",
+                        "name": "Swedish Institute of Technology"
+                    }
+                ]
+            },
+            {
+                "@type": "OrganizationMembership",
+                "startDate": "1917",
+                "endDate": "1926",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Swedish Institute of Technology"
+                }
+            }
+        ],
+        "author": {
+            "@type": "MediaObject",
+            "name": "Upps i tryckeritekn ämnen"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Stockholm",
+                "industry": "",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "KTH Student (Mechanical Engineering and Building Construction)",
+                "workplace": "Royal Institute of Technology",
+                "industry": "Education",
+                "start_date": "1909-09-01"
+            },
+            {
+                "occupational_title": "Scholarship Recipient",
+                "workplace": "Various cities in the United States",
+                "industry": "Printing industry",
+                "start_date": "1913-01-01"
+            },
+            {
+                "occupational_title": "Technical Associate",
+                "workplace": "Svenska Dagbladets AB",
+                "industry": "Media",
+                "start_date": "1916-01-01"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Swedish Newspaper Publishing Employers' sector",
+                "industry": "Media",
+                "start_date": "1921-01-01"
+            },
+            {
+                "occupational_title": "Member",
+                "workplace": "Swedish Institute of Technology",
+                "industry": "Education",
+                "start_date": "1917-01-01"
+            }
+        ]
+    }
+}

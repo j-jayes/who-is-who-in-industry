@@ -1,0 +1,132 @@
+{
+    "original": "HEDVALL, Josef Gunnar, Rektor, Norrköping, f Jkpg 7/10 00 av skom J F H o h h f Lundqvist, gm Ester Hernqvist. Studex Jkpg 19, fil mag Upps 23, ex Schartau 27, YPCAS utb.kurs f hdlslär 27. Vik adj Gbgs reallärov 24—25, Mariest 25—26, ord lär i sv, ty o eng v Nkpgs hdlsgymn 27, rekt 28, d:o Nkpgs stads hdlssk 31. Resor: Frankr 20, Tyskl 22, Engl, Tyskl m statsstip 27, Engl 32, Tyskl, Ital m statsstip 33, Engl 37, Tyskl 38.",
+    "translated": "HEDVALL, Josef Gunnar, Principal, Norrköping, born in Jönköping on October 7, 1900, to parents named J F H and h h f Lundqvist, married to Ester Hernqvist. Studied at Jönköping University until 1919, graduated with a Bachelor's degree from Uppsala University in 1923, completed the Schartau Teacher Training Program in 1927, underwent YPCAS business teaching course in 1927. Acting substitute teacher at Gothenburg Secondary School 1924-1925, at Mariestad 1925-1926, appointed as a regular teacher of Swedish, German, and English at Norrköping Commercial Gymnasium in 1927, became Principal in 1928, and Principal at Norrköping City Commercial School in 1931. Travelled to France in 1920, Germany in 1922, England and Germany with a government scholarship in 1927, England in 1932, Germany and Italy with a government scholarship in 1933, England in 1937, and Germany in 1938.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Josef Gunnar Hedvall",
+        "birthDate": "1900-10-07",
+        "birthPlace": "Jönköping, Sweden",
+        "spouse": "Ester Hernqvist",
+        "education": [
+            {
+                "@type": "CollegeOrUniversity",
+                "name": "Jönköping University",
+                "endDate": "1919"
+            },
+            {
+                "@type": "CollegeOrUniversity",
+                "name": "Uppsala University",
+                "degree": "Bachelor's",
+                "endDate": "1923"
+            },
+            {
+                "@type": "ProgramMembership",
+                "name": "Schartau Teacher Training Program",
+                "endDate": "1927"
+            },
+            {
+                "@type": "Course",
+                "name": "YPCAS Business Teaching Course",
+                "startDate": "1927"
+            }
+        ],
+        "occupation": [
+            {
+                "@type": "Person",
+                "name": "Principal",
+                "startDate": "1928",
+                "endDate": null,
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Norrköping City Commercial School"
+                }
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "Trip",
+                "name": "France",
+                "startDate": "1920"
+            },
+            {
+                "@type": "Trip",
+                "name": "Germany",
+                "startDate": "1922"
+            },
+            {
+                "@type": "Trip",
+                "name": "England",
+                "startDate": "1927",
+                "sponsor": "Government"
+            },
+            {
+                "@type": "Trip",
+                "name": "Germany",
+                "startDate": "1927",
+                "sponsor": "Government"
+            },
+            {
+                "@type": "Trip",
+                "name": "England",
+                "startDate": "1932"
+            },
+            {
+                "@type": "Trip",
+                "name": "Germany",
+                "startDate": "1933",
+                "sponsor": "Government"
+            },
+            {
+                "@type": "Trip",
+                "name": "Italy",
+                "startDate": "1933",
+                "sponsor": "Government"
+            },
+            {
+                "@type": "Trip",
+                "name": "England",
+                "startDate": "1937"
+            },
+            {
+                "@type": "Trip",
+                "name": "Germany",
+                "startDate": "1938"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Acting Substitute Teacher",
+                "workplace": "Gothenburg Secondary School",
+                "industry": "Education",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Acting Substitute Teacher",
+                "workplace": "Mariestad",
+                "industry": "Education",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Regular Teacher",
+                "workplace": "Norrköping Commercial Gymnasium",
+                "industry": "Education",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Principal",
+                "workplace": "Norrköping Commercial Gymnasium",
+                "industry": "Education",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Principal",
+                "workplace": "Norrköping City Commercial School",
+                "industry": "Education",
+                "start_date": "1931"
+            }
+        ]
+    }
+}

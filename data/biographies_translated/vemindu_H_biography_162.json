@@ -1,0 +1,150 @@
+{
+    "original": "HEDBORG, Fritz Olof, Civilingenjör, Iggesund, f Härnösand 7/10 11 av disp M T H o Lydia Blomberg, gm Hedvig Reuterswärd. Studex Hsand 30, KTH 34. Anst Dynas AB 34—36, Strömsnäs br AB 36, Sv Cellulosa AB 37—41, AB Iggesunds br sed. 41. Resor: Finl 35, 40, Engl 38, Frankr, Belg 38, Tyskl 39, 41, Ital, Schweiz, Danm 39.",
+    "translated": "HEDBORG, Fritz Olof, Master of Engineering, Iggesund, born in Härnösand on October 7th, 1911 to parents Matilda Theodora Hedborg and Lydia Blomberg, married to Hedvig Reuterswärd. Completed studies in Härnösand in 1930 and at the Royal Institute of Technology in 1934. Employed at Dynas AB from 1934 to 1936, Strömsnäs br AB in 1936, Sv Cellulosa AB from 1937 to 1941, and AB Iggesunds br thereafter from 1941. Travelled to Finland in 1935 and 1940, England in 1938, France and Belgium in 1938, Germany in 1939 and 1941, Italy, Switzerland, and Denmark in 1939.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Fritz Olof",
+        "familyName": "Hedborg",
+        "birthDate": "1911-10-07",
+        "birthPlace": "Härnösand",
+        "parents": [
+            {
+                "@type": "Person",
+                "givenName": "Matilda Theodora",
+                "familyName": "Hedborg"
+            },
+            {
+                "@type": "Person",
+                "givenName": "Lydia",
+                "familyName": "Blomberg"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Dynas AB",
+                "startDate": "1934",
+                "endDate": "1936"
+            },
+            {
+                "@type": "Organization",
+                "name": "Strömsnäs br AB",
+                "startDate": "1936"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sv Cellulosa AB",
+                "startDate": "1937",
+                "endDate": "1941"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Iggesunds br",
+                "startDate": "1941"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "givenName": "Hedvig",
+            "familyName": "Reuterswärd"
+        },
+        "educationalCredentialAwarded": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "Master of Engineering",
+                "awardDate": "1934",
+                "awardingInstitution": {
+                    "@type": "CollegeOrUniversity",
+                    "name": "Royal Institute of Technology"
+                }
+            }
+        ],
+        "travel": [
+            {
+                "destination": "Finland",
+                "startDate": "1935",
+                "endDate": "1935"
+            },
+            {
+                "destination": "Finland",
+                "startDate": "1940",
+                "endDate": "1940"
+            },
+            {
+                "destination": "England",
+                "startDate": "1938",
+                "endDate": "1938"
+            },
+            {
+                "destination": "France",
+                "startDate": "1938",
+                "endDate": "1938"
+            },
+            {
+                "destination": "Belgium",
+                "startDate": "1938",
+                "endDate": "1938"
+            },
+            {
+                "destination": "Germany",
+                "startDate": "1939",
+                "endDate": "1939"
+            },
+            {
+                "destination": "Germany",
+                "startDate": "1941",
+                "endDate": "1941"
+            },
+            {
+                "destination": "Italy",
+                "startDate": "1939",
+                "endDate": "1939"
+            },
+            {
+                "destination": "Switzerland",
+                "startDate": "1939",
+                "endDate": "1939"
+            },
+            {
+                "destination": "Denmark",
+                "startDate": "1939",
+                "endDate": "1939"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Master of Engineering",
+                "workplace": "Iggesund",
+                "industry": "Industrial",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Dynas AB",
+                "industry": "Unknown",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Strömsnäs br AB",
+                "industry": "Unknown",
+                "start_date": "1936"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Sv Cellulosa AB",
+                "industry": "Unknown",
+                "start_date": "1937"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "AB Iggesunds br",
+                "industry": "Unknown",
+                "start_date": "1941"
+            }
+        ]
+    }
+}

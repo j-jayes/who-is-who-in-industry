@@ -1,0 +1,132 @@
+{
+    "original": "HAGLUND, Ernst Theodor, överingenjör, Ålsten, f Säby Gård, Svartsjö, 9/11 74 av lantbr O T H o Thora Sundeman. Filipstads bergssk högre avd 95—96, tillfäll elev KTH 05—07. Valsvksbokh Forsbacka Jernvk 97— 99, driftsing o kont.ch Gammelstilla Br 00—05, valsvksing Forsbacka Jernvk 07—20, övering 20—28, övering o platschef 29—39, pens sed. 40. RVO, ProPstGM.",
+    "translated": "HAGLUND, Ernst Theodor, Senior Engineer, Ålsten. Born at Säby Gård, Svartsjö on November 9, 1874, son of farmer O.T.H. and Thora Sundeman. Attended Filipstad Mining School, Higher Division 1895-1896, temporary student at KTH (Royal Institute of Technology) 1905-1907. Bookkeeper at Forsbacka Ironworks 1897-1899, operations engineer and accounting manager at Gammelstilla Brewery 1900-1905, rolling mill engineer at Forsbacka Ironworks 1907-1920, Senior Engineer 1920-1928, Senior Engineer and Site Manager 1929-1939, retired since 1940. Knight of the Royal Order of Vasa, Pro Patria Gold Medal.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Ernst Theodor Haglund",
+        "birthDate": "1874-11-09",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Svartsjö",
+                "addressRegion": "",
+                "addressCountry": "Sweden"
+            }
+        },
+        "description": "Senior Engineer",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "O.T.H. Haglund",
+                "familyName": "Haglund"
+            },
+            {
+                "@type": "Person",
+                "name": "Thora Sundeman",
+                "familyName": "Sundeman"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "diploma",
+                "educationalLevel": "Higher Division",
+                "startTime": "1895",
+                "endTime": "1896",
+                "educationalProgram": "Filipstad Mining School"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "diploma",
+                "educationalLevel": "Temporary student",
+                "startTime": "1905",
+                "endTime": "1907",
+                "educationalProgram": "Royal Institute of Technology (KTH)"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Forsbacka Ironworks",
+                "position": "Bookkeeper",
+                "startDate": "1897",
+                "endDate": "1899"
+            },
+            {
+                "@type": "Organization",
+                "name": "Gammelstilla Brewery",
+                "position": "Operations Engineer and Accounting Manager",
+                "startDate": "1900",
+                "endDate": "1905"
+            },
+            {
+                "@type": "Organization",
+                "name": "Forsbacka Ironworks",
+                "position": "Rolling Mill Engineer",
+                "startDate": "1907",
+                "endDate": "1920"
+            },
+            {
+                "@type": "Organization",
+                "name": "Forsbacka Ironworks",
+                "position": "Senior Engineer",
+                "startDate": "1920",
+                "endDate": "1928"
+            },
+            {
+                "@type": "Organization",
+                "name": "Forsbacka Ironworks",
+                "position": "Senior Engineer and Site Manager",
+                "startDate": "1929",
+                "endDate": "1939"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Royal Order of Vasa"
+            },
+            {
+                "@type": "Organization",
+                "name": "Pro Patria Gold Medal"
+            }
+        ],
+        "gender": "Male"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Bookkeeper",
+                "workplace": "Forsbacka Ironworks",
+                "industry": "Iron and Steel Manufacturing",
+                "start_date": "1897-01-01"
+            },
+            {
+                "occupational_title": "Operations Engineer and Accounting Manager",
+                "workplace": "Gammelstilla Brewery",
+                "industry": "Brewery",
+                "start_date": "1900-01-01"
+            },
+            {
+                "occupational_title": "Rolling Mill Engineer",
+                "workplace": "Forsbacka Ironworks",
+                "industry": "Iron and Steel Manufacturing",
+                "start_date": "1907-01-01"
+            },
+            {
+                "occupational_title": "Senior Engineer",
+                "workplace": "Forsbacka Ironworks",
+                "industry": "Iron and Steel Manufacturing",
+                "start_date": "1920-01-01"
+            },
+            {
+                "occupational_title": "Senior Engineer and Site Manager",
+                "workplace": "Forsbacka Ironworks",
+                "industry": "Iron and Steel Manufacturing",
+                "start_date": "1929-01-01"
+            }
+        ]
+    }
+}

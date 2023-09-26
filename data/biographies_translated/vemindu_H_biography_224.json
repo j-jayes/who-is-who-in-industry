@@ -1,0 +1,144 @@
+{
+    "original": "HELLOBEN, Richard Nils Valdemar, Direktör, Eskilstuna, f Hbg 30/12 76 av sjökapt J H o Eline Pettersson, gm Sigrid Cederlund. Ex KTH facksk f kem teknol 98, d :o f metallurgi o hyttkonst 99. Aman Sthlms bergs-sk, 2. lär Falu bergssk 00, ing Ankarsrums hytta, martin- o valsv 00—05, h Andersson &amp; Lindberg, Gbg, 05—08, vkst dir E.tuna jern-manuf AB sed. 09. Ordf Sörml ensk bks E.tunakont 26, styr.led E.tuna brygg., Gunnebo br, E.tuna fabr.frn.",
+    "translated": "HELLOBEN, Richard Nils Valdemar, Director, Eskilstuna, born in Helsingborg on December 30th, 1876, to sea captain J.H. and Eline Pettersson. Married to Sigrid Cederlund. Formerly educated in chemical technology at KTH in 1898, specializing in metallurgy and furnace technology in 1899. Assistant at Stockholm Mining School, second teacher at Falun Mining School in 1900, engineer at Ankarsrum Foundry, Martin and rolling mills from 1900 to 1905, worked at Andersson & Lindberg in Gothenburg from 1905 to 1908, and then became the director of E.tuna Ironworks AB from 1909 onwards. Chairman of Södermanland County Savings Bank Eskilstuna Branch in 1926 and served on the board of directors for E.tuna brewery, Gunnebo brewery, and E.tuna textile factory.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Richard Nils Valdemar Helloben",
+        "jobTitle": "Director",
+        "birthPlace": "Helsingborg",
+        "birthDate": "1876-12-30",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "J.H.",
+                "jobTitle": "Sea Captain"
+            },
+            {
+                "@type": "Person",
+                "name": "Eline Pettersson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Sigrid Cederlund"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "KTH",
+                "location": "Stockholm",
+                "alumniOf": "Chemical Technology",
+                "startDate": "1898",
+                "endDate": "1898"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "KTH",
+                "location": "Stockholm",
+                "alumniOf": "Metallurgy and Furnace Technology",
+                "startDate": "1899",
+                "endDate": "1899"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Stockholm Mining School",
+                "alumniOf": "Assistant",
+                "startDate": "Unknown"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Falun Mining School",
+                "alumniOf": "Second Teacher",
+                "startDate": "1900",
+                "endDate": "1900"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Ankarsrum Foundry",
+                "department": "Martin and Rolling Mills",
+                "startDate": "1900",
+                "endDate": "1905"
+            },
+            {
+                "@type": "Organization",
+                "name": "Andersson & Lindberg",
+                "location": "Gothenburg",
+                "startDate": "1905",
+                "endDate": "1908"
+            },
+            {
+                "@type": "Organization",
+                "name": "E.tuna Ironworks AB",
+                "jobTitle": "Director",
+                "startDate": "1909"
+            }
+        ],
+        "membership": [
+            {
+                "@type": "Organization",
+                "name": "Södermanland County Savings Bank",
+                "jobTitle": "Chairman",
+                "branch": "Eskilstuna",
+                "startDate": "1926"
+            },
+            {
+                "@type": "Organization",
+                "name": "E.tuna Brewery",
+                "position": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Gunnebo Brewery",
+                "position": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "E.tuna Textile Factory",
+                "position": "Board Member"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Assistant",
+                "workplace": "Stockholm Mining School",
+                "industry": "Education",
+                "start_date": "N/A"
+            },
+            {
+                "occupational_title": "Second Teacher",
+                "workplace": "Falun Mining School",
+                "industry": "Education",
+                "start_date": "N/A"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Ankarsrum Foundry",
+                "industry": "Metallurgy",
+                "start_date": "1900"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Martin and Rolling Mills",
+                "industry": "Metallurgy",
+                "start_date": "1900"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Andersson & Lindberg",
+                "industry": "Metallurgy",
+                "start_date": "1905"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "E.tuna Ironworks AB",
+                "industry": "Iron and Steel",
+                "start_date": "1909"
+            }
+        ]
+    }
+}

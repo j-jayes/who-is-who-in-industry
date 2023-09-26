@@ -1,0 +1,42 @@
+{
+    "original": "HANER, Nils Henry, Kamrer, Stockholm, f 1/5 16. Civilekonom. Kamr h AB Rylander &amp; Asplund Sthlm sed. 42.",
+    "translated": "HANER, Nils Henry, Clerk, Stockholm, b. 1/5 16. Bachelor of Economics. Clerk at AB Rylander & Asplund in Stockholm since '42.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Nils",
+        "additionalName": "Henry",
+        "familyName": "Haner",
+        "jobTitle": "Clerk",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "birthDate": "16-05-01",
+        "alumniOf": {
+            "@type": "EducationalOrganization",
+            "name": "Bachelor of Economics"
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "AB Rylander & Asplund"
+        },
+        "startDate": "'42"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Clerk",
+                "workplace": "AB Rylander & Asplund",
+                "industry": "Unknown",
+                "start_date": "1942"
+            },
+            {
+                "occupational_title": "Kamrer",
+                "workplace": "Stockholm",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}
