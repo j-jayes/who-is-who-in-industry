@@ -1,10 +1,21 @@
 import os
 from openai import OpenAI
-
-client = OpenAI(api_key=openai_api_key)
 import json
 import yaml
 from pathlib import Path
+import dotenv
+dotenv.load_dotenv()
+
+# Check if script is running within GitHub Actions
+if os.environ.get("GITHUB_ACTIONS") == "true":
+    openai_api_key = os.environ.get("OPEN_AI_KEY")
+    if not openai_api_key:
+        raise ValueError("No OpenAI API key found in environment variables!")
+else:
+    # Access the value of OPEN_AI_KEY from the environment variables
+    openai_api_key = os.getenv("OPEN_AI_KEY")
+
+client = OpenAI(api_key=openai_api_key)
 
 # Get the current working directory (root directory of the project)
 root_dir = Path.cwd()
