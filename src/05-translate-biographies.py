@@ -1,5 +1,7 @@
 import os
-import openai
+from openai import OpenAI
+
+client = OpenAI(api_key=openai_api_key)
 import json
 import yaml
 from pathlib import Path
@@ -20,7 +22,6 @@ else:
         config = yaml.safe_load(f)
     openai_api_key = config["default"]["key"]
 
-openai.api_key = openai_api_key
 
 FILE_RANGE = [2300, 2600]
 
@@ -28,26 +29,22 @@ def translate_and_structure_text(swedish_text):
     try:
         # Translate the Swedish text to English
         translate_prompt = f"Translate the following abbreviated Swedish biography from the mid 20th century to English: {swedish_text}. Note that '\\d\\d m. partners name' means that the person married in the year 19xx."
-        translation_response = openai.ChatCompletion.create(
-            model="gpt-3.5-turbo-16k",
-            messages=[
-                {"role": "system", "content": "You are an expert on Swedish family history."},
-                {"role": "user", "content": f"{translate_prompt}"}
-            ]
-        )
+        translation_response = client.chat.completions.create(model="gpt-3.5-turbo-16k",
+        messages=[
+            {"role": "system", "content": "You are an expert on Swedish family history."},
+            {"role": "user", "content": f"{translate_prompt}"}
+        ])
 
         english_text = translation_response.choices[0].message.content
 
         structure_prompt = f"Given the original Swedish biography: {swedish_text}\nAnd its English translation: {english_text}\n"\
                            "Structure the biography in Schema.org/Person format as a JSON object. Include dates wherever possible. Only provide a RFC8259 compliant JSON response."
 
-        structure_response = openai.ChatCompletion.create(
-            model="gpt-3.5-turbo-16k",
-            messages=[
-                    {"role": "system", "content": "You are an expert on Swedish family history and the Schema.org/Person format."},
-                    {"role": "user", "content": f"{structure_prompt}"}
-            ]
-        )
+        structure_response = client.chat.completions.create(model="gpt-3.5-turbo-16k",
+        messages=[
+                {"role": "system", "content": "You are an expert on Swedish family history and the Schema.org/Person format."},
+                {"role": "user", "content": f"{structure_prompt}"}
+        ])
 
         structured_biography_raw = structure_response.choices[0].message.content
 
@@ -56,13 +53,11 @@ def translate_and_structure_text(swedish_text):
         occupations_prompt = f"Given the original Swedish biography: {swedish_text}\nAnd its English translation: {english_text}\n"\
                              "I care about the persons career trajectory. Can you return their occupational titles (in English), workplaces, industries and start dates (if possible) for each occupation listed in JSON format? It should have the key  'career' at the top level and then the keys 'occupational_title', 'workplace', 'industry', and 'start_date' at the next level. Only provide a RFC8259 compliant JSON response." 
 
-        occupations_response = openai.ChatCompletion.create(
-            model="gpt-3.5-turbo-16k",
-            messages=[
-                {"role": "system", "content": "You are an expert on Swedish family history and occupational stucture of the 20th century."},
-                {"role": "user", "content": occupations_prompt},
-            ]
-        )
+        occupations_response = client.chat.completions.create(model="gpt-3.5-turbo-16k",
+        messages=[
+            {"role": "system", "content": "You are an expert on Swedish family history and occupational stucture of the 20th century."},
+            {"role": "user", "content": occupations_prompt},
+        ])
 
         occupations = json.loads(occupations_response.choices[0].message.content)
 

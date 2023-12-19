@@ -48,17 +48,18 @@ df['Name'] = df['Name'].apply(lambda x: x.replace('Not Elsewhere Classified', ''
 df['hisco_text'] = df['Name'] + ' ' + df['processed_description']
 
 
-import openai
+from openai import OpenAI
+
+client = OpenAI(api_key=config['default']['key'])
 import yaml
 
 with open('config.yaml', 'r') as f:
     config = yaml.safe_load(f)
 
-openai.api_key = config['default']['key']
 
 def get_embedding(text, model="text-embedding-ada-002"):
     text = text.replace("\n", " ")
-    return openai.Embedding.create(input=[text], model=model)['data'][0]['embedding']
+    return client.embeddings.create(input=[text], model=model)['data'][0]['embedding']
 
 # Apply the get_embedding function to your 'hisco_text' column
 # df['ada_embedding'] = df['hisco_text'].apply(lambda x: get_embedding(x, model='text-embedding-ada-002'))
