@@ -1,0 +1,112 @@
+{
+    "original": "LINDE, Harald, Civilingenjör, Direktör, Stockholm, f Faxe, Danm, 8/1 86 av godsäg J M L o Louise Meincke, gm (1) Inge R0erbye, (2) Karin Krouthén. Ex Polyteknisk Lsereanst i Kphmn. Bitr ing o arb.ch v ing.arb i Danm, USA, Västind o Sv, vkst dir f Sv AB Christian! &amp; Nielsen i Sthlm 23—28, f AB Betong &amp; Järn där sed. 28.",
+    "translated": "LINDE, Harald, Civil Engineer, Director, Stockholm, b. Faxe, Denmark, 8/1 86, son of landowner J M L and Louise Meincke, m. (1) Inge R0erbye, (2) Karin Krouthén. Formerly studied at the Polytechnic Institute in Copenhagen. Assistant engineer and worked in engineering jobs in Denmark, USA, West Indies, and Sweden. Deputy engineer at Svenska AB Christian! & Nielsen in Stockholm from 1923 to 1928, and then joined AB Betong & Järn where he has been working since 1928.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Harald Linde",
+        "birthDate": "1886-01-08",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Faxe",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Denmark"
+            }
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "J M L Linde"
+            },
+            {
+                "@type": "Person",
+                "name": "Louise Meincke"
+            }
+        ],
+        "spouse": [
+            {
+                "@type": "Person",
+                "name": "Inge R0erbye"
+            },
+            {
+                "@type": "Person",
+                "name": "Karin Krouthén"
+            }
+        ],
+        "education": {
+            "@type": "EducationalOrganization",
+            "alumniOf": {
+                "@type": "CollegeOrUniversity",
+                "name": "Polytechnic Institute",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Copenhagen",
+                    "addressCountry": "Denmark"
+                }
+            }
+        },
+        "jobTitle": [
+            "Civil Engineer",
+            "Director"
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm",
+            "addressCountry": "Sweden"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Svenska AB Christian! & Nielsen",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm",
+                    "addressCountry": "Sweden"
+                },
+                "startDate": "1923",
+                "endDate": "1928",
+                "jobTitle": "Deputy Engineer"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Betong & Järn",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm",
+                    "addressCountry": "Sweden"
+                },
+                "startDate": "1928",
+                "jobTitle": "Civil Engineer"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Polytechnic Institute",
+                "industry": "Education",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Assistant Engineer",
+                "workplace": "Unknown",
+                "industry": "Engineering",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Svenska AB Christian! & Nielsen",
+                "industry": "Engineering",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "AB Betong & Järn",
+                "industry": "Construction",
+                "start_date": "1928"
+            }
+        ]
+    }
+}

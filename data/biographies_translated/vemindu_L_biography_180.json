@@ -1,0 +1,101 @@
+{
+    "original": "LINDBERG, Adam Gösta Rudolf, Civilingenjör, Linköping, f Karlskrona 30/8 12 av lekt L J R L o Elsa Palmqvist, grn Hedda Johansson. Ex Tekn Gymn Malmö 33, KTH 37. Konstr v AB Addo Malmö 37—39, beräkri.-ing v Sv Aeroplan AB Linkp 39—42, lab.ch där sed. 42. Carnegiepris 31; led Sv Tekn.frn o Företagsek frn.",
+    "translated": "LINDBERG, Adam Gösta Rudolf, Civil Engineer, Linköping. Born in Karlskrona on August 30th, 1912, son of lecturer L.J.R.L. and Elsa Palmqvist, née Hedda Johansson. Attended Tekniska Gymnasiet in Malmö from 1933, and graduated from KTH (Royal Institute of Technology) in 1937. Worked as a designer at AB Addo in Malmö from 1937 to 1939, followed by a position as a calculation engineer at Svenska Aeroplan AB in Linköping from 1939 to 1942, where he later became a laboratory chief. Awarded the Carnegie Prize in 1931 and a member of the Swedish Association of Technicians and the Business Economics Society.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Adam Gösta Rudolf Lindberg",
+        "jobTitle": "Civil Engineer",
+        "birthDate": "1912-08-30",
+        "birthPlace": "Karlskrona",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "L.J.R.L."
+            },
+            {
+                "@type": "Person",
+                "name": "Elsa Palmqvist"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Hedda Johansson"
+        },
+        "affiliation": [
+            {
+                "@type": "Organization",
+                "name": "AB Addo",
+                "startDate": "1937",
+                "endDate": "1939",
+                "jobTitle": "Designer"
+            },
+            {
+                "@type": "Organization",
+                "name": "Svenska Aeroplan AB",
+                "startDate": "1939",
+                "endDate": "1942",
+                "jobTitle": "Calculation Engineer"
+            }
+        ],
+        "alumniOf": [
+            {
+                "@type": "Organization",
+                "name": "Tekniska Gymnasiet Malmö",
+                "startDate": "1933"
+            },
+            {
+                "@type": "Organization",
+                "name": "Royal Institute of Technology",
+                "startDate": "1937"
+            }
+        ],
+        "award": {
+            "@type": "Achievement",
+            "name": "Carnegie Prize",
+            "dateAwarded": "1931"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Association of Technicians"
+            },
+            {
+                "@type": "Organization",
+                "name": "Business Economics Society"
+            }
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Linköping"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Linköping",
+                "industry": "",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Designer",
+                "workplace": "AB Addo",
+                "industry": "Engineering",
+                "start_date": "1937"
+            },
+            {
+                "occupational_title": "Calculation Engineer",
+                "workplace": "Sv Aeroplan AB",
+                "industry": "Aerospace",
+                "start_date": "1939"
+            },
+            {
+                "occupational_title": "Laboratory Chief",
+                "workplace": "Sv Aeroplan AB",
+                "industry": "Aerospace",
+                "start_date": "1942"
+            }
+        ]
+    }
+}

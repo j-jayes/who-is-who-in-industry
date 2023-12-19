@@ -1,0 +1,69 @@
+{
+    "original": "LJUNGGREN, August Hjalmar, Kamrer, Kolsva, f Ryssby, Kronob l, 22/2 78, gm Laura Herlitz. Hdlssk. Bokhåll v jordbr o torv-ströfabr 00—03, bokför v Hasselfors Bruks AB 04—08, anst v Kohlswa Jvks AB 08, kamrer där sed. 09. Styr.led i Ekbackens Tomt AB, styr.suppl i AB Kolsva Fältspatgruva.",
+    "translated": "LJUNGGREN, August Hjalmar, Auditor, Kolsva, born in Ryssby, Kronoberg County, on February 22nd, 1878, married to Laura Herlitz. Elementary school graduate. Bookkeeper at an agricultural and peat straw factory from 1900 to 1903, accountant at Hasselfors Bruks AB from 1904 to 1908, employed at Kohlswa Jvks AB from 1908, promoted to Auditor there in 1909. Board member at Ekbackens Tomt AB, deputy board member at AB Kolsva Feldspar Mine.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "August Hjalmar Ljunggren",
+        "jobTitle": "Auditor",
+        "birthPlace": "Ryssby, Kronoberg County",
+        "birthDate": "1878-02-22",
+        "spouse": "Laura Herlitz",
+        "education": "Elementary school",
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Hasselfors Bruks AB",
+                "jobTitle": "Accountant",
+                "startDate": "1904",
+                "endDate": "1908"
+            },
+            {
+                "@type": "Organization",
+                "name": "Kohlswa Jvks AB",
+                "jobTitle": "Auditor",
+                "startDate": "1909"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Ekbackens Tomt AB",
+                "jobTitle": "Board member"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Kolsva Fältspatgruva",
+                "jobTitle": "Deputy board member"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Bookkeeper",
+                "workplace": "Agricultural and peat straw factory",
+                "industry": "Manufacturing",
+                "start_date": "1900"
+            },
+            {
+                "occupational_title": "Accountant",
+                "workplace": "Hasselfors Bruks AB",
+                "industry": "Manufacturing",
+                "start_date": "1904"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Kohlswa Jvks AB",
+                "industry": "Manufacturing",
+                "start_date": "1908"
+            },
+            {
+                "occupational_title": "Auditor",
+                "workplace": "Kohlswa Jvks AB",
+                "industry": "Manufacturing",
+                "start_date": "1909"
+            }
+        ]
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "original": "KULLNER, Oskar Algot, Ingenjör, Ulvsunda, f Härslöv, Malmöh l, 4/3 97 av TruedJohansson o Kerstin Jönsson, gm Ruth Mo-digh. Hässleh tekn sk, Krooks hdlsint Hbg. Anst Frigator Kristianst 18, Kullens maskin-fabr Höganäs 20, Sieverts kabelv Sundbyb sed. 21.",
+    "translated": "KULLNER, Oskar Algot, Engineer, Ulvsunda, born in Härslöv, Malmöhus County, on March 4th, 1897, to parents Trued Johansson and Kerstin Jönsson, married to Ruth Modigh. Attended technical school in Hässleholm, commercial school in Helsingborg. Employed at Frigator in Kristianstad from 1918, Kullens Machine Factory in Höganäs from 1920, and Sieverts Cable Works in Sundbyberg since 1921.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Oskar Algot Kullner",
+        "jobTitle": "Engineer",
+        "birthPlace": "Härslöv, Malmöhus County",
+        "birthDate": "1897-03-04",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Trued Johansson"
+            },
+            {
+                "@type": "Person",
+                "name": "Kerstin Jönsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ruth Modigh"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Technical school",
+                "educationalLevel": "Unknown",
+                "institution": "Hässleholm Technical School"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Commercial school",
+                "educationalLevel": "Unknown",
+                "institution": "Helsingborg Commercial School"
+            }
+        ],
+        "jobTitleHistory": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1918",
+                "endDate": null,
+                "roleName": "Frigator",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Kristianstad"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1920",
+                "endDate": null,
+                "roleName": "Kullens Machine Factory",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Höganäs"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1921",
+                "endDate": null,
+                "roleName": "Sieverts Cable Works",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Sundbyberg"
+                }
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Frigator",
+                "industry": "Refrigeration",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Kullens Machine Factory",
+                "industry": "Machinery",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Sieverts Cable Works",
+                "industry": "Cable manufacturing",
+                "start_date": "1921"
+            }
+        ]
+    }
+}

@@ -1,0 +1,148 @@
+{
+    "original": "LINDVALL, Sten Eric, Ingenjör, Stockholm, f Uppsala 13/3 02 av dir Eric L o Josefina Söderlund, gm Astrid Wahltin. Studex 21, Techn Hochschule Dresden. Inneh egen maskinfabrik i Hamburg 25—28, anst h General Motors Nord AB, Sthlm, 28—31, h AB Systema, Sthlm, 32—35 o h Hector &amp; Co AB, Sthlm, sed. 35. Styr.led i Hector &amp; Co AB, Sunex Säkerhetsglas AB o AB Sthlms Vaddfabrik. Resor: Tyskl 21—28, Engl 31, Algeriet o Marocko 35, Belg, Holl o Ital 36, Span, Port 39, inom Tyskl o Slovakien l ä 2 ggr årl 39—43. Hobbies: Segling, fiske.",
+    "translated": "LINDVALL, Sten Eric, Engineer, Stockholm, born in Uppsala on March 13, 1902, son of director Eric L and Josefina Söderlund, married to Astrid Wahltin. Graduated from Technische Hochschule Dresden. Owned a machinery factory in Hamburg from 1925 to 1928, worked at General Motors Nord AB, Stockholm from 1928 to 1931, worked at AB Systema, Stockholm from 1932 to 1935, and has been working at Hector & Co AB, Stockholm since 1935. Holds positions on the board of Hector & Co AB, Sunex Säkerhetsglas AB, and AB Sthlms Vaddfabrik. Travelled to Germany from 1921 to 1928, England in 1931, Algeria and Morocco in 1935, Belgium, the Netherlands, and Italy in 1936, Spain and Portugal in 1939, and within Germany and Slovakia twice a year from 1939 to 1943. Hobbies: Sailing, fishing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Sten Eric Lindvall",
+        "jobTitle": "Engineer",
+        "birthDate": "1902-03-13",
+        "birthPlace": "Uppsala",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Eric L"
+            },
+            {
+                "@type": "Person",
+                "name": "Josefina Söderlund"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Astrid Wahltin"
+        },
+        "alumniOf": {
+            "@type": "CollegeOrUniversity",
+            "name": "Technische Hochschule Dresden"
+        },
+        "owns": {
+            "@type": "Organization",
+            "name": "Sten Eric Lindvall's Machinery Factory",
+            "location": "Hamburg",
+            "startDate": "1925-01-01",
+            "endDate": "1928-12-31"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "General Motors Nord AB",
+                "location": "Stockholm",
+                "startDate": "1928-01-01",
+                "endDate": "1931-12-31"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Systema",
+                "location": "Stockholm",
+                "startDate": "1932-01-01",
+                "endDate": "1935-12-31"
+            },
+            {
+                "@type": "Organization",
+                "name": "Hector & Co AB",
+                "location": "Stockholm",
+                "startDate": "1935-01-01"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Hector & Co AB",
+                "position": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sunex Säkerhetsglas AB",
+                "position": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Sthlms Vaddfabrik",
+                "position": "Board Member"
+            }
+        ],
+        "travel": [
+            {
+                "@type": "Place",
+                "name": "Germany",
+                "startDate": "1921-01-01",
+                "endDate": "1928-12-31"
+            },
+            {
+                "@type": "Place",
+                "name": "England",
+                "startDate": "1931-01-01"
+            },
+            {
+                "@type": "Place",
+                "name": "Algeria and Morocco",
+                "startDate": "1935-01-01"
+            },
+            {
+                "@type": "Place",
+                "name": "Belgium, the Netherlands, and Italy",
+                "startDate": "1936-01-01"
+            },
+            {
+                "@type": "Place",
+                "name": "Spain and Portugal",
+                "startDate": "1939-01-01"
+            },
+            {
+                "@type": "Place",
+                "name": "Germany and Slovakia",
+                "startDate": "1939-01-01",
+                "endDate": "1943-12-31"
+            }
+        ],
+        "hasOccupation": [
+            {
+                "@type": "Occupation",
+                "name": "Sailing"
+            },
+            {
+                "@type": "Occupation",
+                "name": "Fishing"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Hector & Co AB",
+                "industry": "Unknown",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "Machinery factory in Hamburg",
+                "industry": "Manufacturing",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "General Motors Nord AB",
+                "industry": "Automotive",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "AB Systema",
+                "industry": "Unknown",
+                "start_date": "1932"
+            }
+        ]
+    }
+}

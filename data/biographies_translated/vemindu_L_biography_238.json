@@ -1,0 +1,68 @@
+{
+    "original": "LINDGREN, Bengt Gustav Gunnar, Revisor, Traneberg, f Kungälv 6/12 09 av sjökapt G H L o Berta Mörck, gm Greta Johansson. Studex Jönkp 28, GbgsHHS 30, atikt rev Sthlm 36. Anst AB Industribyrån sed. 31. Hobbies: Båtar, blommor, böcker, frimärken.",
+    "translated": "LINDGREN, Bengt Gustav Gunnar, Auditor, Traneberg, b Kungälv 6/12 09, son of Captain G H L and Berta Mörck, married to Greta Johansson. Graduated from Jönköping Business School in 1928, Gothenburg School of Economics and Commercial Law in 1930, certified auditor in Stockholm in 1936. Employed at AB Industribyrån since 1931. Hobbies: boats, flowers, books, stamps.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Bengt Gustav Gunnar Lindgren",
+        "jobTitle": "Auditor",
+        "birthPlace": "Kungälv",
+        "birthDate": "1909-12-06",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Captain G H L"
+            },
+            {
+                "@type": "Person",
+                "name": "Berta Mörck"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Greta Johansson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Jönköping Business School",
+                "startDate": "1928",
+                "endDate": "1928"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Gothenburg School of Economics and Commercial Law",
+                "startDate": "1930",
+                "endDate": "1930"
+            }
+        ],
+        "work": {
+            "@type": "Organization",
+            "name": "AB Industribyrån",
+            "startDate": "1931"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Traneberg"
+        },
+        "memberOf": {
+            "@type": "SportsTeam",
+            "name": "Boats"
+        },
+        "interests": [
+            "Flowers",
+            "Books",
+            "Stamps"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Auditor",
+                "workplace": "AB Industribyrån",
+                "industry": "Unknown",
+                "start_date": "1931"
+            }
+        ]
+    }
+}

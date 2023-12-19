@@ -1,0 +1,125 @@
+{
+    "original": "KEMPE, Tor Elias, Civilingenjör, Stockholm, f Ytterlännäs, VNorrl 1. 25/7 80 av distr.läk P K o Sofia Elfsberg. Mog.ex NReal 98, ex KTH (V o V) 02. Konstr v anläggn av Sthlms stads vattenlednvk v Norsborg 02—04, ing fma Ph Holtzmann &amp; Co Frankfurt am Main 05, anst Malmö dräts.kamm 06—10, hamn-avd av Sthlms stads byggn.kont 11, AB Arcus Sthlm 12—22. Eg kons vksmh i brobyggn.-fack i Sthlm sed. 22, deläg ing.fma Blomgren &amp; Co. Led Sv Tekn.frn.",
+    "translated": "KEMPE, Tor Elias, Civil Engineer, Stockholm, b. Ytterlännäs, Vnorrl 1. 25/7 80 to the district doctor P K and Sofia Elfsberg. Completed secondary school at NReal in 98, graduated from KTH (V and V) in 02. Engaged in the construction of Stockholm city's water supply system in Norsborg from 02 to 04, engineering internship at Ph Holtzmann & Co Frankfurt am Main in 05, employed at Malmö municipal finance department from 06 to 10, harbor department of Stockholm city's construction office in 11, employed at AB Arcus Sthlm from 12 to 22. Established his own consulting firm specializing in bridge construction in Stockholm since 22, co-owner of engineering firm Blomgren & Co. Member of the Swedish Technical Association (Sv Tekn.frn).",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Tor Elias Kempe",
+        "jobTitle": "Civil Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "birthDate": "1880-07-25",
+        "birthPlace": "Ytterlännäs, Vnorrl",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "P K"
+            },
+            {
+                "@type": "Person",
+                "name": "Sofia Elfsberg"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "NReal",
+                "endDate": "1898"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "KTH",
+                "endDate": "1902"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Stockholm City's Water Supply System",
+                "startDate": "1902",
+                "endDate": "1904"
+            },
+            {
+                "@type": "Organization",
+                "name": "Ph Holtzmann & Co Frankfurt am Main",
+                "startDate": "1905"
+            },
+            {
+                "@type": "Organization",
+                "name": "Malmö Municipal Finance Department",
+                "startDate": "1906",
+                "endDate": "1910"
+            },
+            {
+                "@type": "Organization",
+                "name": "Stockholm City's Construction Office - Harbor Department",
+                "startDate": "1911"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Arcus Sthlm",
+                "startDate": "1912",
+                "endDate": "1922"
+            },
+            {
+                "@type": "Organization",
+                "name": "Blomgren & Co",
+                "startDate": "1922"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Technical Association (Sv Tekn.frn)"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Construction Engineer",
+                "workplace": "Stockholm",
+                "industry": "Construction",
+                "start_date": "1902"
+            },
+            {
+                "occupational_title": "Engineering Intern",
+                "workplace": "Ph Holtzmann & Co, Frankfurt am Main",
+                "industry": "Engineering",
+                "start_date": "1905"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Malmö Municipal Finance Department",
+                "industry": "Public Administration",
+                "start_date": "1906"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Stockholm City's Construction Office",
+                "industry": "Public Administration",
+                "start_date": "1911"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "AB Arcus Sthlm",
+                "industry": "Unknown",
+                "start_date": "1912"
+            },
+            {
+                "occupational_title": "Consulting Engineer",
+                "workplace": "Own Consulting Firm",
+                "industry": "Engineering",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Co-owner",
+                "workplace": "Blomgren & Co",
+                "industry": "Engineering",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

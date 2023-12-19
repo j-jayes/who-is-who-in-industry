@@ -1,0 +1,88 @@
+{
+    "original": "LILJHAGEN, Bengt Gustaf, Ing-enjör, Kö- ping, f Sthlm 25/9 95 av statskonsulent G L o Göta Tundal, gm Gerda Arfwedson. Hsands tekn elem.sk, tekn stud USA. Anst AB S Varvet Sthlm 19—20, C E Johansson Inc, Prongkrepsie USA, 20 — 22, Greenfield Tap &amp; Die Corp, Mäss, 23 — 28, Kpgs mek verkst AB sed. 28. Lstkapt. V. styr. ordf Kpgs vatten-o elverk, Kpgs badh o tvättinrättn, sekr Kpg-Arb Istfrn. LstftjSM.",
+    "translated": "LILJHAGEN, Bengt Gustaf, Ing-enjör (Engineer), Köping, born in Stockholm on September 25th, 1895, to G L o Göta Tundal, a state consultant. Married to Gerda Arfwedson. Studied technical elementary school. Further technical studies in the USA. Employed at AB S Varvet Stockholm from 1919 to 1920, C E Johansson Inc, Prongkrepsie USA, from 1920 to 1922, Greenfield Tap & Die Corp, Mäss, from 1923 to 1928, and Kpgs mek verkst AB since 1928. Lieutenant Captain. Vice chairman of the board of Kpgs vatten-o elverk (water and power plant), Kpgs badh o tvättinrättn (baths and laundry facility), secretary of Kpg-Arb Istfrn (workers' institute). Received LstftjSM (Long-Service Medal).",
+    "structured": {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "name": "Bengt Gustaf Liljhagen",
+        "birthDate": "1895-09-25",
+        "birthPlace": "Stockholm",
+        "spouse": "Gerda Arfwedson",
+        "description": "Ing-enjör (Engineer) in Köping",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Kpgs vatten-o elverk (water and power plant)",
+                "position": "Vice Chairman of the Board"
+            },
+            {
+                "@type": "Organization",
+                "name": "Kpgs badh o tvättinrättn (baths and laundry facility)",
+                "position": "Secretary"
+            },
+            {
+                "@type": "Organization",
+                "name": "Kpg-Arb Istfrn (workers' institute)",
+                "position": "Secretary"
+            }
+        ],
+        "occupation": "Ing-enjör (Engineer)",
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Technical Elementary School"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Technical Studies",
+                "location": "USA"
+            }
+        ],
+        "alumniOf": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Technical Elementary School",
+                "location": "Köping"
+            }
+        ],
+        "hasOccupation": {
+            "@type": "Role",
+            "startDate": "1930",
+            "roleName": "Lieutenant Captain"
+        },
+        "awards": [
+            {
+                "@type": "Award",
+                "name": "LstftjSM (Long-Service Medal)"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "AB S Varvet",
+                "industry": "Shipbuilding",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "C E Johansson Inc",
+                "industry": "Manufacturing",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Greenfield Tap & Die Corp",
+                "industry": "Manufacturing",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Kpgs mek verkst AB",
+                "industry": "Mechanical Engineering",
+                "start_date": "1928"
+            }
+        ]
+    }
+}

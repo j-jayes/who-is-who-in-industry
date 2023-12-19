@@ -1,0 +1,80 @@
+{
+    "original": "LJUNGGREN, Arne Kersten C:son, Civilingenjör, Stockholm, f Trelleborg 22/6 01 av med dr C A A L o Elise Key, gm Ellika Ulf son. Studex Lund 19, univ Lund 19—21, KTH (E) 21—25, ASEA:s elevkurs. Anst v Elektr AB Siemens i Sthlm sed. 28. Led Sv Tekn.frn.",
+    "translated": "LJUNGGREN, Arne Kersten C:son, Master of Science in Engineering, Stockholm, born in Trelleborg on June 22, 1901, the child of Dr. C.A.A.L. and Elise Key. Married to Ellika Ulf son. Completed secondary education in Lund in 1919, attended Lund University from 1919 to 1921, and KTH (Royal Institute of Technology) from 1921 to 1925. Completed ASEA's apprenticeship program. Employed at Elektr AB Siemens in Stockholm since 1928. Member of the Swedish Association of Technicians.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Arne Kersten Ljunggren",
+        "givenName": "Arne Kersten",
+        "familyName": "Ljunggren",
+        "birthDate": "1901-06-22",
+        "birthPlace": "Trelleborg",
+        "alumniOf": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Lund University",
+                "startDate": "1919",
+                "endDate": "1921"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Royal Institute of Technology",
+                "startDate": "1921",
+                "endDate": "1925"
+            }
+        ],
+        "workLocation": "Stockholm",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Elektr AB Siemens"
+        },
+        "occupation": [
+            {
+                "@type": "JobPosting",
+                "title": "Civilingenjör"
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Master of Science in Engineering"
+            }
+        ],
+        "parents": [
+            {
+                "@type": "Person",
+                "givenName": "C. A. A. L.",
+                "familyName": "Ljunggren",
+                "jobTitle": "Doctor"
+            },
+            {
+                "@type": "Person",
+                "givenName": "Elise",
+                "familyName": "Key"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "givenName": "Ellika",
+            "familyName": "Ulfson"
+        },
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Swedish Association of Technicians"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Master of Science in Engineering",
+                "workplace": "Stockholm",
+                "industry": "Engineering",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Apprentice",
+                "workplace": "Elektr AB Siemens, Stockholm",
+                "industry": "Electrical",
+                "start_date": 1928
+            }
+        ]
+    }
+}

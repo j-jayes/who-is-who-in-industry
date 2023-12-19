@@ -1,0 +1,120 @@
+{
+    "original": "LINDGREN, A, Bankdirektör, Växjö, f Vetlanda 13/3 82 av Alfred L o Emma Jonsson, gm Gerda Billing. Eft slut skolstud anst v Hvetlanda Bk AB o dess eftr Sydsv Kredit AB sed. 01, v huvudkont i Malmö 09, dir f avd.kont 19—34, f Vä x jo-kont 34—42.",
+    "translated": "LINDGREN, A, Bank Director, Växjö, born in Vetlanda on March 13, 1882, to Alfred L and Emma Jonsson, married to Gerda Billing. After completing school, worked at Hvetlanda Bk AB and its successor Sydsvenska Kredit AB since 1901, initially at its head office in Malmö from 1909, became a branch manager from 1919 to 1934, and finally worked at the Växjö office from 1934 to 1942.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "A Lindgren",
+        "birthDate": "1882-03-13",
+        "birthPlace": "Vetlanda",
+        "spouse": {
+            "@type": "Person",
+            "name": "Gerda Billing"
+        },
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1901",
+                "endDate": "2009",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Hvetlanda Bk AB"
+                },
+                "roleName": "Employee"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1909",
+                "endDate": "1942",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Sydsvenska Kredit AB",
+                    "location": {
+                        "@type": "Place",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressLocality": "Malmö"
+                        }
+                    }
+                },
+                "roleName": "Bank Director",
+                "namedPosition": "Head Office"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1919",
+                "endDate": "1934",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Sydsvenska Kredit AB",
+                    "location": {
+                        "@type": "Place",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressLocality": "Malmö"
+                        }
+                    }
+                },
+                "roleName": "Branch Manager"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1934",
+                "endDate": "1942",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Sydsvenska Kredit AB",
+                    "location": {
+                        "@type": "Place",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressLocality": "Växjö"
+                        }
+                    }
+                },
+                "roleName": "Bank Director",
+                "namedPosition": "Växjö Office"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Bank Director",
+                "workplace": "Hvetlanda Bk AB",
+                "industry": "Banking",
+                "start_date": "1901"
+            },
+            {
+                "occupational_title": "Bank Director",
+                "workplace": "Sydsvenska Kredit AB",
+                "industry": "Banking",
+                "start_date": "1901"
+            },
+            {
+                "occupational_title": "Bank Director",
+                "workplace": "Malmö",
+                "industry": "Banking",
+                "start_date": "1909"
+            },
+            {
+                "occupational_title": "Branch Manager",
+                "workplace": "Unknown",
+                "industry": "Banking",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Branch Manager",
+                "workplace": "Unknown",
+                "industry": "Banking",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Bank Director",
+                "workplace": "Växjö",
+                "industry": "Banking",
+                "start_date": "1934"
+            }
+        ]
+    }
+}

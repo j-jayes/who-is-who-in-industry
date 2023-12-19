@@ -1,0 +1,71 @@
+{
+    "original": "LINDSTEN, Augusta, Fru, Varberg, f Hem-mesjö, Kronob l, 7/1 78 av banna A Håkansson o Matilda Hammarstedt. Förest :a sed. 07 f Knutsons marmeladfabr AB o styr.ordf i detta.",
+    "translated": "LINDSTEN, Augusta, Mrs., Varberg, born in Hemmesjö, Kronoberg county, on 7/1 1878, to parents Anders Håkansson and Matilda Hammarstedt. Formerly worked at Knutson's Marmalade Factory AB and served as chair of the board in the same company.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Augusta Lindsten",
+        "givenName": "Augusta",
+        "familyName": "Lindsten",
+        "description": "Mrs. Augusta Lindsten was born on July 1, 1878, in Hemmesjö, Kronoberg county.",
+        "birthDate": "1878-07-01",
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Hemmesjö, Kronoberg county"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Anders Håkansson",
+                "givenName": "Anders",
+                "familyName": "Håkansson"
+            },
+            {
+                "@type": "Person",
+                "name": "Matilda Hammarstedt",
+                "givenName": "Matilda",
+                "familyName": "Hammarstedt"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Knutson's Marmalade Factory AB",
+                "foundingDate": "1907"
+            }
+        ],
+        "occupation": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1907",
+                "endDate": "07/??",
+                "roleName": "Formerly worked at Knutson's Marmalade Factory AB"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "07/??",
+                "roleName": "Chair of the board at Knutson's Marmalade Factory AB"
+            }
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Varberg"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Formerly worked",
+                "workplace": "Knutson's Marmalade Factory AB",
+                "industry": "Marmalade production",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Chair of the board",
+                "workplace": "Knutson's Marmalade Factory AB",
+                "industry": "Marmalade production",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

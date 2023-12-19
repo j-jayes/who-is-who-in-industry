@@ -1,0 +1,107 @@
+{
+    "original": "LILJEROS, Karl Gunnar Arvid, Direktör, Borås, f Sthlm 27/7 96 av tillskär K A L o Olga Ahlstedt, gm Ida Johansson. Anst Västg väfn.AB Älvsered 09—16, jvgstjm 16—25. Eg föret: AB Manufaktur &amp; Konfektion, Borås. Ag villafastigh i Borås samt jordbr i Mjö-bäcks s:n. Resor: Danm, Tyskl, Schweiz, Holl, Belg, Frankr, Luxemb, Österr, Ung, Tjeckoslov, Ital v öl tillf 37—39. Odd Fellow, KAK. Hobbies : Konst, resor.",
+    "translated": "LILJEROS, Karl Gunnar Arvid, Director, Borås, b. Stockholm 27/7 1896, son of tillskär K A L and Olga Ahlstedt, m. Ida Johansson. Employed at Västg väfn.AB Älvsered 09-16, jvgstjm 16-25. Owns company: AB Manufaktur & Konfektion, Borås. Owns residential property in Borås as well as farmland in Mjö-bäcks s.n. Travels: Denmark, Germany, Switzerland, Netherlands, Belgium, France, Luxembourg, Austria, Hungary, Czechoslovakia, Italy multiple times between 1937-1939. Member of Odd Fellow and the Swedish Chamber of Commerce. Hobbies: Art, travel.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Karl Gunnar Arvid Liljeros",
+        "birthDate": "1896-07-27",
+        "birthPlace": "Stockholm",
+        "deathDate": null,
+        "description": "Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Borås"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "K A L Liljeros"
+            },
+            {
+                "@type": "Person",
+                "name": "Olga Ahlstedt"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ida Johansson"
+        },
+        "employment": [
+            {
+                "@type": "Organization",
+                "name": "Västg väfn.AB Älvsered",
+                "startDate": "1909",
+                "endDate": "1916"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Manufaktur & Konfektion",
+                "alternateName": "AB Manufaktur & Konfektion, Borås"
+            }
+        ],
+        "owns": [
+            {
+                "@type": "Place",
+                "name": "Residential property in Borås"
+            },
+            {
+                "@type": "Place",
+                "name": "Farmland in Mjö-bäcks s.n."
+            }
+        ],
+        "travels": [
+            "Denmark",
+            "Germany",
+            "Switzerland",
+            "Netherlands",
+            "Belgium",
+            "France",
+            "Luxembourg",
+            "Austria",
+            "Hungary",
+            "Czechoslovakia",
+            "Italy"
+        ],
+        "travelDates": {
+            "startDate": "1937",
+            "endDate": "1939"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Odd Fellow"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Chamber of Commerce"
+            }
+        ],
+        "hobbies": [
+            "Art",
+            "Travel"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Västg väfn.AB Älvsered",
+                "industry": "Textile",
+                "start_date": "1909-1916"
+            },
+            {
+                "occupational_title": "Railway Employee",
+                "workplace": "Västg väfn.AB Älvsered",
+                "industry": "Transportation",
+                "start_date": "1916-1925"
+            },
+            {
+                "occupational_title": "Company Owner",
+                "workplace": "AB Manufaktur & Konfektion",
+                "industry": "Manufacturing",
+                "start_date": "1925"
+            }
+        ]
+    }
+}

@@ -1,0 +1,138 @@
+{
+    "original": "KARLSTRÖM, Hans Thure, Kamrer, Ålsten, f Sthlm 29/10 01 av postilj O K o Elin Eriksson, gm Maja Montelius. Realex 18,Schartaus 20. Kassör Försäkr AB Sv Minerva 20, bokför AB Clara Badinrättn 23, bokf, sed. kamrer AB Baltic 25, kont.ch AB Per Perssons Väf- &amp; Stickmaskin 30, kamrer AB Sv Jordförmedling 31, kamrer o kont.ch AB Mälardalens Tegelbr sed. 42. Ag villafastigh Ålsten. Av Sth hdlskamm godk granskn.m 31. Led i Sv Revisorsamf. Pensionsstyr :s revisor i ett ant erkända yrkessj.kassor. Frimurare.",
+    "translated": "KARLSTRÖM, Hans Thure, Accountant, Ålsten, born in Stockholm on 29/10 1901, son of postal worker O K and Elin Eriksson, married to Maja Montelius. Attended a comprehensive school until the age of 18, then studied at Schartaus until 1920. Became a cashier at the Insurance Company Sv Minerva in 1920, bookkeeper at AB Clara Bathhouse in 1923, continued as a bookkeeper, later becoming an accountant at AB Baltic in 1925, accounting clerk at AB Per Persson's Weaving & Knitting Machine in 1930, accountant and accounting clerk at AB Swedish Land Agency in 1931, accountant and accounting clerk at AB Mälardalens Brick Works since 1942. Owns a villafastigh (villa property) in Ålsten. Approved and reviewed by Stockholm Chamber of Commerce in 1931. Member of the Swedish Association of Auditors. Pension director's auditor at several recognized professional insurance funds. Freemason.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Hans Thure Karlström",
+        "birthDate": "1901-10-29",
+        "jobTitle": "Accountant",
+        "nationality": "Swedish",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Ålsten",
+            "addressCountry": "Sweden"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "O K Karlström"
+            },
+            {
+                "@type": "Person",
+                "name": "Elin Eriksson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Maja Montelius"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Schartaus",
+                "startDate": "1918",
+                "endDate": "1920"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Insurance Company Sv Minerva",
+                "startDate": "1920"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Clara Bathhouse",
+                "startDate": "1923"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Baltic",
+                "startDate": "1925"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Per Persson's Weaving & Knitting Machine",
+                "startDate": "1930"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Swedish Land Agency",
+                "startDate": "1931"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Mälardalens Brick Works",
+                "startDate": "1942"
+            }
+        ],
+        "owns": [
+            {
+                "@type": "Place",
+                "name": "Villa property in Ålsten"
+            }
+        ],
+        "memberships": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Association of Auditors"
+            }
+        ],
+        "additionalProperty": [
+            {
+                "@type": "PropertyValue",
+                "name": "Approved and reviewed by Stockholm Chamber of Commerce",
+                "value": "1931"
+            },
+            {
+                "@type": "PropertyValue",
+                "name": "Pension director's auditor at several recognized professional insurance funds"
+            },
+            {
+                "@type": "PropertyValue",
+                "name": "Freemason"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Accountant",
+                "workplace": "Försäkrings AB Sv Minerva",
+                "industry": "Insurance",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Bookkeeper",
+                "workplace": "AB Clara Badinrättn",
+                "industry": "Bathing establishment",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Bookkeeper",
+                "workplace": "AB Baltic",
+                "industry": "Unknown",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Accounting Clerk",
+                "workplace": "AB Per Perssons Väf- & Stickmaskin",
+                "industry": "Weaving & Knitting Machine",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Accountant and Accounting Clerk",
+                "workplace": "AB Sv Jordförmedling",
+                "industry": "Real Estate",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Accountant and Accounting Clerk",
+                "workplace": "AB Mälardalens Tegelbruk",
+                "industry": "Brick Works",
+                "start_date": "1942"
+            }
+        ]
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "original": "KIRUDD, Bror, Grosshandlare, Vänersborg, f Saxtorp, Malmöh l, 24/8 82. Eft slut skolstud anst aff.bransch, förest Alb. Anderssons manuf.aff Kiruna 06, inneh dna 09—14, inneh Åhman &amp; Mattsons manuf.aff Uddevalla sed. 15, gr AB Gunnar Wiborg Uddevalla 18, vkst dir ds eftr Kirudds AB Vänersborg sed. 31. K blev i o med gr av AB Gunnar Wiborg Sv:s förste tillv av overalls i större skala.",
+    "translated": "KIRUDD, Bror, Wholesale Merchant, Vänersborg, born in Saxtorp, Malmö county, 24th August 1882. After completing his school studies, he started working in the industry and was employed at Alb. Andersson's manufacturing business in Kiruna from 1906. He became the owner of the business in 1909 and maintained ownership until 1914. He then became the owner of Åhman & Mattson's manufacturing business in Uddevalla from 1915. In 1918, he established AB (Limited Company) Gunnar Wiborg in Uddevalla and served as a managing director. He continued his career as a growth director at Kirudd's AB in Vänersborg from 1931. Kirudd's AB in Vänersborg became the first company in Sweden to produce overalls on a larger scale due to the establishment of AB Gunnar Wiborg. Please note that the abbreviation '\\d\\d m. partners name' indicates that the person married in the year 19xx.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Bror Kirudd",
+        "birthDate": "1882-08-24",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Saxtorp",
+                "addressRegion": "Malmöh l"
+            }
+        },
+        "jobTitle": "Wholesale Merchant",
+        "description": "Grosshandlare",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "AB Gunnar Wiborg",
+                "description": "First company in Sweden to produce overalls on a larger scale"
+            }
+        ],
+        "spouse": [
+            {
+                "@type": "Person",
+                "name": "[Partner's name]",
+                "startDate": "19xx"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Wholesale Merchant",
+                "workplace": "Vänersborg",
+                "industry": "Unknown",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Employee in the Manufacturing Industry",
+                "workplace": "Alb. Anderssons manuf.aff Kiruna",
+                "industry": "Clothing Manufacturing",
+                "start_date": "1906"
+            },
+            {
+                "occupational_title": "Owner of Manufacturing Business",
+                "workplace": "Alb. Anderssons manuf.aff Kiruna",
+                "industry": "Clothing Manufacturing",
+                "start_date": "1909"
+            },
+            {
+                "occupational_title": "Owner of Manufacturing Business",
+                "workplace": "Åhman & Mattsons manuf.aff Uddevalla",
+                "industry": "Clothing Manufacturing",
+                "start_date": "1915"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "AB Gunnar Wiborg Uddevalla",
+                "industry": "Unknown",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Growth Director",
+                "workplace": "Kirudds AB Vänersborg",
+                "industry": "Unknown",
+                "start_date": "1931"
+            }
+        ]
+    }
+}

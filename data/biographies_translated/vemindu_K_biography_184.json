@@ -1,0 +1,266 @@
+{
+    "original": "KUMFELDT, Karl Torsten, Direktör, Stockholm, f Örebro 4/1 86 av fabr V Gustafsson o Anna Lindh, gm Anna Carlsson. NLatin, byggn.ing 06 Tekn Högsk Darmstadt. Anst ss rit h ark prof I G Clason o greve S Cronstedt, kontroll v Dram teat nybyggn, ing o arbets-led Bröd Gustafssons Stenhuggerier (grund 88 av K :s far o farbror) sed. 09, vkst dir sed. 31, ag aktierna;), styr.ordf. Led tax- o fastigh-tax.nmd Sthlm. Ordf Sv Stenind.frb o dess Sthlmsavd, kassaförv Sv Livräddn.sällsk sed. 16, simidr.led ett 30-tal år, bl a v kappsimn Olymp sp Sthlm 12. Resor: Engl 08, 11, 13, Belg 13, 20, Tyskl 06, 07, 20, Frankr, Schweiz 07, 20, Ryssl 13. Av trycket årsböcker f Sv Livräddn.sällsk, art i medl.blad f simidr o stenind. RVO, GVrsOlM, Sv Livräddn.sällsk:s GM, Riksidr.frbs ftjm g, Sv Simfrbs o Sthlms Kappsimn.klb GM, olymp prisM 08, 12 o 20 mm. Frimurare, Arla Cpldinu. Hobbies: Simning, segling, fiske, skidor.",
+    "translated": "KUMFELDT, Karl Torsten, Director, Stockholm, b. Örebro 4/1/1886, son of factory worker V. Gustafsson and Anna Lindh, m. Anna Carlsson. Studied Latin, civil engineering in 1906 at the Darmstadt University of Technology. Employed as an architect at the firm of I.G. Clason and Count S. Cronstedt, supervisor of the construction of the new Dramaten theater. Worked as an engineer and foreman at Bröd Gustafssons Stenhuggerier (founded in 1888 by Karl's father and uncle) since 1909, promoted to director in 1931, and eventually became a shareholder. Chairman of the board. Also served on the board of the Swedish Stone Industry Association and its Stockholm branch, treasurer of the Swedish Life Saving Society since 1916. Managed a swimming school for about 30 years and competed in swimming, including the Olympic Games in Stockholm in 1912. Traveled to England in 1908, 1911, and 1913, Belgium in 1913 and 1920, Germany in 1906, 1907, and 1920, France, Switzerland in 1907 and 1920, Russia in 1913. Published articles in the annual reports of the Swedish Life Saving Society and in the newsletter for swimming and stone industry. Received various honors and awards, including the Royal Order of Vasa (RVO), the Order of the Sword (GVrsOlM), the Swedish Life Saving Society's Gold Medal, the Swedish National Swimming Association's Gold Medal, and the Stockholm Swimming Club's Gold Medal. Also won Olympic medals in 1908, 1912, and 1920. A Freemason in the Arla Cpldinu Lodge. Hobbies include swimming, sailing, fishing, and skiing. Note that '\\d\\d m. partners name' denotes marriage in the year 19xx.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Karl Torsten Kumfeldt",
+        "jobTitle": "Director",
+        "birthPlace": "Örebro",
+        "birthDate": "1886-01-04",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "V. Gustafsson",
+                "jobTitle": "Factory Worker"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Lindh"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Anna Carlsson",
+            "marriageDate": "19xx"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Darmstadt University of Technology",
+                "location": "Darmstadt",
+                "startDate": "1906",
+                "endDate": "1906"
+            }
+        ],
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "19xx",
+                "roleName": "Architect",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "I.G. Clason",
+                    "founder": "Gustaf Clason"
+                },
+                "performedBy": "Karl Torsten Kumfeldt"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "19xx",
+                "roleName": "Supervisor",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Count S. Cronstedt"
+                },
+                "performedBy": "Karl Torsten Kumfeldt"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1909",
+                "roleName": "Engineer",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Bröd Gustafssons Stenhuggerier",
+                    "foundedBy": {
+                        "@type": "Person",
+                        "name": "Karl's father"
+                    }
+                },
+                "performedBy": "Karl Torsten Kumfeldt"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1931",
+                "roleName": "Director",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Bröd Gustafssons Stenhuggerier"
+                },
+                "performedBy": "Karl Torsten Kumfeldt"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "19xx",
+                "roleName": "Chairman",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Bröd Gustafssons Stenhuggerier"
+                },
+                "performedBy": "Karl Torsten Kumfeldt"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "19xx",
+                "roleName": "Board Member",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Swedish Stone Industry Association"
+                },
+                "performedBy": "Karl Torsten Kumfeldt"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "19xx",
+                "roleName": "Board Member",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Swedish Life Saving Society"
+                },
+                "performedBy": "Karl Torsten Kumfeldt"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Arla Cpldinu Lodge",
+            "location": "Sweden",
+            "founder": "Freemasons"
+        },
+        "sportsActivity": {
+            "@type": "SportsActivity",
+            "name": "Swimming",
+            "startDate": "19xx",
+            "endDate": "19xx"
+        },
+        "event": {
+            "@type": "SportsEvent",
+            "name": "Olympic Games",
+            "location": "Stockholm",
+            "startDate": "1912"
+        },
+        "travel": [
+            {
+                "@type": "TravelAction",
+                "name": "Traveled to England",
+                "startDate": "1908"
+            },
+            {
+                "@type": "TravelAction",
+                "name": "Traveled to England",
+                "startDate": "1911"
+            },
+            {
+                "@type": "TravelAction",
+                "name": "Traveled to England",
+                "startDate": "1913"
+            },
+            {
+                "@type": "TravelAction",
+                "name": "Traveled to Belgium",
+                "startDate": "1913"
+            },
+            {
+                "@type": "TravelAction",
+                "name": "Traveled to Belgium",
+                "startDate": "1920"
+            },
+            {
+                "@type": "TravelAction",
+                "name": "Traveled to Germany",
+                "startDate": "1906"
+            },
+            {
+                "@type": "TravelAction",
+                "name": "Traveled to Germany",
+                "startDate": "1907"
+            },
+            {
+                "@type": "TravelAction",
+                "name": "Traveled to Germany",
+                "startDate": "1920"
+            },
+            {
+                "@type": "TravelAction",
+                "name": "Traveled to France"
+            },
+            {
+                "@type": "TravelAction",
+                "name": "Traveled to Switzerland",
+                "startDate": "1907"
+            },
+            {
+                "@type": "TravelAction",
+                "name": "Traveled to Switzerland",
+                "startDate": "1920"
+            },
+            {
+                "@type": "TravelAction",
+                "name": "Traveled to Russia",
+                "startDate": "1913"
+            }
+        ],
+        "publication": [
+            {
+                "@type": "Article",
+                "name": "Published in the annual reports of the Swedish Life Saving Society"
+            },
+            {
+                "@type": "Article",
+                "name": "Published in the newsletter for swimming and stone industry"
+            }
+        ],
+        "award": [
+            {
+                "@type": "Order",
+                "name": "Royal Order of Vasa"
+            },
+            {
+                "@type": "Order",
+                "name": "Order of the Sword"
+            },
+            {
+                "@type": "Medal",
+                "name": "Swedish Life Saving Society's Gold Medal"
+            },
+            {
+                "@type": "Medal",
+                "name": "Swedish National Swimming Association's Gold Medal"
+            },
+            {
+                "@type": "Medal",
+                "name": "Stockholm Swimming Club's Gold Medal"
+            },
+            {
+                "@type": "Medal",
+                "name": "Olympic Medal",
+                "startDate": "1908"
+            },
+            {
+                "@type": "Medal",
+                "name": "Olympic Medal",
+                "startDate": "1912"
+            },
+            {
+                "@type": "Medal",
+                "name": "Olympic Medal",
+                "startDate": "1920"
+            }
+        ],
+        "hasOccupation": {
+            "@type": "Occupation",
+            "name": "Simning, segling, fiske, skidor"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Architect",
+                "workplace": "I.G. Clason and Count S. Cronstedt",
+                "industry": "Architecture",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Engineer and Foreman",
+                "workplace": "Bröd Gustafssons Stenhuggerier",
+                "industry": "Stone Industry",
+                "start_date": "1909"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Bröd Gustafssons Stenhuggerier",
+                "industry": "Stone Industry",
+                "start_date": "1931"
+            }
+        ]
+    }
+}

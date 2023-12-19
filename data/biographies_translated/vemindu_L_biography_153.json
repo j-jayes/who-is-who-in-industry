@@ -1,0 +1,95 @@
+{
+    "original": "LILJEROS, Bror Gustaf Adolf, Direktör, Borås, f Visby 6/11 98 av skr.mäst K A L o Olga Ahlstedt, gm Signe Liicklig. Anst Västg väfn.AB Älfsered 12—23, Bröd Wennerlund Borås 23—25, deläg, styr.led o dir AB Bröd Liljeros (grund 25). Ordf IF Elf sb :s tennissekt. Resor: Engl 33, Tyskl 40. Hobbies: Tennis, foto, blomsterodl.",
+    "translated": "LILJEROS, Bror Gustaf Adolf, Director, Borås, b. Visby 6/11 1898, son of master tailor K A L and Olga Ahlstedt, married to Signe Liicklig. Employed at Västgöta väfveri AB Älfsered 1912-1923, Wennerlund Brothers Borås 1923-1925, co-owner, board member, and director of AB Bröd Liljeros (established 1925). Chairman of IF Elfsborg's tennis section. Travels: England 1933, Germany 1940. Hobbies: Tennis, photography, flower cultivation.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Bror Gustaf Adolf Liljeros",
+        "jobTitle": "Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Borås"
+        },
+        "birthDate": "1898-11-06",
+        "birthPlace": "Visby",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "K A L Liljeros",
+                "jobTitle": "Master Tailor"
+            },
+            {
+                "@type": "Person",
+                "name": "Olga Ahlstedt"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Signe Liicklig"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Västgöta väfveri AB Älfsered",
+                "startDate": "1912",
+                "endDate": "1923"
+            },
+            {
+                "@type": "Organization",
+                "name": "Wennerlund Brothers Borås",
+                "startDate": "1923",
+                "endDate": "1925"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Bröd Liljeros",
+                "startDate": "1925"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "IF Elfsborg",
+                "department": "tennis section",
+                "roleName": "Chairman"
+            }
+        ],
+        "knowsAbout": [
+            "Tennis",
+            "Photography",
+            "Flower cultivation"
+        ],
+        "travel": [
+            {
+                "@type": "Trip",
+                "name": "England 1933"
+            },
+            {
+                "@type": "Trip",
+                "name": "Germany 1940"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "AB Bröd Liljeros",
+                "industry": "Unknown",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Västgöta väfveri AB Älfsered",
+                "industry": "Textile Manufacturing",
+                "start_date": "1912"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Wennerlund Brothers",
+                "industry": "Unknown",
+                "start_date": "1923"
+            }
+        ]
+    }
+}

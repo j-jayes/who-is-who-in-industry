@@ -1,0 +1,150 @@
+{
+    "original": "KÄRNHUS, Karl Gösta, Disponent, Eskilstuna, f Etuna 17/9 93 av fabr Karl Karlsson o Kristina Björklund, gm Gertrude Eden-hoim. Etuna hal, HHS. Anst sed. 10 i Etuna mesost- &amp; märg.fabr AB (se vid. om detta und fabr K J K:son), ch sed. 20. Led dräts.kamm 22—33, ordf fin.avd 32—33, led tax,nmd sed 27. Styr.led AB Plåtmanuf sed. 41, Sv hdlsbkns avd.styr sed. 37. Etuna Ro-tary (presid 41—42), Etuna KFUM sed. 20. Resor: USA 21, 34, ett 10-t res t de fi europ länd. Odd Fellow, Rotary. Hobby: Sportfiske.",
+    "translated": "KÄRNHUS, Karl Gösta, Manager, Eskilstuna, b Etuna 17/9 93 to factory worker Karl Karlsson and Kristina Björklund, m Gertrude Eden-hoim. Etuna hall school, HHS (Högre Handelsskola). Employed since 1910 at Etuna cheese and marrow factory AB (see more about this under factory K J K:son), promoted to manager in 1920. Member of the municipal council from 1922 to 1933, chairman of the finance department in 1932-1933, member of the tax committee since 1927. Board member of AB Plåtmanuf since 1941, board member of the Swedish Trade Association division since 1937. President of Etuna Rotary in 1941-1942, member of Etuna YMCA since 1920. Traveled to the USA in 1921 and 1934, and made several trips to various European countries. Member of Odd Fellow and Rotary. Hobby: Sport fishing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "KÄRNHUS, Karl Gösta",
+        "birthDate": "1893-09-17",
+        "birthPlace": "Eskilstuna",
+        "description": "Manager, Eskilstuna",
+        "familyName": "KÄRNHUS",
+        "givenName": "Karl Gösta",
+        "spouse": {
+            "@type": "Person",
+            "name": "Gertrude Eden-hoim"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Karl Karlsson"
+            },
+            {
+                "@type": "Person",
+                "name": "Kristina Björklund"
+            }
+        ],
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Etuna hall school",
+            "alumniOf": {
+                "@type": "CollegeOrUniversity",
+                "name": "HHS"
+            }
+        },
+        "employment": [
+            {
+                "@type": "OrganizationRole",
+                "title": "Manager",
+                "startDate": "1910",
+                "endDate": "20",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Etuna cheese and marrow factory AB"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Member of the municipal council",
+                "startDate": "1922",
+                "endDate": "33"
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Chairman of the finance department",
+                "startDate": "32",
+                "endDate": "33"
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Member of the tax committee",
+                "startDate": "1927"
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Board member",
+                "startDate": "1941",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "AB Plåtmanuf"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Board member",
+                "startDate": "1937",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Swedish Trade Association"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Etuna Rotary",
+                "president": "1941-1942"
+            },
+            {
+                "@type": "Organization",
+                "name": "Etuna YMCA"
+            },
+            {
+                "@type": "SportsTeam",
+                "name": "Sportfiske"
+            },
+            {
+                "@type": "Organization",
+                "name": "Odd Fellow"
+            },
+            {
+                "@type": "Organization",
+                "name": "Rotary"
+            }
+        ],
+        "sameAs": [
+            "https://www.example.com/biography/KÄRNHUS-Karl-Gösta"
+        ],
+        "knowsAbout": "Swedish family history"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Manager",
+                "workplace": "Etuna cheese and marrow factory AB",
+                "industry": "Food manufacturing",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Member of the municipal council",
+                "workplace": "Municipality of Eskilstuna",
+                "industry": "Government",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Chairman of the finance department",
+                "workplace": "Municipality of Eskilstuna",
+                "industry": "Government",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Member of the tax committee",
+                "workplace": "Municipality of Eskilstuna",
+                "industry": "Government",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Board member",
+                "workplace": "AB Plåtmanuf",
+                "industry": "Metal manufacturing",
+                "start_date": "1941"
+            },
+            {
+                "occupational_title": "Board member",
+                "workplace": "Swedish Trade Association",
+                "industry": "Business association",
+                "start_date": "1937"
+            }
+        ]
+    }
+}

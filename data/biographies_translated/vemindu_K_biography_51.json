@@ -1,0 +1,39 @@
+{
+    "original": "KAUPPI, [Leo, Direktör, Luleå, f 13/10 99, gm Astrid Sandberg. Dir o Styr.led Norrbottens imp.AB (grund 13).",
+    "translated": "KAUPPI, [Leo, Director, Luleå, born 13/10 99, married Astrid Sandberg. Director and Board member of Norrbottens Import AB (established in 1913).",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Leo Kauppi",
+        "birthDate": "1899-10-13",
+        "jobTitle": "Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Luleå"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Astrid Sandberg"
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Norrbottens Import AB",
+            "foundingDate": "1913"
+        },
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Norrbottens Import AB",
+            "jobTitle": "Director and Board member"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Norrbottens Import AB",
+                "industry": "Unknown",
+                "start_date": "1913"
+            }
+        ]
+    }
+}

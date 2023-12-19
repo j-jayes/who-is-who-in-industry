@@ -1,0 +1,107 @@
+{
+    "original": "LINDGREN, Frans Valfrid, Direktör, Gävle, f Virestad, Kronob l, 10/7 78 av Claes Vilhelm L o Eva Danielsson. Studex. Registr i riks-bkn 03, kass 10, kamr 21, dir 29. RVO, Frimurare; Sällsk NT, ordf Smal Gille.",
+    "translated": "LINDGREN, Frans Valfrid, Director, Gävle, born in Virestad, Kronoberg county, on July 10, 1878, to Claes Vilhelm L and Eva Danielsson. Completed studies. Registered in the National Bank in 1903, held positions in cash (10), finance (21), and management (29). Holder of the Royal Order of Vasa (RVO), Freemason; Member of the Society for Nordic Antiquities, Chairman of the Smal Guild.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Frans",
+        "additionalName": "Valfrid",
+        "familyName": "Lindgren",
+        "birthDate": "1878-07-10",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Virestad",
+                "addressRegion": "Kronoberg",
+                "addressCountry": "Sweden"
+            }
+        },
+        "deathDate": "",
+        "nationality": "Swedish",
+        "description": "Director",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Royal Order of Vasa",
+                "identifier": "RVO"
+            },
+            {
+                "@type": "Organization",
+                "name": "Freemasons"
+            },
+            {
+                "@type": "Organization",
+                "name": "Society for Nordic Antiquities"
+            },
+            {
+                "@type": "Organization",
+                "name": "Smal Guild",
+                "position": "Chairman"
+            }
+        ],
+        "alumniOf": {
+            "@type": "EducationalOrganization",
+            "name": "completed studies"
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Gävle"
+        },
+        "registeredIn": {
+            "@type": "Organization",
+            "name": "National Bank",
+            "department": [
+                {
+                    "@type": "GovernmentOffice",
+                    "name": "cash",
+                    "position": 10
+                },
+                {
+                    "@type": "GovernmentOffice",
+                    "name": "finance",
+                    "position": 21
+                },
+                {
+                    "@type": "GovernmentOffice",
+                    "name": "management",
+                    "position": 29
+                }
+            ]
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Gävle",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Registered in the National Bank",
+                "workplace": "Unknown",
+                "industry": "Banking",
+                "start_date": "1903"
+            },
+            {
+                "occupational_title": "Cash (Position)",
+                "workplace": "Unknown",
+                "industry": "Banking",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Finance (Position)",
+                "workplace": "Unknown",
+                "industry": "Banking",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Management (Position)",
+                "workplace": "Unknown",
+                "industry": "Banking",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

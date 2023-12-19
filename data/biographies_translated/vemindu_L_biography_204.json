@@ -1,0 +1,145 @@
+{
+    "original": "LINDBLOM, Sven Edvard, Bergsingenjör, Avesta, f Borlänge 18/3 99 av byggm E A L o Emma Johannesson, gm Britta Gustafson. Studex 18, KTH (bergs) 24. Red.sekr Jernkont Annaler 25, metallurg h Mongoliska staten 26—28, h Inland Steel USA 29, h Kockums Jernvk 30, h Grafitbol Trollhättan 31—34, v Avesta Jernvk sed. 34. Resor: Kina 26—28, USA 29, Rumänien 30. Hobbies: Friluftsliv, Skytte.",
+    "translated": "LINDBLOM, Sven Edvard, Mining Engineer, Avesta, b. Borlänge 18/3 1899 to construction manager E A L and Emma Johannesson, m. Britta Gustafson. Graduated 1918, Royal Institute of Technology (mining) 1924. Editor-secretary, Jernkont Annaler 1925, metallurgist in the Mongolian state 1926-1928, at Inland Steel USA 1929, at Kockums Jernverk 1930, at Grafitbol in Trollhättan 1931-1934, at Avesta Jernverk since 1934. Travels: China 1926-1928, USA 1929, Romania 1930. Hobbies: Outdoor activities, Shooting.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Sven Edvard Lindblom",
+        "birthDate": "1899-03-18",
+        "birthPlace": "Borlänge, Sweden",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "E A L",
+                "jobTitle": "Construction Manager"
+            },
+            {
+                "@type": "Person",
+                "name": "Emma Johannesson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Britta Gustafson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Royal Institute of Technology",
+                "location": "Stockholm, Sweden"
+            }
+        ],
+        "alumniOf": {
+            "@type": "CollegeOrUniversity",
+            "name": "Royal Institute of Technology"
+        },
+        "jobTitle": "Mining Engineer",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Avesta Jernverk"
+        },
+        "achievements": [
+            {
+                "@type": "PublicationIssue",
+                "name": "Jernkont Annaler",
+                "issueNumber": "25",
+                "editor": "Editor-Secretary"
+            }
+        ],
+        "workLocation": "Avesta, Sweden",
+        "workExperience": [
+            {
+                "@type": "Organization",
+                "name": "Mongolian State",
+                "location": "Mongolia",
+                "startDate": "1926",
+                "endDate": "1928",
+                "jobTitle": "Metallurgist"
+            },
+            {
+                "@type": "Organization",
+                "name": "Inland Steel",
+                "location": "USA",
+                "startDate": "1929",
+                "jobTitle": "Metallurgist"
+            },
+            {
+                "@type": "Organization",
+                "name": "Kockums Jernverk",
+                "location": "Sweden",
+                "startDate": "1930",
+                "jobTitle": "Metallurgist"
+            },
+            {
+                "@type": "Organization",
+                "name": "Grafitbol",
+                "location": "Trollhättan, Sweden",
+                "startDate": "1931",
+                "endDate": "1934",
+                "jobTitle": "Metallurgist"
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "Place",
+                "name": "China",
+                "startDate": "1926",
+                "endDate": "1928"
+            },
+            {
+                "@type": "Place",
+                "name": "USA",
+                "startDate": "1929"
+            },
+            {
+                "@type": "Place",
+                "name": "Romania",
+                "startDate": "1930"
+            }
+        ],
+        "interests": [
+            "Outdoor activities",
+            "Shooting"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Mining Engineer",
+                "workplace": "Avesta",
+                "industry": "Mining",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Editor-secretary",
+                "workplace": "Jernkont Annaler",
+                "industry": "Publishing",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Metallurgist",
+                "workplace": "Mongolian state",
+                "industry": "Metallurgy",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Metallurgist",
+                "workplace": "Inland Steel",
+                "industry": "Steel",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Mining Engineer",
+                "workplace": "Kockums Jernverk",
+                "industry": "Mining",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Mining Engineer",
+                "workplace": "Grafitbol",
+                "industry": "Mining",
+                "start_date": "1931"
+            }
+        ]
+    }
+}

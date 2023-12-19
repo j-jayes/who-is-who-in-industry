@@ -1,0 +1,99 @@
+{
+    "original": "LINDSTRAND, Ernst, Fabrikör, Valdemarsvik, f Norrköping 7/10 92 av fabr N L o h h. Bergslagens verkm- o tekn sk. Anst faderns koppar- o bleckslag, utvidg dta m el inställ, värme- o sanitetsanläggn, inneh dna fma, Nils Lindstrand, sed. 39. Köpingsflm, led tax.nmd, fi styr o nmd, suppl köp.rev, rev fi komm o ensk sammanslutn. Ordf logen Valdemars byggn.frn, Odd Fellow.",
+    "translated": "LINDSTRAND, Ernst, Industrialist, Valdemarsvik, b. Norrköping 7/10 92, son of factory owner Nils Lindstrand and housewife Hilda Bergslagen. Attended technical school for mechanical engineering. Joined his father's business in coppersmithing and sheet metal work, later expanded into electrical installations, heating systems, and plumbing. Currently in possession of the family business established by his father, Nils Lindstrand, since 1939. Member of the Tax Board. Served on various committees and boards, including the Purchasing Committee and the Revenue Board. Held positions in the municipal council and in private associations. Chairman of the Valdemars building association and Odd Fellow lodge.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Ernst Lindstrand",
+        "jobTitle": "Industrialist",
+        "birthPlace": "Norrköping",
+        "birthDate": {
+            "@type": "Date",
+            "value": "1892-10-07"
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Nils Lindstrand",
+                "jobTitle": "Factory Owner",
+                "birthDate": {
+                    "@type": "Date",
+                    "value": "unknown"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Hilda Bergslagen",
+                "jobTitle": "Housewife",
+                "birthDate": {
+                    "@type": "Date",
+                    "value": "unknown"
+                }
+            }
+        ],
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Mechanical Engineering",
+            "educationalLevel": "Technical School"
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Nils Lindstrand & Co.",
+            "foundingDate": {
+                "@type": "Date",
+                "value": "1939"
+            }
+        },
+        "sameAs": [
+            "http://taxboard.example.com/member/ernst-lindstrand",
+            "http://boards.example.com/purchasing-committee/ernst-lindstrand",
+            "http://boards.example.com/revenue-board/ernst-lindstrand",
+            "http://municipal-council.example.com/member/ernst-lindstrand"
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Valdemars Building Association",
+                "roleName": "Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Odd Fellow Lodge"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Industrialist",
+                "workplace": "Valdemarsvik",
+                "industry": "Manufacturing",
+                "start_date": "1939"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "Nils Lindstrand's business",
+                "industry": "Coppersmithing and sheet metal work",
+                "start_date": "1939"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "Nils Lindstrand's business",
+                "industry": "Electrical installations",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "Nils Lindstrand's business",
+                "industry": "Heating systems",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "Nils Lindstrand's business",
+                "industry": "Plumbing",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

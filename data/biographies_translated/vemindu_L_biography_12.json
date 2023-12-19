@@ -1,0 +1,95 @@
+{
+    "original": "LAGERMAN, John Alexander, Civilingenjör, överingenjör, Ankarsrum, f Huskv 1/1 09 av övering J E L o Rose Nygren. Studex Jönkp 27, KTH 27—31, avg.ex där sistn år. Chef f arb.stud.avd v Husqv Vapenfabriks AB, Huskv, 32—35, anst h AB Industribyrån, Sveri-fes Ind.frb, Sthlm 35, sedermera övering v B Ankarsrums Bruk, Ankarsrum. Led Sv Tekn.frn.",
+    "translated": "LAGERMAN, John Alexander, Civil Engineer, Chief Engineer, Ankarsrum, b. Huskv 1/1 09 to Chief Engineer J.E.L and Rose Nygren. Studied at Jönkp 27, KTH 27-31, graduated there in the last year. Chief of the Work Study Department at Husqv Vapenfabriks AB, Huskv, 32-35, employed by AB Industribyrån, Sveri-fes Ind.frb, Sthlm 35, later became Chief Engineer at B Ankarsrums Bruk, Ankarsrum. Member of the Swedish Technical Society.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "John Alexander Lagerman",
+        "birthDate": "1909-01-01",
+        "description": "Civil Engineer, Chief Engineer",
+        "parent": {
+            "@type": "Person",
+            "name": "Rose Nygren"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Jönkp",
+                "startDate": "1927",
+                "endDate": "Unknown"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "KTH",
+                "startDate": "1927",
+                "endDate": "1931"
+            }
+        ],
+        "employment": [
+            {
+                "@type": "Organization",
+                "name": "Husqv Vapenfabriks AB",
+                "department": "Work Study Department",
+                "title": "Chief",
+                "startDate": "1932",
+                "endDate": "1935",
+                "location": {
+                    "@type": "Place",
+                    "name": "Huskv"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Industribyrån, Sveri-fes Ind.frb",
+                "title": "Employee",
+                "startDate": "1935",
+                "location": {
+                    "@type": "Place",
+                    "name": "Sthlm"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "B Ankarsrums Bruk",
+                "title": "Chief Engineer",
+                "startDate": "Unknown",
+                "location": {
+                    "@type": "Place",
+                    "name": "Ankarsrum"
+                }
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Swedish Technical Society"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Ankarsrum",
+                "industry": "",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Chief Engineer",
+                "workplace": "Husqv Vapenfabriks AB",
+                "industry": "",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "AB Industribyrån",
+                "industry": "Sveri-fes Ind.frb",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Chief Engineer",
+                "workplace": "B Ankarsrums Bruk",
+                "industry": "Ankarsrum",
+                "start_date": ""
+            }
+        ]
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "original": "LINDBERG, Sten Walfrid, Inköpschef, Malmö, f Kristianstad 15/5 15. Krst tekn sk, Påhlmans hdlsinst. Anst försäkr.kont 30—31, livsmed.bransch 32—37, dir.ass o ink.ch AB Smöraff Palmas huv.kont sed. 39. Sirius-orden.",
+    "translated": "LINDBERG, Sten Walfrid, Purchasing Manager, Malmö, b. Kristianstad 15/5 1915. Cndt of tech sc, Påhlmans commercial institute. Employed at insurance company 1930-1931, food industry 1932-1937, assistant director and purchasing manager at AB Smöraff Palmas head office since 1939. Recipient of the Sirius Order.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Sten Walfrid Lindberg",
+        "birthDate": "1915-05-15T00:00:00",
+        "birthPlace": "Kristianstad",
+        "jobTitle": "Purchasing Manager",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "AB Smöraff Palmas",
+            "location": "Malmö"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Påhlmans Commercial Institute"
+        },
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Sirius Order"
+        },
+        "hasOccupation": [
+            {
+                "@type": "Role",
+                "startDate": "1930-01-01",
+                "endDate": "1931-12-31",
+                "roleName": "Insurance Company"
+            },
+            {
+                "@type": "Role",
+                "startDate": "1932-01-01",
+                "endDate": "1937-12-31",
+                "roleName": "Food Industry"
+            },
+            {
+                "@type": "Role",
+                "startDate": "1939-01-01",
+                "roleName": "Assistant Director and Purchasing Manager at AB Smöraff Palmas Head Office"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Inköpschef",
+                "workplace": "Malmö",
+                "industry": "N/A",
+                "start_date": "N/A"
+            },
+            {
+                "occupational_title": "Cndt of tech sc",
+                "workplace": "Påhlmans commercial institute",
+                "industry": "N/A",
+                "start_date": "N/A"
+            },
+            {
+                "occupational_title": "Employed at insurance company",
+                "workplace": "N/A",
+                "industry": "N/A",
+                "start_date": "1930-1931"
+            },
+            {
+                "occupational_title": "Employed in food industry",
+                "workplace": "N/A",
+                "industry": "N/A",
+                "start_date": "1932-1937"
+            },
+            {
+                "occupational_title": "Assistant director and purchasing manager",
+                "workplace": "AB Smöraff Palmas head office",
+                "industry": "N/A",
+                "start_date": "1939"
+            }
+        ]
+    }
+}

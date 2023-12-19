@@ -1,0 +1,199 @@
+{
+    "original": "LINDROTH, Carl Adolf, Grosshandlare, v. Konsul, Stockholm, f Sthlm 17/5 76, av grosshandl C A L o Clara Höglund, gm Elna Ekebohm. Hdls- o språkstud i Tyskl, Port, Frankr o Engl 96—02; resoff v Livg t häst 96—18. Anst i fma N M Höglunds Söner &amp; Co Sthlm 00—13, i AB The Swedish Trading Co Sthlm 14—17. Deläg i vinimp.fman Herm. Tydéns Eftr Sthlm 16—18, gr fma C A Lindroth, exp- o imp, Sthlm, 17, inneh dna, deläg fma P B Romare &amp; Co Sthlm 20, ens inneh dna sed. 24, inneh av fma C A Lindroth Lissabon (Lindroth &amp; Fernandes) sed. 23. Port v. konsul i Sthlm 05—29.",
+    "translated": "LINDROTH, Carl Adolf, Merchant, v. Consul, Stockholm, b. Stockholm 17/5 76, son of merchant C A L and Clara Höglund, married to Elna Ekebohm. Business and language studies in Germany, Portugal, France, and England from 1896 to 1902; reserve officer in the Life Guard Hussar Regiment from 1896 to 1918. Employed at N M Höglunds Söner & Co in Stockholm from 1900 to 1913, and at AB The Swedish Trading Co in Stockholm from 1914 to 1917. Co-owner of the wine import company Herm. Tydéns Eftr in Stockholm from 1916 to 1918. Established the company C A Lindroth, export and import, in Stockholm in 1917, sole proprietor since 1924. Co-owner of the company P B Romare & Co in Stockholm from 1920, sole proprietor since 1923. Honorary consul in Stockholm from 1905 to 1929.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Adolf Lindroth",
+        "birthDate": "1876-05-17",
+        "birthPlace": "Stockholm",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "C A Lindroth",
+                "role": "father",
+                "occupation": "Merchant"
+            },
+            {
+                "@type": "Person",
+                "name": "Clara Höglund",
+                "role": "mother"
+            }
+        ],
+        "spouse": "Elna Ekebohm",
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Business and Language Studies in Germany"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Business and Language Studies in Portugal"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Business and Language Studies in France"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Business and Language Studies in England"
+            }
+        ],
+        "occupation": [
+            {
+                "@type": "OrganizationRole",
+                "title": "Merchant",
+                "startDate": "1896",
+                "endDate": "1902",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "N M Höglunds Söner & Co",
+                    "location": "Stockholm"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Reserve Officer",
+                "startDate": "1896",
+                "endDate": "1918",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Life Guard Hussar Regiment"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Employee",
+                "startDate": "1900",
+                "endDate": "1913",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "N M Höglunds Söner & Co",
+                    "location": "Stockholm"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Employee",
+                "startDate": "1914",
+                "endDate": "1917",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB The Swedish Trading Co",
+                    "location": "Stockholm"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Co-owner",
+                "startDate": "1916",
+                "endDate": "1918",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Herm. Tydéns Eftr",
+                    "location": "Stockholm",
+                    "description": "Wine import company"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Founder",
+                "startDate": "1917",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "C A Lindroth",
+                    "location": "Stockholm",
+                    "description": "Export and Import"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Co-owner",
+                "startDate": "1920",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "P B Romare & Co",
+                    "location": "Stockholm"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Sole Proprietor",
+                "startDate": "1923",
+                "endDate": "1924",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "P B Romare & Co",
+                    "location": "Stockholm"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Sole Proprietor",
+                "startDate": "1924",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "C A Lindroth",
+                    "location": "Stockholm",
+                    "description": "Export and Import"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Honorary Consul",
+                "startDate": "1905",
+                "endDate": "1929",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Stockholm"
+                }
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "N M Höglunds Söner & Co",
+                "industry": "Trade",
+                "start_date": "1900-01-01"
+            },
+            {
+                "occupational_title": "Merchant",
+                "workplace": "AB The Swedish Trading Co",
+                "industry": "Trade",
+                "start_date": "1914-01-01"
+            },
+            {
+                "occupational_title": "Co-owner",
+                "workplace": "Herm. Tydéns Eftr",
+                "industry": "Wine import",
+                "start_date": "1916-01-01"
+            },
+            {
+                "occupational_title": "Founder",
+                "workplace": "C A Lindroth",
+                "industry": "Export and import",
+                "start_date": "1917-01-01"
+            },
+            {
+                "occupational_title": "Co-owner",
+                "workplace": "P B Romare & Co",
+                "industry": "Trade",
+                "start_date": "1920-01-01"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "C A Lindroth",
+                "industry": "Export and import",
+                "start_date": "1924-01-01"
+            },
+            {
+                "occupational_title": "Honorary Consul",
+                "workplace": "Stockholm",
+                "industry": "Consulate",
+                "start_date": "1905-01-01"
+            }
+        ]
+    }
+}

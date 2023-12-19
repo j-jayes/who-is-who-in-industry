@@ -1,0 +1,101 @@
+{
+    "original": "LISSELL, Erik Olof, Bergsingenjör, Saltsjöbaden, f Västanfors, Västml, 24/10 14 av ing O L o Gertrud Wahlberg. Studex V.ås 33, bergsingex KTH 37, Master of Science v univ Michigan USA 41. Forskn.ass o spec.lär gjuttekn univ Michigan 40—42, ch Sv mek verkstäders frbs gjut.avd sed. 42. Vistats i USA 39—42. Av trycket: Fackvetensk upps i in- o utl tidskrifter.",
+    "translated": "LISSELL, Erik Olof, Mining Engineer, Saltsjöbaden, born in Västanfors, Västmanland on October 24, 1914, son of engineer O. L and Gertrud Wahlberg. Studied at Västerås in 1933, graduated as a mining engineer from the Royal Institute of Technology in 1937. Obtained a Master of Science degree from the University of Michigan, USA in 1941. Worked as a research assistant and special lecturer in foundry technology at the University of Michigan from 1940 to 1942, and became the head of the casting department at the Swedish Mechanical Workshops from 1942. Stayed in the USA from 1939 to 1942. Published several scientific papers in national and international journals.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Erik Olof Lissell",
+        "birthDate": "1914-10-24",
+        "birthPlace": "Västanfors, Västmanland",
+        "nationality": "Swedish",
+        "occupation": "Mining Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Saltsjöbaden"
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "O. L Lissell",
+                "jobTitle": "Engineer"
+            },
+            {
+                "@type": "Person",
+                "name": "Gertrud Wahlberg"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "studiedAt": "Västerås",
+                "startDate": "1933"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "earnedDegree": "Mining Engineer",
+                "awardedBy": "Royal Institute of Technology",
+                "dateEarned": "1937"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "earnedDegree": "Master of Science",
+                "awardedBy": "University of Michigan",
+                "dateEarned": "1941"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "University of Michigan",
+                "startDate": "1939",
+                "endDate": "1942",
+                "role": [
+                    {
+                        "@type": "Role",
+                        "name": "Research Assistant"
+                    },
+                    {
+                        "@type": "Role",
+                        "name": "Special Lecturer"
+                    },
+                    {
+                        "@type": "Role",
+                        "name": "Head of Casting Department"
+                    }
+                ]
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Mechanical Workshops",
+                "startDate": "1942",
+                "role": {
+                    "@type": "Role",
+                    "name": "Head of Casting Department"
+                }
+            }
+        ],
+        "publication": "Fackvetensk upps i in- o utl tidskrifter"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Mining Engineer",
+                "workplace": "Saltsjöbaden",
+                "industry": "Mining",
+                "start_date": "1937"
+            },
+            {
+                "occupational_title": "Research Assistant and Special Lecturer",
+                "workplace": "University of Michigan",
+                "industry": "Academia",
+                "start_date": "1940"
+            },
+            {
+                "occupational_title": "Head of Casting Department",
+                "workplace": "Swedish Mechanical Workshops",
+                "industry": "Manufacturing",
+                "start_date": "1942"
+            }
+        ]
+    }
+}

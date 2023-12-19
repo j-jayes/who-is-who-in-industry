@@ -1,0 +1,139 @@
+{
+    "original": "LEANDER, Sture Olof, Direktör, Kapten, Hälsingborg, f Sthlm 30/7 87 av tullöv.insp Olof L o Hilda Junker, gm Angelika Schoug. Studex 07, resoffex 09, skeppsmät.kompet 16. E.o. kam.skr tullv 07—21, ch ömsesid förs.-bol:s Land o Sjö Hbgskont sed. 18, etabl ass-&amp; ag.fma Sture Leander 19, repr förs.AB Thule, Skandinavien, Valkyrian, sjöförs.AB &lt;Jauthiod mfl, AB Banankomp Sthlm sed. 20. Ordf o dir AB Sture L sed. 25, styr.led Land &amp; Sjö sed. 29. Resor: Tyskl 21, 31, 34, 36, 37, Frankr 31, 34, 37, Holl 31, 36, Belg 31, 36, Ital 34. Frimurare, förs.AB Thules o Fylgias ftjM:er. Hobby: Råda folk att ordna sin ekonomi genom att teckna skyddande försäkringar för sig själva och familjen.",
+    "translated": "LEANDER, Sture Olof, Director, Captain, Hälsingborg, b. Stockholm 30/7 87, son of customs inspector Olof L and Hilda Junker, m. Angelika Schoug. Completed secondary school 07, reserve officer training 09, ship measurement competence 16. Assistant customs writer 07-21, head of the Land and Sea department of a mutual insurance company Hbgkont since 18, established assistant and agency company Sture Leander 19, representative for Thule Insurance Corporation, Skandinavien, Valkyrian, Jauthiod Shipping Insurance Corporation, AB Banankomp Stockholm since 20. Chairman and director of AB Sture L since 25, board member of Land & Sea since 29. Travel: Germany 21, 31, 34, 36, 37, France 31, 34, 37, Netherlands 31, 36, Belgium 31, 36, Italy 34. Freemason, member of Thule Insurance Corporation and Fylgias ftjM. Hobby: Advising people on organizing their finances by subscribing to protective insurances for themselves and their family.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Sture Olof Leander",
+        "birthDate": "1887-07-30",
+        "birthPlace": "Stockholm",
+        "description": "Director, Captain, Hälsingborg",
+        "father": {
+            "@type": "Person",
+            "name": "Olof L",
+            "jobTitle": "Customs Inspector"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Hilda Junker"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Angelika Schoug"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "SecondarySchool",
+            "dateIssued": "1907"
+        },
+        "occupation": [
+            {
+                "@type": "JobPosting",
+                "title": "Assistant Customs Writer",
+                "startDate": "1907",
+                "endDate": "1921"
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Head of Land and Sea Department",
+                "startDate": "1918"
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Established Assistant and Agency Company",
+                "startDate": "1919"
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Representative",
+                "hiringOrganization": {
+                    "@type": "Organization",
+                    "name": "Thule Insurance Corporation"
+                },
+                "startDate": "1920"
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Chairman and Director",
+                "hiringOrganization": {
+                    "@type": "Organization",
+                    "name": "AB Sture L"
+                },
+                "startDate": "1925"
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Board Member",
+                "hiringOrganization": {
+                    "@type": "Organization",
+                    "name": "Land & Sea"
+                },
+                "startDate": "1929"
+            }
+        ],
+        "travelHistory": [
+            "Germany, 1921, 1931, 1934, 1936, 1937",
+            "France, 1931, 1934, 1937",
+            "Netherlands, 1931, 1936",
+            "Belgium, 1931, 1936",
+            "Italy, 1934"
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Thule Insurance Corporation"
+            },
+            {
+                "@type": "Organization",
+                "name": "Fylgias ftjM"
+            }
+        ],
+        "hobby": "Advising people on organizing their finances by subscribing to protective insurances for themselves and their family."
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Assistant customs writer",
+                "workplace": "E.o. kam.skr tullv",
+                "industry": "Customs",
+                "start_date": "1907"
+            },
+            {
+                "occupational_title": "Head of the Land and Sea department",
+                "workplace": "ömsesid förs.-bol:s Land o Sjö Hbgskont",
+                "industry": "Insurance",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Established assistant and agency company",
+                "workplace": "Sture Leander",
+                "industry": "Insurance",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Representative",
+                "workplace": "AB Thule, Skandinavien, Valkyrian, sjöförs.AB <Jauthiod",
+                "industry": "Insurance",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Representative",
+                "workplace": "AB Banankomp Sthlm",
+                "industry": "Insurance",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Chairman and director",
+                "workplace": "AB Sture L",
+                "industry": "Insurance",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Board member",
+                "workplace": "Land & Sjö",
+                "industry": "Insurance",
+                "start_date": "1929"
+            }
+        ]
+    }
+}

@@ -1,0 +1,114 @@
+{
+    "original": "LINDQVIST, Harry Mauritz, Direktör, Stockholm, f Sthlm 17/5 13 av dir O M L o Alice Sundell, gm Pella Norlander. Studex, Schartaus. Avd.ch i Amerikanska Gummi AB 35—38, vkst dir där sed. 38. Resor: Tyskl, Engl, USA 33—35. Medl KAK, KMK, KMKR, KSSS, Frimurare, PB. Hobbies: Motorsport, jakt, fiske.",
+    "translated": "LINDQVIST, Harry Mauritz, Director, Stockholm, b. Stockholm 17/5 1913, son of dir O M L and Alice Sundell, m. Pella Norlander. High school graduate, Schartaus. Department Manager at Amerikanska Gummi AB 1935-1938, promoted to director there since 1938. Travelled to Germany, England, and the USA from 1933-1935. Member of KAK, KMK, KMKR, KSSS, Freemason, PB. Hobbies: Motorsport, hunting, fishing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Harry Mauritz Lindqvist",
+        "jobTitle": "Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "birthDate": "1913-05-17",
+        "familyName": "Lindqvist",
+        "givenName": "Harry Mauritz",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "O M L Lindqvist"
+            },
+            {
+                "@type": "Person",
+                "name": "Alice Sundell"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Pella Norlander"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Schartaus",
+            "alumniOf": {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "High school graduate"
+            }
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Amerikanska Gummi AB",
+            "department": {
+                "@type": "Organization",
+                "name": "Department Manager",
+                "startDate": "1935-01-01",
+                "endDate": "1938-12-31"
+            },
+            "director": {
+                "@type": "Organization",
+                "name": "Director",
+                "startDate": "1938-01-01"
+            }
+        },
+        "hobbies": [
+            "Motorsport",
+            "Hunting",
+            "Fishing"
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "KAK"
+            },
+            {
+                "@type": "Organization",
+                "name": "KMK"
+            },
+            {
+                "@type": "Organization",
+                "name": "KMKR"
+            },
+            {
+                "@type": "Organization",
+                "name": "KSSS"
+            },
+            {
+                "@type": "Organization",
+                "name": "Freemason"
+            },
+            {
+                "@type": "Organization",
+                "name": "PB"
+            }
+        ],
+        "significantLinks": [
+            "Germany",
+            "England",
+            "USA"
+        ],
+        "significantDates": [
+            {
+                "@type": "Event",
+                "startDate": "1933-01-01",
+                "endDate": "1935-12-31",
+                "name": "Travels"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Department Manager",
+                "workplace": "Amerikanska Gummi AB",
+                "industry": "Rubber",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Amerikanska Gummi AB",
+                "industry": "Rubber",
+                "start_date": "1938"
+            }
+        ]
+    }
+}

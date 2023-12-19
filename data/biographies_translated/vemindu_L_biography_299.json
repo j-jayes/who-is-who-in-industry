@@ -1,0 +1,99 @@
+{
+    "original": "LINDSTRÖM, Fredrik Ernst Arvid, Ingenjör, Linköping, f Ängelsberg 19/8 89 av landskapsmål A M L o Helena von Götz, gm Anne-Marie Mostad. Resoff v fältart, el.ingex Technikum Strelitz. Installat.verksamh 14—17, beräkn.ing ASEA Ludvikavk 18—19, start tills m ing A L Wadström AB Sv transformator-fabr 19. Styr.led i detta AB, Ögl tekn frn, Linkps Rotary mfl.",
+    "translated": "LINDSTRÖM, Fredrik Ernst Arvid, Engineer, Linköping, born in Ängelsberg on August 19, 1889, son of landscape painter A.M.L. and Helena von Götz, married to Anne-Marie Mostad. Reserve officer of field artillery, electrical engineer educated at Technikum Strelitz. Engaged in installation work from 1914 to 1917, estimated engineer at ASEA Ludvika from 1918 to 1919, started working as an engineer at A.L. Wadström AB, Swedish transformer factory in 1919. Board member and technical advisor for Ögl (Östgöta) Technology Association, Linköping Rotary Club, and others.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Fredrik Ernst Arvid Lindström",
+        "givenName": "Fredrik",
+        "additionalName": "Ernst Arvid",
+        "familyName": "Lindström",
+        "jobTitle": "Engineer",
+        "birthDate": "1889-08-19",
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Ängelsberg"
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "A.M.L",
+                "jobTitle": "Landscape Painter"
+            },
+            {
+                "@type": "Person",
+                "name": "Helena von Götz"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Anne-Marie Mostad"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Linköping Rotary Club"
+            },
+            {
+                "@type": "Organization",
+                "name": "Ögl Technology Association"
+            }
+        ],
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Technikum Strelitz"
+        },
+        "alumniOf": {
+            "@type": "EducationalOrganization",
+            "name": "Technikum Strelitz"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "ASEA Ludvika",
+                "startDate": "1918",
+                "endDate": "1919"
+            },
+            {
+                "@type": "Organization",
+                "name": "A.L. Wadström AB",
+                "startDate": "1919"
+            }
+        ],
+        "knowsLanguage": "Swedish"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Reserve Officer",
+                "workplace": "Field Artillery",
+                "industry": "Military",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Electrical Engineer",
+                "workplace": "Technikum Strelitz",
+                "industry": "Education",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Installation Worker",
+                "workplace": null,
+                "industry": null,
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "ASEA Ludvika",
+                "industry": "Electrical Engineering",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "A.L. Wadström AB",
+                "industry": "Transformer Manufacturing",
+                "start_date": "1919"
+            }
+        ]
+    }
+}

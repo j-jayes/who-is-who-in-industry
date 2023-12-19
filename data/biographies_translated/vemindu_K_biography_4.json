@@ -1,0 +1,95 @@
+{
+    "original": "KALL.ENBERG, Nils Hjalmar, Ingenjör, Uppsala, f Upps 31/8 68. Upps hal, Sthlms Byggn.yrkessk 88—91, Tekn Högsk i Berlin-Charlottenburg 91—93. Anst h ark prof Jacobs-thal 93—95, v ministeriet f offentliga byggn.-arb i Berlin 95—98, eg byggn.entreprenads-o ind.verksamh i Upps sed. 98. Styr.ordf i Upps Mek Verkst AB o Upps Sjömanshus, styr.led i Upl Ensk Bk o Fastigh AB Thor. Ombud f Städernas Allm Brandst.bol sed. 19.",
+    "translated": "KALL.ENBERG, Nils Hjalmar, Engineer, Uppsala, born in Uppsala on August 31, 1868. Attended Uppsala secondary school, Stockholm Building Trade School from 1888 to 1891, Technical University in Berlin-Charlottenburg from 1891 to 1893. Employed at architectural firm Jacobs-thal from 1893 to 1895, then at the Ministry of Public Building Works in Berlin from 1895 to 1898. Started his own construction contractor and industrial operations in Uppsala since 1898. Chairman of the board at Uppsala Mechanical Works AB and Uppsala Sailor's House, board member of Upland Bank and Thor Real Estate AB. Representative for the Municipalities' General Fire Insurance Company since 19.. (Married in 19.., details about partner's name are missing).",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Nils Hjalmar KALL.ENBERG",
+        "birthDate": "1868-08-31",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Uppsala"
+        },
+        "description": "Engineer",
+        "education": [
+            {
+                "@type": "CollegeOrUniversity",
+                "name": "Stockholm Building Trade School",
+                "startDate": "1888",
+                "endDate": "1891"
+            },
+            {
+                "@type": "CollegeOrUniversity",
+                "name": "Technical University in Berlin-Charlottenburg",
+                "startDate": "1891",
+                "endDate": "1893"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Jacobs-thal",
+                "startDate": "1893",
+                "endDate": "1895"
+            },
+            {
+                "@type": "GovernmentOrganization",
+                "name": "Ministry of Public Building Works",
+                "startDate": "1895",
+                "endDate": "1898"
+            }
+        ],
+        "owns": [
+            {
+                "@type": "Organization",
+                "name": "Uppsala Mechanical Works AB"
+            },
+            {
+                "@type": "Organization",
+                "name": "Uppsala Sailor's House"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Upland Bank"
+            },
+            {
+                "@type": "Organization",
+                "name": "Thor Real Estate AB"
+            }
+        ],
+        "representativeOf": {
+            "@type": "Organization",
+            "name": "Municipalities' General Fire Insurance Company"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Uppsala",
+                "industry": null,
+                "start_date": null
+            },
+            {
+                "occupational_title": "Architectural Firm Employee",
+                "workplace": "Jacobs-thal",
+                "industry": null,
+                "start_date": "1893"
+            },
+            {
+                "occupational_title": "Ministry Employee",
+                "workplace": "Ministry of Public Building Works in Berlin",
+                "industry": null,
+                "start_date": "1895"
+            },
+            {
+                "occupational_title": "Construction Contractor and Industrial Entrepreneur",
+                "workplace": "Uppsala",
+                "industry": null,
+                "start_date": "1898"
+            }
+        ]
+    }
+}

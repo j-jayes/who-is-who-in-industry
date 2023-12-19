@@ -1,0 +1,156 @@
+{
+    "original": "LEVINSSON, Gustaf Paul, Elverkschef, Halmstad, f Bottnaryd, Jkps l, 25/3 98 av lantbr J Levin Karlsson o Josefina K :son, gm Alice Peterson. Studex Jkp 15, ex KTH (el.-tekn) 19. Tekn förest Sala elverk 21—31, ch Hst elverk sed. 31. Ordf Hst kommun.tjm.-frn sed. 39, Hst ing.frn sed. 42. Resor: S vpl ing m pansarkryss Fylgia t USA o Väst-ind 19—20, Sv elverksfrns stip Holl 33, Tyskl 35, 37, Österr, Ital, Jugoslav 37. Av trycket: Art i Sv elverksfrns handl o i facktidskr ERA. Rotary.",
+    "translated": "LEVINSSON, Gustaf Paul, Power plant manager, Halmstad, born in Bottnaryd, Jönköping County, on March 25, 1898, to farmer J Levin Karlsson and Josefina K:son, married to Alice Peterson. Graduated from Jönköping in 1915, graduated from the Royal Institute of Technology (electrical engineering) in 1919. Technical supervisor at Sala Power Plant from 1921 to 1931, Chief of Halmstad Power Plant since 1931. Chairman of Halmstad Municipality's committee for women's employment since 1939, Halmstad Engineering Association since 1942. Travel: Armed forces engineer on the armored cruiser Fylgia to the United States and the West Indies in 1919-1920, recipient of the Swedish Power Industry Association's scholarship in the Netherlands in 1933, Germany in 1935, 1937, Austria, Italy, Yugoslavia in 1937. Published articles in the Swedish Power Industry Association's proceedings and in the professional journal ERA. Member of Rotary.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Gustaf",
+        "familyName": "Paul Levinsson",
+        "jobTitle": "Power plant manager",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Halmstad"
+        },
+        "birthDate": "1898-03-25",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Bottnaryd",
+                "addressRegion": "Jönköping County"
+            }
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "J Levin Karlsson",
+                "jobTitle": "Farmer"
+            },
+            {
+                "@type": "Person",
+                "name": "Josefina K:son"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Alice Peterson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Jönköping",
+                "endDate": "1915"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Royal Institute of Technology (KTH)",
+                "startDate": "1919",
+                "endDate": "1919"
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Halmstad Power Plant",
+            "startDate": "1931",
+            "jobTitle": "Chief"
+        },
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Rotary"
+        },
+        "travels": [
+            {
+                "@type": "Trip",
+                "name": "Armed forces engineer on the armored cruiser Fylgia",
+                "startDate": "1919-01-01",
+                "endDate": "1920-12-31",
+                "location": [
+                    {
+                        "@type": "Country",
+                        "name": "United States"
+                    },
+                    {
+                        "@type": "Country",
+                        "name": "West Indies"
+                    }
+                ]
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Recipient of the Swedish Power Industry Association's scholarship",
+                "location": [
+                    {
+                        "@type": "Country",
+                        "name": "Netherlands"
+                    },
+                    {
+                        "@type": "Country",
+                        "name": "Germany"
+                    },
+                    {
+                        "@type": "Country",
+                        "name": "Austria"
+                    },
+                    {
+                        "@type": "Country",
+                        "name": "Italy"
+                    },
+                    {
+                        "@type": "Country",
+                        "name": "Yugoslavia"
+                    }
+                ],
+                "startDate": [
+                    "1933-01-01",
+                    "1935-01-01",
+                    "1937-01-01",
+                    "1937-01-01",
+                    "1937-01-01"
+                ],
+                "endDate": [
+                    "1933-12-31",
+                    "1935-12-31",
+                    "1937-12-31",
+                    "1937-12-31",
+                    "1937-12-31"
+                ],
+                "publisher": {
+                    "@type": "Organization",
+                    "name": "Swedish Power Industry Association"
+                },
+                "isPartOf": {
+                    "@type": "Periodical",
+                    "name": "ERA"
+                }
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Power plant manager",
+                "workplace": "Halmstad",
+                "industry": "Power plant",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Technical supervisor",
+                "workplace": "Sala Power Plant",
+                "industry": "Power plant",
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Chairman, Halmstad Municipality's committee for women's employment",
+                "workplace": "Halmstad Municipality",
+                "industry": "Government",
+                "start_date": "1939"
+            },
+            {
+                "occupational_title": "Chairman, Halmstad Engineering Association",
+                "workplace": "Halmstad Engineering Association",
+                "industry": "Engineering",
+                "start_date": "1942"
+            }
+        ]
+    }
+}

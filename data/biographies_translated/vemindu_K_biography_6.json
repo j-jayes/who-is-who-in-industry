@@ -1,0 +1,132 @@
+{
+    "original": "KALLIN, Erik Torsten, Civilingenjör, Stockholm, f Nås, Kopparb l, 21/8 05, gm Hervor Ramstedt. Studex Falun 25, KTH (maskin-byggn o mek tekn) 25—30, ASEA :s elevkurs, studieresor t Tyskl, Frankr o Belg 35 o 36. Anst v STAL Finspong 30—32, ASEA:s utl försäljn.avd 33—36, chef f Fma Olof Edmans tekn avd Sthlm sed. 36.",
+    "translated": "KALLIN, Erik Torsten, Engineering Graduate, Stockholm, born in Nås, Kopparberg County, August 21, 1905, married to Hervor Ramstedt. Studied in Falun until 1925, completed studies at KTH (Royal Institute of Technology) in mechanical engineering from 1925 to 1930. Participated in ASEA's trainee program, including study trips to Germany, France, and Belgium in 1935 and 1936. Employed at STAL Finspong from 1930 to 1932, worked in ASEA's international sales department from 1933 to 1936, and has been the head of the technical department at Fma Olof Edman in Stockholm since 1936.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Erik Torsten Kallin",
+        "birthDate": "1905-08-21",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Nås",
+                "addressRegion": "Kopparberg County"
+            }
+        },
+        "description": "Engineering Graduate, Stockholm",
+        "spouse": {
+            "@type": "Person",
+            "name": "Hervor Ramstedt"
+        },
+        "alumniOf": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Falun",
+                "endDate": "1925"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "KTH (Royal Institute of Technology)",
+                "specialty": "mechanical engineering",
+                "endDate": "1930"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "ASEA"
+            },
+            {
+                "@type": "Organization",
+                "name": "STAL Finspong",
+                "startDate": "1930",
+                "endDate": "1932"
+            },
+            {
+                "@type": "Organization",
+                "name": "Fma Olof Edman",
+                "startDate": "1936",
+                "hasOfferCatalog": {
+                    "@type": "OfferCatalog",
+                    "name": "Technical Department"
+                }
+            }
+        ],
+        "hasOccupation": [
+            {
+                "@type": "Occupation",
+                "name": "Engineering Graduate"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "ASEA",
+                "department": "International Sales Department",
+                "startDate": "1933",
+                "endDate": "1936"
+            },
+            {
+                "@type": "Organization",
+                "name": "Fma Olof Edman",
+                "department": "Technical Department",
+                "startDate": "1936"
+            }
+        ],
+        "studyTour": [
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Germany"
+                },
+                "startDate": "1935"
+            },
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "France"
+                },
+                "startDate": "1936"
+            },
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Belgium"
+                },
+                "startDate": "1936"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineering Graduate",
+                "workplace": "Stockholm",
+                "industry": null,
+                "start_date": null
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "STAL Finspong",
+                "industry": null,
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "International Sales Department",
+                "workplace": "ASEA",
+                "industry": null,
+                "start_date": "1933"
+            },
+            {
+                "occupational_title": "Head of Technical Department",
+                "workplace": "Fma Olof Edman",
+                "industry": null,
+                "start_date": "1936"
+            }
+        ]
+    }
+}

@@ -1,0 +1,114 @@
+{
+    "original": "LAGERBERG, Per Otto, Civilingenjör, Stockholm, f Mölltorp, Skarab l, 9/11 06 av överste S O L o Karin Kullberg, gm Sonja Hertwigh. Studex Växjö 24, KTH (V o V) 25—29. Ing v Sthlms stads gatukont 29—31, avd.ch v Sv Väg AB:s arb i Rumänien 31—35, chef f Nya Asfalt AB:s väg- o anläggn.avd i Sthlm sed. 35. Led av Riksidrottsfrbs idrottsplatskté. Medl av Sv Tekn.frn, KAK o Sv Kryssarklubben. Hobbies: Segling, vintersport.",
+    "translated": "LAGERBERG, Per Otto, Civil Engineer, Stockholm, b. Mölltorp, Skaraborg County, 9/11/06, son of Colonel S O L and Karin Kullberg, m. Sonja Hertwigh. Studied at Växjö until 1924, and at the Royal Institute of Technology (V and V) from 1925 to 1929. Worked as an engineer at Stockholm's road department from 1929 to 1931, then as head of the Swedish Road AB division in Romania from 1931 to 1935. Became the chief of New Asphalt AB's road and construction department in Stockholm in 1935. Served as a member of the Swedish Sports Confederation's sports field committee and was a member of the Swedish Technical Association, the Royal Automobile Club, and the Swedish Cruising Club. Hobbies: Sailing, winter sports.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Per Otto Lagerberg",
+        "jobTitle": "Civil Engineer",
+        "birthPlace": "Mölltorp, Skaraborg County",
+        "birthDate": "1906-09-11",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "S O L Lagerberg"
+            },
+            {
+                "@type": "Person",
+                "name": "Karin Kullberg"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Sonja Hertwigh"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Växjö",
+                "endDate": "1924"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Royal Institute of Technology",
+                "startDate": "1925",
+                "endDate": "1929"
+            }
+        ],
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "Stockholm's Road Department",
+                "startDate": "1929",
+                "endDate": "1931",
+                "jobTitle": "Engineer"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Road AB",
+                "location": "Romania",
+                "startDate": "1931",
+                "endDate": "1935",
+                "jobTitle": "Head of Division"
+            },
+            {
+                "@type": "Organization",
+                "name": "New Asphalt AB",
+                "location": "Stockholm",
+                "startDate": "1935",
+                "jobTitle": "Chief of Road and Construction Department"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Sports Confederation",
+                "memberOf": "Sports Field Committee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Technical Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Royal Automobile Club"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Cruising Club"
+            }
+        ],
+        "hobbies": [
+            "Sailing",
+            "Winter sports"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Stockholm",
+                "industry": "Engineering",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Stockholm's Road Department",
+                "industry": "Government",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Head of Division",
+                "workplace": "Swedish Road AB (in Romania)",
+                "industry": "Construction",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Chief",
+                "workplace": "New Asphalt AB (in Stockholm)",
+                "industry": "Construction",
+                "start_date": "1935"
+            }
+        ]
+    }
+}

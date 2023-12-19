@@ -1,0 +1,93 @@
+{
+    "original": "KJELLGREN, Thorsten Henrik, Riksbanksdirektör, Mariestad, f Una, Mohileffs guv, Ryssl. 28/4 82 av disp V K o Augusta Hebbe, gm Elsa Sandwall. Studex Jkp 02. Anst riksbkn sed. 02, ordin 10, dir Mstkont sed. 36. Ordf 1:a särsk tax.nmd f Skarab l. RVO.",
+    "translated": "KJELLGREN, Thorsten Henrik, Chief Director of the Riksbank (Swedish central bank), Mariestad. Born on the 28th of April, 1882 to parents Victor K. and Augusta Hebbe. Married to Elsa Sandwall. Graduated from Jönköping University in 1902. Employed at the Riksbank since 1902, promoted to regular director in 1910, and to Chief Director of the Main Office in 1936. Chairman of the 1st Special Tax Committee for Skaraborg County. Awarded the Royal Order of Vasa.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Thorsten Henrik Kjellgren",
+        "birthDate": "1882-04-28",
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Mariestad"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Victor Kjellgren"
+            },
+            {
+                "@type": "Person",
+                "name": "Augusta Hebbe"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Elsa Sandwall"
+        },
+        "alumniOf": {
+            "@type": "CollegeOrUniversity",
+            "name": "Jönköping University",
+            "startDate": "1902"
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Riksbank",
+            "startDate": "1902"
+        },
+        "affiliation": {
+            "@type": "Organization",
+            "name": "Riksbank",
+            "startDate": "1902",
+            "endDate": "1936"
+        },
+        "positions": [
+            {
+                "@type": "Role",
+                "name": "Chief Director",
+                "startDate": "1936"
+            },
+            {
+                "@type": "Role",
+                "name": "Regular Director",
+                "startDate": "1910",
+                "endDate": "1936"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "1st Special Tax Committee",
+            "memberOf": {
+                "@type": "Place",
+                "name": "Skaraborg County"
+            }
+        },
+        "awards": [
+            {
+                "@type": "Order",
+                "name": "Royal Order of Vasa"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Chief Director of the Riksbank",
+                "workplace": "Riksbank",
+                "industry": "Finance",
+                "start_date": "1902"
+            },
+            {
+                "occupational_title": "Regular Director",
+                "workplace": "Riksbank",
+                "industry": "Finance",
+                "start_date": "1910"
+            },
+            {
+                "occupational_title": "Chief Director of the Main Office",
+                "workplace": "Riksbank Main Office",
+                "industry": "Finance",
+                "start_date": "1936"
+            }
+        ]
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "original": "KARLSSON, Knut Reinhold, Järnhandlare, Mölndal, f Gullered, Älvsb l, 25/7 90 av Karl Johan Svensson o Hilma Johansson, gm Frideborg Johansson. Hdlskurs Kristineh. Inneh järnhdl m plåtslageri o rörläggeri (fma grund 09). Ordf Mölnd miss.förs. Resor: Norge 26,",
+    "translated": "KARLSSON, Knut Reinhold, Iron Merchant, Mölndal, born in Gullered, Älvsborg County, on July 25th, 1890, to Karl Johan Svensson and Hilma Johansson. Married to Frideborg Johansson. Attended business courses at Kristinehamn. Owner of an iron trade business with sheet metal work and plumbing services (established in 1909). Chairman of Mölndal Missionary Association. Traveled to Norway in 1926.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Knut Reinhold Karlsson",
+        "birthDate": "1890-07-25",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Gullered",
+                "addressRegion": "Älvsborg County"
+            }
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Karl Johan Svensson",
+                "familyName": "Svensson"
+            },
+            {
+                "@type": "Person",
+                "name": "Hilma Johansson",
+                "familyName": "Johansson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Frideborg Johansson",
+            "familyName": "Johansson"
+        },
+        "occupation": "Iron Merchant",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Mölndal"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "business courses",
+            "educationalLevel": "Kristinehamn"
+        },
+        "business": {
+            "@type": "LocalBusiness",
+            "name": "Iron Trade Business",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Mölndal"
+            },
+            "foundingDate": "1909",
+            "makesOffer": [
+                {
+                    "@type": "Service",
+                    "name": "Sheet Metal Work"
+                },
+                {
+                    "@type": "Service",
+                    "name": "Plumbing Services"
+                }
+            ]
+        },
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Mölndal Missionary Association"
+        },
+        "travel": {
+            "@type": "Trip",
+            "name": "Norway Trip",
+            "startDate": "1926"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Iron Merchant",
+                "workplace": "Mölndal",
+                "industry": "Iron trade business with sheet metal work and plumbing services",
+                "start_date": "established in 1909"
+            }
+        ]
+    }
+}

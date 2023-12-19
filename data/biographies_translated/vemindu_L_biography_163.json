@@ -1,0 +1,74 @@
+{
+    "original": "LINDAHL, Erik Hilding Andreas, Direktör, Stockholm, f Sthlm 06 av fabr Anders L o Anna Lindahl, gm Birgit Westerlund. Studex 24. Resoffex 28, ryttmäst i kav res. Vkst dir i AB A Lindahls Fabriker i Sthlm sed. 32.",
+    "translated": "Lindahl, Erik Hilding Andreas, Director, Stockholm, b Stockholm in 1906, son of factory owner Anders L and Anna Lindahl, m Birgit Westerlund. Graduated 1924. Reserve officer 1928, cavalry captain in the reserve. Working as managing director at AB A Lindahls Fabriker in Stockholm since 1932.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Erik Hilding Andreas Lindahl",
+        "jobTitle": "Director",
+        "birthPlace": "Stockholm",
+        "birthDate": "1906-01-01",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Anders L Lindahl",
+                "jobTitle": "Factory Owner"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Lindahl"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Birgit Westerlund"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "degree": {
+                "@type": "EducationalDegree",
+                "name": "Studex"
+            },
+            "yearCredentialGranted": "1924"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "AB A Lindahls Fabriker",
+                "jobTitle": "Managing Director",
+                "startDate": "1932-01-01"
+            }
+        ],
+        "hasOccupation": [
+            {
+                "@type": "Occupation",
+                "name": "Reserve Officer",
+                "startDate": "1928",
+                "endDate": "1928"
+            },
+            {
+                "@type": "Occupation",
+                "name": "Cavalry Captain",
+                "startDate": "1928",
+                "endDate": "1928",
+                "category": "Reserve"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "AB A Lindahls Fabriker",
+                "industry": "Unknown",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Cavalry Captain",
+                "workplace": "Unknown (reserve)",
+                "industry": "Military",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

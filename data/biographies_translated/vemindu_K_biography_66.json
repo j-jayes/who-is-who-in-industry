@@ -1,0 +1,127 @@
+{
+    "original": "KIGNE:L:L, Erik Harald, Civilingenjör, Bofors, f Enkp 24/7 00 av ing E J A K o Emma Eliasson, gm Sonja Fredricson. Studex NReal Sthlm 18, KTH (maskinbyggn o mek tekn)18—22. Ing v AB Ljungströms Ångturbins luftforvarmareavd 23—26, repr i Span f AB Sv Maskinverken 27—28, chef f Electrolux SA:s kylskåpsavd Madrid 28—31, dir f C :ie Franchise des Moteurs Laval i Bordeaux 31— 34, kontr.ing v AB Bofors 35, inköpschef där sed. 40.",
+    "translated": "KIGNE:L:L, Erik Harald, Engineer, Bofors. Born on July 24, 1900, in Enkp. Son of engineer E J A K and Emma Eliasson. Married to Sonja Fredricson. Completed his studies in Natural Sciences at Stockholm University in 1918 and studied Mechanical Engineering at the Royal Institute of Technology (KTH) from 1918 to 1922. Worked as an engineer at AB Ljungströms Ångturbins (air heater department) from 1923 to 1926, represented AB Sv Maskinverken in Spain from 1927 to 1928, and was the head of the refrigerator department at Electrolux SA in Madrid from 1928 to 1931. Became the director of the C:ie Franchise des Moteurs Laval in Bordeaux from 1931 to 1934. Contract engineer at AB Bofors in 1935, and has been the procurement manager there since 1940.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Erik Harald",
+        "birthDate": "1900-07-24",
+        "jobTitle": "Procurement Manager",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Bofors"
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "E J A K",
+                "jobTitle": "Engineer"
+            },
+            {
+                "@type": "Person",
+                "name": "Emma Eliasson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Sonja Fredricson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Stockholm University",
+                "location": "Stockholm",
+                "endDate": "1918"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Royal Institute of Technology (KTH)",
+                "location": "Stockholm",
+                "studyProgram": "Mechanical Engineering",
+                "startDate": "1918",
+                "endDate": "1922"
+            }
+        ],
+        "jobHistory": [
+            {
+                "@type": "Organization",
+                "name": "AB Ljungströms Ångturbins",
+                "department": "Air Heater",
+                "startDate": "1923",
+                "endDate": "1926",
+                "jobTitle": "Engineer"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Sv Maskinverken",
+                "location": "Spain",
+                "startDate": "1927",
+                "endDate": "1928",
+                "jobTitle": "Representative"
+            },
+            {
+                "@type": "Organization",
+                "name": "Electrolux SA",
+                "location": "Madrid",
+                "startDate": "1928",
+                "endDate": "1931",
+                "jobTitle": "Head of Refrigerator Department"
+            },
+            {
+                "@type": "Organization",
+                "name": "C:ie Franchise des Moteurs Laval",
+                "location": "Bordeaux",
+                "startDate": "1931",
+                "endDate": "1934",
+                "jobTitle": "Director"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Bofors",
+                "startDate": "1935",
+                "jobTitle": "Contract Engineer"
+            }
+        ],
+        "startDate": "1940"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "AB Ljungströms Ångturbins (air heater department)",
+                "industry": "Engineering",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Representative",
+                "workplace": "AB Sv Maskinverken",
+                "industry": "Engineering",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Head of Refrigerator Department",
+                "workplace": "Electrolux SA",
+                "industry": "Appliances",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "C:ie Franchise des Moteurs Laval",
+                "industry": "Engineering",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Contract Engineer",
+                "workplace": "AB Bofors",
+                "industry": "Engineering",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Procurement Manager",
+                "workplace": "AB Bofors",
+                "industry": "Engineering",
+                "start_date": "1940"
+            }
+        ]
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "original": "KUSOFFSKY, Carl Otto, Direktör, Örnsköldsvik, f övik 4/4 97 av rådm C K o Otti-la Pettersson. Studex, Gbg hdlsinst. Anst AB Carl Kusoffsky sed. 15, num deläg. Stdsflm, dräts.kamm, krist.nmdn, kommiss f jub.utst i övik 42. Ordf Ångerml köpmfrb, styr.led Sv köpmfrb. Resor: Tyskl, Ital, Frankr. RVO, Frimurare, W6. Hobbies: Musik, segl, vintersport.",
+    "translated": "KUSOFFSKY, Carl Otto, Director, Örnsköldsvik, born in Örnsköldsvik on 4th April 1897, son of councilman C K and Otti-la Pettersson. Completed studies, Gothenburg School of Commerce. Employed at AB Carl Kusoffsky since 1915, became partial owner in 19xx. Member of the Board of Directors for Stadsfamiljen, Municipal Chamber, Christian Council, Commissioner for the jubilee exhibition in Örnsköldsvik in 1942. Chairman of Ångermanland's Merchant Federation, board member of the Swedish Merchant Federation. Traveled to Germany, Italy, France. Receives the Order of Vasa, Freemason, W6. Hobbies: Music, sailing, winter sports.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Carl Otto Kusoffsky",
+        "birthDate": "1897-04-04",
+        "birthPlace": "Örnsköldsvik",
+        "father": {
+            "@type": "Person",
+            "name": "C K Kusoffsky"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Otti-la Pettersson"
+        },
+        "jobTitle": "Director",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "AB Carl Kusoffsky",
+                "startDate": "1915-01-01",
+                "endDate": "19xx"
+            },
+            {
+                "@type": "Organization",
+                "name": "Stadsfamiljen"
+            },
+            {
+                "@type": "Organization",
+                "name": "Municipal Chamber"
+            },
+            {
+                "@type": "Organization",
+                "name": "Christian Council"
+            },
+            {
+                "@type": "Organization",
+                "name": "Ångermanland's Merchant Federation",
+                "roleName": "Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Merchant Federation",
+                "roleName": "Board Member"
+            }
+        ],
+        "event": {
+            "@type": "ExhibitionEvent",
+            "name": "Jubilee Exhibition",
+            "location": "Örnsköldsvik",
+            "startDate": "1942-01-01"
+        },
+        "hasCredential": [
+            {
+                "@type": "Order",
+                "name": "Order of Vasa"
+            },
+            {
+                "@type": "Organization",
+                "name": "Freemason"
+            },
+            {
+                "@type": "Organization",
+                "name": "W6"
+            }
+        ],
+        "hasInterest": [
+            "Music",
+            "Sailing",
+            "Winter sports"
+        ],
+        "hasVisited": [
+            "Germany",
+            "Italy",
+            "France"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "AB Carl Kusoffsky",
+                "industry": "Unknown (presumably commerce/trade)",
+                "start_date": "1915"
+            }
+        ]
+    }
+}

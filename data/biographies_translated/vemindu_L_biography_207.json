@@ -1,0 +1,104 @@
+{
+    "original": "LINDBLOM, Samuel Teofil, Bergsingenjör, Sandviken, f Oppeby Ögl 14/5 84 av kontr.-prost C F L o Anna Sehmann, gm Emmy Dehne. Stud.ex 03, bergshögsk 07, prakt stud Tyskl 08—09. Anst Carnegie Steel Co Duquesne Pä USA 10—12, ing Sandvikens Jernverks AB Sandviken 12, ch.ing ds varmvalsvk o smide sed. 19. Kyrkoflm. RVO. Hobbies: Trädgårdsskötsel, fjällfärder.",
+    "translated": "LINDBLOM, Samuel Teofil, Mining Engineer, Sandviken, b. Oppeby Ögl 14/5 84, son of parish pastor C F L and Anna Sehmann, m. Emmy Dehne. Graduated 1903, Royal School of Technology 1907, practical studies in Germany 1908-1909. Employed at Carnegie Steel Co, Duquesne, PA, USA 1910-1912, engineer at Sandvikens Jernverks AB, Sandviken from 1912, chief engineer of the hot rolling mill and forging department since 1919. Member of the Church Council. Awarded Royal Order of the Vasa. Hobbies: Gardening, mountain expeditions.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Samuel Teofil Lindblom",
+        "jobTitle": "Mining Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Sandviken"
+        },
+        "birthDate": "1884-05-14",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "C F L Lindblom",
+                "jobTitle": "Parish Pastor"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Sehmann"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Emmy Dehne"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialAwarded": "Bachelor Degree",
+                "alumniOf": {
+                    "@type": "Organization",
+                    "name": "Royal School of Technology",
+                    "startDate": "1907",
+                    "endDate": "1907"
+                }
+            }
+        ],
+        "workExperience": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1910-01-01",
+                "endDate": "1912-12-31",
+                "roleName": "Employee",
+                "namedPosition": "Carnegie Steel Co",
+                "alternateName": "Duquesne, PA, USA"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1912-01-01",
+                "roleName": "Engineer",
+                "namedPosition": "Sandvikens Jernverks AB",
+                "alternateName": "Sandviken"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1919-01-01",
+                "roleName": "Chief Engineer",
+                "namedPosition": "Hot Rolling Mill and Forging Department",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Sandvikens Jernverks AB",
+                    "alternateName": "Sandviken"
+                }
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Church Council"
+        },
+        "award": {
+            "@type": "Order",
+            "name": "Royal Order of the Vasa"
+        },
+        "interest": [
+            "Gardening",
+            "Mountain expeditions"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Mining Engineer",
+                "workplace": "Carnegie Steel Co",
+                "industry": "Steel",
+                "start_date": "1910"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Sandvikens Jernverks AB",
+                "industry": "Steel",
+                "start_date": "1912"
+            },
+            {
+                "occupational_title": "Chief Engineer",
+                "workplace": "Sandvikens Jernverks AB",
+                "industry": "Steel",
+                "start_date": "1919"
+            }
+        ]
+    }
+}

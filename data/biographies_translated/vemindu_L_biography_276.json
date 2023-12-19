@@ -1,0 +1,94 @@
+{
+    "original": "LINDQUIST, Hans Ola Charléz, Direktör, Stockholm, f Sthlm 13/3 16 av dir C L o Signe Friskopp, gm Zenta Niska. Hal, Påhl-mans hdlsinst, Harvard Univ Cambridge Mäss USA. Anst i fma Claes Lindquist Försäkringsbyrå Sthlm sed. 34. Ag egend Laknäs 43, Leksands förs. Resor: Flert europ länd 32—35, USA, Kanada mfl 35—38. Ledarn PÅK, USA mfl. Hobbies: Resor, böcker.",
+    "translated": "LINDQUIST, Hans Ola Charléz, Director, Stockholm, born in Stockholm on March 13, 1916, son of director C L and Signe Friskopp, married to Zenta Niska. Education: Pahlman's Business Institute, Harvard University in Cambridge, Massachusetts, USA. Employed at Claes Lindquist Insurance Agency in Stockholm since 1934. Owns a property in Laknäs, Leksand parish. Travel: Several European countries from 1932 to 1935, USA, Canada, and others from 1935 to 1938. Member of the Pahlman Alumni Association in the USA and others. Hobbies: Travelling, books.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Hans Ola Charléz Lindquist",
+        "jobTitle": "Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "birthDate": "1916-03-13",
+        "birthPlace": "Stockholm",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "C L Lindquist"
+            },
+            {
+                "@type": "Person",
+                "name": "Signe Friskopp"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Zenta Niska"
+        },
+        "alumniOf": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Pahlman's Business Institute"
+            },
+            {
+                "@type": "CollegeOrUniversity",
+                "name": "Harvard University",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Cambridge",
+                        "addressRegion": "MA",
+                        "addressCountry": "USA"
+                    }
+                }
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Claes Lindquist Insurance Agency",
+            "location": {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm"
+                }
+            },
+            "startDate": "1934"
+        },
+        "owns": [
+            {
+                "@type": "Place",
+                "name": "Laknäs",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Leksand",
+                    "addressRegion": "Dalarna",
+                    "addressCountry": "Sweden"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Pahlman Alumni Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "USA"
+            }
+        ],
+        "hobbies": "Travelling, books"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Claes Lindquist Insurance Agency",
+                "industry": "Insurance",
+                "start_date": "1934"
+            }
+        ]
+    }
+}

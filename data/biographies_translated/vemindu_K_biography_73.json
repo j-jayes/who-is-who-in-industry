@@ -1,0 +1,105 @@
+{
+    "original": "KIHLSTEDT, Per Gudmor (P G), Bergsingenjör, Skelleftehamn, f Örebro 27/7 09 av kapt Tyko K o Hedvig Tideström, gm Eivor Ruhlin. Studex Örebro 27, bergsingex KTH 33. Anst v AB Elektr Malmletn i Sv o Jugoslav 33, ing v Bolidens Gruv AB i Skelleftehamn sed. 33, avd.ch f anrikn.verket sed. 42. Konsultationsuppdrag f apatitanrikn LKAB i Malmberget 39—41. Av trycket: Upps i Jernkont Ann.",
+    "translated": "KIHLSTEDT, Per Gudmor (P G), Mining Engineer, Skelleftehamn, b. Örebro 27/7 09 to Captain Tyko K and Hedvig Tideström, married to Eivor Ruhlin. Graduated Örebro 27, mining engineering degree from KTH 33. Employed at AB Elektr Malmletn in Sweden and Yugoslavia 33, engineer at Boliden Mining AB in Skelleftehamn since 33, department chief of the enrichment plant since 42. Consultation assignments for apatite enrichment at LKAB in Malmberget 39-41. Published in the Journal of Jernkont Ann.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Per Gudmor Kihlstedt",
+        "jobTitle": "Mining Engineer",
+        "birthPlace": "Örebro",
+        "birthDate": "1909-07-27",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Captain Tyko Kihlstedt"
+            },
+            {
+                "@type": "Person",
+                "name": "Hedvig Tideström"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Eivor Ruhlin"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Studex",
+            "alumniOf": {
+                "@type": "CollegeOrUniversity",
+                "name": "Örebro"
+            },
+            "credentialEarned": {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Bergsingex",
+                "alumniOf": {
+                    "@type": "CollegeOrUniversity",
+                    "name": "KTH"
+                },
+                "dateEarned": "1933"
+            },
+            "dateEarned": "1927"
+        },
+        "memberOf": {
+            "@type": "Organization",
+            "name": "AB Elektr Malmletn",
+            "startDate": "1933",
+            "endDate": "1942"
+        },
+        "employment": [
+            {
+                "@type": "Organization",
+                "name": "Boliden Mining AB",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Skelleftehamn"
+                },
+                "startDate": "1933"
+            }
+        ],
+        "consultation": [
+            {
+                "@type": "Organization",
+                "name": "LKAB",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Malmberget"
+                },
+                "startDate": "1939",
+                "endDate": "1941"
+            }
+        ],
+        "publication": {
+            "@type": "Article",
+            "name": "Upps i Jernkont Ann"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Mining Engineer",
+                "workplace": "AB Elektr Malmletn",
+                "industry": "Mining",
+                "start_date": "1933"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Boliden Mining AB",
+                "industry": "Mining",
+                "start_date": "1933"
+            },
+            {
+                "occupational_title": "Department Chief",
+                "workplace": "Enrichment plant, Boliden Mining AB",
+                "industry": "Mining",
+                "start_date": "1942"
+            },
+            {
+                "occupational_title": "Consultant",
+                "workplace": "LKAB",
+                "industry": "Mining",
+                "start_date": "1939"
+            }
+        ]
+    }
+}

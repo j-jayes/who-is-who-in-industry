@@ -1,0 +1,61 @@
+{
+    "original": "LANDIN, Lars Herbert, Disponent, Eskilstuna, f 16/3 02, gm Bertha Mellkvist. Eft prakt v öl verkst eg fabr.rör 25, ombild t Domkraft AB Nike 37, disp där. Ag fastigh Etuna o Mälarbaden. Upprep res t Tyskl, Ung, Tjeckoslov. Hobbies: Jakt, fiske.",
+    "translated": "LANDIN, Lars Herbert, Manager, Eskilstuna, b. 16/3 02, m. Bertha Mellkvist. Previously employed at a brewery and factory as a pipe worker for 25 years. Participated in the reformation of Domkraft AB Nike in 1937, becoming manager there. Also involved in real estate in Etuna and Mälarbaden. Made repeated trips to Germany, Hungary, and Czechoslovakia. Hobbies include hunting and fishing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Lars Herbert Landin",
+        "jobTitle": "Manager",
+        "birthDate": "1902-03-16",
+        "spouse": "Bertha Mellkvist",
+        "formerJob": {
+            "@type": "OrganizationRole",
+            "startDate": "192x",
+            "endDate": "19xx",
+            "roleName": "Pipe worker",
+            "worksFor": {
+                "@type": "Organization",
+                "name": "Brewery and Factory"
+            }
+        },
+        "currentJob": {
+            "@type": "OrganizationRole",
+            "startDate": "193x",
+            "endDate": null,
+            "roleName": "Manager",
+            "worksFor": {
+                "@type": "Organization",
+                "name": "Domkraft AB Nike"
+            }
+        },
+        "hobby": [
+            "Hunting",
+            "Fishing"
+        ],
+        "travels": [
+            "Germany",
+            "Hungary",
+            "Czechoslovakia"
+        ],
+        "realEstate": [
+            "Etuna",
+            "Mälarbaden"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Pipe worker",
+                "workplace": "Brewery and factory",
+                "industry": "Brewing/Manufacturing",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Domkraft AB Nike",
+                "industry": "Manufacturing",
+                "start_date": "1937"
+            }
+        ]
+    }
+}

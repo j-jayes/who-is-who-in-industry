@@ -1,0 +1,68 @@
+{
+    "original": "KARSVIK, Karl Einar Emanuel, Civilingenjör, Uppsala, f Upps 15/8 97 av vaktm E Johansson o Jenny Samuelsson, gm Vally Kron. Studex 16, civingex KTH (kem tekn) 19. Anst Sv Konstgödn- &amp; Svavelsyrefabr :a Malmö 20—24, Ups Ångqvarns AB sed. 24.",
+    "translated": "KARSVIK, Karl Einar Emanuel, Civil Engineer, from Uppsala, born in Uppsala on August 15th, 1897, to caretaker E Johansson and Jenny Samuelsson. Married to Vally Kron. Completed secondary education in 1916, civil engineering degree from the Royal Institute of Technology (majoring in chemical technology) in 1919. Employed at the Swedish Artificial Fertilizer and Sulfuric Acid Factory in Malmö from 1920 to 1924, and thereafter at Ups Ångqvarns AB (Ups Steam Mills).",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Karl Einar Emanuel Karsvik",
+        "birthDate": "1897-08-15",
+        "birthPlace": "Uppsala",
+        "description": "Civil Engineer",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "E Johansson"
+            },
+            {
+                "@type": "Person",
+                "name": "Jenny Samuelsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Vally Kron"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "secondary",
+            "educationalLevel": "Studex",
+            "awardingInstitution": "Unknown",
+            "dateAwarded": "1916"
+        },
+        "alumniOf": {
+            "@type": "CollegeOrUniversity",
+            "name": "Royal Institute of Technology",
+            "url": "https://www.kth.se/en"
+        },
+        "affiliation": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Artificial Fertilizer and Sulfuric Acid Factory",
+                "startDate": "1920",
+                "endDate": "1924",
+                "location": "Malmö"
+            },
+            {
+                "@type": "Organization",
+                "name": "Ups Ångqvarns AB",
+                "startDate": "1924"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Swedish Artificial Fertilizer and Sulfuric Acid Factory",
+                "industry": "Chemical",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Ups Ångqvarns AB",
+                "industry": "Engineering",
+                "start_date": "1924"
+            }
+        ]
+    }
+}

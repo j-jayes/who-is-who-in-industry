@@ -1,0 +1,107 @@
+{
+    "original": "LINDBERG, Carl Vilghodt, Kamrer, Stockholm, f Västanfors 17/9 90 av handl C W I&gt; 0 h h, f Carlsson-Spännare, gm Sonja Carlsson. Efter avslut skolstud prakt å kontor o 1 affär i Sthlm 07—14, bokh v Fagersta Bruks AB 14—19. Kamrer o fabr.chef h AB Maek-meter, Sthlm, sed. 19. Sekr. i Frn Västmanlänningarna.",
+    "translated": "LINDBERG, Carl Vilghodt, Clerk, Stockholm, b. Västanfors 17/9 90, son of merchant C W I&gt; 0 h h, b. Carlsson-Spännare, married Sonja Carlsson. After completing school studies, practical work at an office and a business in Stockholm 07—14, bookkeeper at Fagersta Bruks AB 14—19. Clerk and factory manager at AB Maek-Meter, Stockholm, since 19. Secretary of Frn Västmanlänningarna.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Carl Vilghodt Lindberg",
+        "jobTitle": "Clerk",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "birthDate": "1890-09-17",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "C W I> 0 h h",
+                "jobTitle": "Merchant"
+            },
+            {
+                "@type": "Person",
+                "name": "Carlsson-Spännare"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Sonja Carlsson"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "School"
+        },
+        "workExperience": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1907",
+                "endDate": "1914",
+                "roleName": "Practical work",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Office"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1907",
+                "endDate": "1914",
+                "roleName": "Practical work",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Business"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1914",
+                "endDate": "1919",
+                "roleName": "Bookkeeper",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Fagersta Bruks AB"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1919",
+                "roleName": "Clerk and factory manager",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Maek-Meter"
+                }
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Frn Västmanlänningarna"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Clerk",
+                "workplace": "Stockholm",
+                "industry": "",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Practical work at an office and a business",
+                "workplace": "Stockholm",
+                "industry": "",
+                "start_date": "07—14"
+            },
+            {
+                "occupational_title": "Bookkeeper",
+                "workplace": "Fagersta Bruks AB",
+                "industry": "",
+                "start_date": "14—19"
+            },
+            {
+                "occupational_title": "Clerk and factory manager",
+                "workplace": "AB Maek-Meter",
+                "industry": "Stockholm",
+                "start_date": "19"
+            }
+        ]
+    }
+}

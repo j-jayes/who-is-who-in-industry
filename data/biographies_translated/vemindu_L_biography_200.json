@@ -1,0 +1,48 @@
+{
+    "original": "LINDBLAD, Carl Erik Thure, Järnhandlare, Värnamo, f Värnamo 25/3 85. Anst i Edla Carlssons Järnhdl i Värnamo 97, prokurist i inånga år, nu inneh Järnhdls AB Edla Carlson &amp; Co sed. 36. ProPstGM.",
+    "translated": "LINDBLAD, Carl Erik Thure, Iron Merchant, Värnamo, b. Värnamo 25/3 85. Employed at Edla Carlssons Iron Trade in Värnamo in 97, promoted to prokurist for several years, now owner of Iron Trade Company Edla Carlson &amp; Co since 36. ProPstGM (married to an unknown partner in the year 19xx).",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Erik Thure Lindblad",
+        "jobTitle": "Iron Merchant",
+        "birthPlace": "Värnamo",
+        "birthDate": "1885-03-25",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Edla Carlssons Iron Trade",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Värnamo"
+            },
+            "startDate": "1897"
+        },
+        "promotedTo": "Prokurist",
+        "promotedDate": "19xx",
+        "owns": {
+            "@type": "Organization",
+            "name": "Edla Carlson & Co Iron Trade Company",
+            "startDate": "1936"
+        },
+        "additionalName": "Thure",
+        "spouse": "Unknown",
+        "spouseStartDate": "19xx",
+        "additionalType": "ProPstGM"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Iron Merchant",
+                "workplace": "Edla Carlssons Iron Trade",
+                "industry": "Iron Trade",
+                "start_date": "1897"
+            },
+            {
+                "occupational_title": "Prokurist",
+                "workplace": "Edla Carlson & Co",
+                "industry": "Iron Trade",
+                "start_date": "1936"
+            }
+        ]
+    }
+}

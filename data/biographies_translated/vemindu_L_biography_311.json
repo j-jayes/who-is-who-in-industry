@@ -1,0 +1,122 @@
+{
+    "original": "LINDSTRÖM, Knut Axel Laurentius, Direktör, Stockholm, f 18/1 87 av byggm A L o Anna Johansson, gm Alice Norman. Studex öbr 08, gyrnn.dir GCI 15, kapt Dalreg 25. Dir Normans Bokbinderi, Kartong &amp; Lit AB. Styr.led Bokbind.mäst.frns pens.stift, v. ordf Frn Fäktkonstens Främj, rev Sv Bokind För-säkr.bol o Sv Bokbind.idk arb.giv.frb. Hobby: Fäktning.",
+    "translated": "LINDSTRÖM, Knut Axel Laurentius, Director, Stockholm, b. January 18th, 1887, son of builder A L and Anna Johansson, m. Alice Norman. High school graduate in 1908, junior director at GCI in 1915, captain in Dalregimentet in 1925. Director of Normans Bokbinderi, Kartong & Lit AB. Board Member of the Bokbindermästares Pension Foundation and Vice Chairman of Från Fäktkonstens Främjande. Auditor of the Swedish Bookbinding Insurance Company and the Swedish Bookbinding Employers' Association. Hobby: Fencing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Knut",
+        "additionalName": "Axel Laurentius",
+        "familyName": "Lindström",
+        "gender": "Male",
+        "birthDate": "1887-01-18",
+        "birthPlace": "Stockholm",
+        "parents": [
+            {
+                "@type": "Person",
+                "givenName": "A",
+                "familyName": "Lindström",
+                "jobTitle": "Builder"
+            },
+            {
+                "@type": "Person",
+                "givenName": "Anna",
+                "familyName": "Johansson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "givenName": "Alice",
+            "familyName": "Norman"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "High school graduate",
+            "educationalLevel": "SecondaryEducation",
+            "dateEarned": "1908"
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Normans Bokbinderi, Kartong & Lit AB",
+            "jobTitle": "Director"
+        },
+        "careerStation": [
+            {
+                "@type": "JobPosting",
+                "jobTitle": "Junior Director",
+                "hiringOrganization": {
+                    "@type": "Organization",
+                    "name": "GCI"
+                },
+                "startDate": "1915"
+            },
+            {
+                "@type": "JobPosting",
+                "jobTitle": "Captain",
+                "hiringOrganization": {
+                    "@type": "Organization",
+                    "name": "Dalregimentet"
+                },
+                "startDate": "1925"
+            }
+        ],
+        "membership": [
+            {
+                "@type": "OrganizationRole",
+                "member": {
+                    "@type": "Organization",
+                    "name": "Bokbindermästares Pension Foundation"
+                },
+                "roleName": "Board Member"
+            },
+            {
+                "@type": "OrganizationRole",
+                "member": {
+                    "@type": "Organization",
+                    "name": "Från Fäktkonstens Främjande"
+                },
+                "roleName": "Vice Chairman"
+            },
+            {
+                "@type": "OrganizationRole",
+                "member": {
+                    "@type": "Organization",
+                    "name": "Swedish Bookbinding Insurance Company"
+                },
+                "roleName": "Auditor"
+            },
+            {
+                "@type": "OrganizationRole",
+                "member": {
+                    "@type": "Organization",
+                    "name": "Swedish Bookbinding Employers' Association"
+                },
+                "roleName": "Auditor"
+            }
+        ],
+        "interests": [
+            "Fencing"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Normans Bokbinderi, Kartong & Lit AB",
+                "industry": "Bookbinding",
+                "start_date": "N/A"
+            },
+            {
+                "occupational_title": "Junior Director",
+                "workplace": "GCI",
+                "industry": "Unknown",
+                "start_date": "1915"
+            },
+            {
+                "occupational_title": "Captain",
+                "workplace": "Dalregimentet",
+                "industry": "Military",
+                "start_date": "1925"
+            }
+        ]
+    }
+}

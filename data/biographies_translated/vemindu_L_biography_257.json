@@ -1,0 +1,150 @@
+{
+    "original": "LINDH, Erik Gunnar, Bergsingenjör, Sandviken, f Gävle 11/7 02 av disp B L o Kerstin Andréen, gm gymn.dir Dagmar Helmer. Studex 21, KTH (bergs) 27, Jernkont stud.stip Engl 37. Anst Sandvikens Jernvks AB 27. spec i fråg om rostfr stål, ståls hållfasth i värme mm v ds fysikal lab. Ordf Skidfrämj Sandvikenavd sed. 37, styr.led Sandvik Segel-sällsk sed. 35. Resor: Engl 37, Belg 37, 39, Finl 36, 38. Av trycket: Upps i Jernkont Annal, Sv Papperstidn, Medd fr Sv Kem Ind.-kont. Fältidrm g, orientm s. Hobbies : Orien-. tering, skidsport, segling mm. Led Sv Tekn.frn.",
+    "translated": "LINDH, Erik Gunnar, Mining Engineer, Sandviken, b Gävle 11/7 02 to parents B L and Kerstin Andréen. Married to gymnastics director Dagmar Helmer. Graduated from high school in 1921, KTH (Mining) in 1927. Received a scholarship from Jernkont (Steel Company) for studying English in 1937. Employed at Sandvikens Jernvks AB since 1927, specializing in stainless steel, steel durability in heat, etc. in the physics laboratory. Chairman of the Ski Promotion Sandviken division since 1937, board member of the Sandvik Sailing Club since 1935. Traveled to England in 1937, Belgium in 1937 and 1939, Finland in 1936 and 1938. Publications in the Journal of Jernkont, Swedish Paper Journal, Communications from the Swedish Chemical Industry Office. Active in field army and orienteering. Hobbies include orienteering, skiing, sailing, etc. Member of the Swedish Technical Society.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Erik Gunnar Lindh",
+        "birthDate": "1902-07-11",
+        "birthPlace": "Gävle",
+        "nationality": "Swedish",
+        "jobTitle": "Mining Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Sandviken"
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "B L"
+            },
+            {
+                "@type": "Person",
+                "name": "Kerstin Andréen"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Dagmar Helmer",
+            "jobTitle": "Gymnastics Director"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Studex",
+            "educationalLevel": "High School",
+            "awardDate": "1921"
+        },
+        "alumniOf": [
+            {
+                "@type": "CollegeOrUniversity",
+                "name": "KTH",
+                "additionalType": "Bergs",
+                "startDate": "1921",
+                "awardDate": "1927"
+            }
+        ],
+        "scholarship": {
+            "@type": "ScholarlyArticle",
+            "headline": "Jernkont study stip Engl",
+            "publisher": "Jernkont",
+            "datePublished": "1937"
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Sandvikens Jernvks AB",
+            "startDate": "1927"
+        },
+        "specialty": "Stainless steel",
+        "inLanguage": "Swedish",
+        "hasOccupation": [
+            {
+                "@type": "Occupation",
+                "name": "Chairman",
+                "endDate": "present",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Ski Promotion Sandviken",
+                    "additionalType": "division",
+                    "startDate": "1937"
+                }
+            },
+            {
+                "@type": "Occupation",
+                "name": "Board Member",
+                "endDate": "present",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Sandvik Sailing Club",
+                    "startDate": "1935"
+                }
+            }
+        ],
+        "traveled": [
+            {
+                "@type": "Place",
+                "name": "England",
+                "startDate": "1937"
+            },
+            {
+                "@type": "Place",
+                "name": "Belgium",
+                "startDate": "1937",
+                "endDate": "1939"
+            },
+            {
+                "@type": "Place",
+                "name": "Finland",
+                "startDate": "1936",
+                "endDate": "1938"
+            }
+        ],
+        "publications": [
+            {
+                "@type": "Article",
+                "name": "Upps i Jernkont Annal"
+            },
+            {
+                "@type": "Article",
+                "name": "Sv Papperstidn"
+            },
+            {
+                "@type": "Article",
+                "name": "Medd fr Sv Kem Ind.-kont"
+            }
+        ],
+        "activities": [
+            "Field army",
+            "Orienteering",
+            "Skiing",
+            "Sailing"
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Technical Society"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Mining Engineer",
+                "workplace": "Sandvikens Jernvks AB",
+                "industry": "Mining",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Chairman of Ski Promotion",
+                "workplace": "Sandviken division",
+                "industry": "Sports and Recreation",
+                "start_date": "1937"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Sandvik Sailing Club",
+                "industry": "Sports and Recreation",
+                "start_date": "1935"
+            }
+        ]
+    }
+}

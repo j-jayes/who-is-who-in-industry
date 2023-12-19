@@ -1,0 +1,121 @@
+{
+    "original": "LJUNGDAHL, Sture, Direktör, Nybro, f Nybro 24/2 72. Folsk. Anst Berlin 92—93, Visby 93—94, vkst dir, deläg o styr.led AB Sture Ljungdahl &amp; Cos kuvertfabr (grund 15). Fd ordf kommun.nmd o stdsflm. Styr.ordf AB Nybro Wellkartong, AB Kalksandtegelfabr. Resor: Palest, Egypt 28, Span, Frankr 29, USA 30, Ryssl 32, Belg, Schweiz, Ital 34. RVO.",
+    "translated": "LJUNGDAHL, Sture, Director, Nybro, b. Nybro 24/2 1872. Elementary school. Employed in Berlin 1892–1893, Visby 1893–1894, Deputy Director, co-owner, and board member of AB Sture Ljungdahl & Co's envelope factory (established in 1915). Former chairman of the municipal committee and the board of directors of AB Nybro Wellkartong and AB Kalksandtegelfabr. Travelled to Palestine and Egypt in 1928, Spain and France in 1929, USA in 1930, Russia in 1932, Belgium, Switzerland, and Italy in 1934. Recipient of the Royal Order of Vasa.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Sture Ljungdahl",
+        "jobTitle": "Director",
+        "birthDate": "1872-02-24",
+        "birthPlace": "Nybro",
+        "education": "Elementary school",
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "AB Sture Ljungdahl & Co's envelope factory",
+                "foundingDate": "1915",
+                "jobTitle": "Deputy Director",
+                "description": "Envelope manufacturing company",
+                "ownershipFundingInfo": {
+                    "@type": "OrganizationRole",
+                    "roleName": "Co-owner"
+                },
+                "boardMember": true
+            }
+        ],
+        "formerChairmanOf": [
+            {
+                "@type": "Organization",
+                "name": "AB Nybro Wellkartong",
+                "boardMember": true
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Kalksandtegelfabr",
+                "boardMember": true
+            }
+        ],
+        "travelled": [
+            {
+                "@type": "Place",
+                "name": "Palestine"
+            },
+            {
+                "@type": "Place",
+                "name": "Egypt"
+            },
+            {
+                "@type": "Place",
+                "name": "Spain"
+            },
+            {
+                "@type": "Place",
+                "name": "France"
+            },
+            {
+                "@type": "Place",
+                "name": "USA"
+            },
+            {
+                "@type": "Place",
+                "name": "Russia"
+            },
+            {
+                "@type": "Place",
+                "name": "Belgium"
+            },
+            {
+                "@type": "Place",
+                "name": "Switzerland"
+            },
+            {
+                "@type": "Place",
+                "name": "Italy"
+            }
+        ],
+        "awards": {
+            "@type": "Order",
+            "name": "Royal Order of Vasa"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "AB Sture Ljungdahl & Cos kuvertfabr",
+                "industry": "Envelope manufacturing",
+                "start_date": "1915"
+            },
+            {
+                "occupational_title": "Deputy Director",
+                "workplace": "AB Sture Ljungdahl & Cos kuvertfabr",
+                "industry": "Envelope manufacturing",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Co-owner",
+                "workplace": "AB Sture Ljungdahl & Cos kuvertfabr",
+                "industry": "Envelope manufacturing",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Board member",
+                "workplace": "AB Sture Ljungdahl & Cos kuvertfabr",
+                "industry": "Envelope manufacturing",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Employed",
+                "workplace": "Berlin",
+                "industry": "",
+                "start_date": "1892"
+            },
+            {
+                "occupational_title": "Employed",
+                "workplace": "Visby",
+                "industry": "",
+                "start_date": "1893"
+            }
+        ]
+    }
+}

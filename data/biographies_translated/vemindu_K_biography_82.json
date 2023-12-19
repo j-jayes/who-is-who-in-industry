@@ -1,0 +1,101 @@
+{
+    "original": "KJELLBERG, Carl Jonas, Bergsingenjör, Nyköping, f 10/3 01 av bkdir J C:son K o Anna Almqvist, gm Rut Sachs. KTH. Anst SKF o dess spanska o franska dtrbol 24—37, vkst dir Nykps autom.fabr fr 37, dir NK verkstad sed. 43. Led Sy hdlsbkns Sörml.-styr, livförs.anst Tryggs överstyr, Automob.-ind.komm, ordf Tekn frn i Nykp, Nykps skyt.gille.",
+    "translated": "KJELLBERG, Carl Jonas, Mining Engineer, Nyköping, b. 10/3 01, son of landowner J C:son K and Anna Almqvist, m. Rut Sachs. Graduated from KTH. Employed by SKF and its Spanish and French subsidiaries from 1924-1937, Managing Director of Nyköping Automobile Factory from 1937, Director of NK Workshop since 1943. Member of the Board of Southern Sörmland Trading Association, Chief Director of Insurance Company Trygg, Automobile Industry Committee, Chairman of the Technical Association in Nyköping, Member of Nyköping Shooter's Guild.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Jonas Kjellberg",
+        "birthDate": "1901-03-10",
+        "description": "Mining Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Nyköping"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "J C:son K"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Almqvist"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Rut Sachs"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "KTH"
+        },
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "SKF",
+                "startDate": "1924",
+                "endDate": "1937"
+            },
+            {
+                "@type": "Organization",
+                "name": "Nyköping Automobile Factory",
+                "position": "Managing Director",
+                "startDate": "1937"
+            },
+            {
+                "@type": "Organization",
+                "name": "NK Workshop",
+                "position": "Director",
+                "startDate": "1943"
+            }
+        ],
+        "memberships": [
+            {
+                "@type": "Organization",
+                "name": "Southern Sörmland Trading Association",
+                "position": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Insurance Company Trygg",
+                "position": "Chief Director"
+            },
+            {
+                "@type": "Organization",
+                "name": "Automobile Industry Committee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Technical Association in Nyköping",
+                "position": "Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Nyköping Shooter's Guild",
+                "position": "Member"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Mining Engineer",
+                "workplace": "SKF",
+                "industry": "Mining",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "Nyköping Automobile Factory",
+                "industry": "Automotive",
+                "start_date": "1937"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "NK Workshop",
+                "industry": "Automotive",
+                "start_date": "1943"
+            }
+        ]
+    }
+}

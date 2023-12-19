@@ -1,0 +1,96 @@
+{
+    "original": "KJELLGREN, Sten Fredrik Valdemar, Ingenjör. Skoghall, f Dalby, Värml, 4/6 90 av veterinär N H K o Hulda Johansson, gm Ingrid Hultgren. Mog.ex Skara 08, KTH 08— 11, avg.ex sistn år. Ing v Stjerna sulfatfabrik 11—14 o v Stjerns el.kem fabrik 15—1.8, avd.-chef f el.kem fabriken v Skoghallsverken, Skoghall, sed. 18. Studieresa USA 14—15. Utf anläggn f alkalikloridelektrolys v Usines des Produits Chimiques de la Sté St Gobain, St Fons. Led Sv Tekn.frn.",
+    "translated": "KJELLGREN, Sten Fredrik Valdemar, Engineer. Skoghall, from Dalby, Värmland, born on June 4th, 1890, son of veterinarian N.H.K. and Hulda Johansson. Married to Ingrid Hultgren. Previously attended Skara 08, KTH 08-11, with the last examination year not specified. Employed at Stjerna sulfatfabrik from 1911 to 1914, and at Stjerns el.kem fabrik from 1915 to 1918. Department manager of the electric chemical factory at Skoghallsverken, Skoghall, since 1918. Undertook a study trip to the USA from 1914 to 1915. Executed the establishment of alkaline chloride electrolysis at Usines des Produits Chimiques de la Sté St Gobain, St Fons. Member of the Swedish Technical Association.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Sten Fredrik Valdemar Kjellgren",
+        "jobTitle": "Engineer",
+        "birthPlace": "Skoghall, Dalby, Värmland",
+        "birthDate": "1890-06-04",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "N.H.K."
+            },
+            {
+                "@type": "Person",
+                "name": "Hulda Johansson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ingrid Hultgren"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Skara",
+                "endDate": "1908"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "The Royal Institute of Technology",
+                "startDate": "1908",
+                "endDate": "1911"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "Stjerna sulfatfabrik",
+                "startDate": "1911",
+                "endDate": "1914"
+            },
+            {
+                "@type": "Organization",
+                "name": "Stjerns el.kem fabrik",
+                "startDate": "1915",
+                "endDate": "1918"
+            },
+            {
+                "@type": "Organization",
+                "name": "Skoghallsverken",
+                "department": {
+                    "@type": "Organization",
+                    "name": "Electric Chemical Factory"
+                },
+                "startDate": "1918"
+            },
+            {
+                "@type": "Organization",
+                "name": "Usines des Produits Chimiques de la Sté St Gobain",
+                "description": "Study trip",
+                "location": "St Fons",
+                "startDate": "1914",
+                "endDate": "1915"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Swedish Technical Association"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Ing",
+                "workplace": "Skoghallsverken",
+                "industry": "Chemical",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Avd.-chef",
+                "workplace": "Stjerns el.kem fabrik",
+                "industry": "Chemical",
+                "start_date": "1915"
+            },
+            {
+                "occupational_title": "Ing",
+                "workplace": "Stjerna sulfatfabrik",
+                "industry": "Chemical",
+                "start_date": "1911"
+            }
+        ]
+    }
+}

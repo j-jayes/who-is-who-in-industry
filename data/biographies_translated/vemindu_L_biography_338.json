@@ -1,0 +1,117 @@
+{
+    "original": "LJUNGBERG, Ernst Gregory, Civilingenjör, Lidingö, f Lidingö 11/7 07 av häradshövd E F Ljungberg o Martina Lind, gm Carin Werner. Studentexamen Lidingö 25, fil mag StHS 30, KTH (mek) 40. Anst s lärov.lär i Sthlm 34—37, ing v stat ammunit.nmd 40, v Gerh Ahréns mek verkst 41—42, ing v IVA o intend f ds försöksstation sed. 43. Skattmäst i Sv Fören studentkårer.",
+    "translated": "LJUNGBERG, Ernst Gregory, MSc in Engineering, Lidingö, born in Lidingö on November 7th, 1907, son of District Court Chief E.F. Ljungberg and Martina Lind, married to Carin Werner. Completed high school (studentexamen) in Lidingö in 1925, obtained a Bachelor of Arts degree from Stockholm University in 1930, and a Master's degree in Engineering from the Royal Institute of Technology (KTH) in 1940, specializing in mechanical engineering. Employed as a teacher at a secondary school in Stockholm from 1934 to 1937, engineer at the state ammunition committee in 1940, employed at Gerh Ahrén's mechanical workshop from 1941 to 1942, engineer at the Royal Swedish Academy of Engineering Sciences (IVA) and the Intendant's experimental station from 1943 onwards. Treasurer of the Swedish Association of Student Unions.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Ernst Gregory Ljungberg",
+        "givenName": "Ernst",
+        "familyName": "Ljungberg",
+        "description": "MSc in Engineering",
+        "birthDate": "1907-07-11",
+        "birthPlace": "Lidingö",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "E.F. Ljungberg",
+                "jobTitle": "District Court Chief"
+            },
+            {
+                "@type": "Person",
+                "name": "Martina Lind"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Carin Werner"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "highSchoolDiploma",
+                "educationalLevel": "secondary",
+                "educationalCredentialAwarded": "studentexamen",
+                "awardingInstitution": "Lidingö High School",
+                "dateAwarded": "1925"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "bachelorDegree",
+                "educationalLevel": "undergraduate",
+                "educationalCredentialAwarded": "Bachelor of Arts",
+                "awardingInstitution": "Stockholm University",
+                "dateAwarded": "1930"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "masterDegree",
+                "educationalLevel": "graduate",
+                "educationalCredentialAwarded": "Master's degree in Engineering",
+                "awardingInstitution": "Royal Institute of Technology (KTH)",
+                "specialization": "mechanical engineering",
+                "dateAwarded": "1940"
+            }
+        ],
+        "work": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "startDate": "1934",
+                "endDate": "1937",
+                "employer": "Secondary School Stockholm",
+                "jobTitle": "Teacher"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "startDate": "1940",
+                "employer": "State Ammunition Committee",
+                "jobTitle": "Engineer"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "startDate": "1941",
+                "endDate": "1942",
+                "employer": "Gerh Ahrén's Mechanical Workshop",
+                "jobTitle": "Engineer"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "startDate": "1943",
+                "employer": "Royal Swedish Academy of Engineering Sciences (IVA) and the Intendant's Experimental Station",
+                "jobTitle": "Engineer"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Swedish Association of Student Unions",
+            "jobTitle": "Treasurer"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Teacher",
+                "workplace": "Secondary school in Stockholm",
+                "industry": "Education",
+                "start_date": "1934-01-01"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "State ammunition committee",
+                "industry": "Defense",
+                "start_date": "1940-01-01"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Gerh Ahrén's mechanical workshop",
+                "industry": "Mechanical",
+                "start_date": "1941-01-01"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Royal Swedish Academy of Engineering Sciences (IVA) and Intendant's experimental station",
+                "industry": "Engineering/Research",
+                "start_date": "1943-01-01"
+            }
+        ]
+    }
+}

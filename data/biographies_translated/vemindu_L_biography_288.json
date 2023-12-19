@@ -1,0 +1,90 @@
+{
+    "original": "LINDSKOG, Anton Peter Sigfrid Leonard, Direktör, Södertälje, f Köpenhamn 6/11 76 av handlande N P Lindskog o h h, gm Estrid Lagerén. Malmö hdlssk. Kont 14—21, huv.bokf o kass Seania-Vabis, start AB Kugghjul i Södt 22, vkst dir sed. 33. Kyrkokass 21—32, fd suppl fat.v.styr, styr.led o kass Fp :s lokalavd samt miss.församl. Kass o styr.led TRO :s Utpost i Södertälje.",
+    "translated": "Lindskog, Anton Peter Sigfrid Leonard, Director, Södertälje, born in Copenhagen on November 6, 1876, to the merchant N P Lindskog and his wife. Married to Estrid Lagerén. Attended Malmö Commercial School. Worked as an accountant from 1914 to 1921 at Seania-Vabis, then started AB Kugghjul in Södertälje in 1922, and has been the company's managing director since 1933. Served in the church treasury from 1921 to 1932, formerly a supplementary member of the board of directors and treasurer of the Fp party's local branch, as well as treasurer and board member of TRO's Outpost in Södertälje.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Anton Peter Sigfrid Leonard Lindskog",
+        "birthDate": "1876-11-06",
+        "birthPlace": "Copenhagen",
+        "description": "Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Södertälje"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "N P Lindskog",
+                "occupation": "Merchant"
+            },
+            {
+                "@type": "Person",
+                "name": "H",
+                "occupation": "Housewife"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Estrid Lagerén"
+        },
+        "alumniOf": {
+            "@type": "EducationalOrganization",
+            "name": "Malmö Commercial School"
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "AB Kugghjul",
+            "startDate": "1922"
+        },
+        "jobTitle": "Managing Director",
+        "workHistory": [
+            {
+                "@type": "Organization",
+                "name": "Seania-Vabis",
+                "startDate": "1914",
+                "endDate": "1921"
+            }
+        ],
+        "churchService": {
+            "@type": "Organization",
+            "name": "Chuch Treasury",
+            "startDate": "1921",
+            "endDate": "1932"
+        },
+        "politicalAffiliation": [
+            {
+                "@type": "Organization",
+                "name": "Fp Party",
+                "roles": [
+                    "Supplementary Member",
+                    "Treasurer"
+                ]
+            }
+        ],
+        "affiliatedOrganization": {
+            "@type": "Organization",
+            "name": "TRO's Outpost in Södertälje",
+            "roles": [
+                "Treasurer",
+                "Board Member"
+            ]
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Accountant",
+                "workplace": "Seania-Vabis",
+                "industry": "Automotive",
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "AB Kugghjul",
+                "industry": "Manufacturing",
+                "start_date": "1922"
+            }
+        ]
+    }
+}

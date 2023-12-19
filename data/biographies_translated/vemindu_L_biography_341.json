@@ -1,0 +1,76 @@
+{
+    "original": "LJUNGBERG, Johan Leonard, Disponent, Ulricehamn, f Falsterbo 20/1 81 av fyrvakt J L o Kristina Jepsson, gm Hedvig Nord. Disp i AB Ulricehamns Yllefabrik sed. 19. Ldstingsman sed. 27, led av förvaltn.utsk fr 31, stdsflm fr 23, fattigv- o folksk.styr.",
+    "translated": "LJUNGBERG, Johan Leonard, Manager, Ulricehamn, born in Falsterbo on January 20, 1881, son of lighthouse keeper J L and Kristina Jepsson, married to Hedvig Nord. Manager at AB Ulricehamns Yllefabrik since 1919. Member of the County Council since 1927, member of the Administrative Committee since 1931, member of the Board of Welfare and Public School Board since 1923.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Johan Leonard Ljungberg",
+        "jobTitle": "Manager",
+        "birthDate": "1881-01-20",
+        "birthPlace": "Falsterbo",
+        "parents": [
+            {
+                "name": "J L Ljungberg",
+                "@type": "Person"
+            },
+            {
+                "name": "Kristina Jepsson",
+                "@type": "Person"
+            }
+        ],
+        "spouse": {
+            "name": "Hedvig Nord",
+            "@type": "Person"
+        },
+        "affiliation": {
+            "@type": "Organization",
+            "name": "AB Ulricehamns Yllefabrik",
+            "startDate": "1919"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "County Council",
+                "startDate": "1927"
+            },
+            {
+                "@type": "Organization",
+                "name": "Administrative Committee",
+                "startDate": "1931"
+            },
+            {
+                "@type": "Organization",
+                "name": "Board of Welfare and Public School Board",
+                "startDate": "1923"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Manager",
+                "workplace": "AB Ulricehamns Yllefabrik",
+                "industry": "Textile manufacturing",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Member of the County Council",
+                "workplace": "Not specified",
+                "industry": "Public administration",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Member of the Administrative Committee",
+                "workplace": "Not specified",
+                "industry": "Public administration",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Member of the Board of Welfare and Public School Board",
+                "workplace": "Not specified",
+                "industry": "Public administration",
+                "start_date": "1923"
+            }
+        ]
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "original": "LINDSTRÖM, Nils Anton, Skräddarmästare, Manufakturhandlare, Teckomatorp, f där 10/2 88, gm Ingeborg Nilsson. Började i fad skrädderi 01, utbild i Sthlm 04—06, prakt i Malmö, London, Paris o Berlin 07—11, inträdde i fad skrädderifma 11, etabl konfektions- o herr-ekip.aff 12 o har senare utvidg m skoaff o damekip. Huvudm o v. ordf i Teckomatorps Sparbk. Ordf i Rönnebergs mfl häraders hantv- o ind.frn fr 29, styr.led i Skånes Ma-nuf.handl.frn. Brandch fr 24, v. ordf i Rönnebergs mfl häraders brandkårskrets, ordf i mu-nicipalnmdn, led av kyrkoråd, kyrkovärd. Medl av Siriusorden o Sällsk W B. Hobbies: Ordensliv, gymnastik.",
+    "translated": "Lindström, Nils Anton, Master Tailor, Merchant, Teckomatorp, born on February 10, 1888, married to Ingeborg Nilsson. Started in father's tailoring business in 1901, received education in Stockholm from 1904 to 1906, worked in Malmö, London, Paris, and Berlin from 1907 to 1911, joined father's tailoring firm in 1911, established a ready-made clothing and men's outfitting store in 1912 and later expanded with a shoe store and women's outfitting. Principal manager and vice-chairman of Teckomatorps Savings Bank. Chairman of the craft and industrial association of Rönneberg and other districts since 1929, board member of Skånes Manufacturing and Trading Association since 1924, vice-chairman of the fire brigade district of Rönneberg and other districts, chairman of the municipal committee, member of the church council, church steward. Member of the Sirius Order and the Society W.B. Hobbies: membership in orders, gymnastics.",
+    "structured": {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "name": "Nils Anton Lindström",
+        "birthDate": "1888-02-10",
+        "jobTitle": "Master Tailor",
+        "additionalName": "Skräddarmästare",
+        "knowsAbout": "Manufakturhandlare",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Teckomatorps Sparbk",
+                "position": "Principal Manager",
+                "roleName": "Vice Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Rönnebergs mfl häraders hantv- o ind.frn",
+                "position": "Chairman",
+                "since": "1929"
+            },
+            {
+                "@type": "Organization",
+                "name": "Skånes Ma-nuf.handl.frn",
+                "position": "Board Member",
+                "since": "1924"
+            },
+            {
+                "@type": "Organization",
+                "name": "Rönnebergs mfl häraders brandkårskrets",
+                "position": "Vice Chairman"
+            }
+        ],
+        "hasOccupation": [
+            {
+                "@type": "OccupationalExperience",
+                "jobTitle": "Ready-made Clothing and Men's Outfitting",
+                "startDate": "1912"
+            }
+        ],
+        "spouse": "Ingeborg Nilsson",
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Stockholm",
+            "startDate": "1904",
+            "endDate": "1906"
+        },
+        "workExperience": [
+            {
+                "@type": "WorkExperience",
+                "jobTitle": "Tailor's Apprentice",
+                "startDate": "1901",
+                "employer": "Father's Tailoring Business"
+            },
+            {
+                "@type": "WorkExperience",
+                "jobTitle": "Practical Experience",
+                "startDate": "1907",
+                "endDate": "1911",
+                "employer": [
+                    "Malmö",
+                    "London",
+                    "Paris",
+                    "Berlin"
+                ]
+            },
+            {
+                "@type": "WorkExperience",
+                "jobTitle": "Tailoring Firm",
+                "startDate": "1911",
+                "employer": "Father's Tailoring Business"
+            }
+        ],
+        "hobbies": [
+            "membership in orders",
+            "gymnastics"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Master Tailor",
+                "workplace": "Father's tailoring business",
+                "industry": "Tailoring",
+                "start_date": "1901"
+            },
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Father's tailoring firm",
+                "industry": "Retail",
+                "start_date": "1911"
+            },
+            {
+                "occupational_title": "Ready-made Clothing and Men's Outfitting Store Owner",
+                "workplace": "Own establishment",
+                "industry": "Retail",
+                "start_date": "1912"
+            },
+            {
+                "occupational_title": "Expansion into Shoe Store and Women's Outfitting",
+                "workplace": "Own establishment",
+                "industry": "Retail",
+                "start_date": "N/A"
+            }
+        ]
+    }
+}

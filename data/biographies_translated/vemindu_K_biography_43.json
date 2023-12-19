@@ -1,0 +1,89 @@
+{
+    "original": "KARLSTRÖM, Sven Göran, Civilingenjör, Malmö, f Nättraby, Blek l, 22/2 87 av byggmästare S Karlström o Carolina Brandt. Ex tekn elem.sk Malmö 11, KTH (V o V) 13—17. Arb.led v husbyggn 11—13, konstr v Ing.fman H Kreuger &amp; O Linton i Sthlm 17—20, v AB Armerad Betong i Malmö sed. 20.",
+    "translated": "KARLSTRÖM, Sven Göran, Civil Engineer, Malmö, b. Nättraby, Blekinge County, 22/2 1887, son of builder S Karlström and Carolina Brandt. Formerly attended technical elementary school in Malmö from 1911, and the Royal Institute of Technology (V o V) from 1913 to 1917. Worked as a construction manager from 1911 to 1913, and as a designer at Ing. Niklas Kreuger & Olof Linton in Stockholm from 1917 to 1920. Currently employed at AB Armerad Betong in Malmö since 1920.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Sven Göran Karlström",
+        "jobTitle": "Civil Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Malmö"
+        },
+        "birthDate": "1887-02-22",
+        "birthPlace": "Nättraby, Blekinge County",
+        "father": {
+            "@type": "Person",
+            "name": "S Karlström",
+            "jobTitle": "Builder"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Carolina Brandt"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Technical Elementary School",
+                "location": "Malmö",
+                "startDate": "1911"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Royal Institute of Technology",
+                "location": "Stockholm",
+                "startDate": "1913",
+                "endDate": "1917"
+            }
+        ],
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "namedPosition": "Construction Manager",
+                "startDate": "1911",
+                "endDate": "1913"
+            },
+            {
+                "@type": "OrganizationRole",
+                "namedPosition": "Designer",
+                "startDate": "1917",
+                "endDate": "1920",
+                "worksFor": {
+                    "@type": "Organization",
+                    "name": "Ing. Niklas Kreuger & Olof Linton"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "namedPosition": "Employee",
+                "startDate": "1920",
+                "worksFor": {
+                    "@type": "Organization",
+                    "name": "AB Armerad Betong"
+                }
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Construction Manager",
+                "workplace": "Unspecified",
+                "industry": "Construction",
+                "start_date": "1911"
+            },
+            {
+                "occupational_title": "Designer",
+                "workplace": "Ing. Niklas Kreuger & Olof Linton",
+                "industry": "Engineering/Construction",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "AB Armerad Betong",
+                "industry": "Construction",
+                "start_date": "1920"
+            }
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "original": "LEVERT, Nils Vilhelm, Direktör, Arboga, f Arb 28/10 85. Studex 08. Vkst dir Arb brygg.AB sed. 24, d :o Arb sparbk sed. 29.",
+    "translated": "LEVERT, Nils Vilhelm, Director, Arboga, b. Oct 28, 1885. Graduate in 1908. Deputy Director at Arboga Brewery AB since 1924, and member of the board since 1929.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Nils Vilhelm Levert",
+        "birthDate": "1885-10-28",
+        "birthPlace": "Arboga",
+        "occupation": "Director",
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Arboga Brewery AB",
+            "startDate": "1924-01-01",
+            "position": "Deputy Director"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "name": "Graduate",
+            "startDate": "1908-01-01"
+        },
+        "affiliation": {
+            "@type": "Organization",
+            "name": "Arboga Savings Bank",
+            "startDate": "1929-01-01",
+            "position": "Board Member"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Arboga",
+                "industry": "",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Deputy Director",
+                "workplace": "Arboga Brewery AB",
+                "industry": "Brewery",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Arboga Brewery AB",
+                "industry": "Brewery",
+                "start_date": "1929"
+            }
+        ]
+    }
+}

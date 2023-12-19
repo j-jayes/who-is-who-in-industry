@@ -1,0 +1,92 @@
+{
+    "original": "LINDER, Elin Andrietta, Fru, Göteborg, f Gbg 4/4 84 av styckjunk A Högrell o Sophia Olson. Egna föret: Grand Hotel Haglund Gbg 0 Grand Hotel Savoy Malmö. Styr.led där samt i V Sv hotell- o rest.frn. Hobby: Läsning.",
+    "translated": "LINDER, Elin Andrietta, Mrs., Gothenburg, b. Gothenburg 4/4 84, daughter of Lieutenant Officer A Högrell and Sophia Olson. Own businesses: Grand Hotel Haglund Gothenburg and Grand Hotel Savoy Malmö. Board member in both and in several Swedish hotels and restaurants. Hobby: Reading.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Elin Andrietta Linder",
+        "familyName": "Linder",
+        "givenName": "Elin Andrietta",
+        "gender": "female",
+        "birthDate": "1884-04-04",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Gothenburg"
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "givenName": "A",
+                "familyName": "Högrell",
+                "jobTitle": "Lieutenant Officer"
+            },
+            {
+                "@type": "Person",
+                "givenName": "Sophia",
+                "familyName": "Olson"
+            }
+        ],
+        "owns": [
+            {
+                "@type": "Organization",
+                "name": "Grand Hotel Haglund Gothenburg"
+            },
+            {
+                "@type": "Organization",
+                "name": "Grand Hotel Savoy Malmö"
+            }
+        ],
+        "boardMember": [
+            {
+                "@type": "Organization",
+                "name": "Grand Hotel Haglund Gothenburg"
+            },
+            {
+                "@type": "Organization",
+                "name": "Grand Hotel Savoy Malmö"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Hotels and Restaurants Association"
+            }
+        ],
+        "hobby": {
+            "@type": "Thing",
+            "name": "Reading"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Owner",
+                "workplace": "Grand Hotel Haglund",
+                "industry": "Hospitality",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "Grand Hotel Savoy Malmö",
+                "industry": "Hospitality",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Board member",
+                "workplace": "Grand Hotel Haglund",
+                "industry": "Hospitality",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Board member",
+                "workplace": "Grand Hotel Savoy Malmö",
+                "industry": "Hospitality",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Board member",
+                "workplace": "Several Swedish hotels and restaurants",
+                "industry": "Hospitality",
+                "start_date": ""
+            }
+        ]
+    }
+}

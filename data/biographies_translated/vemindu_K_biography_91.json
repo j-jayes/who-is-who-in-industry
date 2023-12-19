@@ -1,0 +1,72 @@
+{
+    "original": "KJELLIN, Erik Emanuel, Fabrikör, Kumla, f Viby, öbr l, 7/1 81, gm Agda Bjuström (d). Deläg AB Jonsson &amp; Kjellin (skofabr, etabl 19, bol 34). Resor: Norge 17, 18, 19, Tyskl 25, 27, Danm 26, 30. Odd Fellow.",
+    "translated": "KJELLIN, Erik Emanuel, Manufacturer, Kumla, from Viby, other parts of the country, born on July 1st, 1881, married to Agda Bjuström (deceased). Co-owner of AB Jonsson & Kjellin (shoe factory, established in 1919, incorporated in 1934). Travels: Norway 1917, 1918, 1919, Germany 1925, 1927, Denmark 1926, 1930. Member of Odd Fellow.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Erik Emanuel Kjellin",
+        "jobTitle": "Manufacturer",
+        "birthDate": "1881-07-01",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Kumla",
+            "addressRegion": "Viby",
+            "addressCountry": "Sweden"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Agda Bjuström",
+            "deathDate": "unknown"
+        },
+        "affiliation": {
+            "@type": "Organization",
+            "name": "AB Jonsson & Kjellin",
+            "founder": "Erik Emanuel Kjellin",
+            "foundingDate": "1919",
+            " dissolutionDate": "1934",
+            "member": {
+                "@type": "Organization",
+                "name": "Odd Fellow"
+            }
+        },
+        "travelHistory": [
+            {
+                "@type": "Place",
+                "name": "Norway"
+            },
+            {
+                "@type": "Place",
+                "name": "Germany"
+            },
+            {
+                "@type": "Place",
+                "name": "Denmark"
+            }
+        ],
+        "events": [
+            {
+                "@type": "Event",
+                "name": "Marriage",
+                "startDate": "unknown",
+                "endDate": "unknown",
+                "description": "Married to Agda Bjuström"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Manufacturer",
+                "workplace": "AB Jonsson & Kjellin",
+                "industry": "Shoe factory",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Co-owner",
+                "workplace": "AB Jonsson & Kjellin",
+                "industry": "Shoe factory",
+                "start_date": "1934"
+            }
+        ]
+    }
+}

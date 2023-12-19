@@ -1,0 +1,63 @@
+{
+    "original": "LIDBECK, Kjell Sture, Disponent, Göteborg, f Patrille 9/5 07 av dir R L o Helga Hedman, gm Lulli Thorstensen. Realstudex Gbg 27, Gbgs hdlsinst 28. Kont i AB Robert Lidbeck &amp; Co 28, disp f denna fmas kartongfabr sed. 30.",
+    "translated": "LIDBECK, Kjell Sture, Manager, Gothenburg, born in Patrille on May 9th, 1907, son of Director R L and Helga Hedman, married to Lulli Thorstensen. Completed real estate studies in Gothenburg in 1927, and attended Gothenburg Commercial Institute in 1928. Employed in AB Robert Lidbeck & Co in 1928, became manager of this cardboard factory since 1930.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Kjell Sture",
+        "familyName": "Lidbeck",
+        "jobTitle": "Manager",
+        "birthPlace": "Patrille",
+        "birthDate": "1907-05-09",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "R L"
+            },
+            {
+                "@type": "Person",
+                "name": "Helga Hedman"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Lulli Thorstensen"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "real estate studies",
+                "educationalLevel": "1927",
+                "educationalCredentialAwarded": "Gothenburg Real Estate Studies"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "commercial studies",
+                "educationalLevel": "1928",
+                "educationalCredentialAwarded": "Gothenburg Commercial Institute"
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "AB Robert Lidbeck & Co",
+            "startDate": "1928",
+            "endDate": "1930"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Disponent",
+                "workplace": "AB Robert Lidbeck & Co",
+                "industry": "Cardboard manufacturing",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "AB Robert Lidbeck & Co",
+                "industry": "Cardboard manufacturing",
+                "start_date": "1930"
+            }
+        ]
+    }
+}

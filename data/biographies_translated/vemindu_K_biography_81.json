@@ -1,0 +1,111 @@
+{
+    "original": "KJELLBERG, Albert, Köpman, Kleva-Orust, f Torp 5/8 82. Uddevalla hal, stud USA 06—10. Hdlsanst 98—06. Eg fma Albert Kjellberg, spec o div, Assmunderöd, Kleva-Orust, sed. 10. Styr.led Orusts köpm.frn sed. 12, ordf, sekr o kassör sed. 34, styr.suppl Sv Spec- p livsm.handl.frn, fd styr.led Bohusläns köpm.frb, fi komm.uppdr.",
+    "translated": "KJELLBERG, Albert, Merchant, Kleva-Orust, born in Torp on August 5th, 1882. Started studying in the United States in 1906, completed studies in 1910. Worked as a commercial agent from 1898 to 1906. Married to Albert Kjellberg, specialized in various fields, residing in Assmunderöd, Kleva-Orust, since 1910. Board member of Orust's Merchants Association since 1912, also served as chairman, secretary, and treasurer since 1934. Board substitute for the Swedish Specialized Food Retailers Association, former board member of the Bohuslän Merchants' Association, and held various municipal positions.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Albert Kjellberg",
+        "jobTitle": "Merchant",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Kleva-Orust"
+        },
+        "birthDate": "1882-08-05",
+        "birthPlace": "Torp",
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "United States"
+            }
+        ],
+        "startDate": "1906",
+        "endDate": "1910",
+        "workExperience": [
+            {
+                "@type": "Organization",
+                "name": "Commercial Agent",
+                "startDate": "1898",
+                "endDate": "1906"
+            }
+        ],
+        "spouse": "Albert Kjellberg",
+        "specialization": "Various fields",
+        "residence": {
+            "@type": "PostalAddress",
+            "addressLocality": "Assmunderöd, Kleva-Orust"
+        },
+        "boardMember": [
+            {
+                "@type": "Organization",
+                "name": "Orust's Merchants Association",
+                "startDate": "1912"
+            }
+        ],
+        "positionsHeld": [
+            {
+                "@type": "OrganizationRole",
+                "namedPosition": "Chairman",
+                "startDate": "1934"
+            },
+            {
+                "@type": "OrganizationRole",
+                "namedPosition": "Secretary",
+                "startDate": "1934"
+            },
+            {
+                "@type": "OrganizationRole",
+                "namedPosition": "Treasurer",
+                "startDate": "1934"
+            }
+        ],
+        "boardSubstitute": {
+            "@type": "Organization",
+            "name": "Swedish Specialized Food Retailers Association"
+        },
+        "formerBoardMember": {
+            "@type": "Organization",
+            "name": "Bohuslän Merchants' Association"
+        },
+        "municipalPositions": "Various"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Kleva-Orust",
+                "industry": "Retail",
+                "start_date": "1898"
+            },
+            {
+                "occupational_title": "Commercial Agent",
+                "workplace": "Assmunderöd, Kleva-Orust",
+                "industry": "Sales",
+                "start_date": "1898"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Orust's Merchants Association",
+                "industry": "Retail",
+                "start_date": "1912"
+            },
+            {
+                "occupational_title": "Chairman",
+                "workplace": "Orust's Merchants Association",
+                "industry": "Retail",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Secretary",
+                "workplace": "Orust's Merchants Association",
+                "industry": "Retail",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Treasurer",
+                "workplace": "Orust's Merchants Association",
+                "industry": "Retail",
+                "start_date": "1934"
+            }
+        ]
+    }
+}

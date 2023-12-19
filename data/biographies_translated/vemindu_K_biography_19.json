@@ -1,0 +1,127 @@
+{
+    "original": "KARLEN, Sven Oscar, Sparbankskaanrer, Linköping, f Linkp 19/7 98 av fabr O K o Gunni Malmström, gm Agda Anderson. Studex. Anst Sydsv kreditAB 18—22, Sydsv bkn 22—25, Gbg hdlsbk 25—34, kass Linkps’sparbk 34, kamr sed. 38. Delt i Sv sångarfrbs Wienkörs utl.färd 26. SHT, Vgl idrfrbs ftJM g. Hobbies: Sång, friluftsliv.",
+    "translated": "KARLEN, Sven Oscar, Savings Bank Clerk, Linköping, born in Linköping on July 19, 1898, son of factory worker O.K. and Gunni Malmström, married to Agda Anderson. Completed studies. Employed at South Swedish Credit AB from 1918 to 1922, South Swedish Bank from 1922 to 1925, Gothenburg Trading Bank from 1925 to 1934, cashier at Linköping's Savings Bank in 1934, promoted to cashier in 1938. Participated in the Swedish Singers' Association Vienna Choir's foreign trip in 1926. Member of SHT, Vgl idrfrbs ftJM g. Hobbies: Singing, outdoor activities.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Sven Oscar",
+        "familyName": "Karlen",
+        "birthDate": "1898-07-19",
+        "birthPlace": "Linköping",
+        "parents": [
+            {
+                "@type": "Person",
+                "givenName": "O.K.",
+                "familyName": "Malmström",
+                "jobTitle": "Factory Worker"
+            },
+            {
+                "@type": "Person",
+                "givenName": "Gunni",
+                "familyName": "Malmström",
+                "jobTitle": "Unknown"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "givenName": "Agda",
+            "familyName": "Anderson"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Diploma"
+        },
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "South Swedish Credit AB"
+                },
+                "startDate": "1918",
+                "endDate": "1922",
+                "roleName": "Employee"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "South Swedish Bank"
+                },
+                "startDate": "1922",
+                "endDate": "1925",
+                "roleName": "Employee"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Gothenburg Trading Bank"
+                },
+                "startDate": "1925",
+                "endDate": "1934",
+                "roleName": "Employee"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Linköping's Savings Bank"
+                },
+                "startDate": "1934",
+                "roleName": "Cashier"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Singers' Association Vienna Choir"
+            },
+            {
+                "@type": "Organization",
+                "name": "SHT"
+            },
+            {
+                "@type": "Organization",
+                "name": "Vgl idrfrbs ftJM g"
+            }
+        ],
+        "hasOccupation": [
+            {
+                "@type": "Occupation",
+                "name": "Savings Bank Clerk"
+            }
+        ],
+        "hobbies": [
+            "Singing",
+            "Outdoor Activities"
+        ]
+    },
+    "occupations": {
+        "career": {
+            "occupational_title": [
+                "Savings Bank Clerk",
+                "Clerk",
+                "Cashier"
+            ],
+            "workplace": [
+                "Linköping Savings Bank",
+                "South Swedish Credit AB",
+                "South Swedish Bank",
+                "Gothenburg Trading Bank"
+            ],
+            "industry": [
+                "Banking",
+                "Credit",
+                "Banking",
+                "Trading"
+            ],
+            "start_date": [
+                "1934",
+                "1918",
+                "1922",
+                "1925"
+            ]
+        }
+    }
+}

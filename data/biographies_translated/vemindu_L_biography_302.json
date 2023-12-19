@@ -1,0 +1,133 @@
+{
+    "original": "LINDSTRÖM, Carl Julius, Ingenjör, Kallinge, f Örebro 29/12 87 av C L o Mathilda Eriksson, gm Lilly Hedlund. Tekn elem.sk öbr, prakt på div järnbruk. Rit Forsbacka Jernvk 09—12, rit o konstr Tekn Byggn.byrån Västerås 13—16, ritkont.ch Kockums Jernvk 17—18, verkst.ch där sed. 18. V. ordf skolstyr 26—36, ordf komm.bibl o luftsk.frn, v. ordf föreläsn.frn, distr.ch Kallinge luftsk.distr. Resor: Tyskl 28, 29, 39, Norge 20, Danm. Sv Lstfrns Centralförbs hed.jetong, Riksluftsk.-frbs ftjts, Istidr.mg m årt.m. Hobby: Fiske.",
+    "translated": "LINDSTRÖM, Carl Julius, Engineer, Kallinge, born Örebro 29/12 1887 to parents C. L. and Mathilda Eriksson, married to Lilly Hedlund. Technical elementary school Örebro, practical work at various ironworks. Draftsman Forsbacka Ironworks 1909-1912, draftsman and designer Technical Building Bureau Västerås 1913-1916, drawing office chief Kockums Ironworks 1917-1918, workshop manager since 1918. Vice chairman school board 1926-1936, chairman community library and air school committee, vice chairman lecture committee, district chairman Kallinge Air School district. Travel: Germany 1928, 1929, 1939, Norway 1920, Denmark. Swedish Sports Aviation Federation honorary token, National Air Sports Federation pilot's certificate, Ice Age researcher with annual magazine. Hobby: Fishing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Julius Lindström",
+        "birthDate": "1887-12-29",
+        "birthPlace": "Örebro",
+        "description": "Engineer",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "C. L. Lindström"
+            },
+            {
+                "@type": "Person",
+                "name": "Mathilda Eriksson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Lilly Hedlund"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Technical elementary school",
+                "educationLevel": "PrimaryEducation",
+                "provider": {
+                    "@type": "Organization",
+                    "name": "Örebro"
+                }
+            }
+        ],
+        "workHistory": [
+            {
+                "@type": "EmploymentEvent",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Forsbacka Ironworks"
+                },
+                "startDate": "1909",
+                "endDate": "1912",
+                "jobTitle": "Draftsman"
+            },
+            {
+                "@type": "EmploymentEvent",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Technical Building Bureau Västerås"
+                },
+                "startDate": "1913",
+                "endDate": "1916",
+                "jobTitle": "Draftsman and Designer"
+            },
+            {
+                "@type": "EmploymentEvent",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Kockums Ironworks"
+                },
+                "startDate": "1917",
+                "endDate": "1918",
+                "jobTitle": "Drawing Office Chief"
+            },
+            {
+                "@type": "EmploymentEvent",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Kockums Ironworks"
+                },
+                "startDate": "1918",
+                "jobTitle": "Workshop Manager"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "School Board",
+                "position": "Vice Chairman",
+                "startDate": "1926",
+                "endDate": "1936"
+            },
+            {
+                "@type": "Organization",
+                "name": "Community Library and Air School Committee",
+                "position": "Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Lecture Committee",
+                "position": "Vice Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Kallinge Air School District",
+                "position": "District Chairman"
+            }
+        ],
+        "honorificSuffix": "Swedish Sports Aviation Federation honorary token, National Air Sports Federation pilot's certificate, Ice Age researcher with annual magazine",
+        "hobby": "Fishing",
+        "additionalName": "Julius"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Forsbacka Ironworks",
+                "industry": "Ironworks",
+                "start_date": "1909"
+            },
+            {
+                "occupational_title": "Draftsman and Designer",
+                "workplace": "Technical Building Bureau Västerås",
+                "industry": "Construction",
+                "start_date": "1913"
+            },
+            {
+                "occupational_title": "Drawing Office Chief",
+                "workplace": "Kockums Ironworks",
+                "industry": "Ironworks",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Workshop Manager",
+                "workplace": "Kockums Ironworks",
+                "industry": "Ironworks",
+                "start_date": "1918"
+            }
+        ]
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "original": "LINDKVIST, Petrus, Köpman, Karlstad, f Karlstad 17/4 83 av handl Aug L o Sofia Andersson, gm Augusta Lundgren. Inneh fma A Svenssons Hudaffär i Karlstad. V. ordf i fattigv.styr 34, led av arbetslösh.ktén, lönenämnden o pensionsnämnden.",
+    "translated": "LINDKVIST, Petrus, Merchant, Karlstad, b. Karlstad 17/4 83 to merchant August L and Sofia Andersson, m. Augusta Lundgren. Owned A Svenssons Hudaffär in Karlstad. Vice chairman of the poor relief board in 34, member of the unemployment committee, salary committee, and pension committee. Note that '\\d\\d m. partners name' means that the person married in the year 19xx.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Petrus Lindkvist",
+        "birthDate": "1883-04-17",
+        "birthPlace": "Karlstad",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "August L",
+                "jobTitle": "Merchant"
+            },
+            {
+                "@type": "Person",
+                "name": "Sofia Andersson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Augusta Lundgren",
+            "weddingDate": "19xx"
+        },
+        "jobTitle": "Merchant",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "A Svenssons Hudaffär i Karlstad"
+            },
+            {
+                "@type": "Organization",
+                "name": "Poor Relief Board",
+                "position": "Vice Chairman",
+                "startDate": "19xx",
+                "endDate": "1934"
+            },
+            {
+                "@type": "Organization",
+                "name": "Unemployment Committee",
+                "position": "Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Salary Committee",
+                "position": "Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Pension Committee",
+                "position": "Member"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "A Svenssons Hudaffär",
+                "industry": "Retail",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Vice Chairman of the Poor Relief Board",
+                "workplace": "Unknown",
+                "industry": "Public Administration",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Member of the Unemployment Committee",
+                "workplace": "Unknown",
+                "industry": "Public Administration",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Member of the Salary Committee",
+                "workplace": "Unknown",
+                "industry": "Public Administration",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Member of the Pension Committee",
+                "workplace": "Unknown",
+                "industry": "Public Administration",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

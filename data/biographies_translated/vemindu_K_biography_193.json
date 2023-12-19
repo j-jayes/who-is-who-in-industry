@@ -1,0 +1,94 @@
+{
+    "original": "KAHR, Olof, Disponent, Nybro, f Nybro 11/12 13 av fabr G K o Augusta Isacson, gm Gunnel Brissman. Realex. Anst AB Gustaf Kahr sed, 30. Styr.led där, i Kährs Exp.AB samt i Lamellgolv AB, Sthlm. Resor: Mellaneuropa årl 26—39. Engl 35, Trip, Tunis, Alg o Marocko 36. Hobby: Tennis.",
+    "translated": "KAHR, Olof, Disponent (Manager), Nybro, b. Nybro 11/12 13, son of factory owner G K and Augusta Isacson, m. Gunnel Brissman. Completed secondary education. Employed at AB Gustaf Kahr since 1930. Member of the board there, as well as in Kährs Exp.AB and Lamellgolv AB, Stockholm. Travels: Annual trips to Central Europe 1926-1939. England 1935, Trip, Tunisia, Algeria, and Morocco 1936. Hobby: Tennis.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Olof Kahr",
+        "givenName": "Olof",
+        "familyName": "Kahr",
+        "description": "Disponent (Manager) in Nybro",
+        "birthDate": "1913-12-11",
+        "birthPlace": "Nybro",
+        "parents": {
+            "@type": "Person",
+            "father": "G. Kahr",
+            "mother": "Augusta Isacson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Gunnel Brissman"
+        },
+        "educationLevel": "Realex (completed secondary education)",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "AB Gustaf Kahr",
+            "startDate": "1930"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "AB Gustaf Kahr",
+                "jobTitle": "Styr.led (Member of the board)",
+                "startDate": "1930"
+            },
+            {
+                "@type": "Organization",
+                "name": "Kährs Exp.AB",
+                "jobTitle": "Styr.led (Member of the board)"
+            },
+            {
+                "@type": "Organization",
+                "name": "Lamellgolv AB",
+                "jobTitle": "Styr.led (Member of the board)"
+            }
+        ],
+        "travel": [
+            {
+                "@type": "Trip",
+                "name": "Mellaneuropa",
+                "startDate": "1926",
+                "endDate": "1939"
+            },
+            {
+                "@type": "Trip",
+                "name": "England",
+                "startDate": "1935"
+            },
+            {
+                "@type": "Trip",
+                "name": "Tunisia, Algeria, and Morocco",
+                "startDate": "1936"
+            }
+        ],
+        "hobby": "Tennis"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Manager",
+                "workplace": "AB Gustaf Kahr",
+                "industry": "Unknown",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Board member",
+                "workplace": "AB Gustaf Kahr",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Board member",
+                "workplace": "Kährs Exp.AB",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Board member",
+                "workplace": "Lamellgolv AB",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

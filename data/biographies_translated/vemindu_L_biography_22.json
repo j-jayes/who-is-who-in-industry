@@ -1,0 +1,130 @@
+{
+    "original": "L.ANDBERG, Birger Gunnar Folke, Kontorschef, Landskrona, f Växjö 24/7 90 av kapt R V L o h h, f von Segebaden, gm Olga Andersson. Efter avslut skolstud anst h Sv Utsädes AB, Svalöv, v AB Thulins Aeroplan-fabrik, Lkrona, 15—18, kont.chef v Smärgel-fabr, Höganäs, 18—21, förest f olika företag samt bedr egen aff.verks 21—29. Kont.chef h Harry Persson AB, Lkrona, sed. 29. Styr.led i Rederi AB Allan. SANDBERG, Karl Hugo, Civilingenjör, Ål-Sten (Sthlm), f Sthlm 15/2 03 av dir P A L o Anna Svensson, gm Lilian Rosenberg. Studex h reallärov å Norrmalm i Sthlm 22, KTH 22— 27, avg.ex där sistn år. Bitr ing v Sv Väginstitutet, Sthlm, 27—28, anst v Byggnads AB Konstruktör, Gävle, 28—42, arb.chef h Svenska Entreprenad AB (Sentab) Sthlm sed. 42. Led Sv Tekn.frn.",
+    "translated": "L.ANDBERG, Birger Gunnar Folke, Office Manager, Landskrona, b. Växjö 24th July 1890 to Captain R V L o h h, b. von Segebaden, m. Olga Andersson. After completing school, worked at Sv Utsädes AB, Svalöv, then at AB Thulins Aeroplane Factory in Landskrona from 1915 to 1918. Became office manager at Smärgel-fabr, Höganäs from 1918 to 1921. Managed different businesses and operated his own company from 1921 to 1929. Office manager at Harry Persson AB, Landskrona since 1929. Board member at Rederi AB Allan.\n\nSANDBERG, Karl Hugo, Engineer, Ål-Sten (Stockholm), b. Stockholm 15th February 1903 to Director P A L and Anna Svensson, m. Lilian Rosenberg. Graduated from a mathematics and science high school in Norrmalm, Stockholm in 1922. Attended KTH (The Royal Institute of Technology) from 1922 to 1927, graduating in the same year. Worked at Sv Väginstitutet, Stockholm from 1927 to 1928, then at Byggnads AB Konstruktör, Gävle from 1928 to 1942. Became Chief Engineer at Svenska Entreprenad AB (Sentab) in Stockholm since 1942. Member of the Swedish Association of Engineers.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Birger Gunnar Folke L. Andberg",
+        "birthDate": "1890-07-24",
+        "birthPlace": "Växjö",
+        "occupation": "Office Manager",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Rederi AB Allan"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Olga Andersson"
+        },
+        "parents": {
+            "@type": "Person",
+            "father": {
+                "@type": "Person",
+                "name": "Captain R V L o h h"
+            },
+            "mother": {
+                "@type": "Person",
+                "name": "Olga von Segebaden"
+            }
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "KTH (The Royal Institute of Technology)",
+            "startDate": "1922",
+            "endDate": "1927"
+        },
+        "workExperience": [
+            {
+                "@type": "Organization",
+                "name": "Sv Utsädes AB",
+                "startDate": "unknown",
+                "endDate": "unknown"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Thulins Aeroplane Factory",
+                "startDate": "1915",
+                "endDate": "1918"
+            },
+            {
+                "@type": "Organization",
+                "name": "Smärgel-fabr",
+                "startDate": "1918",
+                "endDate": "1921"
+            },
+            {
+                "@type": "Organization",
+                "name": "Harry Persson AB",
+                "startDate": "1929",
+                "endDate": "unknown"
+            },
+            {
+                "@type": "Organization",
+                "name": "Svenska Entreprenad AB (Sentab)",
+                "startDate": "1942",
+                "endDate": "unknown",
+                "jobTitle": "Chief Engineer"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Office Manager",
+                "workplace": "Sv Utsädes AB",
+                "industry": "Agriculture",
+                "start_date": "After completing school"
+            },
+            {
+                "occupational_title": "Office Manager",
+                "workplace": "AB Thulins Aeroplane Factory",
+                "industry": "Aerospace",
+                "start_date": "1915"
+            },
+            {
+                "occupational_title": "Office Manager",
+                "workplace": "Smärgel-fabr",
+                "industry": "Manufacturing",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Entrepreneur",
+                "workplace": "Own business",
+                "industry": "N/A",
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Office Manager",
+                "workplace": "Harry Persson AB",
+                "industry": "N/A",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Rederi AB Allan",
+                "industry": "Shipping",
+                "start_date": "N/A"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Sv Väginstitutet",
+                "industry": "Transportation",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Byggnads AB Konstruktör",
+                "industry": "Construction",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Chief Engineer",
+                "workplace": "Svenska Entreprenad AB (Sentab)",
+                "industry": "Construction",
+                "start_date": "1942"
+            }
+        ]
+    }
+}

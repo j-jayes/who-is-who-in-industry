@@ -1,0 +1,113 @@
+{
+    "original": "LJUNGBERGH, Oscar Anton, Direktör, Jönköping, f Byarum, Jkps l, 30/9 75 av bruks-förv o järnhandl J A L o h h f Hammargren, gm Ada Skoglund. Hal, hdlssk. Bitr o förest fma Ljungberghs järnhdl Skillingaryd 90-—03, etabl eg järnhdl o åkdonsfabr där 03, dir o inneh fma Ljungb järnhdl AB S-ryd o HAB Oscar Ljungbergh Jkp sed. 35. Haft fi kommun o kyrkl uppdr, brandch, stift AB S-ryds el verk 11, styr.ordf där samt ett flert föreningar. RNO, RVO, RFinlVROlkl. Läns-skyt.frbs o Skillingaryds skyt.gilles ftjGM:er, Jägarfrbs Ht g. Hobbies: Jakt, fiske.",
+    "translated": "LJUNGBERGH, Oscar Anton, Director, Jönköping, b Byarum, Jkps l, 30/9 75, son of the mill manager and iron merchant J A L and his wife Hammargren, married to Ada Skoglund. Elementary school. Assistant and manager at Ljungbergh's iron trade in Skillingaryd from 1890 to 1903, established own iron trade and vehicle manufacturing there in 1903, director and owner of Ljungb iron trade AB in S-ryd and HAB Oscar Ljungbergh Jkp since 1935. Held various positions in municipality and church, board member of brandch, S-ryds electricity company since 1911, chairman of the board there, as well as several associations. Received Order of the North Star, Order of Vasa, Order of the Lion of Finland. Member of the County Shooting Association and Skillingaryd Shooting Guild, awarded grand master in shooting, member of the Hunters Association. Hobbies: Hunting, fishing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Oscar Anton Ljungbergh",
+        "birthDate": "1875-09-30",
+        "birthPlace": "Byarum, Jönköping, Sweden",
+        "deathDate": "YYYY-MM-DD",
+        "nationality": "Swedish",
+        "description": "Director, iron merchant",
+        "spouse": {
+            "@type": "Person",
+            "name": "Ada Skoglund"
+        },
+        "education": "Elementary school",
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Ljungberghs järnhdl Skillingaryd",
+                "startDate": "1890",
+                "endDate": "1903",
+                "description": "Assistant and Manager"
+            },
+            {
+                "@type": "Organization",
+                "name": "Ljungb järnhdl AB",
+                "description": "Director and Owner",
+                "location": [
+                    {
+                        "@type": "Place",
+                        "name": "S-ryd"
+                    },
+                    {
+                        "@type": "Place",
+                        "name": "Jönköping"
+                    }
+                ],
+                "startDate": "1935"
+            },
+            {
+                "@type": "Organization",
+                "name": "S-ryds el verk",
+                "description": "Board Member",
+                "startDate": "1911",
+                "location": "S-ryd",
+                "position": "Stift AB"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Brandch"
+            },
+            {
+                "@type": "Organization",
+                "name": "County Shooting Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Skillingaryd Shooting Guild"
+            },
+            {
+                "@type": "Organization",
+                "name": "Hunters Association"
+            }
+        ],
+        "awards": [
+            {
+                "@type": "Order",
+                "name": "Order of the North Star",
+                "description": "RNO"
+            },
+            {
+                "@type": "Order",
+                "name": "Order of Vasa",
+                "description": "RVO"
+            },
+            {
+                "@type": "Order",
+                "name": "Order of the Lion of Finland",
+                "description": "RFinlVROlkl"
+            }
+        ],
+        "hobbies": [
+            "Hunting",
+            "Fishing"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Assistant and Manager",
+                "workplace": "Ljungbergh's Iron Trade",
+                "industry": "Iron trade",
+                "start_date": "1890"
+            },
+            {
+                "occupational_title": "Owner and Director",
+                "workplace": "Ljungb Iron Trade AB",
+                "industry": "Iron trade",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "S-ryds Electricity Company",
+                "industry": "Electricity",
+                "start_date": "1911"
+            }
+        ]
+    }
+}

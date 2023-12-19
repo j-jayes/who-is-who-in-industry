@@ -1,0 +1,81 @@
+{
+    "original": "LINDBERG, Uno, Kontorschef, Falköping,, f Kristinehamn 2/5 93 av disp Fr L o h b Hilma, gm Astrid Nylund. Eft slut skolstud o kont.prakt Krhn, Karlstad o Sthlm anst Malmö. Kont.ch AB Haglund &amp; Söner Falkp sed. 23. överförmynd, led av sk.rådet, lär Falkp yrkesskolor.",
+    "translated": "LINDBERG, Uno, Office Manager, Falköping, born in Kristinehamn on May 2, 1893, son of Fr L and hb Hilma, married to Astrid Nylund. After completing school studies and an office internship in Karlstad and Stockholm, employed in Malmö. Currently working as an office manager at AB Haglund & Sons in Falköping since 1923. Also appointed as a guardian for minors and serves as a member of the school council, teaching at vocational schools in Falköping.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Uno Lindberg",
+        "givenName": "Uno",
+        "familyName": "Lindberg",
+        "jobTitle": "Office Manager",
+        "birthDate": "1893-05-02",
+        "birthPlace": "Kristinehamn",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Fr L"
+            },
+            {
+                "@type": "Person",
+                "name": "Hilma"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Astrid Nylund"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "AB Haglund & Sons"
+            }
+        ],
+        "startDate": "1923",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "AB Haglund & Sons",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Falköping"
+            }
+        },
+        "teaches": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Falköping Vocational School"
+            }
+        ],
+        "isGuardianFor": {
+            "@type": "EducationalOrganization",
+            "name": "Falköping Vocational School"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Office Manager",
+                "workplace": "AB Haglund & Sons",
+                "industry": "Unknown",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Guardian for Minors",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Member of the School Council",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Teacher",
+                "workplace": "Falköping Vocational Schools",
+                "industry": "Education",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

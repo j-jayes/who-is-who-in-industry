@@ -1,0 +1,67 @@
+{
+    "original": "KAI/LERSKOG, Sten Alfred, Bergsingenjör, Storfors, f Simonstorp, östergötl l, 14/12 11 av kronojäg E A Karlsson o Anna Kristina Nilsson. Studex Norrkp 30, KTH 37. Lab.ch v Storfors Rörverk, Uddeholms AB, sed. 37. Resor: Norge 39. Hobbies: Litteratur, spec lyrik, samt friluftsliv.",
+    "translated": "KAI/LERSKOG, Sten Alfred, Mining Engineer, Storfors, born in Simonstorp, östergötl l, on December 14, 1911, to Crown Huntsman E A Karlsson and Anna Kristina Nilsson. Completed high school in Norrköping in 1930, and graduated from the Royal Institute of Technology (KTH) in 1937. Worked as a laboratory chief at Storfors Pipe Works, Uddeholm AB, since 1937. Traveled to Norway in 1939. Hobbies include literature, especially poetry, as well as outdoor activities.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Sten Alfred Kai/Lerskog",
+        "jobTitle": "Laboratory Chief",
+        "birthDate": "1911-12-14",
+        "birthPlace": "Simonstorp, östergötl l",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "E A Karlsson"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Kristina Nilsson"
+            }
+        ],
+        "alumniOf": [
+            {
+                "@type": "HighSchool",
+                "name": "Norrköping High School",
+                "endDate": "1930"
+            },
+            {
+                "@type": "CollegeOrUniversity",
+                "name": "Royal Institute of Technology (KTH)",
+                "endDate": "1937"
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Storfors Pipe Works, Uddeholm AB"
+        },
+        "startDate": "1937",
+        "hobbies": [
+            "Literature",
+            "Poetry",
+            "Outdoor activities"
+        ],
+        "travel": [
+            {
+                "@type": "Place",
+                "name": "Norway",
+                "startDate": "1939"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Mining Engineer",
+                "workplace": "Storfors",
+                "industry": "Mining",
+                "start_date": "1937"
+            },
+            {
+                "occupational_title": "Laboratory Chief",
+                "workplace": "Storfors Pipe Works, Uddeholm AB",
+                "industry": "Metallurgy",
+                "start_date": "1937"
+            }
+        ]
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "original": "LINDAHL, Gunnar Ernst, Civilingenjör, Västerås, f Malmö 14/12 01 av grhdl Ernst L o Ulrika Lindahl, gm Olga Anderson. Realstud-ex Malmö 20, CTH (eltekn) 24, ASEA elevk 26. Anst ASEA ritkont f kraftanläggii 25—28, spel- o valsvksbyr sed. 28, chef denna sed. 40. Studie- o aff.res i Europa. Av trycket: Art i in- o utl tidskr. Odd Fellow. Hobbies: Golf, fiske.",
+    "translated": "LINDAHL, Gunnar Ernst, Civil Engineer, Västerås, born in Malmö on December 14, 1901, son of Ernst L and Ulrika Lindahl, married to Olga Anderson. Graduated from Malmö Realgymnasium in 1920, Chalmers University of Technology (Electrical Engineering) in 1924, and worked as a trainee at ASEA in 1926. Employed at ASEA as a design engineer for power plants from 1925-1928, then worked at a consulting and design firm from 1928, becoming the chief of the firm in 1940. Studied and conducted business trips in Europe. Published articles in national and international journals. Member of the Odd Fellow society. Hobbies: Golf, fishing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Gunnar Ernst Lindahl",
+        "jobTitle": "Civil Engineer",
+        "birthDate": "1901-12-14",
+        "birthPlace": "Malmö",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Ernst L Lindahl",
+                "relation": "father"
+            },
+            {
+                "@type": "Person",
+                "name": "Ulrika Lindahl",
+                "relation": "mother"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Olga Anderson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "secondary education",
+                "educationalLevel": "Realgymnasium",
+                "educationalCredentialAwarded": "Graduated",
+                "awardingInstitution": "Malmö Realgymnasium",
+                "awardDate": "1920"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "university education",
+                "educationalLevel": "Bachelor's Degree",
+                "educationalCredentialAwarded": "Civilingenjör",
+                "awardingInstitution": "Chalmers University of Technology",
+                "awardDate": "1924"
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "ASEA",
+            "department": "Design Engineering"
+        },
+        "worksFromDate": "1925",
+        "worksToDate": "1928",
+        "worksFor_2": {
+            "@type": "Organization",
+            "name": "Consulting and Design Firm"
+        },
+        "worksFor_2Title": "Chief",
+        "worksFor_2FromDate": "1928",
+        "worksFor_2ToDate": "1940",
+        "businessFunction": "Design Engineer",
+        "nationality": "Swedish",
+        "sameAs": {
+            "@type": "URL",
+            "url": "https://example.com/gunnar-ernst-lindahl"
+        },
+        "article": {
+            "@type": "Article",
+            "name": "Published Articles",
+            "publisher": "National and International Journals"
+        },
+        "membership": {
+            "@type": "Organization",
+            "name": "Odd Fellow"
+        },
+        "hobbies": [
+            "Golf",
+            "Fishing"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Design Engineer",
+                "workplace": "ASEA",
+                "industry": "Power plant engineering",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Chief",
+                "workplace": "Consulting and design firm",
+                "industry": "Engineering consulting",
+                "start_date": "1940"
+            }
+        ]
+    }
+}

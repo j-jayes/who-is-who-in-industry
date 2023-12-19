@@ -1,0 +1,57 @@
+{
+    "original": "LANDIN,, Jolin Anton, Grosshandlare, Malmö, f Mmö 8/12 84 av skom.m F L o Martha Jonasson, gin Anna Olsson. Borgarsk Mmö. Anst fma Andersson &amp; Co 99—13, start tills m Ernst Lundbladh fma Landin &amp; Lund-bladh 14, ens inneh sed. 29. Styr.led Mmö kolonialv.gr :s frn.",
+    "translated": "LANDIN, Jolin Anton, Merchant, Malmö, born in Malmö on August 8th, 1884, to shoemaker F L and Martha Jonasson, their only child. Belongs to the bourgeois class in Malmö. Employed at Andersson & Co from 1899 to 1913, then co-founded Landin & Lundbladh in 1914 with Ernst Lundbladh, remaining the sole owner since 1929. Serves as a board member of the Malmö Colonization Cooperative Society from [unspecified year].",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Jolin Anton Landin",
+        "jobTitle": "Merchant",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Malmö"
+        },
+        "birthDate": "1884-12-08",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "F L Landin",
+                "jobTitle": "Shoemaker"
+            },
+            {
+                "@type": "Person",
+                "name": "Martha Jonasson"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Andersson & Co",
+                "startDate": "1899",
+                "endDate": "1913"
+            },
+            {
+                "@type": "Organization",
+                "name": "Landin & Lundbladh",
+                "startDate": "1914",
+                "endDate": "1929",
+                "description": "Co-founded with Ernst Lundbladh in 1914 and remained the sole owner since 1929."
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Andersson & Co",
+                "industry": "Unknown",
+                "start_date": "1899"
+            },
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Landin & Lundbladh",
+                "industry": "Unknown",
+                "start_date": "1914"
+            }
+        ]
+    }
+}

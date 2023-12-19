@@ -1,0 +1,106 @@
+{
+    "original": "LEKÄNDER, Ossian Hugo, Bankdirektör, Ljungby, f Karlskr 11/5 85 av kontroll H L o Amy Sandholm, gm Hanna Pettersson. Friv stud. Bitr å krlänsmkont 05—07, tjm Smal ensk bk Ljungby 07—13, kamr 13 o num vkst dir Sunnerbo hds sparbk Ljungby, styr.led sed. 38. V. ordf byggn.nmdn o samreal-lärovis styr. Av trycket: Sunnerbo Hds Sparbk 1863—1938. PatrstGM. Hobby: Sportfiske.",
+    "translated": "LEKÄNDER, Ossian Hugo, Bank Director, Ljungby, born in Karlskr on May 11, 1885 to H L and Amy Sandholm. Married Hanna Pettersson. Completed voluntary studies. Assistant at county bank 1905-1907, employed at Smal private bank in Ljungby 1907-1913, became cashier in 1913 and later promoted to vice general manager at Sunnerbo County Savings Bank in Ljungby, serving on the board of directors since 1938. Vice chairman of the building committee and the Cooperative Trade School board. Published: Sunnerbo County Savings Bank 1863-1938. Member of the Swedish Patriotic Society. Hobby: Sport fishing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Ossian Hugo Lekänder",
+        "birthDate": "1885-05-11",
+        "birthPlace": "Karlskr",
+        "familyName": "Lekänder",
+        "givenName": "Ossian Hugo",
+        "jobTitle": "Bank Director",
+        "description": "Bank Director at Sunnerbo County Savings Bank in Ljungby",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Board of Directors of Sunnerbo County Savings Bank"
+            },
+            {
+                "@type": "Organization",
+                "name": "Building Committee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Cooperative Trade School Board"
+            }
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Ljungby"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Hanna Pettersson"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Voluntary studies"
+        },
+        "workExperience": [
+            {
+                "@type": "OrganizationRole",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "County Bank"
+                },
+                "startDate": "1905-01-01",
+                "endDate": "1907-12-31",
+                "roleName": "Assistant"
+            },
+            {
+                "@type": "OrganizationRole",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Smal private bank"
+                },
+                "startDate": "1907-01-01",
+                "endDate": "1913-12-31",
+                "roleName": "Employee"
+            },
+            {
+                "@type": "OrganizationRole",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Sunnerbo County Savings Bank"
+                },
+                "startDate": "1913-01-01",
+                "roleName": "Cashier"
+            }
+        ],
+        "publication": [
+            "Sunnerbo County Savings Bank 1863-1938"
+        ],
+        "hobbies": [
+            "Sport fishing"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Assistant",
+                "workplace": "County Bank",
+                "industry": "Banking",
+                "start_date": "1905"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Smal Private Bank",
+                "industry": "Banking",
+                "start_date": "1907"
+            },
+            {
+                "occupational_title": "Cashier",
+                "workplace": "Sunnerbo County Savings Bank",
+                "industry": "Banking",
+                "start_date": "1913"
+            },
+            {
+                "occupational_title": "Vice General Manager",
+                "workplace": "Sunnerbo County Savings Bank",
+                "industry": "Banking",
+                "start_date": "unknown"
+            }
+        ]
+    }
+}

@@ -1,0 +1,163 @@
+{
+    "original": "KARSBERG, Axel, Jägmästare, Sala, f Finspong 5/11 91 av skogsch J K o Anna Brom-berg, gm Karin Fredricson. Studex Norrk 10, skogsinst h kurs 14. E. jägm 16, skogsing o revirass 16—17, not o tf byråjägm i domänstyr 18—19, skogsch Bysta o Brefvens br 20 —32, huv.deläg, styr.ordf o vkst dir Sala träv.AB sed. 35, deläg (m sysk) Simonstorps gård Hällestad Ögl. Led kom.flm, vägstyr, hdsallm.styr Asker, Närke, 22—32, ordf kom.-stämman där 26—32, div kom uppdr Sala fr 38.",
+    "translated": "KARSBERG, Axel, Forest Officer, Sala, born in Finspong on November 5th, 1891 to forest inspector J K and Anna Bromberg, married to Karin Fredricson. Completed secondary school in Norrk 1910, forestry institute course in 1914. Became a forest officer in 1916, worked as a forest engineer and game warden from 1916 to 1917, temporary bureau forest officer in the domain administration from 1918 to 1919. Worked at Bysta and Brefvens forest from 1920 to 1932, became a major shareholder, chairman of the board, and managing director of Sala träv.AB since 1935. Also a co-owner (with siblings) of Simonstorps farm in Hällestad Ögl. Served in various committees, road authorities, and county board in Asker, Närke, from 1922 to 1932. Was chairman of the committee there from 1926 to 1932. Held various commission assignments in Sala since 1938.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Axel Karsberg",
+        "birthDate": "1891-11-05",
+        "birthPlace": "Finspong",
+        "deathDate": null,
+        "jobTitle": "Forest Officer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Sala"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "J K Karsberg",
+                "jobTitle": "Forest Inspector"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Bromberg"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Karin Fredricson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Norrk Secondary School",
+                "startDate": "1910"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Forestry Institute",
+                "courseName": "Forestry",
+                "startDate": "1914"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Bysta Forest"
+            },
+            {
+                "@type": "Organization",
+                "name": "Brefvens Forest"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sala träv.AB",
+                "startDate": "1935",
+                "jobTitle": "Managing Director",
+                "memberOf": [
+                    {
+                        "@type": "Person",
+                        "name": "Sala träv.AB",
+                        "jobTitle": "Chairman of the Board"
+                    }
+                ]
+            }
+        ],
+        "owns": [
+            {
+                "@type": "OwnershipInfo",
+                "typeOfGood": {
+                    "@type": "Product",
+                    "name": "Simonstorps farm"
+                },
+                "acquiredFrom": [
+                    {
+                        "@type": "Person",
+                        "name": "siblings"
+                    }
+                ]
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Kom.flm"
+            },
+            {
+                "@type": "Organization",
+                "name": "Vägstyr"
+            },
+            {
+                "@type": "Organization",
+                "name": "Hdsallm.styr",
+                "location": "Asker, Närke",
+                "startDate": "1922",
+                "endDate": "1932",
+                "jobTitle": "County Board"
+            }
+        ],
+        "commissionedFor": [
+            {
+                "@type": "Organization",
+                "name": "Sala",
+                "startDate": "1938"
+            }
+        ],
+        "relatedTo": [
+            {
+                "@type": "Event",
+                "name": "Chairman of the Committee",
+                "location": "Asker, Närke",
+                "startDate": "1926",
+                "endDate": "1932"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Forest Officer",
+                "workplace": "Sala",
+                "industry": "Forestry",
+                "start_date": 1916
+            },
+            {
+                "occupational_title": "Forest Engineer",
+                "workplace": "Bysta",
+                "industry": "Forestry",
+                "start_date": 1920
+            },
+            {
+                "occupational_title": "Game Warden",
+                "workplace": "Brefvens Forest",
+                "industry": "Forestry",
+                "start_date": 1916
+            },
+            {
+                "occupational_title": "Temporary Bureau Forest Officer",
+                "workplace": "Domain Administration",
+                "industry": "Forestry",
+                "start_date": 1918
+            },
+            {
+                "occupational_title": "Major Shareholder",
+                "workplace": "Sala träv.AB",
+                "industry": "Forestry",
+                "start_date": 1935
+            },
+            {
+                "occupational_title": "Chairman of the Board",
+                "workplace": "Sala träv.AB",
+                "industry": "Forestry",
+                "start_date": 1935
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "Sala träv.AB",
+                "industry": "Forestry",
+                "start_date": 1935
+            }
+        ]
+    }
+}

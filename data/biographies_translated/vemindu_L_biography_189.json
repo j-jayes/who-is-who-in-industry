@@ -1,0 +1,85 @@
+{
+    "original": "LINDBERG, Sven Erik, Civilingenjör, Traneberg, f Sthlm 11/6 05 av myntgravören, o v. prof J E L o Dagmar Treffenberg, gm Ingrid Stavenow. Ex tekn gymn Örebro 26, civingex (E) KTH 32, studieresor t Tyskl, Schweiz,» Holl, Engl o Danm. Ing v Sthlms elverk 32,, anst v LME sed. 41. Led Sv Tekn.frn.",
+    "translated": "LINDBERG, Sven Erik, Engineer, Traneberg, b Stockholm 11/6 05, son of the coin engraver, late professor J E L and Dagmar Treffenberg, married Ingrid Stavenow. Former student of technical gymnastics in Örebro 26, received engineering degree (E) from KTH in 32, went on study trips to Germany, Switzerland, the Netherlands, England, and Denmark. Employed at Stockholm Electric Works since 32, then worked for LME from 41 onwards. Member of the Swedish Institute of Technology fraternity.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Sven Erik Lindberg",
+        "birthDate": "1905-06-11",
+        "birthPlace": "Stockholm",
+        "nationality": "Swedish",
+        "description": "Civilingenjör",
+        "hasOccupation": {
+            "@type": "EducationalOrganizationRole",
+            "roleName": "Former student of technical gymnastics",
+            "startDate": "1926",
+            "affiliation": "Örebro"
+        },
+        "hasEducation": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Engineering degree",
+            "educationalLevel": "E",
+            "educationalCredentialAwarded": "KTH",
+            "startDate": "1932",
+            "endDate": "1932"
+        },
+        "studyTrip": [
+            "Germany",
+            "Switzerland",
+            "The Netherlands",
+            "England",
+            "Denmark"
+        ],
+        "hasEmployment": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1932",
+                "endDate": "1941",
+                "organizationName": "Stockholm Electric Works"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1941",
+                "organizationName": "LME"
+            }
+        ],
+        "spouse": "Ingrid Stavenow",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "J E L",
+                "description": "Late professor"
+            },
+            {
+                "@type": "Person",
+                "name": "Dagmar Treffenberg"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Institute of Technology Fraternity"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sv Tekn"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Sthlms elverk (Stockholm Electric Works)",
+                "industry": "Electricity",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "LME",
+                "industry": "Unknown",
+                "start_date": "1941"
+            }
+        ]
+    }
+}

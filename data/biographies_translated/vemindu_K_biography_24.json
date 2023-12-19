@@ -1,0 +1,112 @@
+{
+    "original": "KARLSON, Nils Axel, Direktör, Linköping, f 31/10 89 av dir A F K o Hedvig Diiring, gm Gertrud Anderson. Schartaus 04—06. Vkst dir AB Axel Karlson &amp; Co (anst 06), Linkp Manufaktur AB sed. 22 o AB Linkp Tennishall sed. 18, ordf Linkp Kolonialvaru AB sed. 19. Resor: Engl 05, Tyskl 06. Hobby: Lawn-tennis.",
+    "translated": "KARLSON, Nils Axel, Director, Linköping, b. 31/10 1889, son of director A.F.K. and Hedvig Diiring, married to Gertrud Anderson. Attended Schartaus School 1904-1906. Became assistant director at AB Axel Karlson & Co in 1906, Linköping Manufaktur AB since 1922, and AB Linköping Tennishall since 1918. Chairman of Linköping Kolonialvaru AB since 1919. Traveled to England in 1905 and Germany in 1906. Hobby: Lawn tennis.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Nils Axel Karlson",
+        "jobTitle": "Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Linköping"
+        },
+        "birthDate": "1889-10-31",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "A.F.K.",
+                "jobTitle": "Director"
+            },
+            {
+                "@type": "Person",
+                "name": "Hedvig Diiring"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Gertrud Anderson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Schartaus School",
+                "startDate": "1904",
+                "endDate": "1906"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "AB Axel Karlson & Co",
+                "jobTitle": "Assistant Director",
+                "startDate": "1906"
+            },
+            {
+                "@type": "Organization",
+                "name": "Linköping Manufaktur AB",
+                "startDate": "1922",
+                "jobTitle": "Assistant Director"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Linköping Tennishall",
+                "startDate": "1918",
+                "jobTitle": "Assistant Director"
+            },
+            {
+                "@type": "Organization",
+                "name": "Linköping Kolonialvaru AB",
+                "startDate": "1919",
+                "jobTitle": "Chairman"
+            }
+        ],
+        "knowsAbout": "Lawn tennis",
+        "memberOf": [
+            {
+                "@type": "SportsClub",
+                "name": "Lawn Tennis Club",
+                "sportsActivityLocation": "Linköping"
+            }
+        ],
+        "travel": [
+            {
+                "@type": "Trip",
+                "name": "England",
+                "startDate": "1905"
+            },
+            {
+                "@type": "Trip",
+                "name": "Germany",
+                "startDate": "1906"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Assistant director",
+                "workplace": "AB Axel Karlson & Co",
+                "industry": "Unknown",
+                "start_date": "1906"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Linköping Manufaktur AB",
+                "industry": "Unknown",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "AB Linköping Tennishall",
+                "industry": "Unknown",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Chairman",
+                "workplace": "Linköping Kolonialvaru AB",
+                "industry": "Unknown",
+                "start_date": "1919"
+            }
+        ]
+    }
+}

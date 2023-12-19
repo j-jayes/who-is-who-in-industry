@@ -1,0 +1,73 @@
+{
+    "original": "KARLSSON, N.ils Oskar, Kamrer, Norrköping, f Sthlm 2/9 05, gm Maria Hedman. Sekr AB Sv Litograf Tryck 34—39, kont.ch Litho-graf AB Nrkp sed. 39. Resor: Engl, Tyskl 34, Tyskl 37.",
+    "translated": "KARLSSON, Nils Oskar, Accountant, Norrköping, born in Stockholm on September 2nd, 1905, married Maria Hedman. Secretary at AB Swedish Lithographic Printing 1934-1939, accountant at Lithographic AB Norrköping since 1939. Travelled to England in 1934 and Germany in 1937.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Nils Oskar Karlsson",
+        "jobTitle": "Accountant",
+        "birthDate": "1905-09-02",
+        "birthPlace": "Stockholm",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Norrköping"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Maria Hedman"
+        },
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Swedish Lithographic Printing"
+                },
+                "startDate": "1934",
+                "endDate": "1939",
+                "roleName": "Secretary"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Lithographic AB Norrköping"
+                },
+                "startDate": "1939",
+                "roleName": "Accountant"
+            }
+        ],
+        "knowsAbout": [
+            "England",
+            "Germany"
+        ],
+        "travelHistory": [
+            {
+                "@type": "Trip",
+                "name": "England",
+                "startDate": "1934"
+            },
+            {
+                "@type": "Trip",
+                "name": "Germany",
+                "startDate": "1937"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Secretary",
+                "workplace": "AB Swedish Lithographic Printing",
+                "industry": "Printing",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Accountant",
+                "workplace": "Lithographic AB Norrköping",
+                "industry": "Printing",
+                "start_date": "1939"
+            }
+        ]
+    }
+}

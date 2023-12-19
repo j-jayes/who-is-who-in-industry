@@ -1,0 +1,113 @@
+{
+    "original": "LJUNGBERG, Paul, Grosshandlare, Stockholm, f Lidingö 30/3 93 av fabr C L o Mathilda Haglund, gm Birgitta Jacobson. Eft avslut skolstud kont.elev 09, eg agenturfma 14, dir i Gips &amp; Cement AB 17—23, eg grhdlsfma inom färg- o fernissbranschen sed. 24. Borgare i Sthlm 36. Stift av Lidingö IF 10, dess sekr 10—13, styr.led i Lidingö Skyttefrn 20— 22 sekr i Sv Velocipedfrb 20—23, led av Sy Olymp Kté 21—24, mittag t o led f Lidingö Vinteridrottsspel 21, 22 o 26, sekr i Nord Cykelfrb 22—24, led av Sv Idrottsspels cykel-kté i Gbg 23, led f ett 50-tal nät o internat skid- o cykeltävl, repr v ett flert internat kongresser, inneh Skytte-, idrotts- o skidlöparmärken g o Sv Velocipedfrbs, Sthlms Idr.frbs, Skidfrämj:s o Hammarby Idr.frns ftj.diplom. Styr.led i Frn 93 års män sed. 32. Hobbies: Teater o idrott.",
+    "translated": "LJUNGBERG, Paul, Wholesale Merchant, Stockholm, born in Lidingö on March 30, 1893, son of factory worker C L and Mathilda Haglund, married to Birgitta Jacobson. After completing school studies, he worked as a clerk's assistant in 1909, established his own agency firm in 1914, became a director in Gips & Cement AB from 1917 to 1923, and established his own wholesale firm within the paint and varnish industry since 1924. Became a citizen of Stockholm in 1936. Founder of Lidingö IF in 1910, served as secretary from 1910 to 1913, served as a board member of Lidingö Skyttefrn from 1920 to 1922, secretary of the Swedish Cycling Association from 1920 to 1923, member of the South Olympic Committee from 1921 to 1924, organizing committee member and leader of Lidingö Winter Sports Games in 1921, 1922, and 1926, secretary of the North Cycling Association from 1922 to 1924, member of the Swedish Sports Games cycling committee in Gothenburg in 1923, participated in multiple national and international skiing and cycling competitions, represented various international congresses, holds shooting, sports, and skiing awards as well as diplomas from the Swedish Cycling Association, Stockholm Sports Association, Ski Promotion Association, and Hammarby Sports Club. Board member of the Frn 93 Men's Association since 1932. Hobbies: Theater and sports.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Paul Ljungberg",
+        "birthDate": "1893-03-30",
+        "birthPlace": "Lidingö, Sweden",
+        "description": "Wholesale Merchant",
+        "spouse": "Birgitta Jacobson",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "C L Ljungberg"
+            },
+            {
+                "@type": "Person",
+                "name": "Mathilda Haglund"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "School",
+                "endDate": "1909"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Clerk's Assistant",
+                "endDate": "1909"
+            }
+        ],
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Director",
+                "endDate": "1923",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Gips & Cement AB"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Founder",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Lidingö IF"
+                },
+                "startDate": "1910",
+                "endDate": "1913"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Board Member",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Lidingö Skyttefrn"
+                },
+                "startDate": "1920",
+                "endDate": "1922"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Secretary",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Swedish Cycling Association"
+                },
+                "startDate": "1920",
+                "endDate": "1923"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Stockholm"
+        },
+        "citizenship": "Stockholm",
+        "hobbies": [
+            "Theater",
+            "Sports"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Clerk's Assistant",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "1909"
+            },
+            {
+                "occupational_title": "Agency Firm Owner",
+                "workplace": "Own firm",
+                "industry": "Unknown",
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Gips & Cement AB",
+                "industry": "Construction materials",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Wholesale Merchant",
+                "workplace": "Own firm",
+                "industry": "Paint and varnish",
+                "start_date": "1924"
+            }
+        ]
+    }
+}

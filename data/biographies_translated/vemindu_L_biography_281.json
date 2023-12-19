@@ -1,0 +1,137 @@
+{
+    "original": "LINDQVIST, Josef Mauritz Laurentius, Köpman, Uppsala, f Upps 30/3 86 av gårdsäg L F L o Sofia Persdtr, gm Gerda Bosaeus. Elev o hdlsbitr 04—09, etabl eg ^ma 09, deläg o tjm i kolonialvarupartifma 16—19, övert Löfgrenska aff i Upps 19 o ombild den t AB Josef L Lindqvist, inneh tillika glasmästeri o är vkst dir f Sällsk Hjälp Genom Arb AB. Ordf i Sv Köpm.frb samt i Sv Speceri- o Livsm.handl.frb, styr.led i Upps Specerihandl.-frn, Uppl Köpm.frb o Upps Hdlsfrn. Led av AB Jordbr.bkns lokalstyr. Stdsflm. RVO.",
+    "translated": "LINDQVIST, Josef Mauritz Laurentius, Merchant, Uppsala, born in Uppsala on March 30, 1886, the son of farmer L F L and Sofia Persdtr, married to Gerda Bosaeus. Student and sales assistant from 1904 to 1909, established own business in 1909, co-owner and employee in the wholesale grocery firm from 1916 to 1919, took over Löfgren's shop in Uppsala in 1919 and transformed it into AB Josef L Lindqvist, also owning a glassworks and working as a managing director of the company Sällsk Hjälp Genom Arb AB. Chairman of the Swedish Merchants Association and the Swedish Grocery and Food Traders Association, board member of the Uppsala Grocery Merchants Association, Uppland Merchants Association, and Uppsala Chamber of Commerce. Member of the local board of AB Jordbr.bkns. Awarded RVO (Order of the Vasa).",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Josef Mauritz Laurentius Lindqvist",
+        "birthDate": "1886-03-30",
+        "birthPlace": "Uppsala",
+        "description": "Merchant",
+        "parent": {
+            "@type": "Person",
+            "name": "L F L"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Gerda Bosaeus"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "School",
+                "startDate": "1904",
+                "endDate": "1909"
+            }
+        ],
+        "business": {
+            "@type": "Organization",
+            "name": "AB Josef L Lindqvist",
+            "foundingDate": "1909",
+            "owns": {
+                "@type": "Organization",
+                "name": "Glassworks"
+            },
+            "employee": {
+                "@type": "Person",
+                "name": "Sällsk Hjälp Genom Arb AB",
+                "jobTitle": "Managing Director"
+            },
+            "co-ownership": {
+                "@type": "Organization",
+                "name": "Wholesale Grocery Firm",
+                "startDate": "1916",
+                "endDate": "1919"
+            },
+            "takeover": {
+                "@type": "Organization",
+                "name": "Löfgrenska Aff",
+                "location": "Uppsala",
+                "startDate": "1919"
+            }
+        },
+        "affiliation": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Merchants Association",
+                "roleName": "Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Grocery and Food Traders Association",
+                "roleName": "Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Uppsala Grocery Merchants Association",
+                "roleName": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Uppland Merchants Association",
+                "roleName": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Uppsala Chamber of Commerce",
+                "roleName": "Board Member"
+            }
+        ],
+        "award": {
+            "@type": "Order",
+            "name": "RVO (Order of the Vasa)"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Student",
+                "workplace": null,
+                "industry": null,
+                "start_date": 1904
+            },
+            {
+                "occupational_title": "Sales Assistant",
+                "workplace": null,
+                "industry": null,
+                "start_date": 1904
+            },
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Own business",
+                "industry": null,
+                "start_date": 1909
+            },
+            {
+                "occupational_title": "Co-owner and Employee",
+                "workplace": "Wholesale Grocery Firm",
+                "industry": "Retail",
+                "start_date": 1916
+            },
+            {
+                "occupational_title": "Owner and Managing Director",
+                "workplace": "Löfgrenska shop",
+                "industry": "Retail",
+                "start_date": 1919
+            },
+            {
+                "occupational_title": "Owner and Managing Director",
+                "workplace": "AB Josef L Lindqvist",
+                "industry": "Retail (Grocery)",
+                "start_date": 1919
+            },
+            {
+                "occupational_title": "Owner and Managing Director",
+                "workplace": "Glassworks",
+                "industry": "Manufacturing",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "Sällsk Hjälp Genom Arb AB",
+                "industry": "Non-profit",
+                "start_date": null
+            }
+        ]
+    }
+}

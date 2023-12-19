@@ -1,0 +1,129 @@
+{
+    "original": "LINDSTRÖM, Svante, Gustaf, överingenjör, Norrviken, f 5/11 02 av ing G L o Anna Lundberg, gm Astrid Gullberg. Studex Gävle 22, civ.ingex KTH 28. Anst Sv AB Bromsregulator 28—29, Gävle varvs &amp; verkst nya AB 29—30, Finspongs Metallvk, avd Väsby Verkstäder, 30—37, Stille-Werner 37—38, AB Max Sievert, Lödlampfabr sed. 38.",
+    "translated": "LINDSTRÖM, Svante, Gustaf, Chief Engineer, Norrviken, b. 5/11 02, son of Engineer G L and Anna Lundberg, m. Astrid Gullberg. Graduated Gävle 1922, Civil Engineer from KTH 1928. Employed at Sv AB Bromsregulator 1928-1929, Gävle Shipyard &amp; Engineering Works AB 1929-1930, Finspongs Metallvk, Väsby Workshops Department, 1930-1937, Stille-Werner 1937-1938, AB Max Sievert, Soldering lamp factory since 1938.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Svante",
+        "additionalName": "Gustaf",
+        "familyName": "Lindström",
+        "jobTitle": "Chief Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Norrviken"
+        },
+        "birthDate": "1902-11-05",
+        "parents": [
+            {
+                "@type": "Person",
+                "givenName": "G",
+                "additionalName": "L",
+                "familyName": "Lundberg",
+                "jobTitle": "Engineer"
+            },
+            {
+                "@type": "Person",
+                "givenName": "Anna",
+                "familyName": "Lundberg"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "givenName": "Astrid",
+            "familyName": "Gullberg"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "educationalLevel": "Graduate",
+                "educationalProgram": "Engineering",
+                "alumniOf": {
+                    "@type": "CollegeOrUniversity",
+                    "name": "Gävle"
+                },
+                "endDate": "1922"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "educationalLevel": "Bachelor",
+                "educationalProgram": "Civil Engineering",
+                "alumniOf": {
+                    "@type": "CollegeOrUniversity",
+                    "name": "KTH"
+                },
+                "endDate": "1928"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Sv AB Bromsregulator",
+                "startDate": "1928",
+                "endDate": "1929"
+            },
+            {
+                "@type": "Organization",
+                "name": "Gävle Shipyard & Engineering Works AB",
+                "startDate": "1929",
+                "endDate": "1930"
+            },
+            {
+                "@type": "Organization",
+                "name": "Finspongs Metallvk, Väsby Workshops Department",
+                "startDate": "1930",
+                "endDate": "1937"
+            },
+            {
+                "@type": "Organization",
+                "name": "Stille-Werner",
+                "startDate": "1937",
+                "endDate": "1938"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Max Sievert, Soldering lamp factory",
+                "startDate": "1938"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Chief Engineer",
+                "workplace": "Norrviken",
+                "industry": "",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Sv AB Bromsregulator",
+                "industry": "Unknown",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Gävle Shipyard & Engineering Works AB",
+                "industry": "Shipbuilding and Engineering",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Finspongs Metallvk, Väsby Workshops Department",
+                "industry": "Manufacturing",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Stille-Werner",
+                "industry": "Unknown",
+                "start_date": "1937"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "AB Max Sievert, Soldering lamp factory",
+                "industry": "Manufacturing",
+                "start_date": "1938"
+            }
+        ]
+    }
+}

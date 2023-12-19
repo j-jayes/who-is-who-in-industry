@@ -1,0 +1,80 @@
+{
+    "original": "LJUNGBLOM, Per Åke Gudmar, Ingenjör, Göteborg, f Mjölby 31/5 00 av Idsfisk KEL o Gudrun Sandberg, gm Anna-Stina Beronius. Maskiningex Polytechn Inst Strelitz. Anst American Tel &amp; Tel Co :s konstr.byrå New York 26—32, repr o kontroll v Malte Månson AB Linkp 35—41, repr fma Specialmaskiner AB Gbg sed. 41. Deläg fastigh Mjölby. Resor : Tyskl 19—23, USA 26—32. Hobby: Teckn.",
+    "translated": "LJUNGBLOM, Per Åke Gudmar, Engineer, Gothenburg, born in Mjölby on May 31, 1900, to parents Idsfisk KEL and Gudrun Sandberg. Married to Anna-Stina Beronius. Holds a degree in mechanical engineering from the Polytechnic Institute in Strelitz. Worked at the construction bureau of American Tel & Tel Co in New York from 1926 to 1932, then as a representative and controller at Malte Månson AB in Linköping from 1935 to 1941. Currently a representative for Specialmaskiner AB in Gothenburg. Partial owner of property in Mjölby. Traveled to Germany from 1919 to 1923 and to the USA from 1926 to 1932. Hobby: Drawing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Per Åke Gudmar Ljungblom",
+        "jobTitle": "Engineer",
+        "birthPlace": "Mjölby, Sweden",
+        "birthDate": "1900-05-31",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Idsfisk KEL"
+            },
+            {
+                "@type": "Person",
+                "name": "Gudrun Sandberg"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Anna-Stina Beronius"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Mechanical Engineering",
+            "educationalLevel": "Degree",
+            "educationalCredentialAwarded": "Polytechnic Institute"
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Specialmaskiner AB"
+        },
+        "workLocation": "Gothenburg",
+        "workFrom": "1935-01-01",
+        "workThrough": "1941-12-31",
+        "owns": {
+            "@type": "Place",
+            "name": "Property in Mjölby"
+        },
+        "travelled": [
+            {
+                "@type": "Place",
+                "name": "Germany",
+                "travelStart": "1919-01-01",
+                "travelEnd": "1923-12-31"
+            },
+            {
+                "@type": "Place",
+                "name": "USA",
+                "travelStart": "1926-01-01",
+                "travelEnd": "1932-12-31"
+            }
+        ],
+        "hobby": "Drawing"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "American Tel & Tel Co",
+                "industry": "Construction Bureau",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Representative and Controller",
+                "workplace": "Malte Månson AB",
+                "industry": "Linköping",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Representative",
+                "workplace": "Specialmaskiner AB",
+                "industry": "Gothenburg",
+                "start_date": "1941"
+            }
+        ]
+    }
+}

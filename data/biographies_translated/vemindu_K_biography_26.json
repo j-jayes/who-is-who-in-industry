@@ -1,0 +1,53 @@
+{
+    "original": "KARLSSON, Allan Folke, Fabrikör, Ronneby, f Rby 2/8 16 av fabr K O F K o Anna Johansson. Inneh fma N Karlssons koppar-slageri &amp; metalltryckeri (grund 76).",
+    "translated": "KARLSSON, Allan Folke, Industrialist, Ronneby, b. Rby 2/8 16, son of the factory owner K O F K and Anna Johansson. Owner of N Karlsson's copper-smithy and metal printing press (established in 1976).",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Allan Folke Karlsson",
+        "givenName": "Allan Folke",
+        "familyName": "Karlsson",
+        "birthDate": "1916-08-02",
+        "birthPlace": "Rby",
+        "nationality": "Swedish",
+        "memberOf": {
+            "@type": "Organization",
+            "name": "N Karlsson's copper-smithy and metal printing press",
+            "foundingDate": "1976"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "K O F K",
+                "givenName": "K",
+                "familyName": "O F K",
+                "occupationalCategory": "factory owner",
+                "spouse": {
+                    "@type": "Person",
+                    "name": "Anna Johansson"
+                }
+            }
+        ],
+        "occupation": "Industrialist",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Ronneby"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Fabrikör",
+                "workplace": "N Karlssons koppar-slageri & metalltryckeri",
+                "industry": "Metalworking",
+                "start_date": "1976"
+            },
+            {
+                "occupational_title": "Industrialist",
+                "workplace": "Ronneby",
+                "industry": "Various",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

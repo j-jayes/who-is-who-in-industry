@@ -1,0 +1,94 @@
+{
+    "original": "KÖHLER, Sven Viktor, Civilingenjör, Hammarby hö j den, f Sthlm 8/7 10 av dir A B K o Ada Almström, gm Inga-Britta Larsson. Studex NReal Sthlm 29, KTH 30—35, avg.ex där sistn år. Försäljn.ing h AB Bolinder-Munktell i Eskilstuna 36—44 (bl a hos bolagets repres i Lissabon 37—41), försäljn.ing h AB Atlas Diesel i Sthlm sed. 44.",
+    "translated": "KÖHLER, Sven Viktor, Civil Engineer, Hammarby hö j den, born in Stockholm on July 8, 1910, son of director A B K and Ada Almström, married to Inga-Britta Larsson. Completed upper secondary school (Studex) in Stockholm in 1929, studied at the Royal Institute of Technology (KTH) from 1930 to 1935, graduated with an engineering degree. Employed as a sales engineer at AB Bolinder-Munktell in Eskilstuna from 1936 to 1944 (including working as the company's representative in Lisbon from 1937 to 1941), employed as a sales engineer at AB Atlas Diesel in Stockholm since 1944.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Sven Viktor Köhler",
+        "givenName": "Sven Viktor",
+        "familyName": "Köhler",
+        "jobTitle": "Civil Engineer",
+        "birthDate": "1910-07-08",
+        "birthPlace": "Stockholm",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "A B K",
+                "jobTitle": "Director"
+            },
+            {
+                "@type": "Person",
+                "name": "Ada Almström"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Inga-Britta Larsson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "Studex",
+                "educationalLevel": "Upper secondary school",
+                "startDate": "1929",
+                "endDate": "1929",
+                "awardedBy": "Stockholm"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "Royal Institute of Technology (KTH)",
+                "educationalLevel": "Engineering degree",
+                "startDate": "1930",
+                "endDate": "1935",
+                "awardedBy": "Stockholm"
+            }
+        ],
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Bolinder-Munktell"
+                },
+                "jobTitle": "Sales Engineer",
+                "startDate": "1936",
+                "endDate": "1944",
+                "location": "Eskilstuna",
+                "description": "Employed at AB Bolinder-Munktell in Eskilstuna as a sales engineer, including working as the company's representative in Lisbon from 1937 to 1941"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Atlas Diesel"
+                },
+                "jobTitle": "Sales Engineer",
+                "startDate": "1944",
+                "location": "Stockholm",
+                "description": "Employed at AB Atlas Diesel in Stockholm as a sales engineer"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Hammarby hö j den",
+                "industry": null,
+                "start_date": null
+            },
+            {
+                "occupational_title": "Sales Engineer",
+                "workplace": "AB Bolinder-Munktell",
+                "industry": "Engineering/Manufacturing",
+                "start_date": "1936"
+            },
+            {
+                "occupational_title": "Sales Engineer",
+                "workplace": "AB Atlas Diesel",
+                "industry": "Engineering/Manufacturing",
+                "start_date": "1944"
+            }
+        ]
+    }
+}

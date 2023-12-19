@@ -1,0 +1,102 @@
+{
+    "original": "LINDSTRÖM, Rolf Elis Wilhelm, Civilingenjör, Borås, f Sthlm 13/4 00 av grhdl C A L o Adéle Sallberg, gm Karin Troye. Studex Saltsjöbaden 19, KTH (maskinbyggn o mek tekn) 22—26. Fabr.chef f spinneri, väveri o ångcentral v Borås Wäfveri AB sed. 26. Styr.led i Borås Band- &amp; Hängslefabr AB sed. 40.",
+    "translated": "LINDSTRÖM, Rolf Elis Wilhelm, Civil Engineer, Borås, born in Stockholm on April 13th, 1900, son of merchant C A L and Adéle Sallberg, married to Karin Troye. Graduated from Saltsjöbaden in 1919, studied at KTH (mechanical engineering and mechanical technology) from 1922 to 1926. Chief engineer at the spinning mill, weaving mill, and steam power plant at Borås Wäfveri AB since 1926. Board member of Borås Band- &amp; Hängslefabr AB since 1940.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "givenName": "Rolf",
+        "additionalName": "Elis Wilhelm",
+        "familyName": "Lindström",
+        "jobTitle": "Civil Engineer",
+        "birthDate": "1900-04-13T00:00:00",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Stockholm"
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "C A L",
+                "jobTitle": "Merchant"
+            },
+            {
+                "@type": "Person",
+                "name": "Adéle Sallberg"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Karin Troye"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "Saltsjöbaden",
+                "startDate": "1919-01-01",
+                "endDate": "1919-12-31"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "KTH",
+                "description": "Mechanical Engineering and Mechanical Technology",
+                "startDate": "1922-01-01",
+                "endDate": "1926-12-31"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Borås Wäfveri AB",
+                "department": [
+                    {
+                        "@type": "Organization",
+                        "name": "Spinning Mill"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "Weaving Mill"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "Steam Power Plant"
+                    }
+                ],
+                "startDate": "1926-01-01"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Borås Band- & Hängslefabr AB",
+                "startDate": "1940-01-01",
+                "roleName": "Board member"
+            }
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Borås"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Borås",
+                "industry": "Engineering",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Chief Engineer",
+                "workplace": "Borås Wäfveri AB",
+                "industry": "Textile",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Board member",
+                "workplace": "Borås Band- & Hängslefabr AB",
+                "industry": "Manufacturing",
+                "start_date": "1940"
+            }
+        ]
+    }
+}

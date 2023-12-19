@@ -1,0 +1,189 @@
+{
+    "original": "LEFFLER, Bo Axel Johannes, Direktör, Stockholm, f Rindö, Sthlms l, 25/6 10 av kapten Ch Axel L o Elin Erikson. Palmgrenska samsk:s gymn, restaurantsk Sthlm, The Poly-technic London. Anst Operakäll 31, Hotel Washington, Nice, o Hotel Sable d’Or, Juan-les-Pins, 32—33, Sv Amer.lin und kryssn t Ostind, Nordafr, Västind mm 33—34, rest Oalerie Möderne Sthlm 35, Snäckgärdsbaden Visby 36, Karlst stadshot 37, sed. 38 i SARA, &lt;?h f Hotell Rogge Strängn, St Hot Umeå o sed. 42 vik ch f åtsk av SARA landsorts-hotell. Bilfärder Engl 32—33, London-Nice o åter, Nice-Sthlm samt fi und Rivieravist. Hobby: Foto:",
+    "translated": "LEFFLER, Bo Axel Johannes, Director, Stockholm, b. Rindö, Sthlms l, June 25, 1910, son of Captain Ch Axel L and Elin Erikson. Palmgrenska samsk:s gymn, restaurant school Stockholm, The Polytechnic London. Employed Operakäll 1931, Hotel Washington, Nice, and Hotel Sable d'Or, Juan-les-Pins, 1932-1933. Swedish American Line cruises to East Indies, North Africa, West Indies, and more, 1933-1934. Rested at Oalerie Möderne Stockholm 1935, Snäckgärdsbaden Visby 1936, Karlst stadshotell 1937, currently (as of 1938) in Sara, possibly married to someone from Hotel Rogge Strängnäs, Hotel Umeå, and temporarily (in 1942) substitute manager at various Sara countryside hotels. Took car trips in England 1932-1933, London-Nice, return Nice-Stockholm, as well as Finland und Riviera visit. Hobby: Photography.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Bo Axel Johannes Leffler",
+        "birthDate": "1910-06-25",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Rindö",
+                "addressRegion": "Sthlms l"
+            }
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Captain Ch Axel L Leffler"
+            },
+            {
+                "@type": "Person",
+                "name": "Elin Erikson"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Palmgrenska samsk:s gymn"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Restaurant School Stockholm"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "The Polytechnic London"
+            }
+        ],
+        "employment": [
+            {
+                "@type": "Organization",
+                "name": "Operakäll",
+                "startDate": "1931"
+            },
+            {
+                "@type": "Place",
+                "name": "Hotel Washington",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Nice"
+                },
+                "startDate": "1931"
+            },
+            {
+                "@type": "Place",
+                "name": "Hotel Sable d'Or",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Juan-les-Pins"
+                },
+                "startDate": "1932",
+                "endDate": "1933"
+            },
+            {
+                "@type": "CruiseShip",
+                "name": "Swedish American Line",
+                "startDate": "1933",
+                "endDate": "1934",
+                "itinerary": "East Indies, North Africa, West Indies, and more"
+            },
+            {
+                "@type": "Place",
+                "name": "Oalerie Möderne",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm"
+                },
+                "startDate": "1935"
+            },
+            {
+                "@type": "Place",
+                "name": "Snäckgärdsbaden",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Visby"
+                },
+                "startDate": "1936"
+            },
+            {
+                "@type": "Place",
+                "name": "Karlst stadshotell",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Karlst"
+                },
+                "startDate": "1937"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sara"
+            },
+            {
+                "@type": "Place",
+                "name": "Hotel Rogge",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Strängnäs"
+                }
+            },
+            {
+                "@type": "Place",
+                "name": "Hotel Umeå",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Umeå"
+                }
+            }
+        ],
+        "hobby": "Photography",
+        "car": [
+            {
+                "@type": "Car",
+                "startLocation": "London",
+                "endLocation": "Nice",
+                "startDate": "1932",
+                "endDate": "1933"
+            },
+            {
+                "@type": "Car",
+                "startLocation": "Nice",
+                "endLocation": "Stockholm"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Stockholm",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Operakäll",
+                "industry": "Unknown",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Hotel Washington",
+                "industry": "Hospitality",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Hotel Sable d'Or",
+                "industry": "Hospitality",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Valerie Moderne",
+                "industry": "Hospitality",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Snäckgärdsbaden",
+                "industry": "Hospitality",
+                "start_date": "1936"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Karlstad Stadshotell",
+                "industry": "Hospitality",
+                "start_date": "1937"
+            },
+            {
+                "occupational_title": "Substitute Manager",
+                "workplace": "Various Sara Countryside Hotels",
+                "industry": "Hospitality",
+                "start_date": "1942"
+            }
+        ]
+    }
+}

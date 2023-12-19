@@ -1,0 +1,75 @@
+{
+    "original": "LINDBLAD, Anton, Köpman, Malmö, f Gräs-holma, Kronob l, 3/8 82. Eft slut skolgång anst Tyskl 05—20. Gr fma Anton Lindblad Malmö, tolettart o frisörutensilier i parti, 25, AB 39, vkst dir dta. Led astronom sällsk Tycho Brahe Lund. Hobby: Astronomi.",
+    "translated": "LINDBLAD, Anton, Merchant, Malmö, b. Gräs-holma, Kronoburg county, 3/8 82. After completing school, employed in Germany 05—20. Est. own business Anton Lindblad Malmö, selling toiletries and hairdressing supplies wholesale, 25, Co. 39, Managing Director of distribution. Member of the astronomical society Tycho Brahe Lund. Hobby: Astronomy.\n\nNote: The information '\\d\\d m. partners name' indicates that the person got married in the year 19xx.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Anton Lindblad",
+        "birthDate": "1882-08-03",
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Gräs-holma, Kronoburg county"
+        },
+        "jobTitle": "Managing Director",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Anton Lindblad Malmö"
+        },
+        "workLocation": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Malmö"
+            }
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "endDate": "1905",
+            "startDate": "1920",
+            "name": "School"
+        },
+        "owns": {
+            "@type": "Product",
+            "name": "Toiletries and hairdressing supplies"
+        },
+        "numberOfEmployees": 25,
+        "founderOf": {
+            "@type": "Organization",
+            "name": "Anton Lindblad Malmö"
+        },
+        "foundingDate": "1939",
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Tycho Brahe Lund"
+        },
+        "hobbies": "Astronomy"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Malmö",
+                "industry": "Trade",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Germany",
+                "industry": "Unknown",
+                "start_date": "1905"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "Anton Lindblad Malmö",
+                "industry": "Wholesale trade",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "Anton Lindblad Malmö",
+                "industry": "Distribution",
+                "start_date": "1939"
+            }
+        ]
+    }
+}

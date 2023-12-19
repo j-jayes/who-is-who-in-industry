@@ -1,0 +1,60 @@
+{
+    "original": "LJUNGBERG, Gustaf, Grosshandlare, Karlshamn, f Malmö 18/10 82. Eft slut skolgång anst fma J Månsson Malmö, l :e man o ch dess sko- o beklädn.avd 01. Inneh fma Gust Ljungberg Kim, kläd, reseff mm, sed. 10, eg fabrik.",
+    "translated": "LJUNGBERG, Gustaf, Merchant, Karlshamn, b. Malmö 18/10 82. After completing his education, he worked for J. Månsson in Malmö. First as an employee and later as head of the shoe and clothing department from 1901. He owned the company Gust Ljungberg Kim, specializing in clothing, travel accessories, etc., since 1910, and also had his own factory.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Gustaf Ljungberg",
+        "birthDate": "1882-10-18",
+        "birthPlace": "Malmö",
+        "description": "Merchant",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "J. Månsson",
+            "location": "Malmö"
+        },
+        "employmentStartDate": "1901",
+        "employmentEndDate": "1910",
+        "owns": {
+            "@type": "Organization",
+            "name": "Gust Ljungberg Kim",
+            "specialties": "Clothing, Travel Accessories",
+            "foundingDate": "1910"
+        },
+        "ownsFactory": true
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Karlshamn",
+                "industry": "Retail",
+                "start_date": "unknown"
+            },
+            {
+                "occupational_title": "Employee at J. Månsson",
+                "workplace": "Malmö",
+                "industry": "Retail",
+                "start_date": "unknown"
+            },
+            {
+                "occupational_title": "Head of Shoe and Clothing Department",
+                "workplace": "J. Månsson, Malmö",
+                "industry": "Retail",
+                "start_date": "1901"
+            },
+            {
+                "occupational_title": "Owner of Gust Ljungberg Kim",
+                "workplace": "unknown",
+                "industry": "Retail",
+                "start_date": "1910"
+            },
+            {
+                "occupational_title": "Factory owner",
+                "workplace": "unknown",
+                "industry": "Manufacturing",
+                "start_date": "unknown"
+            }
+        ]
+    }
+}

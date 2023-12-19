@@ -1,0 +1,71 @@
+{
+    "original": "LJUNGDAHL, Olof Gösta (Olle), Civilingenjör, Lidingö, f Sala 4/5 01 av trädgårdsmäst 0 L o Amanda Andersson, gm Lilly Ohlsson. Studex Upps 20, KTH (kemi) 21—27. Inneh Ing.fman O B Ljungdahl &amp; Co i Sthlm. Led Sv Tekn.frn.",
+    "translated": "LJUNGDAHL, Olof Gösta (Olle), Civil Engineer, Lidingö, born in Sala on May 4th, 1901 to gardener L and Amanda Andersson. Married Lilly Ohlsson. Studied at Uppsala University until 1920, and at the Royal Institute of Technology (chemical engineering) from 1921 to 1927. Worked at Ing.fman O B Ljungdahl & Co in Stockholm. Member of the Swedish Association of Engineers.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Olof Gösta Ljungdahl",
+        "alternateName": "Olle",
+        "jobTitle": "Civil Engineer",
+        "birthDate": "1901-05-04",
+        "birthPlace": "Sala",
+        "nationality": "Swedish",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Association of Engineers"
+            }
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Lidingö"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "L",
+                "jobTitle": "Gardener"
+            },
+            {
+                "@type": "Person",
+                "name": "Amanda Andersson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Lilly Ohlsson"
+        },
+        "alumniOf": [
+            {
+                "@type": "CollegeOrUniversity",
+                "name": "Uppsala University",
+                "endDate": "1920"
+            },
+            {
+                "@type": "CollegeOrUniversity",
+                "name": "Royal Institute of Technology",
+                "additionalType": "Chemical Engineering",
+                "startDate": "1921",
+                "endDate": "1927"
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Ing.fman O B Ljungdahl & Co",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Stockholm"
+            }
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Ing.fman O B Ljungdahl & Co",
+                "industry": "Engineering",
+                "start_date": "1927"
+            }
+        ]
+    }
+}

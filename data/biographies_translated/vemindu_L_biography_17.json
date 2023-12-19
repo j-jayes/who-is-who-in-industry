@@ -1,0 +1,169 @@
+{
+    "original": "LALATTA, Carlo, Markis, Direktör, Göteborg, f Parma 20/11 06 av markis, dr Gabriele L o Concetta Muretti, gm Eva Arvidson. Gymn, tekn inst, HHS, språkstud. Hdlskor-resp 27—29, reseinsp 30—40, inneh Lalatta Imp-Exp, inip av textilv, textilindustr maskiner o kemik, exp av skand produkt. Resor: Ital, Frankr, Sv 27—28, Ital, Tyskl, Sv, Österr 30—33, Finl, Norge, Danm, Tyskl, Polen, Österr, Ital 34—36, Finl, Norge 37—38, Tyskl, Finl, Ital 40. Medl Motormänn riksfrb, öresjö eegelsällsk. Hobby: Oljemålning.",
+    "translated": "LALATTA, Carlo, Marquis, Director, Gothenburg, b. Parma 20/11 06, son of Marquis Dr. Gabriele L and Concetta Muretti, m. Eva Arvidson. Education: Gymnasium, technical institute, HHS, language studies. Worked as a commercial assistant 27-29, travel inspector 30-40. Owned Lalatta Import-Export, dealing with textile machinery and chemicals, export of Scandinavian products. Travelled to Italy, France, and Sweden 27-28, Italy, Germany, Sweden, Austria 30-33, Finland, Norway, Denmark, Germany, Poland, Austria, Italy 34-36, Finland, Norway 37-38, Germany, Finland, Italy 40. Member of Motormänn's national federation, Öresjö Sailing Society. Hobby: Oil painting.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Carlo Lalatta",
+        "birthDate": "1906-11-20",
+        "birthPlace": "Parma",
+        "nationality": "Swedish",
+        "spouse": {
+            "@type": "Person",
+            "name": "Eva Arvidson"
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Gabriele L. Lalatta",
+                "jobTitle": "Marquis",
+                "birthDate": "Unknown"
+            },
+            {
+                "@type": "Person",
+                "name": "Concetta Muretti",
+                "birthDate": "Unknown"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "High school diploma",
+                "educationalLevel": "Gymnasium"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Technical diploma",
+                "educationalLevel": "Technical institute"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Bachelor's degree",
+                "educationalLevel": "HHS"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Language studies"
+            }
+        ],
+        "jobTitle": "Director",
+        "worksFor": "Gothenburg",
+        "workExperience": [
+            {
+                "startDate": "1927",
+                "endDate": "1929",
+                "jobTitle": "Commercial Assistant",
+                "worksFor": "Lalatta Imp-Exp"
+            },
+            {
+                "startDate": "1930",
+                "endDate": "1940",
+                "jobTitle": "Travel Inspector",
+                "worksFor": "Lalatta Imp-Exp"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Motormänn's National Federation"
+            },
+            {
+                "@type": "Organization",
+                "name": "Öresjö Sailing Society"
+            }
+        ],
+        "hobbies": [
+            "Oil painting"
+        ],
+        "hasOccupation": [
+            {
+                "@type": "Occupation",
+                "name": "Importer",
+                "startDate": "1929",
+                "endDate": "1940",
+                "worksFor": "Lalatta Imp-Exp"
+            }
+        ],
+        "hasSpecialty": [
+            {
+                "@type": "Specialty",
+                "name": "Textile machinery and chemicals"
+            },
+            {
+                "@type": "Specialty",
+                "name": "Export of Scandinavian products"
+            }
+        ],
+        "memberOfSportsTeam": [
+            {
+                "@type": "SportsTeam",
+                "name": "Öresjö Sailing Society"
+            }
+        ],
+        "hasTravelAgent": [
+            {
+                "@type": "TravelAgency",
+                "name": "Lalatta Imp-Exp"
+            }
+        ],
+        "travelled": [
+            {
+                "@type": "TravelAction",
+                "fromLocation": "Italy",
+                "toLocation": "Sweden",
+                "startDate": "1927",
+                "endDate": "1928"
+            },
+            {
+                "@type": "TravelAction",
+                "fromLocation": "Italy",
+                "toLocation": "Germany",
+                "startDate": "1930",
+                "endDate": "1933"
+            },
+            {
+                "@type": "TravelAction",
+                "fromLocation": "Finland",
+                "toLocation": "Italy",
+                "startDate": "1936",
+                "endDate": "1940"
+            },
+            {
+                "@type": "TravelAction",
+                "fromLocation": "Finland",
+                "toLocation": "Norway",
+                "startDate": "1937",
+                "endDate": "1938"
+            },
+            {
+                "@type": "TravelAction",
+                "fromLocation": "Germany",
+                "toLocation": "Finland",
+                "startDate": "1940",
+                "endDate": "Unknown"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Commercial Assistant",
+                "workplace": "Hdlskor-resp",
+                "industry": "Trade",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Travel Inspector",
+                "workplace": "Reisinsp",
+                "industry": "Travel",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Lalatta Imp-Exp",
+                "industry": "Textile",
+                "start_date": "Year not specified"
+            }
+        ]
+    }
+}

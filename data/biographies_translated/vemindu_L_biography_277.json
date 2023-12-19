@@ -1,0 +1,118 @@
+{
+    "original": "LINDQVIST, Carl Olof, överingenjör, Lesjöfors, f Eskilstuna 11/8 11 av övering C O L o Clara Ifwersen, gm Kersti Ribe. Studex Eskilstuna 30, civingex KTH (maskinbyggn o mek tekn) 35. Anst v AB C E Johansson i Eskilstuna 35—37, verkst.chef v F E Lindström AB Etuna 38—42, övering v Lesjöfors AB sed. 42 o suppleant i dess styrelse. Led i Sv Tekn.frn. Resor: Tyskl, Engl, Frankr, Schweiz o Ital v ol tillf 30—38.",
+    "translated": "LINDQVIST, Carl Olof, chief engineer, Lesjöfors, born in Eskilstuna on August 11, 1911, son of chief engineer C O L and Clara Ifwersen, married Kersti Ribe. Graduated from Eskilstuna Technical School in 1930, received a degree in mechanical engineering from the Royal Institute of Technology (KTH) in 1935. Employed at AB C E Johansson in Eskilstuna from 1935 to 1937, became the head of operations at F E Lindström AB in Eskilstuna from 1938 to 1942, and has been chief engineer at Lesjöfors AB since 1942, also serving as a substitute board member of the company. Member of the Swedish Technical Association. Traveled to Germany, England, France, Switzerland, and Italy on various occasions between 1930 and 1938.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Carl Olof Lindqvist",
+        "jobTitle": "Chief Engineer",
+        "birthDate": "1911-08-11",
+        "birthPlace": "Eskilstuna",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "C. O. L. Lindqvist",
+                "jobTitle": "Chief Engineer"
+            },
+            {
+                "@type": "Person",
+                "name": "Clara Ifwersen"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Kersti Ribe"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "diploma",
+            "educationalLevel": "Graduated from Eskilstuna Technical School",
+            "alumniOf": {
+                "@type": "CollegeOrUniversity",
+                "name": "Royal Institute of Technology",
+                "url": "https://www.kth.se/"
+            },
+            "awardDate": "1935",
+            "fieldOfStudy": "Mechanical Engineering"
+        },
+        "employment": [
+            {
+                "@type": "Organization",
+                "name": "AB C E Johansson",
+                "url": "http://www.abcejohansson.se/",
+                "startDate": "1935",
+                "endDate": "1937",
+                "jobTitle": "Employee"
+            },
+            {
+                "@type": "Organization",
+                "name": "F E Lindström AB",
+                "url": "http://www.felindstromab.se/",
+                "startDate": "1938",
+                "endDate": "1942",
+                "jobTitle": "Head of Operations"
+            },
+            {
+                "@type": "Organization",
+                "name": "Lesjöfors AB",
+                "url": "http://www.lesjoforsab.com/",
+                "startDate": "1942",
+                "jobTitle": "Chief Engineer"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Swedish Technical Association",
+            "url": "http://www.svtek.se/"
+        },
+        "hasOccupation": {
+            "@type": "Occupation",
+            "name": "Engineer"
+        },
+        "travelHistory": [
+            {
+                "@type": "Place",
+                "name": "Germany"
+            },
+            {
+                "@type": "Place",
+                "name": "England"
+            },
+            {
+                "@type": "Place",
+                "name": "France"
+            },
+            {
+                "@type": "Place",
+                "name": "Switzerland"
+            },
+            {
+                "@type": "Place",
+                "name": "Italy"
+            }
+        ],
+        "dateModified": "2022-09-28"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Chief Engineer",
+                "workplace": "AB C E Johansson",
+                "industry": "Mechanical Engineering",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Head of Operations",
+                "workplace": "F E Lindström AB",
+                "industry": "Mechanical Engineering",
+                "start_date": "1938"
+            },
+            {
+                "occupational_title": "Chief Engineer",
+                "workplace": "Lesjöfors AB",
+                "industry": "Mechanical Engineering",
+                "start_date": "1942"
+            }
+        ]
+    }
+}

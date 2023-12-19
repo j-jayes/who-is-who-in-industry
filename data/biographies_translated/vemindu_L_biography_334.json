@@ -1,0 +1,110 @@
+{
+    "original": "LJUNG, Bengt Valdemar, Direktörsassistent, Stockholm, f Svalöv 20/6 09 av f riksdagsm agr E W L o h h f Bondeson, gm Ingrid Lundquist. Agr.ex Alnarp 30, mej.kons.ex där 33, lantbr- o mejeriprakt Sv, Tyskl, Holl o Engl. Ass h lantbr.rådet v sv beskickn i London 32, i Berlin 34, anst Sv Mejeriernas Riksfrn sed. 34, dir.ass o ch dess hdlsavd sed. 40. Sekr statl utredn om mjölkhdln inm. Stud- o aff.res Engl, Tyskl, Holl, Frankr 30 —39. Medarb i facklitt, Detaljhand :s Bok mfl om sv hdl o exp av mejeriprod, div art om sv o utl mejerihant i fackpress o tidn. Hobbies: Sport, resor.",
+    "translated": "LJUNG, Bengt Valdemar, Assistant Director, Stockholm, b. Svalöv 20/6 09, son of former Member of Parliament E.W.L. and his wife Bondeson, married to Ingrid Lundquist. Graduated from Agricultural School (Alnarp) in 1930, certified dairy consultant in 1933, experienced in farming and dairy practices in Sweden, Germany, Netherlands, and England. Assistant at Swedish Agricultural Council in London in 1932, in Berlin in 1934, employed by the Swedish Dairy Association since 1934, Assistant Director and head of its trading division since 1940. Secretary for state investigations on milk trading domestically. Studied and conducted business trips to England, Germany, Netherlands, and France from 1930 to 1939. Collaborator in specialized literature, including the book on Swedish retail trade and export of dairy products, various articles on Swedish and international dairy trade in trade journals and newspapers. Hobbies: Sports, traveling.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Bengt",
+        "familyName": "Ljung",
+        "jobTitle": "Assistant Director",
+        "birthPlace": "Svalöv",
+        "birthDate": "1909-06-20",
+        "parent": {
+            "@type": "Person",
+            "name": "E.W.L. Bondeson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Ingrid Lundquist"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Alnarp Agricultural School",
+                "startDate": "1930",
+                "endDate": "1933"
+            }
+        ],
+        "workExperience": [
+            {
+                "@type": "OrganizationRole",
+                "title": "Assistant",
+                "startDate": "1932",
+                "endDate": "1934",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Swedish Agricultural Council",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "London"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Assistant",
+                "startDate": "1934",
+                "endDate": "1940",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Swedish Dairy Association",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm"
+                    }
+                }
+            }
+        ],
+        "additionalName": [
+            "Valdemar"
+        ],
+        "sameAs": [
+            {
+                "@type": "URL",
+                "url": "https://validate.schema.org/"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Swedish Dairy Association"
+        },
+        "hobbies": [
+            "Sports",
+            "Traveling"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Assistant Director",
+                "workplace": "Stockholm",
+                "industry": "Unknown",
+                "start_date": "N/A"
+            },
+            {
+                "occupational_title": "Assistant at Swedish Agricultural Council",
+                "workplace": "London",
+                "industry": "Agriculture",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Assistant at Swedish Agricultural Council",
+                "workplace": "Berlin",
+                "industry": "Agriculture",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Employee, Swedish Dairy Association",
+                "workplace": "N/A",
+                "industry": "Dairy",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Assistant Director, Trading Division, Swedish Dairy Association",
+                "workplace": "N/A",
+                "industry": "Dairy",
+                "start_date": "1940"
+            }
+        ]
+    }
+}

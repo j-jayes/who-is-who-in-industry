@@ -1,0 +1,114 @@
+{
+    "original": "KVIST, Erik Fridolf, Direktör, Tallåsen, f Färila, Gävleb l, 24/6 91. Hdlssk. Bokhållare h AB Englund &amp; Mårtensson i Tallåsen 13— 18, kont.ch där 19—32 o vkst dir f fman sed. 33. Styr.led i Sv Hdlsbkns avd.kont i Ljusdal sed. 19.",
+    "translated": "KVIST, Erik Fridolf, Director, Tallåsen, born in Färila, Gävle County, on June 24th, 1891. Completed compulsory schooling. Worked as an accountant at AB Englund & Mårtensson in Tallåsen from 1913 to 1918, continued as an office clerk there from 1919 to 1932, and became a deputy manager in 1933. Served as a board member of the Swedish Trade Association's branch office in Ljusdal since 19..",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Erik Fridolf Kvist",
+        "jobTitle": "Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Tallåsen",
+            "addressRegion": "Gävle County"
+        },
+        "birthDate": "1891-06-24",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Färila",
+                "addressRegion": "Gävle County"
+            }
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Compulsory Schooling"
+        },
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1913",
+                "endDate": "1918",
+                "roleName": "Accountant",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Englund & Mårtensson",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Tallåsen"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1919",
+                "endDate": "1932",
+                "roleName": "Office Clerk",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Englund & Mårtensson",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Tallåsen"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1933",
+                "roleName": "Deputy Manager",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Englund & Mårtensson",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Tallåsen"
+                    }
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Trade Association's",
+                "department": {
+                    "@type": "Organization",
+                    "name": "Branch Office in Ljusdal",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Ljusdal"
+                    }
+                },
+                "startDate": "19"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Accountant",
+                "workplace": "AB Englund & Mårtensson",
+                "industry": "Accounting",
+                "start_date": "1913"
+            },
+            {
+                "occupational_title": "Office Clerk",
+                "workplace": "AB Englund & Mårtensson",
+                "industry": "Accounting",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Deputy Manager",
+                "workplace": "AB Englund & Mårtensson",
+                "industry": "Accounting",
+                "start_date": "1933"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Swedish Trade Association's branch office",
+                "industry": "Trade",
+                "start_date": "19"
+            }
+        ]
+    }
+}

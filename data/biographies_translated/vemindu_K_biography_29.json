@@ -1,0 +1,47 @@
+{
+    "original": "KARLSSON, David Fridolf, Köpman, Eskilstuna, f Stora Malm, Sörml, 1/7 83. Eft slut skolgång prakt i snick.bransch i Katrineholm 00—02. Anst h möbelfman Aug Larsson, E-tuna, 02—20, inneh dna und fma Aug Larssons Eftr sed. 20.",
+    "translated": "KARLSSON, David Fridolf, Merchant, Eskilstuna, b. Stora Malm, Sörmland, July 1, 1883. After completing school, he practiced in the carpentry industry in Katrineholm from 1900 to 1902. Employed by furniture company Aug Larsson, Eskilstuna, from 1902 to 1920, took over ownership of the same company from Aug Larssons Eftr. in 1920..",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "David Fridolf Karlsson",
+        "birthDate": "1883-07-01",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Stora Malm",
+                "addressRegion": "Sörmland",
+                "addressCountry": "Sweden"
+            }
+        },
+        "jobTitle": "Merchant",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Aug Larsson",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Eskilstuna",
+                "addressCountry": "Sweden"
+            },
+            "startDate": "1902-01-01",
+            "endDate": "1920-12-31"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Eskilstuna",
+                "industry": "Retail",
+                "start_date": "1920-01-01"
+            },
+            {
+                "occupational_title": "Carpenter",
+                "workplace": "Katrineholm",
+                "industry": "Carpentry",
+                "start_date": "1900-01-01"
+            }
+        ]
+    }
+}

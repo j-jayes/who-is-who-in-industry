@@ -1,0 +1,373 @@
+{
+    "original": "LINDMARK, John Gunnar, Direktör, Stockholm, f Sthlm 3/3 76 av kommendör C G L o Jenny Wahlberg, gm Signe Nordqvist. Fil kand Upps 97, civ.ingex KTH 01, KSHS. Ing v de Laval Steam Turb Co, Trenton N J USA 01—03, The Engl de Laval Steam Turb Co Ltd, Leeds, 03—06, torpeding flottan 06—12, lär KSHS 09—12, ass pat- o reg.v 08—12, ing Etuna stålpressn.AB 12—16, Etuna järnmanuf-AB 16—17, övering där 18—20, AB Scania-Vabis 20—21, dir där 21—40, stf ch bränsle-kommiss gengasbyrå. V. ordf dräts.kamm Etuna 17—18. Ordf Sv autom.hdls.frb o Sv autom.hdl.frn. Bosatt USA 01—03, Engl 03— 06, res i flert europ länd. Av trycket: 2 bot avh i bih t Va handl (02), 4 upps ang torped o minor (10—18), Etuna.ind utveckl o nuv läge (Jernkont ann 19), småskr i gengasfråg. RVO, KAK ftjGM o gyll plak m ständ hed.led.sk, korresp LÖS, dess SM. Hobbies: Botanik, släktforskn.",
+    "translated": "LINDMARK, John Gunnar, Director, Stockholm, born in Stockholm on March 3, 1876, son of Commander C G L and Jenny Wahlberg, married to Signe Nordqvist. Bachelor's degree from Uppsala University in 1897, civil engineering degree from the Royal Institute of Technology (KTH) in 1901, and a degree from the Royal Swedish Academy of War Sciences (KSHS). Worked as an engineer at de Laval Steam Turbine Company in Trenton, N J, USA from 1901 to 1903, and at The English de Laval Steam Turbine Company Ltd in Leeds from 1903 to 1906. Served in the navy as a torpedo officer from 1906 to 1912, taught at the Royal Swedish Academy of War Sciences from 1909 to 1912, and held positions as assistant patent and registration officer from 1908 to 1912. Worked as an engineer at Etuna Stålpressning AB from 1912 to 1916, at Etuna Järnmanufaktur AB from 1916 to 1917, and was promoted to supervisor there from 1918 to 1920. Joined AB Scania-Vabis in 1920 and became a director from 1921 to 1940, and also served as the deputy chief of the Fuel Commission's Gasification Bureau. Vice Chairman of the City Finance Committee in Etuna from 1917 to 1918, and Chairman of the Swedish Automotive Trade Association and Swedish Automotive Trade Federation. Resided in the USA from 1901 to 1903, England from 1903 to 1906, and frequently traveled to several European countries. Published: 2 books on trade in Western countries (1902), 4 papers on torpedoes and mines (1910-1918), Etuna Industries development and current situation (Jernkont ann 1919), small writings on gasification matters. Received the Order of Vasa, the Royal Swedish Academy of Sciences' slice of gold medal, and a gold plaque with perpetual membership. Corresponding member of the Royal Swedish Academy of Music. Hobbies: Botany, genealogy research.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "John Gunnar Lindmark",
+        "birthDate": "1876-03-03",
+        "birthPlace": "Stockholm",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Commander C G L Lindmark",
+                "sameAs": "[commander's URL]",
+                "jobTitle": "Commander"
+            },
+            {
+                "@type": "Person",
+                "name": "Jenny Wahlberg",
+                "sameAs": "[mother's URL]"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Signe Nordqvist",
+            "sameAs": "[spouse's URL]"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "educationalLevel": "Bachelor's Degree",
+                "educationalCredentialAwarded": "Fil kand",
+                "educationalInstitution": {
+                    "@type": "CollegeOrUniversity",
+                    "name": "Uppsala University",
+                    "sameAs": "[university's URL]"
+                },
+                "yearAwarded": "1897"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "educationalLevel": "Civil Engineering Degree",
+                "educationalCredentialAwarded": "Civ.ingex",
+                "educationalInstitution": {
+                    "@type": "CollegeOrUniversity",
+                    "name": "Royal Institute of Technology (KTH)",
+                    "sameAs": "[university's URL]"
+                },
+                "yearAwarded": "1901"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "educationalInstitution": {
+                    "@type": "CollegeOrUniversity",
+                    "name": "Royal Swedish Academy of War Sciences (KSHS)",
+                    "sameAs": "[university's URL]"
+                },
+                "yearAwarded": "N/A"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "title": "Engineer",
+                "startDate": "1901-01-01",
+                "endDate": "1903-01-01",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "de Laval Steam Turbine Company",
+                    "sameAs": "[company's URL]"
+                },
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Trenton",
+                        "addressRegion": "New Jersey",
+                        "addressCountry": "USA"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Engineer",
+                "startDate": "1903-01-01",
+                "endDate": "1906-01-01",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "The English de Laval Steam Turbine Company Ltd",
+                    "sameAs": "[company's URL]"
+                },
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Leeds",
+                        "addressCountry": "England"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Torpedo Officer",
+                "startDate": "1906-01-01",
+                "endDate": "1912-01-01",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Swedish Navy",
+                    "sameAs": "[organization's URL]"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Teacher",
+                "startDate": "1909-01-01",
+                "endDate": "1912-01-01",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Royal Swedish Academy of War Sciences (KSHS)",
+                    "sameAs": "[organization's URL]"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Assistant Patent and Registration Officer",
+                "startDate": "1908-01-01",
+                "endDate": "1912-01-01"
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Engineer",
+                "startDate": "1912-01-01",
+                "endDate": "1916-01-01",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Etuna Stålpressning AB",
+                    "sameAs": "[company's URL]"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Engineer",
+                "startDate": "1916-01-01",
+                "endDate": "1917-01-01",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Etuna Järnmanufaktur AB",
+                    "sameAs": "[company's URL]"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Supervisor",
+                "startDate": "1918-01-01",
+                "endDate": "1920-01-01",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Etuna Järnmanufaktur AB",
+                    "sameAs": "[company's URL]"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Director",
+                "startDate": "1921-01-01",
+                "endDate": "1940-01-01",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Scania-Vabis",
+                    "sameAs": "[company's URL]"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Deputy Chief",
+                "startDate": "N/A",
+                "endDate": "N/A",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Fuel Commission's Gasification Bureau",
+                    "sameAs": "[organization's URL]"
+                }
+            }
+        ],
+        "membership": [
+            {
+                "@type": "OrganizationRole",
+                "title": "Vice Chairman",
+                "startDate": "1917-01-01",
+                "endDate": "1918-01-01",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "City Finance Committee in Etuna",
+                    "sameAs": "[organization's URL]"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Chairman",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Swedish Automotive Trade Association",
+                    "sameAs": "[organization's URL]"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Chairman",
+                "startDate": "N/A",
+                "endDate": "N/A",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Swedish Automotive Trade Federation",
+                    "sameAs": "[organization's URL]"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Corresponding Member",
+                "endDate": "N/A",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Royal Swedish Academy of Music",
+                    "sameAs": "[organization's URL]"
+                }
+            }
+        ],
+        "residence": [
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress"
+                },
+                "startDate": "1901-01-01",
+                "endDate": "1903-01-01",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "USA"
+                    }
+                }
+            },
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress"
+                },
+                "startDate": "1903-01-01",
+                "endDate": "1906-01-01",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "England"
+                    }
+                }
+            }
+        ],
+        "publication": [
+            {
+                "@type": "Article",
+                "name": "Trade in Western Countries",
+                "publicationDate": "1902"
+            },
+            {
+                "@type": "Article",
+                "name": "Papers on Torpedoes and Mines",
+                "publicationDate": "1910-1918"
+            },
+            {
+                "@type": "Article",
+                "name": "Etuna Industries Development and Current Situation",
+                "publicationDate": "1919"
+            },
+            {
+                "@type": "Article",
+                "name": "Writings on Gasification Matters"
+            }
+        ],
+        "awards": [
+            {
+                "@type": "Order",
+                "name": "Order of Vasa",
+                "sameAs": "[order's URL]"
+            },
+            {
+                "@type": "Medal",
+                "name": "Royal Swedish Academy of Sciences' Gold Medal",
+                "sameAs": "[medal's URL]"
+            },
+            {
+                "@type": "Medal",
+                "name": "Gold Plaque with Perpetual Membership",
+                "sameAs": "[medal's URL]"
+            }
+        ],
+        "hobbies": [
+            {
+                "@type": "Thing",
+                "name": "Botany"
+            },
+            {
+                "@type": "Thing",
+                "name": "Genealogy Research"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "de Laval Steam Turbine Company",
+                "industry": "Engineering",
+                "start_date": "1901"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "The English de Laval Steam Turbine Company Ltd",
+                "industry": "Engineering",
+                "start_date": "1903"
+            },
+            {
+                "occupational_title": "Torpedo Officer",
+                "workplace": "Swedish Navy",
+                "industry": "Military",
+                "start_date": "1906"
+            },
+            {
+                "occupational_title": "Teacher",
+                "workplace": "Royal Swedish Academy of War Sciences",
+                "industry": "Education",
+                "start_date": "1909"
+            },
+            {
+                "occupational_title": "Assistant Patent and Registration Officer",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "1908"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Etuna Stålpressning AB",
+                "industry": "Manufacturing",
+                "start_date": "1912"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Etuna Järnmanufaktur AB",
+                "industry": "Manufacturing",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Supervisor",
+                "workplace": "Etuna Järnmanufaktur AB",
+                "industry": "Manufacturing",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "AB Scania-Vabis",
+                "industry": "Automotive",
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Deputy chief of Fuel Commission's Gasification Bureau",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

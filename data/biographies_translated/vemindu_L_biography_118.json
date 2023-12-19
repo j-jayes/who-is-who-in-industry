@@ -1,0 +1,133 @@
+{
+    "original": "LENANDER, Martin, Direktör, Örebro, f öbr 4/4 99 av möbelhandl J L o Mathilda Jansson, gm Annie Jacobsson. Karol l öbr 09—16, ex Schartaus 18. Tjm Skand kred.-AB:s öbrkont 18—19, ASEA räkensk.kont 19— 21, anst öbr.ort:s mej.frn fr 22, kamr 25—41, vkst dir sed. 41, d:o öbr l mej.frb sed. 41. Led öbr stadsrev, rev öbr sparbk sed. 42, styr.led öbr mej o öbr nya mej.aff. Studieres Engl, 26, Tyskl 37. Frimurare, Odd Fellow, Bifrost.",
+    "translated": "LENANDER, Martin, Director, Örebro, born on April 4th, 1899, the son of furniture dealer J L and Mathilda Jansson, married to Annie Jacobsson. Completed his education at Karol College from 1909 to 1916, graduated from Schartau's Business School in 1918. Worked as a clerk at Skandinaviska Kreditaktiebolag's accounting office from 1918 to 1919, then at ASEA's accounting office from 1919 to 1921. Employed at a local dairy from 1922, promoted to cashier in 1925 and advanced to Assistant Director since 1941, serving as Director of the dairy since 1941. Served as a board member and auditor for the municipal revenue department, and as an auditor for the savings bank since 1942. Also involved in the management board of the dairy and other new dairy-related businesses. Studied English in 1926 and German in 1937. Member of the Freemasons, Odd Fellows, and Bifrost organizations.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Martin Lenander",
+        "givenName": "Martin",
+        "familyName": "Lenander",
+        "jobTitle": "Director",
+        "birthDate": "1899-04-04",
+        "birthPlace": "Örebro",
+        "spouse": {
+            "@type": "Person",
+            "name": "Annie Jacobsson"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "J L"
+            },
+            {
+                "@type": "Person",
+                "name": "Mathilda Jansson"
+            }
+        ],
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Karol College",
+            "startDate": "1909",
+            "endDate": "1916"
+        },
+        "alumniOf": {
+            "@type": "EducationalOrganization",
+            "name": "Schartau's Business School",
+            "startDate": "1918"
+        },
+        "workExperience": [
+            {
+                "@type": "Organization",
+                "name": "Skandinaviska Kreditaktiebolag",
+                "department": "Accounting office",
+                "startDate": "1918",
+                "endDate": "1919"
+            },
+            {
+                "@type": "Organization",
+                "name": "ASEA",
+                "department": "Accounting office",
+                "startDate": "1919",
+                "endDate": "1921"
+            },
+            {
+                "@type": "Organization",
+                "name": "Local Dairy",
+                "department": "Cashier",
+                "startDate": "1922",
+                "endDate": "1941"
+            },
+            {
+                "@type": "Organization",
+                "name": "Local Dairy",
+                "department": "Assistant Director",
+                "startDate": "1941"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Municipal Revenue Department",
+                "position": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Savings Bank",
+                "position": "Auditor"
+            },
+            {
+                "@type": "Organization",
+                "name": "Dairy Management Board"
+            },
+            {
+                "@type": "Organization",
+                "name": "New Dairy-related Businesses Management Board"
+            }
+        ],
+        "sameAs": [
+            "https://freemasons.example.org",
+            "https://oddfellows.example.org",
+            "https://bifrost.example.org"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Örebro",
+                "industry": "",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Clerk",
+                "workplace": "Skandinaviska Kreditaktiebolag's accounting office",
+                "industry": "Finance",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Clerk",
+                "workplace": "ASEA's accounting office",
+                "industry": "Engineering",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Cashier",
+                "workplace": "Local dairy",
+                "industry": "Dairy",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Assistant Director",
+                "workplace": "Local dairy",
+                "industry": "Dairy",
+                "start_date": "1941"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Local dairy",
+                "industry": "Dairy",
+                "start_date": "1941"
+            }
+        ]
+    }
+}

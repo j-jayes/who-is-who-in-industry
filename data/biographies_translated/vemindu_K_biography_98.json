@@ -1,0 +1,94 @@
+{
+    "original": "KJELLSTRÖM, Nils Erik, Disponent, Malmö, f 4/7 92 av ing Olof K o Helma Waldenström, gm Kerstin Dahlgren (d 42). Studex 10, KTH (V o V) 15. Anst Väg- o Vattenbyggn.styr 15—16, Sk Cementgjuteriet sed. 16, disp Malmökont sed. 34. Stdsflm, led dräts.kamm. Ordf Skånska ing.klubben. RVO.",
+    "translated": "KJELLSTRÖM, Nils Erik, Manager, Malmö, b. 4/7 1892, son of engineer Olof K and Helma Waldenström, married to Kerstin Dahlgren (died in 1942). Graduated 1910, Royal Institute of Technology (Architecture). Employed by the Road and Water Construction Authority, 1915-1916, Skånska Cementgjuteriet 1916 onwards, as Manager of the Malmö office from 1934. Member of Stockholm Student Film Society, Chairman of the Skånska Engineering Club. Knight of the Royal Order of Vasa.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Nils Erik Kjellström",
+        "jobTitle": "Manager",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Malmö"
+        },
+        "birthDate": "1892-04-07",
+        "familyName": "Kjellström",
+        "givenName": "Nils Erik",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Olof Kjellström",
+                "jobTitle": "Engineer"
+            },
+            {
+                "@type": "Person",
+                "name": "Helma Waldenström"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Kerstin Dahlgren",
+            "deathDate": "1942"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "degree",
+            "educationalLevel": "Graduate",
+            "educationalCredentialAwarded": "Architecture",
+            "awardingInstitution": {
+                "@type": "EducationalOrganization",
+                "name": "Royal Institute of Technology",
+                "location": "Stockholm"
+            },
+            "experiencedThrough": "10",
+            "startDate": "1910"
+        },
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "Road and Water Construction Authority",
+                "startDate": "1915",
+                "endDate": "1916"
+            },
+            {
+                "@type": "Organization",
+                "name": "Skånska Cementgjuteriet",
+                "startDate": "1916"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Stockholm Student Film Society"
+            },
+            {
+                "@type": "Organization",
+                "name": "Skånska Engineering Club",
+                "jobTitle": "Chairman"
+            }
+        ],
+        "honorificSuffix": "RVO",
+        "identifier": "Knight of the Royal Order of Vasa"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Manager",
+                "workplace": "Malmö",
+                "industry": "Unknown",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Skånska Cementgjuteriet",
+                "industry": "Construction",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Road and Water Construction Authority",
+                "industry": "Construction",
+                "start_date": "1915"
+            }
+        ]
+    }
+}

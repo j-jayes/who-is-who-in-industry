@@ -1,0 +1,82 @@
+{
+    "original": "LINDBLOM, Karl Teodor, Grosshandlare, Karlskrona, f Kkr 79 av Carl Lindblom o Anna Håkansson, gm Elisabet Johansson. Anst fma W L Thorn 95—09, etabl ass.ag o partiaff 09. Stdsflm o beredn.utsk, ldst o för-valtn.utsk, v. ordf drätselkamm under 20 år. RVO; Frimurare.",
+    "translated": "LINDBLOM, Karl Teodor, Merchant, Karlskrona, b. Ckr 79 to Carl Lindblom and Anna Håkansson, m. Elisabet Johansson. Employed at W L Thorn 95-09, established own company and became a partner in 09. Member of city council and various committees, served as vice chairman of the finance committee for 20 years. Royal Order of Vasa; Freemason.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Karl Teodor Lindblom",
+        "description": "Merchant",
+        "birthDate": "1879-01-01T00:00:00Z",
+        "birthPlace": "Karlskrona",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Carl Lindblom",
+                "relation": "father"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Håkansson",
+                "relation": "mother"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Elisabet Johansson"
+        },
+        "workExperience": [
+            {
+                "@type": "Organization",
+                "name": "W L Thorn",
+                "startDate": "1895-01-01",
+                "endDate": "1909-12-31"
+            },
+            {
+                "@type": "Organization",
+                "name": "Own Company",
+                "startDate": "1909-01-01"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "City Council"
+            },
+            {
+                "@type": "Organization",
+                "name": "Finance Committee",
+                "position": "Vice Chairman",
+                "startDate": "1899-01-01",
+                "endDate": "1919-12-31"
+            }
+        ],
+        "awards": [
+            {
+                "@type": "Order",
+                "name": "Royal Order of Vasa"
+            }
+        ],
+        "affiliation": [
+            {
+                "@type": "Organization",
+                "name": "Freemasons"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "W L Thorn",
+                "industry": "Unknown",
+                "start_date": "1895"
+            },
+            {
+                "occupational_title": "Established own company",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "1909"
+            }
+        ]
+    }
+}

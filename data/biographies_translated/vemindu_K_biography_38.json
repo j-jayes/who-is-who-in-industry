@@ -1,0 +1,105 @@
+{
+    "original": "KARLSSON, Carl Olof, Kontorschef, Eskilstuna, f Gbg 19/1 04 av tjm K K o Anna Lidberg. Studex 22, ex Gbgs hdlsinst 25, civilekonom i Gbs 34. Anst sv bruk o utl aff.kont 25—31, dir.ass AB Järntrådverken Sthlm 34— 39, kont.ch DomkraftAB Nike sed. 39. Resor: Ital 25, Frankr 26, stat exp.stip i Grekl 29.",
+    "translated": "KARLSSON, Carl Olof, Office Manager, Eskilstuna, b. Gothenburg 19/1 04 to employee K K and Anna Lidberg. Graduated in 1922, completed Gothenburg Business School in 1925, and obtained a degree in economics from Gothenburg University in 1934. Employed at Swedish factories and foreign trade offices from 1925 to 1931, assistant director at AB Järntrådverken in Stockholm from 1934 to 1939, and office manager at DomkraftAB Nike since 1939. Traveled to Italy in 1925, France in 1926, and received a government scholarship to Greece in 1929.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Olof Karlsson",
+        "jobTitle": "Office Manager",
+        "birthPlace": "Gothenburg",
+        "birthDate": "1904-01-19",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "K K"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Lidberg"
+            }
+        ],
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Graduate",
+            "educationalLevel": "Bachelor's Degree",
+            "educationalCredentialAwarded": "Degree in Economics",
+            "dateEarned": "1934",
+            "provider": {
+                "@type": "EducationalOrganization",
+                "name": "Gothenburg University"
+            }
+        },
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "namedPosition": "Swedish Factories and Foreign Trade Offices",
+                "startDate": "1925",
+                "endDate": "1931"
+            },
+            {
+                "@type": "OrganizationRole",
+                "namedPosition": "Assistant Director",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "AB Järntrådverken"
+                },
+                "startDate": "1934",
+                "endDate": "1939"
+            },
+            {
+                "@type": "OrganizationRole",
+                "namedPosition": "Office Manager",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "DomkraftAB Nike"
+                },
+                "startDate": "1939"
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "Trip",
+                "name": "Trip to Italy",
+                "startDate": "1925"
+            },
+            {
+                "@type": "Trip",
+                "name": "Trip to France",
+                "startDate": "1926"
+            },
+            {
+                "@type": "Trip",
+                "name": "Government scholarship to Greece",
+                "startDate": "1929"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Office Manager",
+                "workplace": "Eskilstuna",
+                "industry": "",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Gothenburg",
+                "industry": "",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Assistant Director",
+                "workplace": "AB Järntrådverken",
+                "industry": "Steel industry",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Office Manager",
+                "workplace": "DomkraftAB Nike",
+                "industry": "",
+                "start_date": "1939"
+            }
+        ]
+    }
+}

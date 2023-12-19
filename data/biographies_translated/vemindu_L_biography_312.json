@@ -1,0 +1,80 @@
+{
+    "original": "LINDSTRÖM, Uno Mauritz Marion, Ingenjör, Norrköping, f Jakobstad, Finl, 28/4 07 av fabr A L o Mary Lagergren, gm Thyra Winge. Nrkp tekn gymn. Anst Abel Lindströms tricotfabr sed. 28, vkst dir o styr.ordf. Studieres Tyskl 27—28, Engl 32.",
+    "translated": "LINDSTRÖM, Uno Mauritz Marion, Engineer, Norrköping, born in Jakobstad, Finland, on April 28, 1907, to father A. L. Lagergren and mother Mary Lagergren. Married to Thyra Winge. Attended Norrköping Technical Gymnasium, employed at Abel Lindström's knitting factory since 1928, where he held the position of Deputy Director and Chairman of the Board. Studied German in 1927-1928 and English in 1932.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Uno Mauritz Marion Lindström",
+        "jobTitle": "Engineer",
+        "birthDate": "1907-04-28",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Jakobstad"
+        },
+        "nationality": "Finnish",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "A. L. Lagergren",
+                "jobTitle": "Fabricator"
+            },
+            {
+                "@type": "Person",
+                "name": "Mary Lagergren"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Thyra Winge"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Norrköping Technical Gymnasium"
+        },
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "Abel Lindström's knitting factory",
+                "startDate": "1928",
+                "endDate": "present",
+                "jobTitle": "Deputy Director and Chairman of the Board"
+            }
+        ],
+        "study": [
+            {
+                "@type": "Course",
+                "name": "German",
+                "startDate": "1927",
+                "endDate": "1928"
+            },
+            {
+                "@type": "Course",
+                "name": "English",
+                "startDate": "1932",
+                "endDate": "1932"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Abel Lindström's knitting factory",
+                "industry": "Textile manufacturing",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Deputy Director",
+                "workplace": "Abel Lindström's knitting factory",
+                "industry": "Textile manufacturing",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Chairman of the Board",
+                "workplace": "Abel Lindström's knitting factory",
+                "industry": "Textile manufacturing",
+                "start_date": "1928"
+            }
+        ]
+    }
+}

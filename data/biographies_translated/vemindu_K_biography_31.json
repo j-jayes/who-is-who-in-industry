@@ -1,0 +1,73 @@
+{
+    "original": "KARLSSON, Karl Einar Torvald, Fabrikör, Laholm, f Lah 27/1 92 av fabr N K o Sofia Bengtsson, gm Anna Hansson. Deläg fma Brod. Karlssons snick.fabr (grund av fad 14, överl på dennes 3 sön 26). Huvudm Lah sparbk.",
+    "translated": "KARLSSON, Karl Einar Torvald, Industrialist, Laholm, born in Laholm on January 27, 1892, son of factory owner Nils Karlsson and Sofia Bengtsson, married Anna Hansson. Co-owner of Brod Furniture. Karlsson's carpentry factory (established by father in 1914, taken over by his 3 sons in 1926). Head of Laholm Savings Bank. \n\nNote: Please be aware that the translation provided is based on the information given and may not be entirely accurate.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Karl Einar Torvald Karlsson",
+        "givenName": "Karl Einar Torvald",
+        "familyName": "Karlsson",
+        "birthDate": "1892-01-27",
+        "birthPlace": "Laholm",
+        "description": "Industrialist",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Nils Karlsson",
+                "description": "Factory Owner"
+            },
+            {
+                "@type": "Person",
+                "name": "Sofia Bengtsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Anna Hansson"
+        },
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Laholm Savings Bank",
+            "isMemberOf": "Karlsson"
+        },
+        "owns": {
+            "@type": "Organization",
+            "name": "Brod Furniture",
+            "isOwnedBy": "Karlsson"
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Karlsson's Carpentry Factory",
+            "startDate": "1914",
+            "endDate": "1926"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Industrialist",
+                "workplace": "Laholm",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Co-owner",
+                "workplace": "Brod Furniture",
+                "industry": "Furniture",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Head of Laholm Savings Bank",
+                "workplace": "Laholm Savings Bank",
+                "industry": "Banking",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "Karlsson's carpentry factory",
+                "industry": "Carpentry",
+                "start_date": "1914 (established)"
+            }
+        ]
+    }
+}

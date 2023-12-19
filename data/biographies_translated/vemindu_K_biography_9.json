@@ -1,0 +1,106 @@
+{
+    "original": "KALLING, Sven Otto Sture, Greve, överingenjör, Nykroppa, f Sthlm 4/4 89 av civilassessorn, greve C K o Anna von Knorring, gm Vera Törsleff. Studex 07, bergsingex 12. Anst Bångbro Järnvk 13—16, DomnarfvetsJärnvk 16—20, Hagfors Järnvk 20—41, övering Nykroppa Järnvk sed. 41. Ordf Nykroppa-Storfors byggn.nmd, Nykroppa vattenkté.",
+    "translated": "KALLING, Sven Otto Sture, Count, Chief Engineer, Nykroppa, born in Stockholm on April 4th, 1889, to the Civil Assessor, Count C K Kalling, and Anna von Knorring. Married to Vera Törsleff. Completed high school in 1907, and graduated as a mining engineer in 1912. Employed at Bångbro Railway 1913-1916, Domnarvet Railway 1916-1920, Hagfors Railway 1920-1941. Became Chief Engineer at Nykroppa Railway in 1941. Chairman of Nykroppa-Storfors Building Committee and Nykroppa Water Power Company.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Sven Otto Sture Kalling",
+        "givenName": "Sven Otto Sture",
+        "familyName": "Kalling",
+        "birthDate": "1889-04-04",
+        "birthPlace": "Stockholm",
+        "nationality": "Swedish",
+        "father": {
+            "@type": "Person",
+            "name": "Count C K Kalling"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Anna von Knorring"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Vera Törsleff"
+        },
+        "jobTitle": "Chief Engineer",
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Bångbro Railway",
+                "employmentStartDate": "1913",
+                "employmentEndDate": "1916"
+            },
+            {
+                "@type": "Organization",
+                "name": "Domnarvet Railway",
+                "employmentStartDate": "1916",
+                "employmentEndDate": "1920"
+            },
+            {
+                "@type": "Organization",
+                "name": "Hagfors Railway",
+                "employmentStartDate": "1920",
+                "employmentEndDate": "1941"
+            },
+            {
+                "@type": "Organization",
+                "name": "Nykroppa Railway",
+                "employmentStartDate": "1941"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Nykroppa-Storfors Building Committee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Nykroppa Water Power Company"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "studex",
+                "educationalLevel": "High School",
+                "educationalRole": "Graduate",
+                "dateAwarded": "1907"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "bergsingex",
+                "educationalLevel": "Mining Engineer",
+                "educationalRole": "Graduate",
+                "dateAwarded": "1912"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Chief Engineer",
+                "workplace": "Bångbro Railway",
+                "industry": "Railway",
+                "start_date": "1913"
+            },
+            {
+                "occupational_title": "Chief Engineer",
+                "workplace": "Domnarvet Railway",
+                "industry": "Railway",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Chief Engineer",
+                "workplace": "Hagfors Railway",
+                "industry": "Railway",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Chief Engineer",
+                "workplace": "Nykroppa Railway",
+                "industry": "Railway",
+                "start_date": "1941"
+            }
+        ]
+    }
+}

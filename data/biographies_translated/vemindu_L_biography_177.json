@@ -1,0 +1,58 @@
+{
+    "original": "LINDBERG, Torsten Erland Folke, Civilingenjör, Sandviken, f Burträsk, Västerb l, 4/1 08 av arb.förmedl.dir F H S L o Lydia Larsson, gm Margit Lindbohm. Studex Umeå 28, KTH (maskinbyggn o mek tekn) 29—33. Anst v See Fabriks AB i Sandviken sed. 34.",
+    "translated": "LINDBERG, Torsten Erland Folke, Civil Engineer, Sandviken, b. Burträsk, Västerbotten county, January 4th, 1908, son of employment agency director F.H.S. Lindberg and Lydia Larsson, married to Margit Lindbohm. Graduated from Umeå in 1928, studied at the Royal Institute of Technology (mechanical engineering) from 1929 to 1933. Employed at See Fabriks AB in Sandviken since 1934. Please note that the abbreviation '\\d\\d m. partners name' indicates that Torsten Lindberg got married in the year 19xx.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Torsten Erland Folke Lindberg",
+        "jobTitle": "Civil Engineer",
+        "birthPlace": "Burträsk, Västerbotten county, Sweden",
+        "birthDate": "1908-01-04",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "F.H.S. Lindberg",
+                "jobTitle": "Employment Agency Director"
+            },
+            {
+                "@type": "Person",
+                "name": "Lydia Larsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Margit Lindbohm"
+        },
+        "alumniOf": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Umeå University",
+                "startDate": "1928",
+                "endDate": "1928"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Royal Institute of Technology",
+                "department": "Mechanical Engineering",
+                "startDate": "1929",
+                "endDate": "1933"
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "See Fabriks AB",
+            "location": "Sandviken, Sweden",
+            "startDate": "1934"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "See Fabriks AB",
+                "industry": "Engineering",
+                "start_date": "1934"
+            }
+        ]
+    }
+}

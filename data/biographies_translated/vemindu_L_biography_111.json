@@ -1,0 +1,79 @@
+{
+    "original": "LEJEFORS, Arne Gustav August, Civilingenjör, Borås, f Furingstad, Ögl l, 20/3 10 av godsäg E A Andersson o Bertha Nilsson, gm Elsa Scheutz. Studex Norrkp 28, KTH (kemi) 28—33. Ing v Borås Wäfveri AB sed. 33. Resor: Schweiz, Tyskl 36. Av trycket: Korresp.kurs i appreturlära. Led Sv Tekn.frn. Hobby: Golf.",
+    "translated": "LEJEFORS, Arne Gustav August, Civil Engineer, Borås, born in Furingstad, Ögl l, on March 20, 1910, to landowner E A Andersson and Bertha Nilsson. Married to Elsa Scheutz. Graduated from Norrkp in 1928, and from KTH (Chemistry) in 1928-1933. Employed by Borås Wäfveri AB since 1933. Travelled to Switzerland and Germany in 1936. Published: Correspondence course in textile finishing. Member of the Swedish Technical Association. Hobbies include golf.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Arne Gustav August Lejefors",
+        "birthDate": "1910-03-20",
+        "birthPlace": "Furingstad, Ögl l, Sweden",
+        "description": "Civil Engineer",
+        "jobTitle": "Civil Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Borås",
+            "addressCountry": "Sweden"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "E A Andersson",
+                "jobTitle": "Landowner"
+            },
+            {
+                "@type": "Person",
+                "name": "Bertha Nilsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Elsa Scheutz"
+        },
+        "alumniOf": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Norrkp",
+                "endDate": "1928"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "KTH",
+                "department": "Chemistry",
+                "startDate": "1928",
+                "endDate": "1933"
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Borås Wäfveri AB",
+            "startDate": "1933"
+        },
+        "nationality": "Swedish",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Technical Association",
+                "memberType": "Professional"
+            }
+        ],
+        "hobbies": [
+            "Golf"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Borås",
+                "industry": "Engineering",
+                "start_date": "1933"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Borås Wäfveri AB",
+                "industry": "Textile",
+                "start_date": "1933"
+            }
+        ]
+    }
+}

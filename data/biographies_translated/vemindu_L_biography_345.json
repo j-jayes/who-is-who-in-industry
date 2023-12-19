@@ -1,0 +1,98 @@
+{
+    "original": "LJUNGBERG, Tore Axel, Ingenjör, Huddinge, f Hästholmen, Nacka, Sthlms l, 28/4 08 av ing K A L o Hedvig Lundberg. Ingex (kemist). Anst AB Wahlén &amp; Block, Sthlm, sed. 27, avd.ch där. Resor: Tyskl 39. Sv Kont.frn, Sv Ind.tjm.frb, KSAK, Sthlms Ama-törfrn, Skidfrämj, STF. Hobbies: Segling, skidlöpning, cykelfärder.",
+    "translated": "LJUNGBERG, Tore Axel, Engineer, Huddinge, born in Hästholmen, Nacka, Stockholm County, on April 28th, 1908, son of engineer K. A. L. and Hedvig Lundberg. Occupation: chemist. Employed at Wahlén & Block AB, Stockholm, since 1927, currently in the chemical department. Travels: Germany in 1939. Member of the Swedish Chamber of Commerce, Swedish Industrial Union for Textile Workers, Royal Automobile Club of Sweden, Stockholm Amateur Radio Club, and the Swedish Touring Club. Hobbies: Sailing, skiing, cycling.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Tore Axel Ljungberg",
+        "jobTitle": "Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Huddinge",
+            "addressCountry": "Sweden"
+        },
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Hästholmen, Nacka, Stockholm County"
+        },
+        "birthDate": "1908-04-28",
+        "parents": [
+            {
+                "@type": "Person",
+                "jobTitle": "Engineer",
+                "givenName": "K. A. L.",
+                "familyName": "Lundberg"
+            },
+            {
+                "@type": "Person",
+                "givenName": "Hedvig Lundberg"
+            }
+        ],
+        "occupation": {
+            "@type": "Person",
+            "name": "Chemist"
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Wahlén & Block AB",
+            "startDate": "1927-01-01",
+            "department": "Chemical"
+        },
+        "travels": [
+            {
+                "@type": "Place",
+                "name": "Germany",
+                "startDate": "1939-01-01"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Chamber of Commerce"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Industrial Union for Textile Workers"
+            },
+            {
+                "@type": "Organization",
+                "name": "Royal Automobile Club of Sweden"
+            },
+            {
+                "@type": "Organization",
+                "name": "Stockholm Amateur Radio Club"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Touring Club"
+            }
+        ],
+        "sameAs": [
+            {
+                "@type": "URL",
+                "url": "https://example.com/tore-axel-ljungberg"
+            }
+        ],
+        "hobbies": [
+            "Sailing",
+            "Skiing",
+            "Cycling"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Wahlén & Block AB",
+                "industry": "Chemical",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Chemist",
+                "workplace": "Wahlén & Block AB",
+                "industry": "Chemical",
+                "start_date": "1927"
+            }
+        ]
+    }
+}

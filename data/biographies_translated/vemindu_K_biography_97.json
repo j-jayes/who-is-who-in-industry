@@ -1,0 +1,116 @@
+{
+    "original": "KJELLSTRÖM, Per Olof Gerhard, Bergsingenjör, Örebro, f Gbg 9/9 03 av dir O Kj o Lovisa Martina Mollberg, gm Ann-Margret Baltzer. Studex Gbg 21, KTH 21—26, avg.ex där 27. Driftsing o fabr.chef h AB Sv Stållinor, Hällefors, 29—32, idkar under fma G Kjellström, Örebro, försäljn.verksamh f Hellefors Bruks AB mfl sv o utländska företag sed. 32. Resor: USA 29—30. Rotary. Hobby: Filateli.",
+    "translated": "KJELLSTRÖM, Per Olof Gerhard, Mining Engineer, Örebro, b. Gbg (Gothenburg) 9/9 03, son of dir (director) O (Olof) Kjellström and Lovisa Martina Mollberg, married to Ann-Margret Baltzer. Studex (high school graduate) Gbg (Gothenburg) 21, KTH (Royal Institute of Technology) 21—26, successfully completed studies there in 27. Worked as operation engineer and factory manager at AB Sv Stållinor, Hällefors, from 29—32, engaged in sales activities for G Kjellström, Örebro, representing Hellefors Bruks AB and other Swedish and foreign companies since 32. Travels: USA 29—30. Member of Rotary. Hobby: Philately.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Per Olof Gerhard Kjellström",
+        "birthDate": "1903-09-09",
+        "birthPlace": "Gothenburg",
+        "nationality": "Swedish",
+        "description": "Mining Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Örebro"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Olof Kjellström",
+                "jobTitle": "Director"
+            },
+            {
+                "@type": "Person",
+                "name": "Lovisa Martina Mollberg"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ann-Margret Baltzer"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "educationalLevel": "HighSchool",
+                "alumniOf": "Gothenburg"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "educationalLevel": "CollegeOrUniversity",
+                "alumniOf": "Royal Institute of Technology",
+                "startDate": "1921",
+                "endDate": "1926"
+            }
+        ],
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Operation Engineer and Factory Manager",
+                "startDate": "1929",
+                "endDate": "1932",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Sv Stållinor, Hällefors"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Sales Representative",
+                "startDate": "1932",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "G Kjellström, Örebro"
+                },
+                "employmentType": "Self-Employed",
+                "subOrganization": {
+                    "@type": "Organization",
+                    "name": "Hellefors Bruks AB"
+                }
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "Place",
+                "name": "USA",
+                "startDate": "1929",
+                "endDate": "1930"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Rotary"
+        },
+        "hasHobby": {
+            "@type": "Hobby",
+            "name": "Philately"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Mining Engineer",
+                "workplace": "Örebro",
+                "industry": "Mining",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Operation Engineer",
+                "workplace": "AB Sv Stållinor, Hällefors",
+                "industry": "Steel",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Factory Manager",
+                "workplace": "AB Sv Stållinor, Hällefors",
+                "industry": "Steel",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Sales Representative",
+                "workplace": "G Kjellström, Örebro",
+                "industry": "Various (Representing Hellefors Bruks AB and other companies)",
+                "start_date": "1932"
+            }
+        ]
+    }
+}

@@ -1,0 +1,168 @@
+{
+    "original": "KINDBOM, Carl-Axel Erik, Direktör, Karl s - borg, f Karlsborg 16/7 98 av grosshandl A K 0 h h Vilhelmina, gm Ruth Helgeson. Kansli-ex, hdlssk. Anst v tändsticksfabr 25—26. Vkst dir i A Kindbom AB Karlsborg, red.rör, trav, Styr.led där. Ag fastigh Bengtstorp o Orretorp i Undenäs s :n. Styr.led Skarab.bkns kont 1 Karlsborg, ordf allm lok värd.nmd i Skarab l, v. ordf Karlsborgs komm.flm o komm.nmd, kronoomb i tax.nmd. Styr.led Sv Segelfartygs-frn o Skarab l Träv.handl.frn. Resor: Tyskl, Tjeckoslovakien.",
+    "translated": "KINDBOM, Carl-Axel Erik, Director, Karl s - castle, b Karlsborg 16/7 98 of wholesale mer A K 0 h Vilhelmina, m Ruth Helgeson. Office-ex, comm.sch. Employed at match factory 25—26. Growth dir in A Kindbom AB Karlsborg, managing director, travel, Board member there. Owns properties Bengtstorp and Orretorp in Undenäs parish. Board member at Skaraborg's bank branch in Karlsborg, chairman of the local hospitality board in Skaraborg county, deputy chairman of Karlsborgs municipal board and municipal council, member of the tax committee. Board member of the Swedish Sailing Ship Association and Skaraborg Timber Trade Association. Travelled to Germany, Czechoslovakia...",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl-Axel Erik Kindbom",
+        "birthDate": "1898-07-16",
+        "birthPlace": "Karlsborg, Sweden",
+        "nationality": "Swedish",
+        "occupation": "Director",
+        "employer": "A Kindbom AB Karlsborg",
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Office-ex",
+                "educationalLevel": "Commerce school"
+            }
+        ],
+        "workExperience": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1925",
+                "endDate": "1926",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Match Factory"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1930",
+                "roleName": "Managing Director",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "A Kindbom AB Karlsborg"
+                }
+            }
+        ],
+        "owns": [
+            {
+                "@type": "OwnershipInfo",
+                "typeOfGood": {
+                    "@type": "RealEstateProperty",
+                    "name": "Bengtstorp",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Undenäs",
+                        "addressRegion": "Skaraborg",
+                        "addressCountry": "Sweden"
+                    }
+                }
+            },
+            {
+                "@type": "OwnershipInfo",
+                "typeOfGood": {
+                    "@type": "RealEstateProperty",
+                    "name": "Orretorp",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Undenäs",
+                        "addressRegion": "Skaraborg",
+                        "addressCountry": "Sweden"
+                    }
+                }
+            }
+        ],
+        "boardMember": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Board member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "A Kindbom AB Karlsborg"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Board member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Skaraborg's Bank"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Chairman",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Local Hospitality Board, Skaraborg county"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Deputy Chairman",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Karlsborgs Municipal Board"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Deputy Chairman",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Karlsborgs Municipal Council"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Board member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Swedish Sailing Ship Association"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Board member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Skaraborg Timber Trade Association"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Skaraborg county"
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "Trip",
+                "departureTime": "Tyskl",
+                "arrivalTime": "Tjeckoslovakien"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ruth Helgeson"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "A K 0 h Vilhelmina"
+            }
+        ],
+        "children": []
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Office-ex",
+                "workplace": "Match factory",
+                "industry": "Manufacturing",
+                "start_date": "1925-01-01"
+            },
+            {
+                "occupational_title": "Growth Dir",
+                "workplace": "A Kindbom AB Karlsborg",
+                "industry": "Unknown",
+                "start_date": "1925-01-01"
+            }
+        ]
+    }
+}

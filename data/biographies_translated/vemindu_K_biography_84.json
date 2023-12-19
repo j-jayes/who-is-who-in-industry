@@ -1,0 +1,354 @@
+{
+    "original": "KJELLBERG, Knut Gunnar K:son, Assu-ransdirektör, Konsul, Göteborg, f Sthlm 1/2 96 av prof Knut K o h h f Bahr, gm Elizabeth Tietgens.- Studex, DHS, resoffex. Anst AB Transmarina komp Sthlm 19—20. Hamburg 21, J A Kjellberg &amp; Söner London 22, Paris 23, Java 24—26, Kina 27—28, Gbg 29—33, Sjöför-säkrAB Gauthiod Gbg sed. 34. Resor: Tyskl 21, Engl 22, Frankr 23, Holland o Britt Ind 24—26, Kina, Filippinerna, Siam, Jap 27—28, fi europ länd upprep ggr. Medl Gnistan, Börs-sällsk, SHT mfl.",
+    "translated": "KJELLBERG, Knut Gunnar K:son, Insurance Director, Consul, Gothenburg, born in Stockholm on February 1, 1896, son of Professor Knut K and his wife Bahr, married to Elizabeth Tietgens. Completed studies, obtained a degree in Humanities, and served as a reserve officer. Employed at AB Transmarina Company in Stockholm from 1919 to 1920, Hamburg in 1921, J A Kjellberg & Sons in London in 1922, Paris in 1923, Java from 1924 to 1926, China from 1927 to 1928, Gothenburg from 1929 to 1933, and at the Gauthiod Maritime Insurance Company in Gothenburg since 1934. Traveled to Germany in 1921, England in 1922, France in 1923, Netherlands and British India from 1924 to 1926, China, the Philippines, Siam, and Japan from 1927 to 1928, and multiple times to European countries. Member of Gnistan, the Stock Exchange Society, SHT, among others.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Knut Gunnar Kjellberg",
+        "givenName": "Knut Gunnar",
+        "familyName": "Kjellberg",
+        "birthDate": "1896-02-01",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Stockholm"
+        },
+        "father": {
+            "@type": "Person",
+            "name": "Knut K"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Bahr"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Elizabeth Tietgens"
+        },
+        "jobTitle": [
+            "Insurance Director",
+            "Consul"
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Gnistan"
+            },
+            {
+                "@type": "Organization",
+                "name": "Stock Exchange Society"
+            },
+            {
+                "@type": "Organization",
+                "name": "SHT"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "degree",
+                "credentialLevel": {
+                    "@type": "DefinedTerm",
+                    "name": "Humanities"
+                },
+                "studySubject": {
+                    "@type": "DefinedTerm",
+                    "name": "Humanities"
+                }
+            }
+        ],
+        "award": {
+            "@type": "Service",
+            "name": "Studex"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Gothenburg"
+        },
+        "nationality": {
+            "@type": "Country",
+            "name": "Sweden"
+        },
+        "residence": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Gothenburg"
+            }
+        },
+        "workExperience": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1919",
+                "endDate": "1920",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Transmarina"
+                },
+                "workLocation": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1921",
+                "endDate": "1921",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Hamburg"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1922",
+                "endDate": "1922",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "J A Kjellberg & Sons"
+                },
+                "workLocation": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "London"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1923",
+                "endDate": "1923",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Paris"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1924",
+                "endDate": "1926",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Java"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1927",
+                "endDate": "1928",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "China"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1929",
+                "endDate": "1933",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Gothenburg"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1934",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Gauthiod Maritime Insurance Company"
+                },
+                "workLocation": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Gothenburg"
+                    }
+                }
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "TravelAction",
+                "startDate": "1921",
+                "endDate": "1921",
+                "fromLocation": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "Germany"
+                    }
+                }
+            },
+            {
+                "@type": "TravelAction",
+                "startDate": "1922",
+                "endDate": "1922",
+                "fromLocation": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "England"
+                    }
+                }
+            },
+            {
+                "@type": "TravelAction",
+                "startDate": "1923",
+                "endDate": "1923",
+                "fromLocation": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "France"
+                    }
+                }
+            },
+            {
+                "@type": "TravelAction",
+                "startDate": "1924",
+                "endDate": "1926",
+                "fromLocation": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "Netherlands"
+                    }
+                }
+            },
+            {
+                "@type": "TravelAction",
+                "startDate": "1924",
+                "endDate": "1926",
+                "fromLocation": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "British India"
+                    }
+                }
+            },
+            {
+                "@type": "TravelAction",
+                "startDate": "1927",
+                "endDate": "1928",
+                "fromLocation": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "China"
+                    }
+                }
+            },
+            {
+                "@type": "TravelAction",
+                "startDate": "1927",
+                "endDate": "1928",
+                "fromLocation": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "Philippines"
+                    }
+                }
+            },
+            {
+                "@type": "TravelAction",
+                "startDate": "1927",
+                "endDate": "1928",
+                "fromLocation": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "Siam"
+                    }
+                }
+            },
+            {
+                "@type": "TravelAction",
+                "startDate": "1927",
+                "endDate": "1928",
+                "fromLocation": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "Japan"
+                    }
+                }
+            },
+            {
+                "@type": "TravelAction",
+                "startDate": "multiple times",
+                "fromLocation": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "European countries"
+                    }
+                }
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Insurance Director",
+                "workplace": "AB Transmarina",
+                "industry": "Insurance",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Insurance Director",
+                "workplace": "Hamburg",
+                "industry": "Insurance",
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Insurance Director",
+                "workplace": "J A Kjellberg & Sons",
+                "industry": "Insurance",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Insurance Director",
+                "workplace": "Paris",
+                "industry": "Insurance",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Insurance Director",
+                "workplace": "Java",
+                "industry": "Insurance",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Insurance Director",
+                "workplace": "China",
+                "industry": "Insurance",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Insurance Director",
+                "workplace": "Gothenburg",
+                "industry": "Insurance",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Insurance Director",
+                "workplace": "SjöförsäkrAB Gauthiod",
+                "industry": "Insurance",
+                "start_date": "1934"
+            }
+        ]
+    }
+}

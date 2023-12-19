@@ -1,0 +1,154 @@
+{
+    "original": "LINDGREN, Assar, Köpman, Örnsköldsvik» f övik 25/1 02 av grhdl, rådm C G L o Jenny Moberg, gm Ester Rosenquist, Realsk. Prakt i manuf.brasch osund 23—25, anst fr 17 i frma Carl G Lindgren (grund av fad 92), inneh av denna und fmanamn Carl G Lindgren &amp; Son sed. 31. Ag Staffanstorp i öviks skärg. Ordf Norrl &amp; Dal:s linoleumhandl.frn, Sv skidfrbs komm f backhoppn, IF Friska Viljor, styr.-snppl Ångerml köpmfrb. Led hdlsnmdn. Resor: Finl 38, Norge 40. Odd Fellow, W6j Friska Viljors ftjt. Hobbies: Sport, spec skidsp, backbedömn på skidor, finsk bastu, fiskrökeri.",
+    "translated": "LINDGREN, Assar, Merchant, Örnsköldsvik. Born Örnsköldsvik on January 25, 1902, son of County Governor Carl G. Lindgren and Jenny Moberg. Married to Ester Rosenquist. Attended Realskolan. Practical training in manufacturing business in Sundsvall from 1923 to 1925. Employed from the age of 17 at his father's company Carl G. Lindgren (founded by his father in 1892), and became the owner of the company under the name Carl G. Lindgren & Son since 1931. Resident of Staffanstorp in the Örnsköldsvik archipelago. Chairman of the Northern and Dalecarlia linoleum dealers' association, Swedish Ski Federation's committee for ski jumping, IF Friska Viljor, and has a seat on the board of Ångermanland's merchant association. Member of the trade committee. Travelled to Finland in 1938 and Norway in 1940. Member of the Odd Fellow lodge, and a member of the board for IF Friska Viljor. Hobbies include sports, especially ski jumping, ski judging, Finnish sauna, and smoking fish.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Assar",
+        "familyName": "Lindgren",
+        "additionalName": "Carl G.",
+        "birthDate": "1902-01-25",
+        "birthPlace": "Örnsköldsvik",
+        "description": "Merchant",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Carl G. Lindgren",
+                "jobTitle": "County Governor"
+            },
+            {
+                "@type": "Person",
+                "name": "Jenny Moberg"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ester Rosenquist"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Realskolan"
+        },
+        "training": {
+            "@type": "OccupationalTraining",
+            "startDate": "1923",
+            "endDate": "1925",
+            "employer": {
+                "@type": "Person",
+                "name": "Carl G. Lindgren"
+            },
+            "employerHistory": "His father's company Carl G. Lindgren"
+        },
+        "owns": {
+            "@type": "Organization",
+            "name": "Carl G. Lindgren & Son",
+            "foundingDate": "1931",
+            "founder": "Carl G. Lindgren"
+        },
+        "residence": {
+            "@type": "Place",
+            "name": "Staffanstorp",
+            "containedInPlace": "Örnsköldsvik",
+            "containsPlace": "Örnsköldsvik archipelago"
+        },
+        "positions": [
+            {
+                "@type": "Role",
+                "name": "Chairman",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Northern and Dalecarlia linoleum dealers' association"
+                }
+            },
+            {
+                "@type": "Role",
+                "name": "Committee member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Swedish Ski Federation's committee for ski jumping"
+                }
+            },
+            {
+                "@type": "Role",
+                "name": "Chairman",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "IF Friska Viljor"
+                }
+            },
+            {
+                "@type": "Role",
+                "name": "Board member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Ångermanland's merchant association"
+                }
+            }
+        ],
+        "membership": {
+            "@type": "Organization",
+            "name": "Odd Fellow lodge"
+        },
+        "hobbies": [
+            "Sports",
+            "Ski jumping",
+            "Ski judging",
+            "Finnish sauna",
+            "Smoking fish"
+        ],
+        "travelHistory": [
+            {
+                "@type": "TravelAction",
+                "fromLocation": "Örnsköldsvik",
+                "toLocation": "Finland",
+                "startDate": "1938"
+            },
+            {
+                "@type": "TravelAction",
+                "fromLocation": "Örnsköldsvik",
+                "toLocation": "Norway",
+                "startDate": "1940"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Carl G Lindgren & Son",
+                "industry": "Manufacturing business",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Chairman",
+                "workplace": "Northern and Dalecarlia linoleum dealers' association",
+                "industry": "Wholesale trade",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Committee Member",
+                "workplace": "Swedish Ski Federation",
+                "industry": "Sports",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Chairman",
+                "workplace": "IF Friska Viljor",
+                "industry": "Sports",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Ångermanland's merchant association",
+                "industry": "Wholesale trade",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Member",
+                "workplace": "Trade committee",
+                "industry": "",
+                "start_date": ""
+            }
+        ]
+    }
+}

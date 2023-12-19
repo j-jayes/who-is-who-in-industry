@@ -1,0 +1,156 @@
+{
+    "original": "LINDBERG, Jakob Axel, Civilingenjör, Västerås, f Sthlms Näs, Upps l, 22/6 81 av lantbr J L o Emilie Wallin, gm Hanna Johanson. Mog.ex hala Södermalm i Sthlm 00, KTH 01—04, avg.ex där sistn år. Ing h konsult ing.-fman Bergman &amp; Co AB, Sthlm, 05—07, konstr h Nya Fören Elektr AB i Ludv, 07—11, offerting där 11—16, elektroing h Wargöns AB, Vargön, 16—18, chef f offertavd h Elektr AB Eck, Partille, 18—20, chef f Skand offertbyrån v ASEA, V:ås, sed. 20.",
+    "translated": "LINDBERG, Jakob Axel, Engineer, Västerås, b. Sthlms Näs, Uppsala län, 22/6 1881, son of farmer J L and Emilie Wallin, m. Hanna Johanson. Completed secondary education in Södermalm in Stockholm in 1900, studied at KTH (Royal Institute of Technology) from 1901 to 1904, graduated that same year. Worked as a consultant engineer at Bergman & Co AB in Stockholm from 1905 to 1907, then as a design engineer at Nya Fören Elektr AB in Ludvika from 1907 to 1911, and as a quotation engineer there from 1911 to 1916. Worked as an electrical engineer at Wargöns AB in Vargön from 1916 to 1918, as head of the quotation department at Elektr AB Eck in Partille from 1918 to 1920, and as head of the Scandinavian quotation office at ASEA in Västerås since 1920.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Jakob Axel Lindberg",
+        "jobTitle": "Engineer",
+        "birthDate": "1881-06-22",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Västerås",
+                "addressRegion": "Uppsala län"
+            }
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "J L Lindberg",
+                "jobTitle": "Farmer"
+            },
+            {
+                "@type": "Person",
+                "name": "Emilie Wallin"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Hanna Johanson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Secondary",
+                "provider": {
+                    "@type": "Organization",
+                    "name": "Södermalm"
+                },
+                "endDate": "1900"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Bachelor's",
+                "provider": {
+                    "@type": "Organization",
+                    "name": "KTH (Royal Institute of Technology)"
+                },
+                "startDate": "1901",
+                "endDate": "1904"
+            }
+        ],
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Bergman & Co AB"
+                },
+                "startDate": "1905",
+                "endDate": "1907",
+                "roleName": "Consultant Engineer"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Nya Fören Elektr AB"
+                },
+                "startDate": "1907",
+                "endDate": "1911",
+                "roleName": "Design Engineer"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Nya Fören Elektr AB"
+                },
+                "startDate": "1911",
+                "endDate": "1916",
+                "roleName": "Quotation Engineer"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Wargöns AB"
+                },
+                "startDate": "1916",
+                "endDate": "1918",
+                "roleName": "Electrical Engineer"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Elektr AB Eck"
+                },
+                "startDate": "1918",
+                "endDate": "1920",
+                "roleName": "Head of Quotation Department"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "ASEA"
+                },
+                "startDate": "1920",
+                "roleName": "Head of Scandinavian Quotation Office"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Bergman & Co AB",
+                "industry": "Consulting Engineering",
+                "start_date": "1905"
+            },
+            {
+                "occupational_title": "Design Engineer",
+                "workplace": "Nya Fören Elektr AB",
+                "industry": "Electrical Engineering",
+                "start_date": "1907"
+            },
+            {
+                "occupational_title": "Quotation Engineer",
+                "workplace": "Nya Fören Elektr AB",
+                "industry": "Electrical Engineering",
+                "start_date": "1911"
+            },
+            {
+                "occupational_title": "Electrical Engineer",
+                "workplace": "Wargöns AB",
+                "industry": "Electrical Engineering",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Head of Quotation Department",
+                "workplace": "Elektr AB Eck",
+                "industry": "Electrical Engineering",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Head of Scandinavian Quotation Office",
+                "workplace": "ASEA",
+                "industry": "Electrical Engineering",
+                "start_date": "1920"
+            }
+        ]
+    }
+}

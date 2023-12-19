@@ -1,0 +1,64 @@
+{
+    "original": "LINDSTRAND, Carl Harald, Kamrer, Stockholm, f Sthlm 14/6 88 av tandtekn J L o Emma Nääs, gm Emma Andersson. Sthlm borgarsk. Anst AB Nyman &amp; Schultz sed. 06. Rev finska församl i Sthlm. PatrGM2storl. Hobby: Filateli.",
+    "translated": "LINDSTRAND, Carl Harald, Accountant, Stockholm, born in Stockholm on June 14, 1888, to dental technician J L and Emma Nääs, married to Emma Andersson. Stockholm bourgeoisie. Employed by AB Nyman & Schultz since 1906. Reverend in the Finnish congregation in Stockholm. Member of the Masonic Order (PatrGM2storl). Hobby: Philately (stamp collecting).",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Harald Lindstrand",
+        "birthDate": "1888-06-14",
+        "birthPlace": "Stockholm",
+        "father": {
+            "@type": "Person",
+            "name": "J L Lindstrand",
+            "profession": "Dental Technician"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Emma Nääs"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Emma Andersson"
+        },
+        "jobTitle": "Accountant",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "AB Nyman & Schultz",
+                "startDate": "1906"
+            },
+            {
+                "@type": "Organization",
+                "name": "Finnish Congregation in Stockholm",
+                "memberOf": [
+                    {
+                        "@type": "Organization",
+                        "name": "Masonic Order",
+                        "additionalName": "PatrGM2storl"
+                    }
+                ]
+            }
+        ],
+        "hobby": "Philately"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Accountant",
+                "workplace": "AB Nyman & Schultz",
+                "industry": "Unknown",
+                "start_date": "1906"
+            },
+            {
+                "occupational_title": "Reverend",
+                "workplace": "Finnish congregation in Stockholm",
+                "industry": "Religious",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

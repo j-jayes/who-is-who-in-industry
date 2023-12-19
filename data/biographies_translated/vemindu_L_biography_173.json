@@ -1,0 +1,121 @@
+{
+    "original": "LINDBERG, Bengt Torvald, Direktör, Stockholm, f Upps 23/11 10 av dir T M L o Tora Pettersson, gm Britta Jseger. Studex Upps 30, HHS 33. V. vkst dir o styr.led AB Ingvar Bergengren sed. 41, inneh Allm tidn.kont i Upps samt Lindbergs Penn-Affär i Sthlm. Styr.led fma Bengt Lindbergs förl.AB, Penn-komp AB. Resor: Tyskl 31, Engl 34.",
+    "translated": "LINDBERG, Bengt Torvald, Director, Stockholm, born in Uppsala on November 23, 1910, son of Director T M L and Tora Pettersson, married to Britta Jseger. Studied at Uppsala University until 1930, then at the Stockholm School of Economics until 1933. Vice Managing Director and board member of AB Ingvar Bergengren since 1941, owner of the General Newspaper Office in Uppsala and Lindbergs Penn-Affär in Stockholm. Board member of Bengt Lindbergs förl.AB and Penn-komp AB. Travelled to Germany in 1931 and England in 1934.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Bengt Torvald Lindberg",
+        "birthDate": "1910-11-23",
+        "birthPlace": "Uppsala",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "T M L Lindberg",
+                "jobTitle": "Director"
+            },
+            {
+                "@type": "Person",
+                "name": "Tora Pettersson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Britta Jseger"
+        },
+        "alumniOf": [
+            {
+                "@type": "CollegeOrUniversity",
+                "name": "Uppsala University",
+                "endDate": "1930"
+            },
+            {
+                "@type": "CollegeOrUniversity",
+                "name": "Stockholm School of Economics",
+                "endDate": "1933"
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "AB Ingvar Bergengren",
+            "position": [
+                {
+                    "@type": "Person",
+                    "name": "Vice Managing Director"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Board Member"
+                }
+            ],
+            "since": "1941"
+        },
+        "owns": [
+            {
+                "@type": "Organization",
+                "name": "General Newspaper Office",
+                "location": "Uppsala"
+            },
+            {
+                "@type": "Organization",
+                "name": "Lindbergs Penn-Affär",
+                "location": "Stockholm"
+            }
+        ],
+        "boardMemberOf": [
+            {
+                "@type": "Organization",
+                "name": "Bengt Lindbergs förl.AB"
+            },
+            {
+                "@type": "Organization",
+                "name": "Penn-komp AB"
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "Place",
+                "name": "Germany",
+                "dateVisited": "1931"
+            },
+            {
+                "@type": "Place",
+                "name": "England",
+                "dateVisited": "1934"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "AB Ingvar Bergengren",
+                "industry": "Unknown",
+                "start_date": "1941"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "General Newspaper Office",
+                "industry": "Publishing",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "Lindbergs Penn-Affär",
+                "industry": "Retail",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Bengt Lindbergs förl.AB",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Penn-komp AB",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

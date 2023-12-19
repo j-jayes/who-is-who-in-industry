@@ -1,0 +1,92 @@
+{
+    "original": "LIEDBERG, Erin Maria, Fru (Direktrie), Lidingö, f Kkrona 7/9 72 av major G Nilsson 0 Johanna Markman, gm civ.ing Gust Ad L (d). Vviks flickpens. Inneh Lidingövarvet (grund av civ.ing L 11). Styr.led AB Lidingövarvet, medl Ljusglimt o frn Vviksflickorna. Resor: Norge, Danm, Tyskl, Frankr, Ital, LTng, Tjeckoslov. Hobbies: Sport, resor.",
+    "translated": "LIEDBERG, Erin Maria, Mrs. (Director), Lidingö, born in Kkrona on September 7, 1872, to Major G Nilsson and Johanna Markman. Married to civil engineer Gust Ad L (deceased). Former student of Vviks flickpens. Owner of Lidingövarvet (founded by civil engineer L in 1911). Board member of AB Lidingövarvet, member of Ljusglimt and Vviksflickorna. Travelled to Norway, Denmark, Germany, France, Italy, Lithuania, Czechoslovakia. Hobbies: sports, travel.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Erin Maria Liedberg",
+        "birthDate": "1872-09-07",
+        "birthPlace": "Kkrona, Sweden",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Major G Nilsson"
+            },
+            {
+                "@type": "Person",
+                "name": "Johanna Markman"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Gust Ad Liedberg",
+            "deathDate": "DECEASED"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Vviks flickpens"
+        },
+        "occupation": [
+            {
+                "@type": "OrganizationRole",
+                "title": "Director",
+                "startDate": "CURRENT"
+            }
+        ],
+        "owns": [
+            {
+                "@type": "Organization",
+                "name": "Lidingövarvet",
+                "foundingDate": "1911",
+                "founder": {
+                    "@type": "Person",
+                    "name": "civil engineer L"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "AB Lidingövarvet",
+                "memberOf": "Board"
+            },
+            {
+                "@type": "Organization",
+                "name": "Ljusglimt"
+            },
+            {
+                "@type": "Organization",
+                "name": "Vviksflickorna"
+            }
+        ],
+        "travelledTo": [
+            "Norway",
+            "Denmark",
+            "Germany",
+            "France",
+            "Italy",
+            "Lithuania",
+            "Czechoslovakia"
+        ],
+        "hobbies": [
+            "Sports",
+            "Travel"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Lidingövarvet",
+                "industry": "Shipbuilding",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "AB Lidingövarvet",
+                "industry": "Shipbuilding",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

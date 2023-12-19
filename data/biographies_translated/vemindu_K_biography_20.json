@@ -1,0 +1,109 @@
+{
+    "original": "KARLGREN, Nils, Auktoriserad revisor, Göteborg, f Söderhamn 11/8 99 av Anton K 0 Esther af Schmidt, gm Elisabeth Kekonius. Studex SLatin 18, ekon ex HHS 21, Liljevalchs stip 22—23 f stud i Engl o Frankr. Anst 1 bk 21—24, hdlskamm 25—27, aukt rev 25, eg fma Karlgrens Revisionsbyrå Gbg sed. 29. Resor: Se ovan. Av trycket: »Bokföring — handb f bokför o köpmän» (3 uppl 38). Bachelors Club. Hobbies: Jakt, segling, Culbertson.",
+    "translated": "KARLGREN, Nils, Authorized Auditor, Gothenburg, b. Söderhamn 11/8 99 to Anton K 0 Esther af Schmidt, m. Elisabeth Kekonius. Studex SLatin 18, econ ex HHS 21, Liljevalchs stip 22-23 studying in England and France. Employed at 1 bk 21-24, hdlskamm 25-27, authorized auditor since 1925, self-employed at Karlgrens Revisionsbyrå Gothenburg since 1929. Travels: See above. Published: \"Bokföring - handb f bokför o köpmän\" (3rd edition, 1938). Bachelors Club. Hobbies: Hunting, sailing, Culbertson. Note that '\\d\\d m. partners name' means that the person married in the year 19xx.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Nils Karlgen",
+        "birthDate": "1899-08-11",
+        "birthPlace": "Söderhamn",
+        "father": {
+            "@type": "Person",
+            "name": "Anton Karlgen"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Esther af Schmidt"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Elisabeth Kekonius"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "Studex SLatin",
+                "dateAwarded": "1918"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "econ ex HHS",
+                "dateAwarded": "1921"
+            },
+            {
+                "@type": "Scholarship",
+                "name": "Liljevalchs stip",
+                "startDate": "1922",
+                "endDate": "1923"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1921",
+                "endDate": "1924",
+                "roleName": "1 bk"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1925",
+                "endDate": "1927",
+                "roleName": "hdlskamm"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1929",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Karlgrens Revisionsbyrå",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Gothenburg"
+                    }
+                }
+            }
+        ],
+        "membership": [
+            {
+                "@type": "Organization",
+                "name": "Bachelors Club"
+            }
+        ],
+        "hobbies": [
+            "Hunting",
+            "Sailing",
+            "Culbertson"
+        ],
+        "publication": [
+            {
+                "@type": "CreativeWork",
+                "name": "Bokföring - handb f bokför o köpmän",
+                "edition": "3rd edition",
+                "datePublished": "1938"
+            }
+        ],
+        "sameAs": "https://www.example.com/nils-karlgren"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Authorized Auditor",
+                "workplace": "Karlgrens Revisionsbyrå Gothenburg",
+                "industry": "Accounting",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Employed",
+                "workplace": "1 bk",
+                "industry": "Unknown",
+                "start_date": "1921-1924"
+            },
+            {
+                "occupational_title": "Employed",
+                "workplace": "hdlskamm",
+                "industry": "Unknown",
+                "start_date": "1925-1927"
+            }
+        ]
+    }
+}

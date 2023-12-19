@@ -1,0 +1,152 @@
+{
+    "original": "LINDVALL, Per Hugo Ivar, Civilingenjör, Stockholm, f Kalmar 25/4 96 av lektor PIL o Sofia Lyrholm, gm Gunhild Welin. Studex Kalmar 14, KTH (E) 15—19, avg.ex där sistn år. Elev v ASEA 14—15 o 20—21, offerting v AEG, Berlin, 21—23, konstr v Adirondack Power &amp; Light Corp, Schenectady, NY USA, 23— 27, ing v AB Vattenbyggn.byrån, London, 27 —29, patenting v Oscar Grahns patentbyrå, Sthlm, 30, patentombud o deläg i fma Ivar Bergenstråhles Patentbyrå, Sthlm, sed. 39. Led av Sv Tekn.frn sed. 19, av Sv Patent-ombudsfrn sed. 39.",
+    "translated": "LINDVALL, Per Hugo Ivar, M.Sc. (Engineering), Stockholm, b. Kalmar 25/4 1896, son of lecturer PIL and Sofia Lyrholm, m. Gunhild Welin. Graduated from Kalmar High School in 1914, studied at the Royal Institute of Technology (Electrical Engineering) from 1915 to 1919, received his final exams there. Worked as a trainee at ASEA from 1914 to 1915 and 1920 to 1921, apprentice at AEG, Berlin, from 1921 to 1923, designer at Adirondack Power & Light Corp, Schenectady, NY, USA, from 1923 to 1927, engineer at AB Vattenbyggnadsbyrån, London, from 1927 to 1929, patenting at Oscar Grahns patent office, Stockholm, in 1930. Became a patent attorney and co-owner of Ivar Bergenstråhle's Patent Office, Stockholm, since 1939. Member of the Swedish Society of Engineers since 1919 and member of the Swedish Patent Attorney Association since 1939.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Per Hugo Ivar Lindvall",
+        "birthPlace": "Kalmar, Sweden",
+        "birthDate": "1896-04-25",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Society of Engineers",
+                "startDate": "1919"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Patent Attorney Association",
+                "startDate": "1939"
+            }
+        ],
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "M.Sc. (Engineering)",
+            "educationalLevel": "Master's degree",
+            "awardedBy": {
+                "@type": "EducationalOrganization",
+                "name": "Royal Institute of Technology"
+            }
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "PIL",
+                "jobTitle": "Lecturer"
+            },
+            {
+                "@type": "Person",
+                "name": "Sofia Lyrholm"
+            }
+        ],
+        "spouse": "Gunhild Welin",
+        "work": [
+            {
+                "@type": "CareerStation",
+                "company": {
+                    "@type": "Organization",
+                    "name": "ASEA"
+                },
+                "startDate": "1914",
+                "endDate": "1915"
+            },
+            {
+                "@type": "CareerStation",
+                "company": {
+                    "@type": "Organization",
+                    "name": "ASEA"
+                },
+                "startDate": "1920",
+                "endDate": "1921"
+            },
+            {
+                "@type": "CareerStation",
+                "company": {
+                    "@type": "Organization",
+                    "name": "AEG"
+                },
+                "location": "Berlin, Germany",
+                "startDate": "1921",
+                "endDate": "1923"
+            },
+            {
+                "@type": "CareerStation",
+                "company": {
+                    "@type": "Organization",
+                    "name": "Adirondack Power & Light Corp"
+                },
+                "location": "Schenectady, NY, USA",
+                "startDate": "1923",
+                "endDate": "1927"
+            },
+            {
+                "@type": "CareerStation",
+                "company": {
+                    "@type": "Organization",
+                    "name": "AB Vattenbyggnadsbyrån"
+                },
+                "location": "London, United Kingdom",
+                "startDate": "1927",
+                "endDate": "1929"
+            },
+            {
+                "@type": "CareerStation",
+                "company": {
+                    "@type": "Organization",
+                    "name": "Oscar Grahns patentbyrå"
+                },
+                "location": "Stockholm, Sweden",
+                "startDate": "1930"
+            },
+            {
+                "@type": "CareerStation",
+                "company": {
+                    "@type": "Organization",
+                    "name": "Ivar Bergenstråhle's Patent Office"
+                },
+                "location": "Stockholm, Sweden",
+                "startDate": "1939"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Trainee",
+                "workplace": "ASEA",
+                "industry": "Electrical Engineering",
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Trainee",
+                "workplace": "AEG, Berlin",
+                "industry": "Electrical Engineering",
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Designer",
+                "workplace": "Adirondack Power & Light Corp, Schenectady, NY, USA",
+                "industry": "Power and Energy",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "AB Vattenbyggnadsbyrån, London",
+                "industry": "Civil Engineering",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Patenting",
+                "workplace": "Oscar Grahns patent office, Stockholm",
+                "industry": "Intellectual Property",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Patent Attorney",
+                "workplace": "Ivar Bergenstråhle's Patent Office, Stockholm",
+                "industry": "Intellectual Property",
+                "start_date": "1939"
+            }
+        ]
+    }
+}

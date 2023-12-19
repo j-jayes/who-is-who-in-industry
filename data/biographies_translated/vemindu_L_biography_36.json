@@ -1,0 +1,124 @@
+{
+    "original": "LAQUIST, Hjalmar Orvar, Civilingenjör,, Stockholm, f Sthlm 18/6 73 av grhdl F Hj L o Anna Zetterholm, gm Elsa Kinberg. Mog.ex NReal 90, ex KTH (kemi) 93. Ass h prof A E Nordenskiöld 93—94, anst Alfred Nobels lab Björkborn 95—96, Nafta Produktionsge-sellschaft Gebriider Nobel Baku 96—97, v dr G de Lavals el smältugn Bångbro 98—01, AB Bångbro Rörvk 01—06, AB Järnexport Sthlm 06—13, Stråssa Grufve AB o Ickorbottens Gruv AB Sthlm 13—17, ch avd f flyt bränsl stat ind.komm 17—19, vkst dir Starbo Br.äg AB 19—20, div administr uppdr 19—22, eg aff.-vksmh und fma Labor Sthlm sed. 22. RVO; led Sv Tekn.frn, styr.led ds avd f kemi o bergsvetensk 30—33.",
+    "translated": "LAQUIST, Hjalmar Orvar, Engineer, Stockholm, b. Stockholm 18/6 1873, son of farmer Hj L and Anna Zetterholm, m. Elsa Kinberg. Graduated NReal 1890, KTH (Chemistry) 1893. Assistant to Professor A E Nordenskiöld 1893-94, employed at Alfred Nobel's laboratory in Björkborn 1895-96, Nafta Production Company Gebriider Nobel Baku 1896-97, earned a doctorate at G de Laval's electric smelting furnace in Bångbro 1898-1901, AB Bångbro Rörvk 1901-1906, AB Järnexport Stockholm 1906-1913, Stråssa Grufve AB and Ickorbottens Gruv AB Stockholm 1913-1917, head of the department for fuel combustion in the state industrial committee 1917-1919, managing director of Starbo Br.äg AB 1919-1920, various administrative positions 1919-1922, owner and manager of the Labor Sthlm company since 1922. Member of the Royal Order of Vasa; member of the Swedish Technical Association, board member of the chemistry and mining department 1930-1933..",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Hjalmar Orvar Laquist",
+        "birthDate": "1873-06-18",
+        "birthPlace": "Stockholm",
+        "father": {
+            "@type": "Person",
+            "name": "Hj L Laquist"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Anna Zetterholm"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Elsa Kinberg"
+        },
+        "education": [
+            {
+                "@type": "Organization",
+                "name": "NReal",
+                "endDate": "1890"
+            },
+            {
+                "@type": "Organization",
+                "name": "KTH",
+                "additionalType": "Chemistry",
+                "endDate": "1893"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Royal Order of Vasa"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Technical Association",
+                "boardMember": {
+                    "@type": "Organization",
+                    "name": "Chemistry and Mining Department",
+                    "startDate": "1930",
+                    "endDate": "1933"
+                }
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Professor A E Nordenskiöld",
+                "startDate": "1893",
+                "endDate": "1894"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Assistant to Professor",
+                "workplace": "A E Nordenskiöld",
+                "industry": "Education",
+                "start_date": "1893-94"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Alfred Nobel's laboratory",
+                "industry": "Chemicals",
+                "start_date": "1895-96"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Nafta Production Company Gebriider Nobel",
+                "industry": "Chemicals",
+                "start_date": "1896-97"
+            },
+            {
+                "occupational_title": "Doctorate Researcher",
+                "workplace": "G de Laval's electric smelting furnace",
+                "industry": "Metallurgy",
+                "start_date": "1898-1901"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "AB Bångbro Rörvk",
+                "industry": "Manufacturing",
+                "start_date": "1901-1906"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "AB Järnexport Stockholm",
+                "industry": "Metal Trading",
+                "start_date": "1906-1913"
+            },
+            {
+                "occupational_title": "Head of Department",
+                "workplace": "State Industrial Committee",
+                "industry": "Government",
+                "start_date": "1917-1919"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "Starbo Br.äg AB",
+                "industry": "Management",
+                "start_date": "1919-1920"
+            },
+            {
+                "occupational_title": "Various Administrative Positions",
+                "workplace": "Multiple",
+                "industry": "Various",
+                "start_date": "1919-1922"
+            },
+            {
+                "occupational_title": "Owner and Manager",
+                "workplace": "Labor Sthlm",
+                "industry": "Laboratory Services",
+                "start_date": "Since 1922"
+            }
+        ]
+    }
+}

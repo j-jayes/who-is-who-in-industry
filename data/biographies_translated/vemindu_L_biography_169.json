@@ -1,0 +1,148 @@
+{
+    "original": "LINDAHL, Carl Esaias Valdemar, Bergsingenjör, Disponent, Tidaholm, f Malmö 18/1 90 av köpm K A L o Anna Olsson, gm Gudrun Zimmerman. Studex 10, KTH 16. Anst Jernkont 16, Sth byggn.kont 16—17, ing odisp.ass Uddev tändst.fabr 17—28, disp 28—29, d:o Vulcans tändst.fabr Tidan sed. 29, vkst dir Tidan jvgsAB 29—40. Ordf Sv hdlsbkns avd.kont sed. 37, styr.led Jkps o Vulcans tändst.fabr.AB. Stdflm sed. 31. RVO.",
+    "translated": "LINDAHL, Carl Esaias Valdemar, Mining Engineer, Manager, Tidaholm, born in Malmö on January 18th, 1890, son of merchant K A L and Anna Olsson, married to Gudrun Zimmerman. Studied until 1910, at the Royal Institute of Technology until 1916. Employed by Jernkont in 1916, Stockholm construction office from 1916 to 1917, engineer and assistant manager at Uddevalla match factory from 1917 to 1928, manager from 1928 to 1929, the same position at Vulcan match factory in Tidan since 1929, director of development at Tidan railways Ltd from 1929 to 1940. Chairman of the Swedish Trade Bank department office since 1937, board member of Jkps and Vulcan match factory AB. Resides in Stockholm since 1931. Recipient of the Royal Order of Vasa.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Esaias Valdemar Lindahl",
+        "birthDate": "1890-01-18",
+        "birthPlace": "Malmö",
+        "description": "Mining Engineer, Manager",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "K A L",
+                "jobTitle": "Merchant"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Olsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Gudrun Zimmerman"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "studex",
+                "educationalLevel": "10",
+                "educationalCredentialAwarded": "Studex 10"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "KTH",
+                "educationalLevel": "16",
+                "educationalCredentialAwarded": "KTH 16"
+            }
+        ],
+        "affiliation": [
+            {
+                "@type": "Organization",
+                "name": "Jernkont",
+                "startDate": "1916"
+            },
+            {
+                "@type": "Organization",
+                "name": "Stockholm construction office",
+                "startDate": "1916",
+                "endDate": "1917"
+            },
+            {
+                "@type": "Organization",
+                "name": "Uddevalla match factory",
+                "startDate": "1917",
+                "endDate": "1928",
+                "jobTitle": "Engineer and Assistant Manager"
+            },
+            {
+                "@type": "Organization",
+                "name": "Uddevalla match factory",
+                "startDate": "1928",
+                "endDate": "1929",
+                "jobTitle": "Manager"
+            },
+            {
+                "@type": "Organization",
+                "name": "Vulcan match factory",
+                "startDate": "1929",
+                "jobTitle": "Manager"
+            },
+            {
+                "@type": "Organization",
+                "name": "Tidan railways Ltd",
+                "startDate": "1929",
+                "endDate": "1940",
+                "jobTitle": "Director of Development"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Trade Bank",
+                "startDate": "1937",
+                "jobTitle": "Chairman - Swedish Trade Bank Department"
+            },
+            {
+                "@type": "Organization",
+                "name": "Jkps and Vulcan match factory AB",
+                "jobTitle": "Board Member"
+            }
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "awards": [
+            {
+                "@type": "Order",
+                "name": "Royal Order of Vasa"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Mining Engineer",
+                "workplace": "Jernkont",
+                "industry": "Mining",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Stockholm construction office",
+                "industry": "Construction",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Engineer and Assistant Manager",
+                "workplace": "Uddevalla match factory",
+                "industry": "Manufacturing",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Uddevalla match factory",
+                "industry": "Manufacturing",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Vulcan match factory in Tidan",
+                "industry": "Manufacturing",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Director of Development",
+                "workplace": "Tidan railways Ltd",
+                "industry": "Transportation",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Chairman",
+                "workplace": "Swedish Trade Bank department office",
+                "industry": "Banking",
+                "start_date": "1937"
+            }
+        ]
+    }
+}
