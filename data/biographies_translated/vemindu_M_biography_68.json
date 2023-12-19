@@ -1,0 +1,86 @@
+{
+    "original": "MARSTRÖM:, Karl Adam Lennart, Bokhandlare, Skara, f Strängnäs 7/9 82 av lärov. -adj S M o Amy Hårdh. Studex Strängn 01. Anst Humblas bokhdl Nrkp 02—05, Nord-strörnska bokhdln Jönkp 05—10, övert Bergers bokhdl Skara 10. Resor: Norge, Danm, Finl, Tyskl, Österr, Frankr, Estl.",
+    "translated": "MARSTRÖM: Karl Adam Lennart, Bookstore Owner, Skara, born in Strängnäs on September 7, 1882, son of a teacher. Married to Amy Hårdh. Graduated from Strängnäs in 1901. Employed at Humbla's bookstore in Norrkoping from 1902 to 1905, at the Nordströrnska bookstores in Jonkoping from 1905 to 1910, and took over Berger's bookstore in Skara in 1910. Traveled to Norway, Denmark, Finland, Germany, Austria, France, Estonia.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Karl Adam Lennart Marström",
+        "birthDate": "1882-09-07",
+        "birthPlace": "Strängnäs",
+        "occupation": "Bookstore Owner",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Skara"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Amy Hårdh"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "location": "Strängnäs",
+            "startDate": "1901"
+        },
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "Humbla's Bookstore",
+                "location": "Norrkoping",
+                "startDate": "1902",
+                "endDate": "1905"
+            },
+            {
+                "@type": "Organization",
+                "name": "Nordströrnska Bookstores",
+                "location": "Jönköping",
+                "startDate": "1905",
+                "endDate": "1910"
+            },
+            {
+                "@type": "Organization",
+                "name": "Berger's Bookstore",
+                "location": "Skara",
+                "startDate": "1910"
+            }
+        ],
+        "memberOf": {
+            "@type": "Country",
+            "name": "Sweden"
+        },
+        "hasOccupation": {
+            "@type": "Organization",
+            "name": "Bookstore"
+        },
+        "hasOfferCatalog": {
+            "@type": "Place",
+            "name": "Strängnäs",
+            "startDate": "1901"
+        },
+        "travel": {
+            "@type": "Place",
+            "name": "Estonia"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Bookstore Owner",
+                "workplace": "Bergers bokhdl Skara",
+                "industry": "Retail",
+                "start_date": "1910"
+            },
+            {
+                "occupational_title": "Bookstore Employee",
+                "workplace": "Nordströrnska bokhdln Jönkp",
+                "industry": "Retail",
+                "start_date": "1905"
+            },
+            {
+                "occupational_title": "Bookstore Employee",
+                "workplace": "Humblas bokhdl Nrkp",
+                "industry": "Retail",
+                "start_date": "1902"
+            }
+        ]
+    }
+}

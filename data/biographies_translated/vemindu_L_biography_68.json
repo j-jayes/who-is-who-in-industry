@@ -1,0 +1,91 @@
+{
+    "original": "LARSSON, Gunnar Emil, Bergsingenjör, Sandviken, f Järfälla, Sthlms l, 17/9 07 av aktuarien J E L o Anna Arnoldsson, gm Tora Alm. Studex NReal Sthlm 26, bergsingex KTH 33. Anst v försöksarb åt Jernkont :s tekn råd 34, bitr forskn.ing v Sandvikens Jernverks AB sed. 35. Medl av Sandvikens kulturhist nmd. Ordf i Sandvikens Fotoklubb. Hobbies: Foto, friluftsliv.",
+    "translated": "LARSSON, Gunnar Emil, Mining Engineer, Sandviken, born in Järfälla, Stockholm County, on September 17th, 1907, son of the actuary J.E.L. and Anna Arnoldsson. Married to Tora Alm. Completed studies at NReal in Stockholm in 1926, and mining engineering studies at the Royal Institute of Technology (KTH) in 1933. Employed in experimental work for Jernkontoret's technical council in 1934, and as assistant research engineer for Sandvikens Jernverks AB since 1935. Member of the Sandvikens cultural historical committee and chairman of Sandvikens Fotoklubb (Photography Club). Hobbies: Photography, outdoor activities.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Gunnar Emil Larsson",
+        "jobTitle": "Mining Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Sandviken",
+            "addressRegion": "Stockholm County"
+        },
+        "birthDate": "1907-09-17",
+        "birthPlace": {
+            "@type": "PostalAddress",
+            "addressLocality": "Järfälla",
+            "addressRegion": "Stockholm County"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "J.E.L.",
+                "jobTitle": "Actuary"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Arnoldsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Tora Alm"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "diploma",
+                "educationalLevel": "SecondarySchool",
+                "alumniOf": "NReal",
+                "endDate": "1926"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "diploma",
+                "educationalLevel": "CollegeOrUniversity",
+                "alumniOf": "KTH",
+                "endDate": "1933"
+            }
+        ],
+        "worksFor": "Sandvikens Jernverks AB",
+        "worksFrom": "1935",
+        "workLocation": "Sandviken",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Sandvikens cultural historical committee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sandvikens Fotoklubb"
+            }
+        ],
+        "hobbies": [
+            "Photography",
+            "Outdoor activities"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Mining Engineer",
+                "workplace": "Sandvikens Jernverks AB",
+                "industry": "Mining",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Assistant Research Engineer",
+                "workplace": "Sandvikens Jernverks AB",
+                "industry": "Mining",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Experimental Work",
+                "workplace": "Jernkontoret's Technical Council",
+                "industry": "Mining",
+                "start_date": "1934"
+            }
+        ]
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "original": "LUNDIN, Nils Otto, Civilingenjör, Höganäs, f Sala 24/3 13 av förest O L o Ebba Thorn, gm Vera Nilsson. Studex Vänersborg 33, KTH (mek) 39. Anst v S Sv Ångpannefrn Malmö 39—40, v kraft- o värmeavd v Höganäs-Billesholms AB sed. 40. Av trycket: Upps om gasgen o ångprod.",
+    "translated": "LUNDIN, Nils Otto, Engineer, Höganäs, b Sala 24/3 13 son of O L and Ebba Thorn, married to Vera Nilsson. Graduated from Vänersborg 33, Royal Institute of Technology (mechanical engineering) 39. Employed at S Swedish Steam Boiler Works in Malmö 39-40, in the power and heating department at Höganäs-Billesholms AB since 40. Published on gas generation and steam production.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Nils Otto Lundin",
+        "jobTitle": "Engineer",
+        "birthDate": "1913-03-24",
+        "birthPlace": "Höganäs",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "O L"
+            },
+            {
+                "@type": "Person",
+                "name": "Ebba Thorn"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Vera Nilsson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "Studex",
+                "alumniOf": {
+                    "@type": "Organization",
+                    "name": "Vänersborg"
+                },
+                "startDate": "1933"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "KTH (mek)",
+                "alumniOf": {
+                    "@type": "CollegeOrUniversity",
+                    "name": "Royal Institute of Technology",
+                    "url": "https://www.kth.se"
+                },
+                "startDate": "1939"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "S Swedish Steam Boiler Works",
+                "location": "Malmö",
+                "startDate": "1939",
+                "endDate": "1940"
+            },
+            {
+                "@type": "Organization",
+                "name": "Höganäs-Billesholms AB",
+                "department": "Power and Heating",
+                "startDate": "1940"
+            }
+        ],
+        "publication": "Upps om gasgen o ångprod."
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "S Swedish Steam Boiler Works",
+                "industry": "Malmö",
+                "start_date": "1939-1940"
+            },
+            {
+                "occupational_title": "Power and Heating Department Employee",
+                "workplace": "Höganäs-Billesholms AB",
+                "industry": "Höganäs",
+                "start_date": "1940"
+            }
+        ]
+    }
+}

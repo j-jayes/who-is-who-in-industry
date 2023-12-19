@@ -1,0 +1,145 @@
+{
+    "original": "MAGNUSSON, David Tobias, Slakteriidkare, Jönköping, f Jönkp 7/8 87 av DM o Katarina Pettersson, gm Elin Lindberg. Folksk. Eg rör sed. 11, vkst dir AB Aneby Kontrollslakteri sed. 40, styr.ordf där. Ag fastigh i Jönkp. Stdsflm sed. 30, led kyrkoråd. Styr.ordf Jönkp 1 Slakteri- o Charkut.idk.frb, Sv Priv Kontrollslakteriers Samarbetsiimd, v. styr.ordf Sv Chark- o Slakt.idk Riksfrb.",
+    "translated": "MAGNUSSON, David Tobias, Butcher, Jönköping, b. Jönköping 7/8 87 to parents DM and Katarina Pettersson, m. Elin Lindberg. Primary school education. Employed at AB Aneby Kontrollslakteri as a supervisor since 1940, serving as chairman of the board there. Owns properties in Jönköping. Member of Jönköping City Film Society since 1930, served on the church council. Chairman of Jönköping 1 Butcher and Pork Processing Trade Union, Swedish Private Control Butchers' Cooperation, vice chairman of the Swedish Pork and Meat Processing Industry Federation.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "David Tobias Magnusson",
+        "birthDate": "1887-08-07",
+        "birthPlace": "Jönköping",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "DM Magnusson"
+            },
+            {
+                "@type": "Person",
+                "name": "Katarina Pettersson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Elin Lindberg"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "primarySchool",
+            "credentialAwarded": "Folksk"
+        },
+        "occupation": [
+            {
+                "@type": "TradeAction",
+                "actionStatus": "CompletedActionStatus",
+                "agent": {
+                    "@type": "Person",
+                    "name": "David Tobias Magnusson"
+                },
+                "instrument": {
+                    "@type": "Organization",
+                    "name": "AB Aneby Kontrollslakteri"
+                },
+                "roleName": "Supervisor",
+                "startDate": "1940"
+            },
+            {
+                "@type": "TradeAction",
+                "actionStatus": "CompletedActionStatus",
+                "agent": {
+                    "@type": "Person",
+                    "name": "David Tobias Magnusson"
+                },
+                "instrument": {
+                    "@type": "Organization",
+                    "name": "Jönköping 1 Butcher and Pork Processing Trade Union"
+                },
+                "roleName": "Chairman",
+                "startDate": "unknown"
+            }
+        ],
+        "owns": {
+            "@type": "OwnershipInfo",
+            "ownedFrom": "unknown",
+            "owner": {
+                "@type": "Person",
+                "name": "David Tobias Magnusson"
+            },
+            "typeOfGood": {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Jönköping"
+                }
+            }
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Jönköping City Film Society",
+                "startDate": "1930"
+            },
+            {
+                "@type": "Organization",
+                "name": "Jönköping 1 Butcher and Pork Processing Trade Union"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Private Control Butchers' Cooperation"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Pork and Meat Processing Industry Federation",
+                "position": "Vice Chairman"
+            }
+        ],
+        "churchMembership": {
+            "@type": "OrganizationRole",
+            "roleName": "Church Council Member"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Butcher",
+                "workplace": "AB Aneby Kontrollslakteri",
+                "industry": "Meat processing",
+                "start_date": "1940"
+            },
+            {
+                "occupational_title": "Supervisor",
+                "workplace": "AB Aneby Kontrollslakteri",
+                "industry": "Meat processing",
+                "start_date": "1940"
+            },
+            {
+                "occupational_title": "Chairman of the Board",
+                "workplace": "AB Aneby Kontrollslakteri",
+                "industry": "Meat processing",
+                "start_date": "1940"
+            },
+            {
+                "occupational_title": "Member",
+                "workplace": "Jönköping City Film Society",
+                "industry": "Cultural",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Church council member",
+                "workplace": "Unknown",
+                "industry": "Religion",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Chairman",
+                "workplace": "Jönköping 1 Butcher and Pork Processing Trade Union",
+                "industry": "Trade union",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Vice Chairman",
+                "workplace": "Swedish Pork and Meat Processing Industry Federation",
+                "industry": "Trade union",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

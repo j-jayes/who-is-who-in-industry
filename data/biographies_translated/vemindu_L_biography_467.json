@@ -1,0 +1,129 @@
+{
+    "original": "LYBECK, Göran Otto, Inköpschef, Nockeby, f Sthlm 10/8 03 av amiral Otto L o h h f Boström, gm Annalisa Elfström. Studex Sthlm 23, ekon ex HHS 26. Anst Gbgs bk i Gbg o Sthlm 26—29, Crocker First Nät Bk of San Francisco 29—30, AB Liljeholmens kabelfabr i Sthlm sed. 30.",
+    "translated": "LYBECK, Göran Otto, Purchasing Manager, Nockeby, b. Stockholm on October 8, 1903, son of Admiral Otto L and his wife Hilda Hildegard Boström, married to Annalisa Elfström. Graduated from Stockholm Secondary School in 1923, economics degree from the Stockholm School of Economics in 1926. Employed at Goteborg Bank in Gothenburg and Stockholm from 1926 to 1929, Crocker First National Bank of San Francisco from 1929 to 1930, AB Liljeholmen's cable factory in Stockholm since 1930.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Göran Otto Lybeck",
+        "jobTitle": "Purchasing Manager",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Nockeby"
+        },
+        "birthDate": "1903-08-10",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Stockholm"
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Admiral Otto L"
+            },
+            {
+                "@type": "Person",
+                "name": "Hilda Hildegard Boström",
+                "jobTitle": "Homemaker"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Annalisa Elfström"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "studies",
+                "educationalLevel": "HighSchool",
+                "educationalCredentialAwarded": "Studex",
+                "awardingInstitution": "Stockholm Secondary School",
+                "startDate": "1923"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "studies",
+                "educationalLevel": "Bachelor's",
+                "educationalCredentialAwarded": "Economics",
+                "awardingInstitution": "Stockholm School of Economics",
+                "startDate": "1926"
+            }
+        ],
+        "employment": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1926",
+                "endDate": "1929",
+                "roleName": "Employed",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Goteborg Bank",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Gothenburg"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1929",
+                "endDate": "1930",
+                "roleName": "Employed",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Crocker First National Bank of San Francisco",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "San Francisco"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1930",
+                "roleName": "Employed",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Liljeholmens kabelfabr",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm"
+                    }
+                }
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Purchasing Manager",
+                "workplace": "Nockeby",
+                "industry": "Unknown",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Goteborg Bank",
+                "industry": "Banking",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Stockholm Bank",
+                "industry": "Banking",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Crocker First National Bank of San Francisco",
+                "industry": "Banking",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "AB Liljeholmen's cable factory",
+                "industry": "Manufacturing",
+                "start_date": "1930"
+            }
+        ]
+    }
+}

@@ -1,0 +1,145 @@
+{
+    "original": "MEYEBSON, Gunnar Harry, Civilingenjör, Stockholm, f 21/6 06 av dir J M o Frieda Levin, gm Lisa Engström. Studex 24, KTH 28. Anst AB Th Winborg &amp; Co sed. 28. Ag Väd-desta gård Barkarby, Hällekås Fruktodl, Kivik, Återlöga gård, Ingarö. Led Sv Standar-diser.komm, ind.sakk LK. V. klubbmäst KSSS. Stud.res Tyskl, Ung 28, Frankr 30, Span, Port Nord.Afr 32, Jugoslav, Ital 33. RFinlLejO, FinlRK ftJM, FinlKrMM. Hobby: Kappsegling.",
+    "translated": "MEYEBSON, Gunnar Harry, Civil Engineer, Stockholm, born on June 21, 1906, to Director J M and Frieda Levin, married to Lisa Engström. Graduated in 1924, from KTH in 1928. Employed at AB Th Winborg & Co since 1928. Owns properties in Väddesta estate Barkarby, Hällekås Fruit Orchard, Kivik, Återlöga estate, Ingarö. Member of the Swedish Standards Committee, industrial expert at the Supreme Administrative Court. Vice clubmaster at KSSS. Travelled abroad to study in Germany from 1928, Hungary in 1930, Spain and Portugal in 1932, Yugoslavia and Italy in 1933. Awarded the Royal Finnish Order of the Lion with Officer's Cross, Order of St. Olav of Finland, Medal of the Order of the White Rose of Finland. Hobby: Yacht racing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Gunnar",
+        "familyName": "Meyebson",
+        "birthDate": "1906-06-21",
+        "birthPlace": "Stockholm",
+        "description": "Civil Engineer",
+        "spouse": {
+            "@type": "Person",
+            "givenName": "Lisa",
+            "familyName": "Engström"
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "givenName": "J",
+                "familyName": "Levin",
+                "jobTitle": "Director"
+            },
+            {
+                "@type": "Person",
+                "givenName": "Frieda",
+                "familyName": "Levin"
+            }
+        ],
+        "alumniOf": {
+            "@type": "EducationalOrganization",
+            "name": "KTH",
+            "startDate": "1924",
+            "endDate": "1928"
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "AB Th Winborg & Co",
+            "startDate": "1928"
+        },
+        "owns": [
+            {
+                "@type": "Place",
+                "name": "Väddesta Estate",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Barkarby"
+                }
+            },
+            {
+                "@type": "Place",
+                "name": "Hällekås Fruit Orchard",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Kivik"
+                }
+            },
+            {
+                "@type": "Place",
+                "name": "Återlöga Estate",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Ingarö"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Standards Committee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Supreme Administrative Court",
+                "jobTitle": "Industrial Expert"
+            },
+            {
+                "@type": "Organization",
+                "name": "KSSS",
+                "jobTitle": "Vice Clubmaster"
+            }
+        ],
+        "hasOccupation": {
+            "@type": "Occupation",
+            "name": "Civil Engineer"
+        },
+        "hasStudyAbroad": [
+            {
+                "@type": "Event",
+                "name": "Germany",
+                "startDate": "1928"
+            },
+            {
+                "@type": "Event",
+                "name": "Hungary",
+                "startDate": "1930"
+            },
+            {
+                "@type": "Event",
+                "name": "Spain and Portugal",
+                "startDate": "1932"
+            },
+            {
+                "@type": "Event",
+                "name": "Yugoslavia and Italy",
+                "startDate": "1933"
+            }
+        ],
+        "award": [
+            {
+                "@type": "Order",
+                "name": "Royal Finnish Order of the Lion",
+                "description": "Officer's Cross",
+                "issuer": "Finland"
+            },
+            {
+                "@type": "Order",
+                "name": "Order of St. Olav of Finland",
+                "issuer": "Finland"
+            },
+            {
+                "@type": "Order",
+                "name": "Medal of the Order of the White Rose of Finland",
+                "issuer": "Finland"
+            }
+        ],
+        "hasHobby": "Yacht racing"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "AB Th Winborg & Co",
+                "industry": "Engineering",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Industrial Expert",
+                "workplace": "Supreme Administrative Court",
+                "industry": "Government",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

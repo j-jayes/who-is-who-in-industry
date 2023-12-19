@@ -1,0 +1,54 @@
+{
+    "original": "MALMSTRÖM, John Gabriel, Direktör, Örebro, f öbr 20/10 76. Karolinska lärov öbr. Anst i öbr Expressbyrå (gr 79) 96, deläg o styr.led dess eftr öbr Exnress o Handels AB 21, dir där.",
+    "translated": "MALMSTRÖM, John Gabriel, Director, Örebro, b. 20/10 1876. Karolinska studies completed. Employed at Örebro Express Agency from 1879 to 1896, became a partner and managing director of the company. Director at Örebro Express and Trade AB from 1921.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "John Gabriel Malmström",
+        "birthDate": "1876-10-20",
+        "birthPlace": "Örebro",
+        "description": "Director",
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Karolinska Institute",
+            "description": "Completed studies"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Örebro Express Agency",
+                "startDate": "1879",
+                "endDate": "1896",
+                "employeeOf": "Örebro Express Agency"
+            },
+            {
+                "@type": "Organization",
+                "name": "Örebro Express and Trade AB",
+                "startDate": "1921",
+                "employeeOf": "Örebro Express and Trade AB"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Employee",
+                "workplace": "Örebro Express Agency",
+                "industry": "Express and Trade",
+                "start_date": "1879"
+            },
+            {
+                "occupational_title": "Partner and Managing Director",
+                "workplace": "Örebro Express Agency",
+                "industry": "Express and Trade",
+                "start_date": "1896"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Örebro Express and Trade AB",
+                "industry": "Express and Trade",
+                "start_date": "1921"
+            }
+        ]
+    }
+}

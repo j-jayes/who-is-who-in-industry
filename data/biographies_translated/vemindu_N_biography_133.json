@@ -1,0 +1,90 @@
+{
+    "original": "NORDENGREN, Sven Gunnar, Direktör, Civilingenjör, Landskrona, f Thyfors, Kopparb l, 22/3 90 av bruksförv G N o Amalia Petree, gm Margit Torpson. Civingex 11. Ing v Konst-gödn.AB i Lkrona 12, disp där 25, dir AB Fören suwerf osf .fabr sed. 31. Av trycket: Div tekn upps, diktsaml Thyn (41). LIVA.",
+    "translated": "NORDENGREN, Sven Gunnar, Director, Civil Engineer, Landskrona, born Thyfors, Kopparbergs län (county), March 22, 1890, to factory manager G. N. Nordengren and Amalia Petree, married Margit Torpson. Graduated as a Civil Engineer in 1911. Worked at Konstgödsel AB in Landskrona from 1912, promoted to supervisor in 1925, and became director of AB Förenade Svenska Verkföreningar’s factory in 1931. Published several technical papers and a poetry collection called \"Thyn\" in 1941. Alive (LIVA).",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Sven Gunnar Nordengren",
+        "jobTitle": "Director",
+        "birthDate": "1890-03-22",
+        "birthPlace": {
+            "@type": "Country",
+            "name": "Sweden"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Landskrona"
+        },
+        "father": {
+            "@type": "Person",
+            "name": "G. N. Nordengren",
+            "jobTitle": "Factory Manager"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Amalia Petree"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Margit Torpson"
+        },
+        "education": {
+            "@type": "EducationalOccupationalProgram",
+            "startDate": "1911",
+            "endDate": "1911",
+            "educationalLevel": "Civil Engineer"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Konstgödsel AB"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Förenade Svenska Verkföreningar"
+            }
+        ],
+        "works": [
+            {
+                "@type": "PublicationEvent",
+                "startDate": "1941",
+                "locationCreated": "Landskrona",
+                "name": "Thyn",
+                "isAccessibleForFree": false
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Div tekn upps"
+        },
+        "alive": true
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Factory Manager",
+                "workplace": "Thyfors",
+                "industry": "Unknown",
+                "start_date": "Before 1890"
+            },
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Konstgödsel AB",
+                "industry": "Fertilizer",
+                "start_date": "1912"
+            },
+            {
+                "occupational_title": "Supervisor",
+                "workplace": "Konstgödsel AB",
+                "industry": "Fertilizer",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "AB Förenade Svenska Verkföreningar",
+                "industry": "Manufacturing",
+                "start_date": "1931"
+            }
+        ]
+    }
+}

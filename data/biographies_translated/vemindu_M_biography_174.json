@@ -1,0 +1,121 @@
+{
+    "original": "MÖLLGÅRD, John Valfrid, Kontorschef,. Lagan, f Tidan, Skarab l, 28/3 97 av köpro A Magnusson o Abida Larsson, gm Elsa Kjäll-berg. Hdlsinst. Anst i fma A F Holm f Kavlas 15—19, fma Otto Dahlén i Broddetorp 19—21, kassör i Ångbryggeri AB Svea i Filipstad 21—22, bokför i Westergötl Yllefabr AB i Tidan 22—23, kont.chef i Smålands Yllefabrik AB i Lagan sed. 24. Rev i SIF :s Ljungby-avrå o i Berga s :ns kommunalförvaltn. Resor: Tyskl 41. Druidorden.",
+    "translated": "MÖLLGÅRD, John Valfrid, Office manager,. Lagan, born in Tidan, Skaraborg county, March 28th, 1897, to merchant A. Magnusson and Abida Larsson, married to Elsa Kjällberg. Commercial education. Employed at A.F. Holm in Kavlas from 1915 to 1919, at Otto Dahlén in Broddetorp from 1919 to 1921, treasurer at Ångbryggeri AB Svea in Filipstad from 1921 to 1922, bookkeeper at Westergötl Yllefabr AB in Tidan from 1922 to 1923, office manager at Smålands Yllefabrik AB in Lagan since 1924. Member of the SIF union in Ljungby, and served in Berga rural municipality administration. Traveled to Germany in 1941. Member of the Druid Order.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "John Valfrid Möllgård",
+        "givenName": "John Valfrid",
+        "familyName": "Möllgård",
+        "jobTitle": "Office manager",
+        "birthPlace": "Tidan, Skaraborg county",
+        "birthDate": "1897-03-28",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "A. Magnusson"
+            },
+            {
+                "@type": "Person",
+                "name": "Abida Larsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Elsa Kjällberg"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Commercial education"
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Smålands Yllefabrik AB"
+        },
+        "workExperience": [
+            {
+                "@type": "Organization",
+                "name": "A.F. Holm",
+                "startDate": "1915",
+                "endDate": "1919"
+            },
+            {
+                "@type": "Organization",
+                "name": "Otto Dahlén",
+                "startDate": "1919",
+                "endDate": "1921"
+            },
+            {
+                "@type": "Organization",
+                "name": "Ångbryggeri AB Svea",
+                "startDate": "1921",
+                "endDate": "1922",
+                "jobTitle": "Treasurer"
+            },
+            {
+                "@type": "Organization",
+                "name": "Westergötl Yllefabr AB",
+                "startDate": "1922",
+                "endDate": "1923",
+                "jobTitle": "Bookkeeper"
+            },
+            {
+                "@type": "Organization",
+                "name": "Smålands Yllefabrik AB",
+                "startDate": "1924",
+                "jobTitle": "Office manager"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "SIF"
+            },
+            {
+                "@type": "Organization",
+                "name": "Druid Order"
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "Place",
+                "name": "Germany",
+                "startDate": "1941"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Employed",
+                "workplace": "A.F. Holm",
+                "industry": "Unknown",
+                "start_date": "1915"
+            },
+            {
+                "occupational_title": "Employed",
+                "workplace": "Otto Dahlén",
+                "industry": "Unknown",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Treasurer",
+                "workplace": "Ångbryggeri AB Svea",
+                "industry": "Brewery",
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Bookkeeper",
+                "workplace": "Westergötl Yllefabr AB",
+                "industry": "Textile",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Office Manager",
+                "workplace": "Smålands Yllefabrik AB",
+                "industry": "Textile",
+                "start_date": "1924"
+            }
+        ]
+    }
+}

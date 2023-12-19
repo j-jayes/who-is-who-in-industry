@@ -1,0 +1,220 @@
+{
+    "original": "LARSSON, Gustav Ivan, Rektor, Äppelviken, f Kristinehamn 10/5 00 av köpm A G L o Hilma Eriksson, gm Ingeborg Hall. Studex 19. DHS 21. Anst i bk 19. i detaljhdl 22—23, deltid 23—37, hdlslär v Krims stads sk f yr-kesunderv 22—37, v Krims prakt sk 23—37» rekt f Köpmannainst Sthlm sed. 37. Ag villa-fastigh i Äppelv. Led av Krims stadsrev 32 —37, av stadsbibl.styr 35—37 mm. Sekr o kass 1 Sv samf f aff.utbildn sed. 38. Resor: Tyskl 29, 38, Danm 38, Finl 39. Av trycket: Prakt hdlslära (28, 5. uppl 42), Hdlsräkn (40), Redo-visn.fråg rör omsättn.skatten (42), art i tidn Butikskultur, Järnhandl, Möbelvärlden, Tidskr f prakt yrkessk mfl.",
+    "translated": "LARSSON, Gustav Ivan, Principal, Äppelviken, b. Kristinehamn 10/5 00, son of merchant A G L and Hilma Eriksson, married Ingeborg Hall. Graduated high school in 1919. Attended DHS in 1921. Employed in banking from 1919, in retail trade from 1922-1923, part-time from 1923-1937. Trading teacher at Krims city school for vocational education from 1922-1937, at Krims practical school from 1923-1937, principal of the Merchant Institute in Stockholm from 1937. Owns a villa property in Äppelviken. Member of Krims city auditing board from 1932-1937, city library board from 1935-1937, etc. Secretary and treasurer of the Swedish Society for Commercial Education from 1938. Travelled to Germany in 1929 and 1938, Denmark in 1938, Finland in 1939. Publications: Practical Trade Education (1928, 5th edition 1942), Commercial Arithmetic (1940), Questions regarding turnover tax (1942), articles in the magazines Butikskultur, Järnhandl, Möbelvärlden, Practical Vocational School Journal, etc.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Gustav Ivan Larsson",
+        "birthDate": "1900-05-10",
+        "birthPlace": "Kristinehamn, Sweden",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "A G L",
+                "jobTitle": "Merchant"
+            },
+            {
+                "@type": "Person",
+                "name": "Hilma Eriksson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ingeborg Hall"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "HighSchool",
+                "educationalLevel": "Graduated",
+                "endDate": "1919"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "College",
+                "educationalLevel": "DHS",
+                "endDate": "1921"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Rektor",
+                "startDate": "1937",
+                "endDate": null,
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Äppelviken"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Anst i bk",
+                "startDate": "1919",
+                "endDate": null,
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Bank"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "i detaljhdl",
+                "startDate": "1922",
+                "endDate": "1923",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Retail Trade"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "hdlslär",
+                "startDate": "1922",
+                "endDate": "1937",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Krims stads sk"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "v Krims prakt sk",
+                "startDate": "1923",
+                "endDate": "1937",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Krims prakt sk"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "rekt f Köpmannainst Sthlm",
+                "startDate": "1937",
+                "endDate": null,
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Köpmannainst Sthlm"
+                }
+            }
+        ],
+        "owns": [
+            {
+                "@type": "OwnershipInfo",
+                "typeOfGood": {
+                    "@type": "Place",
+                    "name": "Villa"
+                },
+                "ownedFrom": null,
+                "ownedThrough": null,
+                "acquiredFrom": null,
+                "acquiredThrough": null
+            }
+        ],
+        "membership": [
+            {
+                "@type": "Organization",
+                "name": "Krims stadsrev",
+                "startDate": "1932",
+                "endDate": "1937"
+            },
+            {
+                "@type": "Organization",
+                "name": "stadsbibl.styr",
+                "startDate": "1935",
+                "endDate": "1937"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sv samf f aff.utbildn",
+                "startDate": "1938",
+                "endDate": null
+            }
+        ],
+        "workLocation": [
+            {
+                "@type": "Place",
+                "name": "Äppelviken"
+            },
+            {
+                "@type": "Place",
+                "name": "Stockholm"
+            }
+        ],
+        "travel": [
+            {
+                "@type": "Trip",
+                "name": "Germany",
+                "startDate": "1929",
+                "endDate": "1929"
+            },
+            {
+                "@type": "Trip",
+                "name": "Germany",
+                "startDate": "1938",
+                "endDate": "1938"
+            },
+            {
+                "@type": "Trip",
+                "name": "Denmark",
+                "startDate": "1938",
+                "endDate": "1938"
+            },
+            {
+                "@type": "Trip",
+                "name": "Finland",
+                "startDate": "1939",
+                "endDate": "1939"
+            }
+        ],
+        "publications": [
+            "Prakt hdlslära (28, 5. uppl 42)",
+            "Hdlsräkn (40)",
+            "Redo-visn.fråg rör omsättn.skatten (42)",
+            "art i tidn Butikskultur",
+            "Järnhandl",
+            "Möbelvärlden",
+            "Tidskr f prakt yrkessk mfl"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Rektor",
+                "workplace": "Äppelviken",
+                "industry": "Education",
+                "start_date": "1937"
+            },
+            {
+                "occupational_title": "Anst. i bk",
+                "workplace": "Bank",
+                "industry": "Finance",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Detaljhdl",
+                "workplace": "Retail Trade",
+                "industry": "Commerce",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Hdlslär",
+                "workplace": "Krims stads sk",
+                "industry": "Education",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Hdlslär",
+                "workplace": "Krims prakt sk",
+                "industry": "Education",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Rekt",
+                "workplace": "Köpmannainst Sthlm",
+                "industry": "Education",
+                "start_date": "1937"
+            }
+        ]
+    }
+}

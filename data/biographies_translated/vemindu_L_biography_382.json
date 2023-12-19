@@ -1,0 +1,102 @@
+{
+    "original": "LUND, Johan Olof, överingenjör, Bromölla, f Säf snäs, Kopparb l, 31/1 96 av bruksförv J V L o Jeannette Gottliebsson, gm Greta Karlsson. Studex Falun 14, KTH (kemi) 15—48. Lab.kemist v Isaac Westergren &amp; Co :s såp-fabr i Gävle 18—19, lab.kemist o däreft drifts-ing v Höganäs-Billesholms AB 19—23, lab.chef, driftsing o senare övering v AB Iföverken i Bromölla sed. 23. Kommunalflm i Ivetofta 29 —30. Studieresor i europ länd o USA.",
+    "translated": "LUND, Johan Olof, Chief Engineer, Bromölla, b. Säfsnäs, Kopparberg County, January 31, 1896, son of Works Manager J.V.L and Jeannette Gottliebsson, m. Greta Karlsson. Graduated from Falun in 1914, KTH (Chemistry) 1915-1948. Laboratory chemist at Isaac Westergren & Co's soap factory in Gävle 1918-1919, laboratory chemist and later production engineer at Höganäs-Billesholms AB 1919-1923, laboratory manager, production engineer, and later chief engineer at AB Iföverken in Bromölla since 1923. Municipal representative in Ivetofta 1929-1930. Study trips in various European countries and the USA.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Johan Olof Lund",
+        "jobTitle": "Chief Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Bromölla"
+        },
+        "birthDate": "1896-01-31",
+        "birthPlace": "Säfsnäs, Kopparberg County",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "J.V.L. Lund"
+            },
+            {
+                "@type": "Person",
+                "name": "Jeannette Gottliebsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Greta Karlsson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Falun"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Royal Institute of Technology",
+                "courseName": "Chemistry",
+                "startDate": "1915",
+                "endDate": "1948"
+            }
+        ],
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "Isaac Westergren & Co's soap factory",
+                "jobTitle": "Laboratory Chemist",
+                "startDate": "1918",
+                "endDate": "1919",
+                "location": {
+                    "@type": "City",
+                    "name": "Gävle"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Höganäs-Billesholms AB",
+                "jobTitle": "Laboratory Chemist, Production Engineer",
+                "startDate": "1919",
+                "endDate": "1923"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Iföverken",
+                "jobTitle": "Laboratory Manager, Production Engineer, Chief Engineer",
+                "startDate": "1923"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Ivetofta Municipal Council",
+                "startDate": "1929",
+                "endDate": "1930"
+            }
+        ],
+        "sameAs": [
+            "https://www.example.com/johan-olof-lund"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Lab.kemist",
+                "workplace": "Isaac Westergren & Co's soap factory",
+                "industry": "Chemical",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Lab.kemist, drifts-ing",
+                "workplace": "Höganäs-Billesholms AB",
+                "industry": "Manufacturing",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Lab.chef, driftsing",
+                "workplace": "AB Iföverken",
+                "industry": "Manufacturing",
+                "start_date": "1923"
+            }
+        ]
+    }
+}

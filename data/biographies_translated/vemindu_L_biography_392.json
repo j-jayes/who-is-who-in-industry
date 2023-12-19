@@ -1,0 +1,135 @@
+{
+    "original": "LUNDBERG, Holger Augustsson, Civilingenjör, Lidingö, f Upps 4/6 84 av rekt Aug L o Hulda Kellgren, gm Brita Nylén. Fil kand, civingex KTH. Anst Yngeredsfors kraftAB 07—10, El o mek pröfn.anst 10—20, IVA 20—27, eg konsult ing.byrå f värme- o krafttekn sed. 27, Sthlms tekn mell.sk sed. 32, KTH sed. 38. Resor: Danm, Engl, Estl, Lettl, Finl, Norge, Tyskl. Av trycket: Ett 20-t avh o brosch. RVO. Hobby: Motorbåt.",
+    "translated": "LUNDBERG, Holger Augustsson, Civil Engineer, Lidingö, b. Uppsala on April 6, 1884, to Headmaster Aug L and Hulda Kellgren, m. Brita Nylén. Bachelor of Arts, Civil Engineering degree from the Royal Institute of Technology (KTH). Employed at Yngeredsfors Kraft AB from 1907–1910, Electrical and Mechanical Testing Agency from 1910–1920, Royal Swedish Academy of Engineering Sciences (IVA) from 1920–1927, self-employed as a consultant in heating and power technology from 1927, Stockholm Technical Intermediate School from 1932, KTH from 1938. Traveled to Denmark, England, Estonia, Latvia, Finland, Norway, and Germany. Published about twenty articles and brochures. Received the Royal Order of Vasa (RVO). Hobby: Motorboats.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Holger Augustsson Lundberg",
+        "givenName": "Holger",
+        "familyName": "Lundberg",
+        "birthDate": "1884-06-04",
+        "birthPlace": "Uppsala, Sweden",
+        "description": "Civil Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Lidingö",
+            "addressCountry": "Sweden"
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Aug L Lundberg",
+                "jobTitle": "Headmaster"
+            },
+            {
+                "@type": "Person",
+                "name": "Hulda Kellgren"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Brita Nylén"
+        },
+        "alumniOf": {
+            "@type": "CollegeOrUniversity",
+            "name": "Royal Institute of Technology (KTH)",
+            "degree": {
+                "@type": "EducationalDegree",
+                "name": "Bachelor of Arts in Civil Engineering"
+            }
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Yngeredsfors Kraft AB",
+                "startDate": "1907",
+                "endDate": "1910"
+            },
+            {
+                "@type": "Organization",
+                "name": "Electrical and Mechanical Testing Agency",
+                "startDate": "1910",
+                "endDate": "1920"
+            },
+            {
+                "@type": "Organization",
+                "name": "Royal Swedish Academy of Engineering Sciences (IVA)",
+                "startDate": "1920",
+                "endDate": "1927"
+            },
+            {
+                "@type": "Organization",
+                "name": "Consultant in Heating and Power Technology",
+                "startDate": "1927"
+            },
+            {
+                "@type": "Organization",
+                "name": "Stockholm Technical Intermediate School",
+                "startDate": "1932"
+            },
+            {
+                "@type": "Organization",
+                "name": "Royal Institute of Technology (KTH)",
+                "startDate": "1938"
+            }
+        ],
+        "knowsAbout": [
+            "Denmark",
+            "England",
+            "Estonia",
+            "Latvia",
+            "Finland",
+            "Norway",
+            "Germany"
+        ],
+        "publication": [
+            {
+                "@type": "Article",
+                "name": "Twenty articles and brochures"
+            }
+        ],
+        "awards": [
+            {
+                "@type": "Order",
+                "name": "Royal Order of Vasa (RVO)"
+            }
+        ],
+        "sameAs": [
+            "Hobby: Motorboats"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Yngeredsfors Kraft AB",
+                "industry": "Power generation",
+                "start_date": "1907"
+            },
+            {
+                "occupational_title": "Electrical and Mechanical Testing Agent",
+                "workplace": "El o mek pröfn.anst",
+                "industry": "Testing and inspection",
+                "start_date": "1910"
+            },
+            {
+                "occupational_title": "Consultant",
+                "workplace": "Self-employed",
+                "industry": "Engineering",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Instructor",
+                "workplace": "Stockholm Technical Intermediate School",
+                "industry": "Education",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Instructor",
+                "workplace": "KTH",
+                "industry": "Education",
+                "start_date": "1938"
+            }
+        ]
+    }
+}

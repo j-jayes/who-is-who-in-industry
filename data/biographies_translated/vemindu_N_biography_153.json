@@ -1,0 +1,86 @@
+{
+    "original": "NORDIN, Axel Robert, Civilingenjör, Ektorp, f Upps 13/6 85 av skollär P N o Kerstin Jonson, gm Selma Andersson. Mog.ex Sthlm 05, KTH (maskinbyggn o mek) 07—10. Ing v AB Diesels Motorer 10—17 o v AB Atlas Diesel sed. 17.",
+    "translated": "NORDIN, Axel Robert, Civil Engineer, Ektorp, born in Uppsala on June 13th, 1885, to schoolteacher P N and Kerstin Jonson, married to Selma Andersson. Earned a degree from Stockholm University in 1905 and from the Royal Institute of Technology (mechanical engineering) in 1907-1910. Worked at AB Diesels Motorer from 1910 to 1917, and at AB Atlas Diesel since 1917..",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Axel Robert NORDIN",
+        "birthDate": "1885-06-13",
+        "birthPlace": "Uppsala",
+        "description": "Civil Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Ektorp"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "P N Jonson",
+                "jobTitle": "Schoolteacher"
+            },
+            {
+                "@type": "Person",
+                "name": "Kerstin Jonson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Selma Andersson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Degree",
+                "educationalLevel": "Bachelor's Degree",
+                "educationalProgram": "Engineering",
+                "institution": {
+                    "@type": "CollegeOrUniversity",
+                    "name": "Stockholm University"
+                },
+                "startDate": "1905",
+                "endDate": "1905"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Degree",
+                "educationalLevel": "Bachelor's Degree",
+                "educationalProgram": "Mechanical Engineering",
+                "institution": {
+                    "@type": "CollegeOrUniversity",
+                    "name": "Royal Institute of Technology"
+                },
+                "startDate": "1907",
+                "endDate": "1910"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "AB Diesels Motorer",
+                "startDate": "1910",
+                "endDate": "1917"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Atlas Diesel",
+                "startDate": "1917"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "AB Diesels Motorer",
+                "industry": "Engineering",
+                "start_date": "1910"
+            },
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "AB Atlas Diesel",
+                "industry": "Engineering",
+                "start_date": "1917"
+            }
+        ]
+    }
+}

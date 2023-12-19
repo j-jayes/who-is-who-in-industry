@@ -1,0 +1,106 @@
+{
+    "original": "LARSSON, Gustaf Hjalmar, Civilingenjör, Vänersborg, f Vbg 9/2 03 av rep A J L o Alma Aurell, gm Rachel Söderbom. Studex, ingex CTH (maskinbyggn). Anst Husqv va-penfabr AB 27—28, A Joh Larssons maskinaff Vbg sed. 28, nu deläg i denna. Styr.led Fabr- 0 hantv.frn i Vbg, styr.suppl sparbkn. Styr.led Vbgs stads lärl- o yrkessk.",
+    "translated": "LARSSON, Gustaf Hjalmar, Civil Engineer, Vänersborg, born in Vbg (Vänersborg) on 9/2 1903, son of rep (representative) A J L and Alma Aurell, married to Rachel Söderbom. Graduated from high school and engineering school (maskinbyggn) at CTH (Chalmers University of Technology). Employed at Husqv va-penfabr AB from 1927 to 1928, and in A Joh Larssons maskinaff in Vänersborg since 1928, now part-owner of this business. Serving on the board of directors of Fabr- 0 hantv.frn (a local manufacturing and trades association) in Vänersborg and as board substitute of the savings bank. Also serving on the board of directors of Vänersborg's apprenticeship and vocational school.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Gustaf Hjalmar Larsson",
+        "birthDate": "1903-02-09",
+        "birthPlace": "Vänersborg",
+        "description": "Civil Engineer",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "A J L",
+                "description": "Father"
+            },
+            {
+                "@type": "Person",
+                "name": "Alma Aurell",
+                "description": "Mother"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Rachel Söderbom"
+        },
+        "education": [
+            {
+                "@type": "HighSchool",
+                "name": "Graduated from high school"
+            },
+            {
+                "@type": "CollegeOrUniversity",
+                "name": "Chalmers University of Technology",
+                "degree": "Civil Engineering"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Husqv va-penfabr AB",
+                "startDate": "1927",
+                "endDate": "1928",
+                "position": "Employee"
+            },
+            {
+                "@type": "Organization",
+                "name": "A Joh Larssons maskinaff",
+                "startDate": "1928",
+                "position": "Part-owner"
+            },
+            {
+                "@type": "Organization",
+                "name": "Fabr- 0 hantv.frn",
+                "description": "Local manufacturing and trades association",
+                "position": "Board of Directors",
+                "location": "Vänersborg"
+            },
+            {
+                "@type": "Organization",
+                "name": "savings bank",
+                "description": "Serving as a board substitute",
+                "position": "Board of Directors"
+            },
+            {
+                "@type": "Organization",
+                "name": "Vänersborg's apprenticeship and vocational school",
+                "position": "Board of Directors"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Husqv va-penfabr AB",
+                "industry": "Engineering",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "A Joh Larssons maskinaff",
+                "industry": "Engineering",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Fabr- 0 hantv.frn",
+                "industry": "Manufacturing and Trades Association",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Board Substitute",
+                "workplace": "Savings Bank",
+                "industry": "Finance",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Vänersborg's apprenticeship and vocational school",
+                "industry": "Education",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "original": "LUNDSTRÖM, Hans August, Direktör, Boden, f Heden, Norrb, 15/4 91 av Hans P L o Anna Nyberg, gm Margareta Nilsson. Folksk. Etabl eg träv.fma 20, fam.bol AB Bodens bränsle- &amp; mtrlaff 35, vkst dir f detta. Led överluleå tax.nmd 19, kommun.nmdn 24—25. Resor: Danm 14, Norge 15. Odd Fellow. Hobbies: Hästuppfödning, jakt.",
+    "translated": "LUNDSTRÖM, Hans August, Director, Boden, born in Heden, Norrbotten, on April 15th, 1891, to Hans P L and Anna Nyberg, married to Margareta Nilsson. Completed primary school. Established a wood trading company in 1920, family-owned company AB Bodens bränsle- & mtrlaff in 1935, served as the company's managing director. He was a member of the tax committee of Överluleå in 1919 and the municipal committee in 1924-1925. Traveled to Denmark in 1914 and Norway in 1915. Member of the Odd Fellow society. Hobbies: Horse breeding, hunting.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Hans August Lundström",
+        "birthDate": "1891-04-15",
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Heden, Norrbotten, Sweden"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Hans P L Lundström"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Nyberg"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Margareta Nilsson"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Primary School"
+        },
+        "occupation": [
+            {
+                "@type": "OrganizationRole",
+                "title": "Director",
+                "startDate": "1920",
+                "endDate": null,
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Wood Trading Company"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Managing Director",
+                "startDate": "1935",
+                "endDate": null,
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Bodens bränsle- & mtrlaff"
+                }
+            }
+        ],
+        "affiliation": [
+            {
+                "@type": "Organization",
+                "name": "Tax Committee of Överluleå",
+                "startDate": "1919",
+                "endDate": "1919"
+            },
+            {
+                "@type": "Organization",
+                "name": "Municipal Committee",
+                "startDate": "1924",
+                "endDate": "1925"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Odd Fellow Society"
+            }
+        ],
+        "knowsAbout": [
+            "Horse Breeding",
+            "Hunting"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "AB Bodens bränsle- & mtrlaff",
+                "industry": "Wood Trading",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "AB Bodens bränsle- & mtrlaff",
+                "industry": "Wood Trading",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Member of the Tax Committee",
+                "workplace": "Överluleå",
+                "industry": "Government",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Member of the Municipal Committee",
+                "workplace": "Unknown",
+                "industry": "Government",
+                "start_date": "1924"
+            }
+        ]
+    }
+}

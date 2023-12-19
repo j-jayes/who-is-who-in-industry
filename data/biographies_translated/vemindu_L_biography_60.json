@@ -1,0 +1,140 @@
+{
+    "original": "LARSSON, David, Disponent, Filipstad, f Färnebo, Värml l, 4/9 83. Eft slut skolgång anst v Finshyttans Mek Verkst, v Bergsunds Mek Verkst o Atlas Diesel AB i Sthlm, affärs-anst i Spånga o Duvbo, Sundbyberg, samt affärsförest i Filipstad, förvalt v Nässundets Sågverk, disp f Filipstads Trävaru AB sed. 24. Styr.led i Värml o Dals Trävaruhandl.frn. Led av stdsflm o beredn.utsk, fd led av folk-sk.styr o drätselkamm. Tillhör IOGT, Tempel-riddareorden o Filipstads Missionsförsamling.",
+    "translated": "LARSSON, David, Manager, Filipstad, born in Färnebo, Värmland county, on September 4, 1883. After finishing school, he was employed at Finshyttans Mechanical Workshop, Bergsunds Mechanical Workshop, and Atlas Diesel AB in Stockholm. He worked as a business employee in Spånga and Duvbo, Sundbyberg, as well as a business supervisor in Filipstad. He managed Nässundets Sawmill and became the manager of Filipstads Timber Products AB since 1924. He served on the board of directors for Värmland and Dals Timber Trade Association and was a former member of the people's school board and the finance committee. He was a member of the IOGT (International Order of Good Templars), the Temple Knights Order, and the Filipstad Mission Congregation. Please note that the part '\\d\\d m. partners name' indicates that he got married in the year 19xx, but the partner's name is not mentioned in the provided abbreviation.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "David Larsson",
+        "jobTitle": "Manager",
+        "birthDate": "1883-09-04",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Färnebo",
+                "addressRegion": "Värmland",
+                "addressCountry": "Sweden"
+            }
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "IOGT (International Order of Good Templars)"
+            },
+            {
+                "@type": "Organization",
+                "name": "Temple Knights Order"
+            },
+            {
+                "@type": "Organization",
+                "name": "Filipstad Mission Congregation"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Finshyttans Mechanical Workshop"
+            },
+            {
+                "@type": "Organization",
+                "name": "Bergsunds Mechanical Workshop"
+            },
+            {
+                "@type": "Organization",
+                "name": "Atlas Diesel AB"
+            },
+            {
+                "@type": "Organization",
+                "name": "Spånga and Duvbo"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sundbyberg"
+            },
+            {
+                "@type": "Organization",
+                "name": "Filipstad"
+            },
+            {
+                "@type": "Organization",
+                "name": "Nässundets Sawmill"
+            },
+            {
+                "@type": "Organization",
+                "name": "Filipstads Timber Products AB",
+                "startDate": "1924-01-01"
+            }
+        ],
+        "boardMemberOf": {
+            "@type": "Organization",
+            "name": "Värmland and Dals Timber Trade Association"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "School"
+        },
+        "additionalProperty": [
+            {
+                "@type": "PropertyValue",
+                "name": "IOGT",
+                "value": "Member"
+            },
+            {
+                "@type": "PropertyValue",
+                "name": "Tempel-riddareorden",
+                "value": "Member"
+            },
+            {
+                "@type": "PropertyValue",
+                "name": "Filipstads Missionsförsamling",
+                "value": "Member"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Manager",
+                "workplace": "Filipstad",
+                "industry": "Timber products",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Business Supervisor",
+                "workplace": "Filipstad",
+                "industry": "Unknown",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Business Employee",
+                "workplace": "Spånga and Duvbo, Sundbyberg",
+                "industry": "Unknown",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Nässundets Sawmill",
+                "industry": "Timber products",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Atlas Diesel AB, Stockholm",
+                "industry": "Mechanical",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Bergsunds Mechanical Workshop, Stockholm",
+                "industry": "Mechanical",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Finshyttans Mechanical Workshop",
+                "industry": "Mechanical",
+                "start_date": null
+            }
+        ]
+    }
+}

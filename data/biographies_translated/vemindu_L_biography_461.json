@@ -1,0 +1,97 @@
+{
+    "original": "LUNDSTRÖM, Knut Wilhelm Axel, Bergsingenjör, Göteborg, f Risinge, Ögl l, 26/5 01 av brukskamrer K M W L o Anna Lisa Karlsson, gm Ingela Busck. Studex Sthlm 21, bergsingex KTH 29. Asist i allmän metallografi v KTH 29, lab.ch v Höganäs-Billes-holm AB:s centrallab i Höganäs 29—31, ch.-ing v Glafva Glasbruks AB 31—34, ch f konsult avd f järn- o gruvind v SKF Gbg sed. 34. Resor: Tyskl, Engl, Frankr, Tjeckoslov.",
+    "translated": "LUNDSTRÖM, Knut Wilhelm Axel, Mining Engineer, Gothenburg, born in Risinge, Östergötland county, May 26th, 1901, son of the Works Accountant K M W L and Anna Lisa Karlsson, married to Ingela Busck. Graduated from Stockholm in 1921, Mining Engineer at the Royal Institute of Technology in 1929. Assistant in General Metallography at the Royal Institute of Technology in 1929, Laboratory Chemist at Höganäs-Billesholm AB's central laboratory in Höganäs from 1929 to 1931, Chief Engineer at Glafva Glassworks AB from 1931 to 1934, Chief Consultant in the Iron and Mining Department at SKF Gothenburg from 1934 onwards. Travelled to Germany, England, France, Czechoslovakia.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Knut Wilhelm Axel Lundström",
+        "birthDate": "1901-05-26",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Risinge",
+                "addressRegion": "Östergötland county"
+            }
+        },
+        "nationality": "Swedish",
+        "jobTitle": "Mining Engineer",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Glafva Glassworks AB"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Royal Institute of Technology",
+                "startDate": "1921"
+            },
+            {
+                "@type": "Organization",
+                "name": "Höganäs-Billesholm AB",
+                "startDate": "1929",
+                "endDate": "1931"
+            },
+            {
+                "@type": "Organization",
+                "name": "SKF Gothenburg",
+                "startDate": "1934"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ingela Busck"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "degree",
+            "description": "Studied Mining Engineering",
+            "educationalLevel": "Bachelor's Degree",
+            "educationalCredentialAwarded": "Mining Engineer",
+            "provider": {
+                "@type": "Organization",
+                "name": "Royal Institute of Technology",
+                "location": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm"
+                }
+            },
+            "startDate": "1921",
+            "endDate": "1929"
+        },
+        "travel": [
+            "Germany",
+            "England",
+            "France",
+            "Czechoslovakia"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Assistant in General Metallography",
+                "workplace": "Royal Institute of Technology",
+                "industry": "Education/Research",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Laboratory Chemist",
+                "workplace": "Höganäs-Billesholm AB",
+                "industry": "Metallurgy",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Chief Engineer",
+                "workplace": "Glafva Glassworks AB",
+                "industry": "Glass manufacturing",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Chief Consultant in the Iron and Mining Department",
+                "workplace": "SKF Gothenburg",
+                "industry": "Manufacturing",
+                "start_date": "1934"
+            }
+        ]
+    }
+}

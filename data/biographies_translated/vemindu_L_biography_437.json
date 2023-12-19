@@ -1,0 +1,84 @@
+{
+    "original": "LUNDIN, Sven Gustaf Wilhelm, Civilingenjör, Äppelviken, f Sthlm 11/12 07 av snick G H L o Anna Sjöberg, gm Stina-Cajsa Broström. KTH (kemi) 29—33. Anst v Barnängens Tekn Fabrikers AB i Sthlm 33—37, v Fabriken Tomten i Gbg 37—42 o v Kema-Bolagen i Sthlm sed. 42.",
+    "translated": "LUNDIN, Sven Gustaf Wilhelm, Civil Engineer, Äppelviken, b Stockholm 11/12 07, son of carpenter G H L and Anna Sjöberg, married to Stina-Cajsa Broström. Studied chemistry at KTH (Royal Institute of Technology) from 1929 to 1933. Employed at Barnängens Tekn Fabrikers AB in Stockholm from 1933 to 1937, at Fabriken Tomten in Gothenburg from 1937 to 1942, and at Kema-Bolagen in Stockholm since 1942.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Sven Gustaf Wilhelm Lundin",
+        "birthDate": "1907-12-11",
+        "birthPlace": "Stockholm, Sweden",
+        "description": "Civil Engineer",
+        "spouse": {
+            "@type": "Person",
+            "name": "Stina-Cajsa Broström"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "G H L",
+                "occupation": "Carpenter"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Sjöberg"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Royal Institute of Technology",
+                "location": "Stockholm, Sweden",
+                "startDate": "1929-01-01",
+                "endDate": "1933-01-01",
+                "alumniOf": "KTH"
+            }
+        ],
+        "jobTitle": [
+            "Civil Engineer"
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Barnängens Tekniska Fabrikers AB",
+                "location": "Stockholm, Sweden",
+                "startDate": "1933-01-01",
+                "endDate": "1937-01-01"
+            },
+            {
+                "@type": "Organization",
+                "name": "Fabriken Tomten",
+                "location": "Gothenburg, Sweden",
+                "startDate": "1937-01-01",
+                "endDate": "1942-01-01"
+            },
+            {
+                "@type": "Organization",
+                "name": "Kema-Bolagen",
+                "location": "Stockholm, Sweden",
+                "startDate": "1942-01-01"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Barnängens Tekn Fabrikers AB",
+                "industry": "Chemical",
+                "start_date": "1933"
+            },
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Fabriken Tomten",
+                "industry": "Chemical",
+                "start_date": "1937"
+            },
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Kema-Bolagen",
+                "industry": "Chemical",
+                "start_date": "1942"
+            }
+        ]
+    }
+}

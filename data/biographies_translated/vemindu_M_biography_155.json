@@ -1,0 +1,95 @@
+{
+    "original": "MAKS, Erik, överingenjör, Stocksund, f Rättvik 1/10 86 av hemm.äg Mars Jon Jonsson o Anna Andersdtr. CTL (V o V) 08—12. Anst v Cedar Rapid Mfg &amp; Power Co i Montreal Canada 12—15, v AB Skånska Cement-gjuteriet i Malmö 16—18, arb.ch f Sydsv Kraft AB:s vattenkraftanläggn i Skogaby, Karsefors o Laholm 18—31, övering v samma bol i Malmö 31—34. övering v Sv Entreprenad AB kraftverksbyggn i Kegums, Lettland, 36—37. Nu inneh av Ing.fman Erik Mars, Stocksund.",
+    "translated": "MAKS, Erik, chief engineer, Stocksund, born in Rättvik on October 1, 1886, to home owner Mars Jon Jonsson and Anna Andersdtr. Married to CTL (W and W) 1908-1912. Employed at Cedar Rapid Mfg & Power Co in Montreal, Canada, 1912-1915. Employed at AB Skånska Cement-gjuteriet in Malmö, 1916-1918. Worked as a laborer for Sydsv Kraft AB's hydroelectric power plants in Skogaby, Karsefors, and Laholm, 1918-1931. Promoted to chief engineer in the same company in Malmö, 1931-1934. Promoted to chief engineer at Sv Entreprenad AB for power plant construction in Kegums, Latvia, 1936-1937. Currently, owner of Engineering firm Erik Mars, Stocksund.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "MAKS, Erik",
+        "jobTitle": "chief engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stocksund"
+        },
+        "birthDate": "1886-10-01",
+        "parents": {
+            "@type": "Person",
+            "father": "Mars Jon Jonsson",
+            "mother": "Anna Andersdtr"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "CTL",
+            "startDate": "1908-01-01",
+            "endDate": "1912-12-31"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Cedar Rapid Mfg & Power Co",
+                "location": "Montreal, Canada",
+                "startDate": "1912-01-01",
+                "endDate": "1915-12-31"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Skånska Cement-gjuteriet",
+                "location": "Malmö",
+                "startDate": "1916-01-01",
+                "endDate": "1918-12-31"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sydsv Kraft AB",
+                "location": "Skogaby, Karsefors, Laholm",
+                "startDate": "1918-01-01",
+                "endDate": "1931-12-31"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sv Entreprenad AB",
+                "location": "Kegums, Latvia",
+                "startDate": "1936-01-01",
+                "endDate": "1937-12-31"
+            }
+        ],
+        "owns": {
+            "@type": "Organization",
+            "name": "Engineering firm Erik Mars",
+            "location": "Stocksund"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Chief Engineer",
+                "workplace": "Cedar Rapid Mfg & Power Co",
+                "industry": "Manufacturing",
+                "start_date": "1912"
+            },
+            {
+                "occupational_title": "Chief Engineer",
+                "workplace": "AB Skånska Cement-gjuteriet",
+                "industry": "Construction",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Laborer",
+                "workplace": "Sydsv Kraft AB",
+                "industry": "Energy",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Chief Engineer",
+                "workplace": "Sydsv Kraft AB",
+                "industry": "Energy",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Chief Engineer",
+                "workplace": "Sv Entreprenad AB",
+                "industry": "Construction",
+                "start_date": "1936"
+            }
+        ]
+    }
+}

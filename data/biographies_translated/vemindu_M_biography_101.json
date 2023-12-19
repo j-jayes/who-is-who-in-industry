@@ -1,0 +1,109 @@
+{
+    "original": "MELLBERG, August Einar, Kamrer, Malmö, f Västanfors 16/2 96 av arb P A M o Selma Nordström, gm Nelly Persson. Hdlssk. Anst 1 detaljhdl 10—14, Fagersta br AB 15—17, Hellefors br AB 18, AB Iföverken Bromölla 19—29, kamrer Sk Cement AB Malmö sed. 30. Div revisorsuppdrag.",
+    "translated": "MELLBERG, August Einar, Clerk, Malmö, b. Västanfors 16/2 96 to laborer P A M and Selma Nordström, m. Nelly Persson. Elementary school certificate. Employed in retail trade 10—14, Fagersta Steelworks AB 15—17, Hellefors Steelworks AB 18, AB Iföverken Bromölla 19—29, Clerk at Sk Cement AB Malmö since 30. Various auditing assignments.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "August Einar Mellberg",
+        "birthdate": "1896-02-16",
+        "birthPlace": "Västanfors",
+        "description": "Clerk in Malmö",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "P A M"
+            },
+            {
+                "@type": "Person",
+                "name": "Selma Nordström"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Nelly Persson"
+        },
+        "education": "Elementary school certificate",
+        "employment": [
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Retail Trade"
+                },
+                "startDate": "1910",
+                "endDate": "1914"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Fagersta Steelworks AB"
+                },
+                "startDate": "1915",
+                "endDate": "1917"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Hellefors Steelworks AB"
+                },
+                "startDate": "1918",
+                "endDate": "1918"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Iföverken Bromölla"
+                },
+                "startDate": "1919",
+                "endDate": "1929"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Sk Cement AB Malmö"
+                },
+                "startDate": "1930",
+                "endDate": ""
+            }
+        ],
+        "auditingAssignments": "Various"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Clerk",
+                "workplace": "Malmö",
+                "industry": "Retail trade",
+                "start_date": "1910"
+            },
+            {
+                "occupational_title": "Clerk",
+                "workplace": "Fagersta Steelworks AB",
+                "industry": "Steelworks",
+                "start_date": "1915"
+            },
+            {
+                "occupational_title": "Clerk",
+                "workplace": "Hellefors Steelworks AB",
+                "industry": "Steelworks",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Clerk",
+                "workplace": "AB Iföverken Bromölla",
+                "industry": "Unknown",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Clerk",
+                "workplace": "Sk Cement AB Malmö",
+                "industry": "Cement",
+                "start_date": "1930"
+            }
+        ]
+    }
+}

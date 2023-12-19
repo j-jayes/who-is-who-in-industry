@@ -1,0 +1,95 @@
+{
+    "original": "MATTSON-DJOS, Johannes Gustaf-Adolf, Ingenjör, Mora, f Mora 6/11 95 av fabr Jannes M-D o Margit Andersdotter, gm Elsa Larsson. Tekn Elem.sk Örebro 18. Anst AB Marks Kolugn Mora 18, AB LUX Sthlm 30—31, Beus &amp; Mattson AB Mora 20—29 o sed. 31, vkst dir sed. 38, ag dta AB o fastigh.delar i Mora s:n. B &amp; M AB gr av M-D :s far 95, mek verkst m tillv av fin mek art ss skog-sinstr: tillväxtborrar mm samt biljettkontrolltänger f järnv.",
+    "translated": "MATTSON-DJOS, Johannes Gustaf-Adolf, Engineer, Mora, b. Mora 6/11 95, son of factory worker Jannes M-D and Margit Andersdotter, married to Elsa Larsson. Technical Elementary School Örebro 18. Employed at AB Marks Kolugn Mora 18, AB LUX Stockholm 30-31, Beus & Mattson AB Mora 20-29 and since 31, became managing director since 38, owns shares in the company and properties in Mora parish. B & M AB founded by M-D's father in 95, mechanical workshop for production of fine mechanical articles such as forest drills etc., as well as ticket control pliers for railway...",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Johannes Gustaf-Adolf Mattson-Djos",
+        "birthDate": "1895-11-06",
+        "birthPlace": "Mora",
+        "father": {
+            "@type": "Person",
+            "name": "Jannes Mattson-Djos",
+            "occupation": "Factory Worker"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Margit Andersdotter"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Elsa Larsson"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Technical Elementary School Örebro",
+            "startDate": "1918"
+        },
+        "employment": [
+            {
+                "@type": "Organization",
+                "name": "AB Marks Kolugn Mora",
+                "startDate": "1918",
+                "endDate": "1930"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB LUX Stockholm",
+                "startDate": "1930",
+                "endDate": "1931"
+            },
+            {
+                "@type": "Organization",
+                "name": "Beus & Mattson AB Mora",
+                "startDate": "1920",
+                "endDate": "1929"
+            },
+            {
+                "@type": "Organization",
+                "name": "Beus & Mattson AB Mora",
+                "startDate": "1931"
+            }
+        ],
+        "occupation": "Engineer",
+        "owns": [
+            {
+                "@type": "Organization",
+                "name": "B & M AB"
+            },
+            {
+                "@type": "Place",
+                "name": "Properties in Mora Parish"
+            }
+        ],
+        "familyName": "Mattson-Djos",
+        "givenName": "Johannes Gustaf-Adolf"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "AB Marks Kolugn",
+                "industry": "Manufacturing",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "AB LUX",
+                "industry": "Manufacturing",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Beus & Mattson AB",
+                "industry": "Manufacturing",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "Beus & Mattson AB",
+                "industry": "Manufacturing",
+                "start_date": "1938"
+            }
+        ]
+    }
+}

@@ -1,0 +1,237 @@
+{
+    "original": "LYRHOLM, Knut, Kapten, Stockholm, f Grums, Värml, 9/6 91 av led av Riksd l :a kammare, majoren o bruksdisp K Larsson o Therese Lyrholm, gm (1) Hjördis Lundberg (d), (2) Ester Berggren. Studex 09, KTH (V o V) 15, resoffex Karlb 11, intr.ex VVK 16, löjtn där 20 o kapt 28, HHS 20—23. Anst AB Vattenbyggn.byr 15, K Preuss Minist d off Arb 16, sekr Sv arb.giv.frn 18, disp Borgviks AB 19, vkst dir AB Sv Trävarutidning 23. v. vkst dir 27 o vkst dir 35 i AB J Grundström samt AB F Witte &amp; Co. Styr.led i fi bol. Ordf Borgviks kom.stämma 19. Resor: Tyskl, Frankr, Engl, Schweiz, Ital mfl länd v öl tillf 16—40. Av trycket: Sv:s flottleder (m karta), tidn- o tidskr.art. RVO, Ing. I:s ftJM, Fältrittkl:s ftJM. Hobby: Älgjakt m gråhund.",
+    "translated": "LYRHOLM, Knut, Captain, Stockholm, born in Grums, Värmland, on June 9, 1891, son of the former Member of Parliament, Major, and Director K. Larsson and Therese Lyrholm, married (1) Hjördis Lundberg (deceased), (2) Ester Berggren. Graduated in 1909, from the Royal Institute of Technology (Civil Engineering) in 1915, reserve officer at Karlsborg in 1911, enrolled at the Military Academy in 1916, promoted to Lieutenant in 1920 and Captain in 1928, attended the Higher Staff College from 1920 to 1923. Employed at the Water Construction Office in 1915, worked for the Prussian Ministry as an official in 1916, secretary of the Swedish Employers Association since 1918, executive director at Borgviks AB in 1919, assistant director of AB Swedish Timber Industry Magazine in 1923. Vice executive director in 1927, and executive director in 1935 at AB J Grundström as well as AB F Witte & Co. Board member of several companies. Chairman of the Borgvik General Assembly in 1919. Traveled to Germany, France, England, Switzerland, Italy, and other countries between 1916 and 1940. Published writings include \"Sweden's Naval Routes\" (with a map) and articles in newspapers and magazines. Awarded the Royal Order of Vasa, Engineer I's Gold Medal, and the Field Equestrian Club's Gold Medal. Hobby: Moose hunting with greyhounds.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Knut Lyrholm",
+        "birthDate": "1891-06-09",
+        "birthPlace": "Grums, Värmland, Sweden",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm",
+            "addressCountry": "Sweden"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "K. Larsson"
+            },
+            {
+                "@type": "Person",
+                "name": "Therese Lyrholm"
+            }
+        ],
+        "spouse": [
+            {
+                "@type": "Person",
+                "name": "Hjördis Lundberg",
+                "deathDate": "unknown"
+            },
+            {
+                "@type": "Person",
+                "name": "Ester Berggren"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "academic degree",
+                "credentialEarned": "Studex 09, KTH (V o V) 15"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "military education",
+                "credentialEarned": "resoffex Karlb 11, intr.ex VVK 16, löjtn där 20 o kapt 28"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "executive education",
+                "credentialEarned": "HHS 20—23"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Vattenbyggn.byr"
+                },
+                "startDate": "1915"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Prussian Ministry"
+                },
+                "startDate": "1916",
+                "endDate": "unknown"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Swedish Employers Association"
+                },
+                "startDate": "1918",
+                "roleName": "Secretary"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Borgviks AB"
+                },
+                "startDate": "1919",
+                "roleName": "Executive Director"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Swedish Timber Industry Magazine"
+                },
+                "startDate": "1923",
+                "roleName": "Assistant Director"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB J Grundström"
+                },
+                "startDate": "1927",
+                "roleName": "Vice Executive Director"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB F Witte & Co"
+                },
+                "startDate": "1935",
+                "roleName": "Executive Director"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Borgvik General Assembly",
+                "roleName": "Chairman"
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "Place",
+                "name": "Germany"
+            },
+            {
+                "@type": "Place",
+                "name": "France"
+            },
+            {
+                "@type": "Place",
+                "name": "England"
+            },
+            {
+                "@type": "Place",
+                "name": "Switzerland"
+            },
+            {
+                "@type": "Place",
+                "name": "Italy"
+            }
+        ],
+        "awards": [
+            {
+                "@type": "Order",
+                "name": "Royal Order of Vasa"
+            },
+            {
+                "@type": "Medal",
+                "name": "Field Equestrian Club's Gold Medal",
+                "description": "Awarded for achievements in equestrian sport"
+            },
+            {
+                "@type": "Medal",
+                "name": "Engineer I's Gold Medal",
+                "description": "Awarded for excellence in engineering"
+            }
+        ],
+        "hobbies": [
+            "Moose hunting with greyhounds"
+        ],
+        "article": [
+            {
+                "@type": "Article",
+                "name": "Sweden's Naval Routes",
+                "description": "Publication about Sweden's navy, including a map"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Captain",
+                "workplace": "Stockholm",
+                "industry": "Military",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Member of Parliament",
+                "workplace": "Riksdagen",
+                "industry": "Politics",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Major",
+                "workplace": "Unknown",
+                "industry": "Military",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Unknown",
+                "industry": "State-owned enterprise",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Official",
+                "workplace": "Prussian Ministry",
+                "industry": "Government",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Secretary",
+                "workplace": "Swedish Employers Association",
+                "industry": "Business association",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Executive Director",
+                "workplace": "Borgviks AB",
+                "industry": "Paper and pulp",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Assistant Director",
+                "workplace": "AB Swedish Timber Industry Magazine",
+                "industry": "Publishing",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Vice Executive Director",
+                "workplace": "AB J Grundström",
+                "industry": "Unknown",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Vice Executive Director",
+                "workplace": "AB F Witte & Co",
+                "industry": "Unknown",
+                "start_date": "1935"
+            }
+        ]
+    }
+}

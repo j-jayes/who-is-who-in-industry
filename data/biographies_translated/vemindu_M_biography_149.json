@@ -1,0 +1,139 @@
+{
+    "original": "MÅNSON, Malte Tage Edvin, Direktör, Linköping, f Valleberga, Malmöh l, 7/3 92 av handl L M o Johanna Persson, gm Margaretha Ljungh. Folksk, tekn forts.sk. Anst mek verkst.branschen v bl a Flygets motorverkst 0 Scania Vabis 06—18, eg fma Malte Månson AB sed. 18. Resor: Ryssl 13—14, Tyskl, Schweiz, Frankr, Holl, Belg, Engl 28—34, USA 35, Finl 40, Frimurare, Odd Fellow, Rotary, F.A.K. mfl. Hobbies: Jakt, segling.",
+    "translated": "MÅNSON, Malte Tage Edvin, Director, Linköping, b. Valleberga, Malmöh l, 7/3 92, son of merchant L. M. and Johanna Persson, m. Margaretha Ljungh. Educated in elementary school and technical continuation school. Employed in the mechanical engineering industry at various companies, including Flygets motorverkst and Scania Vabis, from 1906 to 1918. Established his own company, Malte Månson AB, in 1918. Traveled to Russia in 1913-1914, Germany, Switzerland, France, Netherlands, Belgium, and England from 1928 to 1934, USA in 1935, Finland in 1940. Member of Masonic Lodge, Odd Fellow, Rotary, F.A.K., among others. Hobbies: hunting, sailing.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Malte Tage Edvin MÅNSON",
+        "jobTitle": "Director",
+        "birthPlace": "Valleberga, Malmöh l",
+        "birthDate": "1892-03-07",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "L. M."
+            },
+            {
+                "@type": "Person",
+                "name": "Johanna Persson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Margaretha Ljungh"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "elementary school"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "technical continuation school"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Flygets motorverkst"
+            },
+            {
+                "@type": "Organization",
+                "name": "Scania Vabis"
+            },
+            {
+                "@type": "Organization",
+                "name": "Malte Månson AB",
+                "startDate": "1918"
+            }
+        ],
+        "travels": [
+            {
+                "@type": "TravelAction",
+                "name": "Russia",
+                "startDate": "1913",
+                "endDate": "1914"
+            },
+            {
+                "@type": "TravelAction",
+                "name": "Germany"
+            },
+            {
+                "@type": "TravelAction",
+                "name": "Switzerland"
+            },
+            {
+                "@type": "TravelAction",
+                "name": "France"
+            },
+            {
+                "@type": "TravelAction",
+                "name": "Netherlands"
+            },
+            {
+                "@type": "TravelAction",
+                "name": "Belgium"
+            },
+            {
+                "@type": "TravelAction",
+                "name": "England",
+                "startDate": "1928",
+                "endDate": "1934"
+            },
+            {
+                "@type": "TravelAction",
+                "name": "USA",
+                "startDate": "1935"
+            },
+            {
+                "@type": "TravelAction",
+                "name": "Finland",
+                "startDate": "1940"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Masonic Lodge"
+            },
+            {
+                "@type": "Organization",
+                "name": "Odd Fellow"
+            },
+            {
+                "@type": "Organization",
+                "name": "Rotary"
+            },
+            {
+                "@type": "Organization",
+                "name": "F.A.K."
+            }
+        ],
+        "hobbies": [
+            "hunting",
+            "sailing"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Employee",
+                "workplace": "Flygets motorverkst",
+                "industry": "Mechanical Engineering",
+                "start_date": "1906"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Scania Vabis",
+                "industry": "Mechanical Engineering",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Malte Månson AB",
+                "industry": "Various",
+                "start_date": "1918"
+            }
+        ]
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "original": "MAGNUSSON, Sven Fredrik Hilmer, Sko-handlare, Jönköping, f Sthlm 13/12 03, gm Karin Björk. Anst i skoaff Nykp 15—24, i J G Anderssons Sko- &amp; Läderaff i Ludvika 24—29, inneh fma C A Carlssons Eftr i Jkp sed. 29. Tempelriddare.",
+    "translated": "MAGNUSSON, Sven Fredrik Hilmer, Shoemaker, Jönköping, born in Stockholm on December 13th, 1903, married Karin Björk. Employed in the shoe store Nykp from 1915 to 1924, at J G Andersson's Shoe and Leather store in Ludvika from 1924 to 1929, owned C A Carlsson's business in Jönköping since 1929. Knight Templar.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Sven Fredrik Hilmer Magnusson",
+        "birthDate": "1903-12-13",
+        "birthPlace": "Stockholm",
+        "description": "Shoemaker",
+        "spouse": {
+            "@type": "Person",
+            "name": "Karin Björk"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Nykp",
+                "startDate": "1915",
+                "endDate": "1924",
+                "description": "Shoe Store"
+            },
+            {
+                "@type": "Organization",
+                "name": "J G Anderssons Sko- & Läderaff",
+                "startDate": "1924",
+                "endDate": "1929",
+                "description": "Shoe and Leather Store"
+            },
+            {
+                "@type": "Organization",
+                "name": "C A Carlssons Eftr",
+                "startDate": "1929",
+                "description": "Owned business"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Knight Templar"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Shoemaker",
+                "workplace": "Nykp",
+                "industry": "Shoe Store",
+                "start_date": "1915"
+            },
+            {
+                "occupational_title": "Shoemaker",
+                "workplace": "J G Andersson's Shoe and Leather Store",
+                "industry": "Shoe and Leather Store",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Business Owner",
+                "workplace": "C A Carlsson's business",
+                "industry": "Shoe Store",
+                "start_date": "1929"
+            }
+        ]
+    }
+}

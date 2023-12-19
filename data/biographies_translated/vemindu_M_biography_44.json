@@ -1,0 +1,158 @@
+{
+    "original": "MALMQVIST, Johan David, Fil Lic, Geofysiker, Boliden, f Ärtemark, Älvsb l, 29/7 04 av civ.ing E M o Ester Brinck, gm Li Had-ders. Fil kand Upps 26, fil måg 27, fil lic 29. Aman Upps univ:s min-geolog inst 26—29, delt i El malinletn:s geofysik arb i Rumän 29—30, d:o Tunisien o Marocko 30—31, geol 1 Lauge Kochs ostgrönl.exp 31—34, studieresor Tyskl 30 o 34—35, geofysiker Bolidens gruvAB sed. 35. Av trycket: Ett 10-t vetensk skr i mineralog, petrograf o geofysikal fråg. Konungens av Danm o Isl ftjSM, IVA BrinellM.",
+    "translated": "MALMQVIST, Johan David, Ph.D., Geophysicist, Boliden, born in Ärtemark, Älvsborg county, on July 29, 1904, son of civil engineer E.M. and Ester Brinck, married to Li Hadders. Bachelor of Arts, Uppsala 1926, Master of Arts 1927, Ph.D. 1929. Assistant at the Uppsala University Mineralogical Institute 1926—1929, participated in the East Mali Inlet Geophysical Work in Romania 1929—1930, Tunisia and Morocco 1930—1931, geologist on Lauge Koch's East Greenland Expedition 1931—1934, study trips to Germany in 1930 and 1934—1935, geophysicist at Boliden Mining Company since 1935. Published about ten scientific papers in mineralogy, petrography, and geophysics. Recipient of the Order of the Polar Star from the King of Denmark and Iceland, member of the Royal Swedish Academy of Engineering Sciences, Brinell Medal from IVA.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Johan",
+        "familyName": "Malmqvist",
+        "birthDate": "1904-07-29",
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Ärtemark, Älvsborg county"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "givenName": "E.M.",
+                "familyName": "Malmqvist",
+                "jobTitle": "Civil Engineer"
+            },
+            {
+                "@type": "Person",
+                "givenName": "Ester",
+                "familyName": "Brinck"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "givenName": "Li",
+            "familyName": "Hadders"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "masters",
+                "credentialSubject": {
+                    "@type": "EducationalOccupationalProgram",
+                    "name": "Bachelor of Arts"
+                },
+                "provider": {
+                    "@type": "EducationalOrganization",
+                    "name": "Uppsala University"
+                },
+                "credentialEarned": {
+                    "@type": "EducationalOccupationalCredential",
+                    "credentialCategory": "masters",
+                    "credentialSubject": {
+                        "@type": "EducationalOccupationalProgram",
+                        "name": "Master of Arts"
+                    }
+                }
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "doctoral",
+                "credentialSubject": {
+                    "@type": "EducationalOccupationalProgram",
+                    "name": "Ph.D."
+                },
+                "provider": {
+                    "@type": "EducationalOrganization",
+                    "name": "Uppsala University"
+                }
+            }
+        ],
+        "work": {
+            "@type": "OrganizationRole",
+            "roleName": "Geophysicist",
+            "startDate": "1935",
+            "endDate": "",
+            "namedPosition": "Boliden Mining Company"
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Boliden Mining Company"
+        },
+        "affiliation": [
+            {
+                "@type": "Organization",
+                "name": "Uppsala University",
+                "subOrganization": {
+                    "@type": "Organization",
+                    "name": "Mineralogical Institute"
+                },
+                "startDate": "1926",
+                "endDate": "1929",
+                "roleName": "Assistant"
+            },
+            {
+                "@type": "Organization",
+                "name": "East Mali Inlet Geophysical Work",
+                "startDate": "1929",
+                "endDate": "1931",
+                "roleName": "Participant"
+            },
+            {
+                "@type": "Organization",
+                "name": "Lauge Koch's East Greenland Expedition",
+                "startDate": "1931",
+                "endDate": "1934",
+                "roleName": "Geologist"
+            }
+        ],
+        "studyTour": [
+            "Germany - 1930",
+            "Germany - 1934"
+        ],
+        "awards": [
+            {
+                "@type": "Order",
+                "name": "Order of the Polar Star",
+                "from": {
+                    "@type": "Person",
+                    "name": "King of Denmark and Iceland"
+                }
+            },
+            {
+                "@type": "Award",
+                "name": "Brinell Medal",
+                "awardedBy": {
+                    "@type": "Organization",
+                    "name": "IVA (Royal Swedish Academy of Engineering Sciences)"
+                }
+            }
+        ],
+        "publication": [
+            "About ten scientific papers in mineralogy, petrography, and geophysics."
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Assistant",
+                "workplace": "Uppsala University Mineralogical Institute",
+                "industry": "Education",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Participant",
+                "workplace": "East Mali Inlet Geophysical Work",
+                "industry": "Research",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Geologist",
+                "workplace": "Lauge Koch's East Greenland Expedition",
+                "industry": "Research",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Geophysicist",
+                "workplace": "Boliden Mining Company",
+                "industry": "Mining",
+                "start_date": "1935"
+            }
+        ]
+    }
+}

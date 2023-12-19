@@ -1,0 +1,123 @@
+{
+    "original": "LOOHAGEN, Manfred Bourghardt, Kapten, Stockholm, f Markaryd, Kronob l, 22/3 95 av Sven Lundin o h h Beiiedikta Börjesson. Studex, Offex, AIHS allm o h kurser, KTH (bergs-linj). Off på stat 17—25, kontrolloff v Art.-dep 25, off på friv övgst fr 26. Dir v Apotekarnas kem lab AB Sthlm 26—31, v. vkst dir AB A Lindahls fabriker Sthlm 32—42, vkst dir o styr.led i Mekania AB Sthlm fr 43.",
+    "translated": "LOOHAGEN, Manfred Bourghardt, Captain, Stockholm, b. Markaryd, Kronob l, 22/3 1895, son of Sven Lundin and Benedikta Börjesson. Studied at Stockholm University, Royal Institute of Technology, and took various courses. Employed by the state from 1917 to 1925, served as a control officer at the Artillery Department in 1925. Joined voluntary military exercises from 1926. Director of Apotekarnas kem lab AB in Stockholm from 1926 to 1931, and then became deputy director of AB A Lindahls fabriker in Stockholm from 1932 to 1942. Also held the position of deputy director and board member at Mekania AB in Stockholm from 1943 onwards.\n\nNote: The abbreviation 'f' stands for 'born' and 'v' stands for 'deputy'.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Manfred Bourghardt Loohagen",
+        "jobTitle": "Captain",
+        "birthPlace": "Markaryd, Kronob l",
+        "birthDate": "1895-03-22",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Sven Lundin",
+                "jobTitle": "Father"
+            },
+            {
+                "@type": "Person",
+                "name": "Benedikta Börjesson",
+                "jobTitle": "Mother"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Stockholm University"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Royal Institute of Technology"
+            }
+        ],
+        "alumniOf": "Royal Institute of Technology",
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "GovernmentOrganization",
+                    "name": "State"
+                },
+                "startDate": "1917",
+                "endDate": "1925",
+                "roleName": "Employed"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "GovernmentOrganization",
+                    "name": "Artillery Department"
+                },
+                "startDate": "1925",
+                "endDate": "1925",
+                "roleName": "Control Officer"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "GovernmentOrganization",
+                    "name": "Voluntary Military Exercises"
+                },
+                "startDate": "1926",
+                "roleName": "Deputy"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Corporation",
+                    "name": "Apotekarnas kem lab AB"
+                },
+                "startDate": "1926",
+                "endDate": "1931",
+                "roleName": "Director"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Corporation",
+                    "name": "AB A Lindahls fabriker"
+                },
+                "startDate": "1932",
+                "endDate": "1942",
+                "roleName": "Deputy Director"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Corporation",
+                    "name": "Mekania AB"
+                },
+                "startDate": "1943",
+                "roleName": "Deputy Director and Board Member"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Captain",
+                "workplace": "Stockholm",
+                "industry": "Military",
+                "start_date": "N/A"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Apotekarnas kem lab AB",
+                "industry": "Chemical Laboratory",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Deputy Director",
+                "workplace": "AB A Lindahls fabriker",
+                "industry": "Manufacturing",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Deputy Director",
+                "workplace": "Mekania AB",
+                "industry": "Engineering",
+                "start_date": "1943"
+            }
+        ]
+    }
+}

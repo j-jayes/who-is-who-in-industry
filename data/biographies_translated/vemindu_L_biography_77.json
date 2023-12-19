@@ -1,0 +1,74 @@
+{
+    "original": "LARSSON, Ivar Olof Josef, överingenjör, Lindesberg, f Gävle 22/1 13 av kassör E Larsson o Sigrid Dybeck, gm Kristina Larsson, öbr tekn gymn 33. Anst Gavleverken 35, Berg &amp; Co mek verkst AB, Ldb, sed. 35. Resor: Engl 29, Tyskl 38.",
+    "translated": "LARSSON, Ivar Olof Josef, Chief Engineer, Lindesberg, b Gävle 22/1 1913, son of treasurer E Larsson and Sigrid Dybeck, married to Kristina Larsson, trained as a technical gymnast in 1933. Employed at Gavleverken from 1935, Berg & Co Mechanical Workshop AB since 1935. Travelled to England in 1929 and to Germany in 1938.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Ivar Olof Josef Larsson",
+        "birthDate": "1913-01-22",
+        "birthPlace": "Gävle",
+        "description": "Chief Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Lindesberg"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "E Larsson",
+                "jobTitle": "Treasurer"
+            },
+            {
+                "@type": "Person",
+                "name": "Sigrid Dybeck"
+            }
+        ],
+        "spouse": "Kristina Larsson",
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Technical Gymnast",
+            "educationalLevel": "Advanced",
+            "dateCreated": "1933"
+        },
+        "employment": [
+            {
+                "@type": "Organization",
+                "name": "Gavleverken",
+                "startDate": "1935"
+            },
+            {
+                "@type": "Organization",
+                "name": "Berg & Co Mechanical Workshop AB",
+                "startDate": "1935"
+            }
+        ],
+        "travel": [
+            {
+                "@type": "Country",
+                "name": "England",
+                "travelDate": "1929"
+            },
+            {
+                "@type": "Country",
+                "name": "Germany",
+                "travelDate": "1938"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Chief Engineer",
+                "workplace": "Gavleverken",
+                "industry": "Engineering",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Chief Engineer",
+                "workplace": "Berg & Co Mechanical Workshop AB",
+                "industry": "Mechanical Engineering",
+                "start_date": "1935"
+            }
+        ]
+    }
+}

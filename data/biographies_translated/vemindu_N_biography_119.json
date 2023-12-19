@@ -1,0 +1,99 @@
+{
+    "original": "NORBERG, Sven Birger, Försäkringstjänsteman, Göteborg, f Gbg 24/4 92 av sjökapt B N o Ingeborg Edlundh, gm Gunhild Wallman. Realex, Gbg hdlsinst. Anst i sjöf.AB Gau-thiod 10—16, ch f hav.avd h förs.AB Atlantica sed. 16. Resor: Frankr, Holl, Engl årl 99—09, pkr Fylgias långresa Medelh 14. Frimurare (IX), Odd Fellow.",
+    "translated": "NORBERG, Sven Birger, Insurance Official, Gothenburg, born in Gothenburg on April 24th, 1892, son of ship captain B N and Ingeborg Edlundh, married to Gunhild Wallman. Completed secondary education, Gothenburg Trade Institute. Employed at the shipping company AB Gau-thiod from 1910 to 1916, then became head of the maritime department at the insurance company AB Atlantica from 1916 onwards. Traveled to France, the Netherlands, and England annually from 1899 to 1909, and on a long journey to the Mediterranean in 1914. Freemason (IX), Odd Fellow.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Sven Birger Norberg",
+        "birthDate": "1892-04-24",
+        "birthPlace": "Gothenburg",
+        "familyName": "Norberg",
+        "givenName": "Sven Birger",
+        "jobTitle": "Insurance Official",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Gothenburg"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "B N Norberg",
+                "jobTitle": "Ship Captain"
+            },
+            {
+                "@type": "Person",
+                "name": "Ingeborg Edlundh"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Gunhild Wallman"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Gothenburg Trade Institute"
+        },
+        "employment": [
+            {
+                "@type": "Organization",
+                "name": "AB Gau-thiod",
+                "jobTitle": "Employee",
+                "startDate": "1910",
+                "endDate": "1916"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Atlantica",
+                "jobTitle": "Head of Maritime Department",
+                "startDate": "1916"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Freemasons"
+            },
+            {
+                "@type": "Organization",
+                "name": "Odd Fellow"
+            }
+        ],
+        "travels": [
+            "France",
+            "Netherlands",
+            "England",
+            "Mediterranean"
+        ],
+        "travelDates": {
+            "annualTrips": {
+                "startDate": "1899",
+                "endDate": "1909"
+            },
+            "longJourney": {
+                "startDate": "1914"
+            }
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Insurance Official",
+                "workplace": "AB Atlantica",
+                "industry": "Insurance",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Maritime Department Head",
+                "workplace": "AB Atlantica",
+                "industry": "Insurance",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Sailing Company Employee",
+                "workplace": "AB Gau-thiod",
+                "industry": "Shipping",
+                "start_date": "1910"
+            }
+        ]
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "original": "LARSON, Alg-ot, Direktör, Brevik, f Rystad .$3, gm Svea Cristiansson. Anst i fma H de Hanch Höckendorff Sthlm 00—05, i AB Elis Fischers kappfabr.fma sed. 05. Rev i Sv konf.-\"Ind.frb, Sv konf.fabr.frn o Konf.ind.frn. Ag willfastigh i Brevik. PatrstGM. Hobby : Filateli. Filateli.",
+    "translated": "LARSON, Alg-ot, Director, Brevik, born in Rystad. Married to Svea Cristiansson. Employed in H de Hanch Höckendorff Company in Stockholm from 1900 to 1905, then worked in AB Elis Fischers kappfabr Company since 1905. Member of the Swedish Confederation of Industrial Unions, Swedish Textile Workers Union, and the Textile Industry Union. Owns agricultural properties in Brevik. Passionate about philately.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Alg-ot Larson",
+        "jobTitle": "Director",
+        "birthPlace": "Rystad",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "H de Hanch Höckendorff Company",
+                "startDate": "1900-01-01",
+                "endDate": "1905-12-31"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Elis Fischers kappfabr Company",
+                "startDate": "1905-01-01"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Confederation of Industrial Unions",
+                "membershipStartDate": "1900-01-01"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Textile Workers Union"
+            },
+            {
+                "@type": "Organization",
+                "name": "Textile Industry Union"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Svea Cristiansson"
+        },
+        "owns": {
+            "@type": "OwnershipInfo",
+            "ownedFrom": "Brevik"
+        },
+        "hobby": "Filateli"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Brevik",
+                "industry": "",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "H de Hanch Höckendorff Company",
+                "industry": "",
+                "start_date": "1900"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "AB Elis Fischers kappfabr Company",
+                "industry": "",
+                "start_date": "1905"
+            }
+        ]
+    }
+}

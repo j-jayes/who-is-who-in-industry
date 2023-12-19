@@ -1,0 +1,134 @@
+{
+    "original": "MAREI,!,, Oscar Gustaf, Direktör, New York, f Knutby, Sthlms l, 21/2 90 av C G Eriksson o Elin Charlotta Liefvendahl, gra Hazel Anita Hagerty. Studex Sthlm 09. Sekr o vkst dir f Sv hdlskamm i New York 17—18 0 sed. 26; aff.verksamh i Rio o Buenos Aires 19. Medred i Svea, Worcester, Mäss, 13—15, red f The Swed Amer Trade Journal 22—26. Pres f Ass of Secr of Foreign Cliambers of Commerse in the USA 36. RNO, RVO.",
+    "translated": "MAREI, Oscar Gustaf, Director, New York, b. Knutby, Storstockholm County, 21st February 1890, to C G Eriksson and Elin Charlotta Liefvendahl. Married Hazel Anita Hagerty. Studied in Stockholm in 1909. Secretary and deputy managing director for the Swedish Chamber of Commerce in New York from 1917 to 1926. Engaged in business activities in Rio de Janeiro and Buenos Aires in 1919. Co-editor of Svea, Worcester, Mäss from 1913 to 1915, and editor of The Swed Amer Trade Journal from 1922 to 1926. President of the Association of Secretaries of Foreign Chambers of Commerce in the USA in 1936. Awarded the Order of the North Star (RNO) and the Order of Vasa (RVO).",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Oscar Gustaf Marei",
+        "birthDate": "1890-02-21",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Knutby",
+            "address": {
+                "@type": "PostalAddress",
+                "addressRegion": "Storstockholm County"
+            }
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "C G Eriksson"
+            },
+            {
+                "@type": "Person",
+                "name": "Elin Charlotta Liefvendahl"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Hazel Anita Hagerty"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Stockholm",
+                "endDate": "1909"
+            }
+        ],
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Chamber of Commerce",
+                "location": {
+                    "@type": "City",
+                    "name": "New York"
+                },
+                "startDate": "1917",
+                "endDate": "1926",
+                "jobTitle": "Secretary and Deputy Managing Director"
+            },
+            {
+                "@type": "Organization",
+                "name": "Rio de Janeiro and Buenos Aires",
+                "startDate": "1919",
+                "jobTitle": "Business Activities"
+            },
+            {
+                "@type": "Organization",
+                "name": "Svea, Worcester, Mäss",
+                "startDate": "1913",
+                "endDate": "1915",
+                "jobTitle": "Co-editor"
+            },
+            {
+                "@type": "Organization",
+                "name": "The Swed Amer Trade Journal",
+                "startDate": "1922",
+                "endDate": "1926",
+                "jobTitle": "Editor"
+            },
+            {
+                "@type": "Organization",
+                "name": "Association of Secretaries of Foreign Chambers of Commerce",
+                "location": {
+                    "@type": "Country",
+                    "name": "USA"
+                },
+                "startDate": "1936",
+                "jobTitle": "President"
+            }
+        ],
+        "award": [
+            {
+                "@type": "Order",
+                "name": "Order of the North Star",
+                "identifier": "RNO"
+            },
+            {
+                "@type": "Order",
+                "name": "Order of Vasa",
+                "identifier": "RVO"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Secretary",
+                "workplace": "Swedish Chamber of Commerce in New York",
+                "industry": "Commerce",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Deputy Managing Director",
+                "workplace": "Swedish Chamber of Commerce in New York",
+                "industry": "Commerce",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Businessperson",
+                "workplace": "Rio de Janeiro, Buenos Aires",
+                "industry": "Various",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Co-editor",
+                "workplace": "Svea, Worcester, Mäss",
+                "industry": "Media",
+                "start_date": "1913"
+            },
+            {
+                "occupational_title": "Editor",
+                "workplace": "The Swed Amer Trade Journal",
+                "industry": "Media",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "President",
+                "workplace": "Association of Secretaries of Foreign Chambers of Commerce in the USA",
+                "industry": "Commerce",
+                "start_date": "1936"
+            }
+        ]
+    }
+}

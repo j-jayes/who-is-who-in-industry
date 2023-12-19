@@ -1,0 +1,87 @@
+{
+    "original": "NORBERG, Knut Fridolf Bernhard, Bankdirektör, Luleå, f Hsand 23/9 94, gm Amy Wikström. Studex Hsand 13. Kamr Sv hdlsbkn Ullånger 17, d :o Vansbro 18, kamr Skand bkn Hsand 19, d:o Luleå 21, dir Södhn 32, Luleå sed. 36. V. distr ordf SvRK, ordf Skid-främj :s Luleåavd.",
+    "translated": "NORBERG, Knut Fridolf Bernhard, Bank Director, Luleå, born in Hassela on September 23, 1894, married to Amy Wikström. Graduated from Hassela School in 1913. Became a member of the Swedish Commerce Bank in Ullånger in 1917, left in Vansbro in 1918, became a member of the Scandinavian Bank in Hassela in 1919, then in Luleå in 1921, and eventually became the director of Södra Norrlands Bank in 1932. Has remained in Luleå since 1936. Vice district chairman of the Swedish Red Cross, Chairman of the Ski Promotion Society's Luleå branch.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Knut Fridolf Bernhard Norberg",
+        "jobTitle": "Bank Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Luleå"
+        },
+        "birthDate": "1894-09-23",
+        "spouse": {
+            "@type": "Person",
+            "name": "Amy Wikström"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Hassela School",
+            "location": "Hassela",
+            "startDate": "1913"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Commerce Bank",
+                "startDate": "1917",
+                "endDate": "1918",
+                "location": "Ullånger"
+            },
+            {
+                "@type": "Organization",
+                "name": "Scandinavian Bank",
+                "startDate": "1919",
+                "endDate": "1920",
+                "location": "Hassela"
+            },
+            {
+                "@type": "Organization",
+                "name": "Scandinavian Bank",
+                "startDate": "1921"
+            },
+            {
+                "@type": "Organization",
+                "name": "Södra Norrlands Bank",
+                "startDate": "1932"
+            }
+        ],
+        "districtChairman": {
+            "@type": "Organization",
+            "name": "Swedish Red Cross"
+        },
+        "chairman": {
+            "@type": "Organization",
+            "name": "Ski Promotion Society"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Bank Director",
+                "workplace": "Södra Norrlands Bank, Luleå",
+                "industry": "Banking",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Member",
+                "workplace": "Scandinavian Bank, Luleå",
+                "industry": "Banking",
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Member",
+                "workplace": "Swedish Commerce Bank, Vansbro",
+                "industry": "Banking",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Member",
+                "workplace": "Swedish Commerce Bank, Ullånger",
+                "industry": "Banking",
+                "start_date": "1917"
+            }
+        ]
+    }
+}

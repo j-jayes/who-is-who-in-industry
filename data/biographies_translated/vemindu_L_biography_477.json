@@ -1,0 +1,79 @@
+{
+    "original": "LÖFBERG, Sten Harald, Direktör, Stockholm, f Sthlm 17/8 02 av grossh Harald L o h h, gm (2) Kerstin Wahlén. Studex Sthlm 20, merkantila stud i Tyskl, Engl o Frankr 22—23. Inträdde i fma Harald Löfberg i Sthlm 23, vkst dir där fr fmans ombild t AB 25 t o m 43.",
+    "translated": "LÖFBERG, Sten Harald, Director, Stockholm, b Stockholm 17/8 02, son of merchant Harald L and his wife (name not mentioned), married (2) Kerstin Wahlén. Graduated from Stockholm University in 1920, studied commerce in Germany, England, and France from 1922-1923. Joined Harald Löfberg company in Stockholm in 1923, became managing director there from the company's restructuring as AB 1925 until 1943.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Sten Harald LÖFBERG",
+        "birthDate": "1902-08-17",
+        "birthPlace": "Stockholm",
+        "father": {
+            "@type": "Person",
+            "name": "Harald LÖFBERG",
+            "occupation": "Merchant"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "[Name not mentioned]"
+        },
+        "spouse": [
+            {
+                "@type": "Person",
+                "name": "Kerstin Wahlén"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Stockholm University",
+                "location": "Stockholm",
+                "startDate": "1920",
+                "endDate": "1920"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Germany",
+                "location": "Germany",
+                "startDate": "1922",
+                "endDate": "1923"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "England",
+                "location": "England",
+                "startDate": "1922",
+                "endDate": "1923"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "France",
+                "location": "France",
+                "startDate": "1922",
+                "endDate": "1923"
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Harald Löfberg",
+            "location": "Stockholm",
+            "startDate": "1923",
+            "endDate": "1943"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Harald Löfberg company",
+                "industry": "Unknown",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "Harald Löfberg company (restructured as AB)",
+                "industry": "Unknown",
+                "start_date": "1925"
+            }
+        ]
+    }
+}

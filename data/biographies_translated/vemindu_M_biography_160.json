@@ -1,0 +1,157 @@
+{
+    "original": "MÖLLER, Axel Leonard, Bergsingenjör, Stockholm, f S :t Petersburg, Ryssl, 9/7 94 av grhdl Max M o h h f Wirth, gm Alice Pfund. Studex v Latinsk i Riga 12, dipl ss bergsing v Bergsakad i Freiberg Sa 23. Repres f SvRK, hjälpkomm f krigsfångar, 17; anst v Erda AG i Göttingen 23—25. Styr.led i Baltic Peco AB i Sthlm sed. grund 37. Resor: Finl, Estl, Lettl, Lit, Ryssl, Tyskl, Frankr, Engl, Belg, Holl, Danm, Venezuela, ting, Rumän. Av trycket: Avhandl i Metall u Erz mfl. Tyska o ös-terrRK :s utm.tecken.",
+    "translated": "MÖLLER, Axel Leonard, Mining Engineer, Stockholm, born in St. Petersburg, Russia, 9th July 1894, son of Major Max M and his wife Wirth, married to Alice Pfund. Graduated from the Latin School in Riga in 1912, received a diploma as a mining engineer from the Mining Academy in Freiberg, Saxony in 1923. Representative for the Swedish Red Cross and assistant commissioner for prisoners of war in 1917. Employed by Erda AG in Göttingen from 1923 to 1925. Board member of Baltic Peco AB in Stockholm since its establishment in 1937. Traveled to Finland, Estonia, Latvia, Lithuania, Russia, Germany, France, England, Belgium, the Netherlands, Denmark, Venezuela, and Romania. Published papers on metallurgy and ore. Received decorations from the German and Austro-Hungarian governments.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Axel Leonard Möller",
+        "description": "Mining Engineer",
+        "birthDate": "1894-07-09",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "St. Petersburg",
+                "addressCountry": "Russia"
+            }
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Max M",
+                "jobTitle": "Major"
+            },
+            {
+                "@type": "Person",
+                "name": "Wirth"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Alice Pfund"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Latin School",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Riga"
+                },
+                "endDate": "1912"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Mining Academy in Freiberg",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Freiberg",
+                    "addressRegion": "Saxony",
+                    "addressCountry": "Germany"
+                },
+                "startDate": "1923",
+                "endDate": "1923",
+                "subEvent": {
+                    "@type": "Diploma",
+                    "name": "Mining Engineer"
+                }
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Red Cross",
+                "jobTitle": "Representative",
+                "startDate": "1917",
+                "endDate": "1917"
+            },
+            {
+                "@type": "Organization",
+                "name": "Erda AG",
+                "jobTitle": "Employee",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Göttingen"
+                },
+                "startDate": "1923",
+                "endDate": "1925"
+            },
+            {
+                "@type": "Organization",
+                "name": "Baltic Peco AB",
+                "jobTitle": "Board Member",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm"
+                },
+                "startDate": "1937"
+            }
+        ],
+        "nationality": "Swedish",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Red Cross"
+            }
+        ],
+        "travelHistory": [
+            "Finland",
+            "Estonia",
+            "Latvia",
+            "Lithuania",
+            "Russia",
+            "Germany",
+            "France",
+            "England",
+            "Belgium",
+            "the Netherlands",
+            "Denmark",
+            "Venezuela",
+            "Romania"
+        ],
+        "publication": [
+            "Metallurgy",
+            "Ore"
+        ],
+        "award": [
+            {
+                "@type": "Organization",
+                "name": "German Government",
+                "award": "Decoration"
+            },
+            {
+                "@type": "Organization",
+                "name": "Austro-Hungarian Government",
+                "award": "Decoration"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Representative for the Swedish Red Cross",
+                "workplace": "SvRK",
+                "industry": "Humanitarian",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Assistant Commissioner for Prisoners of War",
+                "workplace": "SvRK",
+                "industry": "Government",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Erda AG",
+                "industry": "Mining",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Baltic Peco AB",
+                "industry": "Engineering",
+                "start_date": "1937"
+            }
+        ]
+    }
+}

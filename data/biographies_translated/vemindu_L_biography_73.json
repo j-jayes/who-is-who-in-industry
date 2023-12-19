@@ -1,0 +1,130 @@
+{
+    "original": "LARSSON, Mårten Henning Bernhard, Grosshandlare, Broaryd, f Södra Hestra, Jön-kp län, 10/11 76 av häradsdomaren L A Haraldsson o h h, gm Selma Carlsson. Eg fma, M H B Larsson &amp; Co, manuf o papper, tryck, stämpelfabr, Broaryd, sed. 94. V. ordf komm.nmd o komm.st, ordf tax.nmd o Davidsonska donat t jordbr i Västbo hd; styr.ordf Gbgsbkns Broarydskont, v. styr.ordf S Hestra past:s sparbk.",
+    "translated": "LARSSON, Mårten Henning Bernhard, Merchant, Broaryd, born in Södra Hestra, Jönköping County, on November 10, 1876, to the district judge L.A Haraldsson and his wife. Married to Selma Carlsson. Owner of the company M.H.B Larsson & Co, manufacturing paper, printing, and stamp factory in Broaryd since 1894. Vice chairman of the municipal committee and municipal council, chairman of the tax committee and the Davidson's donation for agriculture in Västbo district. Chairman of the board of the Gothenburg Bank's Broaryd branch, deputy chairman of the South Hestra savings bank.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Mårten Henning Bernhard Larsson",
+        "birthDate": "1876-11-10",
+        "birthPlace": "Södra Hestra, Jönköping County",
+        "familyName": "Larsson",
+        "givenName": "Mårten Henning Bernhard",
+        "jobTitle": "Merchant",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Broaryd"
+        },
+        "spouse": "Selma Carlsson",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "M.H.B Larsson & Co",
+                "startDate": "1894",
+                "founders": [
+                    {
+                        "@type": "Person",
+                        "name": "Mårten Henning Bernhard Larsson"
+                    }
+                ],
+                "industry": [
+                    "paper manufacturing",
+                    "printing",
+                    "stamp factory"
+                ],
+                "location": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Broaryd"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Gothenburg Bank",
+                "branchOf": {
+                    "@type": "Organization",
+                    "name": "Gothenburg Bank's Broaryd branch"
+                },
+                "jobTitle": "Chairman of the board",
+                "startDate": "unknown"
+            },
+            {
+                "@type": "Organization",
+                "name": "South Hestra savings bank",
+                "jobTitle": "Deputy chairman",
+                "startDate": "unknown"
+            }
+        ],
+        "memberOfGovernment": [
+            {
+                "@type": "Organization",
+                "name": "municipal committee",
+                "jobTitle": "Vice chairman",
+                "startDate": "unknown"
+            },
+            {
+                "@type": "Organization",
+                "name": "municipal council",
+                "jobTitle": "Vice chairman",
+                "startDate": "unknown"
+            },
+            {
+                "@type": "Organization",
+                "name": "tax committee",
+                "jobTitle": "Chairman",
+                "startDate": "unknown"
+            },
+            {
+                "@type": "Organization",
+                "name": "Davidson's donation for agriculture",
+                "jobTitle": "Chairman",
+                "startDate": "unknown",
+                "description": "Västbo district"
+            }
+        ],
+        "relevantOccupation": [
+            {
+                "@type": "Occupation",
+                "name": "Merchant"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "M.H.B Larsson & Co",
+                "industry": "Manufacturing paper, printing, and stamp factory",
+                "start_date": "1894"
+            },
+            {
+                "occupational_title": "Vice Chairman of the Municipal Committee and Municipal Council",
+                "workplace": "N/A",
+                "industry": "N/A",
+                "start_date": "N/A"
+            },
+            {
+                "occupational_title": "Chairman of the Tax Committee",
+                "workplace": "N/A",
+                "industry": "N/A",
+                "start_date": "N/A"
+            },
+            {
+                "occupational_title": "Chairman of the Davidson's Donation for Agriculture",
+                "workplace": "Västbo district",
+                "industry": "Agriculture",
+                "start_date": "N/A"
+            },
+            {
+                "occupational_title": "Chairman of the Board at Gothenburg Bank's Broaryd Branch",
+                "workplace": "Gothenburg Bank's Broaryd branch",
+                "industry": "Banking",
+                "start_date": "N/A"
+            },
+            {
+                "occupational_title": "Deputy Chairman of the South Hestra Savings Bank",
+                "workplace": "South Hestra Savings Bank",
+                "industry": "Banking",
+                "start_date": "N/A"
+            }
+        ]
+    }
+}

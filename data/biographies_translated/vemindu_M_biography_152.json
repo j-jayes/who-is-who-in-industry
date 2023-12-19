@@ -1,0 +1,142 @@
+{
+    "original": "MÅNSSON, Måns Harald, Köpman, Malmö, f Slimminge, Malmöh l, 20/10 87 av lantbr Jöns M o Kerstin Hansdtr, gm Frida Knutsson. Tekn yrkessk i Malmö. Verksam inom byggn.branschen 05—20, grund fma Egna Hems Speceriaffär m avd f bensin o oljor, kol o koks samt tobak o kortvaror 20, grund Harald Månssons Färg- &amp; Kemikaliehandel 27 o filial i Malmö 29, samtl aff inrymda i egna fastigh. Styr.led i Malmö Hdlsfrn 30— 40, rev i Skånes Köpm.frb 34—37 o styr.suppl i dess imderstödsfond. Resor: Tyskl, Engl, Finl o Norge. Odd Fellow, Druidorden.",
+    "translated": "MÅNSSON, Måns Harald, Merchant, Malmö, b. Slimminge, Malmö County, 20/10 1887, son of Jöns M, farmer, and Kerstin Hansdtr, m. Frida Knutsson. Technical vocational school in Malmö. Active in the construction industry from 1905 to 1920, founded Own Home Specialty Store with a department for gasoline and oil, coal and coke, as well as tobacco and sundries in 1920, founded Harald Månsson's Paint and Chemical Shop in 1927 with a branch in Malmö in 1929, all businesses were housed in own properties. Board member of Malmö Trade Association from 1930 to 1940, auditor in Skåne Merchant's Association from 1934 to 1937, and board substitute in its support fund. Traveled to Germany, England, Finland, and Norway. Member of Odd Fellow and Druid Order.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Måns Harald Månsson",
+        "birthDate": "1887-10-20",
+        "birthPlace": "Slimminge, Malmö County",
+        "description": "Merchant active in Malmö",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Jöns Månsson",
+                "occupation": "Farmer"
+            },
+            {
+                "@type": "Person",
+                "name": "Kerstin Hansdtr",
+                "occupation": "Unknown"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Frida Knutsson"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Technical vocational school"
+        },
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Merchant",
+                "startDate": "1905",
+                "endDate": "1920",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Own Home Specialty Store",
+                    "hasOfferCatalog": {
+                        "@type": "OfferCatalog",
+                        "itemListElement": [
+                            {
+                                "@type": "Offer",
+                                "name": "Gasoline and oil"
+                            },
+                            {
+                                "@type": "Offer",
+                                "name": "Coal and coke"
+                            },
+                            {
+                                "@type": "Offer",
+                                "name": "Tobacco and sundries"
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Merchant",
+                "startDate": "1920",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Harald Månsson's Paint and Chemical Shop",
+                    "hasBranch": {
+                        "@type": "Organization",
+                        "name": "Malmö"
+                    }
+                }
+            }
+        ],
+        "affiliation": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Board member",
+                "startDate": "1930",
+                "endDate": "1940",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Malmö Trade Association"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Auditor",
+                "startDate": "1934",
+                "endDate": "1937",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Skåne Merchant's Association"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Board substitute",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Skåne Merchant's Association support fund"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Odd Fellow"
+            },
+            {
+                "@type": "Organization",
+                "name": "Druid Order"
+            }
+        ],
+        "knowsAbout": [
+            "Germany",
+            "England",
+            "Finland",
+            "Norway"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Malmö",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Founder",
+                "workplace": "Egna Hems Speceriaffär",
+                "industry": "Gasoline and oil, coal and coke, tobacco and sundries",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Founder",
+                "workplace": "Harald Månssons Färg- & Kemikaliehandel",
+                "industry": "Paint and chemical",
+                "start_date": "1927"
+            }
+        ]
+    }
+}

@@ -1,0 +1,139 @@
+{
+    "original": "NORDENFELT, Lennart, Bergsingenjör, Försäljningschef, Fagersta, f Sthlm 29/6 97, av överste H Nordenfelt o Ebba Åkerhielm, gm Anna Lisa Zetterquist. Studex Upps 16, prakt v Machinenfabr Siestig o Sack i Dusseldorf 17—18, ex BergsHS 23. Försäljn.ing f SKF Hofors Bruk o AGA i Sydafr 23—25, driftsing v SKF Hofors Bruk 25—28, studieresa t Canada, USA o Mexiko 28, åter ss försälj n.ing v Hofors Br 28—30, v Fagersta Bruks AB 30—33, försäljn.ch där sed. 33. Företag försäljn.res i Canada, USA, Mexiko, Syd- o Nordafr o Europa. Av trycket: Upps ang bergborrstål i facktidskr. Hobby: Segling.",
+    "translated": "NORDENFELT, Lennart, Mining Engineer, Sales Manager, Fagersta, b. Stockholm 29/6 1897, son of Colonel H. Nordenfelt and Ebba Åkerhielm, m. Anna Lisa Zetterquist. Graduated from Uppsala University in 1916, practical training at Machinenfabr Siestig and Sack in Dusseldorf 1917-1918, graduated from BergsHS (School of Mines) in 1923. Sales engineer at SKF Hofors Bruk and AGA in South Africa 1923-1925, operating engineer at SKF Hofors Bruk 1925-1928, study trip to Canada, USA, and Mexico in 1928, resumed sales position at Hofors Bruk 1928-1930, at Fagersta Bruks AB 1930-1933, sales manager there since 1933. Company's sales represented in Canada, USA, Mexico, South and North Africa, and Europe. Mentioned in print: Upps regarding rock drilling steel in trade publication. Hobby: Sailing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Lennart Nordenfelt",
+        "birthDate": "1897-06-29",
+        "birthPlace": "Stockholm",
+        "jobTitle": "Mining Engineer, Sales Manager",
+        "description": "Mining Engineer and Sales Manager, known for his work in rock drilling steel",
+        "parent": {
+            "@type": "Person",
+            "name": "Ebba Åkerhielm"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Anna Lisa Zetterquist"
+        },
+        "alumniOf": {
+            "@type": "EducationalOrganization",
+            "name": "Uppsala University",
+            "alumniOf": {
+                "@type": "Event",
+                "startDate": "1916"
+            }
+        },
+        "workExperience": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1917",
+                "endDate": "1918",
+                "roleName": "Practical training",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Machinenfabr Siestig and Sack",
+                    "location": "Dusseldorf"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1923",
+                "endDate": "1925",
+                "roleName": "Sales engineer",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "SKF Hofors Bruk"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1923",
+                "endDate": "1925",
+                "roleName": "Sales engineer",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AGA",
+                    "location": "South Africa"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1925",
+                "endDate": "1928",
+                "roleName": "Operating engineer",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "SKF Hofors Bruk"
+                }
+            },
+            {
+                "@type": "Event",
+                "startDate": "1928",
+                "endDate": "1928",
+                "name": "Study trip to Canada, USA, and Mexico"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1928",
+                "endDate": "1930",
+                "roleName": "Sales engineer",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Hofors Bruk"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1930",
+                "endDate": "1933",
+                "roleName": "Sales manager",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Fagersta Bruks AB",
+                    "location": "Fagersta"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1933",
+                "roleName": "Sales manager",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Fagersta Bruks AB",
+                    "location": "Fagersta"
+                }
+            }
+        ],
+        "additionalName": "Bergsingenjör"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Mining Engineer",
+                "workplace": "Machinenfabr Siestig and Sack",
+                "industry": "Machinery Manufacturing",
+                "start_date": "1917-1918"
+            },
+            {
+                "occupational_title": "Sales Engineer",
+                "workplace": "SKF Hofors Bruk and AGA",
+                "industry": "Manufacturing",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Operating Engineer",
+                "workplace": "SKF Hofors Bruk",
+                "industry": "Manufacturing",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Sales Manager",
+                "workplace": "Fagersta Bruks AB",
+                "industry": "Manufacturing",
+                "start_date": "1933"
+            }
+        ]
+    }
+}

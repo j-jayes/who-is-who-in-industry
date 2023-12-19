@@ -1,0 +1,159 @@
+{
+    "original": "MANNERFELT, Måns Thure Månsson, Civilingenjör, Långenäs, Mölnlycke, f Almnäs, N Fågelås, Vgötl, 2/9 11 av kapt M M o grevian Ingegerd Posse, gm Mary Schumacher. Studex öReal Sthlm 31, civingex KTH (V o V) 36, spec.stud v LantbrHS 38 o 39. Anst v Sthlms hamnstyr 36, h stat lantbr.ing i Sthlms l 36—37, d:o i Västnianl l 37—38, anst v AB Skånska Cementgjuteriet i Malmö 39—41 o v samma bol i Gbg sed. 42, arb.ch där. Vpl kapten, souschef v befästn.stab. Delt i idrottsresor t Finl, Norge, Tyskl o Danm 29—41. Sv mast i femkamp 30 o 31. Medl av Kronobergs IK i Sthlm, Örgryte Idr.sällsk i Gbg o Gbgs Lawntennisklubb. Hobbies: Fri idrott, tennis, skidsport.",
+    "translated": "MANNERFELT, Måns Thure Månsson, Civil Engineer, Långenäs, Mölnlycke, born in Almnäs, N Fågelås, Vgötl, September 2, 1911, son of Captain M.M. and Countess Ingegerd Posse, married to Mary Schumacher. Studied at Real Sthlm until 1931, graduated from KTH with a civil engineering degree (V o V) in 1936, specialized studies at LantbrHS in 1938 and 1939. Employed by Sthlms hamnstyr in 1936, then worked as a state agricultural engineer in Sthlms l from 1936 to 1937, and in Västnianl from 1937 to 1938. Employed by AB Skånska Cementgjuteriet in Malmö from 1939 to 1941, and later by the same company in Gothenburg since 1942, currently working there. Holds the rank of Second Lieutenant, deputy chief of the fortification staff. Participated in sports trips to Finland, Norway, Germany, and Denmark from 1929 to 1941. Swedish champion in pentathlon in 1930 and 1931. Member of Kronobergs IK in Stockholm, Örgryte Idr.sällsk in Gothenburg, and Gbgs Lawntennisklubb. Hobbies: Athletics, tennis, skiing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Måns Thure Månsson Mannerfelt",
+        "birthDate": "1911-09-02",
+        "birthPlace": "Almnäs, N Fågelås, Vgötl",
+        "description": "Civil Engineer, Långenäs, Mölnlycke",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "M.M. Mannerfelt",
+                "jobTitle": "Captain"
+            },
+            {
+                "@type": "Person",
+                "name": "Countess Ingegerd Posse"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Mary Schumacher"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Real Sthlm",
+                "endDate": "1931"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "KTH",
+                "endDate": "1936",
+                "coursePrerequisites": "Real Sthlm"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "LantbrHS",
+                "startDate": "1938",
+                "endDate": "1939"
+            }
+        ],
+        "jobTitle": [
+            {
+                "@type": "JobPosting",
+                "title": "State Agricultural Engineer",
+                "hiringOrganization": {
+                    "@type": "Organization",
+                    "name": "Sthlms l",
+                    "location": "Stockholm"
+                },
+                "startDate": "1936",
+                "endDate": "1937"
+            },
+            {
+                "@type": "JobPosting",
+                "title": "State Agricultural Engineer",
+                "hiringOrganization": {
+                    "@type": "Organization",
+                    "name": "Västnianl",
+                    "location": "Västnianl"
+                },
+                "startDate": "1937",
+                "endDate": "1938"
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Employee",
+                "hiringOrganization": {
+                    "@type": "Organization",
+                    "name": "AB Skånska Cementgjuteriet",
+                    "location": "Malmö"
+                },
+                "startDate": "1939",
+                "endDate": "1941"
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Employee",
+                "hiringOrganization": {
+                    "@type": "Organization",
+                    "name": "AB Skånska Cementgjuteriet",
+                    "location": "Gothenburg"
+                },
+                "startDate": "1942"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Kronobergs IK",
+                "location": "Stockholm"
+            },
+            {
+                "@type": "Organization",
+                "name": "Örgryte Idr.sällsk",
+                "location": "Gothenburg"
+            },
+            {
+                "@type": "Organization",
+                "name": "Gbgs Lawntennisklubb",
+                "location": "Gothenburg"
+            }
+        ],
+        "award": [
+            {
+                "@type": "SportsEvent",
+                "name": "Swedish Pentathlon Champion",
+                "startDate": "1930"
+            },
+            {
+                "@type": "SportsEvent",
+                "name": "Swedish Pentathlon Champion",
+                "startDate": "1931"
+            }
+        ],
+        "hobbies": [
+            "Athletics",
+            "Tennis",
+            "Skiing"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Sthlms hamnstyr",
+                "industry": "Engineering/Infrastructure",
+                "start_date": "1936"
+            },
+            {
+                "occupational_title": "State Agricultural Engineer",
+                "workplace": "Sthlms lantbr",
+                "industry": "Agriculture",
+                "start_date": "1936"
+            },
+            {
+                "occupational_title": "State Agricultural Engineer",
+                "workplace": "Västnianl",
+                "industry": "Agriculture",
+                "start_date": "1937"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "AB Skånska Cementgjuteriet",
+                "industry": "Construction",
+                "start_date": "1939"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "AB Skånska Cementgjuteriet",
+                "industry": "Construction",
+                "start_date": "1942"
+            }
+        ]
+    }
+}

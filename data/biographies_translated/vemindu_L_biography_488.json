@@ -1,0 +1,90 @@
+{
+    "original": "LÖFGREN, Ingvar Anselm, Civilingenjör, Traneberg, f Sundsvall 20/10 03 av kamrer B V L o Selma Nordström, gm Madeleine Aspelin. Studex Sundsvall 22, KTH (E) 23—27. Offerting v Elektr AB Siemens Sthlm 28—34, avd.chef v Elektr AB AEG Sthlm sed. 34. Led Sv Tekn.frn.",
+    "translated": "LÖFGREN, Ingvar Anselm, Civil Engineer, Traneberg, b. Sundsvall 20/10 03, son of accountant B V L and Selma Nordström, married to Madeleine Aspelin. Graduate of Sundsvall 22, KTH (E) 23—27. Employment at Elektr AB Siemens Stockholm 28—34, department manager at Elektr AB AEG Stockholm since 34. Member of the Swedish Engineering Association.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Ingvar Anselm LÖFGREN",
+        "jobTitle": "Civil Engineer",
+        "birthDate": "1903-10-20",
+        "birthPlace": "Sundsvall",
+        "spouse": "Madeleine Aspelin",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "B V L",
+                "jobTitle": "Accountant"
+            },
+            {
+                "@type": "Person",
+                "name": "Selma Nordström"
+            }
+        ],
+        "alumniOf": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Sundsvall"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "KTH",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm"
+                    }
+                },
+                "startDate": "1923",
+                "endDate": "1927"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Swedish Engineering Association"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Elektr AB Siemens",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm"
+                    }
+                },
+                "startDate": "1928",
+                "endDate": "1934"
+            },
+            {
+                "@type": "Organization",
+                "name": "Elektr AB AEG",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm"
+                    }
+                },
+                "startDate": "1934"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Elektr AB Siemens Stockholm",
+                "industry": "Electrical Engineering",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Department Manager",
+                "workplace": "Elektr AB AEG Stockholm",
+                "industry": "Electrical Engineering",
+                "start_date": "1934"
+            }
+        ]
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "original": "NOREEN, Axel Emanuel Sigfrid, Bankdirektör, Göteborg, f Uddev 15/2 79 av bokb.mäst A N o Emilia Pettersson, gm Iréhne Borre. Gbgs Hdlsinst 95—97. Anst Skand Kredit AB:s hvdkont Gbg 97—04, kamr Gbgs Folkbk 04—15, led av nmda bks styr sed. 09, vkst dir där sed. 15. Pens.nmdsordf Gbg. Resor: Danm 15—39. RVO, RDDO, ProPstGM, PatrGM. Hobbies: Böcker, vapen, medaljer o antikviteter",
+    "translated": "NOREEN, Axel Emanuel Sigfrid, Bank Director, Gothenburg, born in Uddevalla on February 15, 1879, to a bookbinder, A N, and Emilia Pettersson. Married to Iréhne Borre. Gothenburg Trade Institute 1895-1897. Employed at Skand Kredit AB's head office in Gothenburg 1897-1904, assistant cashier at Gothenburg People's Bank 1904-1915, member of the bank's board since 1909, and director of development there since 1915. Chairman of the Pension Board in Gothenburg. Travels: Denmark 1915-1939. Royal Order of Vasa, Royal Order of the North Star, Commander of the Order of the Polar Star, and Knight of the Order of St. John. Hobbies: Books, weapons, medals, and antiques.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Axel Emanuel Sigfrid Noreen",
+        "birthDate": "1879-02-15",
+        "birthPlace": "Uddevalla, Sweden",
+        "nationality": "Swedish",
+        "jobTitle": "Bank Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Gothenburg",
+            "addressCountry": "Sweden"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "A N"
+            },
+            {
+                "@type": "Person",
+                "name": "Emilia Pettersson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Iréhne Borre"
+        },
+        "education": [
+            {
+                "@type": "Organization",
+                "name": "Gothenburg Trade Institute",
+                "startDate": "1895",
+                "endDate": "1897"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Skand Kredit AB",
+                "startDate": "1897",
+                "endDate": "1904",
+                "jobTitle": "Assistant Cashier",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Gothenburg",
+                        "addressCountry": "Sweden"
+                    }
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Gothenburg People's Bank",
+                "startDate": "1904",
+                "endDate": "1915",
+                "jobTitle": "Assistant Cashier",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Gothenburg",
+                        "addressCountry": "Sweden"
+                    }
+                },
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "The Bank's Board",
+                    "startDate": "1909",
+                    "endDate": "1915"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Gothenburg People's Bank",
+                "startDate": "1915",
+                "jobTitle": "Director of Development",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Gothenburg",
+                        "addressCountry": "Sweden"
+                    }
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Pension Board of Gothenburg",
+                "jobTitle": "Chairman"
+            }
+        ],
+        "award": [
+            {
+                "@type": "Order",
+                "name": "Royal Order of Vasa"
+            },
+            {
+                "@type": "Order",
+                "name": "Royal Order of the North Star"
+            },
+            {
+                "@type": "Order",
+                "name": "Commander of the Order of the Polar Star"
+            },
+            {
+                "@type": "Order",
+                "name": "Knight of the Order of St. John"
+            }
+        ],
+        "knowsAbout": [
+            "Books",
+            "Weapons",
+            "Medals",
+            "Antiques"
+        ],
+        "sameAs": ""
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Bank Director",
+                "workplace": "Skand Kredit AB",
+                "industry": "Banking",
+                "start_date": "1897"
+            },
+            {
+                "occupational_title": "Assistant Cashier",
+                "workplace": "Gothenburg People's Bank",
+                "industry": "Banking",
+                "start_date": "1904"
+            },
+            {
+                "occupational_title": "Member of Bank's Board",
+                "workplace": "Gothenburg People's Bank",
+                "industry": "Banking",
+                "start_date": "1909"
+            },
+            {
+                "occupational_title": "Director of Development",
+                "workplace": "Gothenburg People's Bank",
+                "industry": "Banking",
+                "start_date": "1915"
+            }
+        ]
+    }
+}

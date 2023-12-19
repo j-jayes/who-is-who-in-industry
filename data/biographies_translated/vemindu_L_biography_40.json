@@ -1,0 +1,171 @@
+{
+    "original": "LARSEN, Jens Christian Valdemar, Direktör, Malmö, f Kpnhmn 11/8 84 av fiskexportör J C L o Engel M:son-Lilja, gm Greta Cederholm. EUngex Läroanst f eltekn Kpnhmn. Anst El AB Siemens Kpnhmn 07—08, Nord auer komp Kpnhmn 08—-10, Sv auer komp Sthlm 10—16, Körd met.varufabr Kpnhmn 16—24, dir sed. :24 o styr.led El AB Abeta Malmö (grund 19). Resor: Belg, Holl, Span, Engl, Skottl, Tyskl, Estl, Finl, Norge.",
+    "translated": "LARSEN, Jens Christian Valdemar, Director, Malmö, born in Copenhagen on 11/8 1884, son of fish exporter J C L and Engel M:son-Lilja, married to Greta Cederholm. Completed studies in electrical engineering at a vocational institution in Copenhagen. Employed by El AB Siemens in Copenhagen from 1907 to 1908, Nordauer Company in Copenhagen from 1908 to 1910, Swedish Auers Company in Stockholm from 1910 to 1916, and worked at a metal goods factory in Copenhagen from 1916 to 1924. Became director and board member of El AB Abeta in Malmö (established in 1919) from 1924 onwards. Traveled to Belgium, the Netherlands, Spain, England, Scotland, Germany, Estonia, Finland, and Norway.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Jens Christian Valdemar Larsen",
+        "description": "Director, Malmö",
+        "birthDate": "1884-08-11",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Copenhagen"
+            }
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "J C L",
+                "description": "Fish Exporter"
+            },
+            {
+                "@type": "Person",
+                "name": "Engel M:son-Lilja"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Greta Cederholm"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "eltekn",
+            "educationalLevel": "Läroanst f",
+            "provider": {
+                "@type": "Organization",
+                "name": "Kpnhmn"
+            }
+        },
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1907",
+                "endDate": "1908",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "El AB Siemens",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Copenhagen"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1908",
+                "endDate": "1910",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Nordauer Company",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Copenhagen"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1910",
+                "endDate": "1916",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Swedish Auers Company",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1916",
+                "endDate": "1924",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Metal Goods Factory",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Copenhagen"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1924",
+                "roleName": "Director, Board Member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "El AB Abeta",
+                    "foundingDate": "1919",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Malmö"
+                    }
+                }
+            }
+        ],
+        "sibling": [],
+        "knowsLanguage": [
+            "Belgian",
+            "Dutch",
+            "Spanish",
+            "English",
+            "Scottish",
+            "German",
+            "Estonian",
+            "Finnish",
+            "Norwegian"
+        ],
+        "knowsAbout": [
+            "Fish Export",
+            "Electrical Engineering",
+            "Metal Goods Manufacturing"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "El AB Abeta",
+                "industry": "Electrical",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "El AB Abeta",
+                "industry": "Electrical",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "El AB Siemens",
+                "industry": "Electrical",
+                "start_date": "1907"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Nordauer Company",
+                "industry": "Unknown",
+                "start_date": "1908"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Swedish Auers Company",
+                "industry": "Unknown",
+                "start_date": "1910"
+            },
+            {
+                "occupational_title": "Worker",
+                "workplace": "Metal Goods Factory",
+                "industry": "Manufacturing",
+                "start_date": "1916"
+            }
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "original": "LUNDBERG, Gustaf Ragnvald, Skohandlare, Nora, f Järnboås, öbr l, 24/5 01 av gar-verifabr G L o Kristina Johansson, gm Sonja Siden. Folsksk. Inneh m brod Verner L fma G Lundberg sko- &amp; läderhdl (grund 89).",
+    "translated": "LUNDBERG, Gustaf Ragnvald, Shoemaker, Nora, b. Järnboås, unmarried, born on May 24, 1901, to the parents G L and Kristina Johansson. Married to Sonja Siden. Completed elementary school. Involved with brother Verner L, dealing with shoes and leather goods (established 1889).",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Gustaf Ragnvald Lundberg",
+        "birthDate": "1901-05-24",
+        "birthPlace": "Järnboås",
+        "spouse": {
+            "@type": "Person",
+            "name": "Sonja Siden"
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "G L Lundberg"
+            },
+            {
+                "@type": "Person",
+                "name": "Kristina Johansson"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Verner L"
+        },
+        "occupation": {
+            "@type": "Person",
+            "name": "Shoemaker"
+        },
+        "educationalBackground": "Elementary school",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "G Lundberg shoe & leather store",
+            "foundingDate": "1889"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Shoemaker",
+                "workplace": "G Lundberg sko- & läderhdl",
+                "industry": "Shoe and leather goods retail",
+                "start_date": "Founded 1889"
+            }
+        ]
+    }
+}

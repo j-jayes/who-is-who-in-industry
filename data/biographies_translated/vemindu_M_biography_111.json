@@ -1,0 +1,128 @@
+{
+    "original": "MICHAEI^SON, Olof, Ingenjör, Hofors, f Sundsvall 15/1 90 av mej.äg M N M o Anna Högström, gm Ester Hagelberg. Härnösands tekn sk 11, Mittweida Techn 13, Jernkont.stip t Tyskl 28—29 o USA 33. Anst Ljusne-Woxna AB 14, Hofors AB 15, ch.ing manufakt.avd SKF Hofors Br sed. 17. Luftsk.ch Hofors-Torsåker. Ordf Hofors skyttegille.",
+    "translated": "MICHAEI^SON, Olof, Engineer, Hofors, born in Sundsvall on January 15, 1890, to parents M N M and Anna Högström, married to Ester Hagelberg. Attended Härnösands technical school until 1911, Mittweida Technical School until 1913. Recipient of a scholarship from Jernkontoret to study in Germany from 1928-1929 and in the USA in 1933. Employed at Ljusne-Woxna AB in 1914, Hofors AB in 1915, and became the chief engineer of the manufacturing department at SKF Hofors in 1917. Also served in the Hofors-Torsåker Air Defense. Chairman of the Hofors shooting guild.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Olof Michaei^son",
+        "jobTitle": "Engineer",
+        "birthDate": "1890-01-15",
+        "birthPlace": "Sundsvall",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "M N M"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Högström"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ester Hagelberg"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Härnösands tekniska skola",
+                "startDate": "1901",
+                "endDate": "1911"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Mittweida Technische Schule",
+                "startDate": "1911",
+                "endDate": "1913"
+            }
+        ],
+        "scholarship": {
+            "@type": "ScholarlyArticle",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Jernkontoret"
+            },
+            "startDate": "1928",
+            "endDate": "1929"
+        },
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "Ljusne-Woxna AB",
+                "startDate": "1914",
+                "endDate": ""
+            },
+            {
+                "@type": "Organization",
+                "name": "Hofors AB",
+                "startDate": "1915",
+                "endDate": ""
+            },
+            {
+                "@type": "Organization",
+                "name": "SKF Hofors",
+                "department": "Manufacturing",
+                "position": "Chief Engineer",
+                "startDate": "1917",
+                "endDate": ""
+            }
+        ],
+        "militaryService": {
+            "@type": "Organization",
+            "name": "Hofors-Torsåker Air Defense"
+        },
+        "organizations": [
+            {
+                "@type": "Organization",
+                "name": "Hofors shooting guild",
+                "position": "Chairman"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Hofors",
+                "industry": "",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Recipient of Jernkontoret Scholarship",
+                "workplace": "Germany and USA",
+                "industry": "",
+                "start_date": "1928-1929 & 1933"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Ljusne-Woxna AB",
+                "industry": "",
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Hofors AB",
+                "industry": "",
+                "start_date": "1915"
+            },
+            {
+                "occupational_title": "Chief Engineer",
+                "workplace": "SKF Hofors",
+                "industry": "Manufacturing",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Air Defense Service",
+                "workplace": "Hofors-Torsåker",
+                "industry": "",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Chairman",
+                "workplace": "Hofors shooting guild",
+                "industry": "",
+                "start_date": ""
+            }
+        ]
+    }
+}

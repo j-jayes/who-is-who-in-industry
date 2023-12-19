@@ -1,0 +1,169 @@
+{
+    "original": "LUNDBERG, Carl Gustaf Albert, Disponent, Tidan, f Sthlm 2/5 91, gm Carin Falk. Mer-kant o tekn stud i in- o utl. Styr.led o vkst dir Sv yllekonc AB jämte ansl föret (Borås yllefabr, Fors ullspinn, Stigens AB mfl). Ordf Sv löngodsfabr frn, styr.led Sv ylleind.frn mfl branschsammanslutn. Ordf folksk.styr mm. RNO, RVO. °LUNDBERG, Einar Fridolf, Ingenjör, Tidan, f Sthlm 15/8 95 av A L o Tekla Larsson, gm Tyra Stenhård. Efter stud v Krafftska skolan i Sthlm elev v John Lennings vävskola, Norrkp, som Komm.kollegii stip 17—18, stud m stip fr Cedergrenska fonden v Leeds univ :s textilavd, Engl, 18—21. Efter anst v Falu Yllefabrik, Sågmyra, anst v Westergötl Yllefabriks AB, Tidan, sed. 21, därav som fabr.ing 21—23 o som fabr.chef sed. 23. Led Sv Tekn.frn. °LUNDBERG, Elof Karl Hjalmar, Civilingenjör, Saltsjöbaden, f Ystad 31/3 72 av br.-äg J O L o Hilda af Billbergh, gm Maria Rose. Mog.ex Nya elem sk Sthlm 89, ex KTH (maskin) 94. Ing Bruzaholms Br AB 94—00, vkst dir där 00—14, f AB Sv Metallsmältugnen 17—19, kons ing o uppfinn sed. 20. Led Sv Tekn.frn.",
+    "translated": "LUNDBERG, Carl Gustaf Albert, Manager, Tidan, born in Stockholm on May 2, 1891, married Carin Falk. Merchandising and technical studies in Sweden and abroad. Board member and managing director of Swedish Textile Industry Co. with affiliated companies (Borås Yarn Factory, Fors Wool Spinning, Stigens Co., and others). Chairman of Swedish Woolen Goods Factory, board member of Swedish Woolen Industry Association, and other industry associations. Chairman of elementary school board, etc. Received the Order of the North Star and the Order of Vasa. \n\nLUNDBERG, Einar Fridolf, Engineer, Tidan, born in Stockholm on August 15, 1895, son of A L and Tekla Larsson, married Tyra Stenhård. After studying at Krafft's School in Stockholm, he was a student at John Lennings Weaving School in Norrköping, supported by the Royal Swedish Academy of Science's Collegium Scholarship in 1917-1918. He studied with a scholarship from Cedergren Foundation at the textile department of Leeds University in England from 1918 to 1921. After working at Falu Wool Factory in Sågmyra, he joined Westergöta Wool Factory Co. in Tidan in 1921, initially as a factory engineer from 1921 to 1923, and later as factory manager from 1923 onwards. Member of Swedish Society of Engineering Sciences.\n\nLUNDBERG, Elof Karl Hjalmar, Civil Engineer, Saltsjöbaden, born in Ystad on March 31, 1872, son of J O L and Hilda af Billbergh, married Maria Rose. Graduated from Nya Elementarskolan in Stockholm in 1889, and from the Royal Institute of Technology (mechanical engineering) in 1894. Engineer at Bruzaholm Bridge Co. from 1894 to 1900, then promoted to managing director from 1900 to 1914. Founder of Swedish Metal Smelting Furnace Co. from 1917 to 1919, and consultant engineer and inventor since 1920. Member of the Swedish Society of Engineering Sciences.",
+    "structured": {
+        "@context": {
+            "@vocab": "http://schema.org/",
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "xsd": "http://www.w3.org/2001/XMLSchema#"
+        },
+        "@graph": [
+            {
+                "@type": "Person",
+                "name": "Carl Gustaf Albert Lundberg",
+                "jobTitle": "Manager",
+                "birthPlace": "Stockholm",
+                "birthDate": "1891-05-02",
+                "memberOf": [
+                    {
+                        "@type": "Organization",
+                        "name": "Swedish Textile Industry Co.",
+                        "jobTitle": "Managing Director"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "Borås Yarn Factory"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "Fors Wool Spinning"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "Stigens Co."
+                    }
+                ],
+                "spouse": {
+                    "@type": "Person",
+                    "name": "Carin Falk"
+                },
+                "awards": [
+                    "Order of the North Star",
+                    "Order of Vasa"
+                ]
+            },
+            {
+                "@type": "Person",
+                "name": "Einar Fridolf Lundberg",
+                "jobTitle": "Engineer",
+                "birthPlace": "Stockholm",
+                "birthDate": "1895-08-15",
+                "parents": [
+                    {
+                        "@type": "Person",
+                        "name": "A L"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Tekla Larsson"
+                    }
+                ],
+                "spouse": {
+                    "@type": "Person",
+                    "name": "Tyra Stenhård"
+                },
+                "education": [
+                    {
+                        "@type": "Organization",
+                        "name": "Krafft's School"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "John Lennings Weaving School"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "Leeds University",
+                        "department": "Textile"
+                    }
+                ],
+                "workExperience": [
+                    {
+                        "@type": "Organization",
+                        "name": "Falu Wool Factory"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "Westergöta Wool Factory Co.",
+                        "jobTitle": "Factory Manager"
+                    }
+                ],
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Swedish Society of Engineering Sciences"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Elof Karl Hjalmar Lundberg",
+                "jobTitle": "Civil Engineer",
+                "birthPlace": "Ystad",
+                "birthDate": "1872-03-31",
+                "parents": [
+                    {
+                        "@type": "Person",
+                        "name": "J O L"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Hilda af Billbergh"
+                    }
+                ],
+                "spouse": {
+                    "@type": "Person",
+                    "name": "Maria Rose"
+                },
+                "education": [
+                    {
+                        "@type": "Organization",
+                        "name": "Nya Elementarskolan"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "Royal Institute of Technology",
+                        "department": "Mechanical Engineering"
+                    }
+                ],
+                "workExperience": [
+                    {
+                        "@type": "Organization",
+                        "name": "Bruzaholm Bridge Co.",
+                        "jobTitle": "Engineer"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "Swedish Metal Smelting Furnace Co.",
+                        "jobTitle": "Founder"
+                    }
+                ],
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Swedish Society of Engineering Sciences"
+                }
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Manager",
+                "workplace": "Tidan",
+                "industry": "Textile",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Tidan",
+                "industry": "Textile",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Saltsjöbaden",
+                "industry": "Bridge",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

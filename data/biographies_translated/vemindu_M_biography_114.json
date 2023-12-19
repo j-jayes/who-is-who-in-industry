@@ -1,0 +1,67 @@
+{
+    "original": "MILTANDEB, Olof, Civilingenjör, Stockholm, f östmark, Värml l, 31/12 07 av lantbr P Hallstensson o Maria Eriksson, gm Inga-Maj Dahlström. CTH. Anst v Astra i Södertälje 34—37, nu v Oxygenol i Sthlm.",
+    "translated": "MILTANDEB, Olof, Civil Engineer, Stockholm, born in Östmark, Värmland, on 31/12 1907, son of farmer P Hallstensson and Maria Eriksson, married to Inga-Maj Dahlström. Graduated from Chalmers University of Technology (CTH). Employed at Astra in Södertälje from 1934 to 1937, currently working at Oxygenol in Stockholm.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Olof Miltandeb",
+        "jobTitle": "Civil Engineer",
+        "birthPlace": "Östmark, Värmland, Sweden",
+        "birthDate": "1907-12-31",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "P Hallstensson"
+            },
+            {
+                "@type": "Person",
+                "name": "Maria Eriksson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Inga-Maj Dahlström"
+        },
+        "alumniOf": {
+            "@type": "EducationalOrganization",
+            "name": "Chalmers University of Technology"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Astra",
+                "location": "Södertälje, Sweden",
+                "startDate": "1934",
+                "endDate": "1937"
+            },
+            {
+                "@type": "Organization",
+                "name": "Oxygenol",
+                "location": "Stockholm, Sweden",
+                "startDate": "1937"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Stockholm",
+                "industry": "Engineering",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Anst at Astra",
+                "workplace": "Södertälje",
+                "industry": "Pharmaceuticals",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Currently at Oxygenol",
+                "workplace": "Stockholm",
+                "industry": "Unknown",
+                "start_date": null
+            }
+        ]
+    }
+}

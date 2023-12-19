@@ -1,0 +1,206 @@
+{
+    "original": "MAGNUSSON, Johan Herman, Disponent, Katrineholm, f Brattfors, Vrml l, 8/6 85 av handl J M o Johanna Nilsson, gm Edit Vensten. L a l Filipstad 94—99, Filipst bergsskola lägre avd 00—01, högre avd 04—05. Rit h Metallurgiska AB 07—09, konstr h AB Ingenjörsbyrån Allians 09—12, verkst.ing där 12—17 o 2:e dir där 17—24, vkst dir o disp h AB Norbergs Mek Verkst 24—30, vkst dir o disp h AB Pumpseparators gjuterier, Katrineholm, sed. 30. Led Katrineholms stadsstyrelse, ordf Katrineholms stds byggn.nmd, styr.ordf Katrineholms yrkes- o lärl.sk, styr.-led AB Norbergs Mek Verkst sed. 24. Resor: Tyskl 06—07 (som Jernkontorets stip). RVO, Riksluftskyddsfrb :s ftjGM. Led Sv Tekn.frn.",
+    "translated": "MAGNUSSON, Johan Herman, Manager, Katrineholm, b. Brattfors, Värmland County, June 8, 1885, son of merchant J.M. and Johanna Nilsson, m. Edit Vensten. Educated in Filipstad 1894-1899, Filipstad mining school lower division 1900-1901, higher division 1904-1905. Draftsman at Metallurgical AB 1907-1909, designer at AB Ingenjörsbyrån Allians 1909-1912, engineer there 1912-1917 and deputy director 1917-1924, director and manager at AB Norbergs Mechanical Workshop 1924-1930, director and manager at AB Pumpseparators Foundries, Katrineholm, since 1930. Member of Katrineholm City Council, chairman of Katrineholm City Building Committee, board chairman of Katrineholm Vocational and Apprenticeship School, board member of AB Norbergs Mechanical Workshop since 1924. Travel: Germany 1906-1907 (as a recipient of Jernkontoret's scholarship). RVO (Royal Order of Vasa), Royal Air Defense Association Medal. Member of the Swedish Technical Association.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Johan Herman Magnusson",
+        "birthDate": "1885-06-08",
+        "birthPlace": "Brattfors, Värmland County",
+        "description": "Manager at AB Pumpseparators Foundries",
+        "spouse": {
+            "@type": "Person",
+            "name": "Edit Vensten"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "J.M. Magnusson"
+            },
+            {
+                "@type": "Person",
+                "name": "Johanna Nilsson"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Filipstad"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Filipstad Mining School",
+                "subEvent": {
+                    "@type": "EducationEvent",
+                    "startDate": "1894",
+                    "endDate": "1899",
+                    "location": "Filipstad"
+                }
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Filipstad Mining School",
+                "subEvent": {
+                    "@type": "EducationEvent",
+                    "startDate": "1900",
+                    "endDate": "1901",
+                    "location": "Filipstad"
+                }
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Filipstad Mining School",
+                "subEvent": {
+                    "@type": "EducationEvent",
+                    "startDate": "1904",
+                    "endDate": "1905",
+                    "location": "Filipstad"
+                }
+            }
+        ],
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Draftsman",
+                "startDate": "1907",
+                "endDate": "1909",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Metallurgical AB"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Designer",
+                "startDate": "1909",
+                "endDate": "1912",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Ingenjörsbyrån Allians"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Engineer",
+                "startDate": "1912",
+                "endDate": "1917",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Ingenjörsbyrån Allians"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Deputy Director",
+                "startDate": "1917",
+                "endDate": "1924",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Ingenjörsbyrån Allians"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Director and Manager",
+                "startDate": "1924",
+                "endDate": "1930",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Norbergs Mechanical Workshop"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Director and Manager",
+                "startDate": "1930",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Pumpseparators Foundries"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Katrineholm City Council"
+            },
+            {
+                "@type": "Organization",
+                "name": "Katrineholm City Building Committee",
+                "roleName": "Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Katrineholm Vocational and Apprenticeship School",
+                "roleName": "Board Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Norbergs Mechanical Workshop",
+                "roleName": "Board Member",
+                "startDate": "1924"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Technical Association",
+                "roleName": "Member"
+            }
+        ],
+        "travel": {
+            "@type": "Trip",
+            "departureTime": "1906",
+            "returnTime": "1907",
+            "description": "Traveled to Germany on Jernkontoret's scholarship"
+        },
+        "awards": [
+            {
+                "@type": "Order",
+                "name": "Royal Order of Vasa"
+            },
+            {
+                "@type": "Medal",
+                "name": "Royal Air Defense Association Medal"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Draftsman",
+                "workplace": "Metallurgical AB",
+                "industry": "Metallurgy",
+                "start_date": "1907-01-01"
+            },
+            {
+                "occupational_title": "Designer",
+                "workplace": "AB Ingenjörsbyrån Allians",
+                "industry": "Engineering",
+                "start_date": "1909-01-01"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "AB Ingenjörsbyrån Allians",
+                "industry": "Engineering",
+                "start_date": "1912-01-01"
+            },
+            {
+                "occupational_title": "Deputy Director",
+                "workplace": "AB Ingenjörsbyrån Allians",
+                "industry": "Engineering",
+                "start_date": "1917-01-01"
+            },
+            {
+                "occupational_title": "Director and Manager",
+                "workplace": "AB Norbergs Mechanical Workshop",
+                "industry": "Mechanical Engineering",
+                "start_date": "1924-01-01"
+            },
+            {
+                "occupational_title": "Director and Manager",
+                "workplace": "AB Pumpseparators Foundries, Katrineholm",
+                "industry": "Foundry",
+                "start_date": "1930-01-01"
+            }
+        ]
+    }
+}

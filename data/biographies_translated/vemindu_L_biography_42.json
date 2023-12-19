@@ -1,0 +1,110 @@
+{
+    "original": "LARSON, Alexander, Disponent, Ludvika, € V Vingåker 16/9 91 av fastigh.äg A G L o ^Karolina Larson. Folksk, hdlssk. Anst AB Wahlund &amp; Grönblad Sthlm 13—18, fma Ernst \"W Matsson Nås 18—21, nederl f Mustad &amp; ^on samt parti- o ag.aff Ludv 22—26, anst Hakonbolagets avd.kont sed. 27. Frimurare. ’Hobby: Arbetet.",
+    "translated": "LARSON, Alexander, Manager, Ludvika, € V Vingåker 16/9 91 through property owner A G L and ^Karolina Larson. Elementary school, commerce school. Employed at AB Wahlund & Grönblad in Stockholm from 1913 to 1918, then at Ernst W Matsson in Nås from 1918 to 1921, followed by the Dutch company Mustad & ^son and as a wholesale and retail trade agent in Ludvika from 1922 to 1926. Employed at the branch office of Hakonbolaget since 1927. Freemason. Hobby: Work.\n\nNote: The abbreviation \"€ V Vingåker 16/9 91 av fastigh.äg A G L\" indicates the place and date of birth, along with the information that the property owner is A G L. The \"^\" symbol before Karolina Larson's name indicates a deceased spouse. Additionally, the abbreviation \"nederl f\" indicates employment at a company in the Netherlands, and \"parti-o ag.aff\" stands for part-owner and agent affairs.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Alexander Larson",
+        "jobTitle": "Manager",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Vingåker",
+                "addressCountry": "Sweden"
+            }
+        },
+        "birthDate": "1891-09-16",
+        "spouse": {
+            "@type": "Person",
+            "name": "Karolina Larson",
+            "deathDate": ""
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Elementary school"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Commerce school"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "AB Wahlund & Grönblad",
+                "location": "Stockholm",
+                "startDate": "1913",
+                "endDate": "1918"
+            },
+            {
+                "@type": "Organization",
+                "name": "Ernst W Matsson",
+                "location": "Nås",
+                "startDate": "1918",
+                "endDate": "1921"
+            },
+            {
+                "@type": "Organization",
+                "name": "Mustad & ^son",
+                "location": "The Netherlands",
+                "startDate": "1921",
+                "endDate": ""
+            },
+            {
+                "@type": "Organization",
+                "name": "Ludvika Wholesale and Retail Trade Agency",
+                "location": "Ludvika",
+                "startDate": "1922",
+                "endDate": "1926"
+            },
+            {
+                "@type": "Organization",
+                "name": "Hakonbolaget",
+                "location": "",
+                "startDate": "1927",
+                "endDate": ""
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Freemasons"
+        },
+        "workHobby": "Arbetet"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Manager",
+                "workplace": "AB Wahlund & Grönblad",
+                "industry": "Commerce",
+                "start_date": "1913"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Ernst W Matsson",
+                "industry": "Nås",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Mustad & ^son",
+                "industry": "Netherlands",
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Wholesale and Retail Trade Agent",
+                "workplace": "Ludvika",
+                "industry": "Commerce",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Hakonbolaget",
+                "industry": "Unknown",
+                "start_date": "1927"
+            }
+        ]
+    }
+}

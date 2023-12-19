@@ -1,0 +1,110 @@
+{
+    "original": "LARSSON, David Alfred, Direktör, Linköping, f Normlösa, österg l, 11/5 98, gm Elsa Arvidsson. Etabl tills m brod Janne L fma Bröderna Larsson i Linkp 20 (byggn.mtrl, kol o koks), är tills m brod huvudintress i bl a AB Thörnell &amp; Co i Norrkp (vkst dir) samt Motala Murbruks AB (styr.ordf).",
+    "translated": "LARSSON, David Alfred, Director, Linköping, b. Normlösa, österg l, 11/5 98, m. Elsa Arvidsson. Established together with brother Janne L the company Bröderna Larsson in Linköping in 1920 (building materials, coal and coke), is also involved together with brother as a main interest in AB Thörnell &amp; Co in Norrköping (vice managing director) and Motala Murbruks AB (board chairman).",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "David Alfred Larsson",
+        "givenName": "David Alfred",
+        "familyName": "Larsson",
+        "birthDate": "1898-05-11",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Normlösa",
+                "addressRegion": "österg l"
+            }
+        },
+        "jobTitle": "Director",
+        "nationality": "Swedish",
+        "spouse": {
+            "@type": "Person",
+            "name": "Elsa Arvidsson"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Bröderna Larsson",
+                "foundingDate": "1920-01-01",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Linköping"
+                },
+                "founders": [
+                    {
+                        "@type": "Person",
+                        "name": "Janne L. Larsson"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "David Alfred Larsson"
+                    }
+                ],
+                "businessFunction": "Building materials, coal, and coke"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Thörnell & Co",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Norrköping"
+                },
+                "jobTitle": "Vice Managing Director",
+                "founders": [
+                    {
+                        "@type": "Person",
+                        "name": "Janne L. Larsson"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "David Alfred Larsson"
+                    }
+                ]
+            },
+            {
+                "@type": "Organization",
+                "name": "Motala Murbruks AB",
+                "jobTitle": "Board Chairman",
+                "founders": [
+                    {
+                        "@type": "Person",
+                        "name": "Janne L. Larsson"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "David Alfred Larsson"
+                    }
+                ]
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Linköping",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Co-founder",
+                "workplace": "Bröderna Larsson in Linköping",
+                "industry": "Building materials, coal and coke",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Vice Managing Director",
+                "workplace": "AB Thörnell & Co in Norrköping",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Board Chairman",
+                "workplace": "Motala Murbruks AB",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

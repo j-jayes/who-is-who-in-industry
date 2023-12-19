@@ -1,0 +1,161 @@
+{
+    "original": "NILSSON, Sevander, Direktör, Falkenberg, f Knäred 3/9 79 av lantbr N P Svensson o Ii h Inger-Lena, gm Anna Pettersson. Folk-högsk, lantm.sk. Kontr.assist 01—04, lantbr.-t)okh 04—06, kamr Hall Lantm Centralfrn 07 —28, vkst dir där sed. 28, tillika vkst dir o styr.led Södra Hall Lagerhusfrn sed. 33. Resor: Holl, Belg, Tyskl 39. RVO, PatrstGM. Frimurare.",
+    "translated": "NILSSON, Sevander, Director, Falkenberg, born in Knäred on September 3, 1879, to farmer N P Svensson and his wife Inger-Lena. Married to Anna Pettersson. He attended folk high school and studied agriculture. Worked as a contract assistant from 1901 to 1904, and then worked in agriculture trade from 1904 to 1906. Joined the Chamber of Agriculture in Halland and worked there as a land surveyor's assistant from 1907 to 1928. Became deputy director in 1928, and also served as a director and board member of Southern Hall Storage Company from 1933. Traveled to the Netherlands, Belgium, and Germany in 1939. Awarded with the Royal Order of Vasa, and also with Patriotic Gold Medal. Member of the Freemasons.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Sevander Nilsson",
+        "birthDate": "1879-09-03",
+        "birthPlace": "Knäred, Sweden",
+        "nationality": "Swedish",
+        "description": "Swedish director and agriculturalist",
+        "memberOf": [
+            "Freemasons"
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Anna Pettersson"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "N P Svensson",
+                "jobTitle": "Farmer"
+            },
+            {
+                "@type": "Person",
+                "name": "Inger-Lena"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "High School",
+                "educationalLevel": "Folk High School"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "College",
+                "educationalLevel": "Bachelor's Degree",
+                "major": "Agriculture"
+            }
+        ],
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1901-01-01",
+                "endDate": "1904-12-31",
+                "roleName": "Contract Assistant",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Unknown"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1904-01-01",
+                "endDate": "1906-12-31",
+                "roleName": "Agriculture Trade",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Unknown"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1907-01-01",
+                "endDate": "1928-12-31",
+                "roleName": "Land Surveyor's Assistant",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Chamber of Agriculture in Halland"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1928-01-01",
+                "roleName": "Deputy Director",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Chamber of Agriculture in Halland"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Director",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Southern Hall Storage Company"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Board Member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Southern Hall Storage Company"
+                }
+            }
+        ],
+        "awards": [
+            {
+                "@type": "Order",
+                "name": "Royal Order of Vasa",
+                "dateAwarded": "Year Unknown"
+            },
+            {
+                "@type": "Medal",
+                "name": "Patriotic Gold Medal",
+                "dateAwarded": "Year Unknown"
+            }
+        ],
+        "traveled": [
+            {
+                "@type": "Country",
+                "name": "Netherlands"
+            },
+            {
+                "@type": "Country",
+                "name": "Belgium"
+            },
+            {
+                "@type": "Country",
+                "name": "Germany"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Contract Assistant",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "1901-01-01"
+            },
+            {
+                "occupational_title": "Agriculture Trader",
+                "workplace": "Unknown",
+                "industry": "Agriculture",
+                "start_date": "1904-01-01"
+            },
+            {
+                "occupational_title": "Land Surveyor's Assistant",
+                "workplace": "Chamber of Agriculture in Halland",
+                "industry": "Agriculture",
+                "start_date": "1907-01-01"
+            },
+            {
+                "occupational_title": "Deputy Director",
+                "workplace": "Chamber of Agriculture in Halland",
+                "industry": "Agriculture",
+                "start_date": "1928-01-01"
+            },
+            {
+                "occupational_title": "Director and Board Member",
+                "workplace": "Southern Hall Storage Company",
+                "industry": "Storage",
+                "start_date": "1933-01-01"
+            }
+        ]
+    }
+}

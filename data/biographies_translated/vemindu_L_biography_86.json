@@ -1,0 +1,80 @@
+{
+    "original": "LARSSON, Per Lennart, Biplomingrenjör, Ludvika, f Kristst 4/9 98 av järnhandl Per L o Gustafva Jönsson, gm Karin Holm. Studex, dipl.ingex Techn Hochsch Fridericiana, Karlsruhe. Anst AB Skand elverk Bohus.avd 28y Gotl kraftvk 29, Ludv kraftvk sed. 33.",
+    "translated": "LARSSON, Per Lennart, Electrical Engineer, Ludvika, born in Kristst 4/9 1898 to ironmonger Per L and Gustafva Jönsson, married to Karin Holm. Degree, Graduate Engineer from Techn Hochsch Fridericiana, Karlsruhe. Employed by AB Skand elverk Bohus, Department 28 years, Gotland power plant 29, Ludvika power plant since 1933.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Per Lennart Larsson",
+        "birthDate": "1898-09-04",
+        "birthPlace": "Kristst",
+        "description": "Electrical Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Ludvika"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Per L Larsson",
+                "jobTitle": "Ironmonger"
+            },
+            {
+                "@type": "Person",
+                "name": "Gustafva Jönsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Karin Holm"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "diploma",
+            "educationLevel": "GraduateEngineer",
+            "alumniOf": {
+                "@type": "CollegeOrUniversity",
+                "name": "Techn Hochsch Fridericiana",
+                "location": "Karlsruhe"
+            }
+        },
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "AB Skand elverk Bohus",
+                "department": "28 years"
+            },
+            {
+                "@type": "Organization",
+                "name": "Gotland Power Plant",
+                "startDate": "1929"
+            },
+            {
+                "@type": "Organization",
+                "name": "Ludvika Power Plant",
+                "startDate": "1933"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Electrical Engineer",
+                "workplace": "AB Skand elverk Bohus",
+                "industry": "Electric Power",
+                "start_date": "Prior to 1928"
+            },
+            {
+                "occupational_title": "Department Engineer",
+                "workplace": "Gotland Power Plant",
+                "industry": "Electric Power",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Power Plant Engineer",
+                "workplace": "Ludvika Power Plant",
+                "industry": "Electric Power",
+                "start_date": "1933"
+            }
+        ]
+    }
+}

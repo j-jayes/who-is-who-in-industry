@@ -1,0 +1,96 @@
+{
+    "original": "LARSSON, Bengt, Fabrikör, Uppsala, f Kyrkhult, Blek, 29/9 75, gm Margaretha Gustafsson. Eft slut skolstud prakt i stenhugg.-yrket v Gyllsboda stenhugg 91, i Sthlm 97—03. Gr eg fma i Upps 04, ombild t B Larssons Marmor- &amp; Granitind AB 31, vkst dir där. Styr.led Upps Fabr- o Hantv.frn 11—27.",
+    "translated": "LARSSON, Bengt, Industrialist, Uppsala, b. in Kyrkhult, Blekinge, on September 29th, 1875, m. Margaretha Gustafsson. After finishing school, he received practical training in stone cutting. Worked at Gyllsboda stonecutting from 1891 and in Stockholm from 1897 to 1903. Established his own business in Uppsala in 1904, which later became B Larssons Marble & Granite Industries AB, where he served as the Managing Director. Served on the Board of Directors for Uppsala Manufacturing and Crafts Association from 1911 to 1927.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Bengt Larsson",
+        "givenName": "Bengt",
+        "familyName": "Larsson",
+        "birthDate": "1875-09-29",
+        "birthPlace": "Kyrkhult, Blekinge",
+        "nationality": "Swedish",
+        "jobTitle": "Industrialist",
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "B Larssons Marble & Granite Industries AB",
+                "foundingDate": "1904-01-01",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Uppsala"
+                }
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Margaretha Gustafsson"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "practical training",
+            "credentialSubject": "stone cutting"
+        },
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1891-01-01",
+                "endDate": "1897-12-31",
+                "roleName": "Stone Cutter",
+                "worksFor": {
+                    "@type": "Organization",
+                    "name": "Gyllsboda Stonecutting"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1897-01-01",
+                "endDate": "1903-12-31",
+                "roleName": "Stone Cutter",
+                "worksFor": {
+                    "@type": "Organization",
+                    "name": "Stockholm Stonecutting"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1904-01-01",
+                "roleName": "Managing Director",
+                "worksFor": {
+                    "@type": "Organization",
+                    "name": "B Larssons Marble & Granite Industries AB"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Uppsala Manufacturing and Crafts Association",
+                "startDate": "1911-01-01",
+                "endDate": "1927-12-31"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Practical Trainee",
+                "workplace": "Gyllsboda Stenhugg",
+                "industry": "Stone cutting",
+                "start_date": "1891"
+            },
+            {
+                "occupational_title": "Stone Cutter",
+                "workplace": "Stockholm",
+                "industry": "Stone cutting",
+                "start_date": "1897"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "B Larssons Marble & Granite Industries AB",
+                "industry": "Marble and Granite",
+                "start_date": "1904"
+            }
+        ]
+    }
+}

@@ -1,0 +1,182 @@
+{
+    "original": "LARSSON, Öje s Per Leander, Fabrikör, Malung, f Malung 27/2 95 av skinnskräåd öjes L Jonsson o Britta Persson, gm Anna Olsson. Hdlssk 14, korresp.kurs språkstud 14, 17—18. Aff.anst S P Persson Malung 10—13 o 15—16, kont livsm.nmd Malung 18—21, Fastigh.byrån Södertälje 21—24. Deläg Leander Larsson &amp; Co Malung, tillv o försäljn av skinnbeklädn.-varor, 25, ens inneh sed. 38. Ag fastigh Kungs-Tag 8 Eskilstuna. Komm.omb Västerdalarn fhsk Malung, led fattigv.styr, v. luftsk.chef Malung. Styr.led o kass Malungs Miss.församl. Resor: Tyskl 24. Hobby: Arbetet.",
+    "translated": "LARSSON, Öje s Per Leander, Industrialist, Malung, born in Malung on February 27th, 1895, to leatherworker Öjes L Jonsson and Britta Persson, married to Anna Olsson. Completed lower secondary school in 1914 and correspondence courses in language studies in 1914, 1917-1918. Employed at S P Persson in Malung from 1910-1913 and 1915-1916, member of the local board of the life insurance company in Malung from 1918-1921, worked at the Real Estate Bureau in Södertälje from 1921-1924. Co-owner of Leander Larsson & Co in Malung, involved in the production and sale of leather goods from 1925, sole owner since 1938. Owns property in Kungs-Tag 8, Eskilstuna. Member of the county commission in Västerdalarna folk high school in Malung, member of the board for the poorhouse, deputy air protection chief in Malung. Board member and treasurer of the Malungs Missionary Parish. Travels include Germany in 1924. Hobby: Work.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Öje s Per Leander Larsson",
+        "birthDate": "1895-02-27",
+        "birthPlace": "Malung",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Öjes L Jonsson"
+            },
+            {
+                "@type": "Person",
+                "name": "Britta Persson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Anna Olsson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "lower secondary school",
+                "endDate": "1914"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "language studies",
+                "startDate": "1917",
+                "endDate": "1918"
+            }
+        ],
+        "occupation": {
+            "@type": "OrganizationRole",
+            "title": "Industrialist",
+            "startDate": "1925",
+            "endDate": "1938",
+            "namedPosition": "Co-owner",
+            "memberOf": "Leander Larsson & Co",
+            "worksFor": "Leander Larsson & Co",
+            "worksIn": "Malung",
+            "affiliations": [
+                {
+                    "@type": "Company",
+                    "name": "S P Persson",
+                    "startDate": "1910",
+                    "endDate": "1913"
+                },
+                {
+                    "@type": "Company",
+                    "name": "S P Persson",
+                    "startDate": "1915",
+                    "endDate": "1916"
+                },
+                {
+                    "@type": "Organization",
+                    "name": "Local board of life insurance company in Malung",
+                    "startDate": "1918",
+                    "endDate": "1921"
+                },
+                {
+                    "@type": "Organization",
+                    "name": "Real Estate Bureau in Södertälje",
+                    "startDate": "1921",
+                    "endDate": "1924"
+                }
+            ]
+        },
+        "owns": {
+            "@type": "Place",
+            "name": "Property in Kungs-Tag 8, Eskilstuna"
+        },
+        "roles": [
+            {
+                "@type": "OrganizationRole",
+                "title": "Member",
+                "memberOf": "County commission in Västerdalarna folk high school",
+                "worksFor": "Malung"
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Member",
+                "memberOf": "Board for the poorhouse"
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Deputy air protection chief",
+                "memberOf": "Malung"
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Board member",
+                "memberOf": "Malungs Missionary Parish",
+                "roleName": "Treasurer"
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "Trip",
+                "name": "Germany",
+                "startDate": "1924"
+            }
+        ],
+        "hobbies": [
+            "Work"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Leatherworker",
+                "workplace": "S P Persson",
+                "industry": "Leatherworking",
+                "start_date": "1910"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "S P Persson",
+                "industry": "Leatherworking",
+                "start_date": "1910"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "S P Persson",
+                "industry": "Leatherworking",
+                "start_date": "1915"
+            },
+            {
+                "occupational_title": "Member of the local board",
+                "workplace": "Life Insurance Company",
+                "industry": "Insurance",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Real Estate Bureau",
+                "industry": "Real Estate",
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Co-owner",
+                "workplace": "Leander Larsson & Co",
+                "industry": "Leather Goods",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "Leander Larsson & Co",
+                "industry": "Leather Goods",
+                "start_date": "1938"
+            },
+            {
+                "occupational_title": "County Commissioner",
+                "workplace": "Västerdalarna Folk High School",
+                "industry": "Education",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Member of the Board",
+                "workplace": "Poorhouse",
+                "industry": "Social Services",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Deputy Air Protection Chief",
+                "workplace": "Malung",
+                "industry": "Civil Defense",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Board Member and Treasurer",
+                "workplace": "Malungs Missionary Parish",
+                "industry": "Religious Organization",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

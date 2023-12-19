@@ -1,0 +1,118 @@
+{
+    "original": "LUNDIN, Karl Nore Kristoffer, Handlande, Bofors, f Broängen, Tumba, Botkyrka s:n, Sthlms l, 15/3 86 av lantbr K J L o h h Margareta. Björstedtska Hdlssk i Sthlm. Anst i fma Aug Anderson i Tumba 00—05, AB Dahlin i Karlskoga 05—15, inneh eg spe-ceriaff und Fma Karl Lundin sed. 15 (sed. 38 livsmedelshdl). Ag hyres- o affärsfastigh 1 Karlskoga. Ordf i Karlskoga Köpm.frn o styr.led i Örebro läns Köpm.frb. Sv Köpm.-frbs utm.tecken g.",
+    "translated": "LUNDIN, Karl Nore Kristoffer, Merchant, Bofors, b. Broängen, Tumba, Botkyrka parish, Stockholm county, on March 15, 1886, to farmer K J L and his wife Margareta. Attended Björstedtska Commercial School in Stockholm. Employed at Aug Anderson in Tumba from 1900 to 1905, AB Dahlin in Karlskoga from 1905 to 1915, and then became the owner of a grocery store, Karl Lundin, since 1915 (since 1938, specializing in groceries). Owned and rented commercial and residential properties in Karlskoga. Chairman of Karlskoga Merchants' Association and board member of the Örebro County Merchants' Association. Received the Swedish Merchants' Association's distinguished service medal.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Karl Nore Kristoffer Lundin",
+        "birthDate": "1886-03-15",
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Broängen, Tumba, Botkyrka parish, Stockholm county"
+        },
+        "father": {
+            "@type": "Person",
+            "name": "K J L Lundin"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Margareta Lundin"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "diploma",
+            "educationalLevel": "secondary",
+            "educationalProgram": "Björstedtska Commercial School"
+        },
+        "occupation": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1900",
+                "endDate": "1905",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Aug Anderson"
+                },
+                "location": {
+                    "@type": "Place",
+                    "name": "Tumba"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1905",
+                "endDate": "1915",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Dahlin"
+                },
+                "location": {
+                    "@type": "Place",
+                    "name": "Karlskoga"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1915",
+                "roleName": "Owner",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Karl Lundin"
+                },
+                "specialty": "Groceries",
+                "location": {
+                    "@type": "Place",
+                    "name": "Karlskoga"
+                }
+            }
+        ],
+        "owns": {
+            "@type": "Place",
+            "name": "Karlskoga",
+            "propertyType": [
+                "commercial",
+                "residential"
+            ]
+        },
+        "affiliation": [
+            {
+                "@type": "Organization",
+                "name": "Karlskoga Merchants' Association",
+                "roleName": "Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Örebro County Merchants' Association",
+                "roleName": "Board Member"
+            }
+        ],
+        "awards": {
+            "@type": "Award",
+            "name": "Swedish Merchants' Association's Distinguished Service Medal"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Employee",
+                "workplace": "Aug Anderson",
+                "industry": "Unknown",
+                "start_date": "1900-01-01"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "AB Dahlin",
+                "industry": "Unknown",
+                "start_date": "1905-01-01"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "Karl Lundin",
+                "industry": "Grocery",
+                "start_date": "1915-01-01"
+            }
+        ]
+    }
+}

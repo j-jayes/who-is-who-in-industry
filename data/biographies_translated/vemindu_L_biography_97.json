@@ -1,0 +1,120 @@
+{
+    "original": "LAURENT, Torbern, Professor, Tekn Dr^ Lidingö, f Djursholm 19/8 96 av prakt läk E V L o Lilly Bergstrand, gm Bertha Svensson. Whitlockska samskolan, privatundervisnr KTH (E) 17—21, tekn dr 35. Anst v Tele-grafvkts provn.anst 21—28, v Telefon AB L M Ericssons transmissionsavd i Sthlm 28—44r prof i telegrafi o telefoni v KTH sed. 44. Uppfinnare t ett 50-tal patent. Deleg f Mexiko i Comité consultatif International des com-munications téléphoniques å grande distance 1 Berlin 29, Bryssel 30 o Sthlm 35. Publ ett 50-tal tekn vetenskapl upps o avhandl.",
+    "translated": "LAURENT, Torbern, Professor, PhD^ Lidingö, b. Djursholm August 19, 1896, son of practicing physician E.V.L and Lilly Bergstrand, m. Bertha Svensson. Attended Whitlockska samskolan, private tutoring at KTH (E) from 1917 to 1921, obtained PhD in 1935. Employed at Tele-grafvkts provn.anst from 1921 to 1928, then at Telefon AB L M Ericssons transmissionsavd in Stockholm from 1928 to 1944. Became a professor in telegraphy and telephony at KTH since 1944. Inventor of about 50 patents. Delegated as representative of Mexico in the International Advisory Committee for Long-Distance Telecommunications in Berlin 1929, Brussels 1930, and Stockholm 1935. Published about 50 scientific and technical research papers and essays.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Torbern Laurent",
+        "jobTitle": "Professor",
+        "birthPlace": "Djursholm, Sweden",
+        "birthDate": "1896-08-19",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "E.V.L"
+            },
+            {
+                "@type": "Person",
+                "name": "Lilly Bergstrand"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Bertha Svensson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "PhD",
+                "educationalLevel": "Tekn Dr",
+                "educationalProgram": "Tekn Dr",
+                "alumniOf": {
+                    "@type": "EducationalOrganization",
+                    "name": "Whitlockska samskolan"
+                },
+                "startDate": "1917",
+                "endDate": "1921"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Tele-grafvkts provn.anst",
+                "startDate": "1921",
+                "endDate": "1928"
+            },
+            {
+                "@type": "Organization",
+                "name": "Telefon AB L M Ericssons",
+                "department": "transmissionsavd",
+                "startDate": "1928",
+                "endDate": "1944"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "KTH",
+                "department": {
+                    "@type": "Organization",
+                    "name": "telegraphy and telephony"
+                },
+                "startDate": "1944"
+            }
+        ],
+        "invention": "About 50 patents",
+        "delegate": [
+            {
+                "@type": "Country",
+                "name": "Mexico"
+            }
+        ],
+        "committee": [
+            {
+                "@type": "Intangible",
+                "name": "Comité consultatif International des communications téléphoniques à grande distance",
+                "startDate": "1929",
+                "location": "Berlin"
+            },
+            {
+                "@type": "Intangible",
+                "name": "Comité consultatif International des communications téléphoniques à grande distance",
+                "startDate": "1930",
+                "location": "Brussels"
+            },
+            {
+                "@type": "Intangible",
+                "name": "Comité consultatif International des communications téléphoniques à grande distance",
+                "startDate": "1935",
+                "location": "Stockholm"
+            }
+        ],
+        "publications": "About 50 technical and scientific papers"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Professor",
+                "workplace": "KTH Royal Institute of Technology",
+                "industry": "Academia",
+                "start_date": "1944"
+            },
+            {
+                "occupational_title": "PhD",
+                "workplace": "KTH Royal Institute of Technology",
+                "industry": "Academia",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Tele-grafvkts provn.anst",
+                "industry": "Telecommunications",
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Telefon AB L M Ericssons transmissionsavd",
+                "industry": "Telecommunications",
+                "start_date": "1928"
+            }
+        ]
+    }
+}

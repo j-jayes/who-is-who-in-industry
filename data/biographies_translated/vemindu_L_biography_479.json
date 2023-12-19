@@ -1,0 +1,88 @@
+{
+    "original": "LÖFGREN, Karl Bertil Reinhold, Fabrikör, Nora, f Nyköping 28/12 94, gm Emma Landberg. Prakt i möbelbranschen sed. 14, anst v Nykp Ekmöbelfabr t 17, v Nora Möbelfabr 17—26, inneh dna fma sed. 26. Led av Sv Möbelind.frb o Nora Fabr- o Hantv.frn.",
+    "translated": "LÖFGREN, Karl Bertil Reinhold, Manufacturer, Nora, b. Nyköping 28/12 1894, m. Emma Landberg. Worked in the furniture industry since 1914, employed at Nyköping Ekmöbelfabr until 1917, then at Nora Möbelfabr until 1926, became a business owner in 1926. He was a member of the Swedish Furniture Industry Union and the Nora Trade and Craft Association.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Karl Bertil Reinhold LÖFGREN",
+        "jobTitle": "Manufacturer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Nora"
+        },
+        "birthDate": "1894-12-28",
+        "spouse": {
+            "@type": "Person",
+            "name": "Emma Landberg"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Furniture Industry Union"
+            },
+            {
+                "@type": "Organization",
+                "name": "Nora Trade and Craft Association"
+            }
+        ],
+        "workExperience": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1914",
+                "endDate": "1917",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Nyköping Ekmöbelfabr"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1917",
+                "endDate": "1926",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Nora Möbelfabr"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1926",
+                "roleName": "Business Owner",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Karl Bertil Reinhold LÖFGREN"
+                }
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Manufacturer",
+                "workplace": "Nora",
+                "industry": "Furniture Industry",
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Nyköping Ekmöbelfabr",
+                "industry": "Furniture Industry",
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Nora Möbelfabr",
+                "industry": "Furniture Industry",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Business Owner",
+                "workplace": "Own Business",
+                "industry": "Furniture Industry",
+                "start_date": "1926"
+            }
+        ]
+    }
+}

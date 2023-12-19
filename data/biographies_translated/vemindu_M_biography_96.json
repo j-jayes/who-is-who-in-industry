@@ -1,0 +1,122 @@
+{
+    "original": "MEINANDER, Johan Konrad Samuel, Direktör, Arboga, f Husby Rekarne, Sörml, 4/9 70 av kantor Alfred M o Augusta Jansson, gm Elna Jansson. Anst i Eskilstuna 85—88, Arboga 88, fma V S Norman &amp; Co 88—06, del-äg 00—06, start 06 tills m H öhrman fma öhrman &amp; Melander, vkst dir f denna 27 t AB omb firma.",
+    "translated": "MEINANDER, Johan Konrad Samuel, Director, Arboga, b. Husby Rekarne, Sörml, September 4th, 1870, son of cantor Alfred M and Augusta Jansson, married to Elna Jansson. Employed in Eskilstuna 1885-1888, Arboga 1888, employed by V S Norman &amp; Co 1888-1906, became a partial owner 1900-1906, started in 1906 together with H. Öhrman, managing director of Öhrman &amp; Melander, deputy managing director of the former from 1927, appointed to AB omb firma.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Johan Konrad Samuel Meinander",
+        "jobTitle": "Director",
+        "birthDate": "1870-09-04",
+        "birthPlace": "Husby Rekarne, Sörml",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Alfred M"
+            },
+            {
+                "@type": "Person",
+                "name": "Augusta Jansson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Elna Jansson"
+        },
+        "employment": [
+            {
+                "@type": "Organization",
+                "name": "Eskilstuna",
+                "startDate": "1885",
+                "endDate": "1888"
+            },
+            {
+                "@type": "Organization",
+                "name": "Arboga",
+                "startDate": "1888"
+            },
+            {
+                "@type": "Organization",
+                "name": "V S Norman & Co",
+                "startDate": "1888",
+                "endDate": "1906",
+                "roleName": "Employee",
+                "owns": {
+                    "@type": "Organization",
+                    "name": "Öhrman & Melander",
+                    "founder": [
+                        {
+                            "@type": "Person",
+                            "name": "Johan Konrad Samuel Meinander"
+                        },
+                        {
+                            "@type": "Person",
+                            "name": "H. Öhrman"
+                        }
+                    ],
+                    "managingDirector": {
+                        "@type": "Person",
+                        "name": "Johan Konrad Samuel Meinander"
+                    }
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "AB omb firma",
+                "startDate": "1927",
+                "roleName": "Deputy Managing Director"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Arboga",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Employed",
+                "workplace": "Eskilstuna",
+                "industry": "Unknown",
+                "start_date": "1885"
+            },
+            {
+                "occupational_title": "Employed",
+                "workplace": "Arboga",
+                "industry": "Unknown",
+                "start_date": "1888"
+            },
+            {
+                "occupational_title": "Employed",
+                "workplace": "V S Norman & Co",
+                "industry": "Unknown",
+                "start_date": "1888"
+            },
+            {
+                "occupational_title": "Partial Owner",
+                "workplace": "V S Norman & Co",
+                "industry": "Unknown",
+                "start_date": "1900"
+            },
+            {
+                "occupational_title": "Started",
+                "workplace": "Öhrman & Melander",
+                "industry": "Unknown",
+                "start_date": "1906"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "Öhrman & Melander",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Deputy Managing Director",
+                "workplace": "AB omb firma",
+                "industry": "Unknown",
+                "start_date": "1927"
+            }
+        ]
+    }
+}

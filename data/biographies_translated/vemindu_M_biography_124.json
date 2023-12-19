@@ -1,0 +1,102 @@
+{
+    "original": "MOHEDEN, Fritz Uno, Kamrer, Stockholm,, f Frösön, Jämtl, 22/7 16 av avd.ch C J Mattsson o Marta Åström, gm Kerstin Svensson. Hdlsgymn 34, resoffex 40; fänr Svea livg res? 41, löjtn 43. Korresp h Fredriksson &amp; Co AB Sthlm 36, kamr där sed. 42. Resor: Tyskl 36.",
+    "translated": "MOHEDEN, Fritz Uno, Accountant, Stockholm, born Frösön, Jämtland, 22/7 1916 to section chief C J Mattsson and Marta Åström, married to Kerstin Svensson. Graduated from commercial high school in 1934, reserve officer in 1940; second lieutenant in the Svea lifeguard reserve in 1941, lieutenant in 1943. Correspondent at Fredriksson & Co AB in Stockholm since 1936, accountant there since 1942. Travel: Germany in 1936.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Fritz Uno Moheden",
+        "jobTitle": "Accountant",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "birthDate": "1916-07-22",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Frösön, Jämtland"
+            }
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "C J Mattsson",
+                "jobTitle": "Section Chief"
+            },
+            {
+                "@type": "Person",
+                "name": "Marta Åström"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Kerstin Svensson"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Hdlsgymn",
+            "yearCredentialAwarded": 1934
+        },
+        "militaryService": [
+            {
+                "@type": "MilitaryService",
+                "branch": "Svea livg res",
+                "rank": "fänr",
+                "startDate": "1941"
+            },
+            {
+                "@type": "MilitaryService",
+                "branch": "Svea lifeguard reserve",
+                "rank": "löjtn",
+                "startDate": "1943"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "Fredriksson & Co AB",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm"
+                },
+                "jobTitle": "Correspondent",
+                "startDate": "1936",
+                "endDate": "1942"
+            },
+            {
+                "@type": "Organization",
+                "name": "Fredriksson & Co AB",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm"
+                },
+                "jobTitle": "Accountant",
+                "startDate": "1942"
+            }
+        ],
+        "travels": [
+            {
+                "@type": "Trip",
+                "name": "Tyskl 36",
+                "startDate": "1936"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Correspondent",
+                "workplace": "Fredriksson & Co AB",
+                "industry": "Unknown",
+                "start_date": "1936"
+            },
+            {
+                "occupational_title": "Accountant",
+                "workplace": "Fredriksson & Co AB",
+                "industry": "Unknown",
+                "start_date": "1942"
+            }
+        ]
+    }
+}

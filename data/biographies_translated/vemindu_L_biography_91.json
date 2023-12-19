@@ -1,0 +1,120 @@
+{
+    "original": "LARSSON, Thor Walter, Reklamchef, Stockholm, f Malmö 25/9 06 av källarmäst Rob L o Emma Möller, gm Eva Bengtsson. Studex Malmö 26. Journalist 26—36, med kand.ex i Sthlm, Karolinska Inst, 38. Tjm i AB Astra i Södertälje 38, reklamch o ch f informations-avd där sed. 40. Företagit ett flert resor i Danm, Norge o Tyskl. Hobby: Segling.",
+    "translated": "LARSSON, Thor Walter, Marketing Manager, Stockholm, b. Malmö 25/9 06 to cellar master Rob L and Emma Möller, m. Eva Bengtsson. Completed high school in Malmö in 1926. Worked as a journalist from 1926 to 1936, with a bachelor's degree in Stockholm from the Karolinska Institute in 1938. Worked as an intern in AB Astra in Södertälje in 1938, and became a marketing manager and head of the information department there since 1940. Has taken numerous trips to Denmark, Norway, and Germany. Hobby: Sailing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Thor",
+        "familyName": "Larsson",
+        "additionalName": "Walter",
+        "description": "Marketing Manager",
+        "birthDate": "1906-09-25",
+        "birthPlace": "Malmö",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Rob L",
+                "jobTitle": "Cellar Master"
+            },
+            {
+                "@type": "Person",
+                "name": "Emma Möller"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Eva Bengtsson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "high school diploma",
+                "educationalLevel": "high school",
+                "alumniOf": {
+                    "@type": "HighSchool",
+                    "name": "Malmö"
+                },
+                "endDate": "1926"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "bachelor's degree",
+                "educationalLevel": "bachelor's degree",
+                "alumniOf": {
+                    "@type": "CollegeOrUniversity",
+                    "name": "Karolinska Institute"
+                },
+                "endDate": "1938"
+            }
+        ],
+        "workExperience": [
+            {
+                "@type": "JobPosting",
+                "title": "Journalist",
+                "startDate": "1926",
+                "endDate": "1936"
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Intern",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Astra"
+                },
+                "startDate": "1938",
+                "endDate": "1938"
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Marketing Manager",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Astra"
+                },
+                "department": "Information Department",
+                "startDate": "1940"
+            }
+        ],
+        "knowsLanguage": [
+            {
+                "@type": "Language",
+                "name": "Danish"
+            },
+            {
+                "@type": "Language",
+                "name": "Norwegian"
+            },
+            {
+                "@type": "Language",
+                "name": "German"
+            }
+        ],
+        "hasOccupation": {
+            "@type": "Occupation",
+            "name": "Sailing",
+            "alternateName": "Hobby"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Journalist",
+                "workplace": "Unknown",
+                "industry": "Media",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Intern",
+                "workplace": "AB Astra",
+                "industry": "Pharmaceuticals",
+                "start_date": "1938"
+            },
+            {
+                "occupational_title": "Marketing Manager",
+                "workplace": "AB Astra",
+                "industry": "Pharmaceuticals",
+                "start_date": "1940"
+            }
+        ]
+    }
+}

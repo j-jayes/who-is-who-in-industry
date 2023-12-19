@@ -1,0 +1,93 @@
+{
+    "original": "LUNDGREN, Olof Artur, Kamrer, Skellefteå, f Umeå 11/8 08 av typogr O V L o Hilma A.splund, gm Sigrid Wallin. Realex 25. Anst Bröd Andersson, kolonialvarugross, Skell, 25—32, Bröd Forslunds Automobilaff sed. 33. Frimurare. Hobby: Friluftsliv.",
+    "translated": "LUNDGREN, Olof Artur, Clerk, Skellefteå, born Umeå 11/8/1908, son of typographer O V L and Hilma A.splund, married to Sigrid Wallin. Completed secondary education in 1925. Employed at Bröd Andersson, grocery wholesaler, Skellefteå, from 1925 to 1932. Employed at Bröd Forslunds Automobile shop since 1933. Freemason. Hobby: Outdoor life.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "givenName": "Olof",
+        "familyName": "Lundgren",
+        "name": "Olof Artur Lundgren",
+        "birthDate": "1908-08-11",
+        "birthPlace": "Umeå",
+        "jobTitle": "Clerk",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Skellefteå"
+        },
+        "father": {
+            "@type": "Person",
+            "name": "O V L"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Hilma A.splund"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Sigrid Wallin"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "SecondaryEducation",
+            "educationalLevel": "Realex",
+            "startDate": "1925-01-01",
+            "endDate": "1925-12-31"
+        },
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1925-01-01",
+                "endDate": "1932-12-31",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Bröd Andersson",
+                    "description": "Grocery wholesaler",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Skellefteå"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1933-01-01",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Bröd Forslunds Automobile Shop",
+                    "description": "Automobile shop",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Skellefteå"
+                    }
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Freemasons"
+            }
+        ],
+        "hobbies": [
+            "Outdoor life"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Clerk",
+                "workplace": "Bröd Andersson",
+                "industry": "Grocery wholesaler",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Clerk",
+                "workplace": "Bröd Forslunds Automobile shop",
+                "industry": "Automobile",
+                "start_date": "1933"
+            }
+        ]
+    }
+}

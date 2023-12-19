@@ -1,0 +1,114 @@
+{
+    "original": "MÖLLER, Eric Hjalmar Vilhelm, Kapten, Lidköping, f Vassända-Naglum, Älvsb l, 3/8 91 av förv Hj M o Annie Jacobsson, gm Karin Hemberg. Off 12—26, på övgst 20. Vkst dir o styr.led i Alfr Jubel &amp; Co AB sed. 36. Stdflm. Ordf Lidk skyt.frn, v. ordf Lidkp 1st-frn. RSO, RiksGM, h årtalsm g. Hobbies: Skytte, jakt, fiske.",
+    "translated": "MÖLLER, Eric Hjalmar Vilhelm, Captain, Lidköping, born in Vassända-Naglum, Älvsborgs län, on August 3rd, 1891, to the deceased Hjalmar MÖLLER and Annie Jacobsson, married to Karin Hemberg. Officer from 1912 to 1926, on the general staff from 1920. Vice Director and Board Member of Alfr Jubel & Co AB since 1936. Standard film enthusiast. Chairman of the Lidköping Shooting Association, Vice Chairman of Lidköping First Infantry Regiment. Recipient of the Royal Order of the Seraphim, RiksGM (Grand Cross of the Order of the Sword), and honorary year badge. Hobbies: Shooting, hunting, fishing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Eric Hjalmar Vilhelm Möller",
+        "jobTitle": "Captain",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Lidköping"
+        },
+        "birthDate": "1891-08-03",
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Vassända-Naglum, Älvsborgs län"
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Hjalmar Möller",
+                "deathDate": "unknown"
+            },
+            {
+                "@type": "Person",
+                "name": "Annie Jacobsson",
+                "deathDate": "unknown"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Karin Hemberg"
+        },
+        "occupation": [
+            {
+                "@type": "OrganizationRole",
+                "title": "Officer",
+                "startDate": "1912-01-01",
+                "endDate": "1926-12-31"
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "General Staff",
+                "startDate": "1920-01-01"
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Vice Director"
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Board Member",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Alfr Jubel & Co AB",
+                    "startDate": "1936-01-01"
+                }
+            }
+        ],
+        "interest": [
+            "Shooting",
+            "Hunting",
+            "Fishing"
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Lidköping Shooting Association",
+                "position": "Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Lidköping First Infantry Regiment",
+                "position": "Vice Chairman"
+            }
+        ],
+        "award": [
+            {
+                "@type": "Order",
+                "name": "Royal Order of the Seraphim"
+            },
+            {
+                "@type": "Order",
+                "name": "RiksGM (Grand Cross of the Order of the Sword)"
+            },
+            {
+                "@type": "Badge",
+                "name": "honorary year badge"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Captain",
+                "workplace": "Lidköping",
+                "industry": "Military",
+                "start_date": "1912"
+            },
+            {
+                "occupational_title": "Officer",
+                "workplace": "General Staff",
+                "industry": "Military",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Vice Director",
+                "workplace": "Alfr Jubel & Co AB",
+                "industry": "Unknown",
+                "start_date": "1936"
+            }
+        ]
+    }
+}

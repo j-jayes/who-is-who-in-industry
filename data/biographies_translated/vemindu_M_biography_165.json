@@ -1,0 +1,225 @@
+{
+    "original": "MÖLLER, Hans Oscar, Kamrer, Landskrona, f Lkrona 31/3 71 av hamnkapt H P M o Elise Ohlsson, gm Elisabeth Haastrup» Lkrona latinsk, Mannhems priv,sk Tidaholm. Anst h grhdl W Bagger 86—89 o 93—95, ss sjöman 89—91, h konsul Fritz Hansson 91—93,, förest AB Sv Tobaksmonop råtobakslager Dö-sjöbro 15—40, h W Weibulls AB sed. 15, v d® nikotinavd sed. 28. Inneh råtobakshdl engros 97—15, Cigarrfabr Skandia 95—97, Cey-loncigarrfabr 04—15. Ag Villa Granstuganj Dösjöbro sed. 23, fastigh.äg i kvart Gåsen Lkrona 03—17, fd inneh fastigh Skälen é Lkrona. Aff.res Holl, Frankr 03, Engl 05r Tyskl 02—20, Finl 06, Norge 91 o 34, Danm 02—40, Schweiz 39. PatrstGM; Odd Fellow.",
+    "translated": "MÖLLER, Hans Oscar, Clerk, Landskrona, born in Landskrona on March 31, 1871, son of harbor captain H P M and Elise Ohlsson, married Elisabeth Haastrup in Landskrona. Educated at Lkrona Latin School and Mannheim Private School in Tidaholm. Employed at W. Bagger from 1886 to 1889 and from 1893 to 1895, served as a sailor from 1889 to 1891, worked for consul Fritz Hansson from 1891 to 1893, then served as manager at AB Svenska Tobaksmonopolet's tobacco warehouse in Dösjöbro from 1915 to 1940, and at W. Weibulls AB since 1915, becoming vice director of the nicotine department in 1928. Owned a wholesale tobacco trade from 1897 to 1915, worked at Cigarrfabriken Skandia from 1895 to 1897, and at Ceylon Cigar Factory from 1904 to 1915. Owned Villa Granstugan in Dösjöbro since 1923 and properties in quarter Gåsen in Landskrona from 1903 to 1917, former owner of the property Skälen in Landskrona. Business trips included the Netherlands, France in 1903, England in 1905, Germany from 1902 to 1920, Finland in 1906, Norway in 1891 and 1934, Denmark from 1902 to 1940, and Switzerland in 1939. Member of the Odd Fellow fraternity.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Hans Oscar Möller",
+        "jobTitle": "Clerk",
+        "birthDate": "1871-03-31",
+        "birthPlace": "Landskrona",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "H P M",
+                "jobTitle": "Harbor Captain"
+            },
+            {
+                "@type": "Person",
+                "name": "Elise Ohlsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Elisabeth Haastrup",
+            "birthPlace": "Landskrona"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Landskrona Latin School"
+        },
+        "additionalEducation": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Mannheim Private School",
+                "location": "Tidaholm"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "W. Bagger",
+                "startDate": "1886",
+                "endDate": "1889"
+            },
+            {
+                "@type": "Organization",
+                "name": "W. Bagger",
+                "startDate": "1893",
+                "endDate": "1895"
+            },
+            {
+                "@type": "Organization",
+                "name": "Consulate of Fritz Hansson",
+                "startDate": "1891",
+                "endDate": "1893",
+                "jobTitle": "Manager"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Svenska Tobaksmonopolet",
+                "startDate": "1915",
+                "endDate": "1940",
+                "jobTitle": "Manager",
+                "department": "Tobacco Warehouse",
+                "location": "Dösjöbro"
+            },
+            {
+                "@type": "Organization",
+                "name": "W. Weibulls AB",
+                "startDate": "1915",
+                "jobTitle": "Vice Director",
+                "department": "Nicotine Department"
+            },
+            {
+                "@type": "Organization",
+                "name": "Wholesale Tobacco Trade",
+                "startDate": "1897",
+                "endDate": "1915",
+                "jobTitle": "Owner"
+            },
+            {
+                "@type": "Organization",
+                "name": "Cigarrfabriken Skandia",
+                "startDate": "1895",
+                "endDate": "1897"
+            },
+            {
+                "@type": "Organization",
+                "name": "Ceylon Cigar Factory",
+                "startDate": "1904",
+                "endDate": "1915"
+            }
+        ],
+        "businessOwnership": [
+            {
+                "@type": "OwnershipInfo",
+                "ownedFrom": "1903",
+                "ownedThrough": "1917",
+                "ownedProperty": {
+                    "@type": "Property",
+                    "name": "Gåsen",
+                    "location": "Landskrona"
+                }
+            },
+            {
+                "@type": "OwnershipInfo",
+                "ownedFrom": "1923",
+                "ownedProperty": {
+                    "@type": "Property",
+                    "name": "Villa Granstugan",
+                    "location": "Dösjöbro"
+                }
+            },
+            {
+                "@type": "OwnershipInfo",
+                "ownedProperty": {
+                    "@type": "Property",
+                    "name": "Skälen",
+                    "location": "Landskrona"
+                },
+                "isFormer": true
+            }
+        ],
+        "businessTrips": [
+            {
+                "@type": "Trip",
+                "name": "Netherlands"
+            },
+            {
+                "@type": "Trip",
+                "name": "France",
+                "startDate": "1903"
+            },
+            {
+                "@type": "Trip",
+                "name": "England",
+                "startDate": "1905"
+            },
+            {
+                "@type": "Trip",
+                "name": "Germany",
+                "startDate": "1902",
+                "endDate": "1920"
+            },
+            {
+                "@type": "Trip",
+                "name": "Finland",
+                "startDate": "1906"
+            },
+            {
+                "@type": "Trip",
+                "name": "Norway",
+                "startDate": "1891",
+                "endDate": "1934"
+            },
+            {
+                "@type": "Trip",
+                "name": "Denmark",
+                "startDate": "1902",
+                "endDate": "1940"
+            },
+            {
+                "@type": "Trip",
+                "name": "Switzerland",
+                "startDate": "1939"
+            }
+        ],
+        "fraternityMembership": {
+            "@type": "Organization",
+            "name": "Odd Fellow"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Clerk",
+                "workplace": "Landskrona",
+                "industry": "Unknown",
+                "start_date": "1871"
+            },
+            {
+                "occupational_title": "Sailor",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "1889"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "AB Svenska Tobaksmonopolet",
+                "industry": "Tobacco",
+                "start_date": "1915"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "W. Weibulls AB",
+                "industry": "Unknown",
+                "start_date": "1915"
+            },
+            {
+                "occupational_title": "Vice Director",
+                "workplace": "W. Weibulls AB (Nicotine Department)",
+                "industry": "Unknown",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "Wholesale tobacco trade",
+                "industry": "Tobacco",
+                "start_date": "1897"
+            },
+            {
+                "occupational_title": "Unknown",
+                "workplace": "Cigarrfabriken Skandia",
+                "industry": "Tobacco",
+                "start_date": "1895"
+            },
+            {
+                "occupational_title": "Unknown",
+                "workplace": "Ceylon Cigar Factory",
+                "industry": "Tobacco",
+                "start_date": "1904"
+            }
+        ]
+    }
+}

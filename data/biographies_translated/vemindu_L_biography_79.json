@@ -1,0 +1,237 @@
+{
+    "original": "LARSSON, John August, Direktör, Nyköping, f Norrköping 14/10 78 av nämndeman C A L o Christina Danielsson, gm Ellen Larsson. Folksk, hdlssk, språkstud. Hdls-elev F :a Axel Andersén Nrkp 98, lagerbokh Ludvig Wigart &amp; Co AB Hälsingborg 99—05. Eg manuf.aff Nrkp 05—09, ag o vkst dir Konfektions AB John Larsson Nykp (familjebol) sed. 10, ag fastigh Fruängsgat 13:6 Nykp. Styr.led Nykp yrkessk sed. 30, varder.man f sjöskad gods, fd led tax.nmd. Ordf i Nrkp Köpm.frn 28—29, v. ordf 29—42, styr.led Ny-kps Hdlsfrn sed. 30. Resor: Tyskl 14, 22, 30, 36, 39, Norge 33, Danm fi ggr, Finl 34. Sv Köpm.frbs ftjtg; Frimurare, Odd Fellow, Nykp Hdlssocietet. Hobbies: Firmaarbetet, trädgårdsodling.",
+    "translated": "LARSSON, John August, Director, Nyköping, born in Norrköping on 14/10 1878, son of the juryman C A L and Christina Danielsson, married to Ellen Larsson. Primary school, commerce school, language studies. Apprentice at Axel Andersén in Norrköping in 1898, warehouse clerk at Ludvig Wigart & Co AB in Hälsingborg from 1899 to 1905. Own manufacturing business in Norrköping from 1905 to 1909, current job as managing director and sales director at Konfektions AB John Larsson in Nyköping (family company) since 1910, also involved in property management at Fruängsgatan 13:6 in Nyköping. Board member of Nyköping Vocational School since 1930, responsible for maritime cargo damage, former member of the tax committee. Chairman of the Norrköping Merchants' Association from 1928 to 1929, vice chairman from 1929 to 1942, board member of Nyköping Commerce Association since 1930. Travel: Germany in 1914, 1922, 1930, 1936, and 1939; Norway in 1933, multiple trips to Denmark, and Finland in 1934. Member of the Swedish Merchants' Association; Freemason, Odd Fellow, Nyköping Commerce Society. Hobbies: Work at the company, gardening.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "John August Larsson",
+        "jobTitle": "Director",
+        "birthDate": "1878-10-14",
+        "birthPlace": "Norrköping, Sweden",
+        "father": {
+            "@type": "Person",
+            "name": "C A L"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Christina Danielsson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Ellen Larsson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Primary School"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Commerce School"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Language Studies"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "JobPosting",
+                "title": "Apprentice",
+                "startDate": "1898",
+                "endDate": "1898",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Axel Andersén"
+                },
+                "location": "Norrköping, Sweden"
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Warehouse Clerk",
+                "startDate": "1899",
+                "endDate": "1905",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Ludvig Wigart & Co AB"
+                },
+                "location": "Hälsingborg, Sweden"
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Own Manufacturing Business",
+                "startDate": "1905",
+                "endDate": "1909",
+                "location": "Norrköping, Sweden"
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Managing Director and Sales Director",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Konfektions AB John Larsson"
+                },
+                "startDate": "1910",
+                "location": "Nyköping, Sweden"
+            }
+        ],
+        "propertiesOwned": [
+            {
+                "@type": "Place",
+                "name": "Fruängsgatan 13:6",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Nyköping",
+                    "addressCountry": "Sweden"
+                }
+            }
+        ],
+        "organizationalLeadership": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Board Member",
+                "startDate": "1930",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Nyköping Vocational School"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Chairman",
+                "startDate": "1928",
+                "endDate": "1929",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Norrköping Merchants' Association",
+                    "location": "Norrköping, Sweden"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Vice Chairman",
+                "startDate": "1929",
+                "endDate": "1942",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Norrköping Merchants' Association",
+                    "location": "Norrköping, Sweden"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Board Member",
+                "startDate": "1930",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Nyköping Commerce Association",
+                    "location": "Nyköping, Sweden"
+                }
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "Trip",
+                "name": "Germany",
+                "startDate": "1914",
+                "endDate": "1914"
+            },
+            {
+                "@type": "Trip",
+                "name": "Germany",
+                "startDate": "1922",
+                "endDate": "1922"
+            },
+            {
+                "@type": "Trip",
+                "name": "Germany",
+                "startDate": "1930",
+                "endDate": "1930"
+            },
+            {
+                "@type": "Trip",
+                "name": "Germany",
+                "startDate": "1936",
+                "endDate": "1936"
+            },
+            {
+                "@type": "Trip",
+                "name": "Germany",
+                "startDate": "1939",
+                "endDate": "1939"
+            },
+            {
+                "@type": "Trip",
+                "name": "Norway",
+                "startDate": "1933",
+                "endDate": "1933"
+            },
+            {
+                "@type": "Trip",
+                "name": "Denmark"
+            },
+            {
+                "@type": "Trip",
+                "name": "Denmark"
+            },
+            {
+                "@type": "Trip",
+                "name": "Denmark"
+            },
+            {
+                "@type": "Trip",
+                "name": "Finland",
+                "startDate": "1934",
+                "endDate": "1934"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Merchants' Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Freemason"
+            },
+            {
+                "@type": "Organization",
+                "name": "Odd Fellow"
+            },
+            {
+                "@type": "Organization",
+                "name": "Nyköping Commerce Society",
+                "location": "Nyköping, Sweden"
+            }
+        ],
+        "hobbies": "Company work, gardening"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Apprentice",
+                "workplace": "Axel Andersén",
+                "industry": "Retail",
+                "start_date": "1898"
+            },
+            {
+                "occupational_title": "Warehouse Clerk",
+                "workplace": "Ludvig Wigart & Co AB",
+                "industry": "Textile",
+                "start_date": "1899"
+            },
+            {
+                "occupational_title": "Owner of Manufacturing Business",
+                "workplace": "Norrköping",
+                "industry": "Textile",
+                "start_date": "1905"
+            },
+            {
+                "occupational_title": "Managing Director and Sales Director",
+                "workplace": "Konfektions AB John Larsson",
+                "industry": "Textile",
+                "start_date": "1910"
+            }
+        ]
+    }
+}

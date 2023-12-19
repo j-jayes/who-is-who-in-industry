@@ -1,0 +1,68 @@
+{
+    "original": "MALMGREN, Sture A B, Grosshandlare, Kristianstad, f N Åsum, Krst l, 22/7 10 av A Malmgren o Hanna Persson, gm Irma Törnqvist. Hdlsutbildn. Etabl engrosfma Sture Malmgren 28. Resor: Tyskl 33—41. TR.",
+    "translated": "MALMGREN, Sture A B, Merchant, Kristianstad, b Åsum, Krst l, 22/7 10, to A Malmgren and Hanna Persson, m Irma Törnqvist. Business education. Established wholesale company Sture Malmgren in '28. Travel: Germany '33-'41. Married. \n\n(Note: TR. signifies the abbreviation for married.)",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Sture",
+        "additionalName": "A B",
+        "familyName": "Malmgren",
+        "birthDate": "1910-07-22",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Kristianstad",
+                "addressRegion": "Åsum",
+                "addressCountry": "Sweden"
+            }
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "A Malmgren"
+            },
+            {
+                "@type": "Person",
+                "name": "Hanna Persson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Irma Törnqvist"
+        },
+        "education": {
+            "@type": "Glossary",
+            "glossaryType": "business education"
+        },
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Sture Malmgren"
+        },
+        "memberOfStartDate": "1928",
+        "memberOfEndDate": null,
+        "travel": {
+            "@type": "Event",
+            "name": "Germany",
+            "startDate": "1933",
+            "endDate": "1941"
+        },
+        "spouseStatus": "married"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Kristianstad",
+                "industry": "Wholesale",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Traveler",
+                "workplace": "Germany",
+                "industry": "N/A",
+                "start_date": "1933"
+            }
+        ]
+    }
+}

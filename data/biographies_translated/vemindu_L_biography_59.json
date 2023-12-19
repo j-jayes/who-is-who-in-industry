@@ -1,0 +1,113 @@
+{
+    "original": "LARSSON, Carl A, Fabrikör, Göteborg, f Gbg 20/8 90, gm Gunhild Eliasson. Verktygs-arb i mek verkst.fmor t 18, verkmäst v Borås Mek Verkst 18—19, start Carl Larssons Mek Verkst i Gbg 19 (nu AB). Rejsor: Engl, Tyskl, USA, Schweiz, Belg, Holl, Finl, Frankr, Norge, Danmark.",
+    "translated": "LARSSON, Carl A, Industrialist, Gothenburg, b. Gothenburg 20/8 90, m. Gunhild Eliasson. Worked as a tool worker in mechanical workshop until 1918, foreman at Borås Mechanical Workshop 1918-1919, started Carl Larsson's Mechanical Workshop in Gothenburg in 1919 (now a limited company). Travelled to England, Germany, USA, Switzerland, Belgium, the Netherlands, Finland, France, Norway, and Denmark.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl A Larsson",
+        "jobTitle": "Fabrikör",
+        "birthPlace": "Gothenburg",
+        "birthDate": "1890-08-20",
+        "spouse": {
+            "@type": "Person",
+            "name": "Gunhild Eliasson"
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Carl Larssons Mek Verkst",
+            "foundingDate": "1919",
+            "sameAs": "AB"
+        },
+        "occupation": "Industrialist",
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Borås Mechanical Workshop"
+        },
+        "workExperience": [
+            {
+                "@type": "JobPosting",
+                "startDate": "1918",
+                "endDate": "1919",
+                "title": "Foreman",
+                "hiringOrganization": {
+                    "@type": "Organization",
+                    "name": "Borås Mechanical Workshop"
+                }
+            },
+            {
+                "@type": "JobPosting",
+                "startDate": "1919",
+                "title": "Founder",
+                "hiringOrganization": {
+                    "@type": "Organization",
+                    "name": "Carl Larssons Mek Verkst",
+                    "sameAs": "AB"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Country",
+                "name": "England"
+            },
+            {
+                "@type": "Country",
+                "name": "Germany"
+            },
+            {
+                "@type": "Country",
+                "name": "USA"
+            },
+            {
+                "@type": "Country",
+                "name": "Switzerland"
+            },
+            {
+                "@type": "Country",
+                "name": "Belgium"
+            },
+            {
+                "@type": "Country",
+                "name": "Netherlands"
+            },
+            {
+                "@type": "Country",
+                "name": "Finland"
+            },
+            {
+                "@type": "Country",
+                "name": "France"
+            },
+            {
+                "@type": "Country",
+                "name": "Norway"
+            },
+            {
+                "@type": "Country",
+                "name": "Denmark"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Tool worker",
+                "workplace": "Mechanical workshop",
+                "industry": "Mechanical",
+                "start_date": "Before 1918"
+            },
+            {
+                "occupational_title": "Foreman",
+                "workplace": "Borås Mechanical Workshop",
+                "industry": "Mechanical",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Industrialist",
+                "workplace": "Carl Larsson's Mechanical Workshop",
+                "industry": "Mechanical",
+                "start_date": "1919"
+            }
+        ]
+    }
+}

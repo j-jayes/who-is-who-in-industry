@@ -1,0 +1,211 @@
+{
+    "original": "NORDLING, Bo Tore, Bankdirektör, Västerås, f Sthlm 15/4 01 av godsäg E N o Blenda Tengelin, gm Emmy af Trampe. Studex V.ås 20, jur kand StHS 24. Tingstjg Krist 24—27. amanuens Pensionsstyr 27—29 o Försäkr.rådet 29, kamr Sthlms läns Sparb 30—36, vkst dir Westml Sparb V.ås sed. 36, Ordf tax.nmd V.ås, statens rev f krigsfaniiljebidr.nmdr i Västml. Styr.led Mell Sv:es Sparb.frn, rev Sparfrämjandet AB, Sthlm, förste rev.suppl Sv Sparb.frn, Sthlm. Resor: Tyskl 23, Danm 25, Norge 28, Tyskl, Schweiz, Frankr 31. Av trycket: I ekon ämnen ett flert upps i ST Sparb.tidskr. Medl Västml Juristfrn, V.ås Fotoklubb, V.ås Tennisklubb, Nat.ekon Frn, Riksmusei Vänner mfl. ,Hobbies: Fotografering, schack, tennis, filateli.",
+    "translated": "NORDLING, Bo Tore, Bank Director, Västerås, born in Stockholm on April 15, 1901, son of landowner E.N. and Blenda Tengelin, married Emmy af Trampe. Graduated from Västerås School in 1920, obtained a law degree from Stockholm University in 1924. Served as a court clerk in Kristinehamn from 1924 to 1927. Worked as an assistant at the Pension Board from 1927 to 1929 and the Insurance Council from 1929. Became a cashier at Stockholm County Savings Bank from 1930 to 1936, then promoted to deputy director at Westmanland Savings Bank in Västerås from 1936 onwards. Served as Chairman of the Tax Committee in Västerås and a member of the State Revenue Committee for War Family Aid in Westmanland. Also served on the Board of Middle Sweden's Savings Bank Association, the Audit Committee of Sparfrämjandet AB in Stockholm, and as the first deputy auditor for Swedish Savings Banks in Stockholm. Traveled to Germany in 1923, Denmark in 1925, Norway in 1928, and Germany, Switzerland, and France in 1931. Published numerous articles on economic topics in the General Savings Bank Journal. Member of the Westmanland Law Association, Västerås Photography Club, Västerås Tennis Club, National Economics Society, and Friends of the National Museum, among others. Hobbies include photography, chess, tennis, and philately.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Bo Tore Nordling",
+        "jobTitle": "Bank Director",
+        "birthDate": "1901-04-15",
+        "birthPlace": "Stockholm",
+        "spouse": {
+            "@type": "Person",
+            "name": "Emmy af Trampe"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "educationalLevel": "Bachelor's Degree",
+            "alumniOf": [
+                {
+                    "@type": "CollegeOrUniversity",
+                    "name": "Västerås School"
+                },
+                {
+                    "@type": "CollegeOrUniversity",
+                    "name": "Stockholm University",
+                    "location": "Stockholm"
+                }
+            ]
+        },
+        "workExperience": [
+            {
+                "@type": "Court",
+                "name": "Kristinehamn",
+                "startDate": "1924",
+                "endDate": "1927",
+                "position": "Court Clerk"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "GovernmentOrganization",
+                    "name": "Pension Board"
+                },
+                "startDate": "1927",
+                "endDate": "1929",
+                "position": "Assistant"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "GovernmentOrganization",
+                    "name": "Insurance Council"
+                },
+                "startDate": "1929",
+                "position": "Assistant"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "BankOrCreditUnion",
+                    "name": "Stockholm County Savings Bank"
+                },
+                "startDate": "1930",
+                "endDate": "1936",
+                "position": "Cashier"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "BankOrCreditUnion",
+                    "name": "Westmanland Savings Bank (Västerås)"
+                },
+                "startDate": "1936",
+                "position": "Deputy Director"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Tax Committee (Västerås)"
+            },
+            {
+                "@type": "Organization",
+                "name": "State Revenue Committee for War Family Aid (Westmanland)"
+            },
+            {
+                "@type": "Organization",
+                "name": "Middle Sweden's Savings Bank Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Audit Committee of Sparfrämjandet AB (Stockholm)"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Savings Banks"
+            },
+            {
+                "@type": "Organization",
+                "name": "Westmanland Law Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Västerås Photography Club"
+            },
+            {
+                "@type": "Organization",
+                "name": "Västerås Tennis Club"
+            },
+            {
+                "@type": "Organization",
+                "name": "National Economics Society"
+            },
+            {
+                "@type": "Organization",
+                "name": "Friends of the National Museum"
+            }
+        ],
+        "sameAs": [
+            "https://example.com/person/bo-tore-nordling"
+        ],
+        "hobbies": [
+            "Photography",
+            "Chess",
+            "Tennis",
+            "Philately"
+        ],
+        "publication": [
+            {
+                "@type": "PublicationIssue",
+                "name": "General Savings Bank Journal",
+                "publisher": {
+                    "@type": "Organization",
+                    "name": "General Savings Bank"
+                }
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "TravelAction",
+                "fromLocation": "Sweden",
+                "toLocation": "Germany",
+                "startDate": "1923"
+            },
+            {
+                "@type": "TravelAction",
+                "fromLocation": "Sweden",
+                "toLocation": "Denmark",
+                "startDate": "1925"
+            },
+            {
+                "@type": "TravelAction",
+                "fromLocation": "Sweden",
+                "toLocation": "Norway",
+                "startDate": "1928"
+            },
+            {
+                "@type": "TravelAction",
+                "fromLocation": "Sweden",
+                "toLocation": "Germany",
+                "startDate": "1931"
+            },
+            {
+                "@type": "TravelAction",
+                "fromLocation": "Sweden",
+                "toLocation": "Switzerland",
+                "startDate": "1931"
+            },
+            {
+                "@type": "TravelAction",
+                "fromLocation": "Sweden",
+                "toLocation": "France",
+                "startDate": "1931"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Court clerk",
+                "workplace": "Kristinehamn",
+                "industry": "Government",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Assistant",
+                "workplace": "Pension Board",
+                "industry": "Government",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Assistant",
+                "workplace": "Insurance Council",
+                "industry": "Government",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Cashier",
+                "workplace": "Stockholm County Savings Bank",
+                "industry": "Finance",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Deputy director",
+                "workplace": "Westmanland Savings Bank",
+                "industry": "Finance",
+                "start_date": "1936"
+            }
+        ]
+    }
+}

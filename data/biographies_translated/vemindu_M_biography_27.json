@@ -1,0 +1,172 @@
+{
+    "original": "MALMBERG, Erik S, Direktör, Stockholm, f Glialöv, Krst l, 14/5 94 av byggmäst Olof M o Anna Jönsson, gm Wiktoria Uppgren. Borgarsk hdlslinje 10. Kont h AB Wilh Becker Sthlm 10—13, avd.chef 13—18, dir.ass o kont.chef h Gillberg &amp; Malm AB Sthlm 18—19, förest dna fmas Gbgskont 19—20, försäljn.chef i grhdlsfma Ernst Gillberg Sthlm 20—21, avd.chef i AB Handel f Norden Sthlm 21—23, förest f grhdlsfman Axel H Ågren AB :s, Gbg, Sthlmskont sed. 23. Odd Fellow, stift av Sällskapet Jarlarna. Hobby: Motorsport.",
+    "translated": "MALMBERG, Erik S, Director, Stockholm, born in Glialöv, Kristianstad län, on May 14, 1894, to builder Olof M and Anna Jönsson. Married to Wiktoria Uppgren. Completed a bourgeois commerce course (equivalent to high school) in 1910. Worked at AB Wilh Becker in Stockholm from 1910 to 1913, serving as department head from 1913 to 1918, and as assistant director and head of the office at Gillberg &amp; Malm AB in Stockholm from 1918 to 1919. Managed the Gothenburg office for a manufacturing company from 1919 to 1920, and worked as the sales manager at Ernst Gillberg in Stockholm from 1920 to 1921. Became a department head at AB Handel f Norden in Stockholm from 1921 to 1923, and has been in charge of the Stockholm office of grhdlsfman Axel H Ågren AB since 1923. Member of the Odd Fellow Lodge, established by the Society of Jarls. Hobby: Motorsport.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Erik S Malmberg",
+        "jobTitle": "Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "birthDate": "1894-05-14",
+        "birthPlace": "Glialöv, Kristianstad län",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Olof Malmberg",
+                "jobTitle": "Builder"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Jönsson"
+            }
+        ],
+        "spouse": [
+            {
+                "@type": "Person",
+                "name": "Wiktoria Uppgren"
+            }
+        ],
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "high school equivalent",
+            "educationalLevel": "Bourgeois commerce course",
+            "startDate": "1910",
+            "endDate": "1910"
+        },
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Wilh Becker",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm"
+                    }
+                },
+                "startDate": "1910",
+                "endDate": "1913",
+                "roleName": "Department Head"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Gillberg & Malm AB",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm"
+                    }
+                },
+                "startDate": "1918",
+                "endDate": "1919",
+                "roleName": "Assistant Director, Head of Office"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Manufacturing Company (Gothenburg Office)"
+                },
+                "startDate": "1919",
+                "endDate": "1920",
+                "roleName": "Office Manager"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Ernst Gillberg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm"
+                    }
+                },
+                "startDate": "1920",
+                "endDate": "1921",
+                "roleName": "Sales Manager"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Handel f Norden",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm"
+                    }
+                },
+                "startDate": "1921",
+                "endDate": "1923",
+                "roleName": "Department Head"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Axel H Ågren AB",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Gothenburg, Stockholm"
+                    }
+                },
+                "startDate": "1923",
+                "roleName": "Charge of Stockholm Office"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Odd Fellow Lodge"
+        },
+        "hobbies": "Motorsport"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Department Head",
+                "workplace": "AB Wilh Becker",
+                "industry": "Commerce",
+                "start_date": "1910"
+            },
+            {
+                "occupational_title": "Department Head",
+                "workplace": "Gillberg & Malm AB",
+                "industry": "Commerce",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Office Manager",
+                "workplace": "Gillberg & Malm AB",
+                "industry": "Commerce",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Gothenburg Office Manager",
+                "workplace": "Manufacturing Company",
+                "industry": "Manufacturing",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Sales Manager",
+                "workplace": "Ernst Gillberg",
+                "industry": "Commerce",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Department Head",
+                "workplace": "AB Handel f Norden",
+                "industry": "Commerce",
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Office Head",
+                "workplace": "Axel H Ågren AB",
+                "industry": "Commerce",
+                "start_date": "1923"
+            }
+        ]
+    }
+}

@@ -1,0 +1,171 @@
+{
+    "original": "NORDENSKJÖLD, Christer, Civilingenjör, Viskafors, f Vreta Kloster 23/7 10 av major S N o Elsa Orre, gm Eva Welander. Studex Växjö 28, KTH 32; Istoffkurs 36, Istf 40—42. Anst Liljeholmens Stearinfabr Sthlm 33—34, ch.kern Skand Gummi AB Viskafors 34—40,driftschef sed. 40. Led Ind.komm gummibyrås tekn.kté sed. 42, led av tekn komm i Berlin f förhandl om inköp av hjälpkemik f tillv av Bunagummi 42—43. Resor: Tyskl, Tjeckoslov s KTH-stip 36, Tyskl 42. Pistolskyttemg; Par Bricole (5 gr), ordf kamratfrn Osquarerna Borås 43, led Sv Tekn.frn. Hobby: Pistol-skytte.",
+    "translated": "NORDENSKJÖLD, Christer, Civil Engineer, Viskafors, b. Vreta Kloster 23/7 1910, son of Major S N and Elsa Orre, m. Eva Welander. Graduate of Växjö 1928, KTH 1932; Course in Chemical Engineering 1936, Chemical Engineering 1940-1942. Employed at Liljeholmens Stearinfabr Stockholm 1933-1934, head clerk at Skand Gummi AB Viskafors 1934-1940, then plant manager. Chairman of the Industrial Committee of the rubber office technical committee since 1942, member of the technical committee in Berlin for negotiations on purchasing auxiliary chemicals for the production of Bunagummi 1942-1943. Travels: Germany, Czechoslovakia on KTH scholarship in 1936, Germany in 1942. Pistol shooting training; member of Bricole Club (5 gr), chairman of the Osquarerna comrades' association Borås in 1943, member of the Swedish Technical Society. Hobby: Pistol shooting.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Christer Nordenskjöld",
+        "jobTitle": "Civil Engineer",
+        "birthPlace": "Vreta Kloster",
+        "birthDate": "1910-07-23",
+        "father": {
+            "@type": "Person",
+            "name": "Major S N Nordenskjöld"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Elsa Orre"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Eva Welander"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Graduate",
+                "educationalLevel": "High School",
+                "educationalCredentialAwarded": "Studex",
+                "educationalInstitution": {
+                    "@type": "CollegeOrUniversity",
+                    "name": "Växjö"
+                },
+                "startDate": "1928",
+                "endDate": "1928"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Graduate",
+                "educationalLevel": "Bachelor's",
+                "educationalCredentialAwarded": "KTH",
+                "educationalInstitution": {
+                    "@type": "CollegeOrUniversity",
+                    "name": "KTH"
+                },
+                "startDate": "1932",
+                "endDate": "1932"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Certificate",
+                "educationalLevel": "Chemical Engineering",
+                "educationalCredentialAwarded": "Istoffkurs",
+                "educationalInstitution": {
+                    "@type": "CollegeOrUniversity",
+                    "name": "Unknown"
+                },
+                "startDate": "1936",
+                "endDate": "1936"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Certificate",
+                "educationalLevel": "Chemical Engineering",
+                "educationalCredentialAwarded": "Istf",
+                "educationalInstitution": {
+                    "@type": "CollegeOrUniversity",
+                    "name": "Unknown"
+                },
+                "startDate": "1940",
+                "endDate": "1942"
+            }
+        ],
+        "workExperience": [
+            {
+                "@type": "Organization",
+                "name": "Liljeholmens Stearinfabr",
+                "startDate": "1933",
+                "endDate": "1934"
+            },
+            {
+                "@type": "Organization",
+                "name": "Skand Gummi AB",
+                "title": "Head Clerk",
+                "department": "Viskafors",
+                "startDate": "1934",
+                "endDate": "1940"
+            },
+            {
+                "@type": "Organization",
+                "name": "Skand Gummi AB",
+                "title": "Plant Manager",
+                "department": "Viskafors",
+                "startDate": "1940"
+            },
+            {
+                "@type": "Organization",
+                "name": "Industrial Committee",
+                "startDate": "1942"
+            },
+            {
+                "@type": "Organization",
+                "name": "Technical Committee",
+                "location": "Berlin",
+                "startDate": "1942",
+                "endDate": "1943"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Bricole Club",
+                "membershipType": "Regular",
+                "startDate": "Unknown",
+                "endDate": "Unknown"
+            },
+            {
+                "@type": "Organization",
+                "name": "Osquarerna comrades' association",
+                "location": "Borås",
+                "startDate": "1943",
+                "endDate": "1943",
+                "roleName": "Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Technical Society",
+                "startDate": "Unknown",
+                "endDate": "Unknown"
+            }
+        ],
+        "sameAs": {
+            "@type": "URL",
+            "url": "https://example.com/christer-nordenskjold"
+        },
+        "hobby": "Pistol shooting"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Liljeholmens Stearinfabr",
+                "industry": "Chemical Engineering",
+                "start_date": "1933-1934"
+            },
+            {
+                "occupational_title": "Head Clerk",
+                "workplace": "Skand Gummi AB",
+                "industry": "Rubber Manufacturing",
+                "start_date": "1934-1940"
+            },
+            {
+                "occupational_title": "Plant Manager",
+                "workplace": "Skand Gummi AB",
+                "industry": "Rubber Manufacturing",
+                "start_date": "1940"
+            },
+            {
+                "occupational_title": "Chairman of Industrial Committee",
+                "workplace": "Rubber Office Technical Committee",
+                "industry": "Rubber Manufacturing",
+                "start_date": "1942"
+            },
+            {
+                "occupational_title": "Member of Technical Committee",
+                "workplace": "Berlin",
+                "industry": "Rubber Manufacturing",
+                "start_date": "1942-1943"
+            }
+        ]
+    }
+}

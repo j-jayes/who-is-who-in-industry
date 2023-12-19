@@ -1,0 +1,113 @@
+{
+    "original": "NORDSJÖ, Fredrik Wilhelm, Civilingenjör, Djursholm, f Linköping 3/4 83 av domkyrko-sysslom O N o Maria Dohrmann, gm Dagny Carlson. Mog.ex Linkp 01, ex KTH (eltekn) 05. Anst Norrköpings spårvägar 05—06, v ing Olof Dahl Patentbyrå Sthlm 06—17, AB C E Johansson Eskilstuna 17—18, dir AB Dahls Patentbyrå Sthlm sed. 18. Sekr Sv Patent-omb.frn sed. 29. Led Sv Tekn.frn.",
+    "translated": "NORDSJÖ, Fredrik Wilhelm, Civil Engineer, Djursholm, b. Linköping on March 4th, 1883, son of the Cathedral Bailiff Olof Nordsjö and Maria Dohrmann, married to Dagny Carlson. Completed his military service in Linköping in 1901 and graduated from the Royal Institute of Technology (specializing in electrical engineering) in 1905. Employed by the Norrköping Tramways from 1905 to 1906, then worked at the Olof Dahl Patent Agency in Stockholm from 1906 to 1917. Joined AB C E Johansson in Eskilstuna in 1917 and served until 1918, then became director of AB Dahls Patent Agency in Stockholm from 1918. Secretary at the Swedish Patent Office since 1929. Member of the Swedish Technical Association.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Fredrik Wilhelm Nordsjö",
+        "birthDate": "1883-03-04",
+        "birthPlace": "Linköping, Sweden",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Olof Nordsjö",
+                "jobTitle": "Cathedral Bailiff"
+            },
+            {
+                "@type": "Person",
+                "name": "Maria Dohrmann"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Dagny Carlson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Linköping Military Service"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Royal Institute of Technology",
+                "specialization": "Electrical Engineering",
+                "startDate": "1901",
+                "endDate": "1905"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Norrköping Tramways",
+                "startDate": "1905",
+                "endDate": "1906"
+            },
+            {
+                "@type": "Organization",
+                "name": "Olof Dahl Patent Agency",
+                "location": "Stockholm",
+                "startDate": "1906",
+                "endDate": "1917"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB C E Johansson",
+                "location": "Eskilstuna",
+                "startDate": "1917",
+                "endDate": "1918"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Dahls Patent Agency",
+                "location": "Stockholm",
+                "startDate": "1918"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Patent Office",
+                "title": "Secretary",
+                "startDate": "1929"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Technical Association"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Norrköpings Tramways",
+                "industry": "Public Transportation",
+                "start_date": "1905"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Olof Dahl Patent Agency",
+                "industry": "Patent Services",
+                "start_date": "1906"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "AB C E Johansson",
+                "industry": "Engineering",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "AB Dahls Patent Agency",
+                "industry": "Patent Services",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Secretary",
+                "workplace": "Swedish Patent Office",
+                "industry": "Government Services",
+                "start_date": "1929"
+            }
+        ]
+    }
+}

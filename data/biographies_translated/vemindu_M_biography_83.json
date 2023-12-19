@@ -1,0 +1,194 @@
+{
+    "original": "MATTS, Anders Gustav, Direktör, Falun, f Rättvik 6/11 03 av målarm Matts Jon Andersson o Anna A:son, gm Anna Lundin. Hdlssk. Förest Standard herrekip Falun 27— 29, ch Rättviks HAB 29—32, övert Stånd herrekip 32 o namnändr den t AB Matts herrservice, inneh av Matts’ Standard o Matts* Junior, samtl i Falun. Led stat priskontr.-nmd o ch f dess textilsekt, fd textilsakk i stat livsmed.kommiss, led tax.nmdn. Resor: Norge 35—36, Finl 36, Engl 37, Danm uppr ggr. Odd Fellow, TR. Hobbies: Filmning o foto.",
+    "translated": "Matts, Anders Gustav, Director, Falun, born in Rättvik on November 6, 1903, to painter Matts Jon Andersson and Anna A:son, married to Anna Lundin. Handicraft education. Formerly served as the Superintendent of the Standard Men's Department in Falun from 1927 to 1929, and as a cashier in Rättviks HAB from 1929 to 1932. Took over the management of Stånd Men's Department in 1932 and changed the name to AB Matts Men's Service. Owned Matts' Standard and Matts' Junior stores in Falun. Acted as a member of the state price contract committee and chaired its textile division. Former textile consultant for the state food commission and member of the tax committee. Traveled to Norway in 1935-1936, Finland in 1936, England in 1937, and Denmark several times. Member of the Odd Fellow and TR organizations. Hobbies include filming and photography.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Anders Gustav Matts",
+        "birthDate": "1903-11-06",
+        "birthPlace": "Rättvik",
+        "description": "Director from Falun",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Matts Jon Andersson",
+                "occupation": "Painter"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna A:son"
+            }
+        ],
+        "spouse": [
+            {
+                "@type": "Person",
+                "name": "Anna Lundin"
+            }
+        ],
+        "education": "Handicraft",
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "Standard Men's Department",
+                "alternateName": "Stånd Men's Department",
+                "startDate": "1927",
+                "endDate": "1929",
+                "location": "Falun"
+            },
+            {
+                "@type": "Organization",
+                "name": "Rättviks HAB",
+                "startDate": "1929",
+                "endDate": "1932",
+                "location": "Rättvik"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Matts Men's Service",
+                "alternateName": "Matts' Standard and Matts' Junior",
+                "startDate": "1932",
+                "location": "Falun"
+            }
+        ],
+        "positions": [
+            {
+                "@type": "Role",
+                "name": "Superintendent",
+                "startDate": "1927",
+                "endDate": "1929",
+                "memberOf": [
+                    {
+                        "@type": "Organization",
+                        "name": "Standard Men's Department",
+                        "location": "Falun"
+                    }
+                ]
+            },
+            {
+                "@type": "Role",
+                "name": "Cashier",
+                "startDate": "1929",
+                "endDate": "1932",
+                "memberOf": [
+                    {
+                        "@type": "Organization",
+                        "name": "Rättviks HAB",
+                        "location": "Rättvik"
+                    }
+                ]
+            },
+            {
+                "@type": "Role",
+                "name": "Manager",
+                "startDate": "1932",
+                "memberOf": [
+                    {
+                        "@type": "Organization",
+                        "name": "AB Matts Men's Service",
+                        "location": "Falun"
+                    }
+                ]
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Odd Fellow"
+            },
+            {
+                "@type": "Organization",
+                "name": "TR"
+            }
+        ],
+        "hobbies": [
+            "Filming",
+            "Photography"
+        ],
+        "travel": [
+            {
+                "place": "Norway",
+                "startDate": "1935",
+                "endDate": "1936"
+            },
+            {
+                "place": "Finland",
+                "startDate": "1936",
+                "endDate": "1936"
+            },
+            {
+                "place": "England",
+                "startDate": "1937",
+                "endDate": "1937"
+            },
+            {
+                "place": "Denmark"
+            }
+        ],
+        "committees": [
+            {
+                "@type": "Role",
+                "name": "Member",
+                "memberOf": [
+                    {
+                        "@type": "Organization",
+                        "name": "State Price Contract Committee"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "Tax Committee"
+                    }
+                ]
+            },
+            {
+                "@type": "Role",
+                "name": "Chair",
+                "memberOf": [
+                    {
+                        "@type": "Organization",
+                        "name": "State Price Contract Committee",
+                        "textileDivision": "Chair"
+                    }
+                ]
+            },
+            {
+                "@type": "Role",
+                "name": "Former Textile Consultant",
+                "memberOf": [
+                    {
+                        "@type": "Organization",
+                        "name": "State Food Commission",
+                        "textileSector": "Former Textile Consultant"
+                    }
+                ]
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Superintendent",
+                "workplace": "Standard Men's Department",
+                "industry": "Retail",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Cashier",
+                "workplace": "Rättviks HAB",
+                "industry": "Retail",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Stånd Men's Department",
+                "industry": "Retail",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "AB Matts Men's Service",
+                "industry": "Retail",
+                "start_date": "1932"
+            }
+        ]
+    }
+}

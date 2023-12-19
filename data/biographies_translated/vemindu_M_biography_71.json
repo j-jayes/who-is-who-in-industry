@@ -1,0 +1,394 @@
+{
+    "original": "MARTIN, Karl August Martin J:son, Disponent, Vaxholm, f Södertälje 7/1 80 av snick P A Johansson o Anna Elisabet Hellberg, gm Marta Holmqvist. Und.off.ex 01, löjtn i marinen sed. 35. Ldstm 10—26, v. ordf ldst 19—26, ordf fin.utsk o 2. hälsov.utsk, led av förvaltn.utsk o sjukv.nmd, av lotsv löne-regl.komm 12, ordf i stdsflm sed. 19, i kyrko-flm sed. 38, sakk inom f in. dep betr friköp av Vaxh.tomter 26, utredn.man o sekr betr fiskets administr 36—37, led av 35 års fiskeri-utredn 35—37, enmanskomm betr fiskarnas org.väs 38—39, sekr i 40 års fiskeriutredn, vattenrattsnmdeman i österbygdens vatten-domst, styr.ordf i AB Vaxholmsbost, av Ind.-kommiss uts ordf i styr f Sv Fiskredskaps-imp :as Frn, led av samt föredr i ärenden rör Sthlms l i styr f C Smitts fond B f främj av havsfiske. 2:a kamin 10—14. RVO, GM medb f ört j, 8:e storl.",
+    "translated": "MARTIN, Karl August Martin J:son, Manager, Vaxholm, born in Södertälje on the 7th of January, 1880, to carpenter P A Johansson and Anna Elisabet Hellberg, married to Marta Holmqvist. Completed official examination in 1901, serving as lieutenant in the navy since 1935. Vice chairman of the local municipal council from 1910 to 1926, acting chairman from 1919 to 1926, chairman of the finance committee and the second health committee, member of the administration committee and the medical board, chairman of the salary regulations committee for pilots since 1912, chairman of the board of the seed bank since 1919, chairman of the church board since 1938, expert within the finance department on the acquisition of Vaxholm properties since 1926, investigator and secretary for fishery administration from 1936 to 1937, member of the 35-year fisheries investigation from 1935 to 1937, single commissioner for fishermen's organizational matters from 1938 to 1939, secretary for the 40-year fisheries investigation, water court member in the eastern district water court, chairman of the board of AB Vaxholmsbost, nominated chairman of the Industrial Commission in the board of directors of Swedish Fishery Equipment Import Company, member and rapporteur on matters concerning Stockholm's fishing industry in the board of directors of C Smitt's fund for the promotion of sea fishing. Second chamber member from 1910 to 1914. Awarded Royal Order of Vasa, married with children. 8th-class Order of the Sword.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "givenName": "Karl August",
+        "additionalName": "Martin",
+        "familyName": "J:son",
+        "jobTitle": "Disponent",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Vaxholm"
+        },
+        "birthDate": "1880-01-07",
+        "birthPlace": "Södertälje",
+        "father": {
+            "@type": "Person",
+            "givenName": "P A",
+            "familyName": "Johansson",
+            "occupation": "Snickare"
+        },
+        "mother": {
+            "@type": "Person",
+            "givenName": "Anna Elisabet",
+            "familyName": "Hellberg"
+        },
+        "spouse": {
+            "@type": "Person",
+            "givenName": "Marta",
+            "familyName": "Holmqvist"
+        },
+        "education": "Official Examination (1901)",
+        "militaryService": {
+            "@type": "OrganizationRole",
+            "roleName": "Lieutenant",
+            "startDate": "1935"
+        },
+        "politicalCareer": {
+            "@type": "GovernmentOrganization",
+            "name": "Vaxholm Local Municipal Council",
+            "viceChair": {
+                "@type": "OrganizationRole",
+                "startDate": "1910",
+                "endDate": "1926"
+            },
+            "chair": {
+                "@type": "OrganizationRole",
+                "startDate": "1919",
+                "endDate": "1926"
+            },
+            "financeCommittee": {
+                "@type": "OrganizationRole",
+                "roleName": "Chairman"
+            },
+            "healthCommittee": {
+                "@type": "OrganizationRole",
+                "roleName": "Vice Chairman",
+                "startDate": "1919",
+                "endDate": "1926"
+            },
+            "administrationCommittee": {
+                "@type": "OrganizationRole",
+                "roleName": "Member"
+            },
+            "medicalBoard": {
+                "@type": "OrganizationRole",
+                "roleName": "Member"
+            }
+        },
+        "professionalCareer": [
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Pilots Salary Regulations Committee"
+                },
+                "roleName": "Chairman",
+                "startDate": "1912"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Vaxholmsbost"
+                },
+                "roleName": "Chairman",
+                "startDate": "1919"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Church Board"
+                },
+                "roleName": "Chairman",
+                "startDate": "1938"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Finance Department"
+                },
+                "roleName": "Expert",
+                "specialty": "Acquisition of Vaxholm properties",
+                "startDate": "1926"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Fishery Administration"
+                },
+                "roleName": "Investigator and Secretary",
+                "startDate": "1936",
+                "endDate": "1937"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "35-year Fisheries Investigation"
+                },
+                "roleName": "Member",
+                "startDate": "1935",
+                "endDate": "1937"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Fishermen's Organizational Matters Commission"
+                },
+                "roleName": "Single Commissioner",
+                "startDate": "1938",
+                "endDate": "1939"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "40-year Fisheries Investigation"
+                },
+                "roleName": "Secretary"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Eastern District Water Court"
+                },
+                "roleName": "Water Court Member"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Vaxholmsbost"
+                },
+                "roleName": "Chairman of the Board"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Swedish Fishery Equipment Import Company"
+                },
+                "roleName": "Chairman",
+                "specialty": "Industrial Commission"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "C Smitt's Fund"
+                },
+                "roleName": "Member and Rapporteur",
+                "specialty": "Matters concerning Stockholm's fishing industry"
+            }
+        ],
+        "otherPositions": [
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Stdsflm"
+                },
+                "roleName": "Chairman",
+                "startDate": "1919"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Kyrko-flm"
+                },
+                "roleName": "Chairman",
+                "startDate": "1938"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Lotsv"
+                },
+                "roleName": "Chairman of Salary Regulations Committee",
+                "startDate": "1912"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Ind.-kommiss"
+                },
+                "roleName": "Chairman",
+                "startDate": "1912"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Sv Fiskredskaps-imp :as Frn"
+                },
+                "roleName": "Nominated Chairman",
+                "startDate": "1912"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Sthlms l"
+                },
+                "roleName": "Member and Rapporteur",
+                "startDate": "1912"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "C Smitts fond B f främj av havsfiske"
+                },
+                "roleName": "Member and Rapporteur"
+            }
+        ],
+        "chamberMembership": [
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Second Chamber"
+                },
+                "roleName": "Member",
+                "startDate": "1910",
+                "endDate": "1914"
+            }
+        ],
+        "honorificSuffix": [
+            "RVO",
+            "GM"
+        ],
+        "children": true
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Disponent",
+                "workplace": "Vaxholm",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Löjtnant",
+                "workplace": "Marinen",
+                "industry": "Military",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Ldstm",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "1910"
+            },
+            {
+                "occupational_title": "Vice chairman",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Chairman of finance committee",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Chairman of second health committee",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Member of administration committee",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Member of medical board",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Chairman of salary regulations committee for pilots",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "1912"
+            },
+            {
+                "occupational_title": "Chairman of board of seed bank",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Chairman of church board",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "1938"
+            },
+            {
+                "occupational_title": "Expert within finance department",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Investigator and secretary for fishery administration",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "1936"
+            },
+            {
+                "occupational_title": "Member of 35-year fisheries investigation",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Single commissioner for fishermen's organizational matters",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "1938"
+            },
+            {
+                "occupational_title": "Secretary for 40-year fisheries investigation",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Water court member in eastern district water court",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Chairman of board of AB Vaxholmsbost",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Chairman of Industrial Commission in board of directors of Swedish Fishery Equipment Import Company",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Member and rapporteur on matters concerning Stockholm's fishing industry in board of directors of C Smitt's fund for the promotion of sea fishing",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Second chamber member",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "1910"
+            }
+        ]
+    }
+}

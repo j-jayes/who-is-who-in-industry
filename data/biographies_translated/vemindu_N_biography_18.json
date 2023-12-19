@@ -1,0 +1,154 @@
+{
+    "original": "NELSON, Frank Grosvenor, överingenjör, Nyköping, f Detroit, USA, 8/1 92 av postmast Thomas Frederick N o Sofia Skårup, gm skådespelerskan Elsa Wallin. Detroit Techn ColL Automotive Eng 24. Anst Briggs Mfg Co Detroit 19—24, Yellow Truck &amp; Coach Mfg Ca Chicago 24—28, ass superintend Gen Motors Corp 28—29, ing o fabr.ch i USA, Tyskl, Engl, Belg, Sv mm 29—33, fabr.chef AB Sv bilfabr 34—39. övering AB Nyköp Autofabr sed. 39. Affärsres USA, Europa, Ind mm. Amer, eng, fr o belg dekorat. Hobby: Golf.",
+    "translated": "NELSON, Frank Grosvenor, Chief Engineer, Nyköping, of Detroit, USA, born 8/1 92 to postmaster Thomas Frederick N and Sofia Skårup, married to actress Elsa Wallin. Detroit Technical College, Automotive Engineering, graduated in 1924. Employed at Briggs Manufacturing Company, Detroit 19—24, Yellow Truck & Coach Manufacturing Company, Chicago 24—28, Assistant Superintendent at General Motors Corp 28—29. Worked in engineering and fabrication in the USA, Germany, England, Belgium, Sweden, and others from 1929—1933. Factory manager at AB Svenska Bilfabriken from 1934—1939. Chief Engineer at AB Nyköpings Autofabrik since 1939. Business trips to the USA, Europe, India, and others. Decorations from America, England, France, and Belgium. Hobby: Golf.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Frank Grosvenor Nelson",
+        "jobTitle": "Chief Engineer",
+        "birthDate": "1892-01-08",
+        "birthPlace": "Nyköping, Sweden",
+        "nationality": "Swedish",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Detroit",
+            "addressRegion": "Michigan",
+            "addressCountry": "USA"
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Thomas Frederick Nelson",
+                "jobTitle": "Postmaster"
+            },
+            {
+                "@type": "Person",
+                "name": "Sofia Skårup"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Elsa Wallin",
+            "jobTitle": "Actress"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Detroit Technical College",
+            "location": "Detroit",
+            "startDate": "1924",
+            "endDate": "1924"
+        },
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1919",
+                "endDate": "1924",
+                "roleName": "Briggs Manufacturing Company",
+                "namedPosition": "Automotive Engineering"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1924",
+                "endDate": "1928",
+                "roleName": "Yellow Truck & Coach Manufacturing Company",
+                "namedPosition": "Chicago"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1928",
+                "endDate": "1929",
+                "roleName": "General Motors Corp",
+                "namedPosition": "Assistant Superintendent"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1929",
+                "endDate": "1933",
+                "roleName": "Engineering and Fabrication",
+                "namedPosition": "USA, Germany, England, Belgium, Sweden"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1934",
+                "endDate": "1939",
+                "roleName": "AB Svenska Bilfabriken",
+                "namedPosition": "Factory Manager"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1939",
+                "roleName": "AB Nyköpings Autofabrik",
+                "namedPosition": "Chief Engineer"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "AB Nyköpings Autofabrik"
+            }
+        ],
+        "sameAs": "https://example.com/frank-nelson",
+        "honorificSuffix": "Eng",
+        "knowsLanguage": [
+            "English",
+            "Swedish",
+            "German",
+            "French",
+            "Belgian"
+        ],
+        "hasOccupation": "Golf",
+        "hasDecoration": [
+            "American Decoration",
+            "English Decoration",
+            "French Decoration",
+            "Belgian Decoration"
+        ],
+        "hasInterest": "Golf"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Chief Engineer",
+                "workplace": "Nyköping",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Employed at Briggs Manufacturing Company",
+                "workplace": "Detroit",
+                "industry": "Manufacturing",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Employed at Yellow Truck & Coach Manufacturing Company",
+                "workplace": "Chicago",
+                "industry": "Manufacturing",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Assistant Superintendent at General Motors Corp",
+                "workplace": "Unknown",
+                "industry": "Automotive",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Worked in engineering and fabrication",
+                "workplace": "USA, Germany, England, Belgium, Sweden, and others",
+                "industry": "Engineering and Fabrication",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Factory Manager at AB Svenska Bilfabriken",
+                "workplace": "Unknown",
+                "industry": "Automotive",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Chief Engineer at AB Nyköpings Autofabrik",
+                "workplace": "Unknown",
+                "industry": "Automotive",
+                "start_date": "1939"
+            }
+        ]
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "original": "NORDENBORG, Nils Haraldsson, Civilingenjör, Skoghall, f Sundsvall 1/6 14 av här.-skr H W N o Karin Ekendahl. Studex Sdsv 32, KTH 37; resoffex 34, löjtn Svea art.regis res. Anst v KTH 37—38, v Cellulosaindustriens centrallab 39, v Uddeholms AB, Elkemiska fabr, Skoghall, sed. 40. Led Sv Tekn.frn o Kemistsamf.",
+    "translated": "NORDENBORG, Nils Haraldsson, Civil Engineer, Skoghall, born Sundsvall on June 1, 1914, son of H W N and Karin Ekendahl. Graduated from Sundsvalls Grammar School in 1932, Royal Institute of Technology in 1937; reserve officer in 1934, lieutenant in the Swedish Artillery Reserve. Employed at the Royal Institute of Technology from 1937 to 1938, central laboratory of Cellulosaindustriens in 1939, Uddeholms AB, Elkemiska fabr, Skoghall since 1940. Member of the Swedish Technical Association and the Chemical Society.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Nils Haraldsson Nordenborg",
+        "birthDate": "1914-06-01",
+        "familyName": "Nordenborg",
+        "givenName": "Nils Haraldsson",
+        "jobTitle": "Civil Engineer",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Technical Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Chemical Society"
+            }
+        ],
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "H W N"
+            },
+            {
+                "@type": "Person",
+                "name": "Karin Ekendahl"
+            }
+        ],
+        "alumniOf": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Sundsvalls Grammar School",
+                "location": "Sundsvall",
+                "endDate": "1932"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Royal Institute of Technology",
+                "location": "Stockholm",
+                "endDate": "1937"
+            }
+        ],
+        "hasOccupation": [
+            {
+                "@type": "Occupation",
+                "name": "Civil Engineer"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Uddeholms AB, Elkemiska fabr",
+                "location": "Skoghall",
+                "startDate": "1940"
+            }
+        ],
+        "hasReserveStatus": [
+            {
+                "@type": "MilitaryReserve",
+                "name": "Swedish Artillery Reserve",
+                "rank": "Lieutenant",
+                "startDate": "1934"
+            }
+        ],
+        "hasEducation": [
+            {
+                "@type": "EducationEvent",
+                "name": "Studex",
+                "startDate": "1932",
+                "endDate": "1934",
+                "educationalLevel": "SecondaryEducation"
+            },
+            {
+                "@type": "EducationEvent",
+                "name": "Reserve Officer Training",
+                "startDate": "1934",
+                "endDate": "1937",
+                "educationalLevel": "ProfessionalEducation"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Skoghall",
+                "industry": "",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Reserve Officer",
+                "workplace": "",
+                "industry": "Swedish Artillery Reserve",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Royal Institute of Technology",
+                "industry": "Education",
+                "start_date": "1937"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Central laboratory of Cellulosaindustriens",
+                "industry": "Chemical Industry",
+                "start_date": "1939"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Uddeholms AB, Elkemiska fabr, Skoghall",
+                "industry": "Metallurgical Industry",
+                "start_date": "1940"
+            }
+        ]
+    }
+}

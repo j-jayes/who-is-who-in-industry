@@ -1,0 +1,86 @@
+{
+    "original": "MAGNUSSON, Ernst Gustaf, Grosshandlare, Borås, f Mariestad 24/2 81 av Anders Gustaf M o Kristina M, gm Olga Westerberg. Mst hal, hdlsinst Gbg. Anst speceribransch 96— 03, kass Mst brygg.AB 04—20, Stenlunds eftr (kolon.varufma engr) Borås sed. 20. Styr.led sistnmda AB, L Alb Larsson &amp; Co Mölndal, Vgl grossistfrn. Frimurare, Odd Fellow, PB. Hobby: Fröding.",
+    "translated": "MAGNUSSON, Ernst Gustaf, Wholesale Merchant, Borås, b. Mariestad 24/2 1881, s/o Anders Gustaf M and Kristina M, m. Olga Westerberg. Certified in retail and trade in Gothenburg. Employed in the grocery industry 1896-1903, cashier at Mst Brygg AB 1904-1920, at Stenlunds Eftr (a colonial goods company) in Borås since 1920. Board member of the latter company, L Alb Larsson & Co in Mölndal, wholesale distributor. Freemason, Odd Fellow, PB. Hobby: Fröding.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Ernst Gustaf Magnussion",
+        "jobTitle": "Wholesale Merchant",
+        "birthDate": "1881-02-24",
+        "birthPlace": "Mariestad",
+        "father": {
+            "@type": "Person",
+            "name": "Anders Gustaf Magnussion"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Kristina Magnussion"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Olga Westerberg"
+        },
+        "gender": "Male",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Freemasons"
+            },
+            {
+                "@type": "Organization",
+                "name": "Odd Fellows"
+            },
+            {
+                "@type": "Organization",
+                "name": "PB"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Mst Brygg AB",
+                "startDate": "1904",
+                "endDate": "1920",
+                "jobTitle": "Cashier"
+            },
+            {
+                "@type": "Organization",
+                "name": "Stenlunds Eftr",
+                "startDate": "1920",
+                "jobTitle": "Cashier"
+            },
+            {
+                "@type": "Organization",
+                "name": "L Alb Larsson & Co",
+                "jobTitle": "Board member"
+            }
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Borås"
+        },
+        "hobby": "Fröding"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Wholesale Merchant",
+                "workplace": "Borås",
+                "industry": "Grocery",
+                "start_date": "1896"
+            },
+            {
+                "occupational_title": "Cashier",
+                "workplace": "Mst Brygg AB",
+                "industry": "Grocery",
+                "start_date": "1904"
+            },
+            {
+                "occupational_title": "Cashier",
+                "workplace": "Stenlunds Eftr",
+                "industry": "Colonial goods",
+                "start_date": "1920"
+            }
+        ]
+    }
+}

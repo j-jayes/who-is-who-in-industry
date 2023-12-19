@@ -1,0 +1,167 @@
+{
+    "original": "MALMKOS, Frans Folke Reinhold, Direktör, Vara, f Trelleborg 5/3 96 av dir o skpsred F M o h h f Nilsson, gm Walda Norén. Studex, DHS, hospitant v Alnarps lantbr.inst. Inneh eg fma i Skara 17, vkst dir f AB Skärfs Torf-ströfabr 19, prok i fma C Erikson Vara 22, vkst dir där 25. Vkst dir o huv.intress i AB Osthuset Vara, Vara Kontrollhönseri, Vara Silverrävgård o Lidaborgs Trädgårdsodl sed. 32. Ag fastigh Håkesgården Skärstad. Led komm.flm o komm.nmd mm. Styr.led AB Osthuset o AB Skärfs Torfströfabr. Resor: Tyskl 22, 32, Polen, Danm.",
+    "translated": "MALMKOS, Frans Folke Reinhold, Director, Vara, b. Trelleborg 5/3 1896, son of director and ship owner F M and his wife Nilsson, married to Walda Norén. Studex, DHS, intern at Alnarp Agricultural Institute. Owns farmland in Skara from 1917, appointed as managing director of AB Skärfs Torf-ströfabr in 1919, deputy in the company C Erikson Vara in 1922, promoted to managing director there in 1925. Managing director and main shareholder in AB Osthuset Vara, Vara Kontrollhönseri, Vara Silverrävgård, and Lidaborgs Trädgårdsodl since 1932. Agricultural property Håkesgården in Skärstad. Member of municipal committee and municipal board, and more. Board member of AB Osthuset and AB Skärfs Torfströfabr. Travels: Germany 1922, 1932, Poland, Denmark.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Frans Folke Reinhold Malmkos",
+        "birthDate": "1896-03-05",
+        "birthPlace": "Trelleborg",
+        "description": "Director",
+        "nationality": "Swedish",
+        "spouse": "Walda Norén",
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Studex"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "DHS"
+            },
+            {
+                "@type": "Intangible",
+                "name": "Internship at Alnarp Agricultural Institute"
+            }
+        ],
+        "owns": {
+            "@type": "Landform",
+            "name": "Håkesgården",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Skärstad"
+            },
+            "ownershipEndDate": "present",
+            "ownershipStartDate": "1917"
+        },
+        "career": [
+            {
+                "@type": "JobRole",
+                "startDate": "1919",
+                "endDate": "present",
+                "roleName": "Managing Director",
+                "namedPosition": "AB Skärfs Torf-ströfabr"
+            },
+            {
+                "@type": "JobRole",
+                "startDate": "1922",
+                "endDate": "present",
+                "roleName": "Deputy",
+                "namedPosition": "C Erikson Vara"
+            },
+            {
+                "@type": "JobRole",
+                "startDate": "1925",
+                "endDate": "present",
+                "roleName": "Managing Director",
+                "namedPosition": "C Erikson Vara"
+            },
+            {
+                "@type": "JobRole",
+                "startDate": "1932",
+                "endDate": "present",
+                "roleName": "Managing Director",
+                "namedPosition": "AB Osthuset Vara"
+            },
+            {
+                "@type": "JobRole",
+                "startDate": "1932",
+                "endDate": "present",
+                "roleName": "Managing Director",
+                "namedPosition": "Vara Kontrollhönseri"
+            },
+            {
+                "@type": "JobRole",
+                "startDate": "1932",
+                "endDate": "present",
+                "roleName": "Managing Director",
+                "namedPosition": "Vara Silverrävgård"
+            },
+            {
+                "@type": "JobRole",
+                "startDate": "1932",
+                "endDate": "present",
+                "roleName": "Managing Director",
+                "namedPosition": "Lidaborgs Trädgårdsodl"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Municipal Committee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Municipal Board"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Osthuset"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Skärfs Torfströfabr"
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "Place",
+                "name": "Germany"
+            },
+            {
+                "@type": "Place",
+                "name": "Poland"
+            },
+            {
+                "@type": "Place",
+                "name": "Denmark"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "AB Skärfs Torf-ströfabr",
+                "industry": "Peat and straw manufacturing",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Deputy",
+                "workplace": "C Erikson Vara",
+                "industry": "Unknown",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "C Erikson Vara",
+                "industry": "Unknown",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "AB Osthuset Vara",
+                "industry": "Various",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "Vara Kontrollhönseri",
+                "industry": "Poultry industry",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "Vara Silverrävgård",
+                "industry": "Silver fox farming",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "Lidaborgs Trädgårdsodl",
+                "industry": "Gardening and horticulture",
+                "start_date": "1932"
+            }
+        ]
+    }
+}

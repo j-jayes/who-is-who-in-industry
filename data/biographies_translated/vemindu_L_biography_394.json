@@ -1,0 +1,67 @@
+{
+    "original": "LUNDBERG, Jakob Viktor, Sparbanks direktör, Sala, f Sala 7/8 84 av borgmäst O L o Anna Dahlström, gm Blenda Petersson. Anst Sala-Gysinge-Gävle jvg 01—14, Sala sparbk sed. 14.",
+    "translated": "LUNDBERG, Jakob Viktor, Savings Bank Director, born in Sala on 7th August 1884, son of borgmäst O L and Anna Dahlström, married Blenda Petersson. Employed at Sala-Gysinge-Gävle railway 1901-1914, employed at Sala Savings Bank since 1914.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Jakob Viktor Lundberg",
+        "birthDate": "1884-08-07",
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Sala"
+        },
+        "description": "Savings Bank Director",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "O L Lundberg",
+                "jobTitle": "Borgmäst"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Dahlström"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Blenda Petersson"
+        },
+        "employmentHistory": [
+            {
+                "@type": "JobPosting",
+                "startDate": "1901-01-01",
+                "endDate": "1914-12-31",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Sala-Gysinge-Gävle railway"
+                },
+                "description": "Employed at Sala-Gysinge-Gävle railway from 1901 to 1914"
+            },
+            {
+                "@type": "JobPosting",
+                "startDate": "1914-01-01",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Sala Savings Bank"
+                },
+                "description": "Employed at Sala Savings Bank since 1914"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Savings Bank Director",
+                "workplace": "Sala Savings Bank",
+                "industry": "Banking",
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Sala-Gysinge-Gävle railway",
+                "industry": "Railway",
+                "start_date": "1901"
+            }
+        ]
+    }
+}

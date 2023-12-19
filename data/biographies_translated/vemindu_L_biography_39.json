@@ -1,0 +1,139 @@
+{
+    "original": "LARSEN, Henning:, Disponent, Malmö, f Hilleröd, Danm, 14/6 11 av postm Chr Christensen Larsen o Jenny Rundin-Olesen, gm Anna-Lisa Axen. Studex 29, h hdlsex fr Niels -Broeks hdlssk Kpnhmn 33. Manuf.prakt i IKontantforretningen Maribo 29—32, anst Nord Fjerfabr AS Kpnhmn 33—35, disp Nord f jäder-tfabr AB Malmö sed. 35. Hobbies: Musik, teater, tennis. LARSÉN, Henning: Fletscher, Grosshandlare, Norrköping, f Svartvik 30/8 82 av insp T L o Marie Fleiseher, gm Alfhild Liljedahl. Hudiksv hal, aff.utb Tyskl o Frankr 00—05. Anst Johan Sjöberg övik 06, Maggi Gesellsch, Kemptal Schweiz, 07, små fma Berlin 08—09. S]tabl fma H Larsén 10, AB 41. Frimurare, W6, Sällsk Bikupan, SHRF (dess vet.m 41).",
+    "translated": "LARSEN, Henning: Manager, Malmö, born in Hilleröd, Denmark, on June 14, 1911, to postal worker Chr Christensen Larsen and Jenny Rundin-Olesen, married to Anna-Lisa Axen. Graduated in 1929, studied trade at Niels-Broeks Trade School in Copenhagen from 1933. Practical training in the Cash Store Maribo from 1929 to 1932, employed at Nord Feather Factory AS Copenhagen from 1933 to 1935, and has been a manager at Nord Feather Factory AB in Malmö since 1935. Hobbies: Music, theater, tennis.\n\nLARSÉN, Henning: Merchant, Norrköping, born in Svartvik on August 30, 1882, to inspector T L and Marie Fleiseher, married to Alfhild Liljedahl. Education in business abroad in Germany and France from 1900 to 1905. Employed at Johan Sjöberg in Örnsköldsvik in 1906 and at Maggi Gesellschaft in Kemptal, Switzerland, in 1907. Small business in Berlin from 1908 to 1909, established his own business in 1910, and formed AB 41. Freemason, W6, member of the society Bikupan and SHRF (its veterinary member since 1941).",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Henning Larsen",
+        "jobTitle": "Manager",
+        "birthDate": "1911-06-14",
+        "birthPlace": {
+            "@type": "City",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Hilleröd",
+                "addressCountry": "Denmark"
+            }
+        },
+        "father": {
+            "@type": "Person",
+            "name": "Chr Christensen Larsen",
+            "jobTitle": "Postal Worker"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Jenny Rundin-Olesen"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Anna-Lisa Axen"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Graduation",
+                "startDate": "1929"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Trade School",
+                "startDate": "1933",
+                "endDate": "1933",
+                "credentialSubject": "Trade",
+                "recognizedBy": {
+                    "@type": "EducationalOrganization",
+                    "name": "Niels-Broeks Trade School"
+                }
+            }
+        ],
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Practical training",
+                "startDate": "1929",
+                "endDate": "1932",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Cash Store Maribo"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Employee",
+                "startDate": "1933",
+                "endDate": "1935",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Nord Feather Factory AS Copenhagen"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Manager",
+                "startDate": "1935",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Nord Feather Factory AB Malmö"
+                }
+            }
+        ],
+        "hobbies": [
+            "Music",
+            "Theater",
+            "Tennis"
+        ],
+        "relatedTo": [
+            {
+                "@type": "Person",
+                "name": "Alfhild Liljedahl",
+                "relation": "Spouse"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Disponent",
+                "workplace": "Nord fjerfabr AB, Malmö",
+                "industry": "Feather manufacturing",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Manuf.prakt",
+                "workplace": "IKontantforretningen Maribo",
+                "industry": "Cash store",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Anst",
+                "workplace": "Nord Fjerfabr AS, Kopenhagen",
+                "industry": "Feather manufacturing",
+                "start_date": "1933"
+            },
+            {
+                "occupational_title": "Fletscher",
+                "workplace": "Johan Sjöberg",
+                "industry": "Unknown",
+                "start_date": "1906"
+            },
+            {
+                "occupational_title": "Anst",
+                "workplace": "Maggi Gesellsch, Kemptal",
+                "industry": "Unknown",
+                "start_date": "1907"
+            },
+            {
+                "occupational_title": "S]tabl fma",
+                "workplace": "H Larsén",
+                "industry": "Unknown",
+                "start_date": "1910"
+            },
+            {
+                "occupational_title": "Grosshandlare",
+                "workplace": "Unknown",
+                "industry": "Wholesale trade",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

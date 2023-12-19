@@ -1,0 +1,87 @@
+{
+    "original": "LUNDAHL, Karl Johan Theodor J:son, Direktör, Lidingö, f Vetlanda 8/11 77 av pred S Johansson o Amanda J, gm Ruth Ekman. Ex Gbgs hdlsinst 94. Deläg fma John Bernström &amp; Co Sthlm 08, dir AB Ahlsell &amp; Bern-ström Sthlm sed. 22. RVO.",
+    "translated": "LUNDAHL, Karl Johan Theodor J:son, Director, Lidingö, born in Vetlanda on November 8th, 1877, son of the priest S Johansson and Amanda J, married to Ruth Ekman. Former merchant in Gothenburg in 1894. Co-owner of John Bernström & Co in Stockholm since 1908, director of AB Ahlsell & Bernström in Stockholm since 1922. Royal Medal of Merit recipient.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Karl Johan Theodor Lundahl",
+        "birthDate": "1877-11-08",
+        "birthPlace": "Vetlanda, Sweden",
+        "description": "Director",
+        "nationality": "Swedish",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "S Johansson",
+                "jobTitle": "Priest"
+            },
+            {
+                "@type": "Person",
+                "name": "Amanda J"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ruth Ekman"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "John Bernström & Co",
+                "startDate": "1894",
+                "endDate": "1908",
+                "jobTitle": "Merchant",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Gothenburg",
+                    "addressCountry": "Sweden"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Ahlsell & Bernström",
+                "startDate": "1908",
+                "endDate": "1922",
+                "jobTitle": "Director",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm",
+                    "addressCountry": "Sweden"
+                }
+            }
+        ],
+        "awards": [
+            {
+                "@type": "Medal",
+                "name": "Royal Medal of Merit"
+            }
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Lidingö",
+            "addressCountry": "Sweden"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Former merchant",
+                "workplace": "Gothenburg",
+                "industry": "",
+                "start_date": "1894"
+            },
+            {
+                "occupational_title": "Co-owner",
+                "workplace": "John Bernström & Co",
+                "industry": "Stockholm",
+                "start_date": "1908"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "AB Ahlsell & Bernström",
+                "industry": "Stockholm",
+                "start_date": "1922"
+            }
+        ]
+    }
+}

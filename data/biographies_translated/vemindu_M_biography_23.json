@@ -1,0 +1,119 @@
+{
+    "original": "MALMBERG, Anders Julius, Disponent, Norrköping, f Söderhamn 5/8 87 av sjökapt J J M o Anna Wannberg, gm Jenny Törnberg. Söderh a l, Wennlunds hdlssk Gävle. Anst i West Hartlepool Engl 07—08, Gefle Ma-nuf AB Strömsbro 08—22, AB Perioden, Nrkp 0 Nykp (tillv bomullsgarn), sed. 22, disp sed. 27. Ordf Sällsk Norrlänningarna, Nrkp. Resor: Engl, Tyskl, Frankr mfl. Frimurare, Odd Fellow, W6. Hobby: Fiske.",
+    "translated": "MALMBERG, Anders Julius, Manager, Norrköping, born in Söderhamn on 5th August 1887, son of sea captain J J M and Anna Wannberg, married to Jenny Törnberg. Educated at Söderhamn, Wennlunds Commercial School in Gävle. Employed in West Hartlepool, England from 1907 to 1908, at Gefle Manufacturing AB in Strömsbro from 1908 to 1922, at AB Perioden in Norrköping from 1920 to New Year 1922 (producing cotton yarn), and since 1922, employed as a manager. Chairman of the Society of Northerners in Norrköping. Travels: England, Germany, France, among others. Freemason, member of Odd Fellow, W6 Lodge. Hobby: Fishing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Anders Julius Malmberg",
+        "jobTitle": "Manager",
+        "birthDate": "1887-08-05",
+        "birthPlace": "Söderhamn",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "J J M",
+                "jobTitle": "Sea Captain"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Wannberg"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Jenny Törnberg"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Wennlunds Commercial School",
+            "location": "Gävle"
+        },
+        "employment": [
+            {
+                "@type": "Organization",
+                "name": "West Hartlepool",
+                "address": "England",
+                "startDate": "1907",
+                "endDate": "1908"
+            },
+            {
+                "@type": "Organization",
+                "name": "Gefle Manufacturing AB",
+                "address": "Strömsbro",
+                "startDate": "1908",
+                "endDate": "1922"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Perioden",
+                "address": "Norrköping",
+                "startDate": "1920",
+                "endDate": "1922",
+                "description": "Producing cotton yarn"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Perioden",
+                "address": "Norrköping",
+                "startDate": "1922",
+                "description": "Employed as a manager"
+            }
+        ],
+        "affiliation": {
+            "@type": "Organization",
+            "name": "Society of Northerners",
+            "location": "Norrköping",
+            "position": "Chairman"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Freemasons"
+            },
+            {
+                "@type": "Organization",
+                "name": "Odd Fellow"
+            },
+            {
+                "@type": "Organization",
+                "name": "W6 Lodge"
+            }
+        ],
+        "knowsAbout": "Fishing",
+        "hasOccupation": "Manager",
+        "nationality": "Swedish",
+        "hasTravelHistory": [
+            "England",
+            "Germany",
+            "France"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Disponent",
+                "workplace": "West Hartlepool, England",
+                "industry": "Unknown",
+                "start_date": "1907"
+            },
+            {
+                "occupational_title": "Disponent",
+                "workplace": "Gefle Manufacturing AB, Strömsbro",
+                "industry": "Manufacturing",
+                "start_date": "1908"
+            },
+            {
+                "occupational_title": "Disponent",
+                "workplace": "AB Perioden, Norrköping",
+                "industry": "Cotton yarn production",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Norrköping",
+                "industry": "Unknown",
+                "start_date": "1922"
+            }
+        ]
+    }
+}

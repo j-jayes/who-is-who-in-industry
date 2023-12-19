@@ -1,0 +1,130 @@
+{
+    "original": "NORDSTRÖM, Helge Erik Magnus, Riksbanksdirektör, Härnösand, f Hsand 27/6 82 av konsist.not M N o Hilda Dalen, gm Anna Larsson (d). Studex Upps 01. Anst Riksbkns Hsandskont 01, kass 20, kamr 28, dir Luleå 34, d:o Hsand sed. 40. RVO.",
+    "translated": "NORDSTRÖM, Helge Erik Magnus, Director of the National Bank, born in Härnösand on June 27, 1882, son of the civil servant N and Hilda Dalen. Married to Anna Larsson (deceased). Studied at Uppsala University from 1901. Employed at the Härnösand branch of the National Bank in 1901, cashier in 1920, assistant cashier in 1928, director in Luleå in 1934, and director in Härnösand since 1940. Awarded the Royal Order of Vasa (RVO).",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Helge Erik Magnus Nordström",
+        "jobTitle": "Director of the National Bank",
+        "birthDate": "1882-06-27",
+        "birthPlace": "Härnösand",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "N (father)"
+            },
+            {
+                "@type": "Person",
+                "name": "Hilda Dalen (mother)"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Anna Larsson",
+            "deathDate": "unknown"
+        },
+        "alumniOf": {
+            "@type": "EducationalOrganization",
+            "name": "Uppsala University"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "National Bank",
+                "startDate": "1901",
+                "endDate": "present",
+                "position": {
+                    "@type": "JobPosting",
+                    "title": "Härnösand Branch Employee",
+                    "startDate": "1901",
+                    "endDate": "1940"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "National Bank",
+                "position": {
+                    "@type": "JobPosting",
+                    "title": "Cashier",
+                    "startDate": "1920",
+                    "endDate": "1928"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "National Bank",
+                "position": {
+                    "@type": "JobPosting",
+                    "title": "Assistant Cashier",
+                    "startDate": "1928",
+                    "endDate": "1934"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "National Bank",
+                "position": {
+                    "@type": "JobPosting",
+                    "title": "Director, Luleå",
+                    "startDate": "1934",
+                    "endDate": "1940"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "National Bank",
+                "position": {
+                    "@type": "JobPosting",
+                    "title": "Director, Härnösand",
+                    "startDate": "1940",
+                    "endDate": "present"
+                }
+            }
+        ],
+        "hasOccupation": [
+            {
+                "@type": "Occupation",
+                "name": "Director"
+            }
+        ],
+        "hasAward": {
+            "@type": "Order",
+            "name": "Royal Order of Vasa",
+            "awardDate": "unknown"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director of the National Bank",
+                "workplace": "Riksbanksdirektör",
+                "industry": "Finance",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Cashier",
+                "workplace": "Härnösand branch of the National Bank",
+                "industry": "Finance",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Assistant Cashier",
+                "workplace": "Härnösand branch of the National Bank",
+                "industry": "Finance",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Luleå",
+                "industry": "Unknown",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Härnösand",
+                "industry": "Unknown",
+                "start_date": "1940"
+            }
+        ]
+    }
+}

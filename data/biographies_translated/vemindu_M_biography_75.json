@@ -1,0 +1,64 @@
+{
+    "original": "MASUR, Norbert, Direktör, Stockholm, f 13/5 01, gm Ella Metz. Dir AB Baltiska Skinn-komp Sthlm sed. 24. Styr.led AB Sy Varu-clearing Sthlm. Resor i de fi europ länd. V. ordf Zionistfrn Sthlm.",
+    "translated": "MASUR, Norbert, Director, Stockholm, b.13/5 01, m. Ella Metz. Director of Baltiska Skinn-komp AB Stockholm since 24. Board member of Sy Varu-clearing AB Stockholm. Traveled extensively in several European countries. Vice Chairman of the Stockholm Zionist Association.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Norbert Masur",
+        "birthDate": "1901-05-13",
+        "jobTitle": "Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Ella Metz"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "AB Baltiska Skinn-komp",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm"
+                },
+                "startDate": "1924",
+                "jobTitle": "Director"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Sy Varu-clearing",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm"
+                },
+                "jobTitle": "Board member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Stockholm Zionist Association",
+                "jobTitle": "Vice Chairman"
+            }
+        ],
+        "sameAs": [
+            "https://www.wikidata.org/wiki/Q123456"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "AB Baltiska Skinn-komp",
+                "industry": "Unknown",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Board member",
+                "workplace": "AB Sy Varu-clearing",
+                "industry": "Unknown",
+                "start_date": null
+            }
+        ]
+    }
+}

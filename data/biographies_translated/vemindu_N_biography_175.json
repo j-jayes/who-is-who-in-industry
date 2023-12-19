@@ -1,0 +1,199 @@
+{
+    "original": "NORDSTRÖM, Simon Albert, Skohandlare, Vadstena, f Vadst 15/10 98 av P E Nordström o Theckla Kocken, gm Karin Anderson. Folksk m forts.sk o aft.sk i matern, svenska o bokf. Trädg.elev 13—18. Eg företag: Skom o skoaff, Storgat 26, Vadst. Fman gr av N :s fader 82, komp m fadern 24—28, övertog fman ensam 28. Led av stdflm, beredn.utsk, lönenmdn, kyrkorådet. Kårch Vadst Sjöscoutkår, kassör Segelsällsk Vättern, sekr Borgarbrand-kårens kamratfrn Vadst, ordf Folkp lokalavd Vadst. Resor: Tyskl 22, Norge 28, 32, Danm 36. Inneh Sv :es Scoutfrbs ftjm b, Vätterns Seglarfrbs fjtm s. Hobbies: Segling, scouting.",
+    "translated": "NORDSTRÖM, Simon Albert, Shoe Merchant, Vadstena, b Vadst 15/10 98 to P E Nordström and Theckla Kocken, m Karin Anderson. Attended elementary school, continued studies in intermediate school and evening school in mathematics, Swedish, and bookkeeping. Horticulture apprentice from 13-18. Own business: Shoe repair and shoe shop, Storgat 26, Vadst. Joined father's company in 1924, became a partner with father from 1924-1928, took over the company alone in 1928. Served as trustee of the urban film committee, preparatory committee, salary committee, and church council. Member of Vadst Sjöscoutkår, treasurer of Segelsällsk Vättern, secretary of Borgarbrand-kårens kamratfrn Vadst, chairman of the local chapter of Folkp Vadst. Traveled to Germany in 1922, Norway in 1928 and 1932, and Denmark in 1936. Holds positions in the Swedish Scout Association and Vättern's Sailing Association. Hobbies include sailing and scouting.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Simon Albert Nordström",
+        "birthDate": "1898-10-15",
+        "birthPlace": "Vadstena",
+        "father": {
+            "@type": "Person",
+            "name": "P E Nordström"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Theckla Kocken"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Karin Anderson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Elementary School"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Intermediate School"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Evening School",
+                "courseMode": "part-time",
+                "startDate": "1924",
+                "endDate": "1928",
+                "coursePrerequisites": [
+                    "Mathematics",
+                    "Swedish",
+                    "Bookkeeping"
+                ]
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Horticulture Apprenticeship",
+                "startDate": "1913",
+                "endDate": "1918"
+            }
+        ],
+        "owns": [
+            {
+                "@type": "LocalBusiness",
+                "name": "Skom o skoaff",
+                "address": {
+                    "@type": "PostalAddress",
+                    "streetAddress": "Storgat 26",
+                    "addressLocality": "Vadst",
+                    "addressCountry": "Sweden"
+                }
+            }
+        ],
+        "career": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Shoe Merchant",
+                "startDate": "1928",
+                "endDate": "1982",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Nordström's Shoe Company"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Trustee",
+                "startDate": "unknown",
+                "endDate": "unknown",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Urban Film Committee"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Preparatory Committee Member",
+                "startDate": "unknown",
+                "endDate": "unknown"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Salary Committee Member",
+                "startDate": "unknown",
+                "endDate": "unknown"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Church Council Member",
+                "startDate": "unknown",
+                "endDate": "unknown"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Treasurer",
+                "startDate": "unknown",
+                "endDate": "unknown",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Vadst Sjöscoutkår"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Treasurer",
+                "startDate": "unknown",
+                "endDate": "unknown",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Segelsällsk Vättern"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Secretary",
+                "startDate": "unknown",
+                "endDate": "unknown",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Borgarbrand-kårens kamratfrn Vadst"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Chairman",
+                "startDate": "unknown",
+                "endDate": "unknown",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Folkp Vadst"
+                }
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "Trip",
+                "departureTime": "1922",
+                "arrivalTime": "1922",
+                "departurePlace": "Vadstena",
+                "arrivalPlace": "Germany"
+            },
+            {
+                "@type": "Trip",
+                "departureTime": "1928",
+                "arrivalTime": "1928",
+                "departurePlace": "Vadstena",
+                "arrivalPlace": "Norway"
+            },
+            {
+                "@type": "Trip",
+                "departureTime": "1932",
+                "arrivalTime": "1932",
+                "departurePlace": "Vadstena",
+                "arrivalPlace": "Norway"
+            },
+            {
+                "@type": "Trip",
+                "departureTime": "1936",
+                "arrivalTime": "1936",
+                "departurePlace": "Vadstena",
+                "arrivalPlace": "Denmark"
+            }
+        ],
+        "hobbies": [
+            "Sailing",
+            "Scouting"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Shoe Merchant",
+                "workplace": "Storgat 26, Vadst",
+                "industry": "Shoe repair and shoe shop",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Horticulture Apprentice",
+                "workplace": "<No specific workplace mentioned>",
+                "industry": "Horticulture",
+                "start_date": "1913"
+            },
+            {
+                "occupational_title": "Partner",
+                "workplace": "<No specific workplace mentioned>",
+                "industry": "Shoe repair and shoe shop",
+                "start_date": "1924"
+            }
+        ]
+    }
+}

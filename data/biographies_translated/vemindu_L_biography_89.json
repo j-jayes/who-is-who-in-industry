@@ -1,0 +1,161 @@
+{
+    "original": "LARSSON, Ruben Emil, Bankdirektör, Karlshamn, f Raus, Malmöh l, 2/12 96 av köpm P L o Nathalia Borgström, gm Lilly Olsson. Studex, Brod Bendtz’ språk- o hdlsinst. Prakt på aff.kont 19, anst Sv hdlsbkn Hbg 19, Lund 23, Kalmar 24, kamr Vvik 25, styr.led o dir Karlsh sed. 41. Resor: Danm uppr ggr, Norge 38, Tyskl, Österr, Ung 39. Frimurare, Odd Fellow.",
+    "translated": "LARSSON, Ruben Emil, Bank Director, Karlshamn, born in Raus, Malmö County, on December 2, 1896, son of merchant P.L. Larsson and Nathalia Borgström, married to Lilly Olsson. Studied at Brod Bendtz's Language and Trade Institute. Worked at an accounting office in 1919, employed at the Swedish Trade Bank in Helsingborg in 1919, Lund in 1923, Kalmar in 1924, became a cashier in Västervik in 1925, served as a board member and director in Karlshamn since 1941. Has traveled to Denmark several times, Norway in 1938, Germany, Austria, and Hungary in 1939. Member of the Freemasons and Odd Fellows.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Ruben Emil Larsson",
+        "jobTitle": "Bank Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Karlshamn"
+        },
+        "birthDate": "1896-12-02",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Raus, Malmö County"
+            }
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "P. L. Larsson",
+                "jobTitle": "Merchant"
+            },
+            {
+                "@type": "Person",
+                "name": "Nathalia Borgström"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Lilly Olsson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Brod Bendtz's Language and Trade Institute"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1919",
+                "endDate": null,
+                "roleName": "Accounting Office"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1919",
+                "endDate": null,
+                "roleName": "Swedish Trade Bank, Helsingborg"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1923",
+                "endDate": null,
+                "roleName": "Swedish Trade Bank, Lund"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1924",
+                "endDate": null,
+                "roleName": "Swedish Trade Bank, Kalmar"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1925",
+                "endDate": null,
+                "roleName": "Västervik Cashier"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1941",
+                "endDate": null,
+                "roleName": "Karlshamn Board Member and Director"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Freemasons"
+            },
+            {
+                "@type": "Organization",
+                "name": "Odd Fellows"
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "Place",
+                "name": "Denmark"
+            },
+            {
+                "@type": "Place",
+                "name": "Norway",
+                "startDate": "1938",
+                "endDate": null
+            },
+            {
+                "@type": "Place",
+                "name": "Germany"
+            },
+            {
+                "@type": "Place",
+                "name": "Austria"
+            },
+            {
+                "@type": "Place",
+                "name": "Hungary"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Bank Director",
+                "workplace": "Karlshamn",
+                "industry": "Banking",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Prakt (Position unclear)",
+                "workplace": "Accounting Office",
+                "industry": "Unknown",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Swedish Trade Bank",
+                "industry": "Banking",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Swedish Trade Bank",
+                "industry": "Banking",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Swedish Trade Bank",
+                "industry": "Banking",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Cashier",
+                "workplace": "Västervik",
+                "industry": "Banking",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Board Member and Director",
+                "workplace": "Karlshamn",
+                "industry": "Unknown",
+                "start_date": "1941"
+            }
+        ]
+    }
+}

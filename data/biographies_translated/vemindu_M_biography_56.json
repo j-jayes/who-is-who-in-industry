@@ -1,0 +1,121 @@
+{
+    "original": "MANHEM, Sven Johan Olof, Kapten, Älv-sered, f Älvsered 29/7 08 av riksdagsm G A Gustafsson o Gertrud Söderbom, gm Kerstin Apler. Gbgs hdlsgymn, DHS; KS. Anst v Västgöta Väfnads AB (gr 97, omsättn 2.4 milj kr, postorderfma m tillv av sydda art, herr-konf mm, jordbr, kraftstn mm) sed. 29, disp där sed. 36. Ordf kyrkost, v. ordf komm.st, led kyrkoråd o skolstyr. Styr.led AB Gbgs Hdls-bks Älvseredskont.",
+    "translated": "MANHEM, Sven Johan Olof, Captain, Älv-sered, b. Älvsered 29/7 08 to Member of Parliament G A Gustafsson and Gertrud Söderbom, m. Kerstin Apler. Graduated from Gothenburg's Commercial College, DHS; KS. Employed by Västgöta Väfnads AB (a company with a turnover of 2.4 million kr, engaged in mail order sales of tailored garments, men's fashion, agriculture, power stations, etc.) since 1929, promoted to manager in 1936. Chairman of the church council, vice chairman of the municipal council, member of the church council and school board. Board member of AB Gothenburg's Commercial Bank's Älvsered branch.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Sven Johan Olof Manhem",
+        "jobTitle": "Captain",
+        "birthPlace": "Älvsered, Sweden",
+        "birthDate": "1908-07-29",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "G. A. Gustafsson",
+                "jobTitle": "Member of Parliament"
+            },
+            {
+                "@type": "Person",
+                "name": "Gertrud Söderbom"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Kerstin Apler"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Gothenburg's Commercial College"
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Västgöta Väfnads AB",
+            "foundingDate": "1929",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Sweden"
+            },
+            "makesOffer": {
+                "@type": "OfferCatalog",
+                "name": "Product offerings",
+                "itemListElement": [
+                    {
+                        "@type": "OfferCatalog",
+                        "name": "Tailored garments"
+                    },
+                    {
+                        "@type": "OfferCatalog",
+                        "name": "Men's fashion"
+                    },
+                    {
+                        "@type": "OfferCatalog",
+                        "name": "Agriculture"
+                    },
+                    {
+                        "@type": "OfferCatalog",
+                        "name": "Power stations"
+                    }
+                ]
+            }
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Church Council"
+            },
+            {
+                "@type": "Organization",
+                "name": "Municipal Council"
+            },
+            {
+                "@type": "Organization",
+                "name": "Church Council"
+            },
+            {
+                "@type": "Organization",
+                "name": "School Board"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Gothenburg's Commercial Bank's Älvsered branch",
+                "roleName": "Board member"
+            }
+        ],
+        "startDate": "1936-01-01",
+        "relatedTo": [
+            {
+                "@type": "Person",
+                "name": "G. A. Gustafsson",
+                "jobTitle": "Member of Parliament"
+            },
+            {
+                "@type": "Person",
+                "name": "Gertrud Söderbom"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Captain",
+                "workplace": "Älv-sered",
+                "industry": "Military",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Västgöta Väfnads AB",
+                "industry": "Manufacturing",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Västgöta Väfnads AB",
+                "industry": "Manufacturing",
+                "start_date": "1936"
+            }
+        ]
+    }
+}

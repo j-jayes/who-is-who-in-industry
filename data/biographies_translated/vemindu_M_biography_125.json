@@ -1,0 +1,117 @@
+{
+    "original": "MOLANDER, Axel Georg, Bankkamrer,. Västervik, f Lkrona 23/1 98 av 1. stnskriv A M o Maria Rustan, gm Astrid Byström. Studex 16, Gbgs hdlsinst fackk f stud 17. Anst Sk hdlsbkn 17—19, Skand bkn sed. 19, kamr,, kont.förest o styr.led Borgholm 24, d:o Ny^ bro 40, kamrer Vvik 44.",
+    "translated": "MOLANDER, Axel Georg, Bank Clerk. Västervik, born in Krona on January 23, 1898, son of 1st Stationary Clerk A M and Maria Rustan, married to Astrid Byström. Graduated in 1916, specialized in trade at Gothenburg Commercial Institute in 1917. Employed at City Bank 1917-1919, Skandinaviska Banken since 1919, as clerk, head of department, and member of the board in Borgholm in 1924, the same positions in Ny^ bro in 1940, appointed bank clerk in Västervik in 1944.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Axel Georg",
+        "familyName": "Molander",
+        "jobTitle": "Bank Clerk",
+        "birthDate": "1898-01-23",
+        "birthPlace": "Krona",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Västervik"
+        },
+        "father": {
+            "@type": "Person",
+            "givenName": "A",
+            "familyName": "Molander",
+            "jobTitle": "1st Stationary Clerk"
+        },
+        "mother": {
+            "@type": "Person",
+            "givenName": "Maria",
+            "familyName": "Rustan"
+        },
+        "spouse": {
+            "@type": "Person",
+            "givenName": "Astrid",
+            "familyName": "Byström"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "diploma",
+            "credentialEarned": "Studex 16, Gothenburg Commercial Institute specialized in trade"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "City Bank",
+                "startDate": "1917",
+                "endDate": "1919",
+                "jobTitle": "Clerk"
+            },
+            {
+                "@type": "Organization",
+                "name": "Skandinaviska Banken",
+                "startDate": "1919",
+                "jobTitle": "Clerk, Head of Department, Member of the Board"
+            },
+            {
+                "@type": "Organization",
+                "name": "Borgholm",
+                "startDate": "1924",
+                "jobTitle": "Clerk, Head of Department, Member of the Board"
+            },
+            {
+                "@type": "Organization",
+                "name": "Ny^ bro",
+                "startDate": "1940",
+                "jobTitle": "Clerk, Head of Department, Member of the Board"
+            },
+            {
+                "@type": "Organization",
+                "name": "Västervik",
+                "startDate": "1944",
+                "jobTitle": "Bank Clerk"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Bank Clerk",
+                "workplace": "City Bank",
+                "industry": "Banking",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Clerk",
+                "workplace": "Skandinaviska Banken",
+                "industry": "Banking",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Head of Department",
+                "workplace": "Borgholm",
+                "industry": "Banking",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Member of the Board",
+                "workplace": "Borgholm",
+                "industry": "Banking",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Head of Department",
+                "workplace": "Ny^ bro",
+                "industry": "Banking",
+                "start_date": "1940"
+            },
+            {
+                "occupational_title": "Member of the Board",
+                "workplace": "Ny^ bro",
+                "industry": "Banking",
+                "start_date": "1940"
+            },
+            {
+                "occupational_title": "Bank Clerk",
+                "workplace": "Västervik",
+                "industry": "Banking",
+                "start_date": "1944"
+            }
+        ]
+    }
+}

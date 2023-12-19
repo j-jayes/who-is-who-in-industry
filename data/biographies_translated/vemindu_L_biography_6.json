@@ -1,0 +1,119 @@
+{
+    "original": "LAGERGREN, Folke Karl Fredrik, Civil-ingenjör., IFaluft, f .Jädersbruk, Västml l, 22/10 97 av Bergsing W L o Augusta Otter-dahl, gm Hedwig Thulin. Studex Falun 16, Oiv.ingex KTH (kemi) 22. Ass KTH 22—24, ing AB Sv svavelsyre- o superfosfatfabr i Malmö 24—30, ing Falu Kopparverks svavel-syrefabr sed. 30.",
+    "translated": "LAGERGREN, Folke Karl Fredrik, Civil Engineer., born in Faluft, Jädersbruk, Västml County, on October 22, 1897 to mining engineer W L and Augusta Otter-dahl. Married Hedwig Thulin in the year 19xx. Graduated from Falun High School in 1916, obtained a Bachelor's degree in Chemical Engineering from KTH (Royal Institute of Technology) in 1922. Worked as an assistant at KTH from 1922 to 1924, and as an engineer at AB Svavelsyre- och Superfosfatfabrik in Malmö from 1924 to 1930. Engaged as an engineer at Falu Kopparverk's sulfuric acid factory since 1930.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Folke Karl Fredrik Lagergren",
+        "birthDate": "1897-10-22",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Faluf",
+            "address": {
+                "@type": "PostalAddress",
+                "addressRegion": "Västml",
+                "addressCountry": "Sweden"
+            }
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "W L Lagergren",
+                "jobTitle": "Mining Engineer"
+            },
+            {
+                "@type": "Person",
+                "name": "Augusta Otter-dahl"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Hedwig Thulin"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialLevel": "Bachelor's",
+            "jurisdiction": "KTH",
+            "alumniOf": {
+                "@type": "CollegeOrUniversity",
+                "name": "Royal Institute of Technology",
+                "location": {
+                    "@type": "City",
+                    "name": "Stockholm",
+                    "addressCountry": "Sweden"
+                }
+            },
+            "startDate": "1916",
+            "endDate": "1922",
+            "studyField": "Chemical Engineering"
+        },
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "title": "Assistant",
+                "startDate": "1922",
+                "endDate": "1924",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "KTH (Royal Institute of Technology)",
+                    "location": {
+                        "@type": "City",
+                        "name": "Stockholm",
+                        "addressCountry": "Sweden"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Engineer",
+                "startDate": "1924",
+                "endDate": "1930",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Svavelsyre- och Superfosfatfabrik",
+                    "location": {
+                        "@type": "City",
+                        "name": "Malmö",
+                        "addressCountry": "Sweden"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Engineer",
+                "startDate": "1930",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Falu Kopparverk's sulfuric acid factory",
+                    "location": {
+                        "@type": "City",
+                        "name": "Falun",
+                        "addressCountry": "Sweden"
+                    }
+                }
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Assistant",
+                "workplace": "KTH",
+                "industry": "Academic",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "AB Svavelsyre- och Superfosfatfabrik",
+                "industry": "Chemical manufacturing",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Falu Kopparverk's sulfuric acid factory",
+                "industry": "Mining and metallurgy",
+                "start_date": "1930"
+            }
+        ]
+    }
+}

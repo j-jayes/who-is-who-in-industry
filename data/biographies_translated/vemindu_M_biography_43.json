@@ -1,0 +1,66 @@
+{
+    "original": "MALMQUIST, Nils Robert, Direktör, Ålsten, f Varberg 22/12 79 av fastigh.äg N M o Inga Johansson, gm Inga Cedergren. Anst fma Nordin &amp; Josephson Sthlm 00—07, AB Nord Bokhdln Sthlm sed. 08, vkst dir där sed. 20, v. ordf i Stift Bok- o Musikhandl :as Pens- o Understödsfond. Skattmäst i Frn 1879 års män.",
+    "translated": "MALMQUIST, Nils Robert, Director, Ålsten, b Varberg 22/12 1879, son of property owner N M and Inga Johansson, m Inga Cedergren. Employed at Nordin & Josephson Sthlm 1900-1907, AB Nord Bokhndln Sthlm since 1908, promoted to Deputy Director in 1920, Vice-chairman of the Foundation for Book and Music Trade's Pension and Support Fund. Treasurer in the 1879 Men's Association.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Nils Robert Malmquist",
+        "jobTitle": "Director",
+        "birthDate": "1879-12-22",
+        "birthPlace": "Varberg, Sweden",
+        "parent": {
+            "@type": "Person",
+            "name": "N M",
+            "jobTitle": "Property Owner"
+        },
+        "parent2": {
+            "@type": "Person",
+            "name": "Inga Johansson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Inga Cedergren"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Nordin & Josephson",
+                "startDate": "1900-01-01",
+                "endDate": "1907-12-31"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Nord Bokhndln",
+                "startDate": "1920-01-01",
+                "position": "Deputy Director"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "1879 Men's Association",
+            "position": "Treasurer"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Ålsten",
+                "industry": "",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Nordin & Josephson",
+                "industry": "",
+                "start_date": "1900"
+            },
+            {
+                "occupational_title": "Deputy Director",
+                "workplace": "AB Nord Bokhndln",
+                "industry": "",
+                "start_date": "1920"
+            }
+        ]
+    }
+}

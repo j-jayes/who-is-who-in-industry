@@ -1,0 +1,88 @@
+{
+    "original": "NILSSON, Paul Rickard Emanuel, Järn-hamllare. Åstorp, f 21/3 06 av byggm P N N o Elna Fajerson, gm Stina Alm. Studex 26, HHS 28—30. Inneh Åstorps Järnhdl o BP-«ervicestation Åstorp. Led byggn.nmd. Styr.led AB P N Nilsson, Billesholms gruva. Re-ssor: Tyskl, Ital, Schweiz, Frankr 27. Hobbies : Jakt, fiske.",
+    "translated": "NILSSON, Paul Rickard Emanuel, Iron merchant. Born in Åstorp on March 21, 1906, to builder P N N and Elna Fajerson. Married to Stina Alm. Graduated in 1926, attended Helsingborg High School from 1928 to 1930. Owned Åstorps Iron Trade and BP service station in Åstorp. Member of the building committee and board of directors of AB P N Nilsson, Billesholms mine. Traveled to Germany, Italy, Switzerland, and France in 1927. Hobbies include hunting and fishing.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "NILSSON, Paul Rickard Emanuel",
+        "jobTitle": "Iron Merchant",
+        "birthDate": "1906-03-21",
+        "birthPlace": "Åstorp",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "P N N"
+            },
+            {
+                "@type": "Person",
+                "name": "Elna Fajerson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Stina Alm"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Helsingborg High School",
+                "startDate": "1928",
+                "endDate": "1930"
+            }
+        ],
+        "hasOccupation": {
+            "@type": "Organization",
+            "name": "Åstorps Iron Trade"
+        },
+        "additionalProperty": [
+            {
+                "@type": "Organization",
+                "name": "BP Service Station",
+                "address": "Åstorp"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB P N Nilsson",
+                "subOrganization": {
+                    "@type": "Organization",
+                    "name": "Billesholms Mine"
+                },
+                "memberOf": {
+                    "@type": "board"
+                }
+            }
+        ],
+        "travelHistory": [
+            "Germany",
+            "Italy",
+            "Switzerland",
+            "France"
+        ],
+        "hobbies": [
+            "Hunting",
+            "Fishing"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Iron merchant",
+                "workplace": "Åstorps Iron Trade",
+                "industry": "Iron trade",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "BP service station",
+                "industry": "Automotive",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Member of the building committee",
+                "workplace": "AB P N Nilsson, Billesholms mine",
+                "industry": "Mining",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

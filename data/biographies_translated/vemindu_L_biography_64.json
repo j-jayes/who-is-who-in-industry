@@ -1,0 +1,114 @@
+{
+    "original": "LARSSON, Lars Elof, fd Bankdirektör, Södra Vi, f S Vi 29/5 77 av nmdem L A L 0 h h Sofia, gm Signe Johansson. Folk-högsk, lantm.sk. Stift (06) o fortf ch f AB Södra Vi Torfmossar. Kass Skandinavbkns 5 Vi-kont 08—32, kont.ch där 32—40. Ägt o bruk V* mtl S Vi t 30. Komm.st.ordf 16 år, komm.flm 8 år. Deltog i Delawareresan t USA 38.",
+    "translated": "LARSSON, Lars Elof, former Bank Director, Södra Vi, born in Södra Vi on May 29th, 1877 to parents named L.A.L and Sofia. Married to Signe Johansson. Attended folk high school and agricultural school. A member of the Diocese (06) and still actively involved in AB Södra Vi Torfmossar. Worked as a cashier at Skandinavbkns 5 Vi branch from 1908 to 1932, then continued as an accountant there until 1940. Owned and operated a 1/4th-acre farm in Södra Vi since 1930. Held the position of local council chairman for 16 years and a member of the municipal board for 8 years. Participated in the Delaware trip to the USA in 1938.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Lars Elof Larsson",
+        "jobTitle": "Former Bank Director",
+        "birthDate": "1877-05-29",
+        "birthPlace": "Södra Vi",
+        "parents": [
+            {
+                "name": "L.A.L"
+            },
+            {
+                "name": "Sofia"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Signe Johansson"
+        },
+        "education": [
+            {
+                "@type": "School",
+                "name": "Folkhögsk"
+            },
+            {
+                "@type": "School",
+                "name": "Lantm.sk"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Diocese",
+            "startDate": "1906"
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "AB Södra Vi Torfmossar"
+        },
+        "workExperience": [
+            {
+                "@type": "JobPosting",
+                "title": "Cashier",
+                "employer": "Skandinavbkns",
+                "startDate": "1908-01-01",
+                "endDate": "1932-12-31",
+                "location": {
+                    "@type": "Place",
+                    "name": "Vi"
+                }
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Accountant",
+                "employer": "Skandinavbkns",
+                "startDate": "1932-01-01",
+                "endDate": "1940-12-31",
+                "location": {
+                    "@type": "Place",
+                    "name": "Vi"
+                }
+            }
+        ],
+        "owns": {
+            "@type": "Landform",
+            "name": "V* mtl S Vi",
+            "startDate": "1930"
+        },
+        "politicalCareer": [
+            {
+                "@type": "GovernmentOrganization",
+                "name": "Komm.st",
+                "position": "Chairman",
+                "termDuration": "16 years"
+            },
+            {
+                "@type": "GovernmentOrganization",
+                "name": "Komm.flm",
+                "position": "Member",
+                "termDuration": "8 years"
+            }
+        ],
+        "event": {
+            "@type": "Event",
+            "name": "Delawareresan",
+            "description": "A trip to Delaware, USA",
+            "startDate": "1938"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Bank Director",
+                "workplace": "AB Södra Vi Torfmossar",
+                "industry": "Banking",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Cashier",
+                "workplace": "Skandinavbkns 5 Vi branch",
+                "industry": "Banking",
+                "start_date": "1908"
+            },
+            {
+                "occupational_title": "Accountant",
+                "workplace": "Skandinavbkns 5 Vi branch",
+                "industry": "Banking",
+                "start_date": "1932"
+            }
+        ]
+    }
+}

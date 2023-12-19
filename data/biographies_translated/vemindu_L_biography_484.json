@@ -1,0 +1,107 @@
+{
+    "original": "LÖFGREN, Johan Emil, Bankdirektör, Karlstad, f Säffle 27/4 90 av fabr Carl L o Hanna Persson, gm Stanny Gustafsson. Studex 09, hdlssk. Anst Werml ensk bk 10—18, övre Västerdlrs bk 18—24, kamr Gbg bk Malung 24—36, dir Kst sed. 37. V. ordf Kst stadsrev. Styr.led fastigh.AB Tingvalla. Frimurare, Odd Fellow.",
+    "translated": "LÖFGREN, Johan Emil, Bank Director, Karlstad, born in Säffle on April 27, 1890, son of factory worker Carl L and Hanna Persson, married to Stanny Gustafsson. Completed secondary school in 1909. Employed at Wermlands Enskilda Bank from 1910 to 1918, at Övre Västerdal Bank from 1918 to 1924, as an accountant at Göteborg Bank Malung from 1924 to 1936, and director in Karlstad since 1937. Vice Chairman of Karlstad City Council Audit Board. Board member of Tingvalla Property AB. Member of Freemasons and Odd Fellows.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Johan Emil LÖFGREN",
+        "birthDate": "1890-04-27",
+        "birthPlace": "Säffle",
+        "description": "Bank Director",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Wermlands Enskilda Bank",
+                "startDate": "1910",
+                "endDate": "1918"
+            },
+            {
+                "@type": "Organization",
+                "name": "Övre Västerdal Bank",
+                "startDate": "1918",
+                "endDate": "1924"
+            },
+            {
+                "@type": "Organization",
+                "name": "Göteborg Bank Malung",
+                "jobTitle": "Accountant",
+                "startDate": "1924",
+                "endDate": "1936"
+            },
+            {
+                "@type": "Organization",
+                "name": "Karlstad",
+                "jobTitle": "Director",
+                "startDate": "1937"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Stanny Gustafsson"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Carl L"
+            },
+            {
+                "@type": "Person",
+                "name": "Hanna Persson"
+            }
+        ],
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "secondarySchool",
+            "educationalLevel": "SecondarySchool",
+            "dateIssued": "1909"
+        },
+        "affiliation": [
+            {
+                "@type": "Organization",
+                "name": "Karlstad City Council Audit Board",
+                "jobTitle": "Vice Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Tingvalla Property AB",
+                "jobTitle": "Board member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Freemasons"
+            },
+            {
+                "@type": "Organization",
+                "name": "Odd Fellows"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Bank Director",
+                "workplace": "Karlstad",
+                "industry": "Banking",
+                "start_date": "1937"
+            },
+            {
+                "occupational_title": "Accountant",
+                "workplace": "Göteborg Bank Malung",
+                "industry": "Banking",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Övre Västerdal Bank",
+                "industry": "Banking",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Wermlands Enskilda Bank",
+                "industry": "Banking",
+                "start_date": "1910"
+            }
+        ]
+    }
+}

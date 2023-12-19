@@ -1,0 +1,136 @@
+{
+    "original": "LARSSON, Carl Edward, Direktör, Malmö, f Sthlm 1/9 84, gm (1) Hilma Göransson (&lt;l 22), (2) Hildur Christersson. Bitr o hdlsres h AB Bröderna Langborg Sthlm 98—05, hdls-res h Velociped AB Lindblad Sthlm 06—16, disp f denna fmas Malmö-f il 17—31, vkst dir f AB Lindblads Malmö-fil o Nymans Verkstäders Försäljn AB i Malmö sed. 32. Led av Malmö Köpni.frns nmd o styr.led i Sv Hdls-resandefrns Malmö-sekt.",
+    "translated": "LARSSON, Carl Edward, Director, Malmö, b. Stockholm 1/9 1884, m. (1) Hilma Göransson (married in 1922), (2) Hildur Christersson. Assistant to the trade-representative at AB Bröderna Langborg Stockholm 1898-1905, trade-representative at Velociped AB Lindblad Stockholm 1906-1916, managing director of the same company's Malmö branch 1917-1931, growth director of AB Lindblads Malmö branch and Nymans Verkstäders Försäljn AB in Malmö since 1932. Member of Malmö Trading Association board and board member of the Swedish Trade Representatives Association Malmö section.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Edward Larsson",
+        "alternateName": "LARSSON, Carl Edward",
+        "jobTitle": "Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Malmö"
+        },
+        "birthDate": "1884-09-01",
+        "birthPlace": "Stockholm",
+        "spouse": [
+            {
+                "@type": "Person",
+                "name": "Hilma Göransson",
+                "dateOfMarriage": "1922"
+            },
+            {
+                "@type": "Person",
+                "name": "Hildur Christersson"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1898",
+                "endDate": "1905",
+                "roleName": "Assistant to the Trade-Representative",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Bröderna Langborg",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1906",
+                "endDate": "1916",
+                "roleName": "Trade-Representative",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Velociped AB Lindblad",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1917",
+                "endDate": "1931",
+                "roleName": "Managing Director",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Lindblads",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Malmö"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1932",
+                "roleName": "Growth Director",
+                "organization": [
+                    {
+                        "@type": "Organization",
+                        "name": "AB Lindblads Malmö branch",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressLocality": "Malmö"
+                        }
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "Nymans Verkstäders Försäljn AB",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressLocality": "Malmö"
+                        }
+                    }
+                ]
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Malmö Trading Association",
+                "roleName": "Member of the board"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Trade Representatives Association",
+                "alternateName": "Sv Hdls-resandefrns",
+                "roleName": "Board member (Malmö section)"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Assistant to the trade-representative",
+                "workplace": "AB Bröderna Langborg",
+                "industry": "Unknown",
+                "start_date": "1898"
+            },
+            {
+                "occupational_title": "Trade-representative",
+                "workplace": "Velociped AB Lindblad",
+                "industry": "Unknown",
+                "start_date": "1906"
+            },
+            {
+                "occupational_title": "Managing director",
+                "workplace": "AB Lindblads Malmö branch",
+                "industry": "Unknown",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Growth director",
+                "workplace": "AB Lindblads Malmö branch and Nymans Verkstäders Försäljn AB",
+                "industry": "Unknown",
+                "start_date": "1932"
+            }
+        ]
+    }
+}

@@ -1,0 +1,136 @@
+{
+    "original": "LUNDQUIST, Carl Fabian, Direktör, Strömsbruk, f Surahammar 2/5 95 av brukspatron C F E L o Ebba Tersmeden, gm Magda Ericsson. Studex Luridsberg 15, KTH 18—22, civ.-ing.ex där sistn år. Resoffex 17, fänr Fortif res samma år, ulöjtn 20, avsked 22. Ing v Ströms Bruks AB:s sulfitfabrik, Strömsbruk, 23—27, övering v Ströms Bruks AB 28—39, disp där 39—41, vkst dir där sed. 41. Led Sv Tekn.frn sed. 23.",
+    "translated": "LUNDQUIST, Carl Fabian, Director, Strömsbruk, b. Surahammar 2/5 95, son of mill owner C F E L and Ebba Tersmeden, married to Magda Ericsson. Studied at Luridsberg 15, KTH 18-22, graduated as a civil engineer. Reserve officer 17, second lieutenant in Fortif reserve the same year, lieutenant 20, discharged 22. Employed at Ströms Bruks AB's sulfit factory, Strömsbruk, 23-27, promoted to chief engineer at Ströms Bruks AB 28-39, appointed as manager 39-41, then became the company's vice president in 1941. Member of the Swedish Association of Engineers since 1923.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Fabian Lundquist",
+        "jobTitle": "Director",
+        "birthDate": "1895-05-02",
+        "birthPlace": "Surahammar",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "C F E L Lundquist",
+                "jobTitle": "Mill Owner"
+            },
+            {
+                "@type": "Person",
+                "name": "Ebba Tersmeden"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Magda Ericsson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Luridsberg",
+                "endDate": "1915"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "KTH",
+                "startDate": "1918",
+                "endDate": "1922"
+            }
+        ],
+        "militaryService": [
+            {
+                "@type": "MilitaryService",
+                "serviceType": "Reserve Officer",
+                "startDate": "1917",
+                "endDate": "1922"
+            },
+            {
+                "@type": "MilitaryService",
+                "serviceType": "Fortif Reserve",
+                "rank": "Second Lieutenant",
+                "startDate": "1917",
+                "endDate": "1920"
+            },
+            {
+                "@type": "MilitaryService",
+                "serviceType": "Fortif Reserve",
+                "rank": "Lieutenant",
+                "startDate": "1920",
+                "endDate": "1922"
+            }
+        ],
+        "employment": [
+            {
+                "@type": "Organization",
+                "name": "Ströms Bruks AB's Sulfitfabrik",
+                "startDate": "1923",
+                "endDate": "1927",
+                "jobTitle": "Engineer"
+            },
+            {
+                "@type": "Organization",
+                "name": "Ströms Bruks AB",
+                "startDate": "1928",
+                "endDate": "1939",
+                "jobTitle": "Chief Engineer"
+            },
+            {
+                "@type": "Organization",
+                "name": "Ströms Bruks AB",
+                "startDate": "1939",
+                "endDate": "1941",
+                "jobTitle": "Manager"
+            },
+            {
+                "@type": "Organization",
+                "name": "Ströms Bruks AB",
+                "startDate": "1941",
+                "jobTitle": "Vice President"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Swedish Association of Engineers",
+            "startDate": "1923"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Reserve officer",
+                "workplace": "Fortif",
+                "industry": "Military",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Second lieutenant",
+                "workplace": "Fortif reserve",
+                "industry": "Military",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Ströms Bruks AB's sulfit factory",
+                "industry": "Manufacturing",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Chief engineer",
+                "workplace": "Ströms Bruks AB",
+                "industry": "Manufacturing",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Ströms Bruks AB",
+                "industry": "Manufacturing",
+                "start_date": "1939"
+            },
+            {
+                "occupational_title": "Vice president",
+                "workplace": "Ströms Bruks AB",
+                "industry": "Manufacturing",
+                "start_date": "1941"
+            }
+        ]
+    }
+}

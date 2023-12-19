@@ -1,0 +1,74 @@
+{
+    "original": "MARKMÄN, Karl Gustaf Fredrik, Civilingenjör, Stockholm, f Malmö 16/9 89 av civ.-ing K A M o Tullia Sjöström. Mog.ex NReal Sthlm 08, KTH (E) 09—12. Lab.eh v Telef.AB L M Ericsson i Sthlm sed. 13. Led Sv Tekn.frn.",
+    "translated": "MARKMÄN, Karl Gustaf Fredrik, Civil Engineer, Stockholm, born in Malmö on September 16, 1889, son of civil engineer K A M and Tullia Sjöström. Completed secondary education at NReal Sthlm in 1908 and studied at the Royal Institute of Technology (Engineering) from 1909 to 1912. Employed as a lab assistant at Telef.AB L M Ericsson in Stockholm since 1913. Member of the Swedish Society of Engineers.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Karl Gustaf Fredrik Markmän",
+        "birthDate": "1889-09-16",
+        "birthPlace": "Malmö",
+        "nationality": "Swedish",
+        "hasOccupation": {
+            "@type": "Occupation",
+            "name": "Civil Engineer"
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "K A M",
+                "jobTitle": "Civil Engineer"
+            },
+            {
+                "@type": "Person",
+                "name": "Tullia Sjöström"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "NReal Sthlm",
+                "location": "Stockholm",
+                "endDate": "1908"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Royal Institute of Technology",
+                "alternateName": "KTH",
+                "location": "Stockholm",
+                "startDate": "1909",
+                "endDate": "1912"
+            }
+        ],
+        "work": {
+            "@type": "OrganizationRole",
+            "roleName": "Lab Assistant",
+            "startDate": "1913",
+            "endDate": "present",
+            "organization": {
+                "@type": "Organization",
+                "name": "Telef.AB L M Ericsson",
+                "location": "Stockholm"
+            }
+        },
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Swedish Society of Engineers"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Stockholm",
+                "industry": null,
+                "start_date": null
+            },
+            {
+                "occupational_title": "Lab Assistant",
+                "workplace": "Telef.AB L M Ericsson",
+                "industry": "Telecommunications",
+                "start_date": "1913"
+            }
+        ]
+    }
+}

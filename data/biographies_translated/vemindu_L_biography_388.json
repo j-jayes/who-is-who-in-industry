@@ -1,0 +1,110 @@
+{
+    "original": "LUNDBERG, Folke Karl Walter, Fabrikschef, Valdemarsvik, f Valdemarsvik 5/1 09 av fabr Valter Lundberg o h h, gm Iris Ung-roth. Hal, tekn elem.sk i Norrkp. Volontär v C J Lundbergs Läderfabr AB i Valdemarsvik, Lederwerke Falk &amp; Schutt i Wilster Holstein samt Lederwerke Otto &amp; Albrecht Dix i Weida Timringen 24—27, Deutsche Gerber-schule i Freiberg 27—28, anst v C J Lundbergs Läderfabr AB sed. 28, fabr.chef där sed. 30.",
+    "translated": "LUNDBERG, Folke Karl Walter, Factory Manager, Valdemarsvik, born Valdemarsvik 5/1 09, son of fabricator Valter Lundberg and his wife. Married to Iris Ung-roth. Completed technical elementary school in Norrköping. Volunteered at C J Lundbergs Leather Factory in Valdemarsvik, Lederwerke Falk & Schutt in Wilster Holstein, and Lederwerke Otto & Albrecht Dix in Weida Timringen from 1924 to 1927. Attended Deutsche Gerberschule in Freiberg from 1927 to 1928. Employed at C J Lundbergs Leather Factory since 1928, appointed factory manager in 1930.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Folke Karl Walter Lundberg",
+        "jobTitle": "Factory Manager",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Valdemarsvik"
+        },
+        "birthDate": "1909-01-05",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Valter Lundberg",
+                "jobTitle": "Fabricator"
+            },
+            {
+                "@type": "Person",
+                "name": "Unnamed Mother"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Iris Ung-roth"
+        },
+        "educationalCredentialAwarded": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "Technical Elementary School",
+                "educationLevel": "Elementary School",
+                "educationalLevel": "Technical"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "Deutsche Gerberschule",
+                "startDate": "1927-01-01",
+                "endDate": "1928-01-01"
+            }
+        ],
+        "workExperience": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Volunteer",
+                "startDate": "1924-01-01",
+                "endDate": "1927-01-01",
+                "organization": "C J Lundbergs Leather Factory"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Volunteer",
+                "startDate": "1924-01-01",
+                "endDate": "1927-01-01",
+                "organization": "Lederwerke Falk & Schutt"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Volunteer",
+                "startDate": "1924-01-01",
+                "endDate": "1927-01-01",
+                "organization": "Lederwerke Otto & Albrecht Dix in Weida Timringen"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Employed",
+                "startDate": "1928-01-01",
+                "endDate": null,
+                "organization": "C J Lundbergs Leather Factory"
+            }
+        ],
+        "startDate": "1930-01-01",
+        "endDate": null
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Volunteer",
+                "workplace": "C J Lundbergs Leather Factory",
+                "industry": "Leather manufacturing",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Volunteer",
+                "workplace": "Lederwerke Falk & Schutt",
+                "industry": "Leather manufacturing",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Volunteer",
+                "workplace": "Lederwerke Otto & Albrecht Dix",
+                "industry": "Leather manufacturing",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Student",
+                "workplace": "Deutsche Gerberschule",
+                "industry": "Leather manufacturing",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Factory Manager",
+                "workplace": "C J Lundbergs Leather Factory",
+                "industry": "Leather manufacturing",
+                "start_date": "1930"
+            }
+        ]
+    }
+}

@@ -1,0 +1,113 @@
+{
+    "original": "MÖRK, Johan August Hjalmar, Disponent* Linköping, f Appuna, Ögl, 7/1 82, gm Jenny Lilja. Branschstud i Tyskl mm. Disp o styr.ordf sed. 06 i AB Rosenborgs möb.fabr^ omb t AB Fören möb.fabr. 18. Styr.led Sv träind.frb sed. 21, Sv möb.ind.frb sed. start (ordf 25—35). Stip.res Tyskl 01 samt 09—1(X ProPstGM.",
+    "translated": "MÖRK, Johan August Hjalmar, Manager* from Linköping, born in Appuna, Östergötland, on July 1st, 1882, married to Jenny Lilja. Studied industry in Germany, etc. Manager and chairman of the board since 1906 in AB Rosenborgs möbelfabrik* and transformed it to AB Förenade möbelfabriker in 1918. Board member of the Swedish Wood Industry Association since 1921, and the Swedish Furniture Industry Association from its inception (chairman from 1925 to 1935). Received scholarships to study in Germany in 1901 and from 1909 to 19XX. ProPstGM.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Johan August Hjalmar MÖRK",
+        "birthDate": "1882-07-01",
+        "birthPlace": "Appuna, Östergötland, Sweden",
+        "description": "Manager* from Linköping",
+        "spouse": {
+            "@type": "Person",
+            "name": "Jenny Lilja"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "German School of Industries"
+            }
+        ],
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1906",
+                "endDate": "1918",
+                "roleName": "Manager and Chairman of the Board",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Rosenborgs möbelfabrik",
+                    "alternateName": "AB Förenade möbelfabriker"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1921",
+                "roleName": "Board Member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Swedish Wood Industry Association"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1921",
+                "endDate": "1935",
+                "roleName": "Chairman",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Swedish Furniture Industry Association"
+                }
+            }
+        ],
+        "scholarship": [
+            {
+                "@type": "Scholarship",
+                "startDate": "1901",
+                "endDate": "1901",
+                "description": "Scholarship to study in Germany"
+            },
+            {
+                "@type": "Scholarship",
+                "startDate": "1909",
+                "endDate": "19XX",
+                "description": "Scholarship to study in Germany"
+            },
+            {
+                "@type": "Scholarship",
+                "startDate": "19XX",
+                "description": "ProPstGM Scholarship"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Manager",
+                "workplace": "AB Rosenborgs möbelfabrik",
+                "industry": "Furniture manufacturing",
+                "start_date": "1906"
+            },
+            {
+                "occupational_title": "Chairman of the Board",
+                "workplace": "AB Rosenborgs möbelfabrik",
+                "industry": "Furniture manufacturing",
+                "start_date": "1906"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "AB Förenade möbelfabriker",
+                "industry": "Furniture manufacturing",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Board member",
+                "workplace": "Swedish Wood Industry Association",
+                "industry": "Wood industry",
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Board member",
+                "workplace": "Swedish Furniture Industry Association",
+                "industry": "Furniture industry",
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Chairman",
+                "workplace": "Swedish Furniture Industry Association",
+                "industry": "Furniture industry",
+                "start_date": "1925"
+            }
+        ]
+    }
+}

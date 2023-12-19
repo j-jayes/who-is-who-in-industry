@@ -1,0 +1,185 @@
+{
+    "original": "MAGNUSSON, Karl Henry, Civilingenjör, Mölndal, f Jönkp 20/5 00 av byggmäst Johan Magnus M o Frida Svensson, gm Lizzie Lin-derholm. Realex CTH (kem). Anst Jordbro tändst.fabr Jönkp 25, driftschef Sv Oljeslag.-AB Sthlm 26—32, d :o Mölndal 32—39, forskn.-chef där 1/1 40—31/8 43, driftschef där ånyo sed. 1/9 43. Resor: Centr- o Sydeuropa 22, 34 o 41. Av trycket: Linoljans framställn o för-ädl (i Tekn Samf:s i Gbg minnesskr 39). Medl Deutsche Gesellsch f Fettforschung EV.",
+    "translated": "MAGNUSSON, Karl Henry, Civil Engineer, Mölndal, born in Jönköping on May 20, 1900, son of Johan Magnus M, a builder, and Frida Svensson. Married to Lizzie Linderholm. Completed secondary school at CTH (Royal Institute of Technology) with a focus on chemistry. Employed at Jordbro spark plug factory in Jönköping from 1925, then promoted to Operations Manager at Swedish Oil Slag AB in Stockholm from 1926 to 1932. After that, he moved to Mölndal and worked as Operations Manager from 1932 to 1939, and then as Research Director from January 1, 1940, to August 31, 1943. He returned as Operations Manager from September 1, 1943. Traveled to Central and Southern Europe in 1922, 1934, and 1941. Published on the production and refining of linseed oil in the Technical Society of Gothenburg's memorial publication in 1939. Member of Deutsche Gesellschaft für Fettforschung EV (German Society for Fat Research).",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Karl Henry Magnusson",
+        "jobTitle": "Civil Engineer",
+        "birthDate": "1900-05-20",
+        "birthPlace": "Jönköping, Sweden",
+        "father": {
+            "name": "Johan Magnus M",
+            "jobTitle": "Builder"
+        },
+        "mother": {
+            "name": "Frida Svensson"
+        },
+        "spouse": {
+            "name": "Lizzie Linderholm"
+        },
+        "education": {
+            "@type": "CollegeOrUniversity",
+            "name": "CTH (Royal Institute of Technology)",
+            "location": {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm",
+                    "addressCountry": "Sweden"
+                }
+            },
+            "major": "Chemistry",
+            "endDate": "1925"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Jordbro Spark Plug Factory",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Jönköping",
+                        "addressCountry": "Sweden"
+                    }
+                },
+                "startDate": "1925",
+                "endDate": "1926",
+                "jobTitle": "Employee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Oil Slag AB",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm",
+                        "addressCountry": "Sweden"
+                    }
+                },
+                "startDate": "1926",
+                "endDate": "1932",
+                "jobTitle": "Operations Manager"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Oil Slag AB",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Mölndal",
+                        "addressCountry": "Sweden"
+                    }
+                },
+                "startDate": "1932",
+                "endDate": "1939",
+                "jobTitle": "Operations Manager"
+            },
+            {
+                "@type": "Organization",
+                "name": "Mölndal",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Mölndal",
+                        "addressCountry": "Sweden"
+                    }
+                },
+                "startDate": "1940-01-01",
+                "endDate": "1943-08-31",
+                "jobTitle": "Research Director"
+            },
+            {
+                "@type": "Organization",
+                "name": "Mölndal",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Mölndal",
+                        "addressCountry": "Sweden"
+                    }
+                },
+                "startDate": "1943-09-01",
+                "jobTitle": "Operations Manager"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Deutsche Gesellschaft für Fettforschung EV",
+            "location": {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Germany"
+                }
+            }
+        },
+        "travelHistory": [
+            {
+                "@type": "Place",
+                "name": "Central Europe",
+                "startDate": "1922",
+                "endDate": "1922"
+            },
+            {
+                "@type": "Place",
+                "name": "Southern Europe",
+                "startDate": "1934",
+                "endDate": "1934"
+            },
+            {
+                "@type": "Place",
+                "name": "Southern Europe",
+                "startDate": "1941",
+                "endDate": "1941"
+            }
+        ],
+        "publications": [
+            {
+                "@type": "Article",
+                "name": "Linoljans framställn o för-ädl",
+                "publisher": "Technical Society of Gothenburg",
+                "publicationDate": "1939"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Jordbro spark plug factory",
+                "industry": "Automotive",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Operations Manager",
+                "workplace": "Swedish Oil Slag AB",
+                "industry": "Petroleum",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Operations Manager",
+                "workplace": "Mölndal",
+                "industry": "Unknown",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Research Director",
+                "workplace": "Mölndal",
+                "industry": "Unknown",
+                "start_date": "January 1, 1940"
+            },
+            {
+                "occupational_title": "Operations Manager",
+                "workplace": "Mölndal",
+                "industry": "Unknown",
+                "start_date": "September 1, 1943"
+            }
+        ]
+    }
+}

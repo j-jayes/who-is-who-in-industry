@@ -1,0 +1,71 @@
+{
+    "original": "MEYEB, Fritz Otto Wilhelm Gustaf, Civilingenjör, Stockholm, f Sthlm 21/11 97 av konstgjut Otto M o Anna Nilsson, gm Ebba Johansson. Ex KTH (kemi) 23. Dir i Ingfma Fliesberg AB sed. 31.",
+    "translated": "MEYEB, Fritz Otto Wilhelm Gustaf, Civil Engineer, Stockholm, born in Stockholm on November 21, 1897, son of Otto M, a foundry worker, and Anna Nilsson. Married to Ebba Johansson. Former student at the Royal Institute of Technology (Chemistry) in 1923. Director at Ingfma Fliesberg AB since 1931.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Fritz Otto Wilhelm Gustaf Meyeb",
+        "jobTitle": "Civil Engineer",
+        "birthPlace": "Stockholm",
+        "birthDate": "1897-11-21",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Otto M",
+                "jobTitle": "Foundry Worker"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Nilsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ebba Johansson"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Chemistry",
+            "educationalLevel": "Bachelor's Degree",
+            "alumniOf": {
+                "@type": "EducationalOrganization",
+                "name": "Royal Institute of Technology",
+                "location": "Stockholm",
+                "foundingDate": "1827"
+            },
+            "issuedBy": {
+                "@type": "Organization",
+                "name": "Royal Institute of Technology"
+            },
+            "startDate": "1923"
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Ingfma Fliesberg AB",
+            "startDate": "1931",
+            "jobTitle": "Director"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Ingfma Fliesberg AB",
+                "industry": "Engineering",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Ingfma Fliesberg AB",
+                "industry": "Engineering",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Former student",
+                "workplace": "Royal Institute of Technology",
+                "industry": "Education",
+                "start_date": "1923"
+            }
+        ]
+    }
+}

@@ -1,0 +1,113 @@
+{
+    "original": "LÄRKA, Jarl Bertil, Kapten, Ålsten, f Sthlm 25/11 92 av dir W L o Anna Ljungberg, gm Ebba Högfeldt. Ring I öReal, 6-år KSS. Ulöjtn 14, löjtn FI res 22, kapt 31. Sjöf.stud Tyskl. Anst AB W Lärka Sthlm 17, dir o deläg sed. 24, styr.led där o Ångf AB Gotland mfl. Årl aff.res Engl, Tyskl, Frankr mfL Hobbies: Jakt, fiske.",
+    "translated": "LÄRKA, Jarl Bertil, Captain, Ålsten, born in Stockholm on November 25, 1892, son of director W L and Anna Ljungberg, married to Ebba Högfeldt. Graduated from Östra Real school, served in the Royal Swedish Navy for 6 years. Promoted to Sub-Lieutenant in 1914, Lieutenant in the Coastal Artillery in 1922, and Captain in 1931. Studied maritime science in Germany. Employed by AB W Lärka in Stockholm from 1917, became director and co-owner in 1924, served on the board of directors there and at Ångfors AB Gotland among others. Made annual business trips to England, Germany, France, and other countries. Hobbies: Hunting, fishing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Jarl Bertil LÄRKA",
+        "birthDate": "1892-11-25",
+        "birthPlace": "Stockholm",
+        "description": "Captain in the Royal Swedish Navy, Director, and Co-owner",
+        "spouse": {
+            "@type": "Person",
+            "name": "Ebba Högfeldt"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "W L Ljungberg",
+                "jobTitle": "Director"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Ljungberg"
+            }
+        ],
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Östra Real School"
+        },
+        "affiliation": [
+            {
+                "@type": "Organization",
+                "name": "AB W Lärka",
+                "jobTitle": "Director",
+                "startDate": "1917",
+                "endDate": "1924"
+            },
+            {
+                "@type": "Organization",
+                "name": "Ångfors AB Gotland",
+                "jobTitle": "Board Member"
+            }
+        ],
+        "employs": {
+            "@type": "Organization",
+            "name": "AB W Lärka",
+            "jobTitle": "Director",
+            "startDate": "1924"
+        },
+        "nationality": "Swedish",
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Royal Swedish Navy",
+            "jobTitle": "Captain",
+            "startDate": "1898",
+            "endDate": "1931"
+        },
+        "sameAs": "https://example.com/jarlbertillarka",
+        "hasOccupation": [
+            {
+                "@type": "MilitaryRank",
+                "name": "Sub-Lieutenant",
+                "startDate": "1914",
+                "endDate": "1922"
+            },
+            {
+                "@type": "MilitaryRank",
+                "name": "Lieutenant",
+                "startDate": "1922",
+                "endDate": "1931"
+            }
+        ],
+        "knowsAbout": "Maritime Science",
+        "hobbies": [
+            "Hunting",
+            "Fishing"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Captain",
+                "workplace": "Ålsten",
+                "industry": "Military",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Sub-Lieutenant",
+                "workplace": "Royal Swedish Navy",
+                "industry": "Military",
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Lieutenant",
+                "workplace": "Coastal Artillery",
+                "industry": "Military",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Captain",
+                "workplace": "Unknown",
+                "industry": null,
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "AB W Lärka",
+                "industry": "Unknown",
+                "start_date": "1917"
+            }
+        ]
+    }
+}

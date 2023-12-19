@@ -1,0 +1,106 @@
+{
+    "original": "LARSSON, Edward, Ingenjör, Stockholm, f Sunne, Värml l, 4/3 79 av Lars o Maria Eriksson, gm Elisabeth Englund. Ex maskin-yrkessk i Sthlm 02. Rit o konstr v W Wik-liinds Verkstäders AB Sthlm 02—06, ing v Nya AB Atlas’ avd f transp.anordn Sthlm 06—08, avd.ch där 08—25, etabl tills m ing^ Ernst Pettersson Ing.fma Edward Larsson &amp; Co i Sthlm 26 (m ritn o modeller fr AB Atlas Diesels avd f transp.anordn). Inneh fi kommunala uppdr i Solna.",
+    "translated": "LARSSON, Edward, Engineer, Stockholm, born in Sunne, Värmland county, on March 3, 1879, to Lars and Maria Eriksson. Married to Elisabeth Englund. Completed machine professional training in Stockholm in 1902. Worked as a draftsman and designer at W Wik-liinds Verkstäders AB in Stockholm from 1902 to 1906. Became an engineer in the transportation department of Nya AB Atlas in Stockholm from 1906 to 1908, and then became the department head from 1908 to 1925. Established Edward Larsson & Co engineering firm in Stockholm in 1926 (collaborating with designs and models from the transportation department of AB Atlas Diesels). Held various municipal positions in Solna.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Edward Larsson",
+        "givenName": "Edward",
+        "familyName": "Larsson",
+        "jobTitle": "Engineer",
+        "birthPlace": "Sunne, Värmland county",
+        "birthDate": "1879-03-03",
+        "parents": [
+            {
+                "@type": "Person",
+                "givenName": "Lars",
+                "familyName": "Eriksson"
+            },
+            {
+                "@type": "Person",
+                "givenName": "Maria",
+                "familyName": "Eriksson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "givenName": "Elisabeth",
+            "familyName": "Englund"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Machine Professional Training",
+            "educationalLevel": "Training",
+            "startDate": "1902"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "W Wik-liinds Verkstäders AB",
+                "location": "Stockholm",
+                "startDate": "1902",
+                "endDate": "1906"
+            },
+            {
+                "@type": "Organization",
+                "name": "Nya AB Atlas",
+                "location": "Stockholm",
+                "startDate": "1906",
+                "endDate": "1908"
+            },
+            {
+                "@type": "Organization",
+                "name": "Nya AB Atlas",
+                "location": "Stockholm",
+                "startDate": "1908",
+                "endDate": "1925"
+            },
+            {
+                "@type": "Organization",
+                "name": "Edward Larsson & Co",
+                "location": "Stockholm",
+                "startDate": "1926"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "AB Atlas Diesels",
+                "location": "Stockholm",
+                "startDate": "1926"
+            },
+            {
+                "@type": "Organization",
+                "name": "Solna Municipality"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "W Wik-liinds Verkstäders AB",
+                "industry": "Machine Manufacturing",
+                "start_date": "1902"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Nya AB Atlas",
+                "industry": "Transportation",
+                "start_date": "1906"
+            },
+            {
+                "occupational_title": "Department Head",
+                "workplace": "Nya AB Atlas",
+                "industry": "Transportation",
+                "start_date": "1908"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Edward Larsson & Co",
+                "industry": "Engineering",
+                "start_date": "1926"
+            }
+        ]
+    }
+}

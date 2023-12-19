@@ -1,0 +1,114 @@
+{
+    "original": "LUNDGREN, Karl Torsten Gotthard, Civilingenjör, Stockholm, f Örebro 24/7 02 av sko-makarmäst K O L o Hilma Larsson, gm Alice Ljung. Studex öbr 21, KTH (E) 22—26. Rit v Telef.AB L M Ericsson Sthlm 26—27, offerting i fma Bergman &amp; Beving Sthlm 28—29, v Elektr AB Siemens Sthlm 30—34, v Hernösands Verkst- &amp; Varfs AB 34—36, inneh Ing.-fman Elektromotor Sthlm sed. 36.",
+    "translated": "LUNDGREN, Karl Torsten Gotthard, Civil Engineer, Stockholm, born in Örebro on 24th July 1902, son of shoemaker master K O L and Hilma Larsson, married to Alice Ljung. Studied at Örebro school until 1921, then at the Royal Institute of Technology (E) from 1922 to 1926. Worked as a draftsman at Telef.AB L M Ericsson in Stockholm from 1926 to 1927, as an estimator at Bergman &amp; Beving in Stockholm from 1928 to 1929, at Elektr AB Siemens in Stockholm from 1930 to 1934, and at Hernösands Verkst- &amp; Varfs AB from 1934 to 1936. Owned the engineering company Elektromotor in Stockholm since 1936.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Karl Torsten Gotthard Lundgren",
+        "jobTitle": [
+            {
+                "@type": "Organization",
+                "name": "Telef.AB L M Ericsson",
+                "startDate": "1926",
+                "endDate": "1927",
+                "jobTitle": "Draftsman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Bergman & Beving",
+                "startDate": "1928",
+                "endDate": "1929",
+                "jobTitle": "Estimator"
+            },
+            {
+                "@type": "Organization",
+                "name": "Elektr AB Siemens",
+                "startDate": "1930",
+                "endDate": "1934",
+                "jobTitle": "Estimator"
+            },
+            {
+                "@type": "Organization",
+                "name": "Hernösands Verkst- & Varfs AB",
+                "startDate": "1934",
+                "endDate": "1936",
+                "jobTitle": "Estimator"
+            },
+            {
+                "@type": "Organization",
+                "name": "Elektromotor",
+                "startDate": "1936",
+                "jobTitle": "Owner"
+            }
+        ],
+        "birthPlace": "Örebro",
+        "birthDate": "1902-07-24",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "K O L",
+                "jobTitle": "Shoemaker Master"
+            },
+            {
+                "@type": "Person",
+                "name": "Hilma Larsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Alice Ljung"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Örebro school"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Royal Institute of Technology",
+                "startDate": "1922",
+                "endDate": "1926"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Stockholm",
+                "industry": "Engineering",
+                "start_date": "1922-1926"
+            },
+            {
+                "occupational_title": "Draftsman",
+                "workplace": "Telef.AB L M Ericsson, Stockholm",
+                "industry": "Telecommunications",
+                "start_date": "1926-1927"
+            },
+            {
+                "occupational_title": "Estimator",
+                "workplace": "Bergman & Beving, Stockholm",
+                "industry": "Industrial Manufacturing",
+                "start_date": "1928-1929"
+            },
+            {
+                "occupational_title": "Estimator",
+                "workplace": "Elektr AB Siemens, Stockholm",
+                "industry": "Electronics",
+                "start_date": "1930-1934"
+            },
+            {
+                "occupational_title": "Estimator",
+                "workplace": "Hernösands Verkst- & Varfs AB",
+                "industry": "Shipbuilding",
+                "start_date": "1934-1936"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "Elektromotor, Stockholm",
+                "industry": "Engineering",
+                "start_date": "1936-present"
+            }
+        ]
+    }
+}

@@ -1,0 +1,109 @@
+{
+    "original": "LUNDSTRÖM, Göte Gotthard Valfrid, Civilingenjör, Tidaholm, f Link 26/10 00 av Ernst G L o Selma Andersson, gm Brita Lundbom. Studex Linkp 19, civilingex KTH 24. Anst Waplans mek verkst 25—29, STAB sed. 29, därav Philippine Match Co Manila Pl 31—35, Jkp V tändst.fabr 35—38, Vulcaiis tändst.fabr sed. 38. Resor: Tyskl 22, Ind 30, Filippinerna, se ovan.",
+    "translated": "LUNDSTRÖM, Göte Gotthard Valfrid, Civil Engineer, Tidaholm, b. L ink 26/10 00 to Ernst G L and Selma Andersson, m. Brita Lundbom. Graduated Linköping's high school in 1919, received civil engineering degree from the Royal Institute of Technology (KTH) in 1924. Employed at Waplans mechanical workshop from 1925 to 1929, then joined STAB thereafter. Worked at the Philippine Match Company in Manila from 1931 to 1935, and at Jkp V Tändstiftfabrik (Jönköping's Spark Plug Factory) from 1935 to 1938. Joined Vulcais Tändstiftfabrik. Traveled to Germany in 1922, India in 1930, and the Philippines, as mentioned above.\n\nPlease note that the abbreviation '\\d\\d m. partners name' denotes that the person got married in the year 19xx.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Göte Gotthard Valfrid Lundström",
+        "birthDate": "1900-10-26",
+        "birthPlace": "Link, Sweden",
+        "deathDate": null,
+        "nationality": "Swedish",
+        "description": "Göte Gotthard Valfrid Lundström was a Swedish civil engineer.",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Waplans Mekaniska Verkstad",
+                "startDate": "1925",
+                "endDate": "1929"
+            },
+            {
+                "@type": "Organization",
+                "name": "STAB"
+            },
+            {
+                "@type": "Organization",
+                "name": "Philippine Match Co",
+                "startDate": "1931",
+                "endDate": "1935",
+                "location": "Manila, Philippines"
+            },
+            {
+                "@type": "Organization",
+                "name": "Jkp V Tändstiftfabrik",
+                "startDate": "1935",
+                "endDate": "1938",
+                "location": "Jönköping, Sweden"
+            },
+            {
+                "@type": "Organization",
+                "name": "Vulcais Tändstiftfabrik",
+                "startDate": "1938"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Linköping's High School",
+                "endDate": "1919"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Royal Institute of Technology (KTH)",
+                "endDate": "1924"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Brita Lundbom",
+            "startDate": "19XX"
+        },
+        "travelHistory": [
+            {
+                "place": "Germany",
+                "date": "1922"
+            },
+            {
+                "place": "India",
+                "date": "1930"
+            },
+            {
+                "place": "Philippines"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Waplans mechanical workshop",
+                "industry": "Mechanical",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "STAB employee",
+                "workplace": "STAB",
+                "industry": "Unknown",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Employee at Philippine Match Company",
+                "workplace": "Philippine Match Company",
+                "industry": "Match manufacturing",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Employee at Jkp V Tändstiftfabrik",
+                "workplace": "Jkp V Tändstiftfabrik",
+                "industry": "Spark Plug manufacturing",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Employee at Vulcais Tändstiftfabrik",
+                "workplace": "Vulcais Tändstiftfabrik",
+                "industry": "Spark Plug manufacturing",
+                "start_date": "1938"
+            }
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "original": "LUNDIN, Klas Axel, Fabrikör, Eskilstuna, f Mellösa, Sörml l, 30/1 83, gm Jenny Forsberg. Inneh tills m fabr S J Lindberg AB Lundin &amp; Lindberg Metallvarufabr i Eskilstuna.",
+    "translated": "LUNDIN, Klas Axel, Manufacturer, Eskilstuna, born in Mellösa, Sörml l, January 30, 1883, married to Jenny Forsberg. Involved with the company S J Lindberg AB Lundin & Lindberg Metal Goods Factory in Eskilstuna.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Klas Axel Lundin",
+        "birthDate": "1883-01-30",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Mellösa",
+                "addressRegion": "Sörmland",
+                "addressCountry": "Sweden"
+            }
+        },
+        "description": "Manufacturer",
+        "spouse": {
+            "@type": "Person",
+            "name": "Jenny Forsberg"
+        },
+        "memberOf": {
+            "@type": "Organization",
+            "name": "S J Lindberg AB Lundin & Lindberg Metal Goods Factory",
+            "location": {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Eskilstuna",
+                    "addressCountry": "Sweden"
+                }
+            }
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Manufacturer",
+                "workplace": "S J Lindberg AB Lundin & Lindberg Metal Goods Factory",
+                "industry": "Metallurgy",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

@@ -1,0 +1,127 @@
+{
+    "original": "LUNDGREN, Claes Anton Lennart, Civilingenjör, Nockeby, f Grangärde, Kopparb l, 6/10 78 av br.förv C F L o Augusta Kiisel, gm Ultima Grönhagen. 5 kl allm lärov, Tekn Elem.sk Örebro 93—97, KTH (kemi) 97—00. Anst Gyttorps Sprängämnes AB 02—06, AB Express-Dynamit Grängesberg 06—42. Kyrko-flm o led kyrkoråd Grangärde 33. Styr.suppl AB Nora Tändrörsfabr. Resor: Engl, Skottl 09, Finl, Tyskl 28. RVO.",
+    "translated": "LUNDGREN, Claes Anton Lennart, Civil Engineer, Nockeby, born in Grangärde, Kopparberg county, October 6th, 1878 to foreman C.F.L. and Augusta Kiisel. Married to Ultima Grönhagen. Completed 5th grade in general education, Technical Elementary School in Örebro from 1893 to 1897, Royal Institute of Technology (chemistry) from 1897 to 1900. Employed at Gyttorps Explosives AB from 1902 to 1906, AB Express-Dynamit Grängesberg from 1906 to 1942. Church philantropist and member of the church council in Grangärde since 1933. Board reserve member at AB Nora Tändrörsfabrik. Traveled to England and Scotland in 1909, Finland in 1928, and Germany in 1928. Awarded with the Royal Victorian Order (RVO).",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Claes Anton Lennart Lundgren",
+        "birthDate": "1878-10-06",
+        "birthPlace": "Grangärde, Kopparberg county",
+        "nationality": "Swedish",
+        "description": "Civil Engineer",
+        "spouse": "Ultima Grönhagen",
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "educationalLevel": "5th grade in general education",
+            "earnedFrom": {
+                "@type": "EducationalOrganization",
+                "name": "Technical Elementary School",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Örebro"
+                },
+                "startDate": "1893",
+                "endDate": "1897"
+            }
+        },
+        "alumniOf": {
+            "@type": "CollegeOrUniversity",
+            "name": "Royal Institute of Technology",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Stockholm"
+            },
+            "startDate": "1897",
+            "endDate": "1900"
+        },
+        "employment": [
+            {
+                "@type": "Organization",
+                "name": "Gyttorps Explosives AB",
+                "startDate": "1902",
+                "endDate": "1906"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Express-Dynamit Grängesberg",
+                "startDate": "1906",
+                "endDate": "1942"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Grangärde Church Council",
+            "startDate": "1933"
+        },
+        "boardMember": {
+            "@type": "Organization",
+            "name": "AB Nora Tändrörsfabrik",
+            "position": "Board reserve member"
+        },
+        "travel": [
+            {
+                "@type": "Place",
+                "name": "England"
+            },
+            {
+                "@type": "Place",
+                "name": "Scotland"
+            },
+            {
+                "@type": "Place",
+                "name": "Finland"
+            },
+            {
+                "@type": "Place",
+                "name": "Germany"
+            }
+        ],
+        "awards": [
+            {
+                "@type": "OrderOf",
+                "name": "Royal Victorian Order",
+                "description": "Recipient of the Royal Victorian Order (RVO)"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Foreman",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Nockeby",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Gyttorps Sprängämnes AB",
+                "industry": "Explosives",
+                "start_date": "1902"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "AB Express-Dynamit Grängesberg",
+                "industry": "Explosives",
+                "start_date": "1906"
+            },
+            {
+                "occupational_title": "Church Philanthropist",
+                "workplace": "Grangärde Church",
+                "industry": "Religious",
+                "start_date": "1933"
+            },
+            {
+                "occupational_title": "Board Reserve Member",
+                "workplace": "AB Nora Tändrörsfabrik",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

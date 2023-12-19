@@ -1,0 +1,152 @@
+{
+    "original": "LARSON, Josef, Kontorschef, Klippan, f Västerlanda, Bohusl, 22/12 86 av sjökapt O P L Ö Berta Berndtsson, gm Ruth Jönsson. Prlrsamsk. Elev v Lilla Edets Pappersbr 02—03, bokh där 04—07, inköpare 08—11, korresp v AB Klippans Finpappersbr 11—15, exportför-eäljningschef 16, kontorschef 28, dir.assistent 32. Kronoomb i tax.nmd, kommunalrev. Styr.-led i Finpappersbr Försäljn AB o Klippans hv-frn. Resor: Engl, Tyskl, Norge, Danm. ProP-stGM, Skyttefrbrs överstyr :s ftjdipl. Hobbies : Segling, Skytte, litteratur.",
+    "translated": "LARSON, Josef, Office Manager, Klippan, born in Västerlanda, Bohuslän, on the 22nd of December 1886, to sea captain O.P.L. Ö Berta Berndtsson and Ruth Jönsson. Married. Education: Student at Lilla Edets Pappersbruk (Paper Mill) 1902-1903, clerk there 1904-1907, purchaser 1908-1911, correspondent at AB Klippans Finpappersbruk (Fine Paper Mill) 1911-1915, export sales manager 1916, office manager 1928, assistant director 1932. Member of the Board of the Taxation Council and Municipal Revenue. Board-member and leader in Finpappersbruk Försäljning AB (Sales of Fine Paper Company) and Klippans Handelsförening (Klippan's Trade Association). Traveled to England, Germany, Norway, and Denmark. Owner of estate. Member of the shooting club's executive committee and awarded shooting diplomas. Hobbies: Sailing, Shooting, literature.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Josef Larson",
+        "jobTitle": "Office Manager",
+        "birthDate": "1886-12-22",
+        "birthPlace": "Västerlanda, Bohuslän",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "O.P.L. Ö Berta Berndtsson",
+                "jobTitle": "Sea Captain"
+            },
+            {
+                "@type": "Person",
+                "name": "Ruth Jönsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ruth Jönsson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Lilla Edets Pappersbruk",
+                "startDate": "1902",
+                "endDate": "1903",
+                "description": "Student"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Lilla Edets Pappersbruk",
+                "startDate": "1904",
+                "endDate": "1907",
+                "description": "Clerk"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "AB Klippans Finpappersbruk",
+                "startDate": "1911",
+                "endDate": "1915",
+                "jobTitle": "Correspondent"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Klippans Finpappersbruk",
+                "startDate": "1916",
+                "endTime": "1928",
+                "jobTitle": "Export Sales Manager"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Klippans Finpappersbruk",
+                "startDate": "1928",
+                "endTime": "1932",
+                "jobTitle": "Office Manager"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Taxation Council"
+            },
+            {
+                "@type": "Organization",
+                "name": "Municipal Revenue"
+            },
+            {
+                "@type": "Organization",
+                "name": "Finpappersbruk Försäljning AB",
+                "jobTitle": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Klippans Handelsförening",
+                "jobTitle": "Leader"
+            }
+        ],
+        "honorificSuffix": "Owner of estate",
+        "nationality": "Swedish",
+        "hasOccupation": [
+            {
+                "@type": "Role",
+                "name": "Member of the shooting club's executive committee"
+            },
+            {
+                "@type": "Role",
+                "name": "Awarded shooting diplomas"
+            }
+        ],
+        "interest": [
+            "Sailing",
+            "Shooting",
+            "Literature"
+        ],
+        "sameAs": [
+            "https://www.example.com/joseflarson"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Student",
+                "workplace": "Lilla Edets Pappersbruk (Paper Mill)",
+                "industry": "Paper manufacturing",
+                "start_date": "1902"
+            },
+            {
+                "occupational_title": "Clerk",
+                "workplace": "Lilla Edets Pappersbruk (Paper Mill)",
+                "industry": "Paper manufacturing",
+                "start_date": "1904"
+            },
+            {
+                "occupational_title": "Purchaser",
+                "workplace": "Lilla Edets Pappersbruk (Paper Mill)",
+                "industry": "Paper manufacturing",
+                "start_date": "1908"
+            },
+            {
+                "occupational_title": "Correspondent",
+                "workplace": "AB Klippans Finpappersbruk (Fine Paper Mill)",
+                "industry": "Paper manufacturing",
+                "start_date": "1911"
+            },
+            {
+                "occupational_title": "Export Sales Manager",
+                "workplace": "AB Klippans Finpappersbruk (Fine Paper Mill)",
+                "industry": "Paper manufacturing",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Office Manager",
+                "workplace": "Klippan",
+                "industry": "Unknown",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Assistant Director",
+                "workplace": "Klippan",
+                "industry": "Unknown",
+                "start_date": "1932"
+            }
+        ]
+    }
+}

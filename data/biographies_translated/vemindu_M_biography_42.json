@@ -1,0 +1,102 @@
+{
+    "original": "MALMQUIST, Oscar Gösta Henning, Disponent, Uddevalla, f Hbg 18/3 09 av bankdir O E M o Matildha Henningsson. Fil kand Lund (huv.ämne nat.ekon), jurid stud. Anst 37 av Gbgs bk ss disp f Uddev nya tunnfabr AB (grund 89), övert detta 39. Suppl by^gn- 0 hälsov.nmda. Resor: Europa 33—39. Rotary.",
+    "translated": "MALMQUIST, Oscar Gösta Henning, Accountant, Uddevalla, b. Helsingborg 18/3 09, son of bank director O E M and Matildha Henningsson. Bachelor's degree from Lund University (major in national economics), studied law. Employed since 1937 by Goteborgs bank, later appointed as accountant at Uddevalla's new barrel factory AB (established in 1889) and took over the company in 1939. Also served as a deputy member of the building and health committee. Traveled extensively in Europe from 1933 to 1939. Member of the Rotary club.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Oscar Gösta Henning Malmquist",
+        "birthDate": "1909-03-18",
+        "birthPlace": "Helsingborg",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "O E M"
+            },
+            {
+                "@type": "Person",
+                "name": "Matildha Henningsson"
+            }
+        ],
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "bachelor's degree",
+            "educationalLevel": "Bachelor's degree",
+            "educationalProgram": {
+                "@type": "EducationalProgram",
+                "name": "National Economics",
+                "provider": {
+                    "@type": "Organization",
+                    "name": "Lund University"
+                }
+            }
+        },
+        "occupation": [
+            {
+                "@type": "Occupation",
+                "name": "Accountant"
+            },
+            {
+                "@type": "Occupation",
+                "name": "Deputy Member",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Building and Health Committee"
+                }
+            }
+        ],
+        "workLocation": [
+            {
+                "@type": "Place",
+                "name": "Uddevalla"
+            }
+        ],
+        "workHistory": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1937",
+                "endDate": "1939",
+                "roleName": "Accountant",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Goteborgs bank"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1939",
+                "roleName": "Accountant",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Uddevalla's new barrel factory AB",
+                    "foundingDate": "1889"
+                }
+            }
+        ],
+        "travelHistory": {
+            "@type": "Place",
+            "name": "Europe",
+            "startDate": "1933",
+            "endDate": "1939"
+        },
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Rotary club"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Accountant",
+                "workplace": "Goteborgs bank",
+                "industry": "Banking",
+                "start_date": "1937"
+            },
+            {
+                "occupational_title": "Accountant",
+                "workplace": "Uddevalla's new barrel factory AB",
+                "industry": "Manufacturing",
+                "start_date": "1939"
+            }
+        ]
+    }
+}

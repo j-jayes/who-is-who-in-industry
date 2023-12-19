@@ -1,0 +1,151 @@
+{
+    "original": "NORDSTRÖM, Albert Leopold Justus, Gross-handlande, Hälsingborg, f Hbg 15/11 88 av förgyllarefabr Aug N o Albertine Bäck, gm Esther Florin. Förbered sk i Chicago 96, lärov o hdlsinst i Hbg 06, stud.resa t Tyskl 0 språkstud 06—07. Anst h AB A &amp; I Nelson 1 Hbg 07—16, kont.chef i Hdls AB E Ewald där 16—22, vkst dir i AB Alb Grönvall i Hbg 22—24, eg agenturfma 24—27 (repres Sv Jäst-fabr AB i Nässjö o Nya Margarin AB Svea i Kalmar), vid margarinindustriens centralisering dess chef f kont i Nässjö 27, inneh agentur o partifma i bageriartiklar i Hbg sed. 28 m ag f Fabr AB Victoria i Hbg o Hbgs Ång-kvarns AB.",
+    "translated": "NORDSTRÖM, Albert Leopold Justus, Merchant, Helsingborg, born in Halmstad on November 15, 1888, son of gilder manufacturer August N and Albertine Bäck, married to Esther Florin. Prepared school in Chicago in 1896, education and trade instruction in Halmstad in 1906, study trip to Germany for language studies in 1906-1907. Employed by A & I Nelson Ltd. in Helsingborg from 1907 to 1916, then as a department head at Trade Company E Ewald from 1916 to 1922, director of growth in Alb Grönvall Ltd. in Helsingborg from 1922 to 1924. Established own agency business from 1924-1927 (representing Swedish Yeast Factory Ltd. in Nässjö and New Margarine AB Svea in Kalmar). When the centralization of the margarine industry occurred, became head of the Nässjö office in 1927. Owned agency and partnership business in bakery articles in Helsingborg since 1928, with affiliation to Fabr AB Victoria in Helsingborg and Hbgs Ång-kvarns AB.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Albert Leopold Justus Nordström",
+        "birthDate": "1888-11-15",
+        "birthPlace": "Halmstad, Sweden",
+        "nationality": "Swedish",
+        "description": "Merchant, Helsingborg",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "August N Nordström",
+                "occupation": "Gilder Manufacturer"
+            },
+            {
+                "@type": "Person",
+                "name": "Albertine Bäck"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Esther Florin"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "Chicago School",
+                "startDate": "1896"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "Trade Instruction, Halmstad",
+                "startDate": "1906"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "Language Studies in Germany",
+                "startDate": "1906",
+                "endDate": "1907"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1907",
+                "endDate": "1916",
+                "roleName": "A & I Nelson Ltd.",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Helsingborg"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1916",
+                "endDate": "1922",
+                "roleName": "E Ewald Trade Company",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Helsingborg"
+                },
+                "department": "Department Head"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1922",
+                "endDate": "1924",
+                "roleName": "Alb Grönvall Ltd.",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Helsingborg"
+                },
+                "department": "Director of Growth"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1924",
+                "endDate": "1927",
+                "roleName": "Own Agency Business",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Helsingborg"
+                },
+                "description": "Representing Swedish Yeast Factory Ltd. in Nässjö and New Margarine AB Svea in Kalmar"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1927",
+                "roleName": "Nässjö Office",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Centralization of the Margarine Industry"
+                },
+                "description": "Head of the Nässjö office"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1928",
+                "roleName": "Agency and Partnership Business",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Helsingborg"
+                },
+                "description": "With affiliation to Fabr AB Victoria in Helsingborg and Hbgs Ång-kvarns AB"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Helsingborg",
+                "industry": "Retail",
+                "start_date": "1907"
+            },
+            {
+                "occupational_title": "Department Head",
+                "workplace": "Trade Company E Ewald",
+                "industry": "Retail",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Director of Growth",
+                "workplace": "Alb Grönvall Ltd.",
+                "industry": "Unknown",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Agency Business Owner",
+                "workplace": "Own business",
+                "industry": "Sales Representation",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Head of Nässjö Office",
+                "workplace": "Nässjö",
+                "industry": "Margarine",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Agency and Partnership Business Owner",
+                "workplace": "Helsingborg",
+                "industry": "Bakery",
+                "start_date": "1928"
+            }
+        ]
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "original": "NORDWALL, Sten Gunnar Folke, Grosshandlare, Stockholm, f Sthlm 20/9 85 av rotem A O L N o H A M Andersson, gm Karin Broman. 6 kl h a l, privatstud. Kont h byggn.mtrl.fman Wåhlin &amp; Co Sthlm 00, deläg 20—35, eg fma i byggn.mtrl.br, Sten Nordwall, Sthlm, sed. 36, egna kont- o lagerlok v S Mälarstrand; villa på Algö, Tyresö. Styr.led (kassaförv) 85 års män sed. 24. Upprep resor i Norge, Finl, Estl, Danm, Tyskl 35— 39. Frimurare (IX), Neptuniorden mfl. Hobbies: Segel- o motorsport.",
+    "translated": "NORDWALL, Sten Gunnar Folke, Merchant, Stockholm, born in Stockholm on September 20, 1885, to parents with initials A O L N and H A M Andersson, married to Karin Broman. Completed 6 years of elementary school and then received private education. Started working at the building material company Wåhlin &amp; Co in Stockholm in 1900, became a co-owner from 1920 to 1935, and then established his own building material business, Sten Nordwall, in Stockholm from 1936. Owned personal offices and warehouse spaces at South Mälarstrand and resided in a villa on Algö, Tyresö. Has been a member of the board of directors (treasurer) of the 85-year-old men's club since 1924. Made repeated trips to Norway, Finland, Estonia, Denmark, and Germany between 1935 and 1939. Also a Freemason (IX) and member of the Neptuniorden and other organizations. Hobbies include sailing and motorsports.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Sten Gunnar Folke Nordwall",
+        "birthDate": "1885-09-20",
+        "birthPlace": "Stockholm",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "parents": [
+            {
+                "givenName": "A O L N",
+                "familyName": "Andersson"
+            },
+            {
+                "givenName": "H A M",
+                "familyName": "Andersson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Karin Broman"
+        },
+        "educationLevel": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "educationLevel": "elementary school",
+                "startDate": "1891",
+                "endDate": "1897"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "educationCredentialAwarded": "private education"
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Wåhlin & Co",
+            "location": "Stockholm",
+            "startDate": "1900"
+        },
+        "owns": {
+            "@type": "Place",
+            "name": "Personal Offices and Warehouse Spaces",
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "South Mälarstrand"
+            }
+        },
+        "residence": {
+            "@type": "Place",
+            "name": "Villa on Algö",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Tyresö"
+            }
+        },
+        "boardMember": [
+            {
+                "@type": "Organization",
+                "name": "85-year-old Men's Club",
+                "position": "Treasurer",
+                "startDate": "1924"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Freemasons"
+            },
+            {
+                "@type": "Organization",
+                "name": "Neptuniorden"
+            }
+        ],
+        "hobbies": [
+            "Sailing",
+            "Motorsports"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Wåhlin & Co",
+                "industry": "Building material",
+                "start_date": "1900"
+            },
+            {
+                "occupational_title": "Co-owner",
+                "workplace": "Wåhlin & Co",
+                "industry": "Building material",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "Sten Nordwall",
+                "industry": "Building material",
+                "start_date": "1936"
+            }
+        ]
+    }
+}

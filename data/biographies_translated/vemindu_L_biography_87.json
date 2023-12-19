@@ -1,0 +1,162 @@
+{
+    "original": "LARSSON, Per Pontus, Bankdirektör, Karlskoga, f Vikers kap.förs, öbr l, 4/4 63 av bergsbruksidk P Larsson o Christina Ericsson, gm Anna Ericsson. Hal, tekn sk, lantbr.sk. Anst öbr ensk bk i Askersund, Skand kred.AB i Karlskoga 87—07, vkst styr.led Kga hds sparbk 93—24, vkst dir 24—43, vkst dir o styr.ordf AB N Lohult, Kga. Eg lantbr samt förv å egend i Kga s :n. V. ordf kom.-stämm o kyrkostämm, ordf kom.nmdn 25 år, kass f kommun p kyrkl kass. RVO2kl, Sr sparbksfrns st ftjGM.",
+    "translated": "LARSSON, Per Pontus, Bank Director, Karlskoga, born in Vikerskapellfors, other parishes, on April 4, 1863, to mining entrepreneur P Larsson and Christina Ericsson, married to Anna Ericsson. Completed upper secondary technical school, agricultural school. Employed at other private banks in Askersund, Skandia Credit AB in Karlskoga from 1887 to 1907, member of the board of Kga Savings Bank from 1893 to 1924, director of growth from 1924 to 1943, director of AB N Lohult, Kga and chairman of the board. Owns a farm and manages property in Kga parish. Vice chairman of the local assembly and church assembly, chairman of the municipal committee for 25 years, treasurer of the church treasury. Awarded the Royal Order of the Polar Star, Second Class, honorary member of the Savings Bank Association.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Per Pontus Larsson",
+        "birthDate": "1863-04-04",
+        "birthPlace": "Vikerskapellfors, Sweden",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Karlskoga"
+        },
+        "jobTitle": "Bank Director",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "P Larsson"
+            },
+            {
+                "@type": "Person",
+                "name": "Christina Ericsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Anna Ericsson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Upper Secondary",
+                "credentialLevel": "Technical School"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Agricultural School",
+                "credentialLevel": "Agricultural School"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "Other Private Banks",
+                "location": "Askersund"
+            },
+            {
+                "@type": "Organization",
+                "name": "Skandia Credit AB",
+                "location": "Karlskoga",
+                "startDate": "1887",
+                "endDate": "1907"
+            },
+            {
+                "@type": "Organization",
+                "name": "Kga Savings Bank",
+                "location": "Karlskoga",
+                "position": "Board Member",
+                "startDate": "1893",
+                "endDate": "1924"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB N Lohult",
+                "location": "Karlskoga",
+                "position": "Director"
+            }
+        ],
+        "owns": [
+            {
+                "@type": "Place",
+                "name": "Farm",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Karlskoga"
+                }
+            },
+            {
+                "@type": "Place",
+                "name": "Property",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Karlskoga"
+                }
+            }
+        ],
+        "memberships": [
+            {
+                "@type": "Organization",
+                "name": "Local Assembly",
+                "position": "Vice Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Church Assembly",
+                "position": "Vice Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Municipal Committee",
+                "position": "Chairman",
+                "startDate": "25 years"
+            },
+            {
+                "@type": "Organization",
+                "name": "Church Treasury",
+                "position": "Treasurer"
+            },
+            {
+                "@type": "Organization",
+                "name": "Savings Bank Association",
+                "position": "Honorary Member"
+            }
+        ],
+        "awards": [
+            {
+                "@type": "Order",
+                "name": "Royal Order of the Polar Star",
+                "description": "Second Class"
+            },
+            {
+                "@type": "Organization",
+                "name": "Savings Bank Association",
+                "position": "Honorary Member"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Bank Director",
+                "workplace": "Other Private Banks",
+                "industry": "Banking",
+                "start_date": "1887"
+            },
+            {
+                "occupational_title": "Bank Director",
+                "workplace": "Skandia Credit AB",
+                "industry": "Banking",
+                "start_date": "1907"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Kga Savings Bank",
+                "industry": "Banking",
+                "start_date": "1893"
+            },
+            {
+                "occupational_title": "Director of Growth",
+                "workplace": "Kga Savings Bank",
+                "industry": "Banking",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "AB N Lohult, Kga",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

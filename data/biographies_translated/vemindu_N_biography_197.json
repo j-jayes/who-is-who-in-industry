@@ -1,0 +1,154 @@
+{
+    "original": "NORMAN, August Hjalmar, Handlande, Avesta, f Husby, Kopparb l, 91 av gårdsäg A N o h h f Ericsson, gm Greta Lindström. Aff.bitr i öl bransch 02—12, förest Klosters hdlsfrn 12—16, d:o Västerby hush.frn Hedemora 17—18, vkst dir AB Dalabönder, Hedemora 20—24, inneh bosättn- o kortvarufma i Avesta m fil i Krylbo sed. 24. Styr.led Upl ensk bks avd.kont, AB Vicentra Falun, Ekon frn Varina upa Falun, fi rev.uppdr. Resor: Tyskl uppr ggr, Norge 26, 34, Tyskl, Ital, Schweiz 39. Tempelriddare. Hobby: Fjällvandringar.",
+    "translated": "NORMAN, August Hjalmar, Merchant, Avesta, b. Husby, Kopparberg county, 91 of farm owner A N and h h f Ericsson, m. Greta Lindström. Assistant in the beer industry 02-12, manager of Klosters trading company 12-16, the same position in Västerby household goods store in Hedemora 17-18, managing director of AB Dalabönder, Hedemora 20-24, owner of a residence and retail business in Avesta with a branch in Krylbo since 24. Board member of Uplandsenska bank's branch office, AB Vicentra Falun, Economics degree from Varina in Falun, as well as auditing assignments. Travels: Germany multiple times, Norway 26, 34, Germany, Italy, Switzerland 39. Member of the Templar Knights. Hobby: Mountain hiking.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "August Hjalmar Norman",
+        "jobTitle": "Merchant",
+        "birthPlace": "Husby, Kopparberg county, Sweden",
+        "birthDate": "1891",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "A N Norman"
+            },
+            {
+                "@type": "Person",
+                "name": "h h f Ericsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Greta Lindström"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "AB Dalabönder",
+                "location": "Hedemora"
+            }
+        ],
+        "affiliation": [
+            {
+                "@type": "Organization",
+                "name": "AB Vicentra Falun"
+            },
+            {
+                "@type": "Organization",
+                "name": "Uplandsenska bank's branch office"
+            }
+        ],
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Varina",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Falun"
+            }
+        },
+        "residence": {
+            "@type": "Residence",
+            "name": "Avesta",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Avesta"
+            }
+        },
+        "hobbies": [
+            "Mountain hiking"
+        ],
+        "tempelriddare": true,
+        "jobs": [
+            {
+                "@type": "JobPosting",
+                "title": "Assistant in the beer industry",
+                "startDate": "1902-01-01",
+                "endDate": "1912-12-31"
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Manager of Klosters trading company",
+                "startDate": "1912-01-01",
+                "endDate": "1916-12-31"
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Manager of Västerby household goods store",
+                "startDate": "1917-01-01",
+                "endDate": "1918-12-31"
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Managing Director of AB Dalabönder",
+                "startDate": "1920-01-01",
+                "endDate": "1924-12-31"
+            }
+        ],
+        "travels": [
+            {
+                "@type": "Trip",
+                "name": "Germany"
+            },
+            {
+                "@type": "Trip",
+                "name": "Norway",
+                "startDate": "1926-01-01"
+            },
+            {
+                "@type": "Trip",
+                "name": "Norway",
+                "startDate": "1934-01-01"
+            },
+            {
+                "@type": "Trip",
+                "name": "Germany",
+                "startDate": "1939-01-01"
+            },
+            {
+                "@type": "Trip",
+                "name": "Italy",
+                "startDate": "1939-01-01"
+            },
+            {
+                "@type": "Trip",
+                "name": "Switzerland",
+                "startDate": "1939-01-01"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Assistant in the beer industry",
+                "workplace": "Unknown",
+                "industry": "Beer industry",
+                "start_date": "1902"
+            },
+            {
+                "occupational_title": "Manager of Klosters trading company",
+                "workplace": "Klosters",
+                "industry": "Trading",
+                "start_date": "1912"
+            },
+            {
+                "occupational_title": "Manager of Västerby household goods store",
+                "workplace": "Västerby, Hedemora",
+                "industry": "Household goods",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Managing director of AB Dalabönder",
+                "workplace": "AB Dalabönder, Hedemora",
+                "industry": "Unknown",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Owner of a residence and retail business",
+                "workplace": "Avesta with a branch in Krylbo",
+                "industry": "Unknown",
+                "start_date": "1924"
+            }
+        ]
+    }
+}

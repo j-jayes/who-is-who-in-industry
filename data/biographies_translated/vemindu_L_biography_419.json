@@ -1,0 +1,141 @@
+{
+    "original": "LUNDGREN, Anders Göran, Civilingenjör, Morgårdshammar, f Hedemora 3/12 05 av kamrer J V L o Anna Nylén, gm Britt Marie Bergström. Studex Falun 24, civingex KTH (maskinbyggn o mek tekn) 29. Anst v AB Arboga Mek Verkst 29—31, v T An Tesch AB i Sthlm 31—36, v Morgårdshammars Mek Verkst AB sed. 36. Resor: Norge, Finl, Danm, Tyskl, Frankr, Schweiz, Österr, Engl, Sydafr Unionen, Rhodesia 28—43.",
+    "translated": "LUNDGREN, Anders Göran, Civil Engineer, Morgårdshammar, born in Hedemora on December 3rd, 1905, son of cashier J. V. L. and Anna Nylén, married to Britt Marie Bergström. Graduated from Falun High School in 1924, obtained a Civil Engineering degree from the Royal Institute of Technology (specializing in mechanical engineering) in 1929. Employed at AB Arboga Mechanical Works from 1929 to 1931, and at T An Tesch AB in Stockholm from 1931 to 1936. Joined Morgårdshammar Mechanical Works AB in 1936 and has been there ever since. Traveled to Norway, Finland, Denmark, Germany, France, Switzerland, Austria, England, South African Union, and Rhodesia from 1928 to 1943.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Anders Göran Lundgren",
+        "jobTitle": "Civil Engineer",
+        "birthDate": "1905-12-03",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Hedemora"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "J. V. L. Lundgren",
+                "jobTitle": "Cashier"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Nylén"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Britt Marie Bergström"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "Studex",
+                "description": "High School diploma",
+                "educationalLevel": "HighSchool"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "Civil Engineering degree",
+                "description": "Specializing in mechanical engineering",
+                "educationalLevel": "BachelorDegree",
+                "startDate": "1924",
+                "endDate": "1929"
+            }
+        ],
+        "workHistory": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1929",
+                "endDate": "1931",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Arboga Mechanical Works"
+                },
+                "roleName": "Employee"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1931",
+                "endDate": "1936",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "T An Tesch AB"
+                },
+                "roleName": "Employee"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1936",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Morgårdshammar Mechanical Works AB"
+                },
+                "roleName": "Employee"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Country",
+                "name": "Norway"
+            },
+            {
+                "@type": "Country",
+                "name": "Finland"
+            },
+            {
+                "@type": "Country",
+                "name": "Denmark"
+            },
+            {
+                "@type": "Country",
+                "name": "Germany"
+            },
+            {
+                "@type": "Country",
+                "name": "France"
+            },
+            {
+                "@type": "Country",
+                "name": "Switzerland"
+            },
+            {
+                "@type": "Country",
+                "name": "Austria"
+            },
+            {
+                "@type": "Country",
+                "name": "England"
+            },
+            {
+                "@type": "Country",
+                "name": "South African Union"
+            },
+            {
+                "@type": "Country",
+                "name": "Rhodesia"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "AB Arboga Mechanical Works",
+                "industry": "Mechanical Engineering",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "T An Tesch AB",
+                "industry": "Mechanical Engineering",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Morgårdshammar Mechanical Works AB",
+                "industry": "Mechanical Engineering",
+                "start_date": "1936"
+            }
+        ]
+    }
+}

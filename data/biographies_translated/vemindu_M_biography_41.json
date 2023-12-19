@@ -1,0 +1,131 @@
+{
+    "original": "MALMQUIST, John Erik, Direktör, Malmö, f Mmö 11/3 01, gm Malin Ståhlnacke. Realex 17, hdlsgymn 19, prakt i in o utl fmor o bryggerier, tysk högsk 23—25. Bryggmäst v Malmquist Bryggeri 25—28, lab.förest 28—30, disp o vkst dir 30—37, vkst dir f AB Malmö Fören Bryggerier sed. 37. Styr.led i AB Malmö Fören Bryggerier, Lunds Bryggeri AB o AB Klosterbryggeriet i Ystad.",
+    "translated": "MALMQUIST, John Erik, Director, Malmö, b. Malmö 11/3 01, mar. Malin Ståhlnacke. Completed primary education in 1917, completed high school in 1919, practical training in domestic and foreign breweries, German university 1923-1925. Brewmaster at Malmquist Brewery 1925-1928, laboratory supervisor 1928-1930, sales and marketing director 1930-1937, vice president and sales director of AB Malmö Fören Bryggerier since 1937. Board member of AB Malmö Fören Bryggerier, Lunds Bryggeri AB, and AB Klosterbryggeriet in Ystad.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "John Erik Malmquist",
+        "jobTitle": "Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Malmö"
+        },
+        "birthDate": "1901-03-11",
+        "spouse": {
+            "@type": "Person",
+            "name": "Malin Ståhlnacke"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "primary education",
+                "startDate": "1917",
+                "endDate": "1919"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "high school",
+                "startDate": "1919",
+                "endDate": "1923"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "practical training",
+                "trainingFor": "domestic and foreign breweries"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "university",
+                "alumniOf": {
+                    "@type": "CollegeOrUniversity",
+                    "name": "German University"
+                },
+                "startDate": "1923",
+                "endDate": "1925"
+            }
+        ],
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Malmquist Brewery"
+                },
+                "roleName": "Brewmaster",
+                "startDate": "1925",
+                "endDate": "1928"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Malmquist Brewery"
+                },
+                "roleName": "Laboratory Supervisor",
+                "startDate": "1928",
+                "endDate": "1930"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Malmö Fören Bryggerier"
+                },
+                "roleName": "Sales and Marketing Director",
+                "startDate": "1930",
+                "endDate": "1937"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Malmö Fören Bryggerier"
+                },
+                "roleName": "Vice President and Sales Director",
+                "startDate": "1937"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "AB Malmö Fören Bryggerier"
+            },
+            {
+                "@type": "Organization",
+                "name": "Lunds Bryggeri AB"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Klosterbryggeriet in Ystad"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Brewmaster",
+                "workplace": "Malmquist Brewery",
+                "industry": "Brewery",
+                "start_date": "1925-01-01"
+            },
+            {
+                "occupational_title": "Laboratory Supervisor",
+                "workplace": "Malmquist Brewery",
+                "industry": "Brewery",
+                "start_date": "1928-01-01"
+            },
+            {
+                "occupational_title": "Sales and Marketing Director",
+                "workplace": "AB Malmö Fören Bryggerier",
+                "industry": "Brewery",
+                "start_date": "1930-01-01"
+            },
+            {
+                "occupational_title": "Vice President and Sales Director",
+                "workplace": "AB Malmö Fören Bryggerier",
+                "industry": "Brewery",
+                "start_date": "1937-01-01"
+            }
+        ]
+    }
+}

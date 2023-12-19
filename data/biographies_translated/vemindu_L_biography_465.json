@@ -1,0 +1,69 @@
+{
+    "original": "LUTHANDER, Sten Åke Birger, Civilingenjör, Stockholm, f Silbodal, Värml l, 8/12 05 av ing A T L o Signe Boman. Studex Uddevalla 24, civingex KTH (maskinbyggn o mek tekn) 30. Ass i flygtekn v KTH 30, nu avd.-ch v Flygtekn Försöksanst i Ulvsunda.",
+    "translated": "LUTHANDER, Sten Åke Birger, Engineer, Stockholm, born in Silbodal, Värmland county, on December 8th, 1905, son of engineer A.T.L. Luthander and Signe Boman. Graduated from Uddevalla in 1924, received a civil engineering degree from the Royal Institute of Technology (KTH) in 1930, specializing in mechanical engineering and machine technology. Assistant in aeronautical engineering at KTH in 1930, currently department head at the Aeronautical Engineering Experimental Institute in Ulvsunda. Note that '\\d\\d m. partner's name' indicates marriage in the year 19xx.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Sten Åke Birger Luthander",
+        "jobTitle": "Department Head",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Silbodal"
+        },
+        "birthDate": "1905-12-08",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "A.T.L. Luthander",
+                "jobTitle": "Engineer"
+            },
+            {
+                "@type": "Person",
+                "name": "Signe Boman"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Uddevalla",
+                "startDate": "1924-01-01"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Royal Institute of Technology (KTH)",
+                "startDate": "1930-01-01"
+            }
+        ],
+        "alumniOf": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Royal Institute of Technology (KTH)",
+                "department": "Mechanical Engineering",
+                "major": "Machine Technology",
+                "startDate": "1930-01-01"
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Aeronautical Engineering Experimental Institute",
+            "department": "Ulvsunda"
+        },
+        "startDate": "1930-01-01"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Assistant in Aeronautical Engineering",
+                "workplace": "KTH (Royal Institute of Technology)",
+                "industry": "Aeronautical Engineering",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Department Head",
+                "workplace": "Aeronautical Engineering Experimental Institute",
+                "industry": "Aeronautical Engineering",
+                "start_date": "unknown"
+            }
+        ]
+    }
+}

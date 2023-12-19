@@ -1,0 +1,101 @@
+{
+    "original": "LUNDQUIST, Henrik Bågnar, Civilingenjör, Falun, f Nordmaling, Västerb l, 16/8 87 av apot S L o Stina Håkansson, gm Märtha Unge. Mog.ex Hbg 06, KTH (VoV) 07—11. Anst v Hbgs stads byggn.kont 11—12, v Sthlms elverk Untraverket 12—20, v St Kopparb Bergsl AB Söderfors 20—28, kraftverks-avd Falun sed. 28.",
+    "translated": "LUNDQUIST, Henrik Bågnar, Civil Engineer, Falun, born in Nordmaling, Västerbotten, on August 16th, 1887, son of apothecary S L and Stina Håkansson, married to Märtha Unge. Previously studied in Hbg (Helsingborg) in 1906, and at KTH (Royal Institute of Technology) from 1907 to 1911. Employed at Helsingborg Municipal Building Office from 1911 to 1912, at Stockholm Power Plant, Untraverket, from 1912 to 1920, at St Kopparb Bergsl AB in Söderfors from 1920 to 1928, and in the power plant department in Falun since 1928.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Henrik Bågnar Lundquist",
+        "description": "Civil Engineer",
+        "birthDate": "1887-08-16",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Nordmaling"
+        },
+        "birthCountry": {
+            "@type": "Country",
+            "name": "Sweden"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "S L Lundquist"
+            },
+            {
+                "@type": "Person",
+                "name": "Stina Håkansson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Märtha Unge"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Helsingborg",
+                "startDate": "1906"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "KTH (Royal Institute of Technology)",
+                "startDate": "1907",
+                "endDate": "1911"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "Helsingborg Municipal Building Office",
+                "startDate": "1911",
+                "endDate": "1912"
+            },
+            {
+                "@type": "Organization",
+                "name": "Stockholm Power Plant, Untraverket",
+                "startDate": "1912",
+                "endDate": "1920"
+            },
+            {
+                "@type": "Organization",
+                "name": "St Kopparb Bergsl AB",
+                "location": "Söderfors",
+                "startDate": "1920",
+                "endDate": "1928"
+            },
+            {
+                "@type": "Organization",
+                "name": "Falun Power Plant Department",
+                "location": "Falun",
+                "startDate": "1928"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Helsingborg Municipal Building Office",
+                "industry": "Government",
+                "start_date": "1911-01-01"
+            },
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Stockholm Power Plant (Untraverket)",
+                "industry": "Energy",
+                "start_date": "1912-01-01"
+            },
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "St Kopparb Bergsl AB (Söderfors)",
+                "industry": "Mining",
+                "start_date": "1920-01-01"
+            },
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Falun Power Plant",
+                "industry": "Energy",
+                "start_date": "1928-01-01"
+            }
+        ]
+    }
+}

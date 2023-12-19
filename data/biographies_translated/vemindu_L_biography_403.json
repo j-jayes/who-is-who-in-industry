@@ -1,0 +1,50 @@
+{
+    "original": "LUNDBERG, Verner, Skohandlare, Nora, f Järnboås, öbr l, 23/8 92 av garverifabr Gustaf L o Kristina Johansson, gm Anna Johansson. Folksk. Inneh m brod Gustaf L fma G Lundberg sko- &amp; läderhdl (grund 89).",
+    "translated": "LUNDBERG, Verner, Shoemaker, Nora, born in Järnboås, unmarried, born on August 23, 1892, to leather factory owner Gustaf L and Kristina Johansson, married to Anna Johansson. Completed elementary school. Brother of Gustaf L, partner in G Lundberg shoe and leather store (established in 1889).",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Verner Lundberg",
+        "jobTitle": "Shoemaker",
+        "birthPlace": "Järnboås",
+        "birthDate": "1892-08-23",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Gustaf L Lundberg",
+                "jobTitle": "Leather Factory Owner"
+            },
+            {
+                "@type": "Person",
+                "name": "Kristina Johansson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Anna Johansson"
+        },
+        "sibling": {
+            "@type": "Person",
+            "name": "Gustaf L Lundberg"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Elementary school"
+        },
+        "memberOf": {
+            "@type": "Business",
+            "name": "G Lundberg shoe and leather store",
+            "foundingDate": "1889"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Shoemaker",
+                "workplace": "G Lundberg shoe and leather store",
+                "industry": "Retail",
+                "start_date": "1889"
+            }
+        ]
+    }
+}

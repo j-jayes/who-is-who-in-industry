@@ -1,0 +1,149 @@
+{
+    "original": "MANN, Johannes Albert, Direktör, Jonsered, f Leipzig 4/6 86 av pastor A M o Christina Masther, gm Bertha Kihlström. Realläroverk Leipzig. Anst: Vol i fma J B Limburger j :or Leipzig 02—06, avd.ch Lindelöf &amp; Co Gbg 06 —13, deläg sed. 13. Ag fastigh Aspvik, Jonsered. Medl kyrkoråd Lerum. Styr.ordf Jönköpings Vågfabr AB, styr.led Thorsten Brunius &amp; Co AB Gbg, Hånsfors br AB Gbg o O. Y. Elemwe AB, Tammerfors. Resor: Tyskl, Engl, Frankr, Schweiz, Span, Ital, Ung, Ryssl, Finl, Norge, Sydamer, Afrika; Danm, Port upprep ggr. Sv undersåte sed. 13. Fman Lindelöf har filialer i Tammerfors, Oslo o Köpenhamn.",
+    "translated": "MANN, Johannes Albert, Director, Jonsered, b Leipzig 4/6 1886, son of Pastor A M and Christina Masther, married to Bertha Kihlström. Graduated from the Realgymnasium Leipzig. Employed as a Voluntary Assistant at J B Limburger & Co in Leipzig 1902-1906, department manager at Lindelöf & Co in Gothenburg 1906-1913, co-owner since 1913. Also engaged in real estate in Aspvik, Jonsered. Member of the church council in Lerum. Chairman of the board of Jönköpings Vågfabr AB, board member of Thorsten Brunius & Co AB in Gothenburg, Hånsfors br AB in Gothenburg, and O. Y. Elemwe AB in Tammerfors. Traveled to Germany, England, France, Switzerland, Spain, Italy, Hungary, Russia, Finland, Norway, South America, Africa; multiple trips to Denmark and Portugal. Became a Swedish citizen in 1913. Lindelöf & Co has subsidiaries in Tammerfors, Oslo, and Copenhagen.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Johannes Albert Mann",
+        "birthDate": "1886-06-04",
+        "birthPlace": "Leipzig",
+        "nationality": "Swedish",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "A M Masther",
+                "jobTitle": "Pastor"
+            },
+            {
+                "@type": "Person",
+                "name": "Christina Masther"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Bertha Kihlström"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Realläroverk",
+            "educationalLevel": "SecondaryEducation",
+            "educationalProgram": "Realgymnasium",
+            "provider": {
+                "@type": "Organization",
+                "name": "Leipzig"
+            }
+        },
+        "numberOfYearsOfExperience": 11,
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "J B Limburger & Co",
+                "startDate": "1902",
+                "endDate": "1906",
+                "jobTitle": "Voluntary Assistant",
+                "location": "Leipzig"
+            },
+            {
+                "@type": "Organization",
+                "name": "Lindelöf & Co",
+                "startDate": "1906",
+                "endDate": "1913",
+                "jobTitle": "Department Manager",
+                "location": "Gothenburg"
+            },
+            {
+                "@type": "Organization",
+                "name": "Lindelöf & Co",
+                "startDate": "1913",
+                "jobTitle": "Co-owner",
+                "location": "Gothenburg"
+            }
+        ],
+        "owns": {
+            "@type": "RealEstateAgent",
+            "name": "Aspvik, Jonsered"
+        },
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Lerum Church",
+            "department": "Church Council"
+        },
+        "affiliation": [
+            {
+                "@type": "Organization",
+                "name": "Jönköpings Vågfabr AB",
+                "position": "Chairman of the Board"
+            },
+            {
+                "@type": "Organization",
+                "name": "Thorsten Brunius & Co AB",
+                "position": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Hånsfors br AB",
+                "position": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "O. Y. Elemwe AB",
+                "position": "Board Member"
+            }
+        ],
+        "hasOccupation": [
+            {
+                "@type": "TravelAgency",
+                "name": "Lindelöf & Co",
+                "location": [
+                    "Tammerfors",
+                    "Oslo",
+                    "Copenhagen"
+                ]
+            }
+        ],
+        "traveledTo": [
+            "Germany",
+            "England",
+            "France",
+            "Switzerland",
+            "Spain",
+            "Italy",
+            "Hungary",
+            "Russia",
+            "Finland",
+            "Norway",
+            "South America",
+            "Africa",
+            {
+                "name": "Denmark",
+                "frequency": "multiple"
+            },
+            {
+                "name": "Portugal",
+                "frequency": "multiple"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Voluntary Assistant",
+                "workplace": "J B Limburger & Co",
+                "industry": "Unknown",
+                "start_date": "1902-06-01"
+            },
+            {
+                "occupational_title": "Department Manager",
+                "workplace": "Lindelöf & Co",
+                "industry": "Unknown",
+                "start_date": "1906-01-01"
+            },
+            {
+                "occupational_title": "Co-owner",
+                "workplace": "Lindelöf & Co",
+                "industry": "Unknown",
+                "start_date": "1913-01-01"
+            }
+        ]
+    }
+}

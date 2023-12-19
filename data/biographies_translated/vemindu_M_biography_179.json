@@ -1,0 +1,109 @@
+{
+    "original": "MÖRTSTEDT, Sten-Erik, Civilingenjör, Finspång, f Säfsnäs, Kopparb l, 26/6 16 av stadskamrer Sten M o Hildegard Duhs, gm Sigrid Larsson. Studex Kristinehamn 35, civingex KTH 41. Anst v STALrs turbinavd i Finspång 41—43, nu konstr v kylavd. Resor: Tyskl o Danm 37.",
+    "translated": "MÖRTSTEDT, Sten-Erik, Civil Engineer, Finspång, born in Säfsnäs, Kopparb l, June 26, 1916, to city treasurer Sten M and Hildegard Duhs. Married to Sigrid Larsson. High school graduate in Kristinehamn in 1935, received civil engineering degree from the Royal Institute of Technology in 1941. Employed at STAL's turbine department in Finspång from 1941 to 1943, currently working in the cooling department as a designer. Travels include Germany and Denmark in 1937.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Sten-Erik Mörtstedt",
+        "givenName": "Sten-Erik",
+        "familyName": "Mörtstedt",
+        "birthDate": "1916-06-26",
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Säfsnäs, Kopparb l"
+        },
+        "nationality": "Swedish",
+        "jobTitle": "Civil Engineer",
+        "description": "Civil Engineer based in Finspång",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Sten M Mörtstedt",
+                "jobTitle": "City Treasurer"
+            },
+            {
+                "@type": "Person",
+                "name": "Hildegard Duhs"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Sigrid Larsson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalProgram",
+                "identifier": "studex",
+                "name": "High School Graduate",
+                "startDate": "1935",
+                "endDate": "1935",
+                "alumniOf": {
+                    "@type": "EducationalOrganization",
+                    "name": "Kristinehamn"
+                }
+            },
+            {
+                "@type": "EducationalOccupationalProgram",
+                "identifier": "civingex",
+                "name": "Civil Engineering Degree",
+                "startDate": "1941",
+                "endDate": "1941",
+                "alumniOf": {
+                    "@type": "EducationalOrganization",
+                    "name": "Royal Institute of Technology"
+                }
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "STAL"
+        },
+        "employment": [
+            {
+                "@type": "Role",
+                "title": "Turbine Department",
+                "startDate": "1941",
+                "endDate": "1943",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "STAL"
+                }
+            },
+            {
+                "@type": "Role",
+                "title": "Cooling Department (Designer)"
+            }
+        ],
+        "location": {
+            "@type": "Place",
+            "name": "Finspång"
+        },
+        "traveledWith": [
+            {
+                "@type": "Person",
+                "name": "Sigrid Larsson"
+            }
+        ],
+        "hasOccupation": {
+            "@type": "Occupation",
+            "name": "Civil Engineer"
+        },
+        "sameAs": "https://example.com/sten-erik-mortstedt"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "STAL's turbine department",
+                "industry": "Engineering",
+                "start_date": "1941"
+            },
+            {
+                "occupational_title": "Designer",
+                "workplace": "Cooling department",
+                "industry": "Engineering",
+                "start_date": "1943"
+            }
+        ]
+    }
+}

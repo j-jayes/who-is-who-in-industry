@@ -1,0 +1,75 @@
+{
+    "original": "LUNDIN, Nils Olof, Kapten, Enköping, f Enkp 16/1 93 av red Aug L o Laura BJörn-vall, gm Asta Lundgren. Studex 12, offex 15, off A.10 15—25, friv övgst 25, vkst dir Enkps Postens AB (grund 79). Led kyrkoflm o pens.nmdn. Rev sparbkn.",
+    "translated": "LUNDIN, Nils Olof, Captain, Enköping, born Enköping 16/1 93 to parents August L and Laura Björn-vall, married Asta Lundgren. Graduated high school in 1912, commissioned as an officer in 1915, retired as a Captain in 1925. Served as a reserve officer from 1925, worked as a director at Enköping's Postens AB (founded in 1979). Led the church film committee and the pension board. Reviewed savings banks.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Nils Olof Lundin",
+        "jobTitle": "Captain",
+        "birthPlace": "Enköping",
+        "birthDate": "1893-01-16",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "August L"
+            },
+            {
+                "@type": "Person",
+                "name": "Laura Björn-vall"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Asta Lundgren"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "high school diploma",
+            "startDate": "1912"
+        },
+        "workExperience": [
+            {
+                "@type": "Employment",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Enköping's Postens AB"
+                },
+                "jobTitle": "Director",
+                "startDate": "1925",
+                "endDate": "1979"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Church Film Committee",
+                "position": "Chairperson"
+            },
+            {
+                "@type": "Organization",
+                "name": "Pension Board",
+                "position": "Chairperson"
+            }
+        ],
+        "reviews": {
+            "@type": "Review",
+            "reviewedItem": "Savings Banks"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Captain",
+                "workplace": "Enköping",
+                "industry": "Military",
+                "start_date": "1915"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Enköping's Postens AB",
+                "industry": "Postal Services",
+                "start_date": "1979"
+            }
+        ]
+    }
+}

@@ -1,0 +1,166 @@
+{
+    "original": "LUBECK, Sten Edward Wilhelm, Civilingenjör, Stockholm, f Sthlm 6/3 10 av Ihövd S E J L o Maja Warfvinge, gm Lily Hul-thén. Studex Gävle 28, KTH (V o V) 28—32. Bitr ing v Slussbyggn.ktén Sthlm 33—34, anst v Sv Entreprenad AB i Teheran 34, i Meche-disser Mazanderan 35—36 o i Riga 36—40. nu v Byggn AB Contractor Sthlm. Resor: Flert europ länder 31—39, Främre Orienten 34—36, Egypten 36.",
+    "translated": "LUBECK, Sten Edward Wilhelm, Civil Engineer, Stockholm, born in Stockholm on March 6th, 1910, son of Ihövd S E J L and Maja Warfvinge, married Lily Hul-thén. Studied in Gävle until 1928, then at KTH (V and V) from 1928 to 1932. Assistant engineer at Slussbyggn.ktén in Stockholm from 1933 to 1934, employed at Swedish Entreprenad AB in Tehran in 1934, in Meche-disser Mazanderan from 1935 to 1936, and in Riga from 1936 to 1940. Currently employed at Byggn AB Contractor in Stockholm. Traveled to several European countries from 1931 to 1939, to the Middle East from 1934 to 1936, and Egypt in 1936. Please note that '\\d\\d m. partner's name' indicates that the person got married in the year 19xx.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Sten Edward Wilhelm LUBECK",
+        "birthDate": "1910-03-06",
+        "birthPlace": "Stockholm",
+        "father": {
+            "@type": "Person",
+            "name": "Ihövd S E J L"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Maja Warfvinge"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Lily Hul-thén"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Gävle",
+                "endDate": "1928"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "KTH",
+                "endDate": "1932"
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Byggn AB Contractor",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Stockholm"
+            }
+        },
+        "jobTitle": "Civil Engineer",
+        "employmentHistory": [
+            {
+                "@type": "JobPosting",
+                "title": "Assistant Engineer",
+                "startDate": "1933",
+                "endDate": "1934",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Slussbyggn.ktén",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm"
+                    }
+                }
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Employed",
+                "startDate": "1934",
+                "endDate": null,
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Swedish Entreprenad AB",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Tehran"
+                    }
+                }
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Employed",
+                "startDate": "1935",
+                "endDate": "1936",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Meche-disser Mazanderan"
+                }
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Employed",
+                "startDate": "1936",
+                "endDate": "1940",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Riga"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Entreprenad AB",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Tehran"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Meche-disser Mazanderan"
+            },
+            {
+                "@type": "Organization",
+                "name": "Riga"
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "Trip",
+                "name": "European Travels",
+                "startDate": "1931",
+                "endDate": "1939"
+            },
+            {
+                "@type": "Trip",
+                "name": "Middle Eastern Travels",
+                "startDate": "1934",
+                "endDate": "1936"
+            },
+            {
+                "@type": "Trip",
+                "name": "Egypt",
+                "startDate": "1936",
+                "endDate": "1936"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Assistant engineer",
+                "workplace": "Slussbyggn.ktén",
+                "industry": "Construction",
+                "start_date": "1933-01-01"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Swedish Entreprenad AB",
+                "industry": "Construction",
+                "start_date": "1934-01-01"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Meche-disser Mazanderan",
+                "industry": "Construction",
+                "start_date": "1935-01-01"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Riga",
+                "industry": "Construction",
+                "start_date": "1936-01-01"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Byggn AB Contractor",
+                "industry": "Construction",
+                "start_date": "1940-01-01"
+            }
+        ]
+    }
+}

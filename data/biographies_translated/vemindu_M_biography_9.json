@@ -1,0 +1,76 @@
+{
+    "original": "MAGNUSSON, Hjalmar, Disponent, Hälsingborg, f Mörarp 7/3 83. Hdlssk. Anst Gbgs Litograf AB :s Hbgskont 99, en av gr av ds eftr Johnsons Pappersind AB, kamr där 17, vkst dir där o i AB Tengwalls Triopermfabr sed. 35.",
+    "translated": "MAGNUSSON, Hjalmar, Manager, Helsingborg, born in Mörarp on March 7th, 1883. Merchant School graduate. Employed at Gbgs Litograf AB's Helsingborg office since 1899. One of the co-founders of Johnsons Pappersind AB, became a partner there in 1917. Also served as a managing director at AB Tengwalls Triopermfabr since 1935. Note that '\\d\\d m. partners name' means that the person married in the year 19xx.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Hjalmar Magnusson",
+        "birthDate": "1883-03-07",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Helsingborg",
+            "addressCountry": "Sweden"
+        },
+        "jobTitle": "Manager",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Gbgs Litograf AB",
+                "foundingDate": "1899"
+            },
+            {
+                "@type": "Organization",
+                "name": "Johnsons Pappersind AB",
+                "foundingDate": "1917"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Tengwalls Triopermfabr",
+                "startDate": "1935"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "PARTNER NAME",
+            "birthDate": "19xx"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Merchant School graduate"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Disponent",
+                "workplace": "Hälsingborg",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Anst Gbgs Litograf AB",
+                "workplace": "Hbgskont",
+                "industry": "Printing",
+                "start_date": "1899"
+            },
+            {
+                "occupational_title": "Co-founder, Johnsons Pappersind AB",
+                "workplace": "Unknown",
+                "industry": "Paper industry",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Kamr, Johnsons Pappersind AB",
+                "workplace": "Unknown",
+                "industry": "Paper industry",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Managing Director, AB Tengwalls Triopermfabr",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "1935"
+            }
+        ]
+    }
+}

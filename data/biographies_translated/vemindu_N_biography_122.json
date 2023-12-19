@@ -1,0 +1,128 @@
+{
+    "original": "NORDBECK, Stig- Eskil Gunnar. Chefsingenjör, Karlskrona, f Sthlm 28/8 03 av öv.-löjtn G E N o Naima Pontin, gm (1) Anne-Marie Modig, (2) Kerstin Froste. Studex K-krona 23, KTH (E) 23—28. Försäljn- o mon-tageing v Luth &amp; Roséns Elektr AB i Ital, Frankr o Belg 28—30, anst v Stat vattenfallsverk 30—37, Trafik AB Grängesberg—Oxelösund 37—39. Kkrona stads kommunala affärsverk ss förest f el- o gasverken samt trafikföretagen sed. 39. Styr.led i Sv Elektrici-tetsverksfrn o Sv Gasverksfrn. Bebor egen fastigh.",
+    "translated": "NORDBECK, Stig-Eskil Gunnar. Chief Engineer, Karlskrona, born in Stockholm on August 28th, 1903, son of Lieutenant General G.E.N. and Naima Pontin. Married (1) Anne-Marie Modig and (2) Kerstin Froste. Completed high school in Karlskrona in 1923 and studied at KTH (Royal Institute of Technology) from 1923 to 1928, specializing in Electrical Engineering. Worked in sales and installation at Luth & Roséns Elektr AB in Italy, France, and Belgium from 1928 to 1930, and employed by the State Power Company from 1930 to 1937. Joined Trafik AB Grängesberg—Oxelösund from 1937 to 1939. Served as the head of the municipal business department for electricity and gas in Karlskrona since 1939. Also served on the boards of the Swedish Electricity Company Federation and the Swedish Gas Works Association. Owns his own property.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Stig-Eskil Gunnar Nordbeck",
+        "jobTitle": "Chief Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Karlskrona"
+        },
+        "birthDate": "1903-08-28",
+        "birthPlace": "Stockholm",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Lieutenant General G.E.N."
+            },
+            {
+                "@type": "Person",
+                "name": "Naima Pontin"
+            }
+        ],
+        "spouse": [
+            {
+                "@type": "Person",
+                "name": "Anne-Marie Modig"
+            },
+            {
+                "@type": "Person",
+                "name": "Kerstin Froste"
+            }
+        ],
+        "education": [
+            {
+                "@type": "HighSchool",
+                "name": "Studex Karlskrona",
+                "endDate": "1923"
+            },
+            {
+                "@type": "CollegeOrUniversity",
+                "name": "Royal Institute of Technology",
+                "startDate": "1923",
+                "endDate": "1928",
+                "degree": {
+                    "@type": "EducationalOccupationalCredential",
+                    "credentialCategory": "specialization",
+                    "credentialName": "Electrical Engineering"
+                }
+            }
+        ],
+        "career": [
+            {
+                "@type": "Organization",
+                "name": "Luth & Roséns Elektr AB",
+                "department": "Sales and Installation",
+                "location": "Italy, France, Belgium",
+                "startDate": "1928",
+                "endDate": "1930"
+            },
+            {
+                "@type": "Organization",
+                "name": "State Power Company",
+                "position": "Employee",
+                "startDate": "1930",
+                "endDate": "1937"
+            },
+            {
+                "@type": "Organization",
+                "name": "Trafik AB Grängesberg—Oxelösund",
+                "position": "Employee",
+                "startDate": "1937",
+                "endDate": "1939"
+            },
+            {
+                "@type": "Organization",
+                "name": "Karlskrona Municipal Business Department",
+                "position": "Head",
+                "startDate": "1939"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Electricity Company Federation",
+                "roleName": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Gas Works Association",
+                "roleName": "Board Member"
+            }
+        ],
+        "owns": {
+            "@type": "OwnershipInfo",
+            "ownedFrom": "1939"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Sales and installation",
+                "workplace": "Luth & Roséns Elektr AB",
+                "industry": "Electrical",
+                "start_date": "1928-01-01"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "State Power Company",
+                "industry": "Power",
+                "start_date": "1930-01-01"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Trafik AB Grängesberg—Oxelösund",
+                "industry": "Transportation",
+                "start_date": "1937-01-01"
+            },
+            {
+                "occupational_title": "Head of municipal business department",
+                "workplace": "Karlskrona",
+                "industry": "Municipal Services",
+                "start_date": "1939-01-01"
+            }
+        ]
+    }
+}

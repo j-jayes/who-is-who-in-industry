@@ -1,0 +1,76 @@
+{
+    "original": "MIJLI.ES, Bolf Axel Emil, Civilingenjör, Djursholm, f Sthlm 15/1 15 av dir T M o Thora Rutensköld. Ex KTH (E). Anst Hg Relay Patent 39, ch f Sv AB Philips’ avd f mätinstrument sed. 40. Resor: Tyskl 35, 36 o 37, Ital 35 o 38.",
+    "translated": "MIJLI.ES, Bolf Axel Emil, Civil Engineer, Djursholm, born in Stockholm on January 15, 1915, son of director T M and Thora Rutensköld. Former student at the Royal Institute of Technology (Electrical Engineering). Employed by Hg Relay Patent from 1939, later at the Swedish branch of AB Philips' Instrumentation Department since 1940. Travels: Germany in 1935, 1936, and 1937, Italy in 1935 and 1938.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Bolf Axel Emil Mijli.es",
+        "jobTitle": "Civil Engineer",
+        "birthPlace": "Stockholm",
+        "birthDate": "1915-01-15",
+        "father": {
+            "@type": "Person",
+            "name": "T M Mijli.es"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Thora Rutensköld"
+        },
+        "alumniOf": {
+            "@type": "EducationalOrganization",
+            "name": "Royal Institute of Technology",
+            "location": "Stockholm",
+            "startDate": "E",
+            "endDate": ""
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Swedish branch of AB Philips' Instrumentation Department",
+            "startDate": "1940",
+            "endDate": ""
+        },
+        "travels": [
+            {
+                "place": "Germany",
+                "startDate": "1935",
+                "endDate": "1935"
+            },
+            {
+                "place": "Germany",
+                "startDate": "1936",
+                "endDate": "1936"
+            },
+            {
+                "place": "Germany",
+                "startDate": "1937",
+                "endDate": "1937"
+            },
+            {
+                "place": "Italy",
+                "startDate": "1935",
+                "endDate": "1935"
+            },
+            {
+                "place": "Italy",
+                "startDate": "1938",
+                "endDate": "1938"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Hg Relay Patent",
+                "industry": "Engineering",
+                "start_date": "1939"
+            },
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "AB Philips' Instrumentation Department",
+                "industry": "Electronics",
+                "start_date": "1940"
+            }
+        ]
+    }
+}

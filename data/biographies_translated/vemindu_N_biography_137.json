@@ -1,0 +1,151 @@
+{
+    "original": "NORDENSKJÖLD, Tore, Civilingenjör, Malmö, f Sthlm 24/3 11 av slottsarkitekt K N o Elsa Beckman, gm Ruth Wulff. Studex 30, KTH (kemi) 35, Sv Ind.frbs arb.led.inst ing.-kurs 42, Stat Brandsk kurs f utbildn av brand-ch kat III 42, Sv Ind.frbs arb.led.instituts arb.studiekurs 44. Forskn.ing v AB Astras t)io-kem laborat 35—37, ch f dta AB:s analytiska lab 37—39, forskn.ing v Bolidens Gruv AB :s centrallab 39—40, chefskemist v Mazetti Malmö sed. 40. Sekr Skånska ing.klbn sed. 43. Av trycket: »Beitrag zur Kenntnis der Leberryth-mik». Resor: Danm 30, 36, 38, 40, Tyskl 36, 40. Led Sv Tekn.frn, Sk ing.klubben. T. O., Par Bricole.",
+    "translated": "NORDENSKJÖLD, Tore, Engineer, Malmö, born in Stockholm on March 24, 1911, son of castle architect K N and Elsa Beckman, married to Ruth Wulff. Graduated with a degree in chemistry from KTH in 1935. Worked at the Swedish Industrial Association's leading institute for engineers in 1942. Completed a fire prevention course for training of fire chief category III in 1942. Also participated in a study course at the Swedish Industrial Association's leading institute in 1944. Worked as a research engineer at AB Astra's neurochemical laboratory from 1935 to 1937, then as chief of AB Astra's analytical lab from 1937 to 1939, and as a research engineer at Boliden Mining AB's central lab from 1939 to 1940. Became the chief chemist at Mazetti Malmö in 1940. Secretary of the Skåne Engineering Club since 1943. Published a paper called \"Contributions to the Knowledge of Leberrethmics\". Traveled to Denmark in 1930, 1936, 1938, and 1940, and to Germany in 1936 and 1940. Member of the Swedish Technical Association and the Skåne Engineering Club. T. O., Par Bricole.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Tore Nordenskjöld",
+        "jobTitle": "Civilingenjör",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Malmö"
+        },
+        "birthDate": "1911-03-24",
+        "birthPlace": "Stockholm",
+        "parents": [
+            {
+                "name": "K N Nordenskjöld",
+                "@type": "Person",
+                "jobTitle": "Slottsarkitekt"
+            },
+            {
+                "name": "Elsa Beckman",
+                "@type": "Person"
+            }
+        ],
+        "spouse": "Ruth Wulff",
+        "alumniOf": {
+            "@type": "CollegeOrUniversity",
+            "name": "KTH",
+            "location": "Stockholm",
+            "attendanceStartDate": "1930",
+            "attendanceEndDate": "1935",
+            "courseOfStudy": "Chemistry"
+        },
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Industrial Association",
+                "jobTitle": "Research Engineer",
+                "startDate": "1935",
+                "endDate": "1937",
+                "department": "AB Astra Neurochemical Laboratory"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Industrial Association",
+                "jobTitle": "Chief of Analytical Lab",
+                "startDate": "1937",
+                "endDate": "1939",
+                "department": "AB Astra"
+            },
+            {
+                "@type": "Organization",
+                "name": "Boliden Mining AB",
+                "jobTitle": "Research Engineer",
+                "startDate": "1939",
+                "endDate": "1940",
+                "department": "Central Lab"
+            },
+            {
+                "@type": "Organization",
+                "name": "Mazetti Malmö",
+                "jobTitle": "Chief Chemist",
+                "startDate": "1940"
+            }
+        ],
+        "memberships": [
+            {
+                "@type": "Organization",
+                "name": "Skåne Engineering Club",
+                "roleName": "Secretary",
+                "startDate": "1943"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Technical Association",
+                "startDate": "unknown"
+            },
+            {
+                "@type": "Organization",
+                "name": "Skåne Engineering Club"
+            }
+        ],
+        "publications": [
+            {
+                "@type": "PublicationEvent",
+                "name": "Contributions to the Knowledge of Leberrethmics"
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "TravelEvent",
+                "name": "Denmark",
+                "startDate": "1930"
+            },
+            {
+                "@type": "TravelEvent",
+                "name": "Denmark",
+                "startDate": "1936"
+            },
+            {
+                "@type": "TravelEvent",
+                "name": "Denmark",
+                "startDate": "1938"
+            },
+            {
+                "@type": "TravelEvent",
+                "name": "Denmark",
+                "startDate": "1940"
+            },
+            {
+                "@type": "TravelEvent",
+                "name": "Germany",
+                "startDate": "1936"
+            },
+            {
+                "@type": "TravelEvent",
+                "name": "Germany",
+                "startDate": "1940"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Research engineer",
+                "workplace": "AB Astra's neurochemical laboratory",
+                "industry": "Pharmaceutical",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Chief of AB Astra's analytical lab",
+                "workplace": "AB Astra",
+                "industry": "Pharmaceutical",
+                "start_date": "1937"
+            },
+            {
+                "occupational_title": "Research engineer",
+                "workplace": "Boliden Mining AB's central lab",
+                "industry": "Mining",
+                "start_date": "1939"
+            },
+            {
+                "occupational_title": "Chief chemist",
+                "workplace": "Mazetti Malmö",
+                "industry": "Food",
+                "start_date": "1940"
+            }
+        ]
+    }
+}

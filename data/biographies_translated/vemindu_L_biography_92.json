@@ -1,0 +1,182 @@
+{
+    "original": "LARSSON, Carl Gustaf Valdemar, Disponent, Katrineholm, f 9/12 80 av godsäg GOL o Hanna Svensson, gm Ester Gunnarsson. Norrkp hal, Hermods. Vkst dir Båtbygg.-AB, Södköp, 07—28, Södkps hotellAB 11—28, Södkps brunns- &amp; badAB 26—28, truckch h Philipsons bilbol Sthlm 28—29, insp Motor-ami Sthlm 29—30, disp Sv karosseriverkst AB Katrineli sed. 30. Stdflm Södkp 08—28, brand-ch 11—28. Styr.led belysn.AB Tomten i Nrkp 09—39 (ordf 20—39). Resor: Tyskl 35, Norge, Danm uppr ggr. KAK, KMK, skytM g. Hobby: Filateli.",
+    "translated": "LARSSON, Carl Gustaf Valdemar, Supervisor, Katrineholm, b. 9/12 1880 to estate owner GOL and Hanna Svensson, m. Ester Gunnarsson. Educated at Norrköping's commercial school and Hermods. Director of Growth at Båtbygg.-AB, Södköping, 1907-1928. Served at Södköping's Hotel AB from 1911-1928, Södköping's well and bathhouse AB from 1926-1928, truck driver at Philipsons car dealership in Stockholm from 1928-1929, inspector at Motor-ami in Stockholm from 1929-1930, supervisor at Swedish bodywork factory AB Katrineli since 1930. Deputy fire chief in Södköping from 1908-1928, fire chief from 1911-1928. Board member and chairman of the lighting company AB Tomten in Norrköping from 1909-1939. Traveled to Germany in 1935, as well as Norway and Denmark multiple times. Member of the Swedish Chamber of Commerce (KAK), Royal Motor Society (KMK), and shooting club. Hobby: Philately.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Gustaf Valdemar Larsson",
+        "givenName": "Carl Gustaf Valdemar",
+        "familyName": "Larsson",
+        "birthDate": "1880-12-09",
+        "birthPlace": "Katrineholm, Sweden",
+        "father": {
+            "@type": "Person",
+            "name": "GOL"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Hanna Svensson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Ester Gunnarsson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Norrköping's Commercial School"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Hermods"
+            }
+        ],
+        "occupation": [
+            {
+                "@type": "Person",
+                "name": "Supervisor"
+            },
+            {
+                "@type": "Person",
+                "name": "Director of Growth",
+                "worksFor": {
+                    "@type": "Organization",
+                    "name": "Båtbygg.-AB"
+                },
+                "startDate": "1907",
+                "endDate": "1928"
+            },
+            {
+                "@type": "Person",
+                "name": "Served at Södköping's Hotel AB",
+                "startDate": "1911",
+                "endDate": "1928"
+            },
+            {
+                "@type": "Person",
+                "name": "Served at Södköping's Well and Bathhouse AB",
+                "startDate": "1926",
+                "endDate": "1928"
+            },
+            {
+                "@type": "Person",
+                "name": "Truck driver at Philipsons Car Dealership",
+                "location": "Stockholm",
+                "startDate": "1928",
+                "endDate": "1929"
+            },
+            {
+                "@type": "Person",
+                "name": "Inspector at Motor-ami",
+                "location": "Stockholm",
+                "startDate": "1929",
+                "endDate": "1930"
+            },
+            {
+                "@type": "Person",
+                "name": "Supervisor at Swedish Bodywork Factory AB Katrineli",
+                "startDate": "1930"
+            }
+        ],
+        "fireDepartmentMembership": [
+            {
+                "@type": "Person",
+                "name": "Södköping's Fire Department",
+                "position": "Deputy Fire Chief",
+                "startDate": "1908",
+                "endDate": "1928"
+            },
+            {
+                "@type": "Person",
+                "name": "Södköping's Fire Department",
+                "position": "Fire Chief",
+                "startDate": "1911",
+                "endDate": "1928"
+            }
+        ],
+        "boardMember": [
+            {
+                "@type": "Organization",
+                "name": "AB Tomten",
+                "location": "Norrköping",
+                "startDate": "1909",
+                "endDate": "1939",
+                "position": "Chairman"
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "Country",
+                "name": "Germany"
+            },
+            {
+                "@type": "Country",
+                "name": "Norway"
+            },
+            {
+                "@type": "Country",
+                "name": "Denmark"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Chamber of Commerce (KAK)"
+            },
+            {
+                "@type": "Organization",
+                "name": "Royal Motor Society (KMK)"
+            },
+            {
+                "@type": "Organization",
+                "name": "Shooting Club"
+            }
+        ],
+        "hobbies": [
+            {
+                "@type": "Thing",
+                "name": "Philately"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Supervisor",
+                "workplace": "Båtbygg.-AB",
+                "industry": "Boat Building",
+                "start_date": "1907"
+            },
+            {
+                "occupational_title": "Supervisor",
+                "workplace": "Södköping's Hotel AB",
+                "industry": "Hospitality",
+                "start_date": "1911"
+            },
+            {
+                "occupational_title": "Supervisor",
+                "workplace": "Södköping's well and bathhouse AB",
+                "industry": "Wellness and Spa",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Truck Driver",
+                "workplace": "Philipsons car dealership",
+                "industry": "Automotive",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Inspector",
+                "workplace": "Motor-ami",
+                "industry": "Automotive",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Supervisor",
+                "workplace": "Swedish bodywork factory AB Katrineli",
+                "industry": "Automotive",
+                "start_date": "1930"
+            }
+        ]
+    }
+}

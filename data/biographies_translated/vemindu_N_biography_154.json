@@ -1,0 +1,92 @@
+{
+    "original": "NORDIN, Erik Wollmar, Köpman, Själevad, f Norrbyskär, Vbott l, 27/10 01, gm Magda Hultman. Ex Sundsvalls hdlsinst 20. Anst s bokf o kass h Bröd Edlund, Örnsköldsvik, 20—23. Gr eg rör i Nässjö 23, flyttade dna t Själevad und fma E W Nordin, frö o utsäde, 24, inneh denna.",
+    "translated": "NORDIN, Erik Wollmar, Merchant, Själevad, born in Norrbyskär, Västerbotten County, on October 27, 1901, married Magda Hultman. Formerly employed in Sundsvall's trade institution for 20 years. Employed as a bookkeeper and cashier at Bröd Edlund in Örnsköldsvik from 1920 to 1923. Established own business in Nässjö in 1923, then moved to Själevad in marriage with E.W. Nordin, seeds and seedling, in 1924, currently the owner of this business.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Erik Wollmar NORDIN",
+        "birthDate": "1901-10-27",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Norrbyskär"
+        },
+        "nationality": "Swedish",
+        "jobTitle": "Merchant",
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Bröd Edlund"
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "E.W. Nordin, seeds and seedling"
+        },
+        "hasOccupation": [
+            {
+                "@type": "Occupation",
+                "name": "Bookkeeper"
+            },
+            {
+                "@type": "Occupation",
+                "name": "Cashier"
+            }
+        ],
+        "hasEmployment": [
+            {
+                "@type": "Employment",
+                "startDate": "1920",
+                "endDate": "1923",
+                "worksFor": {
+                    "@type": "Organization",
+                    "name": "Bröd Edlund, Örnsköldsvik"
+                }
+            },
+            {
+                "@type": "Employment",
+                "startDate": "1923",
+                "endDate": "1924",
+                "worksFor": {
+                    "@type": "Organization",
+                    "name": "Nässjö"
+                }
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Magda Hultman"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Själevad",
+                "industry": "",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Employee at Sundsvall's trade institution",
+                "workplace": "Sundsvall",
+                "industry": "",
+                "start_date": "1900"
+            },
+            {
+                "occupational_title": "Bookkeeper and cashier",
+                "workplace": "Bröd Edlund, Örnsköldsvik",
+                "industry": "",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Own business owner",
+                "workplace": "Nässjö",
+                "industry": "",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Owner of seeds and seedling business",
+                "workplace": "Själevad",
+                "industry": "",
+                "start_date": "1924"
+            }
+        ]
+    }
+}

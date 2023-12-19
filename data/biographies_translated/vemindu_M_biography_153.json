@@ -1,0 +1,194 @@
+{
+    "original": "MÅNSSON, Erik Martin, Grosshandlare, Stockholm, f Ledberg, Ögl, 8/1 80 av lantbr A M o Carolina Andersdtr Persson. Ex Gbgs hdlsinst :s fackk 03, stud Tyskl, Frankr o Engl 03—06. Aff.verksamh i Jap 07—10, i Ryssl 11—18, inneh grhdlsfma i Sthlm f exp av järn o stål sed. 14 o m avd.kont i Jap sed. 20, imp fr Ostasien, Sydamer o europ länd. Transmarina Frbs repr o styr.led i Exp.-frn 24, styr.led Sv-Jap Sällsk 24, Jvksfrn 27, AB Pripp &amp; Lyckholm fr 27, kassaförv Sv Slöjdfrn 32—35. Resor: Utom ovanst av Nord-o Syd.Amer, Mexico, Kina, Ind o Egypten. KVO2kl, RNO, OffFrHL, JHSOSkl.",
+    "translated": "MÅNSSON, Erik Martin, Wholesale Merchant, Stockholm, b. Ledberg, Ögl, 8th of January 1880, son of farmer A.M. and Carolina A. Persson. Former Commercial Student in Gothenburg Trade School, specialized in 1903, studied in Germany, France, and England from 1903 to 1906. Engaged in business activities in Japan from 1907 to 1910 and in Russia from 1911 to 1918. Owned trading firms in Stockholm for the export of iron and steel since 1914 and departmental offices in Japan since 1920. Importing from East Asia, South America, and European countries. Representative and board member of Transmarina Trading Company since 1924, board member of the Sweden-Japan Society since 1924, Swedish Consul in Japan from 1927, board member of AB Pripp & Lyckholm since 1927, treasurer for the Swedish Handicraft Association from 1932 to 1935. Traveled extensively in North and South America, Mexico, China, India, and Egypt. Recipient of the Royal Order of Vasa, Class II, Royal Norwegian Order, Officer of the French Legion of Honour, and Officer of the Japanese Order of the Sacred Treasure. Note: The '\\d\\d m. partners name' indicates the year of marriage in the 19th century.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Erik Martin Månsson",
+        "birthDate": "1880-01-08",
+        "birthPlace": "Ledberg, Ögl",
+        "nationality": "Swedish",
+        "spouse": {
+            "@type": "Person",
+            "name": "Carolina Andersdtr Persson"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Commercial Student",
+            "provider": "Gothenburg Trade School",
+            "specialization": "Specialized in 1903",
+            "studyAbroad": [
+                {
+                    "country": "Germany",
+                    "yearStart": "1903",
+                    "yearEnd": "1906"
+                },
+                {
+                    "country": "France",
+                    "yearStart": "1903",
+                    "yearEnd": "1906"
+                },
+                {
+                    "country": "England",
+                    "yearStart": "1903",
+                    "yearEnd": "1906"
+                }
+            ]
+        },
+        "occupation": {
+            "@type": "WholesaleMerchant",
+            "name": "Grosshandlare"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "businessAffiliations": [
+            {
+                "@type": "Organization",
+                "name": "Gothenburg Trade School",
+                "department": "Commercial Students Association",
+                "startYear": "1903",
+                "endYear": "1906"
+            },
+            {
+                "@type": "Organization",
+                "name": "Transmarina Trading Company",
+                "position": "Representative and Board Member",
+                "startYear": "1924"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sweden-Japan Society",
+                "position": "Board Member",
+                "startYear": "1924"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Pripp & Lyckholm",
+                "position": "Board Member",
+                "startYear": "1927"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Handicraft Association",
+                "position": "Treasurer",
+                "startYear": "1932",
+                "endYear": "1935"
+            }
+        ],
+        "businessActivities": [
+            {
+                "@type": "Business",
+                "name": "Trading firms in Stockholm",
+                "product": "Export of iron and steel",
+                "startYear": "1914"
+            },
+            {
+                "@type": "Business",
+                "name": "Departmental offices in Japan",
+                "product": "Various",
+                "startYear": "1920"
+            }
+        ],
+        "importsFrom": [
+            "East Asia",
+            "South America",
+            "European countries"
+        ],
+        "consulIn": [
+            {
+                "@type": "Country",
+                "name": "Japan",
+                "startYear": "1927"
+            }
+        ],
+        "travels": [
+            "North America",
+            "South America",
+            "Mexico",
+            "China",
+            "India",
+            "Egypt"
+        ],
+        "awards": [
+            {
+                "@type": "Order",
+                "name": "Royal Order of Vasa",
+                "class": "Class II"
+            },
+            {
+                "@type": "Order",
+                "name": "Royal Norwegian Order"
+            },
+            {
+                "@type": "Order",
+                "name": "French Legion of Honour",
+                "rank": "Officer"
+            },
+            {
+                "@type": "Order",
+                "name": "Japanese Order of the Sacred Treasure",
+                "rank": "Officer"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Commercial Student",
+                "workplace": "Gothenburg Trade School",
+                "industry": "Education",
+                "start_date": "1903"
+            },
+            {
+                "occupational_title": "Wholesale Merchant",
+                "workplace": "Stockholm",
+                "industry": "Trade",
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Departmental Offices Manager",
+                "workplace": "Japan",
+                "industry": "Trade",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Importer",
+                "workplace": "Various locations (East Asia, South America, and European countries)",
+                "industry": "Trade",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Representative and Board Member",
+                "workplace": "Transmarina Trading Company",
+                "industry": "Trade",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Sweden-Japan Society",
+                "industry": "Trade",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Swedish Consul",
+                "workplace": "Japan",
+                "industry": "Government",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "AB Pripp & Lyckholm",
+                "industry": "Trade",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Treasurer",
+                "workplace": "Swedish Handicraft Association",
+                "industry": "Non-profit",
+                "start_date": "1932"
+            }
+        ]
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "original": "LUNDBORG, Einar, Civilingenjör, Enskede, f Sundby, Sörml, 27/12 95 av folkskollär A G L o Bertha Hallgren. Studex Sthlm 15, KTH (skeppsbyggn) 16—20. Provn.ing v AB Atlas-Diesel Sthlm, konstr v Sv AB Nobel-Diesel i Nynäshamn t 26, v Burgerhout^ Machine-fabriek en Scheepswerf i Rotterdam 26—32, v AB Atlas-Diesel Sthlm sed. 32.",
+    "translated": "LUNDBORG, Einar, Civil Engineer, Enskede, born in Sundby, Sörmland, on December 27th, 1895 to primary school teacher A.G.L and Bertha Hallgren. Graduated from Stockholm in 1915, KTH (Naval Architecture) 1916-1920. Examined engineer at AB Atlas-Diesel in Stockholm, designer at Sv AB Nobel-Diesel in Nynäshamn until 1926, worked at Burgerhout Machine-fabriek en Scheepswerf in Rotterdam from 1926-1932, and has been employed at AB Atlas-Diesel in Stockholm since 1932.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "LUNDBORG, Einar",
+        "jobTitle": "Civil Engineer",
+        "birthPlace": "Sundby, Sörmland",
+        "birthDate": "1895-12-27",
+        "parents": {
+            "@type": "Person",
+            "mother": "Bertha Hallgren",
+            "father": "A G L"
+        },
+        "alumniOf": {
+            "@type": "EducationalOrganization",
+            "name": "KTH",
+            "location": "Stockholm",
+            "startDate": "1916",
+            "endDate": "1920"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "AB Atlas-Diesel",
+                "location": "Stockholm",
+                "startDate": "1932"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sv AB Nobel-Diesel",
+                "location": "Nynäshamn",
+                "startDate": "1920",
+                "endDate": "1926"
+            },
+            {
+                "@type": "Organization",
+                "name": "Burgerhout Machine-fabriek en Scheepswerf",
+                "location": "Rotterdam",
+                "startDate": "1926",
+                "endDate": "1932"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "AB Atlas-Diesel",
+                "industry": "Engineering",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Designer",
+                "workplace": "Sv AB Nobel-Diesel",
+                "industry": "Engineering",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Designer",
+                "workplace": "Burgerhout Machine-fabriek en Scheepswerf",
+                "industry": "Engineering",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Designer",
+                "workplace": "AB Atlas-Diesel",
+                "industry": "Engineering",
+                "start_date": "1932"
+            }
+        ]
+    }
+}

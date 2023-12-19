@@ -1,0 +1,64 @@
+{
+    "original": "LJUNGKVIST, Knut Emil, Järnhandlare, Skövde, f Jönkp 4/9 82 av maskinist Gustaf L o Ida Johansson, gm Anna Olsson. Inneh tills m Otto L fma Bröderna Ljungqvist i Skövde. Stdsflm 21, styr.led i Skövde lokalavd av Fp. Se även LJUNGQVIST.",
+    "translated": "LJUNGKVIST, Knut Emil, Ironmonger, Skövde, b Jönkp 4/9 82 of machinist Gustaf L and Ida Johansson, m Anna Olsson. Managed together with Otto L the company Bröderna Ljungqvist in Skövde. Member of the board 21, board member of the local branch of Fp in Skövde. See also LJUNGQVIST.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Knut Emil Ljungkvist",
+        "description": "Ironmonger",
+        "birthDate": "1882-09-04",
+        "birthPlace": "Jönkp",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Gustaf Ljungkvist",
+                "description": "Machinist"
+            },
+            {
+                "@type": "Person",
+                "name": "Ida Johansson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Anna Olsson"
+        },
+        "children": [
+            {
+                "@type": "Person",
+                "name": "Otto Ljungkvist"
+            }
+        ],
+        "occupation": "Ironmonger",
+        "affiliation": [
+            "Bröderna Ljungqvist"
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Skövde"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Fp",
+                "memberOf": {
+                    "@type": "LOCAL",
+                    "name": "Skövde"
+                }
+            }
+        ],
+        "seeAlso": [
+            "LJUNGQVIST"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Ironmonger",
+                "workplace": "Bröderna Ljungqvist",
+                "industry": "Retail",
+                "start_date": "unknown"
+            }
+        ]
+    }
+}

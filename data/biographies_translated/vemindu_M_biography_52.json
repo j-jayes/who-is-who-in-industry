@@ -1,0 +1,125 @@
+{
+    "original": "MALMSTRÖM, Georg Harald, Ingenjör, Höglandstorget, f Malmö 10/4 12 av sjökapt K G M o Sigrid Wiens, gm Harriet Schenström. Aeron stud Engl 31—35, Dipl of Ass Membership of The Technol Inst of Great Britain. Bitr kontrolling Flygförvaltn 36—41, tekn led AB Björkvallsflyg o Skand Aero AB sed. 41, deläg o styr.led dsa. Resor: Engl, Tyskl, Frankr mfl. Frimurare. Hobbies: Mitt arbete, jakt, segling.",
+    "translated": "MALMSTRÖM, Georg Harald, Engineer, Höglandstorget, born in Malmö on April 10th, 1912, son of sea captain K G M and Sigrid Wiens, married to Harriet Schenström. Studied aeronautics in England from 1931 to 1935, obtained a Diploma of Associate Membership from The Technological Institute of Great Britain. Assistant controller at the Fly Administration from 1936 to 1941, technical leader at AB Björkvallsflyg and Skand Aero AB since 1941, co-owner and board member of the latter. Traveled to England, Germany, France, and others. Freemason. Hobbies include my work, hunting, and sailing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Georg Harald Malmström",
+        "jobTitle": "Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Höglandstorget"
+        },
+        "birthDate": "1912-04-10",
+        "birthPlace": "Malmö",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "K G M Malmström",
+                "jobTitle": "Sea Captain"
+            },
+            {
+                "@type": "Person",
+                "name": "Sigrid Wiens"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Harriet Schenström"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Diploma of Associate Membership",
+                "educationLevel": "Bachelor's degree",
+                "alumniOf": [
+                    {
+                        "@type": "EducationalOrganization",
+                        "name": "The Technological Institute of Great Britain"
+                    }
+                ],
+                "startDate": "1931",
+                "endDate": "1935"
+            }
+        ],
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1936",
+                "endDate": "1941",
+                "roleName": "Assistant Controller",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Fly Administration"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1941",
+                "roleName": "Technical Leader",
+                "organization": [
+                    {
+                        "@type": "Organization",
+                        "name": "AB Björkvallsflyg"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "Skand Aero AB"
+                    }
+                ]
+            }
+        ],
+        "owns": [
+            {
+                "@type": "Organization",
+                "name": "Skand Aero AB"
+            }
+        ],
+        "nationality": "Swedish",
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Frimurare"
+        },
+        "hobbies": [
+            "Work",
+            "Hunting",
+            "Sailing"
+        ],
+        "hasOccupation": [
+            "Engineer"
+        ],
+        "knowsLanguage": [
+            "English",
+            "German",
+            "French"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Höglandstorget",
+                "industry": "Unknown",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Assistant Controller",
+                "workplace": "Fly Administration",
+                "industry": "Aviation",
+                "start_date": "1936"
+            },
+            {
+                "occupational_title": "Technical Leader",
+                "workplace": "AB Björkvallsflyg",
+                "industry": "Aviation",
+                "start_date": "1941"
+            },
+            {
+                "occupational_title": "Technical Leader",
+                "workplace": "Skand Aero AB",
+                "industry": "Aviation",
+                "start_date": "1941"
+            }
+        ]
+    }
+}

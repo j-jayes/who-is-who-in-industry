@@ -1,0 +1,110 @@
+{
+    "original": "MÖLLER, Göran August, Disponent, Lid- köping, f Sthlm 18/1 91 av mask. upp sätt CAM o Josefina Jonsson, gm Astrid Wedberg. Realex, hdlsinst. Anst Örebro stads byggn.kont 08—16, Sandvikens jvk 16—22, Lidkp s Vikingsågar 22—36, Aluminiser.vkn sed. 37. Styr.led i sistnmda AB. Resor: Flert europ länd 22—38. Hobby: Fiske.",
+    "translated": "MÖLLER, Göran August, Manager, Lidköping, born in Stockholm on January 18, 1891, to mechanical engineer CAM and Josefina Jonsson. Married Astrid Wedberg. Completed Realskola (secondary school) and commercial apprenticeship. Employed at Örebro City Building Department from 1908 to 1916, Sandvikens Ironworks from 1916 to 1922, Lidköping's Vikingsågar from 1922 to 1936, and Aluminum Works since 1937. Director of the latter-mentioned company. Traveled extensively in several European countries from 1922 to 1938. Hobby: Fishing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Göran August Möller",
+        "birthDate": "1891-01-18",
+        "birthPlace": "Stockholm",
+        "deathDate": null,
+        "gender": "Male",
+        "description": "Manager from Lidköping",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "CAM",
+                "jobTitle": "Mechanical Engineer"
+            },
+            {
+                "@type": "Person",
+                "name": "Josefina Jonsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Astrid Wedberg"
+        },
+        "education": {
+            "@type": "EducationEvent",
+            "description": "Realskola (secondary school) and commercial apprenticeship"
+        },
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "Örebro City Building Department",
+                "startDate": "1908-01-01",
+                "endDate": "1916-01-01",
+                "jobTitle": "Employee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sandvikens Ironworks",
+                "startDate": "1916-01-01",
+                "endDate": "1922-01-01",
+                "jobTitle": "Employee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Lidköping's Vikingsågar",
+                "startDate": "1922-01-01",
+                "endDate": "1936-01-01",
+                "jobTitle": "Manager"
+            },
+            {
+                "@type": "Organization",
+                "name": "Aluminum Works",
+                "startDate": "1937-01-01",
+                "endDate": null,
+                "jobTitle": "Manager"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Aluminum Works",
+            "jobTitle": "Director"
+        },
+        "hobbies": "Fishing",
+        "knowsAbout": "Swedish family history"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Manager",
+                "workplace": "Lidköping",
+                "industry": "",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Employed at Örebro City Building Department",
+                "workplace": "Örebro",
+                "industry": "Public Administration",
+                "start_date": "1908"
+            },
+            {
+                "occupational_title": "Employed at Sandvikens Ironworks",
+                "workplace": "Sandviken",
+                "industry": "Iron and Steel",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Employed at Lidköping's Vikingsågar",
+                "workplace": "Lidköping",
+                "industry": "",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Employed at Aluminum Works",
+                "workplace": "",
+                "industry": "",
+                "start_date": "1937"
+            },
+            {
+                "occupational_title": "Director of Aluminum Works",
+                "workplace": "",
+                "industry": "",
+                "start_date": ""
+            }
+        ]
+    }
+}

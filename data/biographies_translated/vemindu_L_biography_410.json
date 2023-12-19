@@ -1,0 +1,152 @@
+{
+    "original": "LTJNDELI/, Erik Adolf, Direktör, Stockholm, f 10/7 92 av köpm E F L o Lovisa Stenberg, gm Irma Enström. Studex 10, Schartaus 11, Zeipels bkkurs 11, StHS 13, Skerry’s Coll Liverpool 14. Dir f Exp.frns kreditupp-lysn.byrå Sthlm sed. 15. Ag fastigh kv Axet 1 o 2 av Bo gård, Saltsjö-Bo. Resor: Engl14, Tyskl 20, 21, Danm 22, Finl 23, 39, Norge 28, 41, Estl 39. Av trycket: Frn 1892 års mäns porträttmatrikel. Hobbies: Resor, sport.",
+    "translated": "Erik Adolf LTJNDELI/, Director, Stockholm, born on July 10, 1892, son of merchant E.F.L and Lovisa Stenberg. Married to Irma Enström. Completed studies at Studex in 1910, Schartaus in 1911, Zeipels business course in 1911, StHS in 1913, and Skerry's College in Liverpool in 1914. Director at Exp.frns credit reference agency in Stockholm since 1915. Owns properties on Axet 1 and 2 in Bo farm, Saltsjö-Bo. Traveled to England in 1914, Germany in 1920 and 1921, Denmark in 1922, Finland in 1923 and 1939, Norway in 1928 and 1941, and Estonia in 1939. Mentioned in the 1892 men's portrait directory. Hobbies: Traveling, sports.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Erik Adolf LTJNDELI",
+        "jobTitle": "Director",
+        "birthDate": "1892-07-10",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "E.F.L"
+            },
+            {
+                "@type": "Person",
+                "name": "Lovisa Stenberg"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Irma Enström"
+        },
+        "alumniOf": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Studex",
+                "startDate": "1910"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Schartaus",
+                "startDate": "1911"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Zeipels business course",
+                "startDate": "1911"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "StHS",
+                "startDate": "1913"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Skerry's College",
+                "location": "Liverpool",
+                "startDate": "1914"
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Exp.frns credit reference agency",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Stockholm"
+            },
+            "startDate": "1915"
+        },
+        "owns": [
+            {
+                "@type": "Place",
+                "name": "Axet 1",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Saltsjö-Bo"
+                }
+            },
+            {
+                "@type": "Place",
+                "name": "Axet 2",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Saltsjö-Bo"
+                }
+            }
+        ],
+        "hasOccupation": "Director",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Bo farm"
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "Place",
+                "name": "England",
+                "startDate": "1914"
+            },
+            {
+                "@type": "Place",
+                "name": "Germany",
+                "startDate": "1920"
+            },
+            {
+                "@type": "Place",
+                "name": "Germany",
+                "startDate": "1921"
+            },
+            {
+                "@type": "Place",
+                "name": "Denmark",
+                "startDate": "1922"
+            },
+            {
+                "@type": "Place",
+                "name": "Finland",
+                "startDate": "1923"
+            },
+            {
+                "@type": "Place",
+                "name": "Finland",
+                "startDate": "1939"
+            },
+            {
+                "@type": "Place",
+                "name": "Norway",
+                "startDate": "1928"
+            },
+            {
+                "@type": "Place",
+                "name": "Norway",
+                "startDate": "1941"
+            },
+            {
+                "@type": "Place",
+                "name": "Estonia",
+                "startDate": "1939"
+            }
+        ],
+        "mentionedIn": {
+            "@type": "Book",
+            "name": "1892 men's portrait directory"
+        },
+        "hobbies": [
+            "Traveling",
+            "Sports"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Exp.frns credit reference agency",
+                "industry": "Financial Services",
+                "start_date": "1915"
+            }
+        ]
+    }
+}

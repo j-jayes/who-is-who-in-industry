@@ -1,0 +1,156 @@
+{
+    "original": "LUNDGREN, Johan Richard, Boktryckare, Luleå, f Byske 7/2 00 av L Lundgren o h h Lovisa. Folksk, yrkesutb, stud ss kommerskoll stip i Sv, Norge o Danm. Anst Skellefteå Nya Tidn o tidn Norra Västerbotten t 19, Väs-terbottens-Kuriren 19—24, Norrbottens-Tidn 25—31. Eg fma, Länstryckeriet, Luleå, sed. 32, styr.led där. Styr.led Lul yrkessk, ordf bestyr f hantv.utst Lul 46. Styr.led fi frn, ordf Norrb idr.frb:s orient.sekt. Av trycket: Spridda upps av öl karakt i årsbock etc. Tempelriddare. Hobbies: Friluftsliv, orientering.",
+    "translated": "LUNDGREN, Johan Richard, Printer, Luleå, born in Byske on February 7th, 1900, to parents L. Lundgren and Lovisa. Attended primary school and received vocational education. Studied at commercial school and received scholarships in Sweden, Norway, and Denmark. Employed at Skellefteå Nya Tidning and Norra Västerbottens Tidning until 1919, then at Västerbottens-Kuriren from 1919 to 1924 and Norrbottens-Tidningen from 1925 to 1931. Became self-employed at Länstryckeriet in Luleå since 1932 and served as a board member there. Also a board member of Luleå vocational school and chairman of the board for the Luleå craft exhibition in 1946. Board member of the orienteering section of the Norrbotten sports association and chairman of the board of the Northern Sweden orienteering club. Published various articles in yearbooks with a focus on beer brewing. Member of the order of the Knights Templar. Hobbies include outdoor activities and orienteering.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Johan Richard Lundgren",
+        "birthDate": "1900-02-07",
+        "birthPlace": "Byske, Sweden",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "L. Lundgren",
+                "familyName": "Lundgren"
+            },
+            {
+                "@type": "Person",
+                "name": "Lovisa"
+            }
+        ],
+        "description": "Printer, Luleå",
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "description": "Primary School"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "description": "Vocational Education"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "description": "Commercial School"
+            }
+        ],
+        "scholarship": [
+            {
+                "@type": "ScholarlyArticle",
+                "description": "Received scholarships in Sweden, Norway, and Denmark"
+            }
+        ],
+        "employment": [
+            {
+                "@type": "OrganizationRole",
+                "startDateTime": "1919",
+                "endDateTime": "1924",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Västerbottens-Kuriren"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDateTime": "1925",
+                "endDateTime": "1931",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Norrbottens-Tidningen"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDateTime": "1932",
+                "roleName": "Self-employed",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Länstryckeriet"
+                }
+            }
+        ],
+        "boardMember": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Board Member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Länstryckeriet"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Board Member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Luleå Vocational School"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Chairman of the board",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Luleå Craft Exhibition"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Board Member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Northern Sweden Orienteering Club"
+                }
+            }
+        ],
+        "achievement": [
+            {
+                "@type": "ScholarlyArticle",
+                "description": "Published various articles in yearbooks with a focus on beer brewing"
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "description": "Member of the order of the Knights Templar"
+            }
+        ],
+        "hobby": [
+            "Outdoor activities",
+            "Orienteering"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Printer",
+                "workplace": "Skellefteå Nya Tidning",
+                "industry": "Media",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Printer",
+                "workplace": "Norra Västerbottens Tidning",
+                "industry": "Media",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Printer",
+                "workplace": "Västerbottens-Kuriren",
+                "industry": "Media",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Printer",
+                "workplace": "Norrbottens-Tidningen",
+                "industry": "Media",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Printer",
+                "workplace": "Länstryckeriet",
+                "industry": "Media",
+                "start_date": "1932"
+            }
+        ]
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "original": "LÖFGREN, Birger Zaméo, Civilingenjör, Finspång, f Sundsvall 17/8 11 av kamrer B W L o Signe von Hall. Studex Sundsvall 29, KTH (maskinbyggn o mek tekn) 29—33, DHS 35. Anst v Finspongs Metallverks AB 35, nu Sv Metallverken, Finspångsverken. Led Sv Tekn.frn o Sv Ekonomfrn. Resor: USA, Engl, Frankr o Tyskl 37—38.",
+    "translated": "LÖFGREN, Birger Zaméo, Civil Engineer, Finspång, born in Sundsvall on August 17, 1911, son of accountant B.W. Löfgren and Signe von Hall. Graduated from Sundsvalls gymnasium (high school) in 1929, and then attended KTH (Royal Institute of Technology) in Stockholm, specializing in mechanical engineering. Graduated in 1933 and obtained a diploma in higher studies (DHS) in 1935. Employed by Finspongs Metallverks AB from 1935, now known as Sv Metallverken, Finspångsverken. Member of the Swedish Association of Technical Professionals (Sv Tekn.frn) and the Swedish Association of Economists (Sv Ekonomfrn). Traveled to the United States, England, France, and Germany in 1937-1938.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Birger Zaméo LÖFGREN",
+        "jobTitle": "Civil Engineer",
+        "birthDate": "1911-08-17",
+        "birthPlace": "Sundsvall, Sweden",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "B.W. Löfgren",
+                "jobTitle": "Accountant"
+            },
+            {
+                "@type": "Person",
+                "name": "Signe von Hall"
+            }
+        ],
+        "education": [
+            {
+                "@type": "HighSchool",
+                "name": "Sundsvalls gymnasium",
+                "endDate": "1929"
+            },
+            {
+                "@type": "CollegeOrUniversity",
+                "name": "KTH (Royal Institute of Technology)",
+                "startDate": "1929",
+                "endDate": "1933"
+            },
+            {
+                "@type": "CollegeOrUniversity",
+                "name": "DHS",
+                "startDate": "1935"
+            }
+        ],
+        "work": {
+            "@type": "Organization",
+            "name": "Sv Metallverken",
+            "department": "Finspångsverken",
+            "startDate": "1935"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Association of Technical Professionals"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Association of Economists"
+            }
+        ],
+        "hasVisited": [
+            "USA",
+            "England",
+            "France",
+            "Germany"
+        ],
+        "visitStartDate": "1937",
+        "visitEndDate": "1938"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Finspongs Metallverks AB (now Sv Metallverken, Finspångsverken)",
+                "industry": "Metallurgical industry",
+                "start_date": "1935"
+            }
+        ]
+    }
+}

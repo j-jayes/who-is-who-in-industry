@@ -1,0 +1,167 @@
+{
+    "original": "LUNDSTRÖM, Carl Atle, Disponent, Ludvika, f Upps 19/8 88 av prof A L o Emy von Rehausen, gm Augusta Roth. Studex 07, civ.-ing 11. Driftsing Ickorrbottens gruvAB 14— 17, disp Kaveltorps gruvförvaltn 17—23, vkst dir Nyhammars br 23—30, AB Ludv skogar 25—30, Ludv ångsåg 25—30, Ludv kraftvk sed. 27, Sv fastigh.AB sed. 32. Styr.led i sistnmda 2 AB, AB Nyham br mfl.",
+    "translated": "LUNDSTRÖM, Carl Atle, Managing Director, Ludvika, born in Uppsala on August 19, 1888, son of Professor A L and Emy von Rehausen, married to Augusta Roth. Graduated in 1907, civil engineer in 1911. Operating engineer at Ickorrbottens Mining Company from 1914 to 1917, manager at Kaveltorp Mining Administration from 1917 to 1923, deputy director at Nyhammars Brewery from 1923 to 1930, Ludvika Forest Company from 1925 to 1930, Ludvika Steam Sawmill from 1925 to 1930, Ludvika Power Plant since 1927, Swedish Real Estate Company since 1932. Board member in the last two mentioned companies, Nyhammars Brewery and others.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Atle Lundström",
+        "jobTitle": "Managing Director",
+        "birthDate": "1888-08-19",
+        "birthPlace": "Uppsala",
+        "nationality": "Swedish",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Professor A L Lundström"
+            },
+            {
+                "@type": "Person",
+                "name": "Emy von Rehausen"
+            }
+        ],
+        "spouse": "Augusta Roth",
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "graduation",
+                "educationalLevel": "HighSchool",
+                "startDate": "1907"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "degree",
+                "educationalLevel": "Bachelor",
+                "startDate": "1911"
+            }
+        ],
+        "occupation": [
+            {
+                "@type": "OrganizationalRole",
+                "namedPosition": "Operating Engineer",
+                "startDate": "1914",
+                "endDate": "1917",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Ickorrbottens Mining Company"
+                }
+            },
+            {
+                "@type": "OrganizationalRole",
+                "namedPosition": "Manager",
+                "startDate": "1917",
+                "endDate": "1923",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Kaveltorp Mining Administration"
+                }
+            },
+            {
+                "@type": "OrganizationalRole",
+                "namedPosition": "Deputy Director",
+                "startDate": "1923",
+                "endDate": "1930",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Nyhammars Brewery"
+                }
+            },
+            {
+                "@type": "OrganizationalRole",
+                "namedPosition": "Deputy Director",
+                "startDate": "1923",
+                "endDate": "1930",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Ludvika Forest Company"
+                }
+            },
+            {
+                "@type": "OrganizationalRole",
+                "namedPosition": "Deputy Director",
+                "startDate": "1923",
+                "endDate": "1930",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Ludvika Steam Sawmill"
+                }
+            },
+            {
+                "@type": "OrganizationalRole",
+                "namedPosition": "Managing Director",
+                "startDate": "1927",
+                "memberOf": [
+                    {
+                        "@type": "Organization",
+                        "name": "Ludvika Power Plant"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "Swedish Real Estate Company"
+                    }
+                ]
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Real Estate Company"
+            },
+            {
+                "@type": "Organization",
+                "name": "Nyhammars Brewery"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Operating Engineer",
+                "workplace": "Ickorrbottens Mining Company",
+                "industry": "Mining",
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Kaveltorp Mining Administration",
+                "industry": "Mining",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Deputy Director",
+                "workplace": "Nyhammars Brewery",
+                "industry": "Brewing",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Deputy Director",
+                "workplace": "Ludvika Forest Company",
+                "industry": "Forestry",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Deputy Director",
+                "workplace": "Ludvika Steam Sawmill",
+                "industry": "Sawmilling",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "Ludvika Power Plant",
+                "industry": "Power Generation",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Swedish Real Estate Company",
+                "industry": "Real Estate",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Nyhammars Brewery",
+                "industry": "Brewing",
+                "start_date": ""
+            }
+        ]
+    }
+}

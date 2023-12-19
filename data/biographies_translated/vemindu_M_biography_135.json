@@ -1,0 +1,80 @@
+{
+    "original": "MONTGOMERY, Herbert Vilhelm, Bergsingenjör, Högfors, f Köping 30/12 96 av brygg-mast B V M o Lina Michel. Studex Västerås 15, resoffex 17, ex BergsHS 22, Hytt- o gju-teriing samt pl.chef v Åminne Bruk 22—37, v Högfors &amp; Persbo AB i Högfors sed. 37. Hobbies: Friluftsliv, jakt o fiske.",
+    "translated": "MONTGOMERY, Herbert Vilhelm, Mining Engineer, Högfors, born in Köping on December 30th, 1896, son of brewer-mason B V M and Lina Michel. Studied at Västerås until 1915, commissioned officer by 1917, graduated from BergsHS in 1922, worked as a furnace and foundry engineer, and later as a plant manager at Åminne Bruk from 1922 to 1937. Joined Högfors & Persbo AB in Högfors in 1937. Hobbies: Outdoor activities, hunting, and fishing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Herbert Vilhelm Montgomery",
+        "jobTitle": "Mining Engineer",
+        "birthDate": "1896-12-30",
+        "birthPlace": "Köping",
+        "father": {
+            "@type": "Person",
+            "name": "B V M"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Lina Michel"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Västerås",
+                "endDate": "1915"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "BergsHS",
+                "endDate": "1922"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Åminne Bruk",
+                "startDate": "1922",
+                "endDate": "1937",
+                "jobTitle": "Furnace and Foundry Engineer, Plant Manager"
+            },
+            {
+                "@type": "Organization",
+                "name": "Högfors & Persbo AB",
+                "startDate": "1937",
+                "jobTitle": "Plant Manager"
+            }
+        ],
+        "hobbies": [
+            "Outdoor activities",
+            "Hunting",
+            "Fishing"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Mining Engineer",
+                "workplace": "Högfors",
+                "industry": "Mining",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Furnace and Foundry Engineer",
+                "workplace": "Åminne Bruk",
+                "industry": "Metallurgy",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Plant Manager",
+                "workplace": "Åminne Bruk",
+                "industry": "Metallurgy",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Plant Manager",
+                "workplace": "Högfors & Persbo AB",
+                "industry": "Metallurgy",
+                "start_date": "1937"
+            }
+        ]
+    }
+}

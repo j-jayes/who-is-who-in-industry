@@ -1,0 +1,94 @@
+{
+    "original": "MÅNSSON, Anders Sofus, Direktör, Malmö, f Malmö 24/9 13 av dir A E M o h h. Studex Malmö h a l 32. T j.man v Kemigrafiska AB 1 Malmö 32, styr.suppl 35, v. vkst dir 37, vkst dir där. Led Malmö Reklamfrn, Malmö Fotoklb. Hobby: Fotografering.",
+    "translated": "MÅNSSON, Anders Sofus, Director, Malmö, b Malmö 24/9 13, son of Director A E M and [unknown abbreviation] h h. Graduated from Malmö high school in 1932. Worked as an assistant at Kemigrafiska AB in Malmö from 1932, served as a board member from 1935, vice managing director in 1937, and managing director there. Member of Malmö Advertising Association, Malmö Photography Club. Hobby: Photography.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Anders",
+        "additionalName": "Sofus",
+        "familyName": "Månsson",
+        "jobTitle": "Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Malmö"
+        },
+        "birthDate": "1913-09-24",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "A E M"
+            },
+            {
+                "@type": "Person",
+                "name": "unknown abbreviation"
+            }
+        ],
+        "alumniOf": {
+            "@type": "EducationalOrganization",
+            "name": "Malmö high school"
+        },
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "Kemigrafiska AB",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Malmö"
+                },
+                "startDate": "1932",
+                "endDate": "1937",
+                "jobTitle": "Assistant"
+            },
+            {
+                "@type": "Organization",
+                "name": "Kemigrafiska AB",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Malmö"
+                },
+                "startDate": "1937",
+                "jobTitle": "Managing Director"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Malmö Advertising Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Malmö Photography Club"
+            }
+        ],
+        "sameAs": "https://example.com/anders-mansson",
+        "hobby": "Photography"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Assistant",
+                "workplace": "Kemigrafiska AB",
+                "industry": "Chemical Graphics",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Kemigrafiska AB",
+                "industry": "Chemical Graphics",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Vice Managing Director",
+                "workplace": "Kemigrafiska AB",
+                "industry": "Chemical Graphics",
+                "start_date": "1937"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "Kemigrafiska AB",
+                "industry": "Chemical Graphics",
+                "start_date": "N/A"
+            }
+        ]
+    }
+}

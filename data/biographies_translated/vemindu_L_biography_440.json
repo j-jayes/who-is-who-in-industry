@@ -1,0 +1,185 @@
+{
+    "original": "LUNDKVIST, Karl Axel, Civilingenjör, Stockholm, f Sthlm 24/2 00 av försäkr.dir Ax L o Judith Janze, gm Gertrud Nebermann. Studex Sthlm 18, civingex KTH (E) 23. Elev v ASEA 23—24, ing där 24—26, ing v Telefon-AB L M Ericsson Sthlm sed. 26. Resor: Tyskl 22, Estl 28, Norge 29, Finl 31, 34, 38, 39 o 41, Engl 35, Frankr 38, Ung 42. Av trycket, Calculation of the Grade of Service (Ericsson Techn 36), Best av sannolikheten f spärrning vid s k stelkoppl (Tekn Medd fr Kgl Telegrafstyr 42) samt upps i Ericsson Review. Medl av Sv Tekn.frn o Sv Ind:s Patenting :s Frn. Se även LUNDQUIST och LUNDQVIST.",
+    "translated": "LUNDKVIST, Karl Axel, Civil Engineer, Stockholm, born in Stockholm on February 24, 1900, the son of insurance director Ax L and Judith Janze, married to Gertrud Nebermann. Completed secondary studies in Stockholm in 1918, and obtained a civil engineering degree from the Royal Institute of Technology (E) in 1923. Worked as a trainee at ASEA from 1923 to 1924, and as an engineer there from 1924 to 1926. Employed at Telefon-AB L M Ericsson in Stockholm since 1926. Traveled to Germany in 1922, Estonia in 1928, Norway in 1929, Finland in 1931, 1934, 1938, 1939, and 1941, England in 1935, France in 1938, and Hungary in 1942. Published works include \"Calculation of the Grade of Service\" (Ericsson Technology, 1936), \"Best Probability of Blocking in Stiff Coupling\" (Technical Communications from the Royal Telegraph Board, 1942), and articles in the Ericsson Review. Member of the Swedish Institute of Technology and Swedish Industrial Patenting Society. Also see LUNDQUIST and LUNDQVIST.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Karl Axel Lundkvist",
+        "jobTitle": "Civil Engineer",
+        "birthDate": "1900-02-24",
+        "birthPlace": "Stockholm, Sweden",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Ax L Lundkvist"
+            },
+            {
+                "@type": "Person",
+                "name": "Judith Janze"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Gertrud Nebermann"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "educationalLevel": "Secondary",
+            "yearCompleted": "1918",
+            "institution": {
+                "@type": "EducationalOrganization",
+                "name": "Stockholm School"
+            }
+        },
+        "alumniOf": {
+            "@type": "CollegeOrUniversity",
+            "name": "Royal Institute of Technology",
+            "location": {
+                "@type": "PostalAddress",
+                "addressLocality": "Stockholm"
+            },
+            "educationalCredentialAwarded": {
+                "@type": "EducationalOccupationalCredential",
+                "educationalLevel": "Civil Engineering",
+                "yearCompleted": "1923"
+            }
+        },
+        "work": {
+            "@type": "EmploymentEvent",
+            "employer": {
+                "@type": "Organization",
+                "name": "Telefon-AB L M Ericsson",
+                "location": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm"
+                }
+            },
+            "startDate": "1926",
+            "endDate": "present"
+        },
+        "traveledTo": [
+            {
+                "@type": "Place",
+                "name": "Germany",
+                "startDate": "1922"
+            },
+            {
+                "@type": "Place",
+                "name": "Estonia",
+                "startDate": "1928"
+            },
+            {
+                "@type": "Place",
+                "name": "Norway",
+                "startDate": "1929"
+            },
+            {
+                "@type": "Place",
+                "name": "Finland",
+                "startDate": "1931"
+            },
+            {
+                "@type": "Place",
+                "name": "Finland",
+                "startDate": "1934"
+            },
+            {
+                "@type": "Place",
+                "name": "Finland",
+                "startDate": "1938"
+            },
+            {
+                "@type": "Place",
+                "name": "Finland",
+                "startDate": "1939"
+            },
+            {
+                "@type": "Place",
+                "name": "Finland",
+                "startDate": "1941"
+            },
+            {
+                "@type": "Place",
+                "name": "England",
+                "startDate": "1935"
+            },
+            {
+                "@type": "Place",
+                "name": "France",
+                "startDate": "1938"
+            },
+            {
+                "@type": "Place",
+                "name": "Hungary",
+                "startDate": "1942"
+            }
+        ],
+        "publications": [
+            {
+                "@type": "Article",
+                "name": "Calculation of the Grade of Service",
+                "url": "https://example.com/publication1",
+                "datePublished": "1936",
+                "publisher": {
+                    "@type": "Organization",
+                    "name": "Ericsson Technology"
+                }
+            },
+            {
+                "@type": "Article",
+                "name": "Best Probability of Blocking in Stiff Coupling",
+                "url": "https://example.com/publication2",
+                "datePublished": "1942",
+                "publisher": {
+                    "@type": "Organization",
+                    "name": "Technical Communications from the Royal Telegraph Board"
+                }
+            },
+            {
+                "@type": "Article",
+                "name": "Articles in the Ericsson Review",
+                "url": "https://example.com/publication3",
+                "publisher": {
+                    "@type": "Organization",
+                    "name": "Ericsson Review"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Institute of Technology"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Industrial Patenting Society"
+            }
+        ],
+        "seeAlso": [
+            "LUNDQUIST",
+            "LUNDQVIST"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Trainee",
+                "workplace": "ASEA",
+                "industry": "Engineering",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "ASEA",
+                "industry": "Engineering",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Telefon-AB L M Ericsson",
+                "industry": "Telecommunications",
+                "start_date": "1926"
+            }
+        ]
+    }
+}

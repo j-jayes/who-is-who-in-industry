@@ -1,0 +1,167 @@
+{
+    "original": "NORDEMALM, Richard Rune, Herr, Örebro, f Gusselby, Linde bergsförs, 31/1 15 av grhdl C J K Persson o Agnes Fransson. Realex, hdlssk, Sv hdlskamm:s kurs London. Anst Arboga ångsåg 34, Linden Doors Ltd London 36, Sv Amer linj 37, öbr byggn.mtrlaff 37—42, deläg o ch fma Byggmtrl Nordemalm &amp; Co sed. 42. Ag Bråtens gård i Karlskoga, fastigh Sofiag 27 i öbr o Kungsg 11 Kristineh samt v :la Alphyddan i Adolfsberg. Resor: Tyskl 33, Engl, Frankr 36, Syd- o Nordamer, Kanada, Ryssl, Indien 37. Hobbies: Affärer, motorsport.",
+    "translated": "NORDEMALM, Richard Rune, Mr., Örebro, born in Gusselby, Linde bergsförs, January 31, 1915, son of grhdl (grand hotelkeeper) C J K Persson and Agnes Fransson. Attended Realex school and commercial school, completed the Swedish Chambers of Commerce course in London. Employed at Arboga steam sawmill in 1934, Linden Doors Ltd in London in 1936, Swedish American Line in 1937, Örebro building materials store from 1937 to 1942, became co-owner and managing director of the construction materials company Nordemalm & Co since 1942. Owns Bråten's estate in Karlskoga, property Sofiag 27 in Örebro and Kungsg 11 in Kristineh, as well as the old Alphyddan in Adolfsberg. Traveled to Germany in 1933, England and France in 1936, South and North America, Canada, Russia, and India in 1937. Hobbies: business, motorsports.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Richard Rune Nordemalm",
+        "additionalName": "Mr.",
+        "birthDate": "1915-01-31",
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Gusselby, Linde bergsförs, Sweden"
+        },
+        "father": {
+            "@type": "Person",
+            "name": "C J K Persson"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Agnes Fransson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Realex School"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Commercial School"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Swedish Chambers of Commerce"
+            }
+        ],
+        "jobTitle": [
+            "Steam Sawmill Employee",
+            "Employee at Linden Doors Ltd",
+            "Employee at Swedish American Line",
+            "Owner and Managing Director of Nordemalm & Co"
+        ],
+        "hasOccupation": [
+            {
+                "@type": "Organization",
+                "name": "Arboga Steam Sawmill",
+                "startDate": "1934"
+            },
+            {
+                "@type": "Organization",
+                "name": "Linden Doors Ltd",
+                "startDate": "1936"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish American Line",
+                "startDate": "1937"
+            },
+            {
+                "@type": "Organization",
+                "name": "Örebro Building Materials Store",
+                "startDate": "1937",
+                "endDate": "1942"
+            },
+            {
+                "@type": "Organization",
+                "name": "Nordemalm & Co",
+                "startDate": "1942"
+            }
+        ],
+        "owns": [
+            {
+                "@type": "Place",
+                "name": "Bråten's Estate",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Karlskoga",
+                    "addressCountry": "Sweden"
+                }
+            },
+            {
+                "@type": "Place",
+                "name": "Sofiag 27",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Örebro",
+                    "addressCountry": "Sweden"
+                }
+            },
+            {
+                "@type": "Place",
+                "name": "Kungsg 11",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Kristineh",
+                    "addressCountry": "Sweden"
+                }
+            },
+            {
+                "@type": "Place",
+                "name": "Alphyddan (old)",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Adolfsberg",
+                    "addressCountry": "Sweden"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "German Trip in 1933"
+            },
+            {
+                "@type": "Organization",
+                "name": "English and French Trips in 1936"
+            },
+            {
+                "@type": "Organization",
+                "name": "Trips to South and North America, Canada, Russia, and India in 1937"
+            }
+        ],
+        "hasInterest": [
+            {
+                "@type": "Thing",
+                "name": "Business"
+            },
+            {
+                "@type": "Thing",
+                "name": "Motorsports"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Employee at Arboga steam sawmill",
+                "workplace": "Arboga ångsåg",
+                "industry": "Steam sawmill",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Employee at Linden Doors Ltd",
+                "workplace": "Linden Doors Ltd",
+                "industry": "Door manufacturing",
+                "start_date": "1936"
+            },
+            {
+                "occupational_title": "Employee at Swedish American Line",
+                "workplace": "Swedish American Line",
+                "industry": "Shipping",
+                "start_date": "1937"
+            },
+            {
+                "occupational_title": "Employee at Örebro building materials store",
+                "workplace": "Örebro building materials store",
+                "industry": "Retail",
+                "start_date": "1937"
+            },
+            {
+                "occupational_title": "Co-owner and managing director of Nordemalm & Co",
+                "workplace": "Nordemalm & Co",
+                "industry": "Construction materials",
+                "start_date": "1942"
+            }
+        ]
+    }
+}

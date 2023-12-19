@@ -1,0 +1,117 @@
+{
+    "original": "LARSSON, Per Birger, Civilingenjör, Stockholm, f Fole församl, Gotl l, 15/7 08 av lantbr P E L o Ida Hedin. Studex Visby 29, KTH (E) 30—35, avg.ex sistn år. Anst v Inst f högspänn.forskn i Uppsala 35, v ASEA:s konstr.kont i Västerås 36—39, Pat- o Registr.-verket i Sthlm 39—41 o v Aga-Baltic AB, Lidingö, sed. 41, patenting där. Led Sv Tekn.frn.",
+    "translated": "LARSSON, Per Birger, Civil Engineer, Stockholm, born in Fole parish, Gotland county, on July 15th, 1908, to farmer P E L and Ida Hedin. Graduated from Visby in 1929, and from KTH (Royal Institute of Technology) in 1930-1935, with the last year as an average grade examiner. Employed at the Institute for High Voltage Research in Uppsala in 1935, at ASEA's Design Department in Västerås from 1936 to 1939, at the Patent and Registration Office in Stockholm from 1939 to 1941, and at Aga-Baltic AB in Lidingö since 1941, working on patents. Member of the Swedish Technical Association.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Per Birger Larsson",
+        "jobTitle": "Civil Engineer",
+        "birthDate": "1908-07-15",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Fole",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Gotland County",
+                "addressRegion": "Gotl l"
+            }
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "P E L"
+            },
+            {
+                "@type": "Person",
+                "name": "Ida Hedin"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Visby",
+                "startDate": "1929",
+                "endDate": "1929"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "KTH (Royal Institute of Technology)",
+                "startDate": "1930",
+                "endDate": "1935"
+            }
+        ],
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "Institute for High Voltage Research",
+                "startDate": "1935",
+                "endDate": "1935",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Uppsala"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "ASEA's Design Department",
+                "startDate": "1936",
+                "endDate": "1939",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Västerås"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Patent and Registration Office",
+                "startDate": "1939",
+                "endDate": "1941",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Aga-Baltic AB",
+                "startDate": "1941",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Lidingö"
+                }
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Swedish Technical Association"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Institute for High Voltage Research",
+                "industry": "Research",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "ASEA's Design Department",
+                "industry": "Engineering",
+                "start_date": "1936"
+            },
+            {
+                "occupational_title": "Patent and Registration Office Employee",
+                "workplace": "Patent and Registration Office",
+                "industry": "Government",
+                "start_date": "1939"
+            },
+            {
+                "occupational_title": "Patent Engineer",
+                "workplace": "Aga-Baltic AB",
+                "industry": "Technology",
+                "start_date": "1941"
+            }
+        ]
+    }
+}

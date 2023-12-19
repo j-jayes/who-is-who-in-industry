@@ -1,0 +1,155 @@
+{
+    "original": "NORDIN, John August, Ingenjör, Finspång, f Tåsjö, Vnorrl l, 9/5 87 av hemm.äg J N o Stina Norberg, gm Alma Wiberg. Avg.ex Tekn Elem.sk Härnösand 07. Bitr ing v Yrkesinsp 07—09, install.ing v Bodéns Elektr AB, Hsand, 09—10, rit o konstr h AB Ljungströms Ångturbin 10—13, konstr h Sv Turbinfabriks AB Ljungström, Finsp, 13—15, övering.assist där 15—16, dir.assist där 16—17, verkst.chef där 17. Statens rev f arb.lösh.verks i Risinge sed. 32, komm.flm 20—26 o 33—38, led av komm.nmdn ssed. 27, styr.led Finspångs h folksk 17—20 (ordf 20—30), styr.ordf Finspångs komm mell.-skola sed. 31, styr.led Finspångs föreläsn.frn sed. 17 (v. ordf 18—24, ordf sed. 25), styr.led Österg Ensk Banks kont i Finspång sed. 27, AB Borggårds Bruk sed. 33 o Sv Turbinfabriks AB Ljungström sed. 35. Studieresor i USA o fl europ länder. Av trycket: Ett 20-tal upps i tekn, soc.ekon o org frågor. Led Sv Tekn.frn sed. 15. ProPstGM.",
+    "translated": "NORDIN, John August, Engineer, Finspång, born in Tåsjö, Northern Norrland, on May 9th, 1887, to parents J and Stina Norberg, married to Alma Wiberg. Completed Technical Elementary School in Härnösand in 1907. Assistant engineer at the Vocational Inspection from 1907 to 1909, installation engineer at Bodén's Elektriska AB, Härnösand, from 1909 to 1910, draughtsman and designer at AB Ljungströms Ångturbin from 1910 to 1913, designer at Sv Turbinfabriks AB Ljungström, Finspång, from 1913 to 1915, assistant superintendent engineer there from 1915 to 1916, assistant director there from 1916 to 1917, and works manager from 1917 onwards. Employed by the State's Unemployment Insurance Board in Risinge since 1932, municipal manager in Finspång from 1920 to 1926 and 1933 to 1938, member of the municipal council since 1927, board member of Finspång's public school from 1917 to 1920 (chairman from 1920 to 1930), chairman of the board of Finspång's middle school since 1931, board member of Finspång's lecture association since 1917 (vice chairman from 1918 to 1924, chairman since 1925), board member of Östgöta Enskilda Bank's branch in Finspång since 1927, board member of AB Borggårds Bruk since 1933, and board member of Sv Turbinfabriks AB Ljungström since 1935. Undertook study trips to the USA and several European countries. Published about 20 papers on technical, socio-economic, and organizational matters. Member of the Swedish Technical Association since 1915. ProPstGM.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "John August Nordin",
+        "birthDate": "1887-05-09",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Tåsjö",
+                "addressRegion": "Vnorrl l"
+            }
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "J Nordin"
+            },
+            {
+                "@type": "Person",
+                "name": "Stina Norberg"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Alma Wiberg"
+        },
+        "jobTitle": "Engineer",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Technical Association",
+                "startDate": "1915"
+            }
+        ],
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Technical Elementary School",
+            "educationalLevel": "SecondaryEducation",
+            "educationalCredentialAwarded": "Tekn Elem.sk",
+            "audience": "Härnösand",
+            "endDate": "1907"
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "AB Ljungströms Ångturbin",
+            "startDate": "1910",
+            "endDate": "1913"
+        },
+        "sameAs": "https://www.example.com/john-august-nordin"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Assistant engineer",
+                "workplace": "Vocational Inspection",
+                "industry": "Government",
+                "start_date": "1907"
+            },
+            {
+                "occupational_title": "Installation engineer",
+                "workplace": "Bodén's Elektriska AB",
+                "industry": "Electrical industry",
+                "start_date": "1909"
+            },
+            {
+                "occupational_title": "Draughtsman and designer",
+                "workplace": "AB Ljungströms Ångturbin",
+                "industry": "Engineering",
+                "start_date": "1910"
+            },
+            {
+                "occupational_title": "Designer",
+                "workplace": "Sv Turbinfabriks AB Ljungström",
+                "industry": "Engineering",
+                "start_date": "1913"
+            },
+            {
+                "occupational_title": "Assistant superintendent engineer",
+                "workplace": "Sv Turbinfabriks AB Ljungström",
+                "industry": "Engineering",
+                "start_date": "1915"
+            },
+            {
+                "occupational_title": "Assistant director",
+                "workplace": "Sv Turbinfabriks AB Ljungström",
+                "industry": "Engineering",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Works manager",
+                "workplace": "Sv Turbinfabriks AB Ljungström",
+                "industry": "Engineering",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Employed by the State's Unemployment Insurance Board",
+                "workplace": "Risinge",
+                "industry": "Government",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Municipal manager",
+                "workplace": "Finspång",
+                "industry": "Government",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Member of the municipal council",
+                "workplace": "Finspång",
+                "industry": "Government",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Board member of Finspång's public school",
+                "workplace": "Finspång",
+                "industry": "Education",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Chairman of the board of Finspång's middle school",
+                "workplace": "Finspång",
+                "industry": "Education",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Board member of Finspång's lecture association",
+                "workplace": "Finspång",
+                "industry": "Education",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Board member of Östgöta Enskilda Bank's branch in Finspång",
+                "workplace": "Finspång",
+                "industry": "Finance",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Board member of AB Borggårds Bruk",
+                "workplace": "Finspång",
+                "industry": "Manufacturing",
+                "start_date": "1933"
+            },
+            {
+                "occupational_title": "Board member of Sv Turbinfabriks AB Ljungström",
+                "workplace": "Finspång",
+                "industry": "Engineering",
+                "start_date": "1935"
+            }
+        ]
+    }
+}

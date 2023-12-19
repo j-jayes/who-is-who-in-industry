@@ -1,0 +1,123 @@
+{
+    "original": "LARSSON, Petrus Arthur Ossian, Grosshandlare, Härnösand, f Hässjö, Vnorrl l, 10/10 83 av folkskollär L P L o Maria Strin-din, gm Kerstin Lindeberg. Påhlmans Hdlsinst 05. Etabl engrosfma i korta varor, sy-behör mm i Hsand 11, sedermera utökad m egna tillverkn av arb.kläder samt skjortor, byxor o lumberjackor. Led av stdsflm, kyr-koflm o kyrkoråd, hdls- o sjöf.nmdn, Hsands Hdlsfrn, Hsands Engrossistfrn, Värsta Dia-konissanst. Företagit ett f ler t resor i Tyskl, Schweiz, Österr o Ital 17—39. Frimurare, Odd Fellow. ProPstGM. Hobbies: Abborrfiske, arbete.",
+    "translated": "LARSSON, Petrus Arthur Ossian, Wholesaler, Härnösand, b. Hässjö, Västernorrland county, October 10th, 1883, son of primary school teacher L.P.L. and Maria Strindin, married to Kerstin Lindeberg. Started at Påhlmans Trading Institute in 1905. Established a wholesale company for various goods, sewing supplies, etc. in Härnösand in 1911, later expanded into manufacturing workwear such as shirts, pants, and lumberjackets. Served as a board member of trade unions, church committees, trade and maritime boards, Härnösand Chamber of Commerce, Härnösand Wholesalers Association, and held a position at Värsta Deacon's Office. Made several trips to Germany, Switzerland, Austria, and Italy from 1917 to 1939. Freemason, Odd Fellow, Provincial Grand Master. Hobbies: Perch fishing, work.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Petrus Arthur Ossian Larsson",
+        "birthDate": "1883-10-10",
+        "birthPlace": "Hässjö, Västernorrland county",
+        "description": "Wholesaler",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "L.P.L.",
+                "jobTitle": "Primary School Teacher"
+            },
+            {
+                "@type": "Person",
+                "name": "Maria Strindin"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Kerstin Lindeberg"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "trading",
+            "educationalLevel": "Påhlmans Trading Institute",
+            "startDate": "1905"
+        },
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1911",
+                "endDate": "Present",
+                "roleName": "Founder",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Wholesale Company"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Trade Unions"
+            },
+            {
+                "@type": "Organization",
+                "name": "Church Committees"
+            },
+            {
+                "@type": "Organization",
+                "name": "Trade and Maritime Boards"
+            },
+            {
+                "@type": "Organization",
+                "name": "Härnösand Chamber of Commerce"
+            },
+            {
+                "@type": "Organization",
+                "name": "Härnösand Wholesalers Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Värsta Deacon's Office"
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "Place",
+                "name": "Germany"
+            },
+            {
+                "@type": "Place",
+                "name": "Switzerland"
+            },
+            {
+                "@type": "Place",
+                "name": "Austria"
+            },
+            {
+                "@type": "Place",
+                "name": "Italy"
+            }
+        ],
+        "fraternities": [
+            {
+                "@type": "Organization",
+                "name": "Freemasons"
+            },
+            {
+                "@type": "Organization",
+                "name": "Odd Fellows"
+            }
+        ],
+        "position": "Provincial Grand Master",
+        "hobbies": "Perch fishing, work"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Wholesaler",
+                "workplace": "Påhlmans Hdlsinst",
+                "industry": "Trading",
+                "start_date": "1905"
+            },
+            {
+                "occupational_title": "Founder and Owner",
+                "workplace": "Own wholesale company",
+                "industry": "Various goods, sewing supplies",
+                "start_date": "1911"
+            },
+            {
+                "occupational_title": "Manufacturer",
+                "workplace": "Own manufacturing company",
+                "industry": "Workwear",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "original": "LARSSON, Karl Gunnar, Kamrer, Arboga, f Arb 22/9 99. Tekn aftonsk. Anst grhdlsfma 13—28, kass Arb sparbk 28—32, kamr sed. 32. Kassaförv Arb pastorat.",
+    "translated": "LARSSON, Karl Gunnar, Kamrer (Accountant), Arboga, born in Arb (Arboga) on September 22, 1899. Technical evening school. Employed at a grocery company from 1913 to 1928, cashier at Arboga Savings Bank from 1928 to 1932, serving as an accountant since 1932. Cashier in charge at Arboga Parish.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Karl Gunnar Larsson",
+        "birthDate": "1899-09-22",
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Arboga"
+        },
+        "description": "Kamrer (Accountant), Arboga",
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Technical evening school"
+        },
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1913-01-01",
+                "endDate": "1928-12-31",
+                "roleName": "Employed at a grocery company",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Grocery Company"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1928-01-01",
+                "endDate": "1932-12-31",
+                "roleName": "Cashier at Arboga Savings Bank",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Arboga Savings Bank"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1932-01-01",
+                "roleName": "Accountant",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Arboga Parish"
+                }
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Kamrer (Accountant)",
+                "workplace": "Grocery company",
+                "industry": "Retail",
+                "start_date": "1913"
+            },
+            {
+                "occupational_title": "Cashier",
+                "workplace": "Arboga Savings Bank",
+                "industry": "Banking",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Accountant",
+                "workplace": "Arboga Parish",
+                "industry": "Religious",
+                "start_date": "1932"
+            }
+        ]
+    }
+}

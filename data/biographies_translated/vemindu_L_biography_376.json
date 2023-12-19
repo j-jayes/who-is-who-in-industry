@@ -1,0 +1,131 @@
+{
+    "original": "LOOSTRÖM, Nils Civilingenjör, Direktör, Mariehov, Mariefred, f Sthlm 28/9 89 av överintendent C L L o Alfrida Boman, gm Axy Rosenlund. Mog.ex NLatin Sthlm 09, ex KTH (maskinbyggn o mek tekn) 14 o (skeppsbyggn) 15. Anst v AB Atlas Diesel i Sthlm 15—24, v A/S American Oil Refining Co i Oslo 24—26, konsult ing i Djursholm 27, nu dir f AB Evaporator i Sthlm. Resor: Tyskl, Ital, Frankr, Engl, Österr o Ung v öl tillf 19—37.",
+    "translated": "LOOSTRÖM, Nils Civil Engineer, Director, Mariehov, Mariefred, born in Stockholm on September 28, 1889, the son of Chief Inspector C L L and Alfrida Boman, married to Axy Rosenlund. Completed his secondary education at NLatin Stockholm in 1909, studied at the Royal Institute of Technology (mechanical engineering and mechanical technology) in 1914, and specialized in shipbuilding in 1915. Employed at AB Atlas Diesel in Stockholm from 1915 to 1924, at A/S American Oil Refining Co in Oslo from 1924 to 1926, and worked as a consulting engineer in Djursholm in 1927. Currently serving as the managing director of AB Evaporator in Stockholm. Traveled extensively to Germany, Italy, France, England, Austria, and Hungary from 1919 to 1937.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Nils Loostrom",
+        "birthDate": "1889-09-28",
+        "birthPlace": "Stockholm",
+        "description": "Civil Engineer, Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Mariefred",
+            "addressCountry": "Sweden"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "C L L Loostrom"
+            },
+            {
+                "@type": "Person",
+                "name": "Alfrida Boman"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Axy Rosenlund"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "educationalLevel": "SecondaryEducation",
+                "alumniOf": {
+                    "@type": "Organization",
+                    "name": "NLatin Stockholm"
+                },
+                "completionDate": "1909"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "educationalLevel": "Bachelor'sDegree",
+                "alumniOf": {
+                    "@type": "Organization",
+                    "name": "Royal Institute of Technology"
+                },
+                "fieldOfStudy": "Mechanical Engineering and Mechanical Technology",
+                "completionDate": "1914"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "educationalLevel": "Specialization",
+                "alumniOf": {
+                    "@type": "Organization",
+                    "name": "Royal Institute of Technology"
+                },
+                "fieldOfStudy": "Shipbuilding",
+                "completionDate": "1915"
+            }
+        ],
+        "employment": [
+            {
+                "@type": "Organization",
+                "name": "AB Atlas Diesel",
+                "startDate": "1915",
+                "endDate": "1924",
+                "location": "Stockholm"
+            },
+            {
+                "@type": "Organization",
+                "name": "A/S American Oil Refining Co",
+                "startDate": "1924",
+                "endDate": "1926",
+                "location": "Oslo"
+            },
+            {
+                "@type": "Organization",
+                "name": "Consulting Engineer",
+                "startDate": "1927",
+                "location": "Djursholm"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Evaporator",
+                "startDate": "current",
+                "location": "Stockholm"
+            }
+        ],
+        "travelHistory": [
+            "Germany",
+            "Italy",
+            "France",
+            "England",
+            "Austria",
+            "Hungary"
+        ],
+        "travelPeriod": {
+            "@type": "Duration",
+            "startDate": "1919",
+            "endDate": "1937"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "AB Atlas Diesel",
+                "industry": "",
+                "start_date": "1915"
+            },
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "A/S American Oil Refining Co",
+                "industry": "",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Consulting Engineer",
+                "workplace": "Djursholm",
+                "industry": "",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "AB Evaporator",
+                "industry": "",
+                "start_date": ""
+            }
+        ]
+    }
+}

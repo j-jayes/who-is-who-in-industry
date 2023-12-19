@@ -1,0 +1,140 @@
+{
+    "original": "LAURELL, Gunnar Christoffer, Disponent, Limhamn, f Djursholm 20/8 08 av dir Gust L o Märta Geijer, gm Anna-Karin Rettig. Studex N Latin 27, off.asp.sk 27—28, civ.ingex KTH (V o V) 33. Konstr Sv AB Christian! &amp; Nielsen 33—35, e. byråing Malmö stads byggn-kont 35—38, byggn.ing Slite cement- o kalk AB 38—42, disp Sk cement AB:s Limhamns-förvaltn sed. 42. Resor: Tyskl 37. Milit idr.m g, skyt.m g, skidl.m g.",
+    "translated": "LAURELL, Gunnar Christoffer, Executive, Limhamn, born in Djursholm on August 20, 1908, to director Gust L and Märta Geijer, married to Anna-Karin Rettig. Passed the Latin studentexamen in 1927, served as an officer's assistant in the Swedish Army in 1927-1928, received a civil engineering degree from the Royal Institute of Technology (Mining and Metallurgy) in 1933. Worked as a construction engineer at Sv AB Christian! & Nielsen from 1933 to 1935, assistant engineer at Malmö City Building Office from 1935 to 1938, and as a building engineer at Slite Cement and Lime AB from 1938 to 1942. Became the executive of Skåne Cement AB's Limhamn division since 1942. Traveled to Germany in 1937. Involved in military sports, shooting, and skiing.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Gunnar Christoffer Laurell",
+        "birthDate": "1908-08-20",
+        "birthPlace": "Djursholm",
+        "nationality": "Swedish",
+        "jobTitle": "Executive",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Limhamn"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Anna-Karin Rettig"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Latin studentexamen",
+                "educationalLevel": "High school diploma"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Officer's assistant",
+                "educationalLevel": "Training"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Civil engineering degree",
+                "educationalLevel": "Bachelor's degree",
+                "educationalCredentialAwarded": "Mining and Metallurgy",
+                "educationalInstitution": {
+                    "@type": "EducationalOrganization",
+                    "name": "Royal Institute of Technology"
+                },
+                "startDate": "1927",
+                "endDate": "1933"
+            }
+        ],
+        "workExperience": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1933",
+                "endDate": "1935",
+                "roleName": "Construction engineer",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Sv AB Christian! & Nielsen"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1935",
+                "endDate": "1938",
+                "roleName": "Assistant engineer",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Malmö City Building Office"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1938",
+                "endDate": "1942",
+                "roleName": "Building engineer",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Slite Cement and Lime AB"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1942",
+                "roleName": "Executive",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Skåne Cement AB's Limhamn division"
+                }
+            }
+        ],
+        "travels": [
+            {
+                "@type": "Trip",
+                "name": "Germany",
+                "startDate": "1937"
+            }
+        ],
+        "sports": [
+            "Military sports",
+            "Shooting",
+            "Skiing"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Executive",
+                "workplace": "Limhamn",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Officer's Assistant",
+                "workplace": "Swedish Army",
+                "industry": "Military",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Construction Engineer",
+                "workplace": "Sv AB Christian! & Nielsen",
+                "industry": "Construction",
+                "start_date": "1933"
+            },
+            {
+                "occupational_title": "Assistant Engineer",
+                "workplace": "Malmö City Building Office",
+                "industry": "Government",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Building Engineer",
+                "workplace": "Slite Cement and Lime AB",
+                "industry": "Construction",
+                "start_date": "1938"
+            },
+            {
+                "occupational_title": "Executive",
+                "workplace": "Skåne Cement AB's Limhamn division",
+                "industry": "Construction",
+                "start_date": "1942"
+            }
+        ]
+    }
+}

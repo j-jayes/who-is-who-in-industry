@@ -1,0 +1,183 @@
+{
+    "original": "NORLANDER, Tore Emil Julius, Direktör, Hässleholm, f Sthlm 29/11 99 av red Emil N o Agda Hodell, gm Mait Nettelbladt. Realstudex Sthlm 18, stud. KTH 19. Lab h AB Astra 26, lab.ch 27, chefskem 28, propagandach 29, ch f bol:s informat.avd 40—42, vkst dir sed. 42 f AB Hassle Apot Paul Nordströms fabr:r (gr av apot P Nordstr 09, Sv äldsta läkemed.fabr). Resor: Europ länd årl sed. 18, USA 31 o 39. Av trycket: Ett flert skr f AB Astra. Hobby: Filateli.",
+    "translated": "NORLANDER, Tore Emil Julius, Director, Hässleholm, Born in Stockholm on November 29, 1899, to publisher Emil N and Agda Hodell. Married to Mait Nettelbladt. Completed real-studies in Stockholm in 1918, studied at KTH (Royal Institute of Technology) in 1919. Laboratory assistant at AB Astra in 1926, laboratory chief in 1927, chief chemist in 1928, propaganda chief in 1929, head of the company's information department from 1940 to 1942, and has been a managing director since 1942 at AB Hassle Apot Paul Nordströms fabr (pharmacy founded by Paul Nordström in 1909, Sweden's oldest pharmaceutical factory). Travels: Visits to European countries annually since 1918, visits to the United States in 1931 and 1939. Published several works for AB Astra. Hobby: Philately.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Tore Emil Julius Norlander",
+        "jobTitle": "Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Hässleholm"
+        },
+        "birthDate": "1899-11-29",
+        "birthPlace": "Stockholm",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Emil N"
+            },
+            {
+                "@type": "Person",
+                "name": "Agda Hodell"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Mait Nettelbladt"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Realstudex",
+                "institution": "Stockholm",
+                "endDate": "1918"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "stud",
+                "institution": "KTH (Royal Institute of Technology)",
+                "endDate": "1919"
+            }
+        ],
+        "workExperience": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1926",
+                "endDate": "1942",
+                "roleName": "Laboratory Assistant",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Astra"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1927",
+                "endDate": "1942",
+                "roleName": "Laboratory Chief",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Astra"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1928",
+                "endDate": "1942",
+                "roleName": "Chief Chemist",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Astra"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1929",
+                "endDate": "1942",
+                "roleName": "Propaganda Chief",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Astra"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1940",
+                "endDate": "1942",
+                "roleName": "Head of Information Department",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Astra"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1942",
+                "roleName": "Managing Director",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Hassle Apot Paul Nordströms fabr (pharmacy founded by Paul Nordström in 1909, Sweden's oldest pharmaceutical factory)"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "AB Hassle Apot Paul Nordströms fabr (pharmacy founded by Paul Nordström in 1909, Sweden's oldest pharmaceutical factory)"
+            }
+        ],
+        "travels": [
+            {
+                "@type": "TouristTrip",
+                "name": "Visits to European countries",
+                "startDate": "1918"
+            },
+            {
+                "@type": "Trip",
+                "name": "Visits to the United States",
+                "startDate": "1931"
+            },
+            {
+                "@type": "Trip",
+                "name": "Visits to the United States",
+                "startDate": "1939"
+            }
+        ],
+        "publications": [
+            {
+                "@type": "Article",
+                "about": "AB Astra",
+                "name": "Published works for AB Astra"
+            }
+        ],
+        "hasOccupation": {
+            "@type": "DefinedTerm",
+            "name": "Director"
+        },
+        "hasHobby": {
+            "@type": "DefinedTerm",
+            "name": "Philately"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Laboratory Assistant",
+                "workplace": "AB Astra",
+                "industry": "Pharmaceuticals",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Laboratory Chief",
+                "workplace": "AB Astra",
+                "industry": "Pharmaceuticals",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Chief Chemist",
+                "workplace": "AB Astra",
+                "industry": "Pharmaceuticals",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Propaganda Chief",
+                "workplace": "AB Astra",
+                "industry": "Pharmaceuticals",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Head of Information Department",
+                "workplace": "AB Hassle Apot Paul Nordströms fabr",
+                "industry": "Pharmaceuticals",
+                "start_date": "1940"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "AB Hassle Apot Paul Nordströms fabr",
+                "industry": "Pharmaceuticals",
+                "start_date": "1942"
+            }
+        ]
+    }
+}

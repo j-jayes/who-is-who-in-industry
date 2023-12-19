@@ -1,0 +1,232 @@
+{
+    "original": "MATTSSON, Oskar Mejnhard Gottfrids Ingenjör, Stockholm, f Sthlm 26/11 80 av smidesmäst F O M o Johanna Jonasdotter. Ex Tekn sk Sthlm (maskin) 99, stud v StHS 00—01. Rit o konstr v Wilh Janssons konstr. -byrå (Jernkont konstr.byrå) 99—03, lär i matem v Tekn Sk Sthlm 00—11, v. vkst dir i Tornborg &amp; Lundberg AB Sthlm sed. 11. Ag fastigh Upplandsgat 35, Sthlm, villa Solberga Ålsten. Styr.led Gullbergs Maskinfabr Lindas sed. 15, Tornborg &amp; Lundbergs AB sed. 16, Sala Maskinfabr Sala sed. 21, Sällsk Bellmans Minne sed. 35, Bellmanssällsk sed. 41, storkansl i Par Bricole sed. 40. Utarb egna konstr o uppfinn spec f maskiner i sågvks- o byggn.ind. RVO, PatrstGM. Hobbies: Bell-mansstudier, egyptisk arkeologi.",
+    "translated": "MATTSSON, Oskar Mejnhard Gottfrid Engineer, Stockholm, born in Stockholm on November 26, 1880, son of master blacksmith F O M and Johanna Jonasdotter. Formerly studied at the Technical School in Stockholm (mechanics) in 1899, and continued studies at the Royal Institute of Technology in 1900-1901. Worked as a drafter and designer at Wilh Janssons' design office (Jernkontorets Design Office) from 1899 to 1903. Taught mathematics at the Technical School in Stockholm from 1900 to 1911. Currently serves as vice managing director at Tornborg & Lundberg AB in Stockholm since 1911. Owns property at Upplandsgatan 35, Stockholm, and a villa in Solberga Ålsten. Serves as a board member of Gullbergs Maskinfabrik Lindas since 1915, Tornborg & Lundbergs AB since 1916, Sala Maskinfabrik Sala since 1921, Sällskapet Bellmans Minne since 1935, Bellmanssällskapet since 1941, and also holds a senior position at Par Bricole since 1940. Developed own designs and inventions, specializing in machinery for the sawmill and construction industries. Received the Royal Order of Vasa (RVO) and Patriotic Medal (PatrstGM). Hobbies include studies of Bellman's works and Egyptian archaeology. Please note that \"\\d\\d m. partner's name\" indicates that the person married in the specific year mentioned (19XX).",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Oskar Mejnhard Gottfrid Mattsson",
+        "givenName": "Oskar",
+        "familyName": "Mattsson",
+        "description": "Engineer",
+        "birthDate": "1880-11-26",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Stockholm",
+                "addressCountry": "Sweden"
+            }
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "F O M (Master Blacksmith)",
+                "gender": "male"
+            },
+            {
+                "@type": "Person",
+                "name": "Johanna Jonasdotter",
+                "gender": "female"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Technical School",
+                "credentialLevel": "Undergraduate",
+                "educationalLevel": "Certificate",
+                "educationalCredentialAwarded": "Technician (Mechanical)",
+                "awardingInstitution": {
+                    "@type": "Organization",
+                    "name": "Technical School",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm",
+                        "addressCountry": "Sweden"
+                    }
+                },
+                "validFor": {
+                    "@type": "Duration",
+                    "name": "1899-1899"
+                }
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Royal Institute of Technology",
+                "credentialLevel": "Undergraduate",
+                "educationalLevel": "Certificate",
+                "educationalCredentialAwarded": "Engineering",
+                "awardingInstitution": {
+                    "@type": "Organization",
+                    "name": "Royal Institute of Technology",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm",
+                        "addressCountry": "Sweden"
+                    }
+                },
+                "validFor": {
+                    "@type": "Duration",
+                    "name": "1900-1901"
+                }
+            }
+        ],
+        "occupation": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1899-1899",
+                "endDate": "1903-1903",
+                "roleName": "Drafter and Designer",
+                "namedPosition": "Wilh Janssons konstr. -byrå (Jernkont konstr.byrå)",
+                "worksFor": {
+                    "@type": "Organization",
+                    "name": "Wilh Janssons konstr. -byrå (Jernkont konstr.byrå)",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm",
+                        "addressCountry": "Sweden"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1900-1900",
+                "endDate": "1911-1911",
+                "roleName": "Mathematics Teacher",
+                "worksFor": {
+                    "@type": "Organization",
+                    "name": "Technical School",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm",
+                        "addressCountry": "Sweden"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1911-1911",
+                "roleName": "Vice Managing Director",
+                "worksFor": {
+                    "@type": "Organization",
+                    "name": "Tornborg & Lundberg AB",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm",
+                        "addressCountry": "Sweden"
+                    }
+                }
+            }
+        ],
+        "address": [
+            {
+                "@type": "PostalAddress",
+                "streetAddress": "Upplandsgatan 35",
+                "addressLocality": "Stockholm",
+                "addressCountry": "Sweden"
+            },
+            {
+                "@type": "PostalAddress",
+                "name": "Villa Solberga Ålsten",
+                "addressLocality": "Ålsten",
+                "addressCountry": "Sweden"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Gullbergs Maskinfabrik Lindas",
+                "startDate": "1915-1915",
+                "roleName": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Tornborg & Lundbergs AB",
+                "startDate": "1916-1916",
+                "roleName": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sala Maskinfabrik Sala",
+                "startDate": "1921-1921",
+                "roleName": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sällskapet Bellmans Minne",
+                "startDate": "1935-1935",
+                "roleName": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Bellmanssällskapet",
+                "startDate": "1941-1941",
+                "roleName": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Par Bricole",
+                "startDate": "1940-1940",
+                "roleName": "Senior Position"
+            }
+        ],
+        "workLocation": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Stockholm",
+                "addressCountry": "Sweden"
+            }
+        },
+        "invention": {
+            "@type": "CreativeWork",
+            "name": "Own Designs and Inventions",
+            "about": "Specializing in machinery for the sawmill and construction industries"
+        },
+        "awards": [
+            {
+                "@type": "Order",
+                "name": "Royal Order of Vasa (RVO)"
+            },
+            {
+                "@type": "Medal",
+                "name": "Patriotic Medal (PatrstGM)"
+            }
+        ],
+        "sameAs": [
+            "https://www.example.com/oskar-mattsson"
+        ],
+        "hasOccupation": [
+            "Engineering",
+            "Teaching",
+            "Designing",
+            "Management"
+        ],
+        "interests": [
+            "Bellman's Studies",
+            "Egyptian Archaeology"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Wilh Janssons konstruktionsbyrå (Jernkontorets konstruktionsbyrå)",
+                "industry": "Design",
+                "start_date": "1899-1903"
+            },
+            {
+                "occupational_title": "Mathematics Teacher",
+                "workplace": "Tekniska skolan (Technical School), Stockholm",
+                "industry": "Education",
+                "start_date": "1900-1911"
+            },
+            {
+                "occupational_title": "Vice Managing Director",
+                "workplace": "Tornborg & Lundberg AB, Stockholm",
+                "industry": "Management",
+                "start_date": "1911"
+            }
+        ]
+    }
+}

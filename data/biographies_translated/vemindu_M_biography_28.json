@@ -1,0 +1,111 @@
+{
+    "original": "MALMBERG, Carl Johan Gunnar, Bergsingenjör, Surahammar, f Sthlm 21/4 82 av ing C W Fr M o Isabella Boklund, gm Karm Sundstedt. Studex 01, KTH, bergsHS 05. Rit o mikroskopist v Cambria Steel Co, Jons-town, 07, kem o mikroskopist Kohlswa jvk 08, martin- o provn.ing där 09, ch.metallurg Surahammars br 19. Av trycket: Upps i Jernkont: s annaler o Tekn Tidskr. IVA mindre GM.",
+    "translated": "MALMBERG, Carl Johan Gunnar, Mining Engineer, Surahammar, b. Stockholm 21/4 1882, son of engineer C W Fr M and Isabella Boklund, married to Karm Sundstedt. Graduated 1901, Royal Institute of Technology, studied at the School of Mining 1905. Draftsman and microscopist at Cambria Steel Co, Johnstown, 1907, chemist and microscopist at Kohlswa Ironworks 1908, smelting and testing engineer there in 1909, chief metallurgist at Surahammar Foundry 1919. Published in Jernkont's Annals and Teknical Tidskrift. Member of the Royal Swedish Academy of Engineering Sciences (IVA) with minor merits.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Johan Gunnar Malmberg",
+        "jobTitle": "Mining Engineer",
+        "birthDate": "1882-04-21",
+        "birthPlace": "Stockholm",
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Royal Swedish Academy of Engineering Sciences",
+            "description": "IVA",
+            "additionalProperty": {
+                "@type": "PropertyValue",
+                "name": "Recognition",
+                "value": "Minor merits"
+            }
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "C W Fr M",
+                "jobTitle": "Engineer"
+            },
+            {
+                "@type": "Person",
+                "name": "Isabella Boklund"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Karm Sundstedt"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Royal Institute of Technology",
+                "location": "Stockholm",
+                "startDate": "1901",
+                "endDate": "1905"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "School of Mining",
+                "location": "Surahammar",
+                "startDate": "1905"
+            }
+        ],
+        "occupation": [
+            {
+                "@type": "Organization",
+                "name": "Cambria Steel Co",
+                "position": "Draftsman and Microscopist",
+                "startDate": "1907",
+                "location": "Johnstown"
+            },
+            {
+                "@type": "Organization",
+                "name": "Kohlswa Ironworks",
+                "position": "Chemist and Microscopist",
+                "startDate": "1908"
+            },
+            {
+                "@type": "Organization",
+                "name": "Surahammar Foundry",
+                "position": "Chief Metallurgist",
+                "startDate": "1919"
+            }
+        ],
+        "publication": [
+            {
+                "@type": "PublicationIssue",
+                "name": "Jernkont's Annals"
+            },
+            {
+                "@type": "PublicationIssue",
+                "name": "Teknical Tidskrift"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Draftsman and Microscopist",
+                "workplace": "Cambria Steel Co",
+                "industry": "Steel",
+                "start_date": "1907"
+            },
+            {
+                "occupational_title": "Chemist and Microscopist",
+                "workplace": "Kohlswa Ironworks",
+                "industry": "Ironworks",
+                "start_date": "1908"
+            },
+            {
+                "occupational_title": "Smelting and Testing Engineer",
+                "workplace": "Kohlswa Ironworks",
+                "industry": "Ironworks",
+                "start_date": "1909"
+            },
+            {
+                "occupational_title": "Chief Metallurgist",
+                "workplace": "Surahammar Foundry",
+                "industry": "Foundry",
+                "start_date": "1919"
+            }
+        ]
+    }
+}

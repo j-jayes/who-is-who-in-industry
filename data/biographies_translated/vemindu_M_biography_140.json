@@ -1,0 +1,94 @@
+{
+    "original": "MOSSBERG, Gustaf Emil, Ingenjör, Stockholm, f Blomskog, Värml l, 21/12 81 av lantbr J W M o Maria Olsson. CTL 01—06, avg.ex (M) där sistn år. Anst v Maskinfabrik Ludwig Nobel S:t Petersburg, Ryssl, 06—16, v Luth &amp; Roséns Elektr AB 16—31, v ASEA i Västerås 31, däreft v ASEA:s Sthlms-tillverkn. Assistent v KTH sed. 39. Led Sv Tekn.frn.",
+    "translated": "MOSSBERG, Gustaf Emil, Engineer, Stockholm, b Blomskog, Värmland county, 21/12 1881, son of farmer J W M and Maria Olsson. Graduated from CTL 01—06, with a degree in Mechanical Engineering. Employed at Maskinfabrik Ludwig Nobel in St. Petersburg, Russia, 06—16, then at Luth & Roséns Elektr AB 16—31, and later at ASEA in Västerås from 31. Afterward, he became an Assistant at KTH from 1939 onwards. Member of the Swedish Technical Association. \n\nPlease note that the abbreviation 'd\\d m. partner's name' implies that the individual got married in the year 19xx.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Gustaf Emil Mossberg",
+        "birthDate": "1881-12-21",
+        "birthPlace": "Blomskog, Värmland County, Sweden",
+        "nationality": "Swedish",
+        "jobTitle": "Engineer",
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Swedish Technical Association"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "J W M"
+            },
+            {
+                "@type": "Person",
+                "name": "Maria Olsson"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "CTL",
+                "startDate": "1901",
+                "endDate": "1906",
+                "degree": {
+                    "@type": "EducationalDegree",
+                    "name": "Mechanical Engineering"
+                }
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Maskinfabrik Ludwig Nobel",
+                "location": "St. Petersburg, Russia",
+                "startDate": "1906",
+                "endDate": "1916"
+            },
+            {
+                "@type": "Organization",
+                "name": "Luth & Roséns Elektr AB",
+                "startDate": "1916",
+                "endDate": "1931"
+            },
+            {
+                "@type": "Organization",
+                "name": "ASEA",
+                "location": "Västerås, Sweden",
+                "startDate": "1931"
+            },
+            {
+                "@type": "Organization",
+                "name": "KTH",
+                "location": "Stockholm, Sweden",
+                "startDate": "1939"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Maskinfabrik Ludwig Nobel",
+                "industry": "Mechanical engineering",
+                "start_date": "1906"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Luth & Roséns Elektr AB",
+                "industry": "Electrical engineering",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "ASEA",
+                "industry": "Electrical engineering",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Assistant",
+                "workplace": "KTH (Royal Institute of Technology)",
+                "industry": "Academia",
+                "start_date": "1939"
+            }
+        ]
+    }
+}

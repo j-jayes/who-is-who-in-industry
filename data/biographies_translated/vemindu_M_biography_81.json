@@ -1,0 +1,178 @@
+{
+    "original": "MATTON, Emil Henrik, Disponent, Staffanstorp, f Lund 28/2 96 av kont.ch G E M o Anna Lennmalm, gm Margareta Lindau. Studex NReal Sthlm 15, KTH (kemi) 15—18, studieresa t USA 26. Anst v Sv Sockerfabr AB sed. 19, varav ss kem v sockerfabr i Hököpinge 19—21, i Staffanstorp 21—26, ass v sockerfabr i Kävlinge 27—29, v raffinaderiet i Lkrona 29—31, disp v sockerfabr i Svedala 31—36, v sockerfabr i Staffanstorp 36—44 samt v Landskrona raffinaderi sed. 44.",
+    "translated": "MATTON, Emil Henrik, Manager, Staffanstorp, b. Lund 28/2 1896, son of accountant G.E.M and Anna Lennmalm, married to Margareta Lindau. Graduated from NReal Sthlm ('Stockholm Technical College') in 1915, studied chemistry at KTH ('Royal Institute of Technology') from 1915 to 1918, took a study trip to the USA in 1926. Employed at Sv Sockerfabr AB ('Swedish Sugar Factory') since 1919, including as a chemist at the sugar factory in Hököpinge from 1919 to 1921, in Staffanstorp from 1921 to 1926, as an assistant at the sugar factory in Kävlinge from 1927 to 1929, at the refinery in Landskrona from 1929 to 1931, as a manager at the sugar factory in Svedala from 1931 to 1936, at the sugar factory in Staffanstorp from 1936 to 1944, and at the Landskrona refinery since 1944.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Emil Henrik Matton",
+        "jobTitle": "Manager",
+        "birthDate": "1896-02-28",
+        "birthPlace": "Lund",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "G.E.M Matton",
+                "jobTitle": "Accountant"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Lennmalm"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Margareta Lindau"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "NReal Sthlm",
+                "location": "Stockholm",
+                "endDate": "1915"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "KTH",
+                "description": "Royal Institute of Technology",
+                "location": "Stockholm",
+                "startDate": "1915",
+                "endDate": "1918",
+                "courseType": "Chemistry"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Sv Sockerfabr AB"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Sv Sockerfabr AB"
+                },
+                "startDate": "1919",
+                "roleName": "Chemist",
+                "location": "Hököpinge",
+                "endDate": "1921"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Sv Sockerfabr AB"
+                },
+                "startDate": "1921",
+                "roleName": "Manager",
+                "location": "Staffanstorp",
+                "endDate": "1926"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Sv Sockerfabr AB"
+                },
+                "startDate": "1927",
+                "roleName": "Assistant",
+                "location": "Kävlinge",
+                "endDate": "1929"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Refinery in Landskrona"
+                },
+                "startDate": "1929",
+                "roleName": "Manager",
+                "endDate": "1931"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Sv Sockerfabr AB"
+                },
+                "startDate": "1931",
+                "roleName": "Manager",
+                "location": "Svedala",
+                "endDate": "1936"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Sv Sockerfabr AB"
+                },
+                "startDate": "1936",
+                "roleName": "Manager",
+                "location": "Staffanstorp",
+                "endDate": "1944"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Landskrona refinery"
+                },
+                "startDate": "1944",
+                "roleName": "Manager"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Manager",
+                "workplace": "Staffanstorp",
+                "industry": "Sugar Manufacturing",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Chemist",
+                "workplace": "Hököpinge Sugar Factory",
+                "industry": "Sugar Manufacturing",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Chemist",
+                "workplace": "Staffanstorp Sugar Factory",
+                "industry": "Sugar Manufacturing",
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Assistant",
+                "workplace": "Kävlinge Sugar Factory",
+                "industry": "Sugar Manufacturing",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Landskrona Refinery",
+                "industry": "Sugar Refining",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Svedala Sugar Factory",
+                "industry": "Sugar Manufacturing",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Staffanstorp Sugar Factory",
+                "industry": "Sugar Manufacturing",
+                "start_date": "1936"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Landskrona Refinery",
+                "industry": "Sugar Refining",
+                "start_date": "1944"
+            }
+        ]
+    }
+}
