@@ -1,0 +1,138 @@
+{
+    "original": "JOHANSSON, Tor Joakim, Kamrer, Hovmantorp, f Hovmantorp 30/9 93 av hemm.äg J F T J o Carolina Danielsson. Mariannelunds Prakt Sk, korpralsk v I l, Filip Holm-qvists Hdlsinst, årskurs i hdlsskis högre avd. Anst v Svea livg 15—17, AS for Kemisk Industri i Kastrup Danm 19—20, AB Bergdala Glasbruk i Hovmantorp sed. 22. Led av tax.-nmdn, kommunalflm o inkvarteringsnmd, ombud v mantalsskrivn. Resor: Danm 14 o 19— 20, Tyskl o Danm 27, Danm, Tyskl o Holl 31.",
+    "translated": "JOHANSSON, Tor Joakim, Accountant, Hovmantorp, born in Hovmantorp on September 30, 1893, to home owners J F T J and Carolina Danielsson. Completed Mariannelund Practical School, served as a corporal in the First Infantry Regiment, worked at Filip Holm-qvist Trading Institution, completed a commercial school's higher department. Employed at Svea Life Guard from 1915 to 1917, worked at AS for Kemisk Industri in Kastrup, Denmark from 1919 to 1920, and has been employed at AB Bergdala Glassworks in Hovmantorp since 1922. Serves as a member of the tax committee, the municipal film committee, and the accommodation committee, and as a representative of the population registration office. Traveled to Denmark in 1914 and from 1919 to 1920, to Germany and Denmark in 1927, and to Denmark, Germany, and the Netherlands in 1931.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Tor Joakim Johansson",
+        "jobTitle": "Accountant",
+        "birthDate": "1893-09-30",
+        "birthPlace": "Hovmantorp, Sweden",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "J F T J"
+            },
+            {
+                "@type": "Person",
+                "name": "Carolina Danielsson"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Mariannelunds Praktiska Skola"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Filip Holm-qvists Handelsinstitut"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Commercial School"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "Svea Life Guard",
+                "startDate": "1915",
+                "endDate": "1917"
+            },
+            {
+                "@type": "Organization",
+                "name": "AS for Kemisk Industri",
+                "location": "Kastrup, Denmark",
+                "startDate": "1919",
+                "endDate": "1920"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Bergdala Glasbruk",
+                "location": "Hovmantorp, Sweden",
+                "startDate": "1922"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Tax Committee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Municipal Film Committee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Accommodation Committee"
+            }
+        ],
+        "hasOccupation": {
+            "@type": "Occupation",
+            "name": "Tax Consultant"
+        },
+        "traveled": [
+            {
+                "@type": "Place",
+                "name": "Denmark",
+                "startDate": "1914"
+            },
+            {
+                "@type": "Place",
+                "name": "Denmark",
+                "startDate": "1919",
+                "endDate": "1920"
+            },
+            {
+                "@type": "Place",
+                "name": "Germany",
+                "startDate": "1927"
+            },
+            {
+                "@type": "Place",
+                "name": "Netherlands",
+                "startDate": "1931"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Accountant",
+                "workplace": "Hovmantorp",
+                "industry": null,
+                "start_date": null
+            },
+            {
+                "occupational_title": "Corporal (First Infantry Regiment)",
+                "workplace": null,
+                "industry": "Military",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Filip Holm-qvist Trading Institution",
+                "workplace": null,
+                "industry": "Trade",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Svea Life Guard",
+                "workplace": null,
+                "industry": "Military",
+                "start_date": "1915"
+            },
+            {
+                "occupational_title": "AS for Kemisk Industri",
+                "workplace": "Kastrup, Denmark",
+                "industry": "Chemical Industry",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "AB Bergdala Glassworks",
+                "workplace": "Hovmantorp",
+                "industry": "Glass Manufacturing",
+                "start_date": "1922"
+            }
+        ]
+    }
+}

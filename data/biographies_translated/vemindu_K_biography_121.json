@@ -1,0 +1,223 @@
+{
+    "original": "KLINTON, Hilmer August, Fiskhamnsdi-rektör, Göteborg, f Gbg 30/10 79 av maskinist A Nilsson o Josefina Gädda, gm Ebba Jonsson. Elem.lärov, styrm.ex 98, sjökapt.ex 00; ulöjtn Kgl FI res 01, löjtn 09. Prakt sv o eng segelfart 94—97, styrm o befälh Red AB Sv Lloyd 02—14, hamnfogde Gbg 14—17, fisk-hamnsdir sed. 17. Ag »Klintebacken», Killinge-holmen, Billdal. Led o fd ordf Gbgs Fart.-Befälh Frn, stift, styr.led o mångår sekr Gamla Maj-Pojkars frb, led o fd styr.suppl Sjö-kapt:as i Gbg pens.kassa. Resor: Und sjö-manstid t Nord- o Sydam, Ostind, Medelhav o fi pl i Eur, stud.res t öl fiskhamn i Engl o på Kont 28. Av trycket: »Gbgs Stads Fiskhamn 10—35», jub.skr: »Utdr ur Gbgs Fart-Befh Skeppsdagbok». RVO; Naut Frn, Sjö-mannasällsk, Gbgs stad tjm.frb, Biolog Frn; ExöM Odd Fellow, Göta Coldinu. Hobbies: Marin- o porträttmålning, segling.",
+    "translated": "KLINTON, Hilmer August, Fishery Harbour Director, Gothenburg, b. Gothenburg 30/10 1879, son of machinist A Nilsson and Josefina Gädda, m. Ebba Jonsson. Elementary school, steering exam 1898, ship captain exam 1900; sub-lieutenant Royal Navy reserve 1901, lieutenant 1909. Practical training in Swedish and English sailing 1894-1897, steering and commanding officer Red AB Sv Lloyd 1902-1914, port officer Gothenburg 1914-1917, fishery harbour director since 1917. Owned \"Klintebacken\" estate, Killingeholmen, Billdal. Member and former chairman of Gothenburg Sailors Association, board member and longtime secretary of Old May Boys Association, member and former board substitute of Ship Captains' Pension Fund in Gothenburg. Travels: Extensive seafaring in North and South America, the East Indies, the Mediterranean, and various European ports, study trips to fishing harbors in England and on the continent in 1928. Published works: \"Gothenburg City Fishery Harbour 1910-1935,\" anniversary book: \"Extracts from Gothenburg Sailors' Association Ship Diary.\" Recipient of the Royal Order of Vasa; Member of the Navigation Association, the Seafarers' Society, Gothenburg city employees' association, the Biological Society; Odd Fellow, Göta Coldinu. Hobbies: Maritime and portrait painting, sailing.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Hilmer August Klinton",
+        "birthDate": "1879-10-30",
+        "birthPlace": "Gothenburg, Sweden",
+        "description": "Fishery Harbour Director",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "A Nilsson"
+            },
+            {
+                "@type": "Person",
+                "name": "Josefina Gädda"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ebba Jonsson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "Elementary School"
+            }
+        ],
+        "occupation": [
+            {
+                "@type": "Occupation",
+                "name": "Steering Exam",
+                "startDate": "1898"
+            },
+            {
+                "@type": "Occupation",
+                "name": "Ship Captain Exam",
+                "startDate": "1900"
+            },
+            {
+                "@type": "Occupation",
+                "name": "Sub-Lieutenant",
+                "startDate": "1901",
+                "endDate": "1909",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Royal Navy Reserve"
+                }
+            },
+            {
+                "@type": "Occupation",
+                "name": "Lieutenant",
+                "startDate": "1909",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Royal Navy"
+                }
+            },
+            {
+                "@type": "Occupation",
+                "name": "Practical Training in Swedish and English Sailing",
+                "startDate": "1894",
+                "endDate": "1897"
+            },
+            {
+                "@type": "Occupation",
+                "name": "Steering and Commanding Officer",
+                "startDate": "1902",
+                "endDate": "1914",
+                "memberOf": [
+                    {
+                        "@type": "Organization",
+                        "name": "Red AB Sv Lloyd"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "Gothenburg Sailors Association"
+                    }
+                ]
+            },
+            {
+                "@type": "Occupation",
+                "name": "Port Officer",
+                "startDate": "1914",
+                "endDate": "1917",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Gothenburg Port Authority"
+                }
+            },
+            {
+                "@type": "Occupation",
+                "name": "Fishery Harbour Director",
+                "startDate": "1917",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Gothenburg Fishery Harbour"
+                }
+            }
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Billdal",
+            "addressCountry": "Sweden"
+        },
+        "affiliation": [
+            {
+                "@type": "Organization",
+                "name": "Ship Captains' Pension Fund in Gothenburg"
+            },
+            {
+                "@type": "Organization",
+                "name": "Navigation Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Seafarers' Society"
+            },
+            {
+                "@type": "Organization",
+                "name": "Gothenburg City Employees' Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Biological Society"
+            },
+            {
+                "@type": "Organization",
+                "name": "Odd Fellow"
+            },
+            {
+                "@type": "Organization",
+                "name": "Göta Coldinu"
+            }
+        ],
+        "hobbies": [
+            "Maritime Painting",
+            "Portrait Painting",
+            "Sailing"
+        ],
+        "travelHistory": [
+            {
+                "@type": "TravelAction",
+                "fromLocation": "Gothenburg, Sweden",
+                "toLocation": [
+                    "North America",
+                    "South America",
+                    "East Indies",
+                    "Mediterranean",
+                    "Various European Ports"
+                ]
+            },
+            {
+                "@type": "TravelAction",
+                "purpose": "Study",
+                "toLocation": [
+                    "Fishing Harbors in England",
+                    "Continental Europe"
+                ],
+                "startDate": "1928"
+            }
+        ],
+        "publishedWorks": [
+            {
+                "@type": "Book",
+                "name": "Gothenburg City Fishery Harbour 1910-1935"
+            },
+            {
+                "@type": "Book",
+                "name": "Extracts from Gothenburg Sailors' Association Ship Diary",
+                "description": "Anniversary Book"
+            }
+        ],
+        "awards": [
+            {
+                "@type": "Order",
+                "name": "Royal Order of Vasa"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Sub-lieutenant",
+                "workplace": "Royal Navy reserve",
+                "industry": "Military",
+                "start_date": "1901"
+            },
+            {
+                "occupational_title": "Lieutenant",
+                "workplace": "Royal Navy reserve",
+                "industry": "Military",
+                "start_date": "1909"
+            },
+            {
+                "occupational_title": "Practical Sailor",
+                "workplace": "Swedish and English sailing",
+                "industry": "Maritime",
+                "start_date": "1894"
+            },
+            {
+                "occupational_title": "Steering and Commanding Officer",
+                "workplace": "Red AB Sv Lloyd",
+                "industry": "Maritime",
+                "start_date": "1902"
+            },
+            {
+                "occupational_title": "Port Officer",
+                "workplace": "Gothenburg",
+                "industry": "Maritime",
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Fishery Harbour Director",
+                "workplace": "Gothenburg",
+                "industry": "Maritime",
+                "start_date": "1917"
+            }
+        ]
+    }
+}

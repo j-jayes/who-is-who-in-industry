@@ -1,0 +1,116 @@
+{
+    "original": "JOSEFSSON, Fredrik Albert Henning, Köpman, Värnamo, f Nye, Jönkp l, 89 av J M Josefsson o Maria Danielsson, gm Elin Johnsson. Nrkps högre hdlsinst 12. Eg rör i Kråks-hult 13—14, i Karlstorp 15—16, deläg fma Josefsson &amp; Johnsson Bodafors 17—35, övert fma C E Johanssons Manuf.aff Värnamo 35, driv nu dna und fma Albert Josefsson. Ag Glömminge Säteri, N Solberga, 30—35.",
+    "translated": "JOSEFSSON, Fredrik Albert Henning, Merchant, Värnamo, born in Nye, Jönkp l, 1889, to J M Josefsson and Maria Danielsson, married to Elin Johnsson. Completed higher commercial education in Nrkps in 1912. I worked in Kråks-hult from 1913-1914, in Karlstorp from 1915-1916, became a partner in the company Josefsson &amp; Johnsson Bodafors from 1917-1935, took over the company C E Johanssons Manuf.aff Värnamo in 1935, currently running it under the name Albert Josefsson. Had a farm in Glömminge Säteri, N Solberga, from 1930-1935.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Fredrik Albert Henning Josefsson",
+        "jobTitle": "Merchant",
+        "birthDate": "1889",
+        "birthPlace": "Nye, Jönkp l",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "J M Josefsson",
+                "jobTitle": "Unknown"
+            },
+            {
+                "@type": "Person",
+                "name": "Maria Danielsson",
+                "jobTitle": "Unknown"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Elin Johnsson",
+            "jobTitle": "Unknown"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "higher commercial education",
+            "educationalLevel": "Unknown",
+            "educationalCredentialAwarded": "Nrkps",
+            "yearAwarded": "1912"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Josefsson & Johnsson Bodafors",
+                "startDate": "1917",
+                "endDate": "1935",
+                "jobTitle": "Partner"
+            },
+            {
+                "@type": "Organization",
+                "name": "C E Johanssons Manuf.aff Värnamo",
+                "startDate": "1935",
+                "jobTitle": "Owner"
+            }
+        ],
+        "hasOccupation": {
+            "@type": "Organization",
+            "name": "Albert Josefsson",
+            "jobTitle": "Unknown"
+        },
+        "address": [
+            {
+                "@type": "PostalAddress",
+                "addressLocality": "Kråks-hult",
+                "startDate": "1913",
+                "endDate": "1914"
+            },
+            {
+                "@type": "PostalAddress",
+                "addressLocality": "Karlstorp",
+                "startDate": "1915",
+                "endDate": "1916"
+            },
+            {
+                "@type": "PostalAddress",
+                "addressLocality": "Glömminge Säteri, N Solberga",
+                "startDate": "1930",
+                "endDate": "1935"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Värnamo",
+                "industry": "Retail",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Assistant",
+                "workplace": "Kråks-hult",
+                "industry": "Unknown",
+                "start_date": "1913"
+            },
+            {
+                "occupational_title": "Assistant",
+                "workplace": "Karlstorp",
+                "industry": "Unknown",
+                "start_date": "1915"
+            },
+            {
+                "occupational_title": "Partner",
+                "workplace": "Josefsson & Johnsson Bodafors",
+                "industry": "Manufacturing",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "C E Johanssons Manuf.aff Värnamo",
+                "industry": "Manufacturing",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "Albert Josefsson",
+                "industry": "Manufacturing",
+                "start_date": ""
+            }
+        ]
+    }
+}

@@ -1,0 +1,160 @@
+{
+    "original": "JOHNSON, Sven Peter, Direktör, Örebro, f Väsby, Malmöh l, 19/12 74 av fabr J Svensson o Bengta Nilsson, gm Seidi Larsson. Folksk. Anst i lantaff 89—95, på kont i Eksjö 96— 99. Gr pappersvarufabr o partiaff und fma Johnson &amp; Hill öbr 99, ens inneh dna sed. 08, vkst dir o ag dta AB sed. 38, ag o vkst dir AB Laxå Pappersbr 38. Ag fastigh i öbr o Klockarhyttan Gård Lerbäck. Styr.led o deläg Rockhammars Br AB, styr.led Sv Pappers-grosshdlsfrb, Sv Påsfabrik.frn, Sv Kuvertfabrik, Evang Fosterlandsstift Sthlm, Sv Missionen i Kina mfl. Resor: Danm, Norge, Tyskl, Österr, Frankr, Schweiz, Engl, Faro :a, Island. Hobbies: Arbetet o lantlivet.",
+    "translated": "JOHNSON, Sven Peter, Director, Örebro, f Väsby, Malmö county, 19/12 1874. Son of J Svensson, a factory worker, and Bengta Nilsson. Married to Seidi Larsson. Attended primary school. Employed in agriculture from 1889 to 1895, and in an office in Eksjö from 1896 to 1899. Became owner of a paper goods factory and party supply store under the name Johnson & Hill in 1899, sole proprietor since 1908. Director and agent for AB since 1938, and director and agent for AB Laxå Pappersbr from 1938. Owned real estate in Örebro and Klockarhyttan Gård Lerbäck. Board member and part-owner of Rockhammars Br AB, board member of the Swedish Paper Wholesalers Association, the Swedish Bag Factory, the Swedish Envelope Factory, Evangelical Patriotic Foundation Stockholm, the Swedish Mission in China, and others. Traveled to Denmark, Norway, Germany, Austria, France, Switzerland, England, Faroe Islands, and Iceland. Hobbies: work and country life.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Sven Peter Johnson",
+        "jobTitle": "Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Örebro"
+        },
+        "birthDate": "1874-12-19",
+        "birthPlace": "Väsby, Malmö County",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "J Svensson",
+                "jobTitle": "Factory Worker"
+            },
+            {
+                "@type": "Person",
+                "name": "Bengta Nilsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Seidi Larsson"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Folksk",
+            "startDate": "1889",
+            "endDate": "1895"
+        },
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "Lantaff",
+                "startDate": "1889",
+                "endDate": "1895"
+            },
+            {
+                "@type": "Organization",
+                "name": "Office in Eksjö",
+                "startDate": "1896",
+                "endDate": "1899"
+            },
+            {
+                "@type": "Organization",
+                "name": "Johnson & Hill",
+                "startDate": "1899",
+                "endDate": "1908",
+                "employee": "Sole Proprietor"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB",
+                "startDate": "1938",
+                "employee": "Director and Agent"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Laxå Pappersbr",
+                "startDate": "1938",
+                "employee": "Director and Agent"
+            }
+        ],
+        "owns": [
+            {
+                "@type": "Place",
+                "name": "Örebro"
+            },
+            {
+                "@type": "Place",
+                "name": "Klockarhyttan Gård Lerbäck"
+            }
+        ],
+        "affiliation": [
+            {
+                "@type": "Organization",
+                "name": "Rockhammars Br AB",
+                "roleName": "Board Member",
+                "roleAffiliation": "Part-Owner"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Paper Wholesalers Association",
+                "roleName": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Bag Factory",
+                "roleName": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Envelope Factory",
+                "roleName": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Evangelical Patriotic Foundation Stockholm",
+                "roleName": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Mission in China",
+                "roleName": "Board Member"
+            }
+        ],
+        "knowsAbout": "Swedish family history",
+        "travelHistory": [
+            "Denmark",
+            "Norway",
+            "Germany",
+            "Austria",
+            "France",
+            "Switzerland",
+            "England",
+            "Faroe Islands",
+            "Iceland"
+        ],
+        "hobbies": "Work and country life"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Farmhand",
+                "workplace": "Lantaff",
+                "industry": "Agriculture",
+                "start_date": "1889"
+            },
+            {
+                "occupational_title": "Office Worker",
+                "workplace": "Eksjö",
+                "industry": "Unknown",
+                "start_date": "1896"
+            },
+            {
+                "occupational_title": "Owner of Paper Goods Factory and Party Supply Store",
+                "workplace": "Johnson & Hill",
+                "industry": "Manufacturing",
+                "start_date": "1899"
+            },
+            {
+                "occupational_title": "Director and Agent",
+                "workplace": "AB",
+                "industry": "Unknown",
+                "start_date": "1938"
+            },
+            {
+                "occupational_title": "Director and Agent",
+                "workplace": "AB Laxå Pappersbr",
+                "industry": "Paper Manufacturing",
+                "start_date": "1938"
+            }
+        ]
+    }
+}

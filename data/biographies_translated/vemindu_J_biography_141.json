@@ -1,0 +1,110 @@
+{
+    "original": "JOHANSSON, Janne Paul, Disponent, Åstorp, f örkelljunga 18/10 93 av fabr J J o Hilda Wittsell, gm Elsa Petersen. Realex 08, hdlsgymn 09. Anst v J Johanssons Träförädl.-fabr 09, styr.ordf o disp h ds eftr 37 Ji-Te AB Åstorp. Ordf byggn.nmd, led munic.flm. Resor: Danm, Holl, Polen, Tjeckoslov, Tyskl upprep ggr 20—39.",
+    "translated": "JOHANSSON, Janne Paul, Manager, Åstorp, formerly from Örkelljunga, born on October 18, 1893, to the factory worker J J and Hilda Wittsell, married to Elsa Petersen. Completed Realexamination in 1908 and commercial secondary school in 1909. Employed at J Johansson's Wood Processing Factory in 1909, later becoming the Chairman of the Board and Manager from 1937 at Ji-Te AB in Åstorp. Chairman of the Building Committee and member of the Municipal Film Society. Traveled multiple times to Denmark, the Netherlands, Poland, Czechoslovakia, and Germany between 1920 and 1939.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Janne Paul Johansson",
+        "jobTitle": "Manager",
+        "birthDate": "1893-10-18",
+        "birthPlace": "Örkelljunga, Sweden",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "J J Johansson",
+                "jobTitle": "Factory Worker"
+            },
+            {
+                "@type": "Person",
+                "name": "Hilda Wittsell"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Elsa Petersen"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Realexamination",
+                "dateIssued": "1908"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Commercial Secondary School",
+                "dateIssued": "1909"
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "J Johansson's Wood Processing Factory",
+            "startDate": "1909",
+            "endDate": "1937"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Ji-Te AB",
+                "startDate": "1937"
+            },
+            {
+                "@type": "Organization",
+                "name": "Building Committee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Municipal Film Society"
+            }
+        ],
+        "traveledTo": [
+            "Denmark",
+            "Netherlands",
+            "Poland",
+            "Czechoslovakia",
+            "Germany"
+        ],
+        "travelDates": [
+            {
+                "location": "Denmark",
+                "startDate": "1920",
+                "endDate": "1939"
+            },
+            {
+                "location": "Netherlands",
+                "startDate": "1920",
+                "endDate": "1939"
+            },
+            {
+                "location": "Poland",
+                "startDate": "1920",
+                "endDate": "1939"
+            },
+            {
+                "location": "Czechoslovakia",
+                "startDate": "1920",
+                "endDate": "1939"
+            },
+            {
+                "location": "Germany",
+                "startDate": "1920",
+                "endDate": "1939"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Disponent",
+                "workplace": "Johanssons Träförädl.-fabr",
+                "industry": "Wood Processing",
+                "start_date": "1909"
+            },
+            {
+                "occupational_title": "Chairman of the Board and Manager",
+                "workplace": "Ji-Te AB",
+                "industry": "Unknown",
+                "start_date": "1937"
+            }
+        ]
+    }
+}

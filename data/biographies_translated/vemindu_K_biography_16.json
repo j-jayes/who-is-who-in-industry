@@ -1,0 +1,190 @@
+{
+    "original": "KABLBOBG, Olof Gottfrid Fredrik, Direktör, Alingsås, f Aas 3/5 87 av F G Karlborg o Karolina Helge, gm Elin Johansson. Hdlssk. Anst fma A Melin Aas 02—10, Cap Chokladfabr Gbg 10—18, inneh Nord Suchard AB Aas 19—38, vkst dir o styr.led Sv Suchard AB Aas sed. 39. Ag fastigh Villa Nornan. Led Aas fattigv.styr, socialvårdsnmd, arb.lösh.kté, yr-kessk. Styr.led Silfa Fabr AB, Aas Fastigh AB, Aas Fabr- o Hantvksfrn; Ordf Aas Friv Skarpskyttefrn, Aas Skyttekrets, v. ordf Älvsb reg kamratfrn, led Aas hv kretsnämnd, styr.led Västg-Dals Skyttefrb mfl. Västg-Dals Skyttefrbs ftjSM, Aas Friv Skarpskyttefrns ftjGM, Aas Skyttekrets GM, HÅrtME, skytte-gm mfl; Götiska frb. Hobby: Skytte.",
+    "translated": "KABLBOBG, Olof Gottfrid Fredrik, Director, Alingsås, born in Aas on May 3rd, 1887, to parents F G Karlborg and Karolina Helge, married to Elin Johansson. Completed primary education. Employed at A Melin in Aas from 1902 to 1910, then at Cap Chokladfabr in Gothenburg from 1910 to 1918. Became owner of Nord Suchard AB in Aas from 1919 to 1938, later serving as Vice Director and on the board of directors of Sv Suchard AB in Aas from 1939. Owns the property Villa Nornan. Serves as a board member of Aas Poor Relief, Social Welfare Committee, Unemployment Committee, and Vocational School. Also serves as a board member of Silfa Fabr AB, Aas Fastigh AB, Aas Fabr- o Hantvksfrn; Chairman of Aas Volunteer Sharpshooting Association, Aas Shooting District, Vice Chairman of Älvsb Regiment Comrades Association, board member of Aas Military District Council, and board member of the Västg-Dals Shooting Federation, among others. Has won the Västg-Dals Shooting Federation Swedish Championship, the Aas Volunteer Sharpshooting Association Gold Medal, the Aas Shooting District Gold Medal, the HÅrtME award, and other shooting competitions organized by Götiska Association. Hobby: Shooting.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Olof Gottfrid Fredrik Kablbobg",
+        "jobTitle": "Director",
+        "birthDate": "1887-05-03",
+        "birthPlace": "Aas",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "F G Karlborg"
+            },
+            {
+                "@type": "Person",
+                "name": "Karolina Helge"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Elin Johansson"
+        },
+        "educationLevel": "Completed primary education",
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "A Melin",
+                "startDate": "1902",
+                "endDate": "1910"
+            },
+            {
+                "@type": "Organization",
+                "name": "Cap Chokladfabr",
+                "startDate": "1910",
+                "endDate": "1918",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Gothenburg"
+                    }
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Nord Suchard AB",
+                "startDate": "1919",
+                "endDate": "1938",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Aas"
+                    }
+                },
+                "ownershipFundingInfo": "Owner"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sv Suchard AB",
+                "startDate": "1939",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Aas"
+                    }
+                },
+                "roles": [
+                    "Vice Director",
+                    "Board Member"
+                ]
+            }
+        ],
+        "owns": [
+            {
+                "@type": "Place",
+                "name": "Villa Nornan",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Alingsås"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Aas Poor Relief",
+                "roleName": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Social Welfare Committee",
+                "roleName": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Unemployment Committee",
+                "roleName": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Vocational School",
+                "roleName": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Silfa Fabr AB",
+                "roleName": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Aas Fastigh AB",
+                "roleName": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Aas Fabr- o Hantvksfrn",
+                "roleName": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Aas Volunteer Sharpshooting Association",
+                "roleName": "Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Aas Shooting District",
+                "roleName": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Älvsb Regiment Comrades Association",
+                "roleName": "Vice Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Aas Military District Council",
+                "roleName": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Västg-Dals Shooting Federation",
+                "roleName": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Götiska Association",
+                "roleName": "Board Member"
+            }
+        ],
+        "hobbies": "Shooting",
+        "awards": [
+            "Västg-Dals Shooting Federation Swedish Championship",
+            "Aas Volunteer Sharpshooting Association Gold Medal",
+            "Aas Shooting District Gold Medal",
+            "HÅrtME award"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Employee",
+                "workplace": "A Melin",
+                "industry": "Unknown",
+                "start_date": "1902"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Cap Chokladfabr",
+                "industry": "Chocolate manufacturing",
+                "start_date": "1910"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "Nord Suchard AB",
+                "industry": "Chocolate manufacturing",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Vice Director",
+                "workplace": "Sv Suchard AB",
+                "industry": "Chocolate manufacturing",
+                "start_date": "1939"
+            }
+        ]
+    }
+}

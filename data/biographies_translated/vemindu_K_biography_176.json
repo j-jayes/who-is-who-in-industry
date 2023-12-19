@@ -1,0 +1,42 @@
+{
+    "original": "KUGELBERG, Carl Harald, Direktör, Stockholm, f Sthlm 22/11 80, vkst dir Aug Holts Gulddragerifabriks AB, grund 85, AB 09.",
+    "translated": "KUGELBERG, Carl Harald, Director, Stockholm, b Stlm 22/11 80, mng dir Aug Holt's Gold Jewelry Factory AB, founded in 85, AB 09.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Harald Kugelberg",
+        "jobTitle": "Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "birthDate": "1880-11-22",
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Aug Holt's Gold Jewelry Factory AB",
+                "foundingDate": "1885"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB 09"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Vice Director",
+                "workplace": "Aug Holt's Gold Jewelry Factory AB",
+                "industry": "Gold Jewelry Manufacturing",
+                "start_date": 1885
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "Aug Holt's Gold Jewelry Factory AB",
+                "industry": "Gold Jewelry Manufacturing",
+                "start_date": 1909
+            }
+        ]
+    }
+}

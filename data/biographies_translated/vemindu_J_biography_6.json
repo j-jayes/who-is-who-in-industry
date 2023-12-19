@@ -1,0 +1,69 @@
+{
+    "original": "JACOBSON, Gunnar, överingenjör, Göteborg, f Gunnarsnäs, Dalsl, 8/8 83. CTI 09. Eft anst i Sthlm ing v Bohus Mek Verkst AB, övering, ch.ass o styr.led där. En av gr av Gbgs friv motorbåtsklubb, led Gbgs motorbåtssällsk. Frimurare. Odd Fellow, Dalslands gille. Hobby: Motorbåtssport.",
+    "translated": "Translation: JACOBSON, Gunnar, Chief Engineer, Gothenburg, b. Gunnarsnäs, Dalsland, 8/8 83. Completed Technical College in 1909. Previously employed in Stockholm in the engineering department of Bohus Mechanical Workshop AB, promoted to Chief Engineer and served on the board of directors. One of the founders of Gothenburg's voluntary motorboat club, and a member of Gothenburg's motorboat association. Freemason. Member of the Odd Fellow society and the Dalsland chapter. Hobby: Motorboat sports.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Gunnar Jacobson",
+        "jobTitle": "Chief Engineer",
+        "birthPlace": "Gunnarsnäs, Dalsland, Sweden",
+        "birthDate": "1883-08-08",
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Technical College",
+            "dateIssued": "1909"
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Bohus Mechanical Workshop AB",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Stockholm",
+                "addressCountry": "Sweden"
+            }
+        },
+        "memberOf": [
+            {
+                "@type": "SportsClub",
+                "name": "Gothenburg's Voluntary Motorboat Club"
+            },
+            {
+                "@type": "Organization",
+                "name": "Gothenburg's Motorboat Association"
+            },
+            {
+                "@type": "SportsOrganization",
+                "name": "Frimurare"
+            },
+            {
+                "@type": "Organization",
+                "name": "Odd Fellow"
+            },
+            {
+                "@type": "Organization",
+                "name": "Dalsland Chapter of Odd Fellow"
+            },
+            {
+                "@type": "SportsClub",
+                "name": "Dalslands gille"
+            }
+        ],
+        "hobby": "Motorboat sports"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Chief Engineer",
+                "workplace": "Bohus Mechanical Workshop AB",
+                "industry": "Engineering",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Chief Engineer and Board Member",
+                "workplace": "Bohus Mechanical Workshop AB",
+                "industry": "Engineering",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

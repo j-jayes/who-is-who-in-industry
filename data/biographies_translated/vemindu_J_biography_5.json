@@ -1,0 +1,138 @@
+{
+    "original": "JACOBSON, Carl-Herbert, Civilingenjör, Ålsten, f Sthlm 3/3 13 av dir Carl J o Clara Johansson, gm Irma Kjällström. Studex 31, KTH (kemi) 36. Anst: AB Färgfabr Skandia 36, vkst dir där 42, tillika vkst dir i Hammarby Bakelit Ind AB 41. Styr.led i dsa föret samt i AB J R Broman &amp; Co. Resor: Tyskl 33, Frankr, Holl, Belg 34, USA 36.",
+    "translated": "JACOBSON, Carl-Herbert, MSc in Engineering, Ålsten, born in Stockholm on 3rd of March, 1913, son of director Carl J and Clara Johansson, married to Irma Kjällström. Graduated in 1931, from KTH (Royal Institute of Technology) specializing in chemistry in 1936. Employed at AB Färgfabr Skandia in 1936, promoted to managing director in 1942. Also serving as managing director at Hammarby Bakelit Ind AB since 1941. Board member in both mentioned companies and AB J R Broman & Co. Traveled to Germany in 1933, France, the Netherlands, and Belgium in 1934, and the United States in 1936.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl-Herbert Jacobson",
+        "givenName": "Carl-Herbert",
+        "familyName": "Jacobson",
+        "birthDate": "1913-03-03",
+        "birthPlace": "Stockholm",
+        "father": {
+            "@type": "Person",
+            "name": "Carl J"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Clara Johansson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Irma Kjällström"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "MSc",
+                "educationalLevel": "Master's",
+                "startDate": "1931",
+                "endDate": "1936",
+                "alumniOf": {
+                    "@type": "CollegeOrUniversity",
+                    "name": "KTH (Royal Institute of Technology)"
+                },
+                "specialization": {
+                    "@type": "Chemistry"
+                }
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1936",
+                "endDate": "1942",
+                "roleName": "Managing Director",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Färgfabr Skandia"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1941",
+                "roleName": "Managing Director",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Hammarby Bakelit Ind AB"
+                }
+            }
+        ],
+        "boardMemberIn": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Board Member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Färgfabr Skandia"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Board Member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Hammarby Bakelit Ind AB"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Board Member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB J R Broman & Co"
+                }
+            }
+        ],
+        "hasOccupation": [
+            {
+                "@type": "Country",
+                "name": "Germany"
+            },
+            {
+                "@type": "Country",
+                "name": "France"
+            },
+            {
+                "@type": "Country",
+                "name": "Netherlands"
+            },
+            {
+                "@type": "Country",
+                "name": "Belgium"
+            },
+            {
+                "@type": "Country",
+                "name": "United States"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "MSc in Engineering",
+                "workplace": "KTH (Royal Institute of Technology)",
+                "industry": "Education",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "AB Färgfabr Skandia",
+                "industry": "Chemical Manufacturing",
+                "start_date": "1936"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "AB Färgfabr Skandia",
+                "industry": "Chemical Manufacturing",
+                "start_date": "1942"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "Hammarby Bakelit Ind AB",
+                "industry": "Plastics Manufacturing",
+                "start_date": "1941"
+            }
+        ]
+    }
+}

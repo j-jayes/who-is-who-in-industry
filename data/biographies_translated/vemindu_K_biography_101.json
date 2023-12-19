@@ -1,0 +1,105 @@
+{
+    "original": "KJERRMAN, Hans Josef, Bergsingenjör, laboratoriechef, Fagersta, t Sthlm 31/3 95 av red.sekr F J Kj o förf:an Anna Wahlenberg, gm Aino Ståhlberg. Studex Whitl sam-sk Sthlm 14, KTH 14—19, avg.ex där 20. Anst v Laxå Bruks AB 21, lab.förest Hellefors Bruks AB, Hällefors, 22—28, stud v Techn Hochschule, Berlin-Charl.bg 24, lab.chef h Fa-gersta-koncernen, Fagersta, sed. 29. Av trycket: Div art publ i JKA. Led Sv Tekn.frn.",
+    "translated": "KJERRMAN, Hans Josef, Mining Engineer, Laboratory Manager, Fagersta, born in Stockholm on March 31, 1895, son of editor secretary F J Kj and author Anna Wahlenberg, married to Aino Ståhlberg. Graduated from Whitl secondary school in Stockholm in 1914, attended KTH (Royal Institute of Technology) from 1914 to 1919, obtained a degree in 1920. Employed by Laxå Bruks AB from 1921, laboratory supervisor at Hellefors Bruks AB, Hällefors, from 1922 to 1928, studied at the Technical University in Berlin-Charlottenburg in 1924, laboratory manager at Fagersta group in Fagersta since 1929. Published several articles in JKA (Journal of Chemical Analysis). Member of the Swedish Society of Technology.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Hans Josef Kjerrman",
+        "birthDate": "1895-03-31",
+        "birthPlace": "Stockholm, Sweden",
+        "description": "Mining Engineer, Laboratory Manager at Fagersta",
+        "spouse": {
+            "@type": "Person",
+            "name": "Aino Ståhlberg"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "F J Kj"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Wahlenberg"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Whitl Secondary School",
+                "location": "Stockholm, Sweden",
+                "endDate": "1914"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Royal Institute of Technology",
+                "location": "Stockholm, Sweden",
+                "startDate": "1914",
+                "endDate": "1919"
+            }
+        ],
+        "alumniOf": [
+            {
+                "@type": "University",
+                "name": "Royal Institute of Technology",
+                "location": "Stockholm, Sweden",
+                "startDate": "1914",
+                "endDate": "1919"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Laxå Bruks AB",
+                "startDate": "1921"
+            },
+            {
+                "@type": "Organization",
+                "name": "Hellefors Bruks AB",
+                "location": "Hällefors, Sweden",
+                "startDate": "1922",
+                "endDate": "1928"
+            },
+            {
+                "@type": "Organization",
+                "name": "Fagersta Group",
+                "location": "Fagersta, Sweden",
+                "startDate": "1929"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Society of Technology"
+            }
+        ],
+        "publication": [
+            {
+                "@type": "Article",
+                "name": "Journal of Chemical Analysis",
+                "publisher": "JKA"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Mining Engineer",
+                "workplace": "Laxå Bruks AB",
+                "industry": "Mining",
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Laboratory Supervisor",
+                "workplace": "Hellefors Bruks AB",
+                "industry": "Manufacturing",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Laboratory Manager",
+                "workplace": "Fagersta-koncernen",
+                "industry": "Manufacturing",
+                "start_date": "1929"
+            }
+        ]
+    }
+}

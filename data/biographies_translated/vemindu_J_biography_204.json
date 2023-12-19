@@ -1,0 +1,100 @@
+{
+    "original": "JOSEFSSON, Hildor Reinhold, Färghand-lare, Säter, f Teda s :n, Uppl, 22/11 96, gm Maria Andersson. Inneh Säters Färg- &amp; Kemikalieaffär. Ordf i Dalarnas Färghandl.frn. Stdsflm 30, led av fattigv.styr o hälsov.nmd 32, drätselk o inköpsnmd 34.",
+    "translated": "JOSEFSSON, Hildor Reinhold, Paint Retailer, Säter, born in Teda parish, Uppland, on November 22, 1896, married to Maria Andersson. Owner of Säters Paint and Chemical Store. Chairman of Dalarna's Paint Retailers Association. Member of the City Council since 1930. Also served as a member of the Poor Relief Board and Health Committee in 1932, and the Finance and Purchasing Committee in 1934.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Hildor Reinhold",
+        "familyName": "Josefsson",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Teda parish",
+                "addressRegion": "Uppland"
+            }
+        },
+        "birthDate": "1896-11-22",
+        "spouse": {
+            "@type": "Person",
+            "name": "Maria Andersson"
+        },
+        "occupation": [
+            {
+                "@type": "Person",
+                "name": "Paint Retailer"
+            },
+            {
+                "@type": "Organization",
+                "name": "Säters Paint and Chemical Store",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Säter"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Dalarna's Paint Retailers Association",
+                "roleName": "Chairman"
+            }
+        ],
+        "memberOfCityCouncil": {
+            "@type": "Organization",
+            "name": "City Council",
+            "startDate": "1930"
+        },
+        "servesOn": [
+            {
+                "@type": "Organization",
+                "name": "Poor Relief Board",
+                "startDate": "1932"
+            },
+            {
+                "@type": "Organization",
+                "name": "Health Committee",
+                "startDate": "1932"
+            },
+            {
+                "@type": "Organization",
+                "name": "Finance and Purchasing Committee",
+                "startDate": "1934"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Paint Retailer",
+                "workplace": "Säters Paint and Chemical Store",
+                "industry": "Retail",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Chairman of Dalarna's Paint Retailers Association",
+                "workplace": "Dalarna's Paint Retailers Association",
+                "industry": "Trade Association",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Member of the City Council",
+                "workplace": "Säter",
+                "industry": "Government",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Member of the Poor Relief Board and Health Committee",
+                "workplace": "Säter",
+                "industry": "Public Welfare",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Member of the Finance and Purchasing Committee",
+                "workplace": "Säter",
+                "industry": "Government",
+                "start_date": "1934"
+            }
+        ]
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "original": "JANSSON, Carl Algot, Civilingenjör, Tumba, f Kungsbacka 18/12 83, gm Mignon Jansson. Studex i Gbg, CTH (mek). Anst i STAB 0&amp;—32, i AB Sthlms Strumpfabr sed. 32, vkst dir o styr.led i sistn bolag samt i Fastigh AB Delta. Har varit bosatt i bl a Ryssl, Tyskl o USA.",
+    "translated": "JANSSON, Carl Algot, Civil Engineer, Tumba, born in Kungsbacka on December 18th, 1883, married to Mignon Jansson. Studied in Gothenburg, Chalmers University of Technology (mechanical engineering). Initially employed at STAB from 1900 to 1932, and then joined AB Stockholm's Stockings Factory as director and board member in 1932. Also held positions as executive director and on the board of Fastighets AB Delta. Has resided in countries such as Russia, Germany, and the USA.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Algot Jansson",
+        "givenName": "Carl Algot",
+        "familyName": "Jansson",
+        "jobTitle": "Civil Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Tumba"
+        },
+        "birthDate": "1883-12-18",
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Kungsbacka"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Mignon Jansson"
+        },
+        "alumniOf": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Gothenburg"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Chalmers University of Technology",
+                "department": "Mechanical Engineering"
+            }
+        ],
+        "occupation": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Employee",
+                "startDate": "1900-01-01",
+                "endDate": "1932-12-31",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "STAB"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Director",
+                "startDate": "1932-01-01",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Stockholm's Stockings Factory"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Board Member",
+                "startDate": "1932-01-01",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Stockholm's Stockings Factory"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Executive Director",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Fastighets AB Delta"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Board Member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Fastighets AB Delta"
+                }
+            }
+        ],
+        "sameAs": [
+            "https://www.example.com/person/carl-algot-jansson",
+            "https://www.linkedin.com/in/carl-algot-jansson"
+        ],
+        "residence": [
+            {
+                "@type": "Place",
+                "name": "Russia"
+            },
+            {
+                "@type": "Place",
+                "name": "Germany"
+            },
+            {
+                "@type": "Place",
+                "name": "USA"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Tumba",
+                "industry": "",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Employed at STAB",
+                "workplace": "STAB",
+                "industry": "",
+                "start_date": "1900"
+            },
+            {
+                "occupational_title": "Director and Board Member",
+                "workplace": "AB Stockholm's Stockings Factory",
+                "industry": "",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Executive Director and Board Member",
+                "workplace": "Fastighets AB Delta",
+                "industry": "",
+                "start_date": ""
+            }
+        ]
+    }
+}

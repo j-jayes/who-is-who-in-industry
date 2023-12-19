@@ -1,0 +1,56 @@
+{
+    "original": "JABBY, Carl, Disponent, Malmö, f Malmö 25/12 99, gm Eva Zandelin. Disp h AB Ekenberg &amp; Huldberg Malmö, gr 07. ProPstGM; Odd Fellow.",
+    "translated": "JABBY, Carl, Superintendent, Malmö, b. Malmö 25/12 99, m. Eva Zandelin. Superintendent at the company AB Ekenberg &amp; Huldberg Malmö, since 1907. ProPstGM (title), member of the Odd Fellow society.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Jabby",
+        "jobTitle": "Superintendent",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Malmö"
+        },
+        "birthDate": "1899-12-25",
+        "spouse": {
+            "@type": "Person",
+            "name": "Eva Zandelin"
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "AB Ekenberg & Huldberg Malmö"
+        },
+        "startDate": "1907",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "ProPstGM"
+            },
+            {
+                "@type": "Organization",
+                "name": "Odd Fellow"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Disponent",
+                "workplace": "AB Ekenberg & Huldberg Malmö",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Superintendent",
+                "workplace": "AB Ekenberg & Huldberg Malmö",
+                "industry": "Unknown",
+                "start_date": "1907"
+            },
+            {
+                "occupational_title": "ProPstGM (title)",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

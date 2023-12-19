@@ -1,0 +1,147 @@
+{
+    "original": "JANSSON, Gustav William, Direktör, Stockholm, f Örebro 23/4 79 av grhdl O J o Teekla. Wester, gm Ida Åbrink. Beskowska sk, Schartaus, prakt Tyskl, Engl, Frankr. Vkst dir AB Sv Korsettfabr, Jansson &amp; Co, Sthlm, sed. 02. Resor: Tyskl 95, Engl 96, Frankr 97. Hobbies: Jakt, fiske.",
+    "translated": "JANSSON, Gustav William, Director, Stockholm, b. Örebro 23/4 1879, son of the late Mr. O J and Teekla. Wester, m. Ida Åbrink. Attended Beskowska sk, Schartaus, studied practical German, English, and French. Became Managing Director of AB Sv Korsettfabr, Jansson & Co, Stockholm, since 1902. Travelled to Germany in 1895, England in 1896, and France in 1897. Hobbies include hunting and fishing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Gustav",
+        "additionalName": "William",
+        "familyName": "Jansson",
+        "jobTitle": "Managing Director",
+        "birthDate": "1879-04-23",
+        "birthPlace": "Örebro",
+        "deathDate": "1979-04-23",
+        "parents": [
+            {
+                "@type": "Person",
+                "givenName": "O J",
+                "familyName": "Jansson"
+            },
+            {
+                "@type": "Person",
+                "givenName": "Teekla",
+                "familyName": "Wester"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "givenName": "Ida",
+            "familyName": "Åbrink"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Beskowska sk"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Schartaus"
+            }
+        ],
+        "alumniOf": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "practical",
+                "credentialSubject": {
+                    "@type": "Thing",
+                    "name": "German"
+                }
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "practical",
+                "credentialSubject": {
+                    "@type": "Thing",
+                    "name": "English"
+                }
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "practical",
+                "credentialSubject": {
+                    "@type": "Thing",
+                    "name": "French"
+                }
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "AB Sv Korsettfabr, Jansson & Co"
+        },
+        "jobStartDate": "1902",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "AB Sv Korsettfabr"
+            },
+            {
+                "@type": "Organization",
+                "name": "Jansson & Co"
+            }
+        ],
+        "interests": [
+            {
+                "@type": "Thing",
+                "name": "Hunting"
+            },
+            {
+                "@type": "Thing",
+                "name": "Fishing"
+            }
+        ],
+        "hasOccupation": [
+            {
+                "@type": "Occupation",
+                "name": "Director"
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "Event",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress"
+                    }
+                },
+                "startDate": "1895",
+                "endDate": "1895",
+                "description": "Visited Germany"
+            },
+            {
+                "@type": "Event",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress"
+                    }
+                },
+                "startDate": "1896",
+                "endDate": "1896",
+                "description": "Visited England"
+            },
+            {
+                "@type": "Event",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress"
+                    }
+                },
+                "startDate": "1897",
+                "endDate": "1897",
+                "description": "Visited France"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "AB Sv Korsettfabr, Jansson & Co",
+                "industry": "Corset Manufacturing",
+                "start_date": "1902"
+            }
+        ]
+    }
+}

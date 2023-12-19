@@ -1,0 +1,130 @@
+{
+    "original": "JENSEN, Carl Einar, Grosshandlare, Göteborg, f Gbg 4/7 90 av grosshandl H J o h h, f Björkman, gm Stina Bredenberg. Genomg Gbgs Hdlsinst 09. Anst* h P O Stokkebye Kvarn AB, Gbg, 09—10, anst i Hamburg o London 10—12, anst i faderns fma H Jensen &amp; Co (gr 79), Gbg, 12—25, deläg 25—26 samt inneh o ledare av samma fma sed. 26. Rev i Gbgs hamnstyrelse 25—26 i stadens gas- o elverk 23—24. Göta Par Bricole, Frimurare.",
+    "translated": "JENSEN, Carl Einar, Merchant, Gothenburg, b. Gothenburg July 4, 1890, son of merchant H J and h h, b. Björkman, married to Stina Bredenberg. Completed Gothenburg Merchant School in 1909. Employed at P O Stokkebye Kvarn AB, Gothenburg, 1909-1910; employed in Hamburg and London 1910-1912; employed at father's company H Jensen & Co (founded in 1879), Gothenburg, 1912-1925; became a partner in 1925 and took over as owner and manager from 1926 onwards. Member of the Gothenburg Port Authority 1925-1926, member of the city's gas and electricity board 1923-1924. Member of the Göta Par Bricole, Freemason.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Einar Jensen",
+        "birthDate": "1890-07-04",
+        "birthPlace": "Gothenburg",
+        "description": "Merchant",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Göta Par Bricole",
+                "description": "Frimurare"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Stina Bredenberg"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "H J Jensen"
+            },
+            {
+                "@type": "Person",
+                "name": "h h Björkman"
+            }
+        ],
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Gothenburg Merchant School",
+            "endDate": "1909"
+        },
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "P O Stokkebye Kvarn AB",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Gothenburg"
+                },
+                "startDate": "1909",
+                "endDate": "1910"
+            },
+            {
+                "@type": "Organization",
+                "name": "Hamburg and London",
+                "startDate": "1910",
+                "endDate": "1912"
+            },
+            {
+                "@type": "Organization",
+                "name": "H Jensen & Co",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Gothenburg"
+                },
+                "foundingDate": "1879",
+                "startDate": "1912",
+                "endDate": "1925"
+            },
+            {
+                "@type": "Organization",
+                "name": "H Jensen & Co",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Gothenburg"
+                },
+                "foundingDate": "1879",
+                "startDate": "1925",
+                "endDate": "1926"
+            },
+            {
+                "@type": "Organization",
+                "name": "Gothenburg Port Authority",
+                "startDate": "1925",
+                "endDate": "1926"
+            },
+            {
+                "@type": "Organization",
+                "name": "City's Gas and Electricity Board",
+                "startDate": "1923",
+                "endDate": "1924"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "P O Stokkebye Kvarn AB",
+                "industry": "Unknown Industry",
+                "start_date": "1909-01-01"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Hamburg",
+                "industry": "Unknown Industry",
+                "start_date": "1910-01-01"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "London",
+                "industry": "Unknown Industry",
+                "start_date": "1910-01-01"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "H Jensen & Co",
+                "industry": "Unknown Industry",
+                "start_date": "1912-01-01"
+            },
+            {
+                "occupational_title": "Partner",
+                "workplace": "H Jensen & Co",
+                "industry": "Unknown Industry",
+                "start_date": "1925-01-01"
+            },
+            {
+                "occupational_title": "Owner and Manager",
+                "workplace": "H Jensen & Co",
+                "industry": "Unknown Industry",
+                "start_date": "1926-01-01"
+            }
+        ]
+    }
+}

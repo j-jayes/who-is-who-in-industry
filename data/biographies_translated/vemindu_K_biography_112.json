@@ -1,0 +1,92 @@
+{
+    "original": "KLEMMING, Nils Direktör, Stockholm, f Sthlm 19/11 89 av överdir V L o Gerda Klemming, gm Sonja Wolkoff. Mog.ex Nya Elem.-sk Sthlm 09, offex 11, ulöjtn Fortif samma år, löjtn 15, löjtn Fortif :s res 21, avsked 26. Anst Telefon AB L M Ericssons polska dtr-bol i Warszawa o vkst dir där 19—30. Vkst dir AB Sv Marattifabriken, Sthlm, sed. 33. Led Sv Tekn.frn 27—30.",
+    "translated": "KLEMMING, Nils Director, Stockholm, born in Stockholm on November 19th, 1889, the son of Senior Director V L and Gerda Klemming, married to Sonja Wolkoff. Educated at Nya Elementarskolan in Stockholm in 1909, commissioned in 1911, second lieutenant in the Fortress Artillery the same year, lieutenant in 1915, lieutenant in the Fortress Artillery Reserves in 1921, retired in 1926. Employed at Telefon AB L M Ericsson's Polish subsidiary in Warsaw as a managing director from 1919 to 1930. Managing director of AB Sv Marattifabriken in Stockholm since 1933. Member of the Swedish Technical Association from 1927 to 1930.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Nils Klemming",
+        "birthDate": "1889-11-19",
+        "birthPlace": "Stockholm",
+        "deathDate": null,
+        "nationality": "Swedish",
+        "occupation": "Director",
+        "description": "Director, Stockholm",
+        "father": {
+            "@type": "Person",
+            "name": "V L Klemming",
+            "occupation": "Senior Director"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Gerda Klemming"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Sonja Wolkoff"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "degree",
+            "educationalLevel": "SecondaryEducation",
+            "institution": {
+                "@type": "EducationalOrganization",
+                "name": "Nya Elementarskolan",
+                "location": "Stockholm"
+            },
+            "startDate": "1909"
+        },
+        "career": [
+            {
+                "@type": "GovernmentOrganization",
+                "name": "Fortress Artillery",
+                "position": "Second Lieutenant",
+                "startDate": "1911"
+            },
+            {
+                "@type": "GovernmentOrganization",
+                "name": "Fortress Artillery Reserves",
+                "position": "Lieutenant",
+                "startDate": "1921"
+            },
+            {
+                "@type": "Organization",
+                "name": "Telefon AB L M Ericsson",
+                "position": "Managing Director",
+                "location": "Warsaw",
+                "startDate": "1919",
+                "endDate": "1930"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Sv Marattifabriken",
+                "position": "Managing Director",
+                "location": "Stockholm",
+                "startDate": "1933"
+            }
+        ],
+        "membership": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Technical Association",
+                "startDate": "1927",
+                "endDate": "1930"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Stockholm",
+                "industry": "Unknown",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "AB Sv Marattifabriken",
+                "industry": "Unknown",
+                "start_date": "1933"
+            }
+        ]
+    }
+}

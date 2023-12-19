@@ -1,0 +1,106 @@
+{
+    "original": "JACOBSON, Carl, Fabrikör, Tvärålund, f Tvärålund 6/3 92 av hemm.äg Jacob Larsson o h h f Sjöblom, gm Adina Sundling. Folksk, korresp.kurs. Eg föret sed. 12, ag Carl Jacobsons Cementgjut o Älgmyrans Torvströfabr, Tvärålund, samt jordbr. Häradsdomare, Idst-nian. Resor: Finl, 37, Norge 39. IOGT, Tempelriddare.",
+    "translated": "JACOBSON, Carl, Factory owner, Tvärålund, born in Tvärålund on March 6, 1892, son of home owner Jacob Larsson and his wife Sjöblom, married to Adina Sundling. Elementary school, correspondence course. Owned and ran the Carl Jacobson's Cement Casting and Älgmyrans Peat Straw Factory in Tvärålund, and also worked in agriculture. District judge in Idst-nian. Travels: Finland, 1937, Norway, 1939. Member of the IOGT (Independent Order of Good Templars) and the Knights Templar.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Carl",
+        "familyName": "Jacobson",
+        "birthDate": "1892-03-06",
+        "birthPlace": "Tvärålund",
+        "father": {
+            "@type": "Person",
+            "name": "Jacob Larsson"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Sjöblom"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Adina Sundling"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Elementary school"
+        },
+        "occupation": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Factory owner",
+                "startDate": "1912"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "District judge",
+                "startDate": "unknown"
+            }
+        ],
+        "business": [
+            {
+                "@type": "Organization",
+                "name": "Carl Jacobson's Cement Casting"
+            },
+            {
+                "@type": "Organization",
+                "name": "Älgmyrans Peat Straw Factory"
+            }
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Tvärålund"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Independent Order of Good Templars"
+            },
+            {
+                "@type": "Organization",
+                "name": "Knights Templar"
+            }
+        ],
+        "travel": [
+            {
+                "@type": "Action",
+                "name": "Travels",
+                "startTime": "1937",
+                "target": {
+                    "@type": "Place",
+                    "name": "Finland"
+                }
+            },
+            {
+                "@type": "Action",
+                "name": "Travels",
+                "startTime": "1939",
+                "target": {
+                    "@type": "Place",
+                    "name": "Norway"
+                }
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Factory owner",
+                "workplace": "Carl Jacobson's Cement Casting and Älgmyrans Peat Straw Factory",
+                "industry": "Manufacturing",
+                "start_date": "unknown"
+            },
+            {
+                "occupational_title": "District judge",
+                "workplace": "Idst-nian",
+                "industry": "Legal",
+                "start_date": "unknown"
+            },
+            {
+                "occupational_title": "Agriculture",
+                "workplace": "Tvärålund",
+                "industry": "Agriculture",
+                "start_date": "unknown"
+            }
+        ]
+    }
+}

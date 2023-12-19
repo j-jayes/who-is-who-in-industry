@@ -1,0 +1,103 @@
+{
+    "original": "KORAEN, Folke, Bergsingenjör, Sandviken, f Sthlm 24/8 07 av fd ombudsm i Jernkont C A K o Greta Göransson, gm Dagmar Mell-gren. Studex öReal Sthlm 26, bergsingex KTH. Kapt i luftvärnets res. l:e assist v KTH 35— 36, driftsing v Sandvikens Jernverks AB sed. 36. Tävl.led i Sandvikens Pistolskytteklubb, v. ordf i Sandvikens Tjänstemannaklubb.",
+    "translated": "KORAEN, Folke, Mining Engineer, Sandviken, born in Stockholm on August 24, 1907, to former Jernkont agent C A K and Greta Göransson, married to Dagmar Mellgren. Graduated from Real Stockholm in 1926, mining engineer at KTH. Captain in the reserve of the air defense, first assistant at KTH from 1935 to 1936, operating engineer at Sandvikens Jernverks AB since 1936. Competitive leader in Sandvikens Pistolskytteklubb, vice chairman of Sandvikens Tjänstemannaklubb.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Folke Koraen",
+        "jobTitle": "Mining Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Sandviken"
+        },
+        "birthDate": "1907-08-24",
+        "birthPlace": "Stockholm",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "C.A.K. Koraen",
+                "jobTitle": "Former Jernkont Agent"
+            },
+            {
+                "@type": "Person",
+                "name": "Greta Göransson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Dagmar Mellgren"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Studex",
+                "educationalLevel": "HighSchool",
+                "educationalRole": "Graduate",
+                "educationalProgram": "Real Stockholm",
+                "endDate": "1926"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "bergsingex",
+                "educationalLevel": "HigherEducation",
+                "educationalRole": "Graduate",
+                "educationalProgram": "KTH",
+                "endDate": "Unknown"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Sandvikens Pistolskytteklubb",
+                "memberOf": "Competitive Leader"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sandvikens Tjänstemannaklubb",
+                "memberOf": "Vice Chairman"
+            }
+        ],
+        "work": [
+            {
+                "@type": "Occupation",
+                "name": "Captain",
+                "description": "Reserve of the air defense"
+            },
+            {
+                "@type": "Occupation",
+                "name": "First Assistant",
+                "description": "KTH",
+                "startDate": "1935",
+                "endDate": "1936"
+            },
+            {
+                "@type": "Occupation",
+                "name": "Operating Engineer",
+                "description": "Sandvikens Jernverks AB",
+                "startDate": "1936"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Mining Engineer",
+                "workplace": "Sandvikens Jernverks AB",
+                "industry": "Mining",
+                "start_date": "1936"
+            },
+            {
+                "occupational_title": "Captain (Air Defense Reserve)",
+                "workplace": "KTH (Royal Institute of Technology)",
+                "industry": "Military",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "First Assistant",
+                "workplace": "KTH (Royal Institute of Technology)",
+                "industry": "Education",
+                "start_date": "1935"
+            }
+        ]
+    }
+}

@@ -1,0 +1,150 @@
+{
+    "original": "JACOBSSON, Johan David Gabriel, Skogsmästare, Smedjebacken, f Linderås, Jönkps l, 24/3 92 av hemm.äg J W J o Ida Gustavs-dtr, gm Edith Hållström. Lantm.sk, kolarsk, skogssk, sågverkssk, skogsmästaresk samt spec.kurser. Anst v sågverk o byggen 10—16, h Skogvårdsstyr o Bränslekommiss 16—18, lantbrukare mm 19—20, stud 20—23, förvalt v Finnbo Gård sed. 23. Kyrko- o kommunalflm. Ordf i Dalarnas Skogstjm.frn, styr.led i Blåbandsfrn fr 25. Patr GM 2:a storl. Hobby : Uttagning av brunnar m slagruta.",
+    "translated": "JACOBSSON, Johan David Gabriel, Forest Ranger, Smedjebacken, born in Linderås, Jönkping county, on March 24, 1892, to home owners J.W.J. and Ida Gustav's daughter. Married to Edith Hållström. Education in land management, woodworking, forestry, sawmill operations, as well as specialized courses. Employed at sawmills and construction sites from 1910 to 1916, served in Forest Conservation Authority and Fuel Commission from 1916 to 1918, worked as a farmer and more from 1919 to 1920, pursued studies from 1920 to 1923, and has been managing Finnbo Gård since 1923. Active in church and local community. Chairman of Dalarna's Forestry Club and board member of the Temperance Society since 1925. Member of the Masonic Order, 2nd degree. Hobby: Divining wells with a dowsing rod.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Johan David Gabriel Jacobsson",
+        "jobTitle": "Forest Ranger",
+        "birthPlace": "Linderås, Jönkping County",
+        "birthDate": "1892-03-24",
+        "parents": {
+            "@type": "Person",
+            "father": "J. W. J.",
+            "mother": "Ida Gustav's daughter"
+        },
+        "spouse": "Edith Hållström",
+        "education": [
+            {
+                "@type": "EducationEvent",
+                "schoolName": "Land Management Education",
+                "startDate": "1910",
+                "endDate": "1916"
+            },
+            {
+                "@type": "EducationEvent",
+                "schoolName": "Woodworking Education"
+            },
+            {
+                "@type": "EducationEvent",
+                "schoolName": "Forestry Education"
+            },
+            {
+                "@type": "EducationEvent",
+                "schoolName": "Sawmill Operations Education"
+            },
+            {
+                "@type": "EducationEvent",
+                "schoolName": "Specialized Courses"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Sawmills and Construction Sites"
+                },
+                "startDate": "1910",
+                "endDate": "1916"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Forest Conservation Authority and Fuel Commission"
+                },
+                "startDate": "1916",
+                "endDate": "1918"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Farmer"
+                },
+                "startDate": "1919",
+                "endDate": "1920"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Finnbo Gård"
+                },
+                "startDate": "1923"
+            }
+        ],
+        "activities": [
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Dalarna's Forestry Club"
+                },
+                "roleName": "Chairman",
+                "startDate": "1925"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Temperance Society"
+                },
+                "roleName": "Board Member",
+                "startDate": "1925"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Masonic Order"
+                },
+                "roleName": "2nd degree member"
+            }
+        ],
+        "hobbies": [
+            "Divining wells with a dowsing rod"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Forest Ranger",
+                "workplace": "Smedjebacken",
+                "industry": "Forestry",
+                "start_date": "1910"
+            },
+            {
+                "occupational_title": "Forest Conservation Authority",
+                "workplace": "Skogvårdsstyr",
+                "industry": "Government",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Fuel Commission",
+                "workplace": "Bränslekommiss",
+                "industry": "Government",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Farmer",
+                "workplace": "",
+                "industry": "Agriculture",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Student",
+                "workplace": "",
+                "industry": "Education",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Farm Manager",
+                "workplace": "Finnbo Gård",
+                "industry": "Agriculture",
+                "start_date": "1923"
+            }
+        ]
+    }
+}

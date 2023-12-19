@@ -1,0 +1,101 @@
+{
+    "original": "JOHANSON, I^ars Erik, Köpman, Säffle, f Gbg 5/5 09 av dir D R J o Beda Sjöberg, gm Signe Widing. 3 ring realgymn, hdlsgymn. Korresp Karlstads Spinneri- &amp; Väfveri AB 31—36. Eg spec- o manuf.aff und fma Lars Johanson sed. 36. Resor: Danm, Tyskl, Holl 32. Odd Fellow. Hobby: mitt arbete.",
+    "translated": "JOHANSON, Ivars Erik, Merchant, Säffle, b Gothenburg 5/5 09 to Director D R J and Beda Sjöberg, married to Signe Widing. Completed 3 years of secondary school, trading school. Correspondent for Karlstad Spinneri- & Weaving Co. 1931-1936. Owns specialized and manufacturing business in partnership with Lars Johanson since 1936. Travels: Denmark, Germany, Netherlands in 1932. Member of Odd Fellow. Hobby: my work.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Ivars Erik Johanson",
+        "birthDate": "1909-05-05",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Gothenburg"
+        },
+        "jobTitle": "Merchant",
+        "address": {
+            "@type": "City",
+            "name": "Säffle"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Director D R J"
+            },
+            {
+                "@type": "Person",
+                "name": "Beda Sjöberg"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Signe Widing"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "educationalLevel": "Secondary school",
+                "yearsOfExperience": 3
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "educationalLevel": "Trading school"
+            }
+        ],
+        "business": {
+            "@type": "Organization",
+            "name": "Karlstad Spinneri- & Weaving Co.",
+            "startDate": "1931",
+            "endDate": "1936"
+        },
+        "partnership": [
+            {
+                "@type": "Person",
+                "name": "Lars Johanson",
+                "startDate": "1936"
+            }
+        ],
+        "travels": [
+            {
+                "@type": "Place",
+                "name": "Denmark",
+                "startDate": "1932"
+            },
+            {
+                "@type": "Place",
+                "name": "Germany",
+                "startDate": "1932"
+            },
+            {
+                "@type": "Place",
+                "name": "Netherlands",
+                "startDate": "1932"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Odd Fellow"
+        },
+        "hobbies": "my work"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Säffle",
+                "industry": "Trade",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Correspondent",
+                "workplace": "Karlstad Spinneri- & Weaving Co",
+                "industry": "Textile",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Specialized and Manufacturing Business Owner",
+                "workplace": "In partnership with Lars Johanson",
+                "industry": "Unknown",
+                "start_date": "1936"
+            }
+        ]
+    }
+}

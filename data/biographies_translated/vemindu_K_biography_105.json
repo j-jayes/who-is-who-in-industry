@@ -1,0 +1,134 @@
+{
+    "original": "KLAESSON, John Gerhard Emanuel, Disponent, Fjugesta, f F j 5/6 95 av fabr A K o Hanna Johnsson. Folksk. Verkm AB A Klaessons Möbelfabr (grund 03) 20—33, disp sed. 33, inneh AB Glas &amp; Möbler öbr, deläg o styr.led Fj Fastigh.AB, ag lantegend i Linde sn samt villafastigh i Fj. Led muni-cip.flm o byggn.nmdn. Resor: Tyskl o Engl 35—39.",
+    "translated": "KLAESSON, John Gerhard Emanuel, Manager, Fjugesta, b. June 5, 1895, son of A.K. and Hanna Johnsson. Elementary school. Employed by A. Klaessons Möbelfabr (established 1903) from 1920 to 1933, then became manager. Currently proprietor of AB Glas & Möbler. Also a co-owner and board member of Fjastigheter AB. Owns agricultural land in Linde parish and villa properties in Fjugesta. Member of the municipal committee and the building committee. Traveled to Germany and England from 1935 to 1939. Note: '19xx m. partners name' indicates marriage year in the 1900s.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "John Gerhard Emanuel Klaesson",
+        "jobTitle": "Manager",
+        "birthDate": "1895-06-05",
+        "birthPlace": "Fjugesta",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "A.K. Johnsson",
+                "sameAs": ""
+            },
+            {
+                "@type": "Person",
+                "name": "Hanna Johnsson",
+                "sameAs": ""
+            }
+        ],
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "educationalLevel": "Elementary school"
+        },
+        "employment": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1920",
+                "endDate": "1933",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "A. Klaessons Möbelfabr",
+                    "foundingDate": "1903"
+                },
+                "roleName": "Employee"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1933",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Glas & Möbler"
+                },
+                "roleName": "Manager"
+            }
+        ],
+        "ownership": [
+            {
+                "@type": "Organization",
+                "name": "Fjastigheter AB",
+                "coOwners": [
+                    {
+                        "@type": "Person",
+                        "name": "John Gerhard Emanuel Klaesson"
+                    }
+                ],
+                "boardMembers": [
+                    {
+                        "@type": "Person",
+                        "name": "John Gerhard Emanuel Klaesson"
+                    }
+                ]
+            }
+        ],
+        "properties": [
+            {
+                "@type": "LandmarksOrHistoricalBuildings",
+                "name": "Agricultural land in Linde parish"
+            },
+            {
+                "@type": "LandmarksOrHistoricalBuildings",
+                "name": "Villa properties in Fjugesta"
+            }
+        ],
+        "committees": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Municipal Committee"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Building Committee"
+                }
+            }
+        ],
+        "travels": [
+            {
+                "@type": "TravelAction",
+                "fromLocation": "Fjugesta",
+                "toLocation": "Germany",
+                "startDate": "1935",
+                "endDate": "1939"
+            },
+            {
+                "@type": "TravelAction",
+                "fromLocation": "Fjugesta",
+                "toLocation": "England",
+                "startDate": "1935",
+                "endDate": "1939"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Disponent",
+                "workplace": "A. Klaessons Möbelfabr",
+                "industry": "Furniture manufacturing",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "A. Klaessons Möbelfabr",
+                "industry": "Furniture manufacturing",
+                "start_date": "1933"
+            },
+            {
+                "occupational_title": "Proprietor",
+                "workplace": "AB Glas & Möbler",
+                "industry": "Glass and furniture",
+                "start_date": null
+            }
+        ]
+    }
+}

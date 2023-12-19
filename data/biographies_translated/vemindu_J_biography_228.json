@@ -1,0 +1,130 @@
+{
+    "original": "JÖNSSON, Eric Axel, Intendent, Malmö, f Malmö 28/11 06 av Axel Georg J o Hilda Rassmusson, gm Elsa Bergström. Studex Mmö 26. Anst Mmö chokl- &amp; konf.fabr AB Mazetti sed. 28, inköp sch fr 33, intend sed. 42. Styr.-suppl Kågeröds mejeri. Resor: Tyskl, Schweiz, Frankr, Danm. PB, Malmö reklam-frn, Skånska ing,klubben Malmö, Nat.ekon frn, Malmö.",
+    "translated": "JÖNSSON, Eric Axel, Superintendent, Malmö, born in Malmö on November 28th, 1906, to Axel Georg J and Hilda Rassmusson, married to Elsa Bergström. Graduated from Malmö in 1926. Employed at Malmö chocolate and confectionery factory AB Mazetti since 1928, where he started in purchasing in 1933 and became Superintendent in 1942. Board member and deputy chairman of Kågeröds dairy. Traveled to Germany, Switzerland, France, and Denmark. Member of the advertising section of the Malmö Chamber of Commerce, the Skånska Engineering Club in Malmö, and the National Economic Club in Malmö.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Eric Axel Jönsson",
+        "givenName": "Eric Axel",
+        "familyName": "Jönsson",
+        "jobTitle": "Superintendent",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Malmö"
+        },
+        "birthDate": "1906-11-28",
+        "birthPlace": "Malmö",
+        "father": {
+            "@type": "Person",
+            "name": "Axel Georg Jönsson"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Hilda Rassmusson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Elsa Bergström"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Studex",
+            "educationalLevel": "1926",
+            "recognizedBy": "Malmö"
+        },
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "AB Mazetti",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Malmö"
+                },
+                "startDate": "1928",
+                "jobTitle": "Purchasing",
+                "endDate": "1942"
+            },
+            {
+                "@type": "Organization",
+                "name": "Kågeröds mejeri",
+                "jobTitle": "Board Member and Deputy Chairman",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Kågeröd"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Malmö Chamber of Commerce",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Advertising Section"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Skånska Engineering Club",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Malmö"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "National Economic Club",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Malmö"
+                }
+            }
+        ],
+        "travel": [
+            "Germany",
+            "Switzerland",
+            "France",
+            "Denmark"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Intendent",
+                "workplace": "Malmö",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Studex",
+                "workplace": "Malmö",
+                "industry": "Unknown",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Mmö chokl- & konf.fabr AB Mazetti",
+                "industry": "Chocolate and Confectionery",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Purchasing",
+                "workplace": "Mmö chokl- & konf.fabr AB Mazetti",
+                "industry": "Chocolate and Confectionery",
+                "start_date": "1933"
+            },
+            {
+                "occupational_title": "Intendent",
+                "workplace": "Mmö chokl- & konf.fabr AB Mazetti",
+                "industry": "Chocolate and Confectionery",
+                "start_date": "1942"
+            },
+            {
+                "occupational_title": "Board member and Deputy Chairman",
+                "workplace": "Kågeröds mejeri",
+                "industry": "Dairy",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

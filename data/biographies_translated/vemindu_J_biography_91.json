@@ -1,0 +1,177 @@
+{
+    "original": "JOHANSON, Oscar K, Handlande, Göteborg, f Örgryte 20/11 88 av M Johanson o Kristina Bernson, gm Judit Hagström. Hdls-sk. Hdlsbitr fma Werner Johanson Gbg 06— 11, hdlsförest fma P M Person &amp; Co Gbg 11— 12, etabl spec.hdl Gbg 12, fil 21. V. ordf krist.nmdn, bisitt hdlsmål, jurym tr.frih.mål, led tax.nmd, ordf Gbg stads samarb.nmd, ordf Gbg spec.minuthdlfrn, v. ordf Gbg mi-nuthdlsfrn, styr.led AB Apot fören vatten-fabr, Förnyade kafferostn.AB Kronan, Sv köpmfrb, Sv mässan, Sv spec- &amp; livsmed.hdl-frn. Resor: Nord länd. Frimurare; Sv köpm-frbs Ht g. Hobbies: Målning, konst.",
+    "translated": "JOHANSON, Oscar K, Merchant, Gothenburg, b Örgryte 20/11 88, son of M Johanson and Kristina Bernson, m. Judit Hagström. Trade school. Trade assistant at Werner Johanson Gbg 06-11, trade manager at P M Person & Co Gbg 11-12, established specialist trade Gbg 12, position 21. Vice chairman of the Christian Council, member of the trade court, jury member of the district court, member of the tax council, chairman of the Gothenburg City Cooperation Council, chairman of the Gothenburg Special Minute Traders Union, vice chairman of the Gothenburg Minute Traders Union, board member of AB Apot Förnen Vattenfabr, Renewed Coffee Roasting AB Kronan, Swedish Merchants Association, Swedish Fair, Swedish Specialty and Grocery Trade Union. Travels to the Nordic countries. Freemason; member of the Swedish Merchants Association. Hobbies: Painting, art.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Oscar K Johanson",
+        "jobTitle": "Merchant",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Gothenburg"
+        },
+        "birthDate": "1888-11-20",
+        "birthPlace": "Örgryte",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "M Johanson"
+            },
+            {
+                "@type": "Person",
+                "name": "Kristina Bernson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Judit Hagström"
+        },
+        "education": {
+            "@type": "TradeSchool"
+        },
+        "workExperience": [
+            {
+                "@type": "JobPosting",
+                "employer": "Werner Johanson Gbg",
+                "startDate": "1906",
+                "endDate": "1911",
+                "jobTitle": "Trade Assistant"
+            },
+            {
+                "@type": "JobPosting",
+                "employer": "P M Person & Co Gbg",
+                "startDate": "1911",
+                "endDate": "1912",
+                "jobTitle": "Trade Manager"
+            },
+            {
+                "@type": "JobPosting",
+                "startDate": "1912",
+                "jobTitle": "Established Specialist Trader",
+                "location": "Gothenburg"
+            }
+        ],
+        "positions": [
+            {
+                "@type": "Role",
+                "name": "Vice Chairman",
+                "organization": "Christian Council"
+            },
+            {
+                "@type": "Role",
+                "name": "Member",
+                "organization": "Trade Court"
+            },
+            {
+                "@type": "Role",
+                "name": "Jury Member",
+                "organization": "District Court"
+            },
+            {
+                "@type": "Role",
+                "name": "Member",
+                "organization": "Tax Council"
+            },
+            {
+                "@type": "Role",
+                "name": "Chairman",
+                "organization": "Gothenburg City Cooperation Council"
+            },
+            {
+                "@type": "Role",
+                "name": "Chairman",
+                "organization": "Gothenburg Special Minute Traders Union"
+            },
+            {
+                "@type": "Role",
+                "name": "Vice Chairman",
+                "organization": "Gothenburg Minute Traders Union"
+            }
+        ],
+        "boardMemberships": [
+            {
+                "@type": "OrganizationRole",
+                "member": {
+                    "@type": "Organization",
+                    "name": "AB Apot Förnen Vattenfabr"
+                },
+                "roleName": "Board Member"
+            },
+            {
+                "@type": "OrganizationRole",
+                "member": {
+                    "@type": "Organization",
+                    "name": "Renewed Coffee Roasting AB Kronan"
+                },
+                "roleName": "Board Member"
+            },
+            {
+                "@type": "OrganizationRole",
+                "member": {
+                    "@type": "Organization",
+                    "name": "Swedish Merchants Association"
+                },
+                "roleName": "Board Member"
+            },
+            {
+                "@type": "OrganizationRole",
+                "member": {
+                    "@type": "Organization",
+                    "name": "Swedish Fair"
+                },
+                "roleName": "Board Member"
+            },
+            {
+                "@type": "OrganizationRole",
+                "member": {
+                    "@type": "Organization",
+                    "name": "Swedish Specialty and Grocery Trade Union"
+                },
+                "roleName": "Board Member"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Freemasons"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Merchants Association"
+            }
+        ],
+        "hobbies": [
+            "Painting",
+            "Art"
+        ],
+        "additionalProperty": [
+            {
+                "@type": "PropertyValue",
+                "name": "Travels",
+                "value": "Nordic countries"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Trade assistant",
+                "workplace": "Werner Johanson Gbg",
+                "industry": "Merchant",
+                "start_date": "1906"
+            },
+            {
+                "occupational_title": "Trade manager",
+                "workplace": "P M Person & Co Gbg",
+                "industry": "Merchant",
+                "start_date": "1911"
+            },
+            {
+                "occupational_title": "Established specialist trade",
+                "workplace": "Gbg",
+                "industry": "Merchant",
+                "start_date": "1912"
+            }
+        ]
+    }
+}

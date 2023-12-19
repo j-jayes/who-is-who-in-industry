@@ -1,0 +1,143 @@
+{
+    "original": "KRISTOFERSON, Oscar Alfred, Kamrer, Stockholm, f St Petersburg, Ryssl, 1/9 87 av dir K J K o Matilda Andersdotter, gm Maria von Landesen. St Katarinask, St Petersburg. Anst Naftaprod.bol Brod Nobel, St Petersburg, 03—08, kamr h dr Emanuel Nobel 08— 32, h dir G Nobel sed. 32. Likvidator AB Duc-tor i likv, styr.led Hdls- o Ind AB Svenska Iran, fastigh.frn Sjömannen 7 o Rådjuret nr 7. Resor: Finl, Norge, Danm, Tyskl, Frankr, Schweiz. Hobby: Friluftsliv.",
+    "translated": "KRISTOFERSON, Oscar Alfred, Clerk, Stockholm, b. St Petersburg, Russia, 1/9 87, son of dir K J K and Matilda Andersdotter, m. Maria von Landesen. St Katarinask, St Petersburg. Employed at Naftaprod.bol Brod Nobel, St Petersburg, 03—08, clerk for dr Emanuel Nobel 08—32, and then director at G Nobel. Liquidator at AB Duc-tor i likv, board member of Hdls- o Ind AB Svenska Iran, owner of properties Sjömannen 7 and Rådjuret nr 7. Travelled to Finland, Norway, Denmark, Germany, France, Switzerland. Hobby: Outdoor activities.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Oscar Alfred Kristoferson",
+        "jobTitle": "Clerk",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "birthPlace": {
+            "@type": "Place",
+            "name": "St Petersburg, Russia"
+        },
+        "birthDate": "1887-09-01",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "K J K"
+            },
+            {
+                "@type": "Person",
+                "name": "Matilda Andersdotter"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Maria von Landesen"
+        },
+        "marriageLocation": {
+            "@type": "Place",
+            "name": "St Katarinask, St Petersburg"
+        },
+        "employment": [
+            {
+                "@type": "Organization",
+                "name": "Naftaprod.bol Brod Nobel",
+                "startDate": "1903",
+                "endDate": "1908"
+            },
+            {
+                "@type": "Person",
+                "name": "Emanuel Nobel",
+                "jobTitle": "Clerk",
+                "startDate": "1908",
+                "endDate": "1932"
+            },
+            {
+                "@type": "Person",
+                "name": "G Nobel",
+                "jobTitle": "Director",
+                "startDate": "1932"
+            }
+        ],
+        "additionalName": "Oscar",
+        "deathDate": null,
+        "affiliation": [
+            {
+                "@type": "Organization",
+                "name": "AB Duc-tor i likv",
+                "jobTitle": "Liquidator"
+            },
+            {
+                "@type": "Organization",
+                "name": "Hdls- o Ind AB Svenska Iran",
+                "jobTitle": "Board Member"
+            }
+        ],
+        "owns": [
+            {
+                "@type": "Place",
+                "name": "Sjömannen 7"
+            },
+            {
+                "@type": "Place",
+                "name": "Rådjuret nr 7"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Country",
+                "name": "Finland"
+            },
+            {
+                "@type": "Country",
+                "name": "Norway"
+            },
+            {
+                "@type": "Country",
+                "name": "Denmark"
+            },
+            {
+                "@type": "Country",
+                "name": "Germany"
+            },
+            {
+                "@type": "Country",
+                "name": "France"
+            },
+            {
+                "@type": "Country",
+                "name": "Switzerland"
+            }
+        ],
+        "knowsAbout": "Outdoor activities"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Clerk",
+                "workplace": "Naftaprod.bol Brod Nobel",
+                "industry": "Oil and Gas",
+                "start_date": "1903"
+            },
+            {
+                "occupational_title": "Clerk",
+                "workplace": "dr Emanuel Nobel",
+                "industry": "Engineering",
+                "start_date": "1908"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "G Nobel",
+                "industry": "Engineering",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Liquidator",
+                "workplace": "AB Duc-tor i likv",
+                "industry": "Finance",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Hdls- o Ind AB Svenska Iran",
+                "industry": "Trade and Industry",
+                "start_date": ""
+            }
+        ]
+    }
+}

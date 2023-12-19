@@ -1,0 +1,157 @@
+{
+    "original": "JANSON, Karl Arvid, Direktör, Landskrona, f Almesåkra, Jönkp l, 30/8 95 av köpm KAJ 0 Jenny Anderson, gm Lydia Sköld. Studex Linkp 14, civ.ing KTH 18. Konstr ing.fma H Kreuger &amp; O Linton Sthlm 19—20, brokonstr Bergsunds Mek Verkst Sthlm 20—22, ch bro-avd 23—29, ass brobyggn KTH 20—29, ch bro-avd AB Motala Verkst 30—34, ch ds tekn kont 34—35, övering 36—43, vkst dir AB Landsverk Lkrona sed. 43.",
+    "translated": "JANSON, Karl Arvid, Director, Landskrona, b. Almesåkra, Jönkp l, 30/8 95, son of merchant KAJ and Jenny Anderson, married to Lydia Sköld. Studied at Linköping University 1914, graduated as a civil engineer from KTH (Royal Institute of Technology) in 1918. Worked as a construction engineer at H Kreuger & O Linton in Stockholm from 1919 to 1920, as a bridge construction engineer at Bergsunds Mek Verkst in Stockholm from 1920 to 1922, and as head of the bridge department from 1923 to 1929. Also worked as an assistant in bridge construction at KTH from 1920 to 1929, and as head of the technical department at AB Motala Verkst from 1930 to 1934. Became chief engineer in 1936 until 1943, and then director of AB Landsverk in Landskrona since 1943.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Karl Arvid Janson",
+        "birthDate": "1895-08-30",
+        "birthPlace": "Almesåkra, Jönkp l",
+        "description": "Director, Landskrona",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "KAJ"
+            },
+            {
+                "@type": "Person",
+                "name": "Jenny Anderson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Lydia Sköld"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "degree",
+            "credentialEarned": {
+                "@type": "EducationalOccupationalDegree",
+                "name": "Civil Engineering",
+                "dateEarned": "1918",
+                "educationalLevel": "Undergraduate"
+            },
+            "educationalLevel": "Undergraduate",
+            "provider": {
+                "@type": "Organization",
+                "name": "Royal Institute of Technology"
+            }
+        },
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1919",
+                "endDate": "1920",
+                "roleName": "Construction Engineer",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "H Kreuger & O Linton"
+                },
+                "location": "Stockholm"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1920",
+                "endDate": "1922",
+                "roleName": "Bridge Construction Engineer",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Bergsunds Mek Verkst"
+                },
+                "location": "Stockholm"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1923",
+                "endDate": "1929",
+                "roleName": "Head of Bridge Department",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Unknown"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1920",
+                "endDate": "1929",
+                "roleName": "Assistant in Bridge Construction",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "KTH"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1930",
+                "endDate": "1934",
+                "roleName": "Head of Technical Department",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Motala Verkst"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1936",
+                "endDate": "1943",
+                "roleName": "Chief Engineer"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1943",
+                "roleName": "Director",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Landsverk"
+                },
+                "location": "Landskrona"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Construction Engineer",
+                "workplace": "H Kreuger & O Linton",
+                "industry": "Construction",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Bridge Construction Engineer",
+                "workplace": "Bergsunds Mek Verkst",
+                "industry": "Construction",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Head of Bridge Department",
+                "workplace": "Bergsunds Mek Verkst",
+                "industry": "Construction",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Assistant in Bridge Construction",
+                "workplace": "KTH (Royal Institute of Technology)",
+                "industry": "Construction",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Head of Technical Department",
+                "workplace": "AB Motala Verkst",
+                "industry": "Engineering",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Chief Engineer",
+                "workplace": "AB Motala Verkst",
+                "industry": "Engineering",
+                "start_date": "1936"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "AB Landsverk",
+                "industry": "Engineering",
+                "start_date": "1943"
+            }
+        ]
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "original": "JOHANSSON, Paul Sanfrid, Fahrikör, Kumla, f Kumla 03 av Karl Erik J o Ida Olsson, gm Aina Ekström. Anst fma Ekman, Haglund &amp; Co Kumla 18—30, ag Paul Johanssons handskfabr (start 21).",
+    "translated": "JOHANSSON, Paul Sanfrid, Coachman, from Kumla, born in Kumla on March 03 to parents Karl Erik J and Ida Olsson, married to Aina Ekström. Employed at Ekman, Haglund & Co in Kumla from 1918 to 1930, started his own glove factory in 1921.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Paul Sanfrid Johansson",
+        "jobTitle": "Coachman",
+        "birthPlace": "Kumla",
+        "birthdate": "03-03",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Karl Erik J",
+                "givenName": "Karl Erik",
+                "familyName": "Johansson"
+            },
+            {
+                "@type": "Person",
+                "name": "Ida Olsson",
+                "givenName": "Ida",
+                "familyName": "Olsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Aina Ekström"
+        },
+        "employment": [
+            {
+                "@type": "Organization",
+                "name": "Ekman, Haglund & Co",
+                "location": "Kumla",
+                "startDate": "1918",
+                "endDate": "1930"
+            },
+            {
+                "@type": "Organization",
+                "name": "Paul Johanssons handskfabr",
+                "startDate": "1921"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Coachman",
+                "workplace": "Ekman, Haglund & Co",
+                "industry": "Unknown",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Glove Manufacturer",
+                "workplace": "Paul Johanssons handskfabr",
+                "industry": "Glove Manufacturing",
+                "start_date": "1921"
+            }
+        ]
+    }
+}

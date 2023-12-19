@@ -1,0 +1,108 @@
+{
+    "original": "JOHANSSON, Albert, Kontorschef, Trollhättan, f Upphärad, Älvsb l, 1/9 74 av hemm.äg J J o h h f Nilsson, gm Fredrika Magnusson (d). Hdlssk. Kont i dåv önans AB 92— 96, bruksbokh h Stridsberg &amp; Biörck (sen AB S &amp; B) fr 96, kont.ch sed. 27, ag fastigh Ekholmsg 20. Ldstm 24 år, stdsflm 25 år mm. Huv.m sparbkn. PatrstGM, IOGT veterM, TR-orden.",
+    "translated": "JOHANSSON, Albert, Office manager, Trollhättan, born in Upphärad, Älvsborg County, on September 1, 1874, to home owner J. J. and his wife, Nilsson. Married to Fredrika Magnusson (deceased). Commercial school graduate. Worked at Kont i dåv önans AB from 1892 to 1896, ledgers clerk at Stridsberg & Biörck (later AB S & B) from 1896, office manager since 1927, real estate agent at Ekholmsgatan 20. Oldest sibling, 24 years old, started working at 25 years old, and so on. Main savings bank member. Patriotic Grand Master, IOGT veteran, TR-order recipient.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Albert Johansson",
+        "birthDate": "1874-09-01",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Upphärad"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Trollhättan"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Fredrika Magnusson",
+            "deathDate": "yyyy-mm-dd"
+        },
+        "parent": {
+            "@type": "Person",
+            "name": "J. J. Nilsson",
+            "jobTitle": "Home owner"
+        },
+        "jobTitle": "Office manager",
+        "alumniOf": {
+            "@type": "Organization",
+            "name": "Commercial School"
+        },
+        "workExperience": [
+            {
+                "@type": "Organization",
+                "name": "Kont i dåv önans AB",
+                "startDate": "1892-01",
+                "endDate": "1896-12",
+                "jobTitle": "Employee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Stridsberg & Biörck",
+                "alternateName": "AB S & B",
+                "startDate": "1896",
+                "jobTitle": "Ledgers clerk"
+            }
+        ],
+        "startDate": "1927",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Ekholmsgatan 20",
+            "jobTitle": "Real estate agent"
+        },
+        "sibling": {
+            "@type": "Person",
+            "name": "Sibling's name",
+            "age": "24"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Patriotic Grand Master"
+            },
+            {
+                "@type": "Organization",
+                "name": "IOGT veteran"
+            },
+            {
+                "@type": "Organization",
+                "name": "TR-order recipient"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Office manager",
+                "workplace": "Trollhättan",
+                "industry": "Unknown",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Kont i dåv önans AB employee",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "1892"
+            },
+            {
+                "occupational_title": "Ledgers clerk",
+                "workplace": "Stridsberg & Biörck (later AB S & B)",
+                "industry": "Unknown",
+                "start_date": "1896"
+            },
+            {
+                "occupational_title": "Office manager",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Real estate agent",
+                "workplace": "Ekholmsgatan 20",
+                "industry": "Real estate",
+                "start_date": ""
+            }
+        ]
+    }
+}

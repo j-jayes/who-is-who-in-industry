@@ -1,0 +1,105 @@
+{
+    "original": "JAKOBSSON, John E, Disponent, Säffle, f Nyed, Värml, 2/6 86 av fabr A J o Maria Magnusson, gm Ingrid Strömwall. Hdlsinst. Inneh, disp o styr.led AB Jakobssons Industrier, Säffle, gr 34. Kyrkoflm, led kyrkoråd. Styr.led Värml o Dalsl Träv.handl.frn. Resor: Tyskl, Engl 23—27.",
+    "translated": "JAKOBSSON, John E, Manager, Säffle, born in Nyed, Värmland, on June 2, 1886, son of A J and Maria Magnusson. Married to Ingrid Strömwall. Merchant. Owner, manager, and board member of AB Jakobssons Industrier in Säffle, established in 1934. Member of the church film committee and a member of the church council. Board member of Värmland and Dalsland wood trading companies. Traveled to Germany and England from 1923 to 1927.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "givenName": "John",
+        "familyName": "Jakobsson",
+        "additionalName": "E",
+        "birthDate": "1886-06-02",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Nyed",
+            "address": {
+                "@type": "AdministrativeArea",
+                "name": "Värmland"
+            }
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "A J Jakobsson",
+                "jobTitle": "Fabricator"
+            },
+            {
+                "@type": "Person",
+                "name": "Maria Magnusson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ingrid Strömwall"
+        },
+        "jobTitle": "Manager",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "AB Jakobssons Industrier",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Säffle"
+            },
+            "foundingDate": "1934"
+        },
+        "membership": [
+            {
+                "@type": "Organization",
+                "name": "Church Film Committee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Church Council"
+            },
+            {
+                "@type": "Organization",
+                "name": "Värmland and Dalsland Wood Trading Companies"
+            }
+        ],
+        "travel": [
+            {
+                "@type": "Place",
+                "name": "Germany"
+            },
+            {
+                "@type": "Place",
+                "name": "England",
+                "startDate": "1923",
+                "endDate": "1927"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Disponent",
+                "workplace": "Säffle",
+                "industry": "Factory",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Owner, Manager, and Board Member",
+                "workplace": "AB Jakobssons Industrier",
+                "industry": "Various",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Member of the Church Film Committee",
+                "workplace": null,
+                "industry": "Church",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Member of the Church Council",
+                "workplace": null,
+                "industry": "Church",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Värmland and Dalsland Wood Trading Companies",
+                "industry": "Wood trading",
+                "start_date": null
+            }
+        ]
+    }
+}

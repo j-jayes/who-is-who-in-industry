@@ -1,0 +1,79 @@
+{
+    "original": "KRISTOFFERSON, Rolf Torsten, Affärschef, Falköping, f Grythyttan, öbr l, 1/8 97 av skom.mäst K G K o Emma Gustavson, gm Edla Norrman. Bitr i ensk aff 15—23, 1. bitr Munkfors hush.frn 24—26, af f.ch Gimo hush.-frn 27—29, Söderfors d:o 30—33, Aneby koop hdlsfrn 34—35, konsum Falkp sed. 36. Stadsrevisor.",
+    "translated": "KRISTOFFERSON, Rolf Torsten, Business Manager, Falköping, f Grythyttan, unmarried, born on August 1, 1897 to shoemaker master K G K and Emma Gustavson, married to Edla Norrman. Assistant in a private business from 1915 to 1923, 1st assistant in Munkfors household services from 1924 to 1926, business manager in Gimo household services from 1927 to 1929, Söderfors household services from 1930 to 1933, Aneby cooperative trading from 1934 to 1935, working in Konsum Falköping since 1936. City auditor.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Rolf Torsten Kristofferson",
+        "jobTitle": "City Auditor",
+        "birthDate": "1897-08-01",
+        "birthPlace": [
+            {
+                "@type": "Place",
+                "name": "Grythyttan"
+            }
+        ],
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "K G K"
+            },
+            {
+                "@type": "Person",
+                "name": "Emma Gustavson"
+            }
+        ],
+        "spouse": [
+            {
+                "@type": "Person",
+                "name": "Edla Norrman"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "City of Falköping"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Assistant in a private business",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "1915"
+            },
+            {
+                "occupational_title": "1st assistant in Munkfors household services",
+                "workplace": "Munkfors",
+                "industry": "Household services",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Business Manager in Gimo household services",
+                "workplace": "Gimo",
+                "industry": "Household services",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Business Manager in Söderfors household services",
+                "workplace": "Söderfors",
+                "industry": "Household services",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Working in Aneby cooperative trading",
+                "workplace": "Aneby",
+                "industry": "Cooperative trading",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Working in Konsum Falköping",
+                "workplace": "Falköping",
+                "industry": "Retail",
+                "start_date": "1936"
+            }
+        ]
+    }
+}

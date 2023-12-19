@@ -1,0 +1,124 @@
+{
+    "original": "KJESSLER, Sven Lave Fritjof, Civilingenjör, Stockholm, f Hbg 9/10 01 av dir S B K o Jenny Toepfer, gm Wivan Borgström. Studex Lund 21, KTH (VoV) 22—27. Bitr ing h vägkonsulenten i Kristianstads län 27—30, v Väg- o vattenbyggn.styr 30—34, kontrollant f Stocksundsbron o viadukt i Sundbyberg samt deläg i Ing.fman Kjessler &amp; Mannerstråle i Sthlm sed. 34. Lär v Sv Vägfrns vägkurser. Led Sv Tekn.frn.",
+    "translated": "KJESSLER, Sven Lave Fritjof, Civil Engineer, Stockholm, born in Helsingborg on October 9, 1901, son of director S.B.K. Kjessler and Jenny Toepfer, married to Wivan Borgström. Studied at Lund University in 1921, and at the Royal Institute of Technology (KTH) from 1922 to 1927. Assistant engineer for the Swedish Road Administration in Kristianstad County from 1927 to 1930, then worked in the Road and Water Construction Board from 1930 to 1934. Also worked as a controller for the Stocksundsbron bridge and viaduct in Sundbyberg, and was a co-owner of the engineering firm Kjessler & Mannerstråle in Stockholm since 1934. Taught in the Swedish Road Administration's road courses. Member of the Swedish Society of Engineers.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Sven Lave Fritjof Kjessler",
+        "birthDate": "1901-10-09",
+        "birthPlace": "Helsingborg",
+        "description": "Swedish civil engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "S.B.K. Kjessler",
+                "jobTitle": "Director"
+            },
+            {
+                "@type": "Person",
+                "name": "Jenny Toepfer"
+            }
+        ],
+        "spouse": "Wivan Borgström",
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Lund University",
+                "startDate": "1921"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Royal Institute of Technology (KTH)",
+                "startDate": "1922",
+                "endDate": "1927"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Road Administration",
+                "jobTitle": "Assistant Engineer",
+                "startDate": "1927",
+                "endDate": "1930",
+                "location": "Kristianstad County"
+            },
+            {
+                "@type": "Organization",
+                "name": "Road and Water Construction Board",
+                "jobTitle": "Road and Water Construction Engineer",
+                "startDate": "1930",
+                "endDate": "1934"
+            },
+            {
+                "@type": "Organization",
+                "name": "Kjessler & Mannerstråle",
+                "jobTitle": "Co-owner",
+                "startDate": "1934",
+                "location": "Stockholm"
+            }
+        ],
+        "hasOccupation": [
+            {
+                "@type": "Occupation",
+                "name": "Controller",
+                "startDate": "1930",
+                "endDate": "1934",
+                "worksFor": {
+                    "@type": "Organization",
+                    "name": "Stocksundsbron Bridge and Viaduct",
+                    "location": "Sundbyberg"
+                }
+            },
+            {
+                "@type": "Occupation",
+                "name": "Teacher",
+                "worksFor": {
+                    "@type": "Organization",
+                    "name": "Swedish Road Administration"
+                }
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Swedish Society of Engineers"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Assistant engineer",
+                "workplace": "Swedish Road Administration",
+                "industry": "Road construction",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Road and Water Construction Board",
+                "workplace": "Road and Water Construction Board",
+                "industry": "Infrastructure construction",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Controller",
+                "workplace": "Stocksundsbron bridge and viaduct",
+                "industry": "Infrastructure construction",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Co-owner",
+                "workplace": "Kjessler & Mannerstråle",
+                "industry": "Engineering",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Teacher",
+                "workplace": "Swedish Road Administration",
+                "industry": "Education",
+                "start_date": ""
+            }
+        ]
+    }
+}

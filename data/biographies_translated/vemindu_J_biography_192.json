@@ -1,0 +1,104 @@
+{
+    "original": "JONSSON, Gustav Fredrik Ragnar, Kommissionär, Mariefred, f L Malma 17/11 04 av nmdem G J o Agnes Friedner, gm Dagny Eriksson. Fhsk, jur självstud. Bitr v sköts av fad lantbr, grund 30 fma Plats- &amp; Fastigh.-förmedl, 35 omb t Auktions- &amp; mäkl.fma Ragnar Jonsson, skogsaff. Förest arb.förmedl, auktionskommissarie. Hobby: Trädg.skötsel.",
+    "translated": "JONSSON, Gustav Fredrik Ragnar, Commissioner, Mariefred, born in Malma on November 17, 1904, son of G J and Agnes Friedner. Married to Dagny Eriksson. Secondary school education, self-studied law. Assisted father in farming, established his own Property and Real Estate Agency in 1930. Appointed agent for Auctions and Brokerage by Ragnar Jonsson in 1935 for forestry businesses. Manager of employment agency, auction commissioner. Hobby: Gardening.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Gustav Fredrik Ragnar",
+        "familyName": "Jonsson",
+        "additionalName": "",
+        "birthDate": "1904-11-17",
+        "birthPlace": "Malma",
+        "nationality": "Swedish",
+        "occupation": "Commissioner",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Mariefred"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "familyName": "Friedner",
+                "givenName": "Agnes"
+            },
+            {
+                "@type": "Person",
+                "familyName": "Jonsson",
+                "givenName": "G"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "familyName": "Eriksson",
+            "givenName": "Dagny"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Secondary school education",
+            "educationalLevel": "SecondaryEducation"
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Ragnar Jonsson"
+        },
+        "workSdDate": [
+            {
+                "@type": "Event",
+                "name": "Established own Property and Real Estate Agency",
+                "startDate": "1930"
+            },
+            {
+                "@type": "Event",
+                "name": "Appointed agent for Auctions and Brokerage for forestry businesses",
+                "startDate": "1935"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Employment Agency"
+        },
+        "hobbies": [
+            "Gardening"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Commissioner",
+                "workplace": "Mariefred",
+                "industry": "Unknown",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Assistant in farming",
+                "workplace": "Unknown",
+                "industry": "Agriculture",
+                "start_date": "Before 1930"
+            },
+            {
+                "occupational_title": "Owner of Property and Real Estate Agency",
+                "workplace": "Unknown",
+                "industry": "Real Estate",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Agent for Auctions and Brokerage",
+                "workplace": "Ragnar Jonsson",
+                "industry": "Forestry",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Manager of employment agency",
+                "workplace": "Unknown",
+                "industry": "Labor",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Auction commissioner",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": null
+            }
+        ]
+    }
+}

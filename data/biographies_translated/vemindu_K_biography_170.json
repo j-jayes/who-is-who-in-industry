@@ -1,0 +1,132 @@
+{
+    "original": "KRUSE, Arthur Ragnar Johan, Disponent, Lidingö, f Malmö 27/1 88 av fabr Johan K o Sophie Johannesson, gm Margit Möller. Malmö h a l. Anst: C M Hallbäck &amp; Söner Lubeck 04, exp.fma Franz Boldeman &amp; Co Hamburg 05—11, eg fma Malmö 11—18, disp AB Gentele &amp; Co Sthlm 19—22 o AB Arvid Lindgren &amp; Co sed. 24. Ag tre fastigh Lidingö.",
+    "translated": "KRUSE, Arthur Ragnar Johan, Manager, Lidingö, born in Malmö on January 27, 1888 to factory owner Johan K and Sophie Johannesson, married to Margit Möller. Malmö residence. Employment: C M Hallbäck & Sons, Lubeck 1904, left to work for Franz Boldeman & Co, Hamburg 1905-1911, then returned to Malmö and worked for Franz Boldeman & Co 1911-1918. Became manager of AB Gentele & Co, Stockholm 1919-1922, and AB Arvid Lindgren & Co since 1924. Owns three properties on Lidingö.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Arthur",
+        "additionalName": "Ragnar Johan",
+        "familyName": "Kruse",
+        "jobTitle": "Manager",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Lidingö"
+        },
+        "birthDate": "1888-01-27",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Malmö"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "givenName": "Johan",
+                "familyName": "K"
+            },
+            {
+                "@type": "Person",
+                "givenName": "Sophie",
+                "familyName": "Johannesson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Margit Möller"
+        },
+        "residence": [
+            {
+                "@type": "Place",
+                "name": "Malmö"
+            },
+            {
+                "@type": "Place",
+                "name": "Lidingö"
+            }
+        ],
+        "employment": [
+            {
+                "@type": "Organization",
+                "name": "C M Hallbäck & Sons",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Lubeck"
+                },
+                "startDate": "1904"
+            },
+            {
+                "@type": "Organization",
+                "name": "Franz Boldeman & Co",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Hamburg"
+                },
+                "startDate": "1905",
+                "endDate": "1911"
+            },
+            {
+                "@type": "Organization",
+                "name": "Franz Boldeman & Co",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Malmö"
+                },
+                "startDate": "1911",
+                "endDate": "1918"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Gentele & Co",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm"
+                },
+                "startDate": "1919",
+                "endDate": "1922"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Arvid Lindgren & Co"
+            }
+        ],
+        "owns": [
+            {
+                "@type": "RealEstate",
+                "name": "Lidingö property"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Manager",
+                "workplace": "C M Hallbäck & Sons",
+                "industry": "Lubeck",
+                "start_date": "1904"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Franz Boldeman & Co",
+                "industry": "Hamburg",
+                "start_date": "1905"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Franz Boldeman & Co",
+                "industry": "Malmö",
+                "start_date": "1911"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "AB Gentele & Co",
+                "industry": "Stockholm",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "AB Arvid Lindgren & Co",
+                "industry": "Unknown",
+                "start_date": "1924"
+            }
+        ]
+    }
+}

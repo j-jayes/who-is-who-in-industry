@@ -1,0 +1,103 @@
+{
+    "original": "JANSSON, Otto Nore Eilert, Disponent, Jönköping, f Uleåborg, Finl, 1/7 07 av fabr O J o Eleonora Broman, gm Evy Strandberg. J kp h a l, Holmquists hdlsinst, Fachschule der deut Schuind, Pirmasens, Tyskl. Anst AB Otto Janssons skofabr sed 27 o mim ens styr.led där. V. ordf Jkp segelsällskap, styr.led Jkp Istfrri. Resor: Tyskl, Engl, Frankr 28—30. PB, v. ordf Rotary. Hobbies: Segling, skidåkning.",
+    "translated": "JANSSON, Otto Nore Eilert, Manager, Jönköping, born in Uleåborg, Finland, on July 1, 1907, son of factory owner O J and Eleonora Broman, married to Evy Strandberg. Completed commercial education at the Holmquist trade institute, Fachschule der deutschen Schuhindustrie in Pirmasens, Germany. Employed at AB Otto Jansson's shoe factory since 1927 and currently serving as a member of the board. Vice Chairman of Jönköping Sailing Club and board member of Jönköping Ice-Free. Travelled to Germany, England, and France from 1928 to 1930. Past President and Vice Chairman of Rotary. Hobbies: Sailing, skiing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Otto Nore Eilert Jansson",
+        "jobTitle": "Manager",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Jönköping"
+        },
+        "birthDate": "1907-07-01",
+        "birthPlace": "Uleåborg, Finland",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "O J Jansson"
+            },
+            {
+                "@type": "Person",
+                "name": "Eleonora Broman"
+            }
+        ],
+        "spouse": "Evy Strandberg",
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "commercial education",
+            "educationalLevel": "Fachschule",
+            "educationalProgram": "deutschen Schuhindustrie",
+            "awardDate": "Pirmasens, Germany"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "AB Otto Janssons skofabr",
+                "startDate": "1927"
+            },
+            {
+                "@type": "Organization",
+                "name": "Jkp segelsällskap",
+                "position": "Vice Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Jkp Istfrri",
+                "position": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Rotary",
+                "position": "Vice Chairman",
+                "startDate": "Past"
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "Place",
+                "name": "Germany",
+                "startDate": "1928",
+                "endDate": "1930"
+            },
+            {
+                "@type": "Place",
+                "name": "England",
+                "startDate": "1928",
+                "endDate": "1930"
+            },
+            {
+                "@type": "Place",
+                "name": "France",
+                "startDate": "1928",
+                "endDate": "1930"
+            }
+        ],
+        "hobbies": [
+            "Sailing",
+            "Skiing"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Disponent",
+                "workplace": "Jönköping",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Jönköping",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Member of the Board",
+                "workplace": "AB Otto Jansson's shoe factory",
+                "industry": "Shoe manufacturing",
+                "start_date": "1927"
+            }
+        ]
+    }
+}

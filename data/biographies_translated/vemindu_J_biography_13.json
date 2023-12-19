@@ -1,0 +1,66 @@
+{
+    "original": "JACOBSON, Olof Stellan, Civilingenjör, Göteborg, f Gbg 11/3 93 av dir Leopold J o Anna Ahlgren, gm Viola Planthén. Studex Gbgs latin 13, civingex (V o V) 19. Anst v AB Vattenbyggn.byråns Gbgskont 19—27, eg konsult ing.byrå sed. 27. Studieres i Schweiz 24.",
+    "translated": "JACOBSON, Olof Stellan, Civil Engineer, Gothenburg, b. Gothenburg 11/3 93, son of director Leopold J and Anna Ahlgren, m. Viola Planthén. Completed studies at Gothenburg Latin School in 1913, graduated as a civil engineer (Water and Roads) in 1919. Employed at AB Vattenbyggnadsbyrån's Gothenburg office from 1919 to 1927, self-employed consultant since 1927. Continued studies in Switzerland in 1924.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Olof Stellan Jacobson",
+        "birthDate": "1893-03-11",
+        "birthPlace": "Gothenburg",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Leopold J"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Ahlgren"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Viola Planthén"
+        },
+        "education": [
+            {
+                "@type": "EducationEvent",
+                "institution": "Gothenburg Latin School",
+                "startDate": "1913",
+                "endDate": "1913"
+            },
+            {
+                "@type": "EducationEvent",
+                "institution": "Switzerland",
+                "startDate": "1924",
+                "endDate": "1924"
+            }
+        ],
+        "jobTitle": "Civil Engineer",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "AB Vattenbyggnadsbyrån"
+        },
+        "startDate": "1919",
+        "endDate": "1927",
+        "affiliation": {
+            "@type": "Organization",
+            "name": "Self-employed"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "AB Vattenbyggnadsbyrån",
+                "industry": "Engineering",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Self-employed Consultant",
+                "workplace": "Independent",
+                "industry": "Consulting",
+                "start_date": "1927"
+            }
+        ]
+    }
+}

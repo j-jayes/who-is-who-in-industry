@@ -1,0 +1,132 @@
+{
+    "original": "JONSON, Per Abraham, Direktör, Falun, f Hammerdal, Jämtl, 18/9 73 av insp A J o Ingeborg Göransson, gm Elsa Mossberg (t 25). Mog.ex SLatin, ex KTH (bergs) 98. E.o. tjm komm.koll 98, utf magn mätn i Värml o geol undersökn Norrb 99, gruving Stripa Gruvbol 99—01, gruvförv 01—08, av gruving Guldsmedshytte o Stråssa Grufve AB mfl gruv små tid, ch Falu Kopparvk 08. RVO. Led Sv Tekn.frn.",
+    "translated": "JONSON, Per Abraham, Director, Falun, b. Hammerdal, Jämtland, 18/9 73, son of Inspector A J and Ingeborg Göransson, married to Elsa Mossberg (died 1925). Graduated from SLatin and KTH (mining) in 1898. Acting municipal engineer from 1898, conducted large-scale surveys in Värmland and geological investigations in Norrbotten in 1899. Worked for Stripa Mining Company from 1899 to 1901, appointed mine manager from 1901 to 1908. Also involved in Guldsmedshytte and Stråssa Mines AB, among other smaller mining companies, and Falu Copper Works from 1908. Awarded Royal Order of the Vasa. Member of the Swedish Institute of Technology.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Per Abraham Jonson",
+        "birthDate": "1873-09-18",
+        "birthPlace": "Hammerdal, Jämtland, Sweden",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "A J Jonson"
+            },
+            {
+                "@type": "Person",
+                "name": "Ingeborg Göransson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Elsa Mossberg",
+            "deathDate": "1925"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "SLatin"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "KTH (mining)",
+                "startDate": "1898",
+                "endDate": "1898"
+            }
+        ],
+        "occupation": [
+            {
+                "@type": "Role",
+                "name": "Director"
+            },
+            {
+                "@type": "Role",
+                "name": "Acting municipal engineer",
+                "startDate": "1898"
+            },
+            {
+                "@type": "Role",
+                "name": "Mine manager",
+                "startDate": "1901",
+                "endDate": "1908"
+            }
+        ],
+        "workLocation": [
+            {
+                "@type": "Place",
+                "name": "Falun"
+            }
+        ],
+        "workAffiliation": [
+            {
+                "@type": "Organization",
+                "name": "Stripa Mining Company",
+                "startDate": "1899",
+                "endDate": "1901"
+            },
+            {
+                "@type": "Organization",
+                "name": "Guldsmedshytte Mines AB"
+            },
+            {
+                "@type": "Organization",
+                "name": "Stråssa Mines AB"
+            },
+            {
+                "@type": "Organization",
+                "name": "Falu Copper Works",
+                "startDate": "1908"
+            }
+        ],
+        "award": {
+            "@type": "Order",
+            "name": "Royal Order of the Vasa"
+        },
+        "membership": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Institute of Technology"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Acting municipal engineer",
+                "workplace": "Falun",
+                "industry": "Government",
+                "start_date": "1898"
+            },
+            {
+                "occupational_title": "Large-scale surveyor",
+                "workplace": "Värmland",
+                "industry": "Geology",
+                "start_date": "1899"
+            },
+            {
+                "occupational_title": "Geological investigator",
+                "workplace": "Norrbotten",
+                "industry": "Geology",
+                "start_date": "1899"
+            },
+            {
+                "occupational_title": "Mine manager",
+                "workplace": "Stripa Mining Company",
+                "industry": "Mining",
+                "start_date": "1899"
+            },
+            {
+                "occupational_title": "Mine manager",
+                "workplace": "Guldsmedshytte and Stråssa Mines AB",
+                "industry": "Mining",
+                "start_date": "1901"
+            },
+            {
+                "occupational_title": "Mine manager",
+                "workplace": "Falu Copper Works",
+                "industry": "Mining",
+                "start_date": "1908"
+            }
+        ]
+    }
+}

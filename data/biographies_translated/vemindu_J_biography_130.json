@@ -1,0 +1,104 @@
+{
+    "original": "JOHANSSON, John Oscar Einar, Disponent, Smålands Burseryd, f Sandviks församl, Jön-kp l, 26/8 04 av lantbr E J o Kristina Johansson, gm Berta Bengtsson. Anst AB Bur-seryds Träind sed. 35, deläg o styr.led dta. Ag fastigh Erikslund, Burseryd. Ordf byggn.-nmd, v. ordf hälsov.nmd, led brandstyr. Styr.led hantv.frn, kass Burseryds Samhällsfrn. Hobby: Musik.",
+    "translated": "JOHANSSON, John Oscar Einar, Manager, from Burseryd in Småland, born in Sandvik parish, Jönköping county, on August 26, 1904, to farmers Einar Johansson and Kristina Johansson, married to Berta Bengtsson. Employed at Bur-seryds Timber Industry since 1935, part-owner and board member. Also involved in managing the Erikslund property in Burseryd. Chairman of the building committee, deputy chairman of the health committee, and a member of the fire brigade. Board member of the Crafts Association, treasurer of Burseryds Community Fund. Hobby: Music.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "John Oscar Einar Johansson",
+        "givenName": "John Oscar Einar",
+        "familyName": "Johansson",
+        "jobTitle": "Manager",
+        "birthDate": "1904-08-26",
+        "birthPlace": {
+            "@type": "PostalAddress",
+            "addressLocality": "Sandvik",
+            "addressRegion": "Jönköping",
+            "addressCountry": "Sweden"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Einar Johansson",
+                "jobTitle": "Farmer"
+            },
+            {
+                "@type": "Person",
+                "name": "Kristina Johansson",
+                "jobTitle": "Farmer"
+            }
+        ],
+        "spouse": [
+            {
+                "@type": "Person",
+                "name": "Berta Bengtsson"
+            }
+        ],
+        "employment": [
+            {
+                "@type": "Organization",
+                "name": "Burseryds Timber Industry",
+                "startDate": "1935",
+                "jobTitle": "Manager",
+                "owns": {
+                    "@type": "Organization",
+                    "name": "Erikslund",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Burseryd",
+                        "addressCountry": "Sweden"
+                    }
+                },
+                "memberships": [
+                    {
+                        "@type": "Role",
+                        "name": "Board Member"
+                    },
+                    {
+                        "@type": "Role",
+                        "name": "Part-owner"
+                    }
+                ]
+            }
+        ],
+        "committees": [
+            {
+                "@type": "Organization",
+                "name": "Building Committee",
+                "jobTitle": "Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Health Committee",
+                "jobTitle": "Deputy Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Fire Brigade",
+                "jobTitle": "Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Crafts Association",
+                "jobTitle": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Burseryds Community Fund",
+                "jobTitle": "Treasurer"
+            }
+        ],
+        "hobbies": [
+            "Music"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Manager",
+                "workplace": "AB Burseryds Träindustri",
+                "industry": "Timber Industry",
+                "start_date": "1935"
+            }
+        ]
+    }
+}

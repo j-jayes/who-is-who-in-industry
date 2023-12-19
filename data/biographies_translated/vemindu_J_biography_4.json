@@ -1,0 +1,156 @@
+{
+    "original": "JACOBSON, Carl Emanuel, Direktör, Äppelviken, f 15/2 81 av J A J o Karin Nilsdotter, gm Clara Johansson. 5 kl lärov, hdlssk. Anst h Gust Rydström Eskilstuna 96—98, h Silvan-ders herrekip StMm 98—99, i öl fmor i Tyskl, Frankr o USA 00—09, h Hjalmar Söderström Sthlm 09—13, Broman &amp; Co Sthlm 13, ag dta föret und fma AB J R Broman &amp; Co sed. 30, vkst dir o ag t AB Färgfabr Skandia, gr 18. Resor: Tyskl, Frankr, USA.",
+    "translated": "JACOBSON, Carl Emanuel, Director, Äppelviken, b. 15/2 1881, son of J A J and Karin Nilsdotter, m. Clara Johansson. Completed 5th grade, commercial school. Employed by Gust Rydström in Eskilstuna 1896-1898, Silvanders' groom StMm 1898-1899, worked in breweries in Germany, France, and the USA 1900-1909, employed by Hjalmar Söderström in Stockholm 1909-1913, Broman & Co in Stockholm 1913, became agent for the daughter company of AB J R Broman & Co since 1930, director and agent for AB Färgfabr Skandia, founded in 1918. Traveled to Germany, France, and the USA.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Emanuel Jacobson",
+        "birthDate": "1881-02-15",
+        "father": {
+            "@type": "Person",
+            "name": "J A J"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Karin Nilsdotter"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Clara Johansson"
+        },
+        "education": "5th grade, commercial school",
+        "jobTitle": "Director",
+        "workLocation": "Äppelviken",
+        "hasOccupation": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1896",
+                "endDate": "1898",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Gust Rydström"
+                },
+                "location": "Eskilstuna"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1898",
+                "endDate": "1899",
+                "roleName": "Groom",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Silvanders"
+                },
+                "location": "StMm"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1900",
+                "endDate": "1909",
+                "roleName": "Beer brewer",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Various breweries"
+                },
+                "location": [
+                    "Germany",
+                    "France",
+                    "USA"
+                ]
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1909",
+                "endDate": "1913",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Hjalmar Söderström"
+                },
+                "location": "Stockholm"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1913",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Broman & Co"
+                },
+                "location": "Stockholm"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1930",
+                "roleName": "Agent",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB J R Broman & Co"
+                },
+                "location": "Stockholm"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Director and Agent",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Färgfabr Skandia"
+                },
+                "location": "Stockholm",
+                "foundingDate": "1918"
+            }
+        ],
+        "hasTravelHistory": [
+            "Germany",
+            "France",
+            "USA"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Äppelviken",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Groom",
+                "workplace": "Silvanders",
+                "industry": "Horse-riding establishment",
+                "start_date": "1898"
+            },
+            {
+                "occupational_title": "Brewery worker",
+                "workplace": "Various breweries in Germany, France, and the USA",
+                "industry": "Brewery",
+                "start_date": "1900"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Hjalmar Söderström",
+                "industry": "Unknown",
+                "start_date": "1909"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Broman & Co",
+                "industry": "Unknown",
+                "start_date": "1913"
+            },
+            {
+                "occupational_title": "Agent",
+                "workplace": "AB J R Broman & Co",
+                "industry": "Unknown",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Director and agent",
+                "workplace": "AB Färgfabr Skandia",
+                "industry": "Paint manufacturing",
+                "start_date": "1918"
+            }
+        ]
+    }
+}

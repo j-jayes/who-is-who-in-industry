@@ -1,0 +1,111 @@
+{
+    "original": "KRUMLINDE, Gösta Vilhelm H:son, Avdelningschef, Stockholm, f Partille 9/10 11 av kapt H K o h h f Nauman. Hal, stud tyska o engelska v Borgarsk. Anst i AB Sveaexport fr 28, tillika avd.ch i Wedevågs Bruks AB o AB Borr- &amp; Verktyg Export Co, båda i Sthlm. Resor: Österr 30, Polen 35. Hobbies: Resor, heminredning.",
+    "translated": "KRUMLINDE, Gösta Vilhelm H:son, Division Chief, Stockholm, b. Partille 9/10 11, son of Captain H K and H F Nauman. Partial studies in German and English at Borgarskolan. Employed at AB Sveaexport since '28, also division chief at Wedevågs Bruks AB and AB Borr- & Verktyg Export Co, both in Stockholm. Travel: Austria '30, Poland '35. Hobbies: Traveling, interior design.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Gösta Vilhelm H:son Krumlinde",
+        "birthDate": "1911-10-09",
+        "birthPlace": "Partille, Sweden",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "H K Krumlinde",
+                "jobTitle": "Captain"
+            },
+            {
+                "@type": "Person",
+                "name": "H F Nauman"
+            }
+        ],
+        "jobTitle": "Division Chief",
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "AB Sveaexport",
+                "startDate": "1928"
+            },
+            {
+                "@type": "Organization",
+                "name": "Wedevågs Bruks AB"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Borr- & Verktyg Export Co"
+            }
+        ],
+        "affiliation": [
+            {
+                "@type": "Organization",
+                "name": "AB Sveaexport",
+                "startDate": "1928"
+            },
+            {
+                "@type": "Organization",
+                "name": "Wedevågs Bruks AB"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Borr- & Verktyg Export Co"
+            }
+        ],
+        "location": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Stockholm",
+                "addressCountry": "Sweden"
+            }
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Wedevågs Bruks AB",
+                "jobTitle": "Division Chief"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Borr- & Verktyg Export Co",
+                "jobTitle": "Division Chief"
+            }
+        ],
+        "travelMode": [
+            {
+                "@type": "Trip",
+                "name": "Austria",
+                "startDate": "1930"
+            },
+            {
+                "@type": "Trip",
+                "name": "Poland",
+                "startDate": "1935"
+            }
+        ],
+        "hobby": [
+            "Traveling",
+            "Interior Design"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Division Chief",
+                "workplace": "AB Sveaexport",
+                "industry": "Export",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Division Chief",
+                "workplace": "Wedevågs Bruks AB",
+                "industry": "Manufacturing",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Division Chief",
+                "workplace": "AB Borr- & Verktyg Export Co",
+                "industry": "Export",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

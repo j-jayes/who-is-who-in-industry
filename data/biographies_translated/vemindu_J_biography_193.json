@@ -1,0 +1,128 @@
+{
+    "original": "JONSSON, Reinhold Valdemar, Kassör, Åmmeberg, f Zinkgruvan 9/10 84 av O F J o Frida Kjellman, gm Elvira Louise Pinet. Bokh AB Iggesunds Br huv.kont Iggesund 02—03, bokh Bol Vieille Montagne Åmmeberg 03—13, kassör där sed. 13. Ordf tax.nmd o valnmd, led komm.nmd o skolstyr. Rev AB Hargs Bk. Resor: Belg, Frankr, 06—07, Tyskl, Österr, Ital, Schweiz, Frankr, Belg, Danm 23.",
+    "translated": "JONSSON, Reinhold Valdemar, Treasurer, Åmmeberg, born in Zinkgruvan on October 9, 1884, to O.F.J. and Frida Kjellman, married to Elvira Louise Pinet. Accountant at Iggesunds Br main office in Iggesund from 1902 to 1903, accountant at Bol Vieille Montagne in Åmmeberg from 1903 to 1913, treasurer there since 1913. Chairman of the tax committee and election committee, member of the municipal committee and school board. Auditor at Hargs Bank. Travels: Belgium, France, from 1906 to 1907, Germany, Austria, Italy, Switzerland, France, Belgium, Denmark in 1923.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Reinhold Valdemar Jonsson",
+        "jobTitle": "Treasurer",
+        "birthDate": "1884-10-09",
+        "birthPlace": "Zinkgruvan",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "O.F.J. Jonsson"
+            },
+            {
+                "@type": "Person",
+                "name": "Frida Kjellman"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Elvira Louise Pinet"
+        },
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "Iggesunds Br",
+                "jobTitle": "Accountant",
+                "startDate": "1902",
+                "endDate": "1903",
+                "location": "Iggesund"
+            },
+            {
+                "@type": "Organization",
+                "name": "Bol Vieille Montagne",
+                "jobTitle": "Accountant",
+                "startDate": "1903",
+                "endDate": "1913",
+                "location": "Åmmeberg"
+            },
+            {
+                "@type": "Organization",
+                "name": "Bol Vieille Montagne",
+                "jobTitle": "Treasurer",
+                "startDate": "1913",
+                "location": "Åmmeberg"
+            }
+        ],
+        "affiliation": [
+            {
+                "@type": "Organization",
+                "name": "Hargs Bank",
+                "jobTitle": "Auditor"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Tax Committee",
+                "jobTitle": "Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Election Committee",
+                "jobTitle": "Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Municipal Committee",
+                "jobTitle": "Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "School Board",
+                "jobTitle": "Member"
+            }
+        ],
+        "travel": [
+            "Belgium",
+            "France",
+            {
+                "@type": "Duration",
+                "startDate": "1906",
+                "endDate": "1907"
+            },
+            "Germany",
+            "Austria",
+            "Italy",
+            "Switzerland",
+            "France",
+            "Belgium",
+            "Denmark",
+            {
+                "@type": "Duration",
+                "startDate": "1923"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Treasurer",
+                "workplace": "Åmmeberg",
+                "industry": "",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Accountant",
+                "workplace": "Iggesunds Br main office",
+                "industry": "",
+                "start_date": "1902"
+            },
+            {
+                "occupational_title": "Accountant",
+                "workplace": "Bol Vieille Montagne",
+                "industry": "",
+                "start_date": "1903"
+            },
+            {
+                "occupational_title": "Treasurer",
+                "workplace": "Åmmeberg",
+                "industry": "",
+                "start_date": "1913"
+            }
+        ]
+    }
+}

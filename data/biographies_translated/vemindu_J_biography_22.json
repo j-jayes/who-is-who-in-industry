@@ -1,0 +1,101 @@
+{
+    "original": "JACOBSSON, Johan Henning, Civilingenjör, Göteborg, f Långsele, Vnorrl l, 3/7 02 av köpm J O J o Matilda Fagerström. Studex Upps 22, KTH (E) 23—27, ordf i studentkåren 26. Anst v ing.fma Bergman &amp; Co AB Sthlm 27—29, S :a Sv:s Ångpannefrn Malmö 29—33, driftsing v Gbgs Konfektions AB sed. 33, nu driftschef där. Led Sv Tekn.frn samt fl ordenssällskap.",
+    "translated": "JACOBSSON, Johan Henning, Civil Engineer, Gothenburg, b. Långsele, Västernorrland county, July 3, 1902, son of merchant J.O.J and Matilda Fagerström. Completed secondary education in Uppsala in 1922, studied at the Royal Institute of Technology (Electrical Engineering) from 1923 to 1927, served as chairman of the student union in 1926. Employed by Bergman & Co AB in Stockholm from 1927 to 1929, Southern Swedish Steam Boiler Co in Malmö from 1929 to 1933, and has been a department manager at Gothenburg's Konfektions AB since 1933. Member of the Swedish Society of Technicians and several other fraternal orders. Note that the mention of '\\d\\d m. partners name' signifies marriage in the year 19xx.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Johan Henning",
+        "familyName": "Jacobsson",
+        "birthDate": "1902-07-03",
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Långsele, Västernorrland county"
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "J.O.J",
+                "jobTitle": "Merchant"
+            },
+            {
+                "@type": "Person",
+                "name": "Matilda Fagerström"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Uppsala University",
+                "startDate": "1922",
+                "endDate": "1922"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Royal Institute of Technology",
+                "startDate": "1923",
+                "endDate": "1927",
+                "alumniOf": "Electrical Engineering"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Society of Technicians"
+            }
+        ],
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "Bergman & Co AB",
+                "startDate": "1927",
+                "endDate": "1929",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Southern Swedish Steam Boiler Co",
+                "startDate": "1929",
+                "endDate": "1933",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Malmö"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Gothenburg's Konfektions AB",
+                "startDate": "1933",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Gothenburg"
+                },
+                "jobTitle": "Department Manager"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Bergman & Co AB",
+                "industry": "Engineering",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Southern Swedish Steam Boiler Co",
+                "industry": "Engineering",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Department Manager",
+                "workplace": "Gothenburg's Konfektions AB",
+                "industry": "Apparel",
+                "start_date": "1933"
+            }
+        ]
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "original": "JONSSON, Oskar Henning, Civilingenjör, Stockholm, f Sthlm 8/9 94 av disp O E J o Lovisa Larsson, gm Thyra Rydström. Studex Örebro 13, KTH (V o V) 13—18. Anst v ind- o husbyggn.arb 18—20, v Allm Ing.byrån i Sthlm 20—30, varav ss ch f väg- o vattenbyggn.avd 27—30, deläg i Ing.fman Viak i Sthlm 30—40 o inneh av fman sed. 41.",
+    "translated": "JONSSON, Oskar Henning, Civil Engineer, Stockholm, born in Stockholm on 8th September 1894 to dispenser O.E.J and Lovisa Larsson, married to Thyra Rydström. Completed secondary education in Örebro in 1913, attended the Royal Institute of Technology (V and V) from 1913 to 1918. Employed in industrial and construction work from 1918 to 1920, at the General Engineering Office in Stockholm from 1920 to 1930, including the road and water construction department from 1927 to 1930. Co-owner of Engineering firm Viak in Stockholm from 1930 to 1940, and has been the sole owner since 1941.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Oskar Henning Jonsson",
+        "alternateName": "Oskar H. Jonsson",
+        "birthDate": "1894-09-08",
+        "birthPlace": "Stockholm, Sweden",
+        "description": "Civil Engineer",
+        "nationality": "Swedish",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "O. E. J. Jonsson",
+                "alternateName": "Olof Erik Jonsson",
+                "description": "Dispenser"
+            },
+            {
+                "@type": "Person",
+                "name": "Lovisa Larsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Thyra Rydström"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Örebro",
+                "endDate": "1913"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Royal Institute of Technology",
+                "description": "V and V",
+                "startDate": "1913",
+                "endDate": "1918"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "General Engineering Office",
+                "description": "Stockholm",
+                "startDate": "1920",
+                "endDate": "1930"
+            },
+            {
+                "@type": "Organization",
+                "name": "Viak",
+                "description": "Engineering Firm",
+                "location": "Stockholm",
+                "startDate": "1930",
+                "endDate": "1940"
+            }
+        ],
+        "owns": {
+            "@type": "Organization",
+            "name": "Viak",
+            "description": "Engineering Firm",
+            "location": "Stockholm",
+            "startDate": "1941"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Stockholm",
+                "industry": "Engineering",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Industrial and Construction Worker",
+                "workplace": "Various",
+                "industry": "Industrial and Construction",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "General Engineering Office",
+                "workplace": "Stockholm",
+                "industry": "Engineering",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Road and Water Construction Department",
+                "workplace": "Stockholm",
+                "industry": "Construction",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Co-owner",
+                "workplace": "Viak Engineering Firm",
+                "industry": "Engineering",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Sole Owner",
+                "workplace": "Viak Engineering Firm",
+                "industry": "Engineering",
+                "start_date": "1941"
+            }
+        ]
+    }
+}

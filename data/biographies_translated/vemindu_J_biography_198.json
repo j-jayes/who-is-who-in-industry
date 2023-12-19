@@ -1,0 +1,107 @@
+{
+    "original": "JOSEFSON, David, Handlande, Norrköping, f Kumla, Ögl, 20/1 83, gm Elin Pettersson. Lunnevads fhsk 02—03. Anst s springpojke 98—02, s bitr 03—11. Gr eg fma i spec.bransch, David Josefson Nrkp, 11, inneh dna. Styr.led Nrkp Minuthdlsfrn 26—37, sekr ds sjuk- o be-gravn.kassa sed. 34, rev Ögl köpm.frb.",
+    "translated": "JOSEFSON, David, Merchant, Norrköping, b. Kumla, Östergötland, 20/1 1883, m. Elin Pettersson. Lunnevad vocational school 1902-1903. Employed as a delivery boy 1898-1902, as an assistant 1903-1911. Later became the sole proprietor in a specialized industry, David Josefson Norrköping, 1911, owner of a trading company. Served on the board of Norrköping Wholesale Retailers' Association from 1926-1937, secretary of the sick and funeral fund since 1934, auditor of the Östergötland Chamber of Commerce.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "David Josefson",
+        "birthDate": "1883-01-20",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Kumla",
+                "addressRegion": "Östergötland"
+            }
+        },
+        "occupation": "Merchant",
+        "nationality": "Swedish",
+        "spouse": {
+            "@type": "Person",
+            "name": "Elin Pettersson"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Vocational",
+            "educationalLevel": "SecondarySchool",
+            "startDate": "1902",
+            "endDate": "1903",
+            "alumniOf": {
+                "@type": "EducationalOrganization",
+                "name": "Lunnevad Vocational School"
+            }
+        },
+        "employment": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Delivery Boy",
+                "startDate": "1898",
+                "endDate": "1902",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "N/A"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Assistant",
+                "startDate": "1903",
+                "endDate": "1911",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "N/A"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Sole Proprietor",
+                "startDate": "1911",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "David Josefson Norrköping",
+                    "founder": "David Josefson"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Norrköping Wholesale Retailers' Association",
+                "foundingDate": "1926",
+                "dissolutionDate": "1937",
+                "roleName": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Östergötland Chamber of Commerce",
+                "roleName": "Auditor"
+            }
+        ],
+        "refersTo": {
+            "@type": "Organization",
+            "name": "Östergötland Chamber of Commerce"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Delivery Boy",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "1898"
+            },
+            {
+                "occupational_title": "Assistant",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "1903"
+            },
+            {
+                "occupational_title": "Sole Proprietor",
+                "workplace": "David Josefson Norrköping",
+                "industry": "Specialized Industry",
+                "start_date": "1911"
+            }
+        ]
+    }
+}

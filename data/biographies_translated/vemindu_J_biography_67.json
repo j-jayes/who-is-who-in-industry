@@ -1,0 +1,181 @@
+{
+    "original": "JAKVIN, Erland Ludvig, Disponent, Stockholm, f Sthlm 22/11 04 av gymn.dir o aff.man Ludv Jansson o Helena Edblad. gm Margareta Kärnekull. Realex 22, hdlsk:r 22—23, prakt i bageriyrk v öl föret 23—25. Anst AB Sven Engdahl 24—25; eg rör 26—31, vilk 31 uppg i AB Melcher Lindholm; försäljn.ch AB Arvid Petterssons Spisbrödfabr Etuna 35—37; disp Sthlms Bageri AB sed. 37. Led av pens.-nmdns 4. distr, kyrkoflm i Matteus förs, suppl i skolråd o tax.nmd där. Sekr i Matteus högerfrn, ordf i Ungsv :s Sthlmsdistr 38. Studieres t Tyskl, Österr, Ung 31, t Norge 37. Hobbies: Idrott (i ungd.åren medl AIK :s jun.lag i fotb o bandy, nu ridn, friluftsliv o fiske).",
+    "translated": "JAKVIN, Erland Ludvig, Manager, Stockholm, b. Stockholm 22/11 04 to gymnasium director and businessman Ludv Jansson and Helena Edblad. m. Margareta Kärnekull. Completed secondary education (Realexamen) in 1922, commercial studies 22-23, practical training in the bakery profession at Öl company 23-25. Employed at AB Sven Engdahl 24-25; self-employed 26-31, then joined AB Melcher Lindholm; sales representative at AB Arvid Petterssons Spisbrödfabrik in Etuna 35-37; manager at Sthlms Bageri AB since 1937. Member of the retirement committee of the 4th district, involved in church film productions in the Matteus parish, substitute in the school council and tax committee. Secretary in the Matteus conservative party, chairman of the Sthlmsdistr district of Ungsv in 1938. Studied in Germany, Austria, and Hungary in 1931, and in Norway in 1937. Hobbies: Sports (in youth, member of AIK's junior teams in football and bandy, now horseback riding, outdoor activities, and fishing).",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Erland Ludvig Jakvin",
+        "birthDate": "1904-11-22",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Stockholm",
+                "addressRegion": "",
+                "addressCountry": ""
+            }
+        },
+        "father": {
+            "@type": "Person",
+            "name": "Ludv Jansson"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Helena Edblad"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Margareta Kärnekull"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "secondary",
+                "credentialLevel": "Realexamen",
+                "startDate": "1922",
+                "endDate": "1922"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "commercial",
+                "startDate": "1922",
+                "endDate": "1923"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "JobPosting",
+                "title": "Practical Training in the Bakery Profession",
+                "startDate": "1923",
+                "endDate": "1925",
+                "hiringOrganization": {
+                    "@type": "Organization",
+                    "name": "Öl Company"
+                }
+            },
+            {
+                "@type": "JobPosting",
+                "title": "AB Sven Engdahl",
+                "startDate": "1924",
+                "endDate": "1925"
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Self-employed",
+                "startDate": "1926",
+                "endDate": "1931"
+            },
+            {
+                "@type": "JobPosting",
+                "title": "AB Melcher Lindholm",
+                "startDate": "1932",
+                "endDate": "1932"
+            },
+            {
+                "@type": "JobPosting",
+                "title": "AB Arvid Petterssons Spisbrödfabrik",
+                "startDate": "1935",
+                "endDate": "1937",
+                "hiringOrganization": {
+                    "@type": "Organization",
+                    "name": "Etuna"
+                }
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Sthlms Bageri AB",
+                "startDate": "1937"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Retirement Committee of the 4th District"
+            },
+            {
+                "@type": "Organization",
+                "name": "Church Film Productions in Matteus Parish"
+            },
+            {
+                "@type": "Organization",
+                "name": "School Council"
+            },
+            {
+                "@type": "Organization",
+                "name": "Tax Committee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Matteus Conservative Party"
+            },
+            {
+                "@type": "Organization",
+                "name": "Ungsv Sthlmsdistr",
+                "position": "Chairman"
+            }
+        ],
+        "studyAbroad": [
+            {
+                "@type": "Course",
+                "name": "Germany",
+                "startDate": "1931"
+            },
+            {
+                "@type": "Course",
+                "name": "Austria",
+                "startDate": "1931"
+            },
+            {
+                "@type": "Course",
+                "name": "Hungary",
+                "startDate": "1931"
+            },
+            {
+                "@type": "Course",
+                "name": "Norway",
+                "startDate": "1937"
+            }
+        ],
+        "knowsAbout": "Swedish family history",
+        "hobbies": "Horseback riding, outdoor activities, fishing",
+        "memberOfSportsTeam": {
+            "@type": "SportsTeam",
+            "name": "AIK",
+            "sport": [
+                "Football",
+                "Bandy"
+            ],
+            "ageCategories": [
+                "Junior"
+            ]
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Manager",
+                "workplace": "AB Sven Engdahl",
+                "industry": "Unknown",
+                "start_date": "1924-1925"
+            },
+            {
+                "occupational_title": "Self-employed",
+                "workplace": "AB Melcher Lindholm",
+                "industry": "Unknown",
+                "start_date": "1926-1931"
+            },
+            {
+                "occupational_title": "Sales representative",
+                "workplace": "AB Arvid Petterssons Spisbrödfabrik",
+                "industry": "Bakery",
+                "start_date": "1935-1937"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Sthlms Bageri AB",
+                "industry": "Bakery",
+                "start_date": "1937"
+            }
+        ]
+    }
+}

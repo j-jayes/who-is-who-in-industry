@@ -1,0 +1,241 @@
+{
+    "original": "JOHANSSON, Sven Robert, Bankkamrer, Vadstena, f Skövde 1/6 96 av kommissionär F J o h h, gm Greta Hinz. Studex Lund 15, fackk f stud v Gbgs hdlsinst 15—16. Anst v Sydsv kred.AB :s Molkomkont 18, v huv.-kont 19, rev f avd.kont :n 22, anst i Sydsv bkn (nu Skånska bkn) 22, kamr v dess Kal-markont 27, styr.led i ödeshögskont 31, ch f Ögl ensk bks Vadstenakont sed. 38. Styr.led o kass i Vadst kommun kafébol, Johansson, Andersson &amp; Co. Av Ögl o Söderml hdlskamm godk granskn.man 31. Rekt o lär v Vadst sk f yrkesunderv fr 39, ordf dräts.kamm fr 41, stdsflm sed. 43. Resor: Tyskl 28, 38 o 39 samt Österr 39. Odd Fellow.",
+    "translated": "JOHANSSON, Sven Robert, Bank Clerk, Vadstena, b. Skövde 1/6 96, son of commissioner F J o h h, m. Greta Hinz. Graduated from Lund University in 1915, specialized studies at Gothenburg Commercial Institute 1915-1916. Employed at South Sweden Credit AB: Molkom branch 1918, head office 1919, audit department 1922, employed at South Sweden Bank (now Skånska banken) 1922, cashier at their Kalmar branch 1927, board member at Ödeshög branch 1931, became chief of private banking at Östgöta Enskilda Bank's Vadstena branch since 1938. Serving as a board member and treasurer at Vadstena Municipality's café company, Johansson, Andersson & Co. Approved auditor by Östergötland and Södermanland Chamber of Commerce since 1931. Principal and teacher at Vadstena School of Vocational Education since 1939, chairman of the municipal executive committee since 1941, member of the board of trustees for the public cinema since 1943. Travelled to Germany in 1928, 1938, and 1939, and Austria in 1939. Member of Odd Fellow.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Sven Robert Johansson",
+        "jobTitle": "Bank Clerk",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Vadstena"
+        },
+        "birthDate": "1896-06-01",
+        "birthPlace": "Skövde",
+        "parent": {
+            "@type": "Person",
+            "name": "F J o h h"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Greta Hinz"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Lund University"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Gothenburg Commercial Institute",
+                "startDate": "1915",
+                "endDate": "1916"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "South Sweden Credit AB",
+                "department": "Molkom branch",
+                "startDate": "1918"
+            },
+            {
+                "@type": "Organization",
+                "name": "South Sweden Credit AB",
+                "department": "Head Office",
+                "startDate": "1919"
+            },
+            {
+                "@type": "Organization",
+                "name": "South Sweden Credit AB",
+                "department": "Audit Department",
+                "startDate": "1922"
+            },
+            {
+                "@type": "Organization",
+                "name": "South Sweden Bank",
+                "department": "Kalmar branch",
+                "startDate": "1922",
+                "endDate": "1927"
+            },
+            {
+                "@type": "Organization",
+                "name": "Ödeshög branch",
+                "position": "Board Member",
+                "startDate": "1931"
+            },
+            {
+                "@type": "Organization",
+                "name": "Östgöta Enskilda Bank",
+                "department": "Vadstena branch",
+                "position": "Chief of Private Banking",
+                "startDate": "1938"
+            }
+        ],
+        "businessFunction": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Board Member",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Vadstena Municipality's Café Company, Johansson, Andersson & Co."
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Treasurer",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Vadstena Municipality's Café Company, Johansson, Andersson & Co."
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Approved Auditor",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Östergötland and Södermanland Chamber of Commerce"
+                },
+                "startDate": "1931"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Principal",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Vadstena School of Vocational Education"
+                },
+                "startDate": "1939"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Teacher",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Vadstena School of Vocational Education"
+                },
+                "startDate": "1939"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Chairman",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Vadstena Municipal Executive Committee"
+                },
+                "startDate": "1941"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Member",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Board of Trustees for the Public Cinema"
+                },
+                "startDate": "1943"
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "Place",
+                "name": "Germany",
+                "startDate": "1928",
+                "endDate": "1928"
+            },
+            {
+                "@type": "Place",
+                "name": "Germany",
+                "startDate": "1938",
+                "endDate": "1938"
+            },
+            {
+                "@type": "Place",
+                "name": "Germany",
+                "startDate": "1939",
+                "endDate": "1939"
+            },
+            {
+                "@type": "Place",
+                "name": "Austria",
+                "startDate": "1939",
+                "endDate": "1939"
+            }
+        ],
+        "membership": [
+            {
+                "@type": "Organization",
+                "name": "Odd Fellow"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Bank Clerk",
+                "workplace": "South Sweden Credit AB: Molkom branch",
+                "industry": "Banking",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Bank Clerk",
+                "workplace": "South Sweden Credit AB: Head Office",
+                "industry": "Banking",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Audit Department Staff",
+                "workplace": "South Sweden Credit AB",
+                "industry": "Banking",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Bank Clerk",
+                "workplace": "South Sweden Bank (now Skånska banken)",
+                "industry": "Banking",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Cashier",
+                "workplace": "Skånska banken: Kalmar branch",
+                "industry": "Banking",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Chief of Private Banking",
+                "workplace": "Östgöta Enskilda Bank's Vadstena branch",
+                "industry": "Banking",
+                "start_date": "1938"
+            },
+            {
+                "occupational_title": "Board Member and Treasurer",
+                "workplace": "Vadstena Municipality's café company: Johansson, Andersson & Co.",
+                "industry": "Hospitality",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Approved Auditor",
+                "workplace": "Östergötland and Södermanland Chamber of Commerce",
+                "industry": "Auditing",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Principal and Teacher",
+                "workplace": "Vadstena School of Vocational Education",
+                "industry": "Education",
+                "start_date": "1939"
+            },
+            {
+                "occupational_title": "Chairman of the Municipal Executive Committee",
+                "workplace": "Vadstena Municipality",
+                "industry": "Government",
+                "start_date": "1941"
+            },
+            {
+                "occupational_title": "Member of the Board of Trustees",
+                "workplace": "Public Cinema",
+                "industry": "Entertainment",
+                "start_date": "1943"
+            }
+        ]
+    }
+}

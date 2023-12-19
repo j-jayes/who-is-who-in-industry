@@ -1,0 +1,79 @@
+{
+    "original": "JOHANSSON, Sigfrid Paul Teodor, Disponent, Alingsås, f 25/9 96 av lantbr A T J o Ida Andréasson, gm Anna östlund. Holm-qvists hdlsinst. Kont Aas snick.fabr 19—28, disp sed. 36, styr.led där o i AB Thyrelius &amp; Westerdahl järnhäl, Aas.",
+    "translated": "JOHANSSON, Sigfrid Paul Teodor, Manager, Alingsås, b. 25/9 96 to farmer A.T.J. and Ida Andréasson, m. Anna Östlund. Worked at Holm-Qvists Trade Institution. Worked as a clerk at Aas Carpentry Factory from 19—28, became manager in 1936. Served as a board member both there and at AB Thyrelius & Westerdahl Ironworks in Aas.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Sigfrid Paul Teodor Johansson",
+        "birthDate": "1896-09-25",
+        "birthPlace": "Alingsås",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "A.T.J. Johansson",
+                "jobTitle": "Farmer"
+            },
+            {
+                "@type": "Person",
+                "name": "Ida Andréasson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Anna Östlund"
+        },
+        "jobTitle": "Manager",
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Holm-Qvists Trade Institution"
+            },
+            {
+                "@type": "Organization",
+                "name": "Aas Carpentry Factory",
+                "startDate": "1919",
+                "endDate": "1928",
+                "jobTitle": "Clerk"
+            },
+            {
+                "@type": "Organization",
+                "name": "Aas Carpentry Factory",
+                "startDate": "1936",
+                "jobTitle": "Manager"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Thyrelius & Westerdahl Ironworks",
+                "location": "Aas"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Clerk",
+                "workplace": "Aas Carpentry Factory",
+                "industry": "Woodworking",
+                "start_date": "19—28"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Aas Carpentry Factory",
+                "industry": "Woodworking",
+                "start_date": "1936"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Aas Carpentry Factory",
+                "industry": "Woodworking",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "AB Thyrelius & Westerdahl Ironworks",
+                "industry": "Metal industry",
+                "start_date": ""
+            }
+        ]
+    }
+}

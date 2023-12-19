@@ -1,0 +1,141 @@
+{
+    "original": "KNAUST, Nils Jacob, överingenjör, Ljungaverk, f Sundsvall 5/5 87 av källarm A F K o Anna Svensson, gm Signe Larsson. Studex 07, civing KTH 11, ass prof Palmaer KTH 11— 12, spec.stud Techn Hochsch Zurich 12—13. Drifts- o el.ing Alby Carbidfabr AB 13—22; kem, senare el- o driftsing Sthlms Superfosfat Fabr AB fil i Ljungaverk 22, övering sed. 41. Styr.led Sdsv Ensk Bks Ångekont 17—33, styr.led Hotell Knaust AB sed. 21, Imp AB G Knaust &amp; Larsson 24. Resor: Schweiz, Tyskl, Engl, Ital, Finl. Av trycket: Upps i tekn fråg. Hobby: Fiske.",
+    "translated": "KNAUST, Nils Jacob, chief engineer, Ljungaverk, b. Sundsvall May 5, 1887, son of cellar worker A F K and Anna Svensson, m. Signe Larsson. Graduated high school in 1907, received a civil engineering degree from the Royal Institute of Technology (KTH) in 1911, assistant professor at Palmaer KTH from 1911 to 1912, specialized studies at the Technical University of Zurich from 1912 to 1913. Operating and electrical engineer at Alby Carbidfabr AB from 1913 to 1922; later chemist and electrical engineer at Stockholm Superphosphate Factory AB branch in Ljungaverk from 1922, promoted to chief engineer in 1941. Board member of Sdsv Ensk Bks Ångekont from 1917 to 1933, board member of Hotel Knaust AB from 1921, partner at Imp AB G Knaust & Larsson in 1924. Traveled to Switzerland, Germany, England, Italy, and Finland. Published in technical matters. Hobby: fishing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Nils Jacob Knaust",
+        "jobTitle": "Chief Engineer",
+        "birthDate": "1887-05-05",
+        "birthPlace": "Sundsvall",
+        "familyName": "Knaust",
+        "givenName": "Nils Jacob",
+        "father": {
+            "@type": "Person",
+            "name": "A F K",
+            "jobTitle": "Cellar Worker"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Anna Svensson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Signe Larsson"
+        },
+        "affiliation": {
+            "@type": "Organization",
+            "name": "Alby Carbidfabr AB",
+            "jobTitle": "Operating and Electrical Engineer",
+            "startDate": "1913",
+            "endDate": "1922"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "diploma",
+                "educationalLevel": "High School",
+                "endDate": "1907"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "diploma",
+                "educationalLevel": "Bachelor's degree",
+                "degree": "Civil Engineering",
+                "alumniOf": {
+                    "@type": "EducationalOrganization",
+                    "name": "Royal Institute of Technology (KTH)",
+                    "startDate": "1907",
+                    "endDate": "1911"
+                }
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "educationalLevel": "Assistant Professor",
+                "startDate": "1911",
+                "endDate": "1912",
+                "supervisor": {
+                    "@type": "Person",
+                    "name": "Palmaer"
+                }
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "educationalLevel": "Specialized Studies",
+                "startDate": "1912",
+                "endDate": "1913",
+                "alumniOf": {
+                    "@type": "EducationalOrganization",
+                    "name": "Technical University of Zurich"
+                }
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Stockholm Superphosphate Factory AB",
+            "jobTitle": "Chemist and Electrical Engineer",
+            "department": "Ljungaverk Branch",
+            "startDate": "1922"
+        },
+        "honorificSuffix": "Dr.",
+        "knowsAbout": "Technical matters",
+        "hobbies": "Fishing",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Sdsv Ensk Bks Ångekont",
+                "jobTitle": "Board Member",
+                "startDate": "1917",
+                "endDate": "1933"
+            },
+            {
+                "@type": "Organization",
+                "name": "Hotel Knaust AB",
+                "jobTitle": "Board Member",
+                "startDate": "1921"
+            },
+            {
+                "@type": "Organization",
+                "name": "Imp AB G Knaust & Larsson",
+                "jobTitle": "Partner",
+                "startDate": "1924"
+            }
+        ],
+        "nationality": "Swedish",
+        "traveled": [
+            "Switzerland",
+            "Germany",
+            "England",
+            "Italy",
+            "Finland"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Assistant Professor",
+                "workplace": "Palmaer KTH",
+                "industry": "Education",
+                "start_date": "1911"
+            },
+            {
+                "occupational_title": "Operating and Electrical Engineer",
+                "workplace": "Alby Carbidfabr AB",
+                "industry": "Manufacturing",
+                "start_date": "1913"
+            },
+            {
+                "occupational_title": "Chemist and Electrical Engineer",
+                "workplace": "Stockholm Superphosphate Factory AB (branch in Ljungaverk)",
+                "industry": "Manufacturing",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Chief Engineer",
+                "workplace": "Stockholm Superphosphate Factory AB (branch in Ljungaverk)",
+                "industry": "Manufacturing",
+                "start_date": "1941"
+            }
+        ]
+    }
+}

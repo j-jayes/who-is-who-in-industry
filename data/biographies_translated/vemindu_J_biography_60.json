@@ -1,0 +1,77 @@
+{
+    "original": "JANZON, Erik Mauritz, Köpman, Falköping, f Fkp 9/3 83 av handl J J o Emilia Rehnberg. Fkps lärov. Inneh HAB J Janzon (partiaff i ost, grund av fad 70). Ordf Fkps filatelistfrn. Frimurare (IX), Göt frb (IV), NN (IV). Hobby: Filateli.",
+    "translated": "JANZON, Erik Mauritz, Merchant, Falköping, b. Falköping on September 9, 1883, son of merchant J J and Emilia Rehnberg. Attended Falköping's school. Owned HAB J Janzon (part owner in the East, inherited from father in 1870). Chairman of Falköping's Philatelic Association. Freemason (IX), member of the Götaland Association (IV), and NN (IV). Hobby: Philately.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Erik Mauritz Janzon",
+        "birthDate": "1883-09-09",
+        "birthPlace": "Falköping",
+        "description": "Merchant in Falköping",
+        "parent": [
+            {
+                "relation": "father",
+                "name": "J J Janzon"
+            },
+            {
+                "relation": "mother",
+                "name": "Emilia Rehnberg"
+            }
+        ],
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Falköping's school"
+        },
+        "occupation": "Merchant",
+        "owns": {
+            "@type": "Organization",
+            "name": "HAB J Janzon",
+            "description": "Part owner in the East, inherited from father in 1870"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Falköping's Philatelic Association",
+                "roleName": "Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Freemasons",
+                "membershipNumber": "IX"
+            },
+            {
+                "@type": "Organization",
+                "name": "Götaland Association",
+                "membershipNumber": "IV"
+            },
+            {
+                "@type": "Organization",
+                "name": "NN",
+                "membershipNumber": "IV"
+            }
+        ],
+        "hobby": "Philately"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Falköping",
+                "industry": "Trade",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "HAB J Janzon",
+                "industry": "Trade (East)",
+                "start_date": "Inherited in 1870"
+            },
+            {
+                "occupational_title": "Chairman",
+                "workplace": "Falköping's Philatelic Association",
+                "industry": "Hobbies",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

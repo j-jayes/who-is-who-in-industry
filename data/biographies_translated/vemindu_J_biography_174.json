@@ -1,0 +1,161 @@
+{
+    "original": "JONASSON, Jonas Nikolaus (Niklas), Direktör, Bäckefors, f Dalskog 17/8 79 av hemmansäg J J o h h Maria, gm Klara Andersson. Folksk, korresp.studier. Äger Bäckens egendom o Bäckens kvarn i Bäckefors. Dir i Dalskogs Ångsågs- &amp; TräförädlingsAB, Dalskog. Led av komm.flm. Resor: Genom Tyskl 0 Belg t Paris, därifrån t Frankf a/M o Berlin 37. J grundade tills m sin broder Karl J firma Dalskogs ångsåg 07, utökad m snick.fabr 11. Inköpte C A Olssons trävaruaffär i Mellerud 25 o firma Bäckefors Träförädlings anläggn i Bäckefors 26, företagen ombild t Dalskogs Ångsågs- &amp; Träförädlings AB 27 med fil i Mellerud o Bäckefors.",
+    "translated": "JONASSON, Jonas Nikolaus (Niklas), Director, Bäckefors, b. Dalskog 17/8 1879, son of farmer J J and Maria, married to Klara Andersson. Elementary school, correspondence studies. Owns Bäckens estate and Bäckens mill in Bäckefors. Director of Dalskogs Steam Sawmill & Wood Processing AB, Dalskog. Member of the Municipal Board. Travels: Through Germany and Belgium to Paris, then to Frankfurt am Main and Berlin in 1937. Together with his brother Karl J, founded the firm Dalskogs Steam Sawmill in 1907, expanded with a carpentry factory in 1911. Purchased C A Olsson's timber business in Mellerud in 1925 and the Bäckefors Wood Processing facility in Bäckefors in 1926. Companies transformed into Dalskogs Steam Sawmill & Wood Processing AB in 1927 with branches in Mellerud and Bäckefors.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Jonas Nikolaus (Niklas) Jonasson",
+        "birthDate": "1879-08-17",
+        "birthPlace": "Dalskog",
+        "nationality": "Swedish",
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Elementary school diploma"
+        },
+        "spouse": "Klara Andersson",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "J J Jonasson"
+            },
+            {
+                "@type": "Person",
+                "name": "Maria Jonasson"
+            }
+        ],
+        "owns": [
+            {
+                "@type": "Place",
+                "name": "Bäckens estate"
+            },
+            {
+                "@type": "Organization",
+                "name": "Bäckens mill"
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Dalskogs Ångsågs- & TräförädlingsAB",
+            "jobTitle": "Director"
+        },
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Municipal Board"
+        },
+        "travels": [
+            {
+                "@type": "TravelAction",
+                "departureTime": "1937",
+                "arrivalPlace": "Paris",
+                "arrivalTime": "1937",
+                "transitThrough": [
+                    {
+                        "@type": "Country",
+                        "name": "Germany"
+                    },
+                    {
+                        "@type": "Country",
+                        "name": "Belgium"
+                    }
+                ],
+                "hasPart": [
+                    {
+                        "@type": "Place",
+                        "name": "Frankfurt am Main"
+                    },
+                    {
+                        "@type": "Place",
+                        "name": "Berlin"
+                    }
+                ]
+            }
+        ],
+        "founderOf": [
+            {
+                "@type": "Organization",
+                "name": "Dalskogs ångsåg",
+                "foundingDate": "1907"
+            }
+        ],
+        "expandedWith": {
+            "@type": "Organization",
+            "name": "carpentry factory",
+            "expansionDate": "1911"
+        },
+        "purchased": [
+            {
+                "@type": "Organization",
+                "name": "C A Olssons timber business",
+                "purchaseDate": "1925",
+                "place": "Mellerud"
+            },
+            {
+                "@type": "Organization",
+                "name": "Bäckefors Wood Processing facility",
+                "purchaseDate": "1926",
+                "place": "Bäckefors"
+            }
+        ],
+        "transformedInto": {
+            "@type": "Organization",
+            "name": "Dalskogs Ångsågs- & Träförädlings AB",
+            "transformationDate": "1927",
+            "branches": [
+                {
+                    "@type": "Place",
+                    "name": "Mellerud"
+                },
+                {
+                    "@type": "Place",
+                    "name": "Bäckefors"
+                }
+            ]
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Bäckefors",
+                "industry": "",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Dalskogs Steam Sawmill & Wood Processing AB",
+                "industry": "Wood processing",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Founder",
+                "workplace": "Dalskogs Steam Sawmill",
+                "industry": "Wood processing",
+                "start_date": "1907"
+            },
+            {
+                "occupational_title": "Founder",
+                "workplace": "Dalskogs Steam Sawmill",
+                "industry": "Carpentry",
+                "start_date": "1911"
+            },
+            {
+                "occupational_title": "Purchaser",
+                "workplace": "C A Olsson's timber business",
+                "industry": "Timber",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Purchaser",
+                "workplace": "Bäckefors Wood Processing facility",
+                "industry": "Wood processing",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Transformed Companies",
+                "workplace": "Dalskogs Steam Sawmill & Wood Processing AB",
+                "industry": "Wood processing",
+                "start_date": "1927"
+            }
+        ]
+    }
+}

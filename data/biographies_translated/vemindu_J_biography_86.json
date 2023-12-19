@@ -1,0 +1,94 @@
+{
+    "original": "JOHANSON, Eric Otto Rudolf, Grosshandlare, Krylbo, f Torö, Sörml, 4/9 86 av E A J o Lotten Ericsson, gm Anna Elisabet Lindström. Hdlssk. Deläg fma Söör &amp; Johanson Krylbo 15, eg parti- o ag.af f 20, ch f Marg.-fabr förs.AB:s nederl i Krylbo 27 o AB Krylbo agenturcentr 42. Led kommun.nmdn, led o v. ordf kommun.flm, ordf elv.styr, styr f Kärrgruvans spisbr.fabr o Folkare hdlsfrn. Frimurare, Odd Fellow, Sv köpm.frbs ftjt g.",
+    "translated": "JOHANSON, Eric Otto Rudolf, Merchant, Krylbo, born in Torö, Sörmland, on September 4th, 1886, son of E.A.J. and Lotten Ericsson, married to Anna Elisabet Lindström. Commercial School graduate. Co-owner of the company Söör & Johanson in Krylbo since 1915, also involved in the wholesale and agency business from 1920, as well as in the management of Margarine Factory AB's branch in Krylbo from 1927 and AB Krylbo Agenturcentr from 1942. Member of the municipal council, member and vice chairman of the municipal board, chairman of the electricity board, board member of Kärrgruvans Spisbr.fabr and Folkare Hdlsfrn. Freemason, Odd Fellow, member of the Swedish Merchants Association.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Eric Otto Rudolf Johanson",
+        "birthDate": "1886-09-04",
+        "birthPlace": "Torö, Sörmland, Sweden",
+        "father": {
+            "@type": "Person",
+            "name": "E.A.J. Ericsson"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Lotten Ericsson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Anna Elisabet Lindström"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Commercial School",
+            "credentialEarned": "Graduate"
+        },
+        "occupation": {
+            "@type": "Occupation",
+            "name": "Merchant"
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Söör & Johanson"
+        },
+        "worksStartDate": "1915",
+        "worksForDetails": "Co-owner",
+        "wholesaleBusinessStartDate": "1920",
+        "wholesaleBusinessDetails": "Participation in wholesale and agency business",
+        "margarineFactoryBranchStartDate": "1927",
+        "margarineFactoryBranchDetails": "Management of Margarine Factory AB's branch in Krylbo",
+        "krylboAgenturcentrStartDate": "1942",
+        "krylboAgenturcentrDetails": "Management of AB Krylbo Agenturcentr",
+        "municipalCouncilMember": true,
+        "municipalBoardMember": true,
+        "municipalBoardViceChairman": true,
+        "electricityBoardChairman": true,
+        "boardMemberships": [
+            {
+                "@type": "Organization",
+                "name": "Kärrgruvans Spisbr.fabr"
+            },
+            {
+                "@type": "Organization",
+                "name": "Folkare Hdlsfrn"
+            }
+        ],
+        "affiliations": [
+            {
+                "@type": "Organization",
+                "name": "Freemasons"
+            },
+            {
+                "@type": "Organization",
+                "name": "Odd Fellows"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Merchants Association"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Söör & Johanson",
+                "industry": "Wholesale and Agency",
+                "start_date": "1915"
+            },
+            {
+                "occupational_title": "Margarine Factory Branch Manager",
+                "workplace": "Margarine Factory AB",
+                "industry": "Food Manufacturing",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Agency Center Manager",
+                "workplace": "AB Krylbo Agenturcentr",
+                "industry": "Wholesale and Agency",
+                "start_date": "1942"
+            }
+        ]
+    }
+}

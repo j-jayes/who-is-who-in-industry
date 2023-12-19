@@ -1,0 +1,78 @@
+{
+    "original": "JOHNSON, Carl-Gösta, Civilingenjör, Stockholm, f Gbg 10/3 11 av köpm C G J o Elin Bylander, gm Sigrid Nyman. Studex v Karolinska h a l i Örebro 29, civingex KTH (kemi) 34, spec.stud v KTH 35, stud v Skand Bryg-garehögsk i Kphmn 37. Ing h AB Sthlms Bryggerier 37—43, h Konsumtionsfrn i Sthlm sed. 43.",
+    "translated": "JOHNSON, Carl-Gösta, Civil Engineer, Stockholm, b Gothenburg 10/3 1911, son of merchant C G J and Elin Bylander, m. Sigrid Nyman. Graduated from Karolinska Institute in Örebro 1929, graduated as a Civil Engineer from KTH (Chemistry) in 1934, specialized studies at KTH in 1935, studied at Skand Bryggeri School in Copenhagen in 1937. Employed by AB Stockholm Brewery 1937-1943, employed by Konsumtionsfrn in Stockholm since 1943.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl-Gösta Johnson",
+        "jobTitle": "Civil Engineer",
+        "birthPlace": "Gothenburg",
+        "birthDate": "1911-03-10",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "C G J"
+            },
+            {
+                "@type": "Person",
+                "name": "Elin Bylander"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Sigrid Nyman"
+        },
+        "alumniOf": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Karolinska Institute",
+                "location": "Örebro",
+                "endDate": "1929"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "KTH",
+                "studyType": "Chemistry",
+                "endDate": "1934"
+            }
+        ],
+        "additionalName": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "KTH",
+                "endDate": "1935"
+            }
+        ],
+        "workLocation": "Stockholm",
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "AB Stockholm Brewery",
+                "startDate": "1937",
+                "endDate": "1943"
+            },
+            {
+                "@type": "Organization",
+                "name": "Konsumtionsfrn",
+                "location": "Stockholm",
+                "startDate": "1943"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "AB Sthlms Bryggerier",
+                "industry": "Brewing",
+                "start_date": "1937"
+            },
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Konsumtionsfrn",
+                "industry": "Consumer Goods",
+                "start_date": "1943"
+            }
+        ]
+    }
+}

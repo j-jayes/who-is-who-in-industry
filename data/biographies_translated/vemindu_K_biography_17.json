@@ -1,0 +1,152 @@
+{
+    "original": "KABLEBO, Karl Birger, Disponent, Råsun-da (Sthlm), f St Tuna 25/11 90 av byggm C J Andersson o Selma Birgersson, gm Märta Wikman. Efter avslut skolgång anst som bruksbokh v Näfveqvarns Bruk i Sdrmld samtdärefter som korr i Krist t 16, förste korr h Söderberg &amp; Haak, Sthlm, 18. Disp h Maskin AB Karlebo, Sthlm, sed. 29. Medl av KSSS o Norrt Jaktkl. Frimurare.",
+    "translated": "KABLEBO, Karl Birger, Manager, Råsunda (Stockholm), born in St Tuna on November 25, 1890, son of builder C J Andersson and Selma Birgersson, married to Märta Wikman. After completing his schooling, he was employed as a bookkeeper at Näfveqvarns Bruk in Södermanland, and then as a clerk at Krist t 16. He also worked as a senior clerk at Söderberg & Haak in Stockholm from 1918. He became the manager at Maskin AB Karlebo in Stockholm in 1929 and held the position until retirement. He was a member of KSSS (Royal Swedish Yacht Club) and Norrt Jaktkl (North Hunting Club). He was also a Freemason.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Karl Birger Kablebo",
+        "jobTitle": "Manager",
+        "birthDate": "1890-11-25",
+        "birthPlace": "St Tuna",
+        "spouse": {
+            "@type": "Person",
+            "name": "Märta Wikman"
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "C J Andersson",
+                "jobTitle": "Builder"
+            },
+            {
+                "@type": "Person",
+                "name": "Selma Birgersson"
+            }
+        ],
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "HighSchoolDiploma",
+            "credentialAwarded": "High School Diploma"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "KSSS"
+            },
+            {
+                "@type": "Organization",
+                "name": "Norrt Jaktkl"
+            },
+            {
+                "@type": "Organization",
+                "name": "Frimurare"
+            }
+        ],
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "191x",
+                "endDate": "191x",
+                "roleName": "Bookkeeper",
+                "baseSalary": {
+                    "@type": "MonetaryAmount",
+                    "currency": "SEK"
+                },
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Näfveqvarns Bruk"
+                },
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressRegion": "Södermanland"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "191x",
+                "endDate": "191x",
+                "roleName": "Clerk",
+                "baseSalary": {
+                    "@type": "MonetaryAmount",
+                    "currency": "SEK"
+                },
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Krist t 16"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1918",
+                "roleName": "Senior Clerk",
+                "baseSalary": {
+                    "@type": "MonetaryAmount",
+                    "currency": "SEK"
+                },
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Söderberg & Haak"
+                },
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1929",
+                "endDate": "<retirement date>",
+                "roleName": "Manager",
+                "baseSalary": {
+                    "@type": "MonetaryAmount",
+                    "currency": "SEK"
+                },
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Maskin AB Karlebo"
+                },
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm"
+                    }
+                }
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Bruksbokh",
+                "workplace": "Näfveqvarns Bruk",
+                "industry": "Ironworks",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Korr",
+                "workplace": "Krist t 16",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "First Clerk",
+                "workplace": "Söderberg & Haak",
+                "industry": "Unknown",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Maskin AB Karlebo",
+                "industry": "Machinery",
+                "start_date": "1929"
+            }
+        ]
+    }
+}

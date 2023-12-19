@@ -1,0 +1,33 @@
+{
+    "original": "JANSSON, Eric, Järnhandlare, Örebro, f öbr 27/2 89. Inneh järnhandelsfirma Otterdahls Eftr i öbr sed. 28. Medl av Västmanl-Närkes Järnhandl.frn.",
+    "translated": "JANSSON, Eric, Iron Merchant, Örebro, b 27/2 89. Owner of the iron trade company Otterdahls Eftr since 28. Member of the Västmanland-Närke Iron Merchants Association.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Eric Jansson",
+        "jobTitle": "Iron Merchant",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Örebro"
+        },
+        "birthDate": "1889-02-27",
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Västmanland-Närke Iron Merchants Association"
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Otterdahls Eftr"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Iron Merchant",
+                "workplace": "Otterdahls Eftr",
+                "industry": "Iron Trade",
+                "start_date": "1928"
+            }
+        ]
+    }
+}

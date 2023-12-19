@@ -1,0 +1,129 @@
+{
+    "original": "JULIN, Harald Sigfrid Alexander, Direktör, Stockholm, f Sthlm 27/3 90 av förman E J o Hulda Sandberg, gm Hermana Johansson. Studex Sthlm 09. Sekr i KAK 16—33, vkst dir f Sportpalatset sed. 33. Inneh 31 sv mäs-tersk i simn 07—24, eng mast i bröstsim 10, delt i olymp sp 06—20, 3:e pris 100 m simn v Londonolymp 08, fi olymp pris i vattenpolo. RVO, GM f beröml garn, KAK:s, Sv simfrbs o SKK:s ftjGM, Riksidr.frbs ftjt. Hobbies: Simning, fiske.",
+    "translated": "JULIN, Harald Sigfrid Alexander, Director, Stockholm, b. Stockholm 27/3 1890 to foreman E J and Hulda Sandberg, m. Hermana Johansson. Graduated from Stockholm in 1909. Secretary at KAK 1916-1933, Deputy Director at Sportpalatset since 1933. Holder of 31 Swedish championships in swimming from 1907 to 1924, English championship in breaststroke in 1910, competed in Olympic Games from 1906 to 1920, won 3rd prize in 100 m swimming at the London Olympics in 1908, and a silver Olympic prize in water polo. Recipient of the Royal Swedish Order of Vasa, commendation in defense, Swedish Automobile Association's, Swedish Swimming Federation's, and Swedish Canine Association's honorary awards. Honorary member of the National Sports Association. Hobbies: Swimming, fishing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Harald Sigfrid Alexander Julin",
+        "birthDate": "1890-03-27",
+        "birthPlace": "Stockholm",
+        "description": "Director",
+        "parents": [
+            {
+                "name": "E J Sandberg",
+                "jobTitle": "Foreman"
+            },
+            {
+                "name": "Hulda Sandberg"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Hermana Johansson"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "diploma",
+            "educationalLevel": "Graduate",
+            "alumniOf": "Stockholm"
+        },
+        "work": [
+            {
+                "jobTitle": "Secretary",
+                "startDate": "1916",
+                "endDate": "1933",
+                "worksFor": "KAK"
+            },
+            {
+                "jobTitle": "Deputy Director",
+                "startDate": "1933",
+                "worksFor": "Sportpalatset"
+            }
+        ],
+        "sports": [
+            {
+                "name": "Swimming",
+                "championshipsWon": 31,
+                "championshipsWonFor": "Sweden",
+                "yearsActive": "1907-1924"
+            },
+            {
+                "name": "Breaststroke",
+                "championshipsWon": 1,
+                "championshipsWonFor": "England",
+                "year": "1910"
+            },
+            {
+                "name": "Olympics",
+                "yearsActive": "1906-1920",
+                "medals": [
+                    {
+                        "medalType": "Bronze",
+                        "event": "100m swimming",
+                        "year": "1908",
+                        "games": "London Olympics"
+                    },
+                    {
+                        "medalType": "Silver",
+                        "event": "Water polo",
+                        "games": "Olympics"
+                    }
+                ]
+            }
+        ],
+        "awards": [
+            {
+                "@type": "Order",
+                "name": "Royal Swedish Order of Vasa"
+            },
+            {
+                "@type": "CivicStructure",
+                "name": "Sporting Association",
+                "description": "Commendation in defense"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Automobile Association",
+                "description": "Honorary award"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Swimming Federation",
+                "description": "Honorary award"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Canine Association",
+                "description": "Honorary award"
+            },
+            {
+                "@type": "Organization",
+                "name": "National Sports Association",
+                "description": "Honorary member"
+            }
+        ],
+        "additionalProperty": [
+            {
+                "@type": "PropertyValue",
+                "propertyID": "Hobbies",
+                "value": "Swimming, fishing"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Secretary",
+                "workplace": "KAK",
+                "industry": "Unknown",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Deputy Director",
+                "workplace": "Sportpalatset",
+                "industry": "Unknown",
+                "start_date": "1933"
+            }
+        ]
+    }
+}

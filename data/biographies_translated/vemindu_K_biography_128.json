@@ -1,0 +1,144 @@
+{
+    "original": "KOCK, Hans Oscar Bertil, Fabrikschef, Gävle, föräldr fabr.ch C O K o Kerstin Nilsson, gm Gunilla Westberg. Malmö hal, Chemieschule Dr. Schmiedel &amp; Gunzert, Stuttgart. Anst h E Siede A/G Seifenfabr i Elbing Ostpr, Gebriider Sudfeldt K/G Feinseifenfabr i Melle Hannov, driftsass Gefle såpfabr Isaac Westergren &amp; Co 28—33, fabr.ch 33—39, d :o tekn AB Flora sed. 40. Resor: Frankr 30, Tyskl 31, 32, 37, 42.",
+    "translated": "KOCK, Hans Oscar Bertil, Factory Manager, Gävle, parents factory manager C O K and Kerstin Nilsson, married to Gunilla Westberg. Malmö Secondary School, Chemieschule Dr. Schmiedel & Gunzert, Stuttgart. Employed at H E Siede A/G Soap Factory in Elbing, East Prussia; Gebriider Sudfeldt K/G Fine Soap Factory in Melle Hannover; operated Isaac Westergren & Co Soap Factory in Gefle from 1928 to 1933, became factory manager from 1933 to 1939, and then technical director at AB Flora since 1940. Travels: France in 1930, Germany in 1931, 1932, 1937, and 1942.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Hans Oscar Bertil Kock",
+        "jobTitle": "Factory Manager",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Gävle"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "C O K"
+            },
+            {
+                "@type": "Person",
+                "name": "Kerstin Nilsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Gunilla Westberg"
+        },
+        "education": [
+            {
+                "@type": "Organization",
+                "name": "Malmö Secondary School"
+            },
+            {
+                "@type": "Organization",
+                "name": "Chemieschule Dr. Schmiedel & Gunzert",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stuttgart"
+                }
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "H E Siede A/G Soap Factory",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Elbing, East Prussia"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Gebriider Sudfeldt K/G Fine Soap Factory",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Melle Hannover"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Isaac Westergren & Co Soap Factory",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Gefle"
+                },
+                "startDate": "1928",
+                "endDate": "1933"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Flora",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Gefle"
+                },
+                "startDate": "1940"
+            }
+        ],
+        "travels": [
+            "France in 1930",
+            "Germany in 1931",
+            "Germany in 1932",
+            "Germany in 1937",
+            "Germany in 1942"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Factory Manager",
+                "workplace": "Gävle",
+                "industry": "Soap Manufacturing",
+                "start_date": null
+            },
+            {
+                "occupational_title": null,
+                "workplace": null,
+                "industry": "Parent's Soap Manufacturing Company",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Student",
+                "workplace": "Malmö Secondary School",
+                "industry": "Education",
+                "start_date": null
+            },
+            {
+                "occupational_title": null,
+                "workplace": "Chemieschule Dr. Schmiedel & Gunzert, Stuttgart",
+                "industry": "Education",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "H E Siede A/G Soap Factory",
+                "industry": "Soap Manufacturing",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Gebriider Sudfeldt K/G Fine Soap Factory",
+                "industry": "Soap Manufacturing",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Operator",
+                "workplace": "Isaac Westergren & Co Soap Factory",
+                "industry": "Soap Manufacturing",
+                "start_date": 1928
+            },
+            {
+                "occupational_title": "Factory Manager",
+                "workplace": "Isaac Westergren & Co Soap Factory",
+                "industry": "Soap Manufacturing",
+                "start_date": 1933
+            },
+            {
+                "occupational_title": "Technical Director",
+                "workplace": "AB Flora",
+                "industry": "Soap Manufacturing",
+                "start_date": 1940
+            }
+        ]
+    }
+}

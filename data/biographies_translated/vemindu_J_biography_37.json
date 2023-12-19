@@ -1,0 +1,79 @@
+{
+    "original": "JANSON, Axel Georg Fredrik, Kamrer, Göteborg, f Gbg 29/1 82 av sjökapt H F Janson o Alice Thomson, gm Anna Rydberg. Realex. Anst i fma Axel Broström &amp; Son sed. 98. Suppl i tax.nmdn. Kassaförv f Gbgs kyrkl sjömansvård, Pens.kassan Posteritas, Dan Boströms sjuk- &amp; understödsfond. Ordf 1 Kullaviks kanot- &amp; kappsegl.klubb. Hobby: segling.",
+    "translated": "JANSON, Axel Georg Fredrik, Clerk, Gothenburg, b Gothenburg 29/1 82, son of ship captain H F Janson and Alice Thomson, married to Anna Rydberg. Attended Realskola. Employed by Axel Broström & Son since 1898. Served as deputy in the tax committee. Cashier for Gothenburg Church Seamen's Relief, Pension Fund Posteritas, Dan Boström's sick and relief fund. Chairman of Kullavik's Canoeing and Sailing Club. Hobby: sailing.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Axel Georg Fredrik Janson",
+        "jobTitle": "Clerk",
+        "birthDate": "1882-01-29",
+        "birthPlace": "Gothenburg",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "H F Janson",
+                "jobTitle": "Ship Captain"
+            },
+            {
+                "@type": "Person",
+                "name": "Alice Thomson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Anna Rydberg"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Realskola"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Axel Broström & Son",
+                "startDate": "1898"
+            },
+            {
+                "@type": "Organization",
+                "name": "Gothenburg Church Seamen's Relief",
+                "jobTitle": "Cashier"
+            },
+            {
+                "@type": "Organization",
+                "name": "Pension Fund Posteritas"
+            },
+            {
+                "@type": "Organization",
+                "name": "Dan Boström's Sick and Relief Fund"
+            },
+            {
+                "@type": "Organization",
+                "name": "Kullavik's Canoeing and Sailing Club",
+                "jobTitle": "Chairman"
+            }
+        ],
+        "hobby": "sailing"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Clerk",
+                "workplace": "Axel Broström & Son",
+                "industry": "Shipping",
+                "start_date": "1898"
+            },
+            {
+                "occupational_title": "Deputy in the tax committee",
+                "workplace": "Unknown",
+                "industry": "Government",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Cashier for Gothenburg Church Seamen's Relief",
+                "workplace": "Unknown",
+                "industry": "Non-profit (Social Welfare)",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

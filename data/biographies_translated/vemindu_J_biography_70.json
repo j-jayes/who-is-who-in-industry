@@ -1,0 +1,123 @@
+{
+    "original": "JENNER, Thor Reinhold, Grosshandlare. Stockholm, f Sthlm 91 av handl Ax Janson 0 Tekla Westlund, gm Greta Nissen. NReal, textil- o språkstud i Engl o Tyskl 09—10. Inneh Fma Jenner &amp; Garell (gr 19, sv repr f några av Engl:s led textilfabr). Ag fastigh Rimsmidaren 19 o Ordspråket 2 o 3 i Sthlm. Medl av Sthlms Grosshdlssocietet.",
+    "translated": "JENNER, Thor Reinhold, Merchant. Stockholm, born in Stockholm in 1891, son of merchant Ax Janson and Tekla Westlund, married to Greta Nissen. Completed studies in textiles and languages (English and German) in 1909-1910. Owned the company Fma Jenner & Garell (founded in 1919, representing some of England's leading textile factories). Also owned properties Rimsmidaren (1919) and Ordspråket 2 and 3 in Stockholm. Member of the Stockholm Merchants Association.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Thor Reinhold Jenner",
+        "birthDate": "1891-01-01",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Stockholm"
+            }
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Ax Janson",
+                "jobTitle": "Merchant"
+            },
+            {
+                "@type": "Person",
+                "name": "Tekla Westlund"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Greta Nissen"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "textile studies",
+                "startDate": "1909-01-01",
+                "endDate": "1910-01-01"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "languages",
+                "startDate": "1909-01-01",
+                "endDate": "1910-01-01",
+                "recognizedBy": {
+                    "@type": "Organization",
+                    "name": "Real"
+                }
+            }
+        ],
+        "owns": [
+            {
+                "@type": "OwnershipInfo",
+                "ownedFrom": "1919-01-01",
+                "ownedThrough": null,
+                "typeOfGood": {
+                    "@type": "Product",
+                    "name": "Fma Jenner & Garell",
+                    "category": "company",
+                    "additionalType": "Textile"
+                }
+            },
+            {
+                "@type": "OwnershipInfo",
+                "ownedFrom": "1919-01-01",
+                "ownedThrough": null,
+                "typeOfGood": {
+                    "@type": "Place",
+                    "name": "Rimsmidaren",
+                    "additionalType": "Property"
+                }
+            },
+            {
+                "@type": "OwnershipInfo",
+                "ownedFrom": "unknown",
+                "ownedThrough": null,
+                "typeOfGood": {
+                    "@type": "Place",
+                    "name": "Ordspråket 2"
+                }
+            },
+            {
+                "@type": "OwnershipInfo",
+                "ownedFrom": "unknown",
+                "ownedThrough": null,
+                "typeOfGood": {
+                    "@type": "Place",
+                    "name": "Ordspråket 3"
+                }
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Stockholm Merchants Association"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Fma Jenner & Garell",
+                "industry": "Textiles",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "Rimsmidaren",
+                "industry": "Real estate",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "Ordspråket 2",
+                "industry": "Real estate",
+                "start_date": "unknown"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "Ordspråket 3",
+                "industry": "Real estate",
+                "start_date": "unknown"
+            }
+        ]
+    }
+}

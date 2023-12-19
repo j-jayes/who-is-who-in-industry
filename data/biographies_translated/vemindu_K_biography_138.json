@@ -1,0 +1,96 @@
+{
+    "original": "KOLMODIN, Karl Olof Gylfe, Civilingenjör, Stockholm, f Sthlm 14/2 93 av tullkontr C O B K o Zelma Knoch, gm Edit Nilson. Studex Sthlm 11, KTH (B) 12—16. Offerting v Luth &amp; Roséns Elektr AB Sthlm 17—18, l :e ing v Elektr Bol Poijes &amp; Wettermark Sthlm 18—38, nu ombudsm h Elektr Arb.giv.frn o Sv Elektr Entreprenörsfrn. Styr.led i Elektr Arb.giv.frn, Fera o Fastigh AB Monumentet.",
+    "translated": "KOLMODIN, Karl Olof Gylfe, Civil Engineer, Stockholm, born in Stockholm on February 14, 1893, son of customs officer C O B K and Zelma Knoch, married Edit Nilson. Studied in Stockholm until 1911, KTH (Royal Institute of Technology) from 1912 to 1916. Worked as an intern at Luth & Rosén's Electric AB in Stockholm from 1917 to 1918, and as a junior engineer at Electric Company Poijes & Wettermark in Stockholm from 1918 to 1938. Currently represents the Electric Employers' Association and the Swedish Electric Contractors' Association. Serves on the board of Electric Employers' Association, Fera, and Monumentet Real Estate AB.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Karl Olof Gylfe Kolmodin",
+        "birthDate": "1893-02-14",
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Stockholm"
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "C O B K"
+            },
+            {
+                "@type": "Person",
+                "name": "Zelma Knoch"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Edit Nilson"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "KTH",
+            "location": "Stockholm"
+        },
+        "alumniOf": {
+            "@type": "EducationalOrganization",
+            "name": "KTH",
+            "location": "Stockholm"
+        },
+        "employment": [
+            {
+                "@type": "Organization",
+                "name": "Luth & Rosén's Electric AB",
+                "location": "Stockholm",
+                "startDate": "1917",
+                "endDate": "1918",
+                "jobTitle": "Intern"
+            },
+            {
+                "@type": "Organization",
+                "name": "Electric Company Poijes & Wettermark",
+                "location": "Stockholm",
+                "startDate": "1918",
+                "endDate": "1938",
+                "jobTitle": "Junior Engineer"
+            },
+            {
+                "@type": "Organization",
+                "name": "Electric Employers' Association",
+                "roleName": "Ombudsman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Electric Contractors' Association",
+                "roleName": "Representative"
+            }
+        ],
+        "boardMemberIn": [
+            {
+                "@type": "Organization",
+                "name": "Electric Employers' Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Fera"
+            },
+            {
+                "@type": "Organization",
+                "name": "Monumentet Real Estate AB"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Intern",
+                "workplace": "Luth & Rosén's Electric AB",
+                "industry": "Electric",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Junior Engineer",
+                "workplace": "Electric Company Poijes & Wettermark",
+                "industry": "Electric",
+                "start_date": "1918"
+            }
+        ]
+    }
+}

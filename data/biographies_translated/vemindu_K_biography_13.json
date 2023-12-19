@@ -1,0 +1,70 @@
+{
+    "original": "KABLBEBG, Karl-Axel Ludvig, Civilingenjör, Stockholm, f Uddevalla 7/5 03 av folk-skollär J L K o Terese Lundén. CTI (kemi) 23—26. Driftsing v Orrefors Bruks AB 26—32, v Helios Kemisk Tekn Fabriker AB Sthlm sed. 32.",
+    "translated": "KABLBEBG, Karl-Axel Ludvig, Civil Engineer, Stockholm, born in Uddevalla on May 7, 1903, son of primary school teacher J L K and Terese Lundén. Completed his studies in Chemistry (CTI) from 1923 to 1926. Worked at Orrefors Bruks AB from 1926 to 1932 and at Helios Chemical Technical Factories AB in Stockholm since 1932.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Karl-Axel Ludvig KABLBEBG",
+        "jobTitle": "Civil Engineer",
+        "birthDate": "1903-05-07",
+        "birthPlace": "Uddevalla",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "J L K",
+                "jobTitle": "Primary School Teacher"
+            },
+            {
+                "@type": "Person",
+                "name": "Terese Lundén"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Chemistry",
+                "startDate": "1923",
+                "endDate": "1926"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Orrefors Bruks AB",
+                "startDate": "1926",
+                "endDate": "1932"
+            },
+            {
+                "@type": "Organization",
+                "name": "Helios Chemical Technical Factories AB",
+                "startDate": "1932"
+            }
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Stockholm",
+                "industry": "Engineering",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Driftsing",
+                "workplace": "Orrefors Bruks AB",
+                "industry": "Glass Manufacturing",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Driftsing",
+                "workplace": "Helios Chemical Technical Factories AB",
+                "industry": "Chemical Manufacturing",
+                "start_date": "1932"
+            }
+        ]
+    }
+}

@@ -1,0 +1,125 @@
+{
+    "original": "KRONKER, Carl Fredrik, Direktör, Göteborg, f Gbg 25/2 70 av grosshandlare C J Kronker o h h. GbgLatin, handelsinstitut. Del-äg o medarb i fad fma Kronker &amp; Fries i Gbg 97, ensam inneh av denna eft fad död 06, överlät den t Ekström &amp; Lefflers AB 32, övert AB Gbgs Reseffektfabr 28, fortf inneh av o dir f denna. Fd rev i Gbgs hamnstyr, fd ordf i Gbgs Engrossisters Kolonialvarufrn. Resor: Tyskl, Frankr, Holl, Belg o Span. Gbgs o Bohusl Jaktv.frns ftJM. Hobbies: Segling, jakt.",
+    "translated": "KRONKER, Carl Fredrik, Director, Gothenburg, b Gothenburg 25/2 70, son of merchant C J Kronker and his wife. Gothenburg Latin, commercial institute. Partial owner and collaborator in his father's company Kronker & Fries in Gothenburg since 1897. Sole owner of the company after his father's death in 1906, transferred it to Ekström & Lefflers AB in 1932. Took over AB Gothenburg Travel Equipment Factory in 1928 and still holds ownership and is the director of it. Former member of the Gothenburg Port Authority, former chairman of the Gothenburg Wholesale Grocers Colonial Goods Association. Traveled to Germany, France, the Netherlands, Belgium, and Spain. Member of the Gothenburg and Bohusl Hunting Association. Hobbies: Sailing, hunting.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Fredrik Kronker",
+        "birthDate": "1870-02-25",
+        "birthPlace": "Gothenburg, Sweden",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "C J Kronker",
+                "jobTitle": "Merchant"
+            },
+            {
+                "@type": "Person",
+                "name": "Mrs. Kronker"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Gothenburg Latin"
+            },
+            {
+                "@type": "Organization",
+                "name": "Commercial Institute"
+            }
+        ],
+        "hasOccupation": {
+            "@type": "OrganizationRole",
+            "roleName": "Director",
+            "startDate": "1906-01-01",
+            "endDate": "present",
+            "memberOf": {
+                "@type": "Organization",
+                "name": "Gothenburg Travel Equipment Factory",
+                "startDate": "1928-01-01"
+            }
+        },
+        "hasOwnership": [
+            {
+                "@type": "OwnershipInfo",
+                "ownedFrom": "1897-01-01",
+                "ownedThrough": "1932-01-01",
+                "ownedThroughNote": "Transferred to Ekström & Lefflers AB"
+            },
+            {
+                "@type": "OwnershipInfo",
+                "ownedFrom": "1906-01-01",
+                "ownedThrough": "present",
+                "ownedNote": "Sole owner of Kronker & Fries"
+            }
+        ],
+        "formerMemberOf": [
+            {
+                "@type": "Organization",
+                "name": "Gothenburg Port Authority",
+                "endDate": "present"
+            },
+            {
+                "@type": "Organization",
+                "name": "Gothenburg Wholesale Grocers Colonial Goods Association",
+                "endDate": "present"
+            },
+            {
+                "@type": "Organization",
+                "name": "Gothenburg and Bohusl Hunting Association",
+                "endDate": "present"
+            }
+        ],
+        "hobbies": [
+            {
+                "@type": "Product",
+                "name": "Sailing"
+            },
+            {
+                "@type": "Product",
+                "name": "Hunting"
+            }
+        ],
+        "travelHistory": [
+            "Germany",
+            "France",
+            "the Netherlands",
+            "Belgium",
+            "Spain"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Gothenburg",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Partial Owner and Collaborator",
+                "workplace": "Kronker & Fries",
+                "industry": "Unknown",
+                "start_date": "1897"
+            },
+            {
+                "occupational_title": "Sole Owner",
+                "workplace": "Kronker & Fries",
+                "industry": "Unknown",
+                "start_date": "1906"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Ekström & Lefflers AB",
+                "industry": "Unknown",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Owner and Director",
+                "workplace": "AB Gothenburg Travel Equipment Factory",
+                "industry": "Unknown",
+                "start_date": "1928"
+            }
+        ]
+    }
+}

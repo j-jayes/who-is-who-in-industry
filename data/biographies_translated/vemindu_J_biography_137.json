@@ -1,0 +1,87 @@
+{
+    "original": "JOHANSSON, Martin Leonard, Civilingenjör, Henriksdal, f Barkåkra, Krstds l, 3/10 03 av sjökapt C A J o Emma Andersson. Ex tekn elem.sk Norrkp 25, KTH (maskinbyggn o mek tekn) 25—30. Anst v Hesselman Motor Corp AB i Henriksdal sed. 30. °JOHANSSON, Karl Martin, Järnhandlare, Arboga, f Eskilstuna 11/11 94. Inneh Martin Johansson Järnhdl sed. 31. Medl av Arboga Köpm.frn samt Västmanl-Närkes Järnhandl.-frn.",
+    "translated": "JOHANSSON, Martin Leonard, Civil Engineer, Henriksdal, from Barkåkra, Kristianstad county, born on October 3, 1903, son of Ship Captain C A J and Emma Andersson. Formerly employed as a technical elementary teacher in Norrköping from 1925. Studied at KTH (Royal Institute of Technology) in mechanical engineering and mechanical technology from 1925 to 1930. Currently employed by Hesselman Motor Corp AB in Henriksdal since 1930.\n\n°JOHANSSON, Karl Martin, Ironmonger, Arboga, born in Eskilstuna on November 11, 1894. Owner of Martin Johansson Ironmongery since 1931. Member of the Arboga Merchants Association and the Västmanland-Närke Ironmongery Association.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Martin Leonard Johansson",
+        "jobTitle": "Civil Engineer",
+        "birthPlace": "Barkåkra, Kristianstad county, Sweden",
+        "birthDate": "1903-10-03",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "C A J Johansson",
+                "jobTitle": "Ship Captain"
+            },
+            {
+                "@type": "Person",
+                "name": "Emma Andersson"
+            }
+        ],
+        "formerJobTitle": "Technical Elementary Teacher",
+        "formerEmployer": "Norrköping",
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Royal Institute of Technology",
+                "location": "Stockholm, Sweden",
+                "areaOfStudy": [
+                    "Mechanical Engineering",
+                    "Mechanical Technology"
+                ],
+                "startDate": "1925",
+                "endDate": "1930"
+            }
+        ],
+        "currentJobTitle": "Employee",
+        "employer": "Hesselman Motor Corp AB",
+        "worksForLocation": "Henriksdal",
+        "employmentStartDate": "1930",
+        "relatedTo": [
+            {
+                "@type": "Person",
+                "name": "Karl Martin Johansson",
+                "jobTitle": "Ironmonger",
+                "birthPlace": "Eskilstuna, Sweden",
+                "birthDate": "1894-11-11",
+                "owns": {
+                    "@type": "Organization",
+                    "name": "Martin Johansson Ironmongery"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Arboga Merchants Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Västmanland-Närke Ironmongery Association"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Technical Elementary Teacher",
+                "workplace": "Norrköping",
+                "industry": "Education",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Hesselman Motor Corp AB",
+                "industry": "Engineering",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Ironmonger",
+                "workplace": "Martin Johansson Ironmongery",
+                "industry": "Retail",
+                "start_date": "1931"
+            }
+        ]
+    }
+}

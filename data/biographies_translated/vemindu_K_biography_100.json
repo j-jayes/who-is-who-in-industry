@@ -1,0 +1,137 @@
+{
+    "original": "KJERRMAN, Bengt, Doktor, Gö*teborg, f Stockholm 5/8 89 av red.sekr F K o förf:an Anna Wahlenberg, gm Polly Crselius. Studex, bergsingex, dr.-ingex. Anst: KTH mtrl-provn.anst 14—16, Avesta jernvk 16—18, Klosters AB 1&amp;—26, SKF sed. 26.",
+    "translated": "KJERRMAN, Bengt, Doctor, Göteborg, born in Stockholm on May 8, 1889, son of chief editor F K and author Anna Wahlenberg, married to Polly Crselius. Completed high school, mining engineering degree, and doctorate in engineering. Employed at KTH material testing facility from 1914 to 1916, Avesta Ironworks from 1916 to 1918, Klosters AB from 1921 to 1926, SKF since 1926...",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "KJERRMAN, Bengt",
+        "givenName": "Bengt",
+        "familyName": "KJERRMAN",
+        "gender": "Male",
+        "birthPlace": "Stockholm, Sweden",
+        "birthDate": "1889-08-05",
+        "nationality": "Swedish",
+        "description": "Doctor",
+        "jobTitle": "Doctor",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "KTH",
+                "startDate": "1914",
+                "endDate": "1916",
+                "roleName": "Material Testing Facility"
+            },
+            {
+                "@type": "Organization",
+                "name": "Avesta Ironworks",
+                "startDate": "1916",
+                "endDate": "1918",
+                "roleName": "Employed"
+            },
+            {
+                "@type": "Organization",
+                "name": "Klosters AB",
+                "startDate": "1921",
+                "endDate": "1926",
+                "roleName": "Employed"
+            },
+            {
+                "@type": "Organization",
+                "name": "SKF",
+                "startDate": "1926",
+                "roleName": "Employed"
+            }
+        ],
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "F K KJERRMAN",
+                "jobTitle": "Chief Editor"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Wahlenberg",
+                "jobTitle": "Author"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Polly Crselius"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "High School Diploma",
+            "description": "Completed high school"
+        },
+        "hasCredential": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Mining Engineering Degree",
+                "description": "Mining engineering degree"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Doctorate in Engineering",
+                "description": "Doctorate in engineering"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Doctor",
+                "workplace": "Göteborg",
+                "industry": null,
+                "start_date": null
+            },
+            {
+                "occupational_title": "Chief Editor",
+                "workplace": "Stockholm",
+                "industry": null,
+                "start_date": null
+            },
+            {
+                "occupational_title": "Author",
+                "workplace": null,
+                "industry": null,
+                "start_date": null
+            },
+            {
+                "occupational_title": "Mining Engineer",
+                "workplace": null,
+                "industry": null,
+                "start_date": null
+            },
+            {
+                "occupational_title": "Doctorate in Engineering",
+                "workplace": null,
+                "industry": null,
+                "start_date": null
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "KTH Material Testing Facility",
+                "industry": null,
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Avesta Ironworks",
+                "industry": null,
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Klosters AB",
+                "industry": null,
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "SKF",
+                "industry": null,
+                "start_date": "1926"
+            }
+        ]
+    }
+}

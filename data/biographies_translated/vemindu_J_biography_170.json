@@ -1,0 +1,84 @@
+{
+    "original": "JOHNSSON, Josef Walfred, Kamrer, Klavreström, f Åslemåla, Ålems förs, 1/5 88 av hemm.äg J A Jonsson o Alida Svensson, gm Astrid Nilsson. Kalmar Språk- o Hdlssk. Kassör o bokf AB Rosenfors Br 06—16, kassör o kamr AB Klafreströms Br sed. 16. Styr.led Klafreströms Egnahems AB. PatrstGM.",
+    "translated": "JOHNSSON, Josef Walfred, Clerk, Klavreström, born in Åslemåla, Ålem parish, on May 1, 1888 to home owners J A Jonsson and Alida Svensson, married to Astrid Nilsson. Educated at Kalmar Language and Commerce School. Treasurer and bookkeeper at Rosenfors Company from 1906 to 1916, treasurer and clerk at Klavreström Company since 1916. Board member of Klavreström Homestead Company. Father of at least one child.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Josef Walfred Johnsson",
+        "givenName": "Josef",
+        "familyName": "Johnsson",
+        "jobTitle": "Clerk",
+        "birthDate": "1888-05-01",
+        "birthPlace": "Åslemåla, Ålem parish",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "AB Rosenfors",
+                "title": "Treasurer and Bookkeeper",
+                "startDate": "1906-01-01",
+                "endDate": "1916-12-31"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Klavreströms",
+                "title": "Treasurer and Clerk",
+                "startDate": "1916-01-01"
+            },
+            {
+                "@type": "Organization",
+                "name": "Klavreströms Egnahems AB",
+                "title": "Board Member"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Astrid Nilsson"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "J A Jonsson",
+                "jobTitle": "Home Owner"
+            },
+            {
+                "@type": "Person",
+                "name": "Alida Svensson",
+                "jobTitle": "Home Owner"
+            }
+        ],
+        "children": [
+            {
+                "@type": "Person",
+                "name": "Children's Name"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Clerk",
+                "workplace": "AB Rosenfors",
+                "industry": "Company",
+                "start_date": "1906"
+            },
+            {
+                "occupational_title": "Treasurer",
+                "workplace": "AB Rosenfors",
+                "industry": "Company",
+                "start_date": "1906"
+            },
+            {
+                "occupational_title": "Treasurer",
+                "workplace": "AB Klavreströms Br",
+                "industry": "Company",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Clerk",
+                "workplace": "AB Klavreströms Br",
+                "industry": "Company",
+                "start_date": "1916"
+            }
+        ]
+    }
+}

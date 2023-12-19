@@ -1,0 +1,76 @@
+{
+    "original": "KJERRULF, Oscar, Direktör, Härnösand, f Hsand 20/9 85, gm Eva Widerberg. Hsands tekn lärov, stud Polytechnicum i Zurich 04— 05. Vkst dir AB Harald Andersson sed. 18. V. ordf riksbankens avd.kont.",
+    "translated": "KJERRULF, Oscar, Director, Härnösand, b. Härnösand on September 20, 1885, m. Eva Widerberg. Attended Härnösand Technical High School, studied at Polytechnicum in Zurich from 1904-1905. Became Managing Director of AB Harald Andersson in 1918. Vice Chairman of the National Bank's department office.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Oscar Kjerrulf",
+        "jobTitle": "Director",
+        "birthPlace": "Härnösand",
+        "birthDate": "1885-09-20",
+        "spouse": {
+            "@type": "Person",
+            "name": "Eva Widerberg"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "diploma",
+                "credentialSubject": "Technical Studies",
+                "educationalLevel": "HighSchool",
+                "educationalFramework": "Härnösand Technical High School"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "diploma",
+                "credentialSubject": "Polytechnic Studies",
+                "educationalLevel": "College",
+                "educationalFramework": "Polytechnicum"
+            }
+        ],
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "title": "Managing Director",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "AB Harald Andersson"
+                },
+                "startDate": "1918-01-01"
+            },
+            {
+                "@type": "Role",
+                "roleName": "Vice Chairman",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "National Bank"
+                },
+                "startDate": "unknown",
+                "endDate": "unknown",
+                "namedPosition": "department office"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Härnösand",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "AB Harald Andersson",
+                "industry": "Unknown",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Vice Chairman",
+                "workplace": "National Bank's department office",
+                "industry": "Banks",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

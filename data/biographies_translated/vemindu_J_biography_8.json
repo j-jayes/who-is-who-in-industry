@@ -1,0 +1,87 @@
+{
+    "original": "JACOBSON, Sten Jacob Gunnar, Grosshandlare, Norrköping, f Lund 14/7 08 av grhdl A M J o Ellen Hansson, gm Stina Malmeström. Nrkp hal, Påhlmans. Ag fma Papperskompaniet Norrkp, gr 24, partiförsäljn f Munksjö pappersbr, bindgarn, wellpapp, papperspåsar, förseglingsremsor mm.",
+    "translated": "JACOBSON, Sten Jacob Gunnar, Wholesale merchant, Norrköping, born in Lund on July 14th, 1908, to merchant A M J and Ellen Hansson, married to Stina Malmeström. Educated at Norrköping's School of Commerce. Employed at FMA Papperskompaniet in Norrköping, worked his way up to become the manager at the age of 24. Later worked in wholesale sales for Munksjö Paper Mill, specializing in binding twine, corrugated cardboard, paper bags, sealing tapes, and more.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Sten Jacob Gunnar Jacobson",
+        "birthDate": "1908-07-14",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Lund"
+            }
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "A M J Jacobson"
+            },
+            {
+                "@type": "Person",
+                "name": "Ellen Hansson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Stina Malmeström"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Norrköping's School of Commerce"
+        },
+        "jobTitle": "Wholesale merchant",
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "FMA Papperskompaniet",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Norrköping"
+                },
+                "startDate": "1932",
+                "endDate": "1936",
+                "position": "Manager"
+            },
+            {
+                "@type": "Organization",
+                "name": "Munksjö Paper Mill",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Norrköping"
+                },
+                "startDate": "1936",
+                "position": "Wholesale Sales"
+            }
+        ],
+        "specialty": [
+            "Binding Twine",
+            "Corrugated Cardboard",
+            "Paper Bags",
+            "Sealing Tapes"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Wholesale merchant",
+                "workplace": "Norrköping",
+                "industry": "Trade",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "FMA Papperskompaniet",
+                "industry": "Paper industry",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Wholesale sales",
+                "workplace": "Munksjö Paper Mill",
+                "industry": "Paper industry",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

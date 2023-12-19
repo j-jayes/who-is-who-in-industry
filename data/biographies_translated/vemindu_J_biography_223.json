@@ -1,0 +1,95 @@
+{
+    "original": "JONSON, Ernst Gösta, Civilingenjör, Grängesberg, f Långenäs, Gbgs o Boh l, 29/3 08 av godsäg E B J o Tora Andersson, gm Brita Åsbrink. CTI:s h avd. Anst v Mölnlycke Väfveri AB i Gbg 33—37, Elektrokem AB 3S— 39, Trafik AB Grängesberg—Oxelösund för-valtn i Grängesb, elektr avd, sed. 40. Resor: Tyskl, Tjeckoslov, Schweiz, Frankr, Holl o Engl 36. Milit idrottsmärke s, skyttemärke s. Led Sv Tekn.frn.",
+    "translated": "JONSON, Ernst Gösta, Civil Engineer, Grängesberg, b. Långenäs, Gothenburg, and Bohus county, on March 29, 1908, son of landowner E B J and Tora Andersson, m. Brita Åsbrink. Employed at CTI's department. Worked at Mölnlycke Väfveri AB in Gothenburg from 1933 to 1937, Elektrokem AB from 1935 to 1939, and Trafik AB Grängesberg-Oxelösund in Grängesberg, electrical department, since 1940. Traveled to Germany, Czechoslovakia, Switzerland, France, the Netherlands, and England in 1936. Awarded military sports badge and shooting badge. Member of the Swedish Technical Association.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Ernst Gösta Jonson",
+        "jobTitle": "Civil Engineer",
+        "birthPlace": "Långenäs, Gothenburg, and Bohus county",
+        "birthDate": "1908-03-29",
+        "parent": {
+            "@type": "Person",
+            "name": "E B Jonson"
+        },
+        "parent2": {
+            "@type": "Person",
+            "name": "Tora Andersson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Brita Åsbrink"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Mölnlycke Väfveri AB",
+                "startDate": "1933",
+                "endDate": "1937"
+            },
+            {
+                "@type": "Organization",
+                "name": "Elektrokem AB",
+                "startDate": "1935",
+                "endDate": "1939"
+            },
+            {
+                "@type": "Organization",
+                "name": "Trafik AB Grängesberg-Oxelösund",
+                "department": "Electrical",
+                "location": "Grängesberg",
+                "startDate": "1940"
+            }
+        ],
+        "travelledTo": [
+            "Germany",
+            "Czechoslovakia",
+            "Switzerland",
+            "France",
+            "the Netherlands",
+            "England"
+        ],
+        "awards": [
+            {
+                "@type": "Badge",
+                "name": "Military Sports Badge"
+            },
+            {
+                "@type": "Badge",
+                "name": "Shooting Badge"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Swedish Technical Association"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "CTI's department",
+                "industry": "",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "",
+                "workplace": "Mölnlycke Väfveri AB",
+                "industry": "",
+                "start_date": "1933"
+            },
+            {
+                "occupational_title": "",
+                "workplace": "Elektrokem AB",
+                "industry": "",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "",
+                "workplace": "Trafik AB Grängesberg-Oxelösund",
+                "industry": "electrical department",
+                "start_date": "1940"
+            }
+        ]
+    }
+}

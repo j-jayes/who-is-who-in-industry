@@ -1,0 +1,130 @@
+{
+    "original": "JENNEL,, Claes Axel Wilhelm, Prokurist, Stockholm, f Sthlm 1/6 95 av C L Johansson o Sofia Moberg, gm Lisa Ljungberg. Kealex, Schartaus. Anst Exp- &amp; Imp.fma Percy Tham, Sthlm o Oxelös, 13—22, T.An.Tesch AB Sthlm sed. 22, styr.led där. Ag fastigh Sthlm. Kyrkoflm, tax.nmd, prov.nmd, styr.led Johannes arbetsstuga, led nmd f Sthlms Stads hdlssk. Styr.ordf Sv Kontoristfrn, 2:e v. ordf Frn 95 års män. Resor: Finl, Estl, Lettl, Lit, Tyskl, Belg, Frankr 24—39. PatrstGM, Sv Kont.frns ftjm, Frn Mercuri-Schartauanernas ftjm.",
+    "translated": "JENNEL, Claes Axel Wilhelm, Prokurist (Procurator), Stockholm, born in Stockholm on June 1, 1895, to C L Johansson and Sofia Moberg, married Lisa Ljungberg. Worked at Kealex and Schartaus. Employed at Exp- & Imp.fma Percy Tham in Stockholm and Oxelös from 1913-1922, then at T.An.Tesch AB in Stockholm since 1922, serving as a board member there. Additionally involved in real estate in Stockholm. Member of the church council, tax committee, examination committee, and board of Johannes arbetsstuga. Board member of the trade school in Stockholm. Chairman of the Swedish Kontoristfrn (Clerks' Association), 2nd vice-chairman of the Frn 95 års män (Men Born in 1895 Association). Traveled to Finland, Estonia, Latvia, Lithuania, Germany, Belgium, and France from 1924 to 1939. Received the PatrstGM and served as the Swedish Kontoristfrn's representative at the Mercuri-Schartau Conference.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Claes Axel Wilhelm Jennel",
+        "givenName": "Claes Axel Wilhelm",
+        "familyName": "Jennel",
+        "birthDate": "1895-06-01",
+        "birthPlace": "Stockholm, Sweden",
+        "nationality": "Swedish",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "C L Johansson"
+            },
+            {
+                "@type": "Person",
+                "name": "Sofia Moberg"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Lisa Ljungberg"
+        },
+        "occupation": [
+            {
+                "@type": "OrganizationRole",
+                "title": "Prokurist (Procurator)",
+                "namedPosition": true
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Kealex"
+            },
+            {
+                "@type": "Organization",
+                "name": "Schartaus"
+            },
+            {
+                "@type": "Organization",
+                "name": "Exp- & Imp.fma Percy Tham",
+                "startDate": "1913",
+                "endDate": "1922",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm, Oxelös"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "T.An.Tesch AB",
+                "startDate": "1922",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm"
+                },
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Board member"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Ag fastigh",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Traveled to Finland, Estonia, Latvia, Lithuania, Germany, Belgium, and France",
+                "startDate": "1924",
+                "endDate": "1939"
+            },
+            {
+                "@type": "Organization",
+                "name": "PatrstGM"
+            },
+            {
+                "@type": "Organization",
+                "name": "Mercuri-Schartau Conference",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Swedish Kontoristfrn"
+                }
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Prokurist (Procurator)",
+                "workplace": "Kealex",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Prokurist (Procurator)",
+                "workplace": "Schartaus",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Exp- & Imp.fma Percy Tham",
+                "industry": "Unknown",
+                "start_date": "1913"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Oxelös",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "T.An.Tesch AB",
+                "industry": "Unknown",
+                "start_date": "1922"
+            }
+        ]
+    }
+}

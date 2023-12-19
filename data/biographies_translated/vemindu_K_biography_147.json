@@ -1,0 +1,66 @@
+{
+    "original": "KREIJ, Carl Hugo Malcolm, Disponent, Åstorp, f Åmål 13/3 82 av lokf H K o Maria Nilsson, gm Signe Backlund. Hal. Anst v Munktells Mek Verkst AB i Eskilstuna, ss reseinsp 05—16, disp f bolagets filial i Åstorp fr 16, numera AB Bolinder Munktell i Åstorp. V. ordf i kommunalflm, kommunalstämma o kpmmunalnmd, ordf i S :a Åsbo o Bjäre väg-distr:s vägstämma i krist,dir:n o i Åstorps Sparbk. Hobby: Jakt.",
+    "translated": "KREIJ, Carl Hugo Malcolm, Manager, Åstorp, born in Åmål on March 13, 1882, son of locomotive engineer H K and Maria Nilsson, married to Signe Backlund. Worked at Munktells Mek Verkst AB in Eskilstuna, as a traveling inspector from 1905 to 1916, then appointed as manager of the company's branch in Åstorp from 1916. Currently employed at AB Bolinder Munktell in Åstorp. Vice chairman of the municipal board, municipal assembly, and municipal committee, chairman of S:a Åsbo and Bjäre road district's road assembly in Kristanstad, also serving as a director at Åstorp Savings Bank. Hobby: Hunting.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Carl Hugo Malcolm Kreij",
+        "jobTitle": "Manager",
+        "birthDate": "1882-03-13",
+        "birthPlace": "Åmål",
+        "spouse": "Signe Backlund",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "H K"
+            },
+            {
+                "@type": "Person",
+                "name": "Maria Nilsson"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Munktells Mek Verkst AB",
+                "location": "Eskilstuna",
+                "startDate": "1905",
+                "endDate": "1916"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Bolinder Munktell",
+                "location": "Åstorp",
+                "startDate": "1916"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Åstorp Savings Bank"
+            },
+            {
+                "@type": "Organization",
+                "name": "S:a Åsbo and Bjäre Road District",
+                "location": "Kristianstad"
+            }
+        ],
+        "hobbies": "Hunting"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Traveling Inspector",
+                "workplace": "Munktells Mek Verkst AB",
+                "industry": "Mechanical Engineering",
+                "start_date": "1905"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "AB Bolinder Munktell",
+                "industry": "Mechanical Engineering",
+                "start_date": "1916"
+            }
+        ]
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "original": "KRISTENSEN, Harry Adolf Jakob, Köpman, Göteborg, f Gbg 15/9 83 av grhdl H H K o Anna Solbu, gm Anna Vidlund. Gbgs hdlsinst. Anst i fma H H Kristensen 00, vkst dir ds eftr familjebol AB H H Kristensen 17 —30, avveckl bol 30 o forts rör und ursprungl namnet fr 30, ag dna. Hdlskamm rev i AB Godsemottagning i Gbg. Resor: Engl fi ggr årl 00—14, sed sporadiskt, Norge årl fi ggr, Tyskl, Holl, Belg, Danm, Finl, Ung, Balti-cum, Tjeckoslov, Polen mfl årl en ell fi ggr. Hobbies: Segling, sportfiske.",
+    "translated": "KRISTENSEN, Harry Adolf Jakob, Merchant, Gothenburg, b. Gothenburg 15/9 1883, son of wholesale merchant H.H. Kristensen and Anna Solbu, married to Anna Vidlund. Gothenburg Commercial Institute. Employed at H.H. Kristensen from 1900, promoted to managing director after the family company H.H. Kristensen was transformed into a limited liability company in 1917, liquidated the company in 1930 and continued to operate under the original name from 1930, sole proprietorship. Chamber of Commerce representative at AB Godsemottagning in Gothenburg. Travel: England several times a year 1900-1914, sporadically thereafter, Norway several times a year, Germany, the Netherlands, Belgium, Denmark, Finland, Hungary, the Baltic countries, Czechoslovakia, Poland and others annually or several times a year. Hobbies: Sailing, sport fishing.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Harry Adolf Jakob Kristensen",
+        "birthDate": "1883-09-15",
+        "birthPlace": "Gothenburg",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Gothenburg",
+            "addressCountry": "Sweden"
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "H.H. Kristensen",
+                "jobTitle": "Wholesale Merchant"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Solbu"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Anna Vidlund"
+        },
+        "alumniOf": {
+            "@type": "EducationalOrganization",
+            "name": "Gothenburg Commercial Institute"
+        },
+        "memberOf": {
+            "@type": "Organization",
+            "name": "AB Godsemottagning"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "H.H. Kristensen",
+                "startDate": "1900-01-01",
+                "endDate": "1917-12-31",
+                "jobTitle": "Employee"
+            },
+            {
+                "@type": "Organization",
+                "name": "H.H. Kristensen",
+                "startDate": "1930-01-01",
+                "jobTitle": "Sole Proprietor"
+            }
+        ],
+        "jobTitle": "Managing Director",
+        "travelsForWork": [
+            "England",
+            "Norway",
+            "Germany",
+            "Netherlands",
+            "Belgium",
+            "Denmark",
+            "Finland",
+            "Hungary",
+            "Baltic countries",
+            "Czechoslovakia",
+            "Poland"
+        ],
+        "hobbies": [
+            "Sailing",
+            "Sport fishing"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "H.H. Kristensen",
+                "industry": "Wholesale",
+                "start_date": "1900"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "AB H.H. Kristensen",
+                "industry": "Limited Liability Company",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Sole Proprietor",
+                "workplace": "H.H. Kristensen (under original name)",
+                "industry": "N/A",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Chamber of Commerce Representative",
+                "workplace": "AB Godsemottagning",
+                "industry": "Logistics",
+                "start_date": "N/A"
+            }
+        ]
+    }
+}

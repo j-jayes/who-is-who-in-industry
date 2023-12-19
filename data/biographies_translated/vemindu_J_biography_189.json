@@ -1,0 +1,125 @@
+{
+    "original": "JONSSON, Olof, Disponent, Arbrå, f Arbrå 16/3 81 av lantbr Jonas Persson o Karin Persdotter, gm Gölin Olsdotter. Bokf- mfl kurser fr Hermods. Bokf AB Svedens Såg 01—14. Deläg Arbrå Jernkramhdl, Jonsson &amp; Co, 24, vkst dir dta AB, Arbrå Järnhandel, sed. 33. Komm.flm, egnahemsomb, kronoomb tax.nmd, rev komm kass många år. Styrled Sv Hdlsbkns Arbråkont. Resor: Norge 08, 39, Finl 39.",
+    "translated": "JONSSON, Olof, Manager, Arbrå, born in Arbrå on 16/3 1881, son of farmer Jonas Persson and Karin Persdotter, married to Gölin Olsdotter. Took accounting and other courses from Hermods. Worked at AB Svedens Såg from 1901 to 1914. Co-owner of Arbrå Jernkramhdl, Jonsson & Co since 1924, later became director of Arbrå Järnhandel. Member of the municipal board, self-housing representative, tax committee member, revenue committee member for many years. Board member of the Arbråkont branch of the Swedish Trading Association. Traveled to Norway in 1908 and 1939, and to Finland in 1939.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Olof Jonsson",
+        "jobTitle": "Manager",
+        "birthPlace": "Arbrå",
+        "birthDate": "1881-03-16",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Jonas Persson",
+                "jobTitle": "Farmer"
+            },
+            {
+                "@type": "Person",
+                "name": "Karin Persdotter"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Gölin Olsdotter"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Hermods",
+            "courses": [
+                {
+                    "@type": "Course",
+                    "name": "Accounting"
+                },
+                {
+                    "@type": "Course",
+                    "name": "Other courses"
+                }
+            ]
+        },
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "AB Svedens Såg",
+                "startDate": "1901",
+                "endDate": "1914"
+            },
+            {
+                "@type": "Organization",
+                "name": "Arbrå Jernkramhdl, Jonsson & Co",
+                "startDate": "1924"
+            },
+            {
+                "@type": "Organization",
+                "name": "Arbrå Järnhandel",
+                "isDirector": true,
+                "startDate": "1933"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Swedish Trading Association",
+            "branch": "Arbråkont"
+        },
+        "governmentPositions": [
+            {
+                "@type": "GovernmentOrganization",
+                "name": "Municipal Board"
+            },
+            {
+                "@type": "GovernmentOrganization",
+                "name": "Tax Committee"
+            },
+            {
+                "@type": "GovernmentOrganization",
+                "name": "Revenue Committee"
+            }
+        ],
+        "residence": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Arbrå"
+            }
+        },
+        "travels": [
+            {
+                "@type": "Event",
+                "name": "Traveled to Norway",
+                "startDate": "1908"
+            },
+            {
+                "@type": "Event",
+                "name": "Traveled to Norway",
+                "startDate": "1939"
+            },
+            {
+                "@type": "Event",
+                "name": "Traveled to Finland",
+                "startDate": "1939"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Manager",
+                "workplace": "AB Svedens Såg",
+                "industry": "Sawmill",
+                "start_date": "1901"
+            },
+            {
+                "occupational_title": "Co-owner",
+                "workplace": "Arbrå Jernkramhdl, Jonsson & Co",
+                "industry": "Retail",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Arbrå Järnhandel",
+                "industry": "Retail",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

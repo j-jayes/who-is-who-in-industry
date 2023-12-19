@@ -1,0 +1,140 @@
+{
+    "original": "JANSON, Gustaf Eric, Grosshandlare, Stockholm, f Linköping 17/7 72 av grhdl G J o h h, f Tebelius, gm Gerda Svensson. Lärov Linkp, hdlssk Sthlm. Anst Herm Lamm 97—02, M E Janson 02—13, eg fma Eric Janson, grhdl o agent, sed. 13. Ag Lagnö, Gubtafsberg, deläg fastigh Karlaväg 7 Sthlm. F ö led tax.nmd. Resor: Tyskl 95, Frankr 00—03, Ital 35, Schweiz 13, 35, Danm, Island, Norge, Holl. Hobby: Blomsterodling.",
+    "translated": "JANSON, Gustaf Eric, Merchant, Stockholm, b. Linköping 17/7 1872, son of merchant G. Janson and his wife Hilda Tebelius, married to Gerda Svensson. Educated in Linköping, commercial school in Stockholm. Employed at Herm Lamm 1897-1902, M E Janson 1902-1913. Established his own firm as Eric Janson, merchant and agent, since 1913. Resides in Lagnö, Gubtafsberg, co-owner of property at Karlaväg 7 Stockholm. Previously served on the local tax committee. Traveled to Germany in 1895, France 1900-1903, Italy in 1935, Switzerland in 1913 and 1935, Denmark, Iceland, Norway, the Netherlands. Hobby: Flower cultivation.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Gustaf Eric Janson",
+        "birthDate": "1872-07-17",
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Linköping"
+        },
+        "deathDate": null,
+        "nationality": "Swedish",
+        "jobTitle": "Merchant",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Eric Janson"
+        },
+        "employer": [
+            {
+                "@type": "Organization",
+                "name": "Herm Lamm",
+                "startDate": "1897",
+                "endDate": "1902"
+            },
+            {
+                "@type": "Organization",
+                "name": "M E Janson",
+                "startDate": "1902",
+                "endDate": "1913"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Gerda Svensson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Linköping"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Stockholm Commercial School"
+            }
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Lagnö, Gubtafsberg",
+            "addressCountry": "Sweden"
+        },
+        "owns": [
+            {
+                "@type": "OwnershipInfo",
+                "typeOfGood": "Property",
+                "ownedThrough": "Karlaväg 7, Stockholm"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Local Tax Committee"
+            }
+        ],
+        "interests": [
+            "Flower cultivation"
+        ],
+        "timeLived": null,
+        "works": [
+            {
+                "@type": "Organization",
+                "name": "Eric Janson"
+            }
+        ],
+        "deathPlace": null,
+        "travel": [
+            {
+                "@type": "Place",
+                "name": "Germany",
+                "startDate": "1895"
+            },
+            {
+                "@type": "Place",
+                "name": "France",
+                "startDate": "1900",
+                "endDate": "1903"
+            },
+            {
+                "@type": "Place",
+                "name": "Italy",
+                "startDate": "1935"
+            },
+            {
+                "@type": "Place",
+                "name": "Switzerland",
+                "startDate": "1913",
+                "endDate": "1935"
+            },
+            {
+                "@type": "Place",
+                "name": "Denmark"
+            },
+            {
+                "@type": "Place",
+                "name": "Iceland"
+            },
+            {
+                "@type": "Place",
+                "name": "Norway"
+            },
+            {
+                "@type": "Place",
+                "name": "Netherlands"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Employee",
+                "workplace": "Herm Lamm",
+                "industry": "Unknown",
+                "start_date": "1897"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "M E Janson",
+                "industry": "Unknown",
+                "start_date": "1902"
+            },
+            {
+                "occupational_title": "Merchant and Agent",
+                "workplace": "Eric Janson",
+                "industry": "Unknown",
+                "start_date": "1913"
+            }
+        ]
+    }
+}

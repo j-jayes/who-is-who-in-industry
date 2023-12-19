@@ -1,0 +1,154 @@
+{
+    "original": "KUGELBERG, Wilhelm Fredrik, Direktör, Stockholm, f Jönköping 18/5 69 av v. häradsh J O K o frih Augusta von Otter, gm Amy Kylberg (f 38). Studex Jkp 88, jur $1 ex Upps 87, elektr.ing Hannover 97. Ing v The Fuller Wenström Electr Mfg Co London 98, Asea Malmö 99, förest o ing Accumulatoren Fabrik AG:s (Berlin) avd Sthlm 00, vkst dir Ackumulator fabr AB Tudor Sthlm 14—33, styr.led där sed. 14. RVO, TyskRKHt. Hobby: Filateli.",
+    "translated": "KUGELBERG, Wilhelm Fredrik, Director, Stockholm, b. Jönköping 18th May 1869, son of district judge J.O.K. Kugelberg and Baroness Augusta von Otter, married Amy Kylberg (b. 1838). Studied at Jönköping University (graduated 1888), law degree from Uppsala University (1887), electrical engineering degree from Hannover (1897). Worked for The Fuller Wenström Electrical Manufacturing Company in London (1898), Asea in Malmö (1899), served as manager and engineer at Accumulator Factory AG in Berlin's Stockholm division (1900), vice managing director of Tudor Accumulator Factory AB in Stockholm (1914-1933), and has been a member of the board there since 1914. Awarded the Royal Order of Vasa, German Royal Crown Order, and is interested in philately.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Wilhelm Fredrik Kugelberg",
+        "givenName": "Wilhelm Fredrik",
+        "familyName": "Kugelberg",
+        "jobTitle": "Director",
+        "birthDate": "1869-05-18",
+        "birthPlace": "Jönköping",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "J.O.K. Kugelberg",
+                "jobTitle": "District Judge"
+            },
+            {
+                "@type": "Person",
+                "name": "Baroness Augusta von Otter"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Amy Kylberg",
+            "birthDate": "1838"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "University Degree",
+                "educationLevel": "Bachelor",
+                "educationalLevel": "University",
+                "alumniOf": {
+                    "@type": "EducationalOrganization",
+                    "name": "Jönköping University",
+                    "startDate": "1884",
+                    "endDate": "1888"
+                }
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "University Degree",
+                "educationLevel": "Law Degree",
+                "educationalLevel": "University",
+                "alumniOf": {
+                    "@type": "EducationalOrganization",
+                    "name": "Uppsala University",
+                    "startDate": "1885",
+                    "endDate": "1887"
+                }
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Professional Certification",
+                "educationLevel": "Bachelor",
+                "educationalLevel": "Trade School",
+                "alumniOf": {
+                    "@type": "EducationalOrganization",
+                    "name": "Hannover",
+                    "startDate": "1891",
+                    "endDate": "1897"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "The Fuller Wenström Electrical Manufacturing Company",
+                "location": "London",
+                "startDate": "1898",
+                "endDate": "1898",
+                "jobTitle": "Electrical Engineer"
+            },
+            {
+                "@type": "Organization",
+                "name": "Asea",
+                "location": "Malmö",
+                "startDate": "1899",
+                "endDate": "1899",
+                "jobTitle": "Engineer"
+            },
+            {
+                "@type": "Organization",
+                "name": "Accumulator Factory AG",
+                "location": "Berlin's Stockholm Division",
+                "startDate": "1900",
+                "endDate": "1900",
+                "jobTitle": "Manager and Engineer"
+            },
+            {
+                "@type": "Organization",
+                "name": "Tudor Accumulator Factory AB",
+                "location": "Stockholm",
+                "startDate": "1914",
+                "endDate": "1933",
+                "jobTitle": "Vice Managing Director"
+            }
+        ],
+        "nationality": "Swedish",
+        "honorificSuffix": [
+            "RVO",
+            "German Royal Crown Order"
+        ],
+        "interest": "Filateli"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Student",
+                "workplace": "Jönköping University",
+                "industry": "Education",
+                "start_date": "1888"
+            },
+            {
+                "occupational_title": "Jurist",
+                "workplace": "Uppsala University",
+                "industry": "Law",
+                "start_date": "1887"
+            },
+            {
+                "occupational_title": "Electrical Engineer",
+                "workplace": "Hannover",
+                "industry": "Engineering",
+                "start_date": "1897"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "The Fuller Wenström Electrical Manufacturing Company",
+                "industry": "Electrical Manufacturing",
+                "start_date": "1898"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Asea",
+                "industry": "Electrical Engineering",
+                "start_date": "1899"
+            },
+            {
+                "occupational_title": "Manager and Engineer",
+                "workplace": "Accumulator Factory AG (Berlin) - Stockholm Division",
+                "industry": "Battery Manufacturing",
+                "start_date": "1900"
+            },
+            {
+                "occupational_title": "Vice Managing Director",
+                "workplace": "Tudor Accumulator Factory AB (Stockholm)",
+                "industry": "Battery Manufacturing",
+                "start_date": "1914"
+            }
+        ]
+    }
+}

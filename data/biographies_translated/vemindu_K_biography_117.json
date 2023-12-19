@@ -1,0 +1,223 @@
+{
+    "original": "KLINGSPOR, Bogislaw Carl Mauritz, Friherre, Kammarherre, öströö säteri, Tvååker, f Kinnekulle 30/10 87 av hovmarsk frih C G A K o Sophie Louise Silfverschiöld, gm Carin Isabella Hamilton. Studex 07, resoff 09, kansli-exam 10, fil kand 14, HHS, Ultuna lantbr.sk, phil dr Greifswald 34. Attaché sv kons Hamburg o Kairo 10—12, ryttmäst K.l 27, kam-marjunk 14, kammarh 23. Ag o bebor sed. 16 öströö säteri, del i St Sundby, Sörml, o österäng Vgl. Ordf komm.st o valnmd, kyrkoråd, skolråd Dagsås. Ordf Mell Hall lant-br.klubb styr.led Ställbergs gruv AB, Idker-bergets gruv AB, AB Kinnevik, Mell Sv Lant- br AB, ordf Reuter &amp; Reuter Förlags AB, Resor: större del av Europ, Egypt, Mindre Asien. Av trycket» Der Gäng der alt Besiedlung Schwedens», »Grunddragen av Sv Mldsta be-bygg.hist». GV:sJmt, KVO2kl, RNO, KFinl-VRO, PatrstGM, RS:tAOgm; Par Bricole mfl. Hobby: Fornkunskap.",
+    "translated": "KLINGSPOR, Bogislaw Carl Mauritz, Baron, Chamberlain, öströö estate, Tvååker, b. Kinnekulle 30/10 87, son of court marshal Baron C G A K and Sophie Louise Silfverschiöld, married to Carin Isabella Hamilton. Graduate of 1907, reserve officer of 1909, chancellery exam of 1910, Bachelor of Philosophy of 1914, Stockholm School of Economics, Ultuna Agricultural College, Ph.D. in Philosophy from Greifswald in 1934. Attaché at the Swedish consulate in Hamburg and Cairo from 1910 to 1912, captain of the Royal Life Guards in 1927, chamberlain in 1923. Owns and resides at öströö estate since 1916, part-owner of St Sundby, Sörmaland, and österäng Västergötland. Chairman of the municipal council and election committee, church council, school council in Dagsås. Chairman of Mellby Hall Farmers Club, board member of Ställbergs Mining Company, Idkerbergets Mining Company, AB Kinnevik, Mell Sweden Farmers AB, chairman of Reuter & Reuter Publishers AB. Travels: most of Europe, Egypt, Lesser Asia. Published works: \"Der Gäng der alt Besiedlung Schwedens\" and \"Grunddragen av Svenska Mittenbebyggelsens Historia.\" Recipient of the Order of the Sword, Grand Cross, Second Class, Royal Norwegian Order of St. Olav, Grand Cross, Finnish Order of the White Rose, Patristic Gold Medal, Royal Society's Anna Orden and others; member of Par Bricole and others. Hobby: Archaeology.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Bogislaw Carl Mauritz Klingspor",
+        "givenName": "Bogislaw",
+        "familyName": "Klingspor",
+        "additionalName": "Carl Mauritz",
+        "jobTitle": [
+            {
+                "@type": "Role",
+                "name": "Captain",
+                "startDate": "1927"
+            },
+            {
+                "@type": "Role",
+                "name": "Chamberlain",
+                "startDate": "1923"
+            }
+        ],
+        "birthDate": "1887-10-30",
+        "birthPlace": "Kinnekulle",
+        "father": {
+            "@type": "Person",
+            "name": "Baron C G A K"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Sophie Louise Silfverschiöld"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Carin Isabella Hamilton"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Degree",
+            "credentialEarned": {
+                "@type": "EducationalOccupationalDegree",
+                "name": "Ph.D. in Philosophy",
+                "dateIssued": "1934",
+                "educationalLevel": "DoctoralDegree",
+                "educationalCredentialAwardedBy": "Greifswald"
+            }
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Mellby Hall Farmers Club"
+            },
+            {
+                "@type": "Organization",
+                "name": "Municipal Council"
+            },
+            {
+                "@type": "Organization",
+                "name": "Election Committee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Church Council"
+            },
+            {
+                "@type": "Organization",
+                "name": "School Council"
+            }
+        ],
+        "residence": [
+            {
+                "@type": "Place",
+                "name": "öströö estate",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Tvååker"
+                }
+            },
+            {
+                "@type": "Place",
+                "name": "St Sundby",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Sörmland"
+                }
+            },
+            {
+                "@type": "Place",
+                "name": "österäng",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Västergötland"
+                }
+            }
+        ],
+        "workLocation": [
+            {
+                "@type": "Place",
+                "name": "Swedish Consulate",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Hamburg",
+                    "addressCountry": "Germany"
+                },
+                "startDate": "1910-01-01",
+                "endDate": "1912-12-31"
+            },
+            {
+                "@type": "Place",
+                "name": "Swedish Consulate",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Cairo",
+                    "addressCountry": "Egypt"
+                },
+                "startDate": "1910-01-01",
+                "endDate": "1912-12-31"
+            }
+        ],
+        "publishedWork": [
+            {
+                "@type": "Article",
+                "name": "Der Gäng der alt Besiedlung Schwedens"
+            },
+            {
+                "@type": "Article",
+                "name": "Grunddragen av Svenska Mittenbebyggelsens Historia"
+            }
+        ],
+        "travel": [
+            {
+                "@type": "Place",
+                "name": "Europe"
+            },
+            {
+                "@type": "Place",
+                "name": "Egypt"
+            },
+            {
+                "@type": "Place",
+                "name": "Lesser Asia"
+            }
+        ],
+        "award": [
+            {
+                "@type": "Order",
+                "name": "Order of the Sword",
+                "awardGrade": "Second Class",
+                "awardDate": "Unknown"
+            },
+            {
+                "@type": "Order",
+                "name": "Royal Norwegian Order of St. Olav",
+                "awardGrade": "Grand Cross",
+                "awardDate": "Unknown"
+            },
+            {
+                "@type": "Order",
+                "name": "Finnish Order of the White Rose",
+                "awardGrade": "Unknown",
+                "awardDate": "Unknown"
+            },
+            {
+                "@type": "Medal",
+                "name": "Patristic Gold Medal",
+                "awardDate": "Unknown"
+            },
+            {
+                "@type": "Order",
+                "name": "Royal Society's Anna Orden",
+                "awardGrade": "Unknown",
+                "awardDate": "Unknown"
+            }
+        ],
+        "hobby": "Archaeology"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Attaché",
+                "workplace": "Swedish consulate in Hamburg",
+                "industry": "Diplomacy",
+                "start_date": "1910-1912"
+            },
+            {
+                "occupational_title": "Attaché",
+                "workplace": "Swedish consulate in Cairo",
+                "industry": "Diplomacy",
+                "start_date": "1910-1912"
+            },
+            {
+                "occupational_title": "Captain",
+                "workplace": "Royal Life Guards",
+                "industry": "Military",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Chamberlain",
+                "workplace": "-",
+                "industry": "Royal Household",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "-",
+                "workplace": "öströö estate",
+                "industry": "Agriculture",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "-",
+                "workplace": "St Sundby",
+                "industry": "Agriculture",
+                "start_date": "-"
+            },
+            {
+                "occupational_title": "-",
+                "workplace": "österäng",
+                "industry": "Agriculture",
+                "start_date": "-"
+            }
+        ]
+    }
+}

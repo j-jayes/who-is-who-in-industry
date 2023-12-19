@@ -1,0 +1,127 @@
+{
+    "original": "KOLLEN, William Johan Macfie, Disponent, Jönköping, f Myckleby, Gbgs o Boh l, 17/8 79, gm Anna Olsson. Ex Uddevalla lärov 95, ingex v CTI 00, ex v Kaiserl u. Königl Gewerbemuseum, Wien, avd f pappersind, 01, prakt o stud.res i Tyskl o Engl 02. Fabr.ing v AB Brusafors-Hällefors 02—09, deläg i Hällefors Pappersind, Malmö, 09—11, disp v Thorsviks AB, Norrahammar, 11—39, disp v Stolpens AB Jönköping sed. 39.",
+    "translated": "KOLLEN, William Johan Macfie, Executive, Jönköping, born in Myckleby, Gothenburg and Bohus county, on August 17th, 1879, married to Anna Olsson. Former student at Uddevalla high school in 1895, graduated from CTI in 1900, former student at the Imperial and Royal School of Industrial Arts in Vienna, specializing in the paper industry, in 1901, practical and student researcher in Germany and England in 1902. Engineer at AB Brusafors-Hällefors from 1902 to 1909, co-owner in Hällefors Pappersind, Malmö, from 1909 to 1911, executive at Thorsviks AB, Norrahammar, from 1911 to 1939, executive at Stolpens AB Jönköping since 1939.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "William Johan Macfie KOLLEN",
+        "jobTitle": "Executive",
+        "birthDate": "1879-08-17",
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Myckleby, Gothenburg and Bohus county"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Anna Olsson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "High school diploma",
+                "educationalLevel": "High school",
+                "alumniOf": {
+                    "@type": "EducationalOrganization",
+                    "name": "Uddevalla High School"
+                },
+                "dateAwarded": "1895"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Bachelor's degree",
+                "educationalLevel": "Bachelor's",
+                "alumniOf": {
+                    "@type": "EducationalOrganization",
+                    "name": "CTI"
+                },
+                "dateAwarded": "1900"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Diploma",
+                "educationalLevel": "Diploma",
+                "alumniOf": {
+                    "@type": "EducationalOrganization",
+                    "name": "Imperial and Royal School of Industrial Arts"
+                },
+                "specialization": "Paper industry",
+                "dateAwarded": "1901"
+            }
+        ],
+        "workExperience": [
+            {
+                "@type": "JobPosting",
+                "jobTitle": "Engineer",
+                "hiringOrganization": {
+                    "@type": "Organization",
+                    "name": "AB Brusafors-Hällefors"
+                },
+                "startDate": "1902",
+                "endDate": "1909"
+            },
+            {
+                "@type": "JobPosting",
+                "jobTitle": "Co-owner",
+                "hiringOrganization": {
+                    "@type": "Organization",
+                    "name": "Hällefors Pappersind, Malmö"
+                },
+                "startDate": "1909",
+                "endDate": "1911"
+            },
+            {
+                "@type": "JobPosting",
+                "jobTitle": "Executive",
+                "hiringOrganization": {
+                    "@type": "Organization",
+                    "name": "Thorsviks AB, Norrahammar"
+                },
+                "startDate": "1911",
+                "endDate": "1939"
+            },
+            {
+                "@type": "JobPosting",
+                "jobTitle": "Executive",
+                "hiringOrganization": {
+                    "@type": "Organization",
+                    "name": "Stolpens AB Jönköping"
+                },
+                "startDate": "1939"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Executive",
+                "workplace": "Jönköping",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "AB Brusafors-Hällefors",
+                "industry": "Unknown",
+                "start_date": "1902"
+            },
+            {
+                "occupational_title": "Co-owner",
+                "workplace": "Hällefors Pappersind",
+                "industry": "Unknown",
+                "start_date": "1909"
+            },
+            {
+                "occupational_title": "Executive",
+                "workplace": "Thorsviks AB, Norrahammar",
+                "industry": "Unknown",
+                "start_date": "1911"
+            },
+            {
+                "occupational_title": "Executive",
+                "workplace": "Stolpens AB Jönköping",
+                "industry": "Unknown",
+                "start_date": "1939"
+            }
+        ]
+    }
+}

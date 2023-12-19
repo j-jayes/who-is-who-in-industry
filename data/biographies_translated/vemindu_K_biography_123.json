@@ -1,0 +1,110 @@
+{
+    "original": "KNAPP, Henrik, Grosshandlare, Hudiksvall, f Hudiksvall 26/9 84 av läderhandl P K o Anna Bodin, gm Agnes Strandlund. Vkst dir 1 AB P Knapp &amp; Co, skodon o lädervaror. Styr.led i Hudiksvalls Köpm.frn sed. 24. Suppl i drätselk fr 34, stdsflm fr 35. Styr.led i Hudiksvalls stads sparbank sed. 39.",
+    "translated": "KNAPP, Henrik, Wholesaler, Hudiksvall, b Hudiksvall 26/9 84 son of leather merchant P K and Anna Bodin, m Agnes Strandlund. Managing director 1 AB P Knapp & Co, footwear and leather goods. Board member of Hudiksvalls Köpm.frn since 1924. Deputy member of the municipal council since 1934, municipal film board since 1935. Board member of Hudiksvalls city savings bank since 1939.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Henrik Knapp",
+        "birthDate": "1884-09-26",
+        "birthPlace": "Hudiksvall",
+        "description": "Grosshandlare (Wholesaler)",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "P K Knapp",
+                "jobTitle": "Läderhandlare (Leather merchant)"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Bodin"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Agnes Strandlund"
+        },
+        "work": {
+            "@type": "OrganizationRole",
+            "roleName": "Managing Director",
+            "startDate": "????",
+            "endDate": "????",
+            "worksFor": {
+                "@type": "Organization",
+                "name": "AB P Knapp & Co",
+                "description": "Skodon (Footwear) and Lädervaror (Leather goods)"
+            }
+        },
+        "boardMember": [
+            {
+                "@type": "Organization",
+                "name": "Hudiksvalls Köpm.frn",
+                "startDate": "1924"
+            },
+            {
+                "@type": "Organization",
+                "name": "Hudiksvalls stads sparbank",
+                "startDate": "1939"
+            }
+        ],
+        "representativeOf": {
+            "@type": "Organization",
+            "name": "Hudiksvalls stads sparbank"
+        },
+        "deputyCouncilMember": {
+            "@type": "OrganizationRole",
+            "startDate": "1934",
+            "organization": {
+                "@type": "Organization",
+                "name": "Drätselk (municipal council)"
+            }
+        },
+        "municipalFilmBoardMember": {
+            "@type": "OrganizationRole",
+            "startDate": "1935",
+            "organization": {
+                "@type": "Organization",
+                "name": "Stadsflm (municipal film board)"
+            }
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Wholesaler",
+                "workplace": "Hudiksvall",
+                "industry": "Footwear and leather goods",
+                "start_date": "N/A"
+            },
+            {
+                "occupational_title": "Managing director",
+                "workplace": "P Knapp & Co",
+                "industry": "Footwear and leather goods",
+                "start_date": "N/A"
+            },
+            {
+                "occupational_title": "Board member",
+                "workplace": "Hudiksvalls Köpm.frn",
+                "industry": "N/A",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Deputy member",
+                "workplace": "Municipal council",
+                "industry": "N/A",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Municipal film board member",
+                "workplace": "N/A",
+                "industry": "N/A",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Board member",
+                "workplace": "Hudiksvalls city savings bank",
+                "industry": "N/A",
+                "start_date": "1939"
+            }
+        ]
+    }
+}

@@ -1,0 +1,165 @@
+{
+    "original": "JOHANSSON, Karl-Gustaf, Kamrer, Svängsta, f Karlshamn 1/1 96 av handl G J o Lovisa Johansson. Realex, hdlsgymn. Anst Sv konsulatet Liverpool 16—17, Hemsjö Kraft AB Khn 18—20, Sydsv Kraft AB Malmö 20—21, AB Khns Skeppsvarv 22—23, Junkers Luft-verkehr AG o AB Flygindustri Limhamn 25— 27, Halda AB Svängsta sed. 28, kamr där. Ag fastigh öjevad. Stf hvobef. Styr.ordf Svängsta idr.frn. Hobbies: Idrott, sport.",
+    "translated": "JOHANSSON, Karl-Gustaf, Accountant, Svängsta, b. Karlshamn 1/1 96, son of merchant G J and Lovisa Johansson. Completed primary education, commercial high school. Employed at the Swedish consulate in Liverpool 1916-1917, Hemsjö Kraft AB 1918-1920, Sydsv Kraft AB Malmö 1920-1921, AB Khns Skeppsvarv 1922-1923, Junkers Luft-verkehr AG and AB Flygindustri Limhamn 1925-1927, Halda AB Svängsta since 1928, currently working as an accountant there. Owns real estate in öjevad. Deputy chairman of the board Svängsta sports club. Hobbies: Athletics, sports.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Karl-Gustaf Johansson",
+        "birthDate": "1896-01-01",
+        "birthPlace": "Karlshamn",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "G J Johansson",
+                "jobTitle": "Merchant"
+            },
+            {
+                "@type": "Person",
+                "name": "Lovisa Johansson"
+            }
+        ],
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Primary Education",
+            "credentialEarned": [
+                {
+                    "@type": "Diploma",
+                    "name": "Realex"
+                },
+                {
+                    "@type": "Diploma",
+                    "name": "Commercial High School"
+                }
+            ]
+        },
+        "workExperience": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1916",
+                "endDate": "1917",
+                "roleName": "Employed at Swedish Consulate in Liverpool",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Swedish Consulate"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1918",
+                "endDate": "1920",
+                "roleName": "Employed at Hemsjö Kraft AB",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Hemsjö Kraft AB"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1920",
+                "endDate": "1921",
+                "roleName": "Employed at Sydsv Kraft AB Malmö",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Sydsv Kraft AB Malmö"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1922",
+                "endDate": "1923",
+                "roleName": "Employed at AB Khns Skeppsvarv",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Khns Skeppsvarv"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1925",
+                "endDate": "1927",
+                "roleName": "Employed at Junkers Luft-verkehr AG and AB Flygindustri Limhamn",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Junkers Luft-verkehr AG and AB Flygindustri Limhamn"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1928",
+                "roleName": "Employed at Halda AB Svängsta",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Halda AB Svängsta"
+                }
+            }
+        ],
+        "occupation": "Accountant",
+        "owns": {
+            "@type": "RealEstateAgent",
+            "name": "öjevad"
+        },
+        "memberOf": [
+            {
+                "@type": "SportsOrganization",
+                "name": "Svängsta Sports Club",
+                "roleName": "Deputy Chairman of the Board"
+            }
+        ],
+        "hasOccupation": {
+            "@type": "CategoryCode",
+            "codeValue": "IDRT",
+            "name": "Athletics"
+        },
+        "hasInterest": {
+            "@type": "CategoryCode",
+            "codeValue": "SPORT",
+            "name": "Sports"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Accountant",
+                "workplace": "Svängsta",
+                "industry": null,
+                "start_date": null
+            },
+            {
+                "occupational_title": "Employee at Swedish Consulate",
+                "workplace": "Liverpool",
+                "industry": null,
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": null,
+                "workplace": "Hemsjö Kraft AB",
+                "industry": null,
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": null,
+                "workplace": "Sydsv Kraft AB Malmö",
+                "industry": null,
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": null,
+                "workplace": "AB Khns Skeppsvarv",
+                "industry": null,
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": null,
+                "workplace": "Junkers Luft-verkehr AG and AB Flygindustri Limhamn",
+                "industry": null,
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": null,
+                "workplace": "Halda AB Svängsta",
+                "industry": null,
+                "start_date": "1928"
+            }
+        ]
+    }
+}

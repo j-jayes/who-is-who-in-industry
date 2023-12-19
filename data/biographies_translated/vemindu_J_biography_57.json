@@ -1,0 +1,126 @@
+{
+    "original": "JANSSON, Samuel Severus, Järnhandlare, Falköping, f Karlskoga 22/10 89 av rättare G J o Vilhelmina Lekberg, gm Anna Ljungkvist. Hdlssk. Ene inneh av Wennblad &amp; Co:s Bftr, järn- o redskapshdl, sed. 20. Led av skolråd fr 28, stdsflm fr 29, led av stds-flms l:a beredn fr 30, drätselk 30—33, vatten-ledn.styr 30—33 o arb.lösh.komm 32—33. Intresserad av ideellt föreningsarbete.",
+    "translated": "JANSSON, Samuel Severus, Iron Merchant, Falköping, born in Karlskoga on October 22, 1889, son of magistrate G J and Vilhelmina Lekberg, married to Anna Ljungkvist. Trade school graduate. Sole proprietor of Wennblad & Co's Iron and Tool Store since 1920. Member of the School Board since 1928, member of the Relief Fund Committee since 1929, member of the Relief Fund Committee's first committee since 1930, member of the Finance Committee from 1930 to 1933, member of the Water Supply Board from 1930 to 1933, and member of the Unemployment Committee in 1932-1933. Interested in voluntary association work.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Samuel Severus",
+        "familyName": "Jansson",
+        "birthDate": "1889-10-22",
+        "birthPlace": "Karlskoga",
+        "jobTitle": "Iron Merchant",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Falköping"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "givenName": "G J",
+                "familyName": "Jansson",
+                "jobTitle": "Magistrate"
+            },
+            {
+                "@type": "Person",
+                "givenName": "Vilhelmina",
+                "familyName": "Lekberg"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "givenName": "Anna",
+            "familyName": "Ljungkvist"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Trade school graduate"
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Wennblad & Co's Iron and Tool Store",
+            "foundingDate": "1920"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "School Board",
+                "startDate": "1928"
+            },
+            {
+                "@type": "Organization",
+                "name": "Relief Fund Committee",
+                "startDate": "1929",
+                "memberOf": {
+                    "@type": "Committee",
+                    "committeeName": "Relief Fund Committee's first committee",
+                    "startDate": "1930"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Finance Committee",
+                "startDate": "1930",
+                "endDate": "1933"
+            },
+            {
+                "@type": "Organization",
+                "name": "Water Supply Board",
+                "startDate": "1930",
+                "endDate": "1933"
+            },
+            {
+                "@type": "Organization",
+                "name": "Unemployment Committee",
+                "startDate": "1932",
+                "endDate": "1933"
+            }
+        ],
+        "interestedIn": "voluntary association work"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Iron Merchant",
+                "workplace": "Wennblad & Co's Iron and Tool Store",
+                "industry": "Iron and Tool Trade",
+                "start_date": 1920
+            },
+            {
+                "occupational_title": "Member of the School Board",
+                "workplace": "Unknown",
+                "industry": "Education",
+                "start_date": 1928
+            },
+            {
+                "occupational_title": "Member of the Relief Fund Committee",
+                "workplace": "Unknown",
+                "industry": "Social Welfare",
+                "start_date": 1929
+            },
+            {
+                "occupational_title": "Member of the Relief Fund Committee's first committee",
+                "workplace": "Unknown",
+                "industry": "Social Welfare",
+                "start_date": 1930
+            },
+            {
+                "occupational_title": "Member of the Finance Committee",
+                "workplace": "Unknown",
+                "industry": "Finance",
+                "start_date": 1930
+            },
+            {
+                "occupational_title": "Member of the Water Supply Board",
+                "workplace": "Unknown",
+                "industry": "Public Utilities",
+                "start_date": 1930
+            },
+            {
+                "occupational_title": "Member of the Unemployment Committee",
+                "workplace": "Unknown",
+                "industry": "Employment and Labor",
+                "start_date": 1932
+            }
+        ]
+    }
+}

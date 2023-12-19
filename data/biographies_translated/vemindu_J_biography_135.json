@@ -1,0 +1,167 @@
+{
+    "original": "JOHANSSON, Johan Leonard, Grosshandlare, Söderköping, f Skönberga, Ögl, 31/12 87 av lantbr Johan Andersson o Sofia Sandberg, gm Ewa Andersson. Smedmans hdlssk. Maga-sinsförm h Fma Axel Odeen 03—09, h Almkvist &amp; Skoglund 09—26, etabl tills m D Karlsson Spannmålsfma Almkvist &amp; Skoglunds Eftr 27 (spännin.hdl start 1839). Ag fastigh Forseman nr 3 samt Drottning Gunnel nr 2. Rev f hälsov.nmdn, fattigv.styr, nykterh.nmdn o barnav.nmdn, led av vattenledn.styr, pens.-nmdn o arb.lösh.ktén. Kass o v. värd i Sö-derkps arb.frn. Resor: Danm 31, 32, 37, Finl 34, Norge 35, Estl 38. Hobby: Motorbåt.",
+    "translated": "JOHANSSON, Johan Leonard, Merchant, Söderköping, b. Skönberga, Ögl, 31/12 1887, son of farmer Johan Andersson and Sofia Sandberg, married to Ewa Andersson. Graduated from Smedmans Trade School. Worked as a warehouse clerk at Fma Axel Odeen from 1903 to 1909, and at Almkvist & Skoglund from 1909 to 1926. Established partnership with D Karlsson at Almkvist & Skoglund's Grain Company in 1927 (grain trading started in 1839). Owned properties Forseman No. 3 and Drottning Gunnel No. 2. Served on the health committee, poor relief board, sobriety committee, and child welfare committee, and was a member of the waterworks board, pension committee, and unemployment committee. Treasurer and deputy chairman of the Söderköping Workers' Association. Travelled to Denmark in 1931, 1932, and 1937, Finland in 1934, Norway in 1935, and Estonia in 1938. Hobby: Motorboat.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Johan Leonard Johansson",
+        "birthDate": "1887-12-31",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Skönberga"
+        },
+        "nationality": "Swedish",
+        "jobTitle": "Merchant",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Söderköping"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Johan Andersson",
+                "jobTitle": "Farmer"
+            },
+            {
+                "@type": "Person",
+                "name": "Sofia Sandberg"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ewa Andersson"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Smedmans Trade School"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Fma Axel Odeen",
+                "startDate": "1903",
+                "endDate": "1909",
+                "jobTitle": "Warehouse Clerk"
+            },
+            {
+                "@type": "Organization",
+                "name": "Almkvist & Skoglund",
+                "startDate": "1909",
+                "endDate": "1926",
+                "jobTitle": "Warehouse Clerk"
+            },
+            {
+                "@type": "Organization",
+                "name": "Almkvist & Skoglund's Grain Company",
+                "startDate": "1927",
+                "jobTitle": "Partner"
+            }
+        ],
+        "owns": [
+            {
+                "@type": "Estate",
+                "name": "Forseman No. 3"
+            },
+            {
+                "@type": "Estate",
+                "name": "Drottning Gunnel No. 2"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Health Committee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Poor Relief Board"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sobriety Committee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Child Welfare Committee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Waterworks Board"
+            },
+            {
+                "@type": "Organization",
+                "name": "Pension Committee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Unemployment Committee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Söderköping Workers' Association",
+                "jobTitle": "Treasurer, Deputy Chairman"
+            }
+        ],
+        "travels": [
+            {
+                "@type": "Place",
+                "name": "Denmark",
+                "startDate": "1931",
+                "endDate": "1931"
+            },
+            {
+                "@type": "Place",
+                "name": "Denmark",
+                "startDate": "1932",
+                "endDate": "1932"
+            },
+            {
+                "@type": "Place",
+                "name": "Denmark",
+                "startDate": "1937",
+                "endDate": "1937"
+            },
+            {
+                "@type": "Place",
+                "name": "Finland",
+                "startDate": "1934",
+                "endDate": "1934"
+            },
+            {
+                "@type": "Place",
+                "name": "Norway",
+                "startDate": "1935",
+                "endDate": "1935"
+            },
+            {
+                "@type": "Place",
+                "name": "Estonia",
+                "startDate": "1938",
+                "endDate": "1938"
+            }
+        ],
+        "hobbies": "Motorboat"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Warehouse Clerk",
+                "workplace": "Fma Axel Odeen",
+                "industry": "Trade",
+                "start_date": "1903"
+            },
+            {
+                "occupational_title": "Warehouse Clerk",
+                "workplace": "Almkvist & Skoglund",
+                "industry": "Trade",
+                "start_date": "1909"
+            },
+            {
+                "occupational_title": "Partner",
+                "workplace": "Almkvist & Skoglund's Grain Company",
+                "industry": "Grain Trading",
+                "start_date": "1927"
+            }
+        ]
+    }
+}

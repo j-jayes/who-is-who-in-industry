@@ -1,0 +1,46 @@
+{
+    "original": "JÖNSSON, Frans O, Fabrikör, Södra Sandby, f S Sandby 22/11 92 av fabr M J o h h. Eft slut skolgång anst fad fma Martin Jönssons Mek Verkst S Sandby (gr 86), inneh dna. Styr.led o huv.m Tornabkns S Sandbykont.",
+    "translated": "JÖNSSON, Frans O, Manufacturer, Södra Sandby, b. in S Sandby on November 22nd, 1892, son of the factory owner M J and his wife H. After finishing school, employed by the father's company Martin Jönsson's Mechanical Workshop in S Sandby (graduated in 1886), currently owner. Board member and main manager of Tornabkn's S Sandby office.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Frans O Jönsson",
+        "jobTitle": "Manufacturer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Södra Sandby"
+        },
+        "birthDate": "1892-11-22",
+        "father": {
+            "@type": "Person",
+            "name": "M J Jönsson"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "H Jönsson"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "School"
+        },
+        "employment": {
+            "@type": "Organization",
+            "name": "Martin Jönsson's Mechanical Workshop",
+            "startDate": "1886"
+        },
+        "currentJob": {
+            "@type": "Organization",
+            "name": "Tornabkn's S Sandby office"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Manufacturer",
+                "workplace": "Martin Jönsson's Mechanical Workshop",
+                "industry": "Mechanical manufacturing",
+                "start_date": "After finishing school"
+            }
+        ]
+    }
+}

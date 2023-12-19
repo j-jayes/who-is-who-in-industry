@@ -1,0 +1,51 @@
+{
+    "original": "JÖNSSON, Oscar Hjalmar, Disponent, Ås-hammar, f Åshammar 4/11 81. Disp f Åsham-mars Bultfabrik AB sed. 11. Styr.led i Ovansjö S:ns Sparbk sed. 26, i Ovansjö Belysn-&amp; Kvarn AB sed. 29.",
+    "translated": "JÖNSSON, Oscar Hjalmar, Manager, Ås-hammar, b. Åshammar 4/11 81. Manager of Åsham-mars Bolt Factory AB since 11. Board member of Ovansjö Savings Bank since 26, and of Ovansjö Lighting & Mill AB since 29.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Oscar Hjalmar Jönsson",
+        "jobTitle": "Manager",
+        "birthPlace": "Åshammar",
+        "birthDate": "1881-11-04",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Åsham-mars Bolt Factory AB",
+                "startDate": "1911"
+            },
+            {
+                "@type": "Organization",
+                "name": "Ovansjö Savings Bank",
+                "startDate": "1926"
+            },
+            {
+                "@type": "Organization",
+                "name": "Ovansjö Lighting & Mill AB",
+                "startDate": "1929"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Manager",
+                "workplace": "Åshammars Bolt Factory AB",
+                "industry": "Manufacturing",
+                "start_date": "1911"
+            },
+            {
+                "occupational_title": "Board member",
+                "workplace": "Ovansjö Savings Bank",
+                "industry": "Finance",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Board member",
+                "workplace": "Ovansjö Lighting & Mill AB",
+                "industry": "Manufacturing",
+                "start_date": "1929"
+            }
+        ]
+    }
+}

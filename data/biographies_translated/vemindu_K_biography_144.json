@@ -1,0 +1,189 @@
+{
+    "original": "KRANTZ, Johan Einar, Direktör, Djursholm, f Kopparb 1/8 78 av hdlsträdg.m A K o Johanna Styrlander, gm (2) Nanny Wester. Studex Falun 97, KTH 01. Anst Grängesb gemens förv 02, ing Falu gr 06, Kiruna 06, 1. gruving där 07, disp Malmb 20, dir gruv-avd i trafikAB Grängesb-Oxelös o Louss-Kiirun AB sed. 38. Malmundersökn Grönl 03 o 05, studieres USA 09 o 35. RNO, KVO.",
+    "translated": "KRANTZ, Johan Einar, Director, Djursholm, b. Kopparb 1/8 78, son of a merchant gardener A K and Johanna Styrlander, m. (2) Nanny Wester. Graduated from Falun 97, KTH 01. Employed by Grängesb gemeins förv 02, engineer in Falu gr 06, Kiruna 06, 1st engineer there 07, superintendent in Malmb 20, director of mining department in trafikAB Grängesb-Oxelös and Louss-Kiirun AB since 38. Conducted ore exploration in Grönl 03 and 05, studied in the USA in 09 and 35. RNO, KVO..",
+    "structured": {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "name": "Johan Einar Krantz",
+        "jobTitle": "Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Djursholm"
+        },
+        "birthDate": "1878-08-01",
+        "birthPlace": "Kopparb",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "A K"
+            },
+            {
+                "@type": "Person",
+                "name": "Johanna Styrlander"
+            }
+        ],
+        "spouse": [
+            {
+                "@type": "Person",
+                "name": "Nanny Wester",
+                "marriageType": "(2)"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Graduate",
+                "credentialSubject": "Falun",
+                "yearAwarded": "1897"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Graduate",
+                "credentialSubject": "KTH",
+                "yearAwarded": "1901"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Grängesb gemeins förv",
+                "startDate": "1902"
+            },
+            {
+                "@type": "Organization",
+                "name": "Falu gr",
+                "startDate": "1906"
+            },
+            {
+                "@type": "Organization",
+                "name": "Kiruna",
+                "startDate": "1906"
+            },
+            {
+                "@type": "Organization",
+                "name": "Malmb",
+                "startDate": "1920"
+            },
+            {
+                "@type": "Organization",
+                "name": "trafikAB Grängesb-Oxelös",
+                "startDate": "1938"
+            },
+            {
+                "@type": "Organization",
+                "name": "Louss-Kiirun AB",
+                "startDate": "1938"
+            }
+        ],
+        "occupation": [
+            {
+                "@type": "Engineer",
+                "name": "Engineer",
+                "startDate": "1906",
+                "endDate": "1907",
+                "memberOf": "Kiruna"
+            },
+            {
+                "@type": "Superintendent",
+                "name": "Superintendent",
+                "startDate": "1907",
+                "memberOf": "Malmb"
+            },
+            {
+                "@type": "Director",
+                "name": "Director of Mining Department",
+                "memberOf": [
+                    "trafikAB Grängesb-Oxelös",
+                    "Louss-Kiirun AB"
+                ],
+                "startDate": "1938"
+            }
+        ],
+        "warrants": [
+            {
+                "@type": "MilitaryAward",
+                "name": "RNO"
+            },
+            {
+                "@type": "MilitaryAward",
+                "name": "KVO"
+            }
+        ],
+        "event": [
+            {
+                "@type": "Observation",
+                "name": "Ore exploration",
+                "startDate": "1903",
+                "endDate": "1903",
+                "location": "Grönl"
+            },
+            {
+                "@type": "Observation",
+                "name": "Ore exploration",
+                "startDate": "1905",
+                "endDate": "1905",
+                "location": "Grönl"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Education",
+                "description": "Studied in the USA",
+                "startDate": "1909",
+                "endDate": "1909"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Education",
+                "description": "Studied in the USA",
+                "startDate": "1935",
+                "endDate": "1935"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Djursholm",
+                "industry": "",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Grängesb gemeins förv",
+                "industry": "Unknown",
+                "start_date": "1902"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Falu gr",
+                "industry": "Mining",
+                "start_date": "1906"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Kiruna",
+                "industry": "Mining",
+                "start_date": "1906"
+            },
+            {
+                "occupational_title": "1st Engineer",
+                "workplace": "Kiruna",
+                "industry": "Mining",
+                "start_date": "1907"
+            },
+            {
+                "occupational_title": "Superintendent",
+                "workplace": "Malmb",
+                "industry": "Mining",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Director of Mining Department",
+                "workplace": "trafikAB Grängesb-Oxelös and Louss-Kiirun AB",
+                "industry": "Mining",
+                "start_date": "1938"
+            }
+        ]
+    }
+}

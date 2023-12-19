@@ -1,0 +1,84 @@
+{
+    "original": "JÖNSSON, Arvid, Direktör, Hälsingborg, f Hbg 85. Anst v Ringstorps bryggeri 00, disp v Eslövs bryggeri 19, disp v AB Skånebryggerier i Hbg 40, v. vkst dir där 44. Under Eslövstiden innehaft ett flert komm uppdr o var även nämndeman i Eslövs o Frosta hds tingsl hdsrätt.",
+    "translated": "JÖNSSON, Arvid, Director, Helsingborg, b. Helsingborg 1885. Employed at Ringstorps Brewery 1900, manager at Eslövs Brewery 1919, manager at AB Skåne Breweries in Helsingborg 1940, interim managing director there in 1944. During the time in Eslöv, held several municipal positions and also served as a lay judge in the Eslöv and Frosta judicial district court..",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Arvid JÖNSSON",
+        "birthDate": "1885-01-01",
+        "jobTitle": "Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Helsingborg"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Ringstorps Brewery",
+                "startDate": "1900-01-01"
+            },
+            {
+                "@type": "Organization",
+                "name": "Eslövs Brewery",
+                "startDate": "1919-01-01",
+                "endDate": "1940-01-01"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Skåne Breweries",
+                "startDate": "1940-01-01",
+                "endDate": "1944-01-01"
+            }
+        ],
+        "positions": [
+            {
+                "@type": "GovernmentOrganization",
+                "name": "Eslöv Municipality",
+                "startDate": "1919-01-01",
+                "endDate": "1940-01-01"
+            },
+            {
+                "@type": "GovernmentOrganization",
+                "name": "Frosta Municipality",
+                "startDate": "1919-01-01",
+                "endDate": "1940-01-01"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "GovernmentOrganization",
+                "name": "Eslöv and Frosta Judicial District Court",
+                "startDate": "1919-01-01",
+                "endDate": "1940-01-01"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Employed",
+                "workplace": "Ringstorps Brewery",
+                "industry": "Brewing",
+                "start_date": "1900"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Eslövs Brewery",
+                "industry": "Brewing",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "AB Skåne Breweries",
+                "industry": "Brewing",
+                "start_date": "1940"
+            },
+            {
+                "occupational_title": "Interim managing director",
+                "workplace": "AB Skåne Breweries",
+                "industry": "Brewing",
+                "start_date": "1944"
+            }
+        ]
+    }
+}

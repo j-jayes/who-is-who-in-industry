@@ -1,0 +1,88 @@
+{
+    "original": "JOHNSON, Ernst Torsten, Diplomingenjör, Stockholm, f Borås 29/9 03 av appretören E W J o Anna Maria Anderson, gm Iris Hartman. Studex v Sv Klassiska Lyceum i Åbo 22, Åbo Akademi 22—28, dipl där 28. Forskn-o undervisn.ass v Åbo Akademis inst i träkemi 26—30, l:e ass å KTH:s inst f cellulosa-tekn 30, nu l :e ing v Cellulosaind:s Central-lab, Sthlm.",
+    "translated": "JOHNSON, Ernst Torsten, Diplom Engineer, Stockholm, born in Borås on September 29, 1903, to the finisher E.W.J. and Anna Maria Anderson. Married to Iris Hartman. Studied at the Finnish Classical Lyceum in Åbo from 1922, Åbo Academy from 1922-1928, obtained a diploma there in 1928. Research and teaching assistant at Åbo Academy's Institute of Wood Chemistry from 1926-1930, first assistant at KTH's Institute of Cellulose Technology in 1930, currently working as a first engineer at the Central Laboratory of the Cellulose Industry in Stockholm.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Ernst Torsten",
+        "familyName": "Johnson",
+        "jobTitle": "Diplom Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "birthDate": "1903-09-29",
+        "birthPlace": "Borås",
+        "parents": [
+            {
+                "@type": "Person",
+                "givenName": "E. W. J.",
+                "familyName": "Finisher"
+            },
+            {
+                "@type": "Person",
+                "givenName": "Anna Maria",
+                "familyName": "Anderson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "givenName": "Iris",
+            "familyName": "Hartman"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Finnish Classical Lyceum in Åbo",
+                "startDate": "1922"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Åbo Academy",
+                "startDate": "1922",
+                "endDate": "1928"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "KTH's Institute of Cellulose Technology",
+                "startDate": "1930"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Åbo Academy - Institute of Wood Chemistry",
+                "startDate": "1926",
+                "endDate": "1930",
+                "jobTitle": "Research and Teaching Assistant"
+            },
+            {
+                "@type": "Organization",
+                "name": "Central Laboratory of the Cellulose Industry",
+                "jobTitle": "First Engineer"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Research and teaching assistant",
+                "workplace": "Åbo Academy's Institute of Wood Chemistry",
+                "industry": "Wood chemistry",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "First assistant",
+                "workplace": "KTH's Institute of Cellulose Technology",
+                "industry": "Cellulose technology",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "First engineer",
+                "workplace": "Central Laboratory of the Cellulose Industry",
+                "industry": "Cellulose industry",
+                "start_date": "unknown"
+            }
+        ]
+    }
+}

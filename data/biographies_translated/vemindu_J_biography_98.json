@@ -1,0 +1,48 @@
+{
+    "original": "JOHANSSON, Arthur Konrad Anders, Direktör, Göteborg, f Länghem, Älvsb l, 11/11 91, gm Ester Olsson. Prakt inom lantbr, hdl 0 ind, eg aff.rör 14—24, vkst dir o ordf i Kartongfabr Excelsior AB Gbg sed. 25.",
+    "translated": "JOHANSSON, Arthur Konrad Anders, Director, Gothenburg, born in Länghem, Älvsborg County, on November 11, 1891, married to Ester Olsson. Practical experience in agriculture, commerce, and industry. Owned his own business from 1914-1924. Became the managing director and chairman of the board of Kartongfabr Excelsior AB in Gothenburg from 1925 onwards.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Arthur Konrad Anders",
+        "familyName": "Johansson",
+        "jobTitle": "Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Gothenburg"
+        },
+        "birthDate": "1891-11-11",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Länghem",
+            "addressRegion": "Älvsborg County"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Ester Olsson"
+        },
+        "description": "Practical experience in agriculture, commerce, and industry. Owned own business from 1914-1924. Became the managing director and chairman of the board of Kartongfabr Excelsior AB in Gothenburg from 1925 onwards."
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Prakt (Practical experience)",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Eg aff.rör (Owned his own business)",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Vkst dir o ordf (Managing director and chairman of the board)",
+                "workplace": "Kartongfabr Excelsior AB",
+                "industry": "Manufacturing",
+                "start_date": "1925"
+            }
+        ]
+    }
+}

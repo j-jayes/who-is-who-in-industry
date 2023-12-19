@@ -1,0 +1,60 @@
+{
+    "original": "JANSSON, Klaes Fredrik, Fabrikör, Djursholm, f östra Torsås, Kronob l, 15/7 68, gm Karin Lundqvist. Eft slut skolg anst v Kosta Glasbr o Rörstrands Porslinsfabr. Eg fma, AB Klaes Janssons Glassliperi- &amp; Spegelfolie-ringsfabr, Sthlm, sed. 99.",
+    "translated": "JANSSON, Klaes Fredrik, Industrialist, Djursholm, formerly from eastern Torsås, Kronoberg County, born on July 15, 1868, married to Karin Lundqvist. After finishing school, he worked at Kosta Glassworks and Rörstrand Porcelain Factory. Later, he established his own company, AB Klaes Janssons Glass Grinding and Mirror Foil-Ring Factory, in Stockholm in 1899.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Klaes Fredrik Jansson",
+        "birthDate": "1868-07-15",
+        "birthPlace": "Torsås, Kronoberg County, Sweden",
+        "spouse": {
+            "@type": "Person",
+            "name": "Karin Lundqvist"
+        },
+        "occupation": "Industrialist",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Djursholm, Sweden"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "alumniOf": [
+                {
+                    "@type": "EducationalOrganization",
+                    "name": "Kosta Glassworks"
+                },
+                {
+                    "@type": "EducationalOrganization",
+                    "name": "Rörstrand Porcelain Factory"
+                }
+            ],
+            "endDate": "1899"
+        },
+        "memberOf": {
+            "@type": "Organization",
+            "name": "AB Klaes Janssons Glass Grinding and Mirror Foil-Ring Factory"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Fabrikör",
+                "workplace": "Djursholm",
+                "industry": "Unknown",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Anställd",
+                "workplace": "Kosta Glasbr o Rörstrands Porslinsfabr",
+                "industry": "Glassworks and Porcelain Factory",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Eg fma",
+                "workplace": "AB Klaes Janssons Glassliperi- & Spegelfolie-ringsfabr",
+                "industry": "Glass Grinding and Mirror Foil-Ring Factory",
+                "start_date": 1899
+            }
+        ]
+    }
+}

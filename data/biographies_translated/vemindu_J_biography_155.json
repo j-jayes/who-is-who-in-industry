@@ -1,0 +1,116 @@
+{
+    "original": "JOHNSON, Sven Erland, Disponent, Örebro, f öbr 14/4 14 av dir S J o Seidi Larsson. Ing.-ex Tekn gymn öbr 34, språk- o spec.stud 35— 37. Anst h AB Alcometaller sed. 37, disp där sed. 42. Styr.led KFUM. Resor: Tyskl 35, 39, Engl 35, 39, Norge 31, 35, Finl 33, 37. Hobbies: Naturgårdar, foto.",
+    "translated": "JOHNSON, Sven Erland, Executive, Örebro, born April 14, 1914, son of director S.J. and Seidi Larsson. Engineering degree from Technical Gymnasium in 1934. Language and special studies from 1935 to 1937. Employed at AB Alcometaller since 1937, promoted to executive in 1942. Board member of KFUM (Young Men's Christian Association). Travel: Germany in 1935 and 1939, England in 1935 and 1939, Norway in 1931 and 1935, Finland in 1933 and 1937. Hobbies: Nature preservation, photography.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Sven Erland Johnson",
+        "jobTitle": "Executive",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Örebro"
+        },
+        "birthDate": "1914-04-14",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "S.J. Johnson",
+                "jobTitle": "Director"
+            },
+            {
+                "@type": "Person",
+                "name": "Seidi Larsson"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Technical Gymnasium"
+            }
+        ],
+        "alumniOf": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Technical Gymnasium",
+                "startDate": "1934",
+                "endDate": "1934"
+            }
+        ],
+        "additionalProperty": [
+            {
+                "@type": "PropertyValue",
+                "name": "Hobbies",
+                "value": "Nature preservation, photography"
+            }
+        ],
+        "workExperience": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1937",
+                "endDate": "1942",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Alcometaller"
+                },
+                "roleName": "Employee",
+                "description": "Promoted to executive in 1942"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "KFUM"
+            }
+        ],
+        "traveled": [
+            {
+                "@type": "Trip",
+                "name": "Germany 1935"
+            },
+            {
+                "@type": "Trip",
+                "name": "Germany 1939"
+            },
+            {
+                "@type": "Trip",
+                "name": "England 1935"
+            },
+            {
+                "@type": "Trip",
+                "name": "England 1939"
+            },
+            {
+                "@type": "Trip",
+                "name": "Norway 1931"
+            },
+            {
+                "@type": "Trip",
+                "name": "Norway 1935"
+            },
+            {
+                "@type": "Trip",
+                "name": "Finland 1933"
+            },
+            {
+                "@type": "Trip",
+                "name": "Finland 1937"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Executive",
+                "workplace": "AB Alcometaller",
+                "industry": "Metal industry",
+                "start_date": "1937"
+            },
+            {
+                "occupational_title": "Executive",
+                "workplace": "AB Alcometaller",
+                "industry": "Metal industry",
+                "start_date": "1942"
+            }
+        ]
+    }
+}

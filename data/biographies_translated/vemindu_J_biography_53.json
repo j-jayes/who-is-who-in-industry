@@ -1,0 +1,103 @@
+{
+    "original": "JANSSON, John Eric, Köpman, Eskilstuna, f Etuna 20/3 99, gm Signe Carlsson. Eft slut skolg o prakt utbildn anst s kont v Etuna Stålpressn AB 19—22. Gr eg rör und fma J E Jansson Etuna 22, deläg rakbladsfabr Indu-strikompaniet Söderlund &amp; Co Etuna 34, inneh dna. Hobbies: Fotboll, allmän idrott.",
+    "translated": "JANSSON, John Eric, Merchant, Eskilstuna, b. Etuna 20/3 99, m. Signe Carlsson. After completing school, he received practical training and worked for Etuna Stålpressn AB from 19—22. Established own plumbing business J E Jansson Etuna in 1922, became co-owner of razor blade factory Indu-strikompaniet Söderlund &amp; Co Etuna in 1934, and eventually became the owner. Hobbies: Football, general sports.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "John Eric Jansson",
+        "birthDate": "1899-03-20",
+        "birthPlace": "Etuna",
+        "description": "Merchant, Eskilstuna",
+        "spouse": {
+            "@type": "Person",
+            "name": "Signe Carlsson"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Etuna Stålpressn AB",
+            "startDate": "1919",
+            "endDate": "1922"
+        },
+        "occupation": [
+            {
+                "@type": "OrganizationRole",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Etuna Stålpressn AB"
+                },
+                "startDate": "1919",
+                "endDate": "1922",
+                "roleName": "Practical Training"
+            },
+            {
+                "@type": "OrganizationRole",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "J E Jansson Etuna"
+                },
+                "startDate": "1922",
+                "roleName": "Owner"
+            },
+            {
+                "@type": "OrganizationRole",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Indu-strikompaniet Söderlund & Co Etuna"
+                },
+                "startDate": "1934",
+                "roleName": "Co-owner"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Etuna Stålpressn AB",
+                "startDate": "1919",
+                "endDate": "1922"
+            },
+            {
+                "@type": "Organization",
+                "name": "J E Jansson Etuna",
+                "startDate": "1922"
+            },
+            {
+                "@type": "Organization",
+                "name": "Indu-strikompaniet Söderlund & Co Etuna",
+                "startDate": "1934"
+            }
+        ],
+        "sameAs": "https://example.com/john-eric-jansson",
+        "hobbies": [
+            "Football",
+            "General sports"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Eskilstuna",
+                "industry": "Retail",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Plumber",
+                "workplace": "J E Jansson Etuna",
+                "industry": "Construction",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Co-owner",
+                "workplace": "Indu-strikompaniet Söderlund & Co Etuna",
+                "industry": "Manufacturing",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "Indu-strikompaniet Söderlund & Co Etuna",
+                "industry": "Manufacturing",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

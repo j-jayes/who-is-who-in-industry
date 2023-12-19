@@ -1,0 +1,67 @@
+{
+    "original": "JANSSON, Bror Julius, Färghandlare, Örebro, f Gävle 1/7 01, gm Agnes Larsson. Anst 1 färghdlsfmor sed. 16, bl a i fma O A Johansson &amp; Co i Gävle i 20 år, övert Västra Färg-hdln i öbr 36 o ombild den t AB 37. Medl av Sv Färghdlis Riksfrb o Mell Sv:s FärghandL-frn.",
+    "translated": "JANSSON, Bror Julius, Paint Merchant, Örebro, b. Gävle 1/7 01, m. Agnes Larsson. Employed by various paint shops since 1916, including O A Johansson & Co in Gävle for 20 years. Took over Västra Paint Shop in Örebro in 1936 and converted it into a limited company in 1937. Member of the Swedish Paint Merchants National Association and the Central Swedish Paint Merchants Association.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "JANSSON, Bror Julius",
+        "description": "Paint Merchant",
+        "birthPlace": "Gävle",
+        "birthDate": "1901-07-01",
+        "nationality": "Swedish",
+        "spouse": {
+            "@type": "Person",
+            "name": "Agnes Larsson"
+        },
+        "employment": [
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "O A Johansson & Co"
+                },
+                "jobTitle": "Paint Merchant",
+                "startDate": "1916",
+                "endDate": "1936",
+                "location": "Gävle"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Västra Paint Shop"
+                },
+                "jobTitle": "Paint Merchant",
+                "startDate": "1936",
+                "endDate": "1937",
+                "location": "Örebro"
+            }
+        ],
+        "membership": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Paint Merchants National Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Central Swedish Paint Merchants Association"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Paint Merchant",
+                "workplace": "O A Johansson & Co",
+                "industry": "Paint Shop",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Paint Merchant",
+                "workplace": "Västra Paint Shop",
+                "industry": "Paint Shop",
+                "start_date": "1936"
+            }
+        ]
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "original": "JÖBNMABK, Olof Åke Johannes, Direktör, Karlstad, f Mariestad 3/2 99 av hdlsres A Johansson o Hulda Melin, gm Alma Burén. Realex Kst 16. Anst sed. 16 i Aug Huzell AB (bilfirma, grund 88, AB 26), vkst dir sed. 40. Styr.led där, Huzells i Sthlm AB samt AB Ringtjänst, Krist, ordf Värml-Dalsl bilhandl lever.frn. Resor: USA 29, 34, 39, Tyskl 30. Frimurare, Samf Spero, KAK, idr.m, elitgymn.m. Hobby: Sportfiske.",
+    "translated": "JÖBNMABK, Olof Åke Johannes, Director, Karlstad, b. Mariestad 3/2 99, son of tradesman A Johansson and Hulda Melin, married to Alma Burén. Completed Realex examination in Karlstad at 16 years old. Employed since 16 at Aug Huzell AB (automotive company, established in 1888, became AB in 1926), promoted to Vice Director in 1940. Serves on the board of directors at Huzells in Stockholm AB and AB Ringtjänst in Kristinehamn. Chairman of Värmland-Dalarna car dealers' association. Traveled to the USA in 1929, 1934, and 1939, and to Germany in 1930. Member of Freemasons, Spero Society, Royal Automobile Club, sports association, elite gymnastics association. Hobby: Sport fishing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Olof Åke Johannes JÖBNMABK",
+        "jobTitle": "Director",
+        "birthPlace": "Mariestad",
+        "birthDate": "1899-02-03",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "A Johansson",
+                "jobTitle": "Tradesman"
+            },
+            {
+                "@type": "Person",
+                "name": "Hulda Melin"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Alma Burén"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Realex examination",
+                "educationalLevel": "SecondarySchool",
+                "provider": "Karlstad",
+                "startDate": "1915",
+                "endDate": "1916"
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Aug Huzell AB",
+            "foundingDate": "1888",
+            "address": "Karlstad",
+            "industry": "Automotive",
+            "employeeStartDate": "1916",
+            "employeePosition": "Vice Director",
+            "promotionDate": "1940"
+        },
+        "boardMember": [
+            {
+                "@type": "Organization",
+                "name": "Huzells in Stockholm AB"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Ringtjänst"
+            }
+        ],
+        "association": [
+            {
+                "@type": "Organization",
+                "name": "Värmland-Dalarna car dealers' association",
+                "roleName": "Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Freemasons"
+            },
+            {
+                "@type": "Organization",
+                "name": "Spero Society"
+            },
+            {
+                "@type": "Organization",
+                "name": "Royal Automobile Club"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sports Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Elite Gymnastics Association"
+            }
+        ],
+        "hobbies": [
+            "Sport fishing"
+        ],
+        "travelHistory": [
+            {
+                "country": "USA",
+                "dates": [
+                    "1929",
+                    "1934",
+                    "1939"
+                ]
+            },
+            {
+                "country": "Germany",
+                "dates": [
+                    "1930"
+                ]
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Aug Huzell AB",
+                "industry": "Automotive",
+                "start_date": "1940"
+            },
+            {
+                "occupational_title": "Vice Director",
+                "workplace": "Aug Huzell AB",
+                "industry": "Automotive",
+                "start_date": "1940"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Huzells in Stockholm AB",
+                "industry": "Automotive",
+                "start_date": "N/A"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "AB Ringtjänst",
+                "industry": "Automotive",
+                "start_date": "N/A"
+            },
+            {
+                "occupational_title": "Chairman",
+                "workplace": "Värmland-Dalarna car dealers' association",
+                "industry": "Automotive",
+                "start_date": "N/A"
+            }
+        ]
+    }
+}

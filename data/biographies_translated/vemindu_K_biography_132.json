@@ -1,0 +1,153 @@
+{
+    "original": "KOCKUM, Erik Frans H:son, Direktör, Ronneby, f Malmö 7/8 89 av bergsing Henr K o Louise Platen, gm Greta Wijkander. Ex KTH o bergsHS 14. Ing Kallinge jvk 17—20, dir.ass Kockums jvks AB, vkst dir Kockums förvaltn.AB 20—25, Kockums jvks AB sed. 25. Styr.led i sistnda två AB, Kockums mek verkst AB samt Järnbr.frb, flm Jernkont, ordf Blek skogsv.styr, Rby hamnstyr o sam-realsk, stdsflm, beredn.utsk, krist.styr. Studieres Tyskl 14—15, USA 16. RVO.",
+    "translated": "KOCKUM, Erik Frans H:son, Director, Ronneby, b. Malmö 7/8 89, son of mining engineer Henr K and Louise Platen, married to Greta Wijkander. Former student at KTH (Royal Institute of Technology) and bergsHS (School of Mines) in 1914. Served in the military at Kallinge from 1917-1920, assistant director at Kockums jvks AB, and managing director of Kockums förvaltn.AB from 1920-1925. Continued working at Kockums jvks AB since 1925. Member of the board in the last two mentioned companies, Kockums mek verkst AB, as well as Järnbr.frb and Jernkont. Chairman of Blek skogsv.styr, Rby hamnstyr (harbor board), and sam-realsk. Also involved in various committees and boards like stdsflm (local community board), beredn.utsk (planning committee), and krist.styr (church board). Studied in Germany from 1914-1915 and stayed in the USA in 1916. Received the award RVO.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Erik Frans H:son Kockum",
+        "birthDate": "1889-08-07",
+        "birthPlace": "Malmö",
+        "description": "Director at Kockums",
+        "spouse": "Greta Wijkander",
+        "education": [
+            {
+                "@type": "CollegeOrUniversity",
+                "name": "KTH (Royal Institute of Technology)"
+            },
+            {
+                "@type": "CollegeOrUniversity",
+                "name": "bergsHS (School of Mines)",
+                "startDate": "1914"
+            }
+        ],
+        "serviceLocation": "Ronneby",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Henr K"
+            },
+            {
+                "@type": "Person",
+                "name": "Louise Platen"
+            }
+        ],
+        "militaryService": {
+            "@type": "MilitaryService",
+            "branch": "Kallinge",
+            "startDate": "1917",
+            "endDate": "1920"
+        },
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "Kockums jvks AB",
+                "position": "Assistant Director"
+            },
+            {
+                "@type": "Organization",
+                "name": "Kockums förvaltn.AB",
+                "position": "Managing Director",
+                "startDate": "1920",
+                "endDate": "1925"
+            },
+            {
+                "@type": "Organization",
+                "name": "Kockums jvks AB",
+                "position": "Currently"
+            }
+        ],
+        "boardMemberIn": [
+            {
+                "@type": "Organization",
+                "name": "Kockums mek verkst AB"
+            },
+            {
+                "@type": "Organization",
+                "name": "Järnbr.frb"
+            },
+            {
+                "@type": "Organization",
+                "name": "Jernkont"
+            }
+        ],
+        "chairmanOf": [
+            {
+                "@type": "Organization",
+                "name": "Blek skogsv.styr"
+            },
+            {
+                "@type": "Organization",
+                "name": "Rby hamnstyr"
+            },
+            {
+                "@type": "Organization",
+                "name": "sam-realsk"
+            }
+        ],
+        "committeeMemberOf": [
+            {
+                "@type": "Organization",
+                "name": "stdsflm"
+            },
+            {
+                "@type": "Organization",
+                "name": "beredn.utsk"
+            },
+            {
+                "@type": "Organization",
+                "name": "krist.styr"
+            }
+        ],
+        "studyAbroad": [
+            {
+                "@type": "Country",
+                "name": "Germany",
+                "startDate": "1914",
+                "endDate": "1915"
+            },
+            {
+                "@type": "Country",
+                "name": "USA",
+                "startDate": "1916"
+            }
+        ],
+        "award": {
+            "@type": "Order",
+            "name": "RVO"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Former student",
+                "workplace": "KTH (Royal Institute of Technology)",
+                "industry": null,
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Former student",
+                "workplace": "bergsHS (School of Mines)",
+                "industry": null,
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Assistant director",
+                "workplace": "Kockums jvks AB",
+                "industry": null,
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Managing director",
+                "workplace": "Kockums förvaltn.AB",
+                "industry": null,
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Kockums jvks AB",
+                "industry": null,
+                "start_date": "1925"
+            }
+        ]
+    }
+}

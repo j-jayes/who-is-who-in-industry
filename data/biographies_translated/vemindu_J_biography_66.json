@@ -1,0 +1,47 @@
+{
+    "original": "JAKL.STEDT, Martin Hugo, Kontorschef, Uppsala, f Ludvika 12/12 01, gm Elsa Möller. Studex, Schartaus. Anst AB Hakon Swenson Uppsala. PatrGM.",
+    "translated": "JAKL.STEDT, Martin Hugo, Office manager, Uppsala, b. Ludvika 12/12 01, m. Elsa Möller. Studex, Schartaus. Employed by Hakon Swenson AB Uppsala. PatrGM.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Martin Hugo Jakl Stedt",
+        "jobTitle": "Office manager",
+        "birthPlace": "Ludvika",
+        "birthDate": "1901-12-12",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Uppsala"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Elsa Möller"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Studex",
+            "recognizedBy": "Schartaus"
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Hakon Swenson AB",
+            "location": {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Uppsala"
+                }
+            }
+        },
+        "additionalName": "PatrGM"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Office manager",
+                "workplace": "Hakon Swenson AB",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

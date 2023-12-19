@@ -1,0 +1,122 @@
+{
+    "original": "KAIJSER, Erland August, Civilingenjör, Motala, F Hsand 16/11 10 av med dr F K o med lic Anna Lovén, gm Britt-Lis Nybom. Hsds tekn gymn 29, KTH (el.tekn) 33. Anst Trollh kraftvks driftkont 33—35, utredn.kont 36, distr.kont Skara 36, d:o Gbg 37—39, drifts-ing 40—41, tf spec.lär i el anläggn.tekn v CTH 38—40, dir.ass Mot kraftvk sed. 41.",
+    "translated": "KAIJSER, Erland August, Master of Engineering, Motala, born on November 16, 1910, son of Dr. F. K. and Licentiate Anna Lovén, married to Britt-Lis Nybom. Attended technical high school from 1929 to 1933, and the Royal Institute of Technology (specializing in electrical engineering) until 1933. Employed at Trollhätte Power Station from 1933 to 1935, first in operations control, then in research. Moved to Skara as a district engineer in 1936, and then to Gothenburg from 1937 to 1939. Served as a chief engineer from 1940 to 1941, and a temporary lecturer in electrical power technology at Chalmers University of Technology from 1938 to 1940. Became an assistant director at Motala Power Station in 1941.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Erland August Kaijser",
+        "birthDate": "1910-11-16",
+        "birthPlace": "Motala",
+        "father": {
+            "@type": "Person",
+            "name": "F.K. Kaijser"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Anna Lovén",
+            "honorificSuffix": "Licentiate"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Britt-Lis Nybom"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Degree",
+                "credentialEarned": "Master of Engineering",
+                "educationalLevel": "college",
+                "educationalProgram": "Civilingenjör",
+                "provider": {
+                    "@type": "Organization",
+                    "name": "Royal Institute of Technology"
+                },
+                "startDate": "1929",
+                "endDate": "1933"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Degree",
+                "educationalLevel": "college",
+                "educationalProgram": "Electrical Engineering",
+                "provider": {
+                    "@type": "Organization",
+                    "name": "Royal Institute of Technology"
+                },
+                "startDate": "1929",
+                "endDate": "1933"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Degree",
+                "educationalLevel": "college",
+                "educationalProgram": "Temporary Lecturer in Electrical Power Technology",
+                "provider": {
+                    "@type": "Organization",
+                    "name": "Chalmers University of Technology"
+                },
+                "startDate": "1938",
+                "endDate": "1940"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Motala Power Station",
+            "jobTitle": "Chief Engineer",
+            "startDate": "1940",
+            "endDate": "1941"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Master of Engineering",
+                "workplace": "Motala",
+                "industry": "-",
+                "start_date": "16/11 10"
+            },
+            {
+                "occupational_title": "Employee in Operations Control",
+                "workplace": "Trollhätte Power Station",
+                "industry": "Power Generation",
+                "start_date": "33"
+            },
+            {
+                "occupational_title": "Employee in Research",
+                "workplace": "Trollhätte Power Station",
+                "industry": "Power Generation",
+                "start_date": "36"
+            },
+            {
+                "occupational_title": "District Engineer",
+                "workplace": "Skara",
+                "industry": "-",
+                "start_date": "36"
+            },
+            {
+                "occupational_title": "District Engineer",
+                "workplace": "Gothenburg",
+                "industry": "-",
+                "start_date": "37"
+            },
+            {
+                "occupational_title": "Chief Engineer",
+                "workplace": "-",
+                "industry": "-",
+                "start_date": "40"
+            },
+            {
+                "occupational_title": "Temporary Lecturer in Electrical Power Technology",
+                "workplace": "Chalmers University of Technology",
+                "industry": "Education",
+                "start_date": "38"
+            },
+            {
+                "occupational_title": "Assistant Director",
+                "workplace": "Motala Power Station",
+                "industry": "Power Generation",
+                "start_date": "41"
+            }
+        ]
+    }
+}

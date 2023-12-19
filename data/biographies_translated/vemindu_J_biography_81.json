@@ -1,0 +1,163 @@
+{
+    "original": "JERNBERG, Göran Henrik Sigfrid, Civilingenjör, Bofors, f Folkärna, Kopparb l, 17/1 91 av mjöln A H J o Anna Ahlgren. Studex Falun 11, KTH (E) 12—16. Anst v S :a Sv:s Ångpannefrn Malmö 17, underingenjör v Älvkarleby kraftverks distr.förvaltn Sthlm 18— 20, tf bitr byråing v förvaltn:s huvudkont Sthlm 20—24, bitr ing v Norrfors kraftverk 94.—25, anst v AB Bofors Nobelkrut, Björk-k,^rnsverken, sed. 25. Led Sv Tekn.frn.",
+    "translated": "JERNBERG, Göran Henrik Sigfrid, Civil Engineer, Bofors, born in Folkärna, Kopparberg County, on January 17, 1891, son of mill owner A.H.J. Jernberg and Anna Ahlgren. Graduated from Falun in 1911, and from KTH (Royal Institute of Technology, specializing in Engineering) in 1912-1916. Employed at Södra Sverige's Ångpannefrabrik in Malmö in 1917, assistant engineer at Älvkarleby power station district administration in Stockholm from 1918 to 1920, temporary assistant at the administration's headquarters in Stockholm from 1920 to 1924, assistant engineer at Norrfors power station from 1924 to 1925, employed at AB Bofors Nobelkrut, Björk-Karlsverken since 1925. Member of the Swedish Society of Engineering.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Göran Henrik Sigfrid Jernberg",
+        "givenName": "Göran Henrik Sigfrid",
+        "familyName": "Jernberg",
+        "birthDate": "1891-01-17",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Folkärna",
+                "addressRegion": "Kopparberg",
+                "addressCountry": "Sweden"
+            }
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "A.H.J. Jernberg",
+                "jobTitle": "Mill Owner"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Ahlgren"
+            }
+        ],
+        "description": "Civil Engineer, Bofors",
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Studex",
+                "educationalLevel": "SecondarySchool",
+                "alumniOf": {
+                    "@type": "EducationalOrganization",
+                    "name": "Falun"
+                },
+                "endDate": "1911"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "University",
+                "educationalLevel": "Master",
+                "alumniOf": {
+                    "@type": "EducationalOrganization",
+                    "name": "KTH",
+                    "alternateName": "Royal Institute of Technology",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "Sweden"
+                    }
+                },
+                "startDate": "1912",
+                "endDate": "1916"
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Bofors"
+        },
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1917",
+                "endDate": "Present",
+                "roleName": "Södra Sverige's Ångpannefrabrik",
+                "worksFor": {
+                    "@type": "Organization",
+                    "name": "Malmö"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1918",
+                "endDate": "1920",
+                "roleName": "Assistant Engineer",
+                "worksFor": {
+                    "@type": "Organization",
+                    "name": "Älvkarleby Power Station District Administration",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "Sweden"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1920",
+                "endDate": "1924",
+                "roleName": "Temporary Assistant",
+                "worksFor": {
+                    "@type": "Organization",
+                    "name": "Administration's Headquarters",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "Sweden"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1924",
+                "endDate": "1925",
+                "roleName": "Assistant Engineer",
+                "worksFor": {
+                    "@type": "Organization",
+                    "name": "Norrfors Power Station",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "Sweden"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1925",
+                "roleName": "AB Bofors Nobelkrut, Björk-Karlsverken"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Swedish Society of Engineering",
+            "alternateName": "Sv Tekn.frn"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Bofors",
+                "industry": "",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Assistant Engineer",
+                "workplace": "Älvkarleby power station district administration",
+                "industry": "",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Temporary Assistant",
+                "workplace": "Administration's headquarters",
+                "industry": "",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Assistant Engineer",
+                "workplace": "Norrfors power station",
+                "industry": "",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "AB Bofors Nobelkrut, Björk-Karlsverken",
+                "industry": "",
+                "start_date": "1925"
+            }
+        ]
+    }
+}

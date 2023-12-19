@@ -1,0 +1,43 @@
+{
+    "original": "JANSSON, Helge, Förvaltare, Guldsmedshyttan, f Ghyttan 27/11 97, gm Karin Lundberg. Förvalt v Larsbo Kalk AB i Guldsmedshyttan sed. 27.",
+    "translated": "JANSSON, Helge, Administrator, Guldsmedshyttan, b. Ghyttan 27/11 97, m. Karin Lundberg in 19xx. Administrator at Larsbo Kalk AB in Guldsmedshyttan since 27.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Helge",
+        "familyName": "Jansson",
+        "birthDate": "1897-11-27",
+        "jobTitle": "Administrator",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Larsbo Kalk AB"
+            }
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Guldsmedshyttan"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Karin Lundberg"
+        },
+        "description": "Administrator at Larsbo Kalk AB in Guldsmedshyttan since 1927."
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Administrator",
+                "workplace": "Larsbo Kalk AB",
+                "industry": "Mining",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Förvaltare",
+                "workplace": "Guldsmedshyttan",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

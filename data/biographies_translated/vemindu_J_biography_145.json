@@ -1,0 +1,150 @@
+{
+    "original": "JOHANSSON, Sture Wilhelm, Disponent, Forsvik, f Ekeberga, Kronob l, 5/9 07 av br.äg J W J o Gerda Carlsdotter. Realex 24, däreft prakt h fad i skogs- o sågvksrör o lantbr. Anst h fad i komp.sk m dir A Sandstedt Sthlm v drivning av stormfälld skog i Uppl 32—33, eg sågvksrör o deläg Wirå br 34—36, deläg o ch Forsviks skogar (gr 36) 37—42, ens ag dta företag sed. 43. Ordf hälsov.nmd o byggn.nmd Forsvik, ordf Fviks skyttefrn. Styr.led Forsviks Trävaru AB Nrkp sed. 43. Resor: Tyskl 31, Engl, Norge 34, Tyskl 35, 39. Skyt-tebm, skidskyttesm. Hobbies: Jakt, fiske, byggnationer o skogsvård, musik.",
+    "translated": "JOHANSSON, Sture Wilhelm, Manager, Forsvik, born in Ekeberga, Kronoburg County, September 5th, 1907, son of farmer/landowner J.W.J and Gerda Carlsdotter. Completed secondary school at Realex 24, then worked practically with his father in forestry, sawmill operations, and agriculture. Employed by forestry company in collaboration with director A. Sandstedt in Stockholm for the management of storm-felled forests in Uppland during 1932-1933. Owned sawmill operations and was a part-owner of Wirå brothers' company from 1934 to 1936. Became a part-owner and chairman of Forsviks' forests (established 1936) from 1937 to 1942, and sole proprietor since 1943. Chairman of the health committee and building committee in Forsvik, chairman of the Forsvik shooting association. Board member of Forsviks Trävaru AB in Norrköping since 1943. Travels: Germany in 1931, England and Norway in 1934, Germany in 1935 and 1939. Member of shooting teams, ski shooting champion. Hobbies: Hunting, fishing, construction and forestry, music.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Sture Wilhelm Johansson",
+        "birthDate": "1907-09-05",
+        "jobTitle": "Manager",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Forsviks Trävaru AB",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Norrköping"
+                    }
+                ],
+                "startDate": "1943"
+            },
+            {
+                "@type": "Organization",
+                "name": "Forsvik shooting association"
+            }
+        ],
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Realex",
+            "location": [
+                {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Kronoburg County"
+                }
+            ],
+            "endDate": "1924"
+        },
+        "familyName": "Johansson",
+        "spouse": {
+            "@type": "Person",
+            "name": "Gerda Carlsdotter"
+        },
+        "father": {
+            "@type": "Person",
+            "name": "J.W.J"
+        },
+        "nationality": "Swedish",
+        "sameAs": "http://example.com/sture-wilhelm-johansson",
+        "hobbies": [
+            "Hunting",
+            "Fishing",
+            "Construction",
+            "Forestry",
+            "Music"
+        ],
+        "hasOccupation": [
+            {
+                "@type": "Occupation",
+                "name": "Forestry"
+            },
+            {
+                "@type": "Occupation",
+                "name": "Sawmill operations"
+            },
+            {
+                "@type": "Occupation",
+                "name": "Agriculture"
+            }
+        ],
+        "hasResidence": [
+            {
+                "@type": "Residence",
+                "name": "Ekeberga, Kronoburg County"
+            }
+        ],
+        "owns": [
+            {
+                "@type": "Organization",
+                "name": "Forsviks' forests",
+                "foundingDate": "1936",
+                "endDate": "1942"
+            },
+            {
+                "@type": "Organization",
+                "name": "Wirå brothers' company",
+                "foundingDate": "1934",
+                "endDate": "1936"
+            }
+        ],
+        "traveled": [
+            {
+                "@type": "Trip",
+                "name": "Germany",
+                "startDate": "1931"
+            },
+            {
+                "@type": "Trip",
+                "name": "England",
+                "startDate": "1934"
+            },
+            {
+                "@type": "Trip",
+                "name": "Norway",
+                "startDate": "1934"
+            },
+            {
+                "@type": "Trip",
+                "name": "Germany",
+                "startDate": "1935"
+            },
+            {
+                "@type": "Trip",
+                "name": "Germany",
+                "startDate": "1939"
+            }
+        ],
+        "achievements": [
+            "Member of shooting teams",
+            "Ski shooting champion"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Manager",
+                "workplace": "Forsvik",
+                "industry": "Forestry",
+                "start_date": "1937"
+            },
+            {
+                "occupational_title": "Part-Owner",
+                "workplace": "Wirå brothers' company",
+                "industry": "Sawmill operations",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Forestry company",
+                "industry": "Forestry",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Practical worker",
+                "workplace": "Father's forestry, sawmill, and agriculture",
+                "industry": "Forestry, Sawmill operations, Agriculture",
+                "start_date": "After completing secondary school in 1924"
+            }
+        ]
+    }
+}

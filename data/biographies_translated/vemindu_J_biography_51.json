@@ -1,0 +1,140 @@
+{
+    "original": "JANSSON, Lars Axel Helge, Verkmästare, Lidköping, f Fors, Sörml, 13 av fabr J A J o Ida Andersson, gm Elsa Stenberg. Realsk. Anst AB J Axel Janssons Nysilverfabr sed. 28, driftsled sed. fi år, styr.led där, styr.led Lidköpings Flygklubb. Resor: Tyskl 38. W 25. Hobbies: Foto, jakt, fågelliv, segelflyg. Nysilverfabr gr 25 av Johan Axel Jansson, AB 39 med J A J ss vkst dir. Ensam lev i branschen till Epakonc samtl 24 företag, EOL-bolaget. Hakonbolaget samt Nordsvenska köpmanna AB, mfl.",
+    "translated": "JANSSON, Lars Axel Helge, Foreman, Lidköping, born in Fors, Sörmland, on the 13th of [month], from the factory J A J and Ida Andersson, married to Elsa Stenberg. Attended Real school. Employed at J Axel Jansson's New Silver Factory since 1928, promoted to supervisor 5 years ago, serves on the board there and also on the board of Lidköping's Flying Club. Has traveled to Germany in 1938 and to the United States in 1925. Hobbies include photography, hunting, birdwatching, and gliding. New Silver Factory established in 1925 by Johan Axel Jansson, became AB in 1939 with J A J as vice director. Worked alone in the industry until the establishment of Epakonc and its subsidiary companies, EOL Company, Hakon Company, and North Swedish Merchants AB, among others.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Lars",
+        "additionalName": "Axel Helge",
+        "familyName": "Jansson",
+        "jobTitle": "Foreman",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Lidköping"
+        },
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Fors",
+                "addressRegion": "Sörmland",
+                "postalCode": "[unknown]"
+            }
+        },
+        "birthDate": "[unknown]",
+        "parents": [
+            {
+                "@type": "Person",
+                "givenName": "Johan Axel",
+                "familyName": "Jansson",
+                "jobTitle": "Factory Owner"
+            },
+            {
+                "@type": "Person",
+                "givenName": "Ida",
+                "familyName": "Andersson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "givenName": "Elsa",
+            "familyName": "Stenberg"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Real school"
+        },
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "J Axel Jansson's New Silver Factory",
+                "startDate": "1928-01-01",
+                "jobTitle": "Supervisor"
+            }
+        ],
+        "boardMember": [
+            {
+                "@type": "Organization",
+                "name": "J Axel Jansson's New Silver Factory",
+                "roleName": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Lidköping's Flying Club",
+                "roleName": "Board Member"
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Germany"
+                },
+                "startDate": "1938-01-01",
+                "endDate": "1938-12-31"
+            },
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "United States"
+                },
+                "startDate": "1925-01-01",
+                "endDate": "1925-12-31"
+            }
+        ],
+        "hobbies": [
+            "Photography",
+            "Hunting",
+            "Birdwatching",
+            "Gliding"
+        ],
+        "establishments": [
+            {
+                "@type": "Organization",
+                "name": "New Silver Factory",
+                "startDate": "1925-01-01",
+                "founder": {
+                    "@type": "Person",
+                    "givenName": "Johan Axel",
+                    "familyName": "Jansson"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Epakonc",
+                "subOrganization": [
+                    {
+                        "@type": "Organization",
+                        "name": "EOL Company"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "Hakon Company"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "North Swedish Merchants AB"
+                    }
+                ]
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Foreman",
+                "workplace": "J Axel Jansson's New Silver Factory",
+                "industry": "Nysilverfabr",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Supervisor",
+                "workplace": "J Axel Jansson's New Silver Factory",
+                "industry": "Nysilverfabr",
+                "start_date": "5 years ago"
+            }
+        ]
+    }
+}
