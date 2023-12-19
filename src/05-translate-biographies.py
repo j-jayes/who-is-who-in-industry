@@ -22,7 +22,7 @@ else:
 
 openai.api_key = openai_api_key
 
-FILE_RANGE = [2000, 2300]
+FILE_RANGE = [2300, 2600]
 
 def translate_and_structure_text(swedish_text):
     try:
