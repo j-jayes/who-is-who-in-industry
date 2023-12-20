@@ -1,0 +1,155 @@
+{
+    "original": "RYDBERG, Uno Birger, Kapten, Linköping^, f Luleå 19/4 98 av jvgstjm J A R o Elim Svensson, gm Maj Söderström. Studex, Offex,, milit.förvaltn.k. HHS, avsk 38, kapt å res.stat 38, inköpsch Sv aeroplanAB sed. 38. Resor t Tyskl 22, Estl 35, 36. FFrKSkl, OffEöK^ ERKftjt, idr-, milit idr- o skyt.m g. Rotary^ SHT. Hobbies: Historia, musik, fiske.",
+    "translated": "RYDBERG, Uno Birger, Captain, born in Luleå on April 19, 1898, to railway employee J A R and Elim Svensson, married to Maj Söderström. Graduated from school, officer's training, military administrative position HHS, retired in 1938, captain on reserve status from 1938, employed by Swedish Aeroplane AB since 1938. Traveled to Germany in 1922, Estonia in 1935 and 1936. Member of FFrKSkl, OffEöK^, ERKftjt, sports and military sports instructor, member of Rotary^ and SHT. Hobbies: History, music, fishing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Uno Birger Rydberg",
+        "givenName": "Uno Birger",
+        "familyName": "Rydberg",
+        "birthDate": "1898-04-19",
+        "birthPlace": "Luleå, Sweden",
+        "father": {
+            "@type": "Person",
+            "name": "J A R"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Elim Svensson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Maj Söderström"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "studex"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "offex"
+            }
+        ],
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Captain",
+                "startDate": "1938",
+                "endDate": "1938"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Captain",
+                "startDate": "1938"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "milit.förvaltn.k. HHS"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "inköpsch",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Swedish Aeroplane AB",
+                    "foundingDate": "1938"
+                }
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "Trip",
+                "name": "Germany",
+                "startDate": "1922"
+            },
+            {
+                "@type": "Trip",
+                "name": "Estonia",
+                "startDate": "1935"
+            },
+            {
+                "@type": "Trip",
+                "name": "Estonia",
+                "startDate": "1936"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "FFrKSkl"
+            },
+            {
+                "@type": "Organization",
+                "name": "OffEöK"
+            },
+            {
+                "@type": "Organization",
+                "name": "ERKftjt"
+            }
+        ],
+        "interests": [
+            "History",
+            "Music",
+            "Fishing"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Captain",
+                "workplace": "--",
+                "industry": "--",
+                "start_date": "--"
+            },
+            {
+                "occupational_title": "Railway employee",
+                "workplace": "Unknown",
+                "industry": "Railway",
+                "start_date": "--"
+            },
+            {
+                "occupational_title": "Officer",
+                "workplace": "--",
+                "industry": "--",
+                "start_date": "--"
+            },
+            {
+                "occupational_title": "Military administrative position",
+                "workplace": "Unknown",
+                "industry": "Military",
+                "start_date": "--"
+            },
+            {
+                "occupational_title": "Retired",
+                "workplace": "--",
+                "industry": "--",
+                "start_date": "--"
+            },
+            {
+                "occupational_title": "Captain (reserve status)",
+                "workplace": "--",
+                "industry": "--",
+                "start_date": "1938"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Swedish Aeroplane AB",
+                "industry": "Aerospace",
+                "start_date": "1938"
+            },
+            {
+                "occupational_title": "Member",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "--"
+            },
+            {
+                "occupational_title": "Sports and military sports instructor",
+                "workplace": "--",
+                "industry": "--",
+                "start_date": "--"
+            }
+        ]
+    }
+}

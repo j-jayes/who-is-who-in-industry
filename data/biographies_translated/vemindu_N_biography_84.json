@@ -1,0 +1,93 @@
+{
+    "original": "NILSSON, John L, Disponent, Örebro, f Sölvesborg 6/5 95. Realex, hdlssk. Anst 17— 20 hos AB Poulsen &amp; Ragoczy Sthlm, 21—28 i Köpenhamn. Sed. 29 dir o Styr.led i samma bolag i Örebro.",
+    "translated": "NILSSON, John L, Supervisor, Örebro, b. Sölvesborg 6/5 95. Graduated from high school, unemployed. Employed 17—20 at AB Poulsen & Ragoczy in Stockholm, 21—28 in Copenhagen. Currently, since 29, director and board member in the same company in Örebro. Please note that '\\d\\d m. partner's name' means that the person married in the year 19xx.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "John L Nilsson",
+        "jobTitle": "Supervisor",
+        "birthPlace": "Sölvesborg",
+        "birthDate": "1895-05-06",
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "high school diploma"
+        },
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1917",
+                "endDate": "1920",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Poulsen & Ragoczy",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1921",
+                "endDate": "1928",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Poulsen & Ragoczy",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Copenhagen"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1929",
+                "roleName": "Director",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Poulsen & Ragoczy",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Örebro"
+                    }
+                }
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Supervisor",
+                "workplace": "Örebro",
+                "industry": "Unknown",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Unemployed",
+                "workplace": "N/A",
+                "industry": "N/A",
+                "start_date": "N/A"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "AB Poulsen & Ragoczy",
+                "industry": "Unknown",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "AB Poulsen & Ragoczy",
+                "industry": "Unknown",
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "AB Poulsen & Ragoczy",
+                "industry": "Unknown",
+                "start_date": "1929"
+            }
+        ]
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "original": "NILSON, Leon, Arkitekt SAK, Ignaberga, f Hälsingborg 3/4 87 av J Nilsson o Lovisa Hansson, gm Nancy Pettersson. Berlin 10—12, Zurich 12—14. Prof I G Clason 15—17, egen arkitektverksamhet sedan 18, verkst dir o styr.led AB Ignaberga Kalksten sed. 18, AB Portland sed. 29. Ordf komm.flm sed. 39, folk-sk.styr sed. 40, kyrkvärd. Styr.led Sv Kalk- försäljn AB sed. 18, Båstads Kalkind AB sed. 37, SAR 40—42, Ark.frn f S Sv 38—40. Resor: Ital, Frankr, Grekl, Egypt, Palestina. RVO; korr LHA.",
+    "translated": "NILSON, Leon, Architect SAK, Ignaberga, born Hälsingborg 3/4 87, son of J Nilsson and Lovisa Hansson, married to Nancy Pettersson. Lived in Berlin from 1910 to 1912, Zurich from 1912 to 1914. Professor at I G Clason from 1915 to 1917, self-employed architect since 1918, managing director of AB Ignaberga Kalksten since 1918, AB Portland since 1929. Chairman of the municipal committee from 1939, member of the school board since 1940, churchwarden. Board member of Sv Kalkförsäljn AB since 1918, Båstads Kalkind AB since 1937, SAR member from 1940 to 1942, member of the Swedish Architects Association from 1938 to 1940. Traveled to Italy, France, Greece, Egypt, Palestine. Awarded RVO (Royal Victorian Order); corresponding member of LHA.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Leon Nilson",
+        "givenName": "Leon",
+        "familyName": "Nilson",
+        "birthDate": "1887-04-03",
+        "birthPlace": "Hälsingborg",
+        "spouse": {
+            "@type": "Person",
+            "name": "Nancy Pettersson"
+        },
+        "jobTitle": "Architect",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "SAK"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Ignaberga"
+        },
+        "foundingDate": "1918",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "municipal committee",
+                "roleName": "chairman",
+                "dateStart": "1939"
+            },
+            {
+                "@type": "Organization",
+                "name": "school board",
+                "roleName": "member",
+                "dateStart": "1940"
+            },
+            {
+                "@type": "Organization",
+                "name": "church",
+                "roleName": "churchwarden"
+            },
+            {
+                "@type": "Organization",
+                "name": "Royal Victorian Order",
+                "memberOf": "Leon Nilson",
+                "awardDate": "unknown"
+            },
+            {
+                "@type": "Organization",
+                "name": "LHA",
+                "memberOf": "Leon Nilson",
+                "correspondingMember": true
+            }
+        ],
+        "travelerType": {
+            "@type": "Person",
+            "name": "Leon Nilson"
+        },
+        "travelerTo": [
+            {
+                "@type": "Place",
+                "name": "Italy"
+            },
+            {
+                "@type": "Place",
+                "name": "France"
+            },
+            {
+                "@type": "Place",
+                "name": "Greece"
+            },
+            {
+                "@type": "Place",
+                "name": "Egypt"
+            },
+            {
+                "@type": "Place",
+                "name": "Palestine"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Architect",
+                "workplace": "SAK",
+                "industry": "Architecture",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "AB Ignaberga Kalksten",
+                "industry": "Construction Materials",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "AB Portland",
+                "industry": "Construction Materials",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Professor",
+                "workplace": "I G Clason",
+                "industry": "Academia",
+                "start_date": "1915"
+            }
+        ]
+    }
+}

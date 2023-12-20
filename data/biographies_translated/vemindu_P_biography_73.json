@@ -1,0 +1,113 @@
+{
+    "original": "PETERSOHN, Erik Gustaf Magnus, Civilingenjör, Stockholm, f Söderhamn 26/5 99 av lärov.adjunkten fil dr T A E Petersohn o Anna Jernberg, gm Astrid Afrell. Studex Norra Real Sthlm 18, KTH (skeppsbyggn) 19—23. Anst v flygkomp :s verkst Malmslätt 24—25, ass v Aerodynamische Versuchsanstalt i Göttingen 26—30, anst v Flygstyr :s tekn byrå 31—36, v Flygförvaltn :s militärtekn byrå 36, nu avd.chef v Flygtekn försöksanst i Ulvsunda. Av trycket: Art i in- o utl fackpress.",
+    "translated": "PETERSOHN, Erik Gustaf Magnus, Civil Engineer, Stockholm, b. Söderhamn 26/5 1899, son of the teacher and PhD T. A. E. Petersohn and Anna Jernberg, m. Astrid Afrell. Graduated from Norra Real, Stockholm, in 1918, and from KTH (shipbuilding) in 1919-1923. Employed at the Air Force Workshop in Malmslätt, 1924-1925, assistant at the Aerodynamic Testing Institute in Göttingen, 1926-1930, employed at the Air Force Technical Office, 1931-1936, deputy chief of the Air Administration Military Technical Office in 1936, currently department head at the Aeronautical Experimental Institute in Ulvsunda. Published articles in domestic and international specialized press.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Erik Gustaf Magnus Petersohn",
+        "birthPlace": "Söderhamn",
+        "birthDate": "1899-05-26",
+        "father": {
+            "@type": "Person",
+            "name": "T. A. E. Petersohn"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Anna Jernberg"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Astrid Afrell"
+        },
+        "education": [
+            {
+                "@type": "HighSchool",
+                "name": "Norra Real",
+                "location": "Stockholm",
+                "endDate": "1918"
+            },
+            {
+                "@type": "CollegeOrUniversity",
+                "name": "KTH",
+                "location": "Stockholm",
+                "attendanceStartDate": "1919",
+                "attendanceEndDate": "1923",
+                "alumniOf": "KTH"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "Air Force Workshop",
+                "location": "Malmslätt",
+                "startDate": "1924",
+                "endDate": "1925"
+            },
+            {
+                "@type": "Organization",
+                "name": "Aerodynamic Testing Institute",
+                "location": "Göttingen",
+                "startDate": "1926",
+                "endDate": "1930"
+            },
+            {
+                "@type": "Organization",
+                "name": "Air Force Technical Office",
+                "startDate": "1931",
+                "endDate": "1936"
+            },
+            {
+                "@type": "Organization",
+                "name": "Air Administration Military Technical Office",
+                "startDate": "1936"
+            },
+            {
+                "@type": "Organization",
+                "name": "Aeronautical Experimental Institute",
+                "location": "Ulvsunda",
+                "position": "Department Head"
+            }
+        ],
+        "publication": "Articles in domestic and international specialized press"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Stockholm",
+                "industry": "Engineering",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Employed at the Air Force Workshop",
+                "workplace": "Malmslätt",
+                "industry": "Military",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Assistant at the Aerodynamic Testing Institute",
+                "workplace": "Göttingen",
+                "industry": "Aerospace",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Employed at the Air Force Technical Office",
+                "workplace": "Stockholm",
+                "industry": "Military",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Deputy Chief of the Air Administration Military Technical Office",
+                "workplace": "Stockholm",
+                "industry": "Military",
+                "start_date": "1936"
+            },
+            {
+                "occupational_title": "Department Head at the Aeronautical Experimental Institute",
+                "workplace": "Ulvsunda",
+                "industry": "Aerospace",
+                "start_date": "N/A"
+            }
+        ]
+    }
+}

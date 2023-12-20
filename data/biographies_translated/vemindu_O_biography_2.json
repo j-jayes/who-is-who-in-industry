@@ -1,0 +1,103 @@
+{
+    "original": "ODE, Henning Ruben Lennart, Civilingenjör, Malmö, f Jönkp 26/10 14 av disp H T O o Gerda Pettersson, gm Ingrid Mohlin. Studex Jönkp 32, civingex KTH 38. Anst v SJ:s hu-vudverkst i Örebro 38—39, Eskilstuna Stål-pressnings AB 39—42, verkst.chef v AB Plåtindustri i Limhamn sed. 42.",
+    "translated": "ODE, Henning Ruben Lennart, Civil Engineer, Malmö, born in Jönkp on October 26, 1914, son of dispenser H. T. O and Gerda Pettersson, married to Ingrid Mohlin. Graduated from Jönkp in 1932, obtained a civil engineering degree from KTH in 1938. Employed at SJ's main workshop in Örebro from 1938 to 1939, Eskilstuna Stål-pressnings AB from 1939 to 1942, and became the head of production at AB Plåtindustri in Limhamn since 1942.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Henning Ruben Lennart Ode",
+        "birthDate": "1914-10-26",
+        "birthPlace": "Jönkp",
+        "jobTitle": "Civil Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Malmö"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "H. T. O"
+            },
+            {
+                "@type": "Person",
+                "name": "Gerda Pettersson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ingrid Mohlin"
+        },
+        "education": [
+            {
+                "@type": "EducationEvent",
+                "institution": {
+                    "@type": "Organization",
+                    "name": "Jönkp"
+                },
+                "endDate": "1932"
+            },
+            {
+                "@type": "EducationEvent",
+                "institution": {
+                    "@type": "Organization",
+                    "name": "KTH"
+                },
+                "endDate": "1938",
+                "degree": {
+                    "@type": "EducationalOccupationalCredential",
+                    "credentialCategory": "civil engineering degree"
+                }
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "SJ's main workshop",
+                "location": "Örebro",
+                "startDate": "1938",
+                "endDate": "1939"
+            },
+            {
+                "@type": "Organization",
+                "name": "Eskilstuna Stål-pressnings AB",
+                "location": "Eskilstuna",
+                "startDate": "1939",
+                "endDate": "1942"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Plåtindustri",
+                "location": "Limhamn",
+                "startDate": "1942",
+                "position": "Head of production"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Malmö",
+                "industry": "Engineering",
+                "start_date": "1938"
+            },
+            {
+                "occupational_title": "Engineer at SJ's main workshop",
+                "workplace": "Örebro",
+                "industry": "Railways/Transportation",
+                "start_date": "1938"
+            },
+            {
+                "occupational_title": "Engineer at Eskilstuna Stål-pressnings AB",
+                "workplace": "Eskilstuna",
+                "industry": "Steel industry",
+                "start_date": "1939"
+            },
+            {
+                "occupational_title": "Head of Production at AB Plåtindustri",
+                "workplace": "Limhamn",
+                "industry": "Metal industry",
+                "start_date": "1942"
+            }
+        ]
+    }
+}

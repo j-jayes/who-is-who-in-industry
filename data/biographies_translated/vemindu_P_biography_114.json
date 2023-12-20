@@ -1,0 +1,123 @@
+{
+    "original": "PETTERSSON, Kaieb, Köpman, Olofstorp, f Bergum 13/6 90 av riksdagsm A Pettersson 0 Josefina Eliasson, gm Annie Eliasson. Folksk, hdlssk. Inneh eg mjölkaff i Gbg 16— 39. Ag fastigh i Gbg, Mölndal, Ärtemark o Bergum. Ordf i Bergums komm.st 16—32, i pens.nmd sed. 23, led komm.nmd, folksk.-styr, komm.flm, tax.nmd, rev i Bergums o St Lundby fam.bidr.nmd. Resor: Norge, Danm. Hobbies: Bouppteckningar, arvsskiften, auktioner o d.",
+    "translated": "PETTERSSON, Kaieb, Merchant, Olofstorp, born in Bergum on June 13th, 1890, son of Member of Parliament A Pettersson and Josefina Eliasson, married to Annie Eliasson. Completed elementary school and commercial school. Owned a dairy café in Gothenburg from 1916 to 1939. Owned properties in Gothenburg, Mölndal, Ärtemark, and Bergum. Served as chairman of the Bergum municipal council from 1916 to 1932 and in the pension committee since 1923. Also served as a member of the municipal committee, primary school board, municipal loan committee, and revenue committee in Bergum and St Lundby family support committee. Traveled to Norway and Denmark. Hobbies included estate inventories, inheritance settlements, auctions, and more.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Kaieb Pettersson",
+        "birthDate": "1890-06-13",
+        "birthPlace": "Bergum",
+        "father": {
+            "@type": "Person",
+            "name": "A Pettersson",
+            "memberOf": {
+                "@type": "Organization",
+                "name": "Swedish Parliament"
+            }
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Josefina Eliasson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Annie Eliasson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Elementary School"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Commercial School"
+            }
+        ],
+        "occupation": [
+            {
+                "@type": "Merchant",
+                "name": "Merchant"
+            }
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Olofstorp"
+        },
+        "ownedProperties": [
+            {
+                "@type": "Place",
+                "name": "Gothenburg"
+            },
+            {
+                "@type": "Place",
+                "name": "Mölndal"
+            },
+            {
+                "@type": "Place",
+                "name": "Ärtemark"
+            },
+            {
+                "@type": "Place",
+                "name": "Bergum"
+            }
+        ],
+        "chairmanship": {
+            "@type": "Organization",
+            "name": "Bergum Municipal Council",
+            "startDate": "1916",
+            "endDate": "1932"
+        },
+        "pensionCommitteeMembership": {
+            "@type": "Organization",
+            "name": "Pension Committee",
+            "startDate": "1923"
+        },
+        "otherCommitteeMemberships": [
+            {
+                "@type": "Organization",
+                "name": "Municipal Committee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Primary School Board"
+            },
+            {
+                "@type": "Organization",
+                "name": "Municipal Loan Committee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Revenue Committee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Bergum and St Lundby Family Support Committee"
+            }
+        ],
+        "travels": [
+            "Norway",
+            "Denmark"
+        ],
+        "hobbies": [
+            "Estate inventories",
+            "Inheritance settlements",
+            "Auctions"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Olofstorp",
+                "industry": "Retail",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Owner of a dairy café",
+                "workplace": "Gothenburg",
+                "industry": "Food and Beverage",
+                "start_date": "1916"
+            }
+        ]
+    }
+}

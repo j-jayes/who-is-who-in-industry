@@ -1,0 +1,178 @@
+{
+    "original": "PEKSSON, Gustaf, Bankkamrer, Karlskoga, f Söderbärke, Kopparb l, 27/2 85 av bemm.äg G P o Karolina Boman. Kga prakt lärov. Anst Werml ensk bk sed. 05, lär lidlstekn Kga prakt lärov sed. 09, av hdlskanim godk granskn.man. Ag fastigh Kga. Ch o löjtn Kga RK-kår, ordf Kga inkvart.nmd, styr.led Kga samrealsk, Kga prakt lärov, rev fi föret, flm Förs.bol Allm Brand, Jkp. Av trycket: Byggn-bokf (18), Kontgöromål (20). PatrstGM.",
+    "translated": "PEKSSON, Gustaf, Bank Clerk, Karlskoga, b. Söderbärke, Kopparberg county, on February 27, 1885, to the parents G P and Karolina Boman. Completed practical education in Karlskoga. Employed by Wermlands Enskilda Bank since 1905, trained in commercial ledger techniques since 1909, approved auditor since. Engaged in real estate in Karlskoga. Captain and Lieutenant in the Karlskoga Royal Corps, chairman of the Karlskoga billeting committee, board member of Karlskoga secondary school, Karlskoga practical school, auditor of a limited company, member of the board of the Försäkringsbolaget Allmänna Brand, Jönköping. Published works: Bookkeeping in Construction (1918), Accounts (1920). Married.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Gustaf Peksson",
+        "birthDate": "1885-02-27",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Söderbärke",
+                "addressRegion": "Kopparberg county"
+            }
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "G P Peksson"
+            },
+            {
+                "@type": "Person",
+                "name": "Karolina Boman"
+            }
+        ],
+        "jobTitle": "Bank Clerk",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Karlskoga"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Practical",
+                "credentialSubject": "Commercial Ledger Techniques",
+                "educationalLevel": "Practical Education"
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Wermlands Enskilda Bank",
+            "startDate": "1905"
+        },
+        "hasOccupation": {
+            "@type": "Auditor",
+            "validThrough": "present"
+        },
+        "engagedIn": {
+            "@type": "RealEstateAgent",
+            "name": "Real Estate in Karlskoga"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Karlskoga Royal Corps",
+                "memberType": "Captain",
+                "startDate": "unknown",
+                "endDate": "present"
+            },
+            {
+                "@type": "Organization",
+                "name": "Karlskoga billeting committee",
+                "memberType": "Chairman",
+                "startDate": "unknown",
+                "endDate": "present"
+            },
+            {
+                "@type": "Organization",
+                "name": "Karlskoga secondary school",
+                "memberType": "Board member",
+                "startDate": "unknown",
+                "endDate": "present"
+            },
+            {
+                "@type": "Organization",
+                "name": "Karlskoga practical school",
+                "memberType": "Board member",
+                "startDate": "unknown",
+                "endDate": "present"
+            },
+            {
+                "@type": "Organization",
+                "name": "Auditor of a Limited Company",
+                "memberType": "unknown",
+                "startDate": "unknown",
+                "endDate": "present"
+            },
+            {
+                "@type": "Organization",
+                "name": "Försäkringsbolaget Allmänna Brand",
+                "memberType": "Board member",
+                "startDate": "unknown",
+                "endDate": "present"
+            }
+        ],
+        "publishedWorks": [
+            {
+                "@type": "Book",
+                "name": "Bookkeeping in Construction",
+                "datePublished": "1918"
+            },
+            {
+                "@type": "Book",
+                "name": "Accounts",
+                "datePublished": "1920"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Unknown"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Bank Clerk",
+                "workplace": "Wermlands Enskilda Bank",
+                "industry": "Banking",
+                "start_date": "1905"
+            },
+            {
+                "occupational_title": "Commercial Ledger Technician",
+                "workplace": "Karlskoga Practical School",
+                "industry": "Education",
+                "start_date": "1909"
+            },
+            {
+                "occupational_title": "Approved Auditor",
+                "workplace": "Unknown",
+                "industry": "Accounting",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Real Estate Investor",
+                "workplace": "Karlskoga",
+                "industry": "Real Estate",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Captain and Lieutenant",
+                "workplace": "Karlskoga Royal Corps",
+                "industry": "Military",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Chairman",
+                "workplace": "Karlskoga Billeting Committee",
+                "industry": "Public Administration",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Karlskoga Secondary School",
+                "industry": "Education",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Karlskoga Practical School",
+                "industry": "Education",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Auditor",
+                "workplace": "Limited Company",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Försäkringsbolaget Allmänna Brand, Jönköping",
+                "industry": "Insurance",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

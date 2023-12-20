@@ -1,0 +1,71 @@
+{
+    "original": "OHLIN, Anders Wilhelm, Förvaltare, Bollebygd, f Lomma, Malmöh l, 18/8 85. Eft avslut utbildn o anst ss arb.ledare v tegelbruk i öl delar av landet förvalt v Forssa Tegelbruk, Bollebygd, sed. 17.",
+    "translated": "OHLIN, Anders Wilhelm, Administrator, Bollebygd, born in Lomma, Malmöhus län (county), on August 18, 1885. After completing his education and working as a supervisor at brickworks in various parts of the country, he became an administrator at Forssa Tegelbruk in Bollebygd in 1917.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Anders Wilhelm Ohlin",
+        "birthDate": "1885-08-18",
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Lomma, Malmöhus län"
+        },
+        "jobTitle": "Administrator",
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Forssa Tegelbruk"
+        },
+        "workLocation": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Bollebygd"
+            }
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "CompletedEducation",
+            "achievedBy": "Anders Wilhelm Ohlin"
+        },
+        "supervisor": {
+            "@type": "Person",
+            "name": "Anders Wilhelm Ohlin"
+        },
+        "workExperience": {
+            "@type": "OrganizationRole",
+            "startDate": "1917",
+            "roleName": "Administrator",
+            "namedPosition": {
+                "@type": "JobTitle",
+                "name": "Administrator"
+            },
+            "worksFor": {
+                "@type": "Organization",
+                "name": "Forssa Tegelbruk"
+            },
+            "location": {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Bollebygd"
+                }
+            }
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Supervisor",
+                "workplace": "Brickworks",
+                "industry": "Construction",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Administrator",
+                "workplace": "Forssa Tegelbruk",
+                "industry": "Brick manufacturing",
+                "start_date": "1917"
+            }
+        ]
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "original": "OLSON, Axel Robert, Bedaktör, Åmål, f Åmål 13/9 72 av tunnbjnd S O o Karolina Larsson, gm Annie Eriksson (d). Åmåls h a l, elem.sk Sthlm. Anst V Dagbl 01, start Tryck.AB Dalsl 11, styr.ordf i detta samt red f Prov.tidn Dalsl fr s å. Led stdflm 35 år samt ett flert allm styr o nmdr, ordf i dir f sjukh. Resor: Norge, Danm. GMSstorl f medb ftj.",
+    "translated": "OLSON, Axel Robert, Editor, Åmål, b. Åmål 13/9 1872, to barrel binder S O and Karolina Larsson, m. Annie Eriksson (d). Åmål elementary school, Stockholm. Employed at V Dagbl 1901, started Tryck.AB Dalsl 1911, chairman of the board in this and editor of Prov.tidn Dalsl from the same year. Member of the Board of Directors for 35 years and several public committees, chairman of the hospital board. Travel: Norway, Denmark. Married GMSstorl in ???.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Axel Robert Olson",
+        "birthDate": "1872-09-13",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Åmål"
+        },
+        "father": {
+            "@type": "Person",
+            "name": "S O Olson"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Karolina Larsson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Annie Eriksson",
+            "deathDate": "REPLACE_WITH_DEATH_DATE"
+        },
+        "educationalAttainment": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Åmål elementary school"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Stockholm"
+            }
+        ],
+        "employment": [
+            {
+                "@type": "Organization",
+                "name": "V Dagbl",
+                "startDate": "1901"
+            },
+            {
+                "@type": "Organization",
+                "name": "Tryck.AB Dalsl",
+                "startDate": "1911",
+                "roleName": "Chairman of the board"
+            },
+            {
+                "@type": "Organization",
+                "name": "Prov.tidn Dalsl",
+                "startDate": "1911",
+                "roleName": "Editor"
+            }
+        ],
+        "boardMemberships": [
+            {
+                "@type": "Organization",
+                "name": "Board of Directors",
+                "duration": "35 years"
+            }
+        ],
+        "committees": [
+            {
+                "@type": "Organization",
+                "name": "Public committees",
+                "roleName": "Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Hospital board",
+                "roleName": "Chairman"
+            }
+        ],
+        "residence": {
+            "@type": "Place",
+            "name": "Åmål"
+        },
+        "travelHistory": [
+            {
+                "@type": "Place",
+                "name": "Norway"
+            },
+            {
+                "@type": "Place",
+                "name": "Denmark"
+            }
+        ],
+        "familyStatus": "Married",
+        "marriage": {
+            "@type": "Event",
+            "location": "REPLACE_WITH_WEDDING_LOCATION",
+            "startDate": "REPLACE_WITH_WEDDING_DATE",
+            "endDate": "REPLACE_WITH_DEATH_DATE"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Editor",
+                "workplace": "V Dagbl",
+                "industry": "Newspaper",
+                "start_date": "1901"
+            },
+            {
+                "occupational_title": "Chairman of the board and editor",
+                "workplace": "Tryck.AB Dalsl",
+                "industry": "Printing",
+                "start_date": "1911"
+            }
+        ]
+    }
+}

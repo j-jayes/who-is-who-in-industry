@@ -1,0 +1,107 @@
+{
+    "original": "NILSSON, Nore, Disponent, Eskilstuna, f Etuna 11/3 04 av dir Sixten o Sigrid Nilsson^ gm Lilie Janson. Etuna gymn, univ Grenoble Frankr. Anst Aug Stenman AB Etuna 21—22\" o disp sed. 26, dessut vkst dir Skruv AB i Uddeholm sed. 35, styr.led dsa o AB Nya Gång-järnsfabr, AB Etuna Tennishall, Sv Järn- o Metallmanuf.frns överstyr. Resor: Eur, Afrr Asien, Amer. Skyttegm, fältidr.gm. Hobbies: Jakt, orientering, filateli.",
+    "translated": "NILSSON, Nore, Managing Director, Eskilstuna, b. Etuna 11/3 04, son of director Sixten and Sigrid Nilsson. Married to Lilie Janson. Attended Etuna gymnasium, studied at University of Grenoble in France. Employed at Aug Stenman AB in Etuna from 1921-1922 and was a sales representative thereafter. In 1926, appointed as Managing Director of Skruv AB in Uddeholm. Served on the board of directors for AB Nya Gång-järnsfabrik, AB Etuna Tennishall, and the Swedish Iron and Metal Manufacturing Association. Traveled extensively throughout Europe, Africa, Asia, and America. Served in the military and engaged in field training. Hobbies include hunting, orienteering, and philately.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "NILSSON, Nore",
+        "jobTitle": "Managing Director",
+        "birthPlace": "Eskilstuna",
+        "birthDate": "1904-03-11",
+        "father": {
+            "@type": "Person",
+            "name": "Sixten Nilsson"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Sigrid Nilsson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Lilie Janson"
+        },
+        "alumniOf": {
+            "@type": "EducationalOrganization",
+            "name": "Etuna gymnasium"
+        },
+        "education": {
+            "@type": "CollegeOrUniversity",
+            "name": "University of Grenoble",
+            "location": {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Grenoble",
+                    "addressCountry": "France"
+                }
+            }
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Skruv AB",
+            "location": {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Uddeholm"
+                }
+            },
+            "startDate": "1926"
+        },
+        "occupation": {
+            "@type": "JobPosting",
+            "title": "Sales Representative"
+        },
+        "boardMember": [
+            {
+                "@type": "Organization",
+                "name": "AB Nya Gång-järnsfabrik"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Etuna Tennishall"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Iron and Metal Manufacturing Association"
+            }
+        ],
+        "travelHistory": [
+            "Europe",
+            "Africa",
+            "Asia",
+            "America"
+        ],
+        "militaryService": {
+            "@type": "MilitaryService",
+            "branch": "Skyttegm"
+        },
+        "hobbies": [
+            "Hunting",
+            "Orienteering",
+            "Philately"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "Aug Stenman AB",
+                "industry": "Etuna",
+                "start_date": "1921-1922"
+            },
+            {
+                "occupational_title": "Sales Representative",
+                "workplace": "Not specified",
+                "industry": "Not specified",
+                "start_date": "After 1922"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "Skruv AB",
+                "industry": "Uddeholm",
+                "start_date": "1926"
+            }
+        ]
+    }
+}

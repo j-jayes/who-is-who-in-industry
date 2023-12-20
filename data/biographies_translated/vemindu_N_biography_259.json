@@ -1,0 +1,86 @@
+{
+    "original": "NÄSLUND, Erik Martin, Järnhandlare, Örnsköldsvik, f Malmberget 19/11 11 av järn-handl J N o Hildur Ringvall, gm Sigrid Tjernström. Realex. Anst AB J Näslunds jernhdl 26, nu deläg. Resor: Tyskl 26, 29, Norge årl 36—39 o 41, Finl 38. Odd Fellow, W6. Hobby: Fiske.",
+    "translated": "NÄSLUND, Erik Martin, Iron Merchant, Örnsköldsvik, born in Malmberget on November 19th, 1911 to iron merchant J N and Hildur Ringvall. Married to Sigrid Tjernström. Completed secondary school. Employed at AB J Näslund Iron Merchants since 1926, currently part-owner. Travelled to Germany in 1926 and 1929, Norway annually from 1936 to 1939 and in 1941, and Finland in 1938. Member of the Odd Fellow fraternity, Lodge W6. Hobbies include fishing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Erik Martin Näslund",
+        "jobTitle": "Iron Merchant",
+        "birthPlace": "Malmberget",
+        "birthDate": "1911-11-19",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "J N Näslund"
+            },
+            {
+                "@type": "Person",
+                "name": "Hildur Ringvall"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Sigrid Tjernström"
+        },
+        "education": "Realex",
+        "affiliation": [
+            {
+                "@type": "Organization",
+                "name": "AB J Näslunds jernhdl",
+                "startDate": "1926"
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "Place",
+                "name": "Germany",
+                "startDate": "1926",
+                "endDate": "1926"
+            },
+            {
+                "@type": "Place",
+                "name": "Germany",
+                "startDate": "1929",
+                "endDate": "1929"
+            },
+            {
+                "@type": "Place",
+                "name": "Norway",
+                "startDate": "1936",
+                "endDate": "1939"
+            },
+            {
+                "@type": "Place",
+                "name": "Norway",
+                "startDate": "1941",
+                "endDate": "1941"
+            },
+            {
+                "@type": "Place",
+                "name": "Finland",
+                "startDate": "1938",
+                "endDate": "1938"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Odd Fellow",
+                "identifier": "W6"
+            }
+        ],
+        "hobbies": [
+            "Fishing"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Iron Merchant",
+                "workplace": "AB J Näslunds Iron Merchants",
+                "industry": "Iron industry",
+                "start_date": "1926"
+            }
+        ]
+    }
+}

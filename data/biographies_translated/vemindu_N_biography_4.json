@@ -1,0 +1,168 @@
+{
+    "original": "NÄSLUND, David, Ingenjör, Stockholm, f Umeå 29/12 92 av fabr Oscar N o Eufrosyne Westerlund. Realex Falun 08, ex Falu bergs-sk övre avd 12. Rit v St Kopparb Bergsl AB 15—16, montageing v AB Elektr Ugnar i Sthlm 17—18, bitr driftsing v Oskarshamns Kopparverk 19—20, resor o eg verksamh 21—25, anst v AB Elektraverken o Elektr AB Volta i Sthlm 26—28, driftsing v AB Elektroapparat i Alingsås 29—30, inneh eg rörelse i Sthlm sed. 31 (David Nseslund, Fabr f Elektro-Värme-Tek-nik). Resor: Lettl, Danm, Tyskl, Ital, Span, Portugal, Frankr, Belg, Holl, Norge, Engl o Nordafr.",
+    "translated": "NÄSLUND, David, Engineer, Stockholm, born in Umeå on December 29, 1892, to factory worker Oscar N and Eufrosyne Westerlund. Completed Realex (lower secondary school) in Falun in 1908, former student at Falu Bergs-sk övre avd (Falu Mining School Upper Department) in 1912. Draftsman at St Kopparbergs Bergslags AB in 1915-1916, assembler at AB Elektriska Ugnar in Stockholm in 1917-1918, assistant engineer at Oskarshamns Kopparverk in 1919-1920. Travels and own business activities in 1921-1925. Employed by AB Elektraverken and Elektr AB Volta in Stockholm in 1926-1928, engineer at AB Elektroapparat in Alingsås in 1929-1930, and since 1931, owning his own business in Stockholm (David Näs(l)und, Manufacturer of Electro-Heat Technology). Traveled to Latvia, Denmark, Germany, Italy, Spain, Portugal, France, Belgium, the Netherlands, Norway, England, and North Africa. Note: '\\d\\d m. partners name' indicates that the person got married in the year 19xx.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "David Näslund",
+        "jobTitle": "Engineer",
+        "birthPlace": "Umeå",
+        "birthDate": "1892-12-29",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Oscar N"
+            },
+            {
+                "@type": "Person",
+                "name": "Eufrosyne Westerlund"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Realex",
+                "educationalLevel": "lower secondary school",
+                "educationalProgram": "Falun",
+                "completionDate": "1908"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "ex",
+                "educationalInstitution": "Falun Mining School Upper Department",
+                "completionDate": "1912"
+            }
+        ],
+        "workExperience": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Draftsman",
+                "startDate": "1915",
+                "endDate": "1916",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "St Kopparbergs Bergslags AB"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Assembler",
+                "startDate": "1917",
+                "endDate": "1918",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Elektriska Ugnar"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Assistant Engineer",
+                "startDate": "1919",
+                "endDate": "1920",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Oskarshamns Kopparverk"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Employee",
+                "startDate": "1926",
+                "endDate": "1928",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Elektraverken"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Employee",
+                "startDate": "1926",
+                "endDate": "1928",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Elektr AB Volta"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Engineer",
+                "startDate": "1929",
+                "endDate": "1930",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Elektroapparat"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Self-employed",
+                "startDate": "1931",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Own Business"
+                }
+            }
+        ],
+        "travels": [
+            "Latvia",
+            "Denmark",
+            "Germany",
+            "Italy",
+            "Spain",
+            "Portugal",
+            "France",
+            "Belgium",
+            "Netherlands",
+            "Norway",
+            "England",
+            "North Africa"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Draftsman",
+                "workplace": "St Kopparbergs Bergslags AB",
+                "industry": "Mining",
+                "start_date": "1915"
+            },
+            {
+                "occupational_title": "Assembler",
+                "workplace": "AB Elektriska Ugnar",
+                "industry": "Electrical",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Assistant Engineer",
+                "workplace": "Oskarshamns Kopparverk",
+                "industry": "Copper",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "AB Elektraverken",
+                "industry": "Electrical",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Elektr AB Volta",
+                "industry": "Electrical",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "AB Elektroapparat",
+                "industry": "Electrical",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Manufacturer of Electro-Heat Technology",
+                "workplace": "Own business",
+                "industry": "Electrical",
+                "start_date": "1931"
+            }
+        ]
+    }
+}

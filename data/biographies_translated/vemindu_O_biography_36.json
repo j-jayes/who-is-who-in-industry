@@ -1,0 +1,85 @@
+{
+    "original": "OHLSSON, Emil Theodor, Kamrer, Malmö, Gödelöv 3/5 86 av mej .f örest A O o Johanna Knutsson, gm Anna Ekeblad. Studex Malmö 06. Tjm Brand- o lifförs.AB Ska 06, ch korresp.avd 11, kamr o kont.ch sed. 29. Styr.-suppl där, styr.led Försäkr.sällsk i Malmö. Br- o lif f. AB Ska GM.",
+    "translated": "OHLSSON, Emil Theodor, Clerk, Malmö, Gödelöv May 3rd, 1886 [born]. Son of A O and Johanna Knutsson. Married to Anna Ekeblad. Graduated from Malmö in 1906. Employee of Brand- and Life Insurance Company Ska [abbreviation] since 1906, head of correspondence department since 1911, clerk and head of office since 1929. Deputy of the board, board member of the Insurance Society in Malmö. Employee of Brand- and Life Insurance Company Ska GM [abbreviation].",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Emil Theodor",
+        "familyName": "Ohlsson",
+        "birthDate": "1886-05-03",
+        "birthPlace": "Gödelöv",
+        "jobTitle": "Clerk",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Brand- and Life Insurance Company Ska"
+        },
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Insurance Society in Malmö"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "A O"
+            },
+            {
+                "@type": "Person",
+                "name": "Johanna Knutsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Anna Ekeblad"
+        },
+        "education": {
+            "@type": "EducationalOccupationalProgram",
+            "name": "Malmö",
+            "startDate": "1906"
+        },
+        "employmentHistory": [
+            {
+                "@type": "EmploymentAgency",
+                "name": "Brand- and Life Insurance Company Ska",
+                "startDate": "1906"
+            }
+        ],
+        "colleague": {
+            "@type": "Person",
+            "name": "Anna Ekeblad"
+        },
+        "additionalProperty": [
+            {
+                "@type": "PropertyValue",
+                "name": "correspondence department",
+                "value": "1911"
+            },
+            {
+                "@type": "PropertyValue",
+                "name": "head of office",
+                "value": "1929"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Clerk",
+                "workplace": "Malmö",
+                "industry": "Brand- and Life Insurance",
+                "start_date": "1906"
+            },
+            {
+                "occupational_title": "Head of Correspondence Department",
+                "workplace": "Malmö",
+                "industry": "Brand- and Life Insurance",
+                "start_date": "1911"
+            },
+            {
+                "occupational_title": "Clerk and Head of Office",
+                "workplace": "Malmö",
+                "industry": "Brand- and Life Insurance",
+                "start_date": "1929"
+            }
+        ]
+    }
+}

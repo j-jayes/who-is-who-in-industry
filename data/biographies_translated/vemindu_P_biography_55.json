@@ -1,0 +1,184 @@
+{
+    "original": "PERSSON, Nils Ehrnfrid, Civilingenjör, Borås, f St Köpinge, Malmöh l, 27/11 01 av hemm.äg P Nilsson o Agda Nilsson. Studex Ystad 21, civingex KTH (maskinbyggn o mek tekn) 27. Konstr h dr ing Fredr Ljungström i Sthlm 27—28, affärsing v AB Amerikanska Träförädl.maskiner 28, anst v AB Separator 28—30, konsult ing v AB Nord Bedaux i Sthlm 30—34, övering där 34—35, anst i AB John Erikson &amp; Co i Borås, deläg o styr.suppl där sed. 36. Har lett rationaliseringsarb i Sv, Norge, Finl, Tyskl, Tjeckoslov o Ungern. Hobbies: Golf, Skytte.",
+    "translated": "PERSSON, Nils Ehrnfrid, Civil Engineer, Borås, born in St Köpinge, Malmö County, on November 27, 1901, to home owners P Nilsson and Agda Nilsson. Graduated from Ystad at age 21, civil engineering degree from KTH (Royal Institute of Technology) in mechanical engineering and mechanical technology in 1927. Worked as a construction engineer under Dr. Fredr Ljungström in Stockholm from 1927 to 1928, business engineer for AB Amerikanska Träförädlingsmaskiner in 1928, employee of AB Separator from 1928 to 1930, consulting engineer for AB Nord Bedaux in Stockholm from 1930 to 1934, promoted to senior engineer there from 1934 to 1935. Employed by AB John Erikson & Co in Borås, became partner and supervisor from 1936 onwards. Has led rationalization projects in Sweden, Norway, Finland, Germany, Czechoslovakia, and Hungary. Hobbies: Golf, Shooting.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Nils Ehrnfrid Persson",
+        "birthDate": "1901-11-27",
+        "birthPlace": {
+            "@type": "City",
+            "name": "St Köpinge",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Malmö County"
+            }
+        },
+        "description": "Civil Engineer",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "AB Amerikanska Träförädlingsmaskiner"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Separator",
+                "startDate": "1928",
+                "endDate": "1930"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Nord Bedaux",
+                "startDate": "1930",
+                "endDate": "1935"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB John Erikson & Co",
+                "startDate": "1936"
+            }
+        ],
+        "alumniOf": [
+            {
+                "@type": "CollegeOrUniversity",
+                "name": "Ystad",
+                "endDate": "1922"
+            },
+            {
+                "@type": "CollegeOrUniversity",
+                "name": "KTH (Royal Institute of Technology)",
+                "endDate": "1927",
+                "description": "Mechanical Engineering"
+            }
+        ],
+        "hasOccupation": {
+            "@type": "Occupation",
+            "name": "Civil Engineer",
+            "startDate": "1927"
+        },
+        "hasEmploymentHistory": [
+            {
+                "@type": "JobPosting",
+                "title": "Construction Engineer",
+                "startDate": "1927",
+                "endDate": "1928",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Dr. Fredr Ljungström"
+                },
+                "jobLocation": {
+                    "@type": "City",
+                    "name": "Stockholm"
+                }
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Business Engineer",
+                "startDate": "1928",
+                "endDate": "1930",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "AB Amerikanska Träförädlingsmaskiner"
+                }
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Consulting Engineer",
+                "startDate": "1930",
+                "endDate": "1935",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "AB Nord Bedaux"
+                },
+                "jobLocation": {
+                    "@type": "City",
+                    "name": "Stockholm"
+                }
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Senior Engineer",
+                "startDate": "1934",
+                "endDate": "1935",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "AB Nord Bedaux"
+                },
+                "jobLocation": {
+                    "@type": "City",
+                    "name": "Stockholm"
+                }
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Employee",
+                "startDate": "1936",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "AB John Erikson & Co"
+                },
+                "jobLocation": {
+                    "@type": "City",
+                    "name": "Borås"
+                }
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Partner and Supervisor",
+                "startDate": "1936",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "AB John Erikson & Co"
+                },
+                "jobLocation": {
+                    "@type": "City",
+                    "name": "Borås"
+                }
+            }
+        ],
+        "hobbies": [
+            "Golf",
+            "Shooting"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Construction Engineer",
+                "workplace": "Dr. Fredr Ljungström in Stockholm",
+                "industry": "Engineering",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Business Engineer",
+                "workplace": "AB Amerikanska Träförädlingsmaskiner",
+                "industry": "Manufacturing",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "AB Separator",
+                "industry": "Manufacturing",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Consulting Engineer",
+                "workplace": "AB Nord Bedaux in Stockholm",
+                "industry": "Consulting",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Senior Engineer",
+                "workplace": "AB Nord Bedaux in Stockholm",
+                "industry": "Consulting",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "AB John Erikson & Co in Borås",
+                "industry": "Manufacturing",
+                "start_date": "1936"
+            }
+        ]
+    }
+}

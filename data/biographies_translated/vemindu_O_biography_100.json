@@ -1,0 +1,87 @@
+{
+    "original": "OSCARSSON, Ragnar Valentin, Disponent, Kinnahult, f Rångedala, Älvsb l, 14/2 05, gm Margareta Kronberg. Ingex Borås tekn elem.-sk 24, prakt v sv o tyska textilfabr 25—27, ex Borås tekn vävsk 28. Driftsing v Karlstads Spinneri- &amp; Väveri AB 29—33, disp i AB Pettersson &amp; Tisell Kinnahult sed. 33.",
+    "translated": "OSCARSSON, Ragnar Valentin, Executive, Kinnahult, born in Rångedala, Älvsborg, February 14, 1905, married to Margareta Kronberg. Attended Borås Technical Elementary School until 1924, practical training in Swedish and German textile factories from 1925 to 1927, graduated from Borås Technical Weaving School in 1928. Worked as supervisor at Karlstad Spinneri & Weveri AB from 1929 to 1933, became executive at AB Pettersson & Tisell in Kinnahult since 1933.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Ragnar Valentin Oscarsson",
+        "birthDate": "1905-02-14",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Rångedala"
+        },
+        "nationality": "Swedish",
+        "jobTitle": "Executive",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "AB Pettersson & Tisell",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Kinnahult"
+            }
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Diploma",
+            "credentialSubject": {
+                "@type": "Course",
+                "name": "Borås Technical Weaving School",
+                "startDate": "1924",
+                "endDate": "1928"
+            }
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Margareta Kronberg"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Karlstad Spinneri & Weveri AB",
+                "startDate": "1929",
+                "endDate": "1933",
+                "jobTitle": "Supervisor"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Executive",
+                "workplace": "Kinnahult",
+                "industry": "Unknown",
+                "start_date": "1933"
+            },
+            {
+                "occupational_title": "Supervisor",
+                "workplace": "Karlstad Spinneri & Weveri AB",
+                "industry": "Textile manufacturing",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Unknown",
+                "workplace": "AB Pettersson & Tisell",
+                "industry": "Unknown",
+                "start_date": "1933"
+            },
+            {
+                "occupational_title": "Unknown",
+                "workplace": "Borås Technical Weaving School",
+                "industry": "Educational Institution",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Unknown",
+                "workplace": "Swedish and German textile factories",
+                "industry": "Textile manufacturing",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Unknown",
+                "workplace": "Borås Technical Elementary School",
+                "industry": "Educational Institution",
+                "start_date": "1924"
+            }
+        ]
+    }
+}

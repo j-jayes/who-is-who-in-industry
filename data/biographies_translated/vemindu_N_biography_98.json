@@ -1,0 +1,99 @@
+{
+    "original": "NILSSON, Fritz Ragnar, Järnhandlare, Trelleborg, f Perstorp 25/8 93 av lantbr N Månsson o Emilia Paulsson, gm Ebba Lilia. Eft slut skolgång anst järnhdlsbranschen h fma Lindgren &amp; Co Perstorp 14—18, o Heimer &amp; Co, Malmö, 18—24. Eg fma Ragnar Nilssons Järnaff Tbg, sed. 24. Siriusorden. Odd Fellow. Hobby: Schack.",
+    "translated": "NILSSON, Fritz Ragnar, Iron Merchant, Trelleborg, b Perstorp 25/8 93 to farmer N Månsson and Emilia Paulsson, m Ebba Lilia. After completing school, employed in the iron trade industry at Lindgren & Co in Perstorp from 1914 to 1918, and at Heimer & Co in Malmö from 1918 to 1924. Established own iron store, Ragnar Nilssons Järnaffär, in Trelleborg since 1924. Member of the Order of Sirius. Member of the Odd Fellows. Hobby: Chess.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Fritz Ragnar Nilsson",
+        "jobTitle": "Iron Merchant",
+        "birthDate": "1893-08-25",
+        "birthPlace": "Perstorp",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Trelleborg"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "N. Månsson"
+            },
+            {
+                "@type": "Person",
+                "name": "Emilia Paulsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ebba Lilia"
+        },
+        "occupation": [
+            {
+                "@type": "Organization",
+                "name": "Lindgren & Co",
+                "startDate": "1914",
+                "endDate": "1918",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Perstorp"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Heimer & Co",
+                "startDate": "1918",
+                "endDate": "1924",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Malmö"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Ragnar Nilssons Järnaffär",
+                "startDate": "1924",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Trelleborg"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Order of Sirius"
+            },
+            {
+                "@type": "Organization",
+                "name": "Odd Fellows"
+            }
+        ],
+        "sameAs": [
+            "https://chess.com/FritzRagnarNilsson"
+        ],
+        "hobbies": [
+            "Chess"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Iron Merchant",
+                "workplace": "Ragnar Nilssons Järnaffär",
+                "industry": "Iron trade",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Heimer & Co",
+                "industry": "Iron trade",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Lindgren & Co",
+                "industry": "Iron trade",
+                "start_date": "1914"
+            }
+        ]
+    }
+}

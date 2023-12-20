@@ -1,0 +1,87 @@
+{
+    "original": "OTTERSTRÖM, Nils Herman Anders, Kamrer, Stockholm, f Hbg 5/4 02 av grhdl G W O o Augusta Johansson, gm Märta Sjölander. Studex Hbg 20, ekon ex HHS 25. Anst AB Industribyrån Sthlm 27—29, ASEA:s rev- o org.byrå 29—33, ek.ch AB Sv Fläktfabr sed. 33. Rev Sv Ekonomfrn. Stip.resa Frankr 26 —27.",
+    "translated": "OTTERSTRÖM, Nils Herman Anders, Clerk, Stockholm, born in Helsingborg on April 5th, 1902, son of the late G W O Otterström and Augusta Johansson, married to Märta Sjölander. Received a Bachelor's degree in Helsingborg in 1920 and a degree in economics from the Stockholm School of Economics in 1925. Employed at AB Industribyrån in Stockholm from 1927 to 1929, ASEA's auditing and organizational department from 1929 to 1933, and as an economist at AB Svenska Fläktfabriken since 1933. Member of the Swedish Economists Association. Received a travel stipend for France in 1926-1927.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Nils Herman Anders Otterström",
+        "jobTitle": "Clerk",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "birthDate": "1902-04-05",
+        "parent": {
+            "@type": "Person",
+            "name": "G W O Otterström",
+            "deathDate": "before 1902-04-05"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Märta Sjölander"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Degree in economics",
+            "educationalLevel": "Ekon ex",
+            "educationalCredentialAwarded": "Stockholm School of Economics, 1925"
+        },
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "AB Industribyrån",
+                "startDate": "1927",
+                "endDate": "1929",
+                "department": "Stockholm"
+            },
+            {
+                "@type": "Organization",
+                "name": "ASEA's auditing and organizational department",
+                "startDate": "1929",
+                "endDate": "1933"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Svenska Fläktfabriken",
+                "startDate": "1933",
+                "position": "Economist"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Swedish Economists Association"
+        },
+        "awards": [
+            {
+                "@type": "Scholarship",
+                "name": "Travel stipend for France",
+                "startDate": "1926",
+                "endDate": "1927"
+            }
+        ]
+    },
+    "occupations": {
+        "career": {
+            "occupational_title": [
+                "Clerk",
+                "Auditor and Organizational Specialist",
+                "Economist"
+            ],
+            "workplace": [
+                "AB Industribyrån",
+                "ASEA (Allmänna Svenska Elektriska Aktiebolaget)",
+                "AB Svenska Fläktfabriken"
+            ],
+            "industry": [
+                "Unknown",
+                "Electrical Engineering",
+                "Mechanical Engineering"
+            ],
+            "start_date": [
+                "1927",
+                "1929",
+                "1933"
+            ]
+        }
+    }
+}

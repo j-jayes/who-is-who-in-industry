@@ -1,0 +1,106 @@
+{
+    "original": "NYBERG, Gert Erik Viktor, Civilingenjör, Abrahamsberg, f Sthlm 23/1 07 av folkskollär E G N o Gerda Moberg, gm Anna-Lisa Hedland. Studex Västerås 25, KTH (maskinbyggn 0 mek tekn) 26—30. Planeringsing o konstr v Finspongs Metallverks AB i Väsby 31, planerings- o verkst.ing v AB Stille-Werner Sthlm 31, l:e ass v KTH:s inst f mek tek-nol 31.",
+    "translated": "NYBERG, Gert Erik Viktor, Civil Engineer, Abrahamsberg, b. Stockholm 23/1 07, son of elementary school teacher E G N and Gerda Moberg, married to Anna-Lisa Hedland. High school graduate in Västerås in 1925, studied at the Royal Institute of Technology (Mechanical Engineering) from 1926 to 1930. Worked as a planning engineer and designer at Finspongs Metallverks AB in Väsby in 1931, planning and production engineer at AB Stille-Werner in Stockholm in 1931, and as a first assistant at the Royal Institute of Technology's Mechanical Technology Institute in 1931.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Gert Erik Viktor Nyberg",
+        "birthDate": "1907-01-23",
+        "birthPlace": "Stockholm",
+        "nationality": "Swedish",
+        "jobTitle": "Civil Engineer",
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Finspongs Metallverks AB",
+                "startDate": "1931",
+                "endDate": "current",
+                "jobTitle": "Planning Engineer and Designer",
+                "location": "Väsby"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Stille-Werner",
+                "startDate": "1931",
+                "endDate": "current",
+                "jobTitle": "Planning and Production Engineer",
+                "location": "Stockholm"
+            },
+            {
+                "@type": "Organization",
+                "name": "Royal Institute of Technology",
+                "startDate": "1931",
+                "endDate": "current",
+                "jobTitle": "First Assistant",
+                "department": {
+                    "@type": "Organization",
+                    "name": "Mechanical Technology Institute"
+                }
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Västerås High School",
+                "degree": {
+                    "@type": "EducationalDegree",
+                    "name": "High School Graduate"
+                },
+                "startDate": "1925"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Royal Institute of Technology",
+                "degree": {
+                    "@type": "EducationalDegree",
+                    "name": "Civil Engineering"
+                },
+                "fieldOfStudy": "Mechanical Engineering",
+                "startDate": "1926",
+                "endDate": "1930"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Anna-Lisa Hedland"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "E G N"
+            },
+            {
+                "@type": "Person",
+                "name": "Gerda Moberg"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Abrahamsberg",
+                "industry": "Engineering",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Planning Engineer and Designer",
+                "workplace": "Finspongs Metallverks AB",
+                "industry": "Manufacturing",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Planning and Production Engineer",
+                "workplace": "AB Stille-Werner",
+                "industry": "Manufacturing",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "First Assistant",
+                "workplace": "KTH's Mechanical Technology Institute",
+                "industry": "Education",
+                "start_date": "1931"
+            }
+        ]
+    }
+}

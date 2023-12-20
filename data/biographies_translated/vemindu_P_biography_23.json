@@ -1,0 +1,145 @@
+{
+    "original": "PERNE, Carl Johan, Direktör, Stockholm, f Häggeby, Upps l, 13/8 75 av lantbr P Pettersson o Anna Persdtr, gm Thora Jönsson. Anst fma Otto A Vesterberg &amp; Co 90—99, eg spec.fma i Upps 99—17, vkst dir AB Sv Sprit i Sthlm sed. start 18. Styr.led Upps skyt.-gille o Uppl skyt.frb 00—08, Sv köpmfrb 08— 18, Upps hdlsfrn 12—18 samt försäkrAB Mer-cur sed. 18, ordf i sistn sed 42. Stdsflm Upps 16—19. RVO.",
+    "translated": "PERNE, Carl Johan, Director, Stockholm, b. Häggeby, Uppsala län, August 13, 1875, son of farmer P. Pettersson and Anna Persdotter, married to Thora Jönsson. Employed by Otto A. Vesterberg & Co. 1890-1899, self-employed specialist in Uppsala 1899-1917, executive director of AB Svenska Sprit in Stockholm since 1918. Board member of the Uppsala shooting guild and the Uppland shooting association 1900-1908, Swedish merchants' association 1908-1918, Uppsala trade association 1912-1918, and Mer-cur insurance company since 1918, chairman since 1942. Member of the Uppsala city council 1916-1919. Recipient of the Order of Vasa.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Johan Perne",
+        "birthDate": "1875-08-13",
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Häggeby, Uppsala län"
+        },
+        "father": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "P. Pettersson"
+        },
+        "mother": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Anna Persdotter"
+        },
+        "spouse": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Thora Jönsson"
+        },
+        "jobTitle": "Director",
+        "workLocation": {
+            "@type": "Place",
+            "name": "Stockholm"
+        },
+        "employmentHistory": [
+            {
+                "@context": "https://schema.org",
+                "@type": "Organization",
+                "name": "Otto A. Vesterberg & Co.",
+                "startDate": "1890",
+                "endDate": "1899"
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Organization",
+                "name": "Self-employed specialist",
+                "description": "Uppsala",
+                "startDate": "1899",
+                "endDate": "1917"
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Organization",
+                "name": "AB Svenska Sprit",
+                "description": "Executive Director",
+                "location": {
+                    "@type": "Place",
+                    "name": "Stockholm"
+                },
+                "startDate": "1918"
+            }
+        ],
+        "membership": [
+            {
+                "@context": "https://schema.org",
+                "@type": "Organization",
+                "name": "Uppsala shooting guild",
+                "position": "Board member",
+                "startDate": "1900",
+                "endDate": "1908"
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Organization",
+                "name": "Uppland shooting association",
+                "position": "Board member",
+                "startDate": "1900",
+                "endDate": "1908"
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Organization",
+                "name": "Swedish merchants' association",
+                "position": "Board member",
+                "startDate": "1908",
+                "endDate": "1918"
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Organization",
+                "name": "Uppsala trade association",
+                "position": "Board member",
+                "startDate": "1912",
+                "endDate": "1918"
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "Organization",
+                "name": "Mer-cur insurance company",
+                "description": "Chairman",
+                "startDate": "1918",
+                "endDate": "current"
+            }
+        ],
+        "politicalCareer": {
+            "@context": "https://schema.org",
+            "@type": "GovernmentOrganization",
+            "name": "Uppsala city council",
+            "position": "Member",
+            "startDate": "1916",
+            "endDate": "1919"
+        },
+        "awards": {
+            "@context": "https://schema.org",
+            "@type": "Order",
+            "name": "Order of Vasa"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Stockholm",
+                "industry": null,
+                "start_date": null
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Otto A. Vesterberg & Co.",
+                "industry": null,
+                "start_date": "1890"
+            },
+            {
+                "occupational_title": "Self-employed Specialist",
+                "workplace": "Uppsala",
+                "industry": null,
+                "start_date": "1899"
+            },
+            {
+                "occupational_title": "Executive Director",
+                "workplace": "AB Svenska Sprit",
+                "industry": null,
+                "start_date": "1918"
+            }
+        ]
+    }
+}

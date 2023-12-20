@@ -1,0 +1,122 @@
+{
+    "original": "NYBERG, Axel, Disponent, Klågerup, f Skurup, Malmöh l, 15/4 05 av köpm J N o Sofia Andersson, gm Frieda Thomasson. Studex, hdlsgymn, tegelmäst.skola. Anst v Sv Bind-garnsfabr AB 26, v Klågerups Lantm.aff 27 —32, v Bara Tegelbr- &amp; Sågvks AB sed. 32, ag dta, vkst dir o styr.ordf där. Led kyrko- 0 pastoratsråd, v. ordf komm.st, led Hyby o Lyngby polisdir. Resor: Tyskl 36, 38, 39.",
+    "translated": "NYBERG, Axel, Manager, Klågerup, b. Skurup, Malmöh l, 15/4 05, son of merchant J N and Sofia Andersson, m. Frieda Thomasson. Studex, commercial high school, brickmaster school. Employed at Swedish Bind-yarn factory AB from 1926, at Klågerups Lantmästeri Aff. from 1927-1932, at Bara Tegelbrick and Sawmill AB since 1932, currently as managing director and chairman of the board. Member of church and pastoral council, vice chairman of municipality council, member of Hyby and Lyngby police board. Traveled to Germany in 1936, 1938, and 1939.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Axel Nyberg",
+        "birthDate": "1905-04-15",
+        "birthPlace": "Skurup, Malmöh l",
+        "nationality": "Swedish",
+        "father": {
+            "@type": "Person",
+            "name": "J N Nyberg"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Sofia Andersson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Frieda Thomasson"
+        },
+        "education": [
+            {
+                "@type": "HighSchool",
+                "name": "Commercial High School"
+            },
+            {
+                "@type": "TradeSchool",
+                "name": "Brickmaster School"
+            }
+        ],
+        "employment": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1926",
+                "endDate": "1932",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Swedish Bind-yarn factory AB"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1927",
+                "endDate": "1932",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Klågerups Lantmästeri Aff."
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1932",
+                "roleName": "Managing Director",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Bara Tegelbrick and Sawmill AB"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Church and Pastoral Council"
+            },
+            {
+                "@type": "Organization",
+                "name": "Municipality Council"
+            },
+            {
+                "@type": "Organization",
+                "name": "Hyby Police Board"
+            },
+            {
+                "@type": "Organization",
+                "name": "Lyngby Police Board"
+            }
+        ],
+        "travelHistory": [
+            "Germany (1936)",
+            "Germany (1938)",
+            "Germany (1939)"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Manager",
+                "workplace": "Klågerup",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Swedish Bind-yarn factory AB",
+                "industry": "Textile manufacturing",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Klågerups Lantmästeri Aff.",
+                "industry": "Agriculture",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Bara Tegelbrick and Sawmill AB",
+                "industry": "Construction",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Managing Director and Chairman of the Board",
+                "workplace": "Bara Tegelbrick and Sawmill AB",
+                "industry": "Construction",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

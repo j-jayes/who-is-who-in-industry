@@ -1,0 +1,150 @@
+{
+    "original": "NATHHORST, Carl-Bertel Richard, Civilingenjör, Stockholm, f Falun 30/3 07 av kapt Bertel K O Nathhorst o Ingeborg Tesch, gm Malin Stensdtr Westerberg. Studex 26, ex KTH (mek) 31. Arb.studieing Separator Sthlm 32—33, verkst.ing Etuna stålpressn.AB 33—36, övering AB J C Ljungman Malmö 36—38, dir.-ass Scania Vabis Södt fr 39, vkst dir sed. 40. Styr.led Se V, Sv maskinvkn, styr.ordf ROSS AB Gbg.",
+    "translated": "NATHHORST, Carl-Bertel Richard, Civil Engineer, Stockholm, born in Falun on March 30, 1907, to Captain Bertel K O Nathhorst and Ingeborg Tesch, married Malin Stensdtr Westerberg. Completed secondary education in 1926, graduated from the Royal Institute of Technology (mechanical engineering) in 1931. Working student at Separator in Stockholm from 1932 to 1933, executive engineer at Etuna Stålpressn.AB from 1933 to 1936, chief engineer at AB J C Ljungman in Malmö from 1936 to 1938, director's assistant at Scania Vabis South from 1939, and executive director since 1940. Board member at Se V, Svenska Maskinvetenskapsakademien (Swedish Academy of Engineering Sciences), and chairman of the board at ROSS AB in Gothenburg.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Carl-Bertel Richard",
+        "familyName": "Nathhorst",
+        "birthDate": "1907-03-30",
+        "birthPlace": "Falun",
+        "nationality": "Swedish",
+        "gender": "Male",
+        "jobTitle": "Civil Engineer",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Se V"
+            },
+            {
+                "@type": "Organization",
+                "name": "Svenska Maskinvetenskapsakademien"
+            },
+            {
+                "@type": "Organization",
+                "name": "ROSS AB"
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Scania Vabis"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Malin Stensdtr Westerberg"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Bertel K O Nathhorst"
+            },
+            {
+                "@type": "Person",
+                "name": "Ingeborg Tesch"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "startDate": "1926",
+                "endDate": null,
+                "credentialCategory": "Completed secondary education"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "startDate": "1931",
+                "endDate": null,
+                "credentialCategory": "Graduated from the Royal Institute of Technology",
+                "credential": "Mechanical Engineering"
+            }
+        ],
+        "workHistory": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1932",
+                "endDate": "1933",
+                "roleName": "Working student",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Separator"
+                },
+                "location": "Stockholm"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1933",
+                "endDate": "1936",
+                "roleName": "Executive Engineer",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Etuna Stålpressn.AB"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1936",
+                "endDate": "1938",
+                "roleName": "Chief Engineer",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB J C Ljungman"
+                },
+                "location": "Malmö"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1939",
+                "endDate": null,
+                "roleName": "Director's Assistant",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Scania Vabis South"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1940",
+                "endDate": null,
+                "roleName": "Executive Director",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Scania Vabis"
+                }
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Working student",
+                "workplace": "Separator",
+                "industry": "Unknown",
+                "start_date": "1932-01-01"
+            },
+            {
+                "occupational_title": "Executive Engineer",
+                "workplace": "Etuna Stålpressn.AB",
+                "industry": "Steel manufacturing",
+                "start_date": "1933-01-01"
+            },
+            {
+                "occupational_title": "Chief Engineer",
+                "workplace": "AB J C Ljungman",
+                "industry": "Unknown",
+                "start_date": "1936-01-01"
+            },
+            {
+                "occupational_title": "Director's Assistant",
+                "workplace": "Scania Vabis",
+                "industry": "Automotive",
+                "start_date": "1939-01-01"
+            },
+            {
+                "occupational_title": "Executive Director",
+                "workplace": "Scania Vabis",
+                "industry": "Automotive",
+                "start_date": "1940-01-01"
+            }
+        ]
+    }
+}

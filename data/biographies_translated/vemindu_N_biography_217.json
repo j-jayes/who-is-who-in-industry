@@ -1,0 +1,63 @@
+{
+    "original": "NYBORG, Sten, Ingenjör, Norrköping, f Norrkp 9/4 01, gm Margareta Hagman. Norrkp s Tekn Elem.sk 16—19, Huddersfield Techn Coll Textil dep 19—20, Bradford Techn Coll Textil dep 20—21, prakt i utl 21—25. Driftsing v AB Nyborgs Yllefabr i Norrkp sed. 25.",
+    "translated": "NYBORG, Sten, Engineer, Norrköping, b. Norrköping 9/4 01, m. Margareta Hagman. Norrköping's Technical Elementary School 16-19, Huddersfield Technical College Textile Department 19-20, Bradford Technical College Textile Department 20-21, practical work abroad 21-25. Managing Director of AB Nyborgs Yllefabr in Norrköping since 25..",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Sten Nyborg",
+        "jobTitle": "Engineer",
+        "birthPlace": "Norrköping",
+        "birthDate": "1901-04-09",
+        "spouse": {
+            "@type": "Person",
+            "name": "Margareta Hagman"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Norrköping's Technical Elementary School",
+                "startDate": "1916",
+                "endDate": "1919"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Huddersfield Technical College",
+                "department": "Textile",
+                "startDate": "1919",
+                "endDate": "1920"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Bradford Technical College",
+                "department": "Textile",
+                "startDate": "1920",
+                "endDate": "1921"
+            }
+        ],
+        "workExperience": [
+            {
+                "@type": "Organization",
+                "name": "AB Nyborgs Yllefabr",
+                "startDate": "1925",
+                "jobTitle": "Managing Director",
+                "location": "Norrköping"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Norrköping",
+                "industry": "Engineering",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "AB Nyborgs Yllefabr",
+                "industry": "Textile",
+                "start_date": "1925"
+            }
+        ]
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "original": "NYSTEDT, Anders Kristoffer, Ingenjör, Gullspång, f Fellingsbro, Örebro l, 17/12 83 av godsarrend A N o Hedvig Norlin, gm Karin Laurell. Tekn elem.sk i Örebro 00—03. Ing v AB Héroults Elektr Stål 05—07, v Gull-spångs Elektrokemiska AB sed. 07. Byggn.-konsulent i Gårdsjö, Hova o Älgarås. Patr.-stGM.",
+    "translated": "NYSTEDT, Anders Kristoffer, Engineer, Gullspång, born Fellingsbro, Örebro county, on December 17, 1883, son of farm leaseholder A.N. Hedvig Norlin, married to Karin Laurell. Attended technical elementary school in Örebro from 1900 to 1903. Employed by AB Héroults Elektr Stål from 1905 to 1907, and with Gullspångs Elektrokemiska AB since 1907. Building consultant in Gårdsjö, Hova, and Älgarås. Cross of the Patriotic Society.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Anders Kristoffer Nystedt",
+        "jobTitle": "Engineer",
+        "birthPlace": "Fellingsbro, Örebro county",
+        "birthDate": "1883-12-17",
+        "familyName": "Nystedt",
+        "givenName": "Anders Kristoffer",
+        "parent": {
+            "@type": "Person",
+            "name": "A.N. Hedvig Norlin",
+            "gender": "female"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Karin Laurell"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "technical elementary school",
+            "educationalLevel": "elementary school",
+            "startDate": "1900",
+            "endDate": "1903",
+            "alumniOf": "Örebro"
+        },
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Héroults Elektr Stål"
+                },
+                "startDate": "1905",
+                "endDate": "1907"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Gullspångs Elektrokemiska AB"
+                },
+                "startDate": "1907"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Gårdsjö"
+                },
+                "jobTitle": "Building Consultant"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Hova"
+                },
+                "jobTitle": "Building Consultant"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Älgarås"
+                },
+                "jobTitle": "Building Consultant"
+            }
+        ],
+        "award": {
+            "@type": "Order",
+            "name": "Cross of the Patriotic Society"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "AB Héroults Elektr Stål",
+                "industry": "Steel industry",
+                "start_date": "1905"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Gullspångs Elektrokemiska AB",
+                "industry": "Chemical industry",
+                "start_date": "1907"
+            },
+            {
+                "occupational_title": "Building consultant",
+                "workplace": "Gårdsjö, Hova, Älgarås",
+                "industry": "Building and construction",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

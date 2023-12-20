@@ -1,0 +1,151 @@
+{
+    "original": "NILSSON, John Einar Bernhard, Civilingenjör, Skoghall, f Torslunda, Kalmar l, 26/9 02 av hemm.äg Edv N o Jenny Larsson, gm Bodil Malmström. Studex Kalmar 20, KTH (E) 21—25, ASEArs elevkurs 26—27. Anst h lekt Einar Zachrisson i Västerås 27—28, h Uddeholms AB v Skoghallsverken sed. 28, chef f Skoghallsverken elektr o ångtekn avdelningar. Studieres t Tyskl o Schweiz 34.",
+    "translated": "NILSSON, John Einar Bernhard, Civil Engineer, Skoghall, born in Torslunda, Kalmar County, on September 26th, 1902, to the home owner Edv N and Jenny Larsson. Married to Bodil Malmström. Completed high school exams in Kalmar in 1920, attended the Royal Institute of Technology (Electrical Engineering) from 1921 to 1925, and completed an ASEArs course from 1926 to 1927. Employed as an assistant lecturer by Einar Zachrisson in Västerås from 1927 to 1928, and later hired by Uddeholms AB at Skoghallsverken since 1928, where he became the head of the electrical and steam technology departments. He conducted studies in Germany and Switzerland in 1934.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "John Einar Bernhard Nilsson",
+        "birthDate": "1902-09-26",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Torslunda"
+        },
+        "nationality": "Swedish",
+        "jobTitle": "Civil Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Skoghall",
+            "addressRegion": "Kalmar County"
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Edv N",
+                "jobTitle": "Home Owner"
+            },
+            {
+                "@type": "Person",
+                "name": "Jenny Larsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Bodil Malmström"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "educationalLevel": "High School",
+                "educationalCredentialAwarded": "High school exams",
+                "educationalInstitution": {
+                    "@type": "EducationalOrganization",
+                    "name": "Kalmar",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressRegion": "Kalmar"
+                    }
+                },
+                "endDate": "1920"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "educationalLevel": "Bachelor's Degree",
+                "educationalCredentialAwarded": "Civil Engineering",
+                "educationalInstitution": {
+                    "@type": "EducationalOrganization",
+                    "name": "Royal Institute of Technology",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "Sweden"
+                    }
+                },
+                "startDate": "1921",
+                "endDate": "1925"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "educationalLevel": "Course",
+                "educationalCredentialAwarded": "ASEArs",
+                "educationalInstitution": {
+                    "@type": "EducationalOrganization",
+                    "name": "ASEArs",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "Sweden"
+                    }
+                },
+                "startDate": "1926",
+                "endDate": "1927"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "educationalLevel": "Study Abroad",
+                "educationalInstitution": {
+                    "@type": "EducationalOrganization",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "Germany"
+                    }
+                },
+                "endDate": "1934"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "educationalLevel": "Study Abroad",
+                "educationalInstitution": {
+                    "@type": "EducationalOrganization",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "Switzerland"
+                    }
+                },
+                "endDate": "1934"
+            }
+        ],
+        "workExperience": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Assistant Lecturer",
+                "startDate": "1927",
+                "endDate": "1928",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Einar Zachrisson",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Västerås"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Head of Electrical and Steam Technology Departments",
+                "startDate": "1928",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Uddeholms AB at Skoghallsverken",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Skoghallsverken"
+                    }
+                }
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Assistant Lecturer",
+                "workplace": "Einar Zachrisson in Västerås",
+                "industry": "Education",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Head of Electrical and Steam Technology Departments",
+                "workplace": "Uddeholms AB at Skoghallsverken",
+                "industry": "Engineering",
+                "start_date": "1928"
+            }
+        ]
+    }
+}

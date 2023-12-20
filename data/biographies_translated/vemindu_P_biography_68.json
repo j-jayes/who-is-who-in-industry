@@ -1,0 +1,143 @@
+{
+    "original": "PETANDER, Nils A J, Civilingenjör, Västerås, f Gbg 5/1 79 av skrädd.m N A Pettersson o Magdalena Öberg, gm Kristina Waern: Latinstudex Gbg, ex CTH o Tekn högsk i Karlsruhe, Tyskl. Anst ASEA 06—07, elektr AB Volta i Reval 07—16 (därav de sista åren ss beräkn.ch), ASEA:s ry fabr 16—19, eg verksamh i Gbg 19—25, ch ASEA:s likströms-kont i V.ås sed. 25. Studieres t Engl, Tyskl, Ryssl.",
+    "translated": "PETANDER, Nils A J, Engineer, Västerås, b. Gothenburg 5/1 1879 to tailor N A Pettersson and Magdalena Öberg, m. Kristina Waern: Latin student Gothenburg, graduate of the Chalmers University of Technology and the Technical University in Karlsruhe, Germany. Employed at ASEA 1906—1907, Volta electrical company in Reval 1907—1916 (the last few years as a consultant). ASEA's ray factory 1916—1919, self-employed in Gothenburg 1919—1925, head of ASEA's direct current department in Västerås since 1925. Studied English, German, and Russian.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Nils A J Petander",
+        "birthDate": "1879-01-05",
+        "birthPlace": "Gothenburg",
+        "description": "Engineer",
+        "spouse": {
+            "@type": "Person",
+            "name": "Kristina Waern"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "N A Pettersson",
+                "jobTitle": "Tailor"
+            },
+            {
+                "@type": "Person",
+                "name": "Magdalena Öberg"
+            }
+        ],
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Latin student",
+            "educationLevel": {
+                "@type": "BachelorDegree",
+                "name": "Latin",
+                "educationalLevel": "Bachelor's degree"
+            },
+            "alumniOf": [
+                {
+                    "@type": "CollegeOrUniversity",
+                    "name": "Gothenburg",
+                    "identifier": "Gbg"
+                },
+                {
+                    "@type": "CollegeOrUniversity",
+                    "name": "Chalmers University of Technology",
+                    "identifier": "CTH"
+                },
+                {
+                    "@type": "CollegeOrUniversity",
+                    "name": "Technical University of Karlsruhe",
+                    "identifier": "Karlsruhe"
+                }
+            ]
+        },
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1906-01-01",
+                "endDate": "1907-12-31",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "ASEA"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1907-01-01",
+                "endDate": "1916-12-31",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Volta Electrical Company",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Reval"
+                    }
+                },
+                "description": "Consultant (last few years)"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1916-01-01",
+                "endDate": "1919-12-31",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "ASEA's Ray Factory"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1919-01-01",
+                "endDate": "1925-12-31",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Self-employed"
+                },
+                "description": "Gothenburg"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1925-01-01",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "ASEA's Direct Current Department",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Västerås"
+                    }
+                },
+                "description": "Head of department"
+            }
+        ],
+        "knowsLanguage": [
+            "English",
+            "German",
+            "Russian"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "ASEA",
+                "industry": "",
+                "start_date": "1906"
+            },
+            {
+                "occupational_title": "Electrical Engineer",
+                "workplace": "Volta electrical company",
+                "industry": "",
+                "start_date": "1907"
+            },
+            {
+                "occupational_title": "Consultant",
+                "workplace": "Volta electrical company",
+                "industry": "",
+                "start_date": "1913"
+            },
+            {
+                "occupational_title": "Head of ASEA's direct current department",
+                "workplace": "ASEA",
+                "industry": "",
+                "start_date": "1925"
+            }
+        ]
+    }
+}

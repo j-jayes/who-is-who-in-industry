@@ -1,0 +1,127 @@
+{
+    "original": "RAPPE, Claes Gotthard, Friherre, Ingenjör, Malmö, f Ålem, Kalm l, 7/9 08 av agronom, frih H R o Anna Dieden, gm Vera Kayser. Studex 28, ex Textiltechn Reutlingen Tyskl 31, resoffex 40, prakt v in- och utl textil- o maskin-fabr. Offerting o prok v fma Schwinges nord textilkont Malmö sed. 38, vkst dir o styr.ordf fma Scand Rabbit Co AB Malmö. Årl aff- o studieres Norge, Danm, Tyskl.",
+    "translated": "RAPPE, Claes Gotthard, Baron, Engineer, Malmö, b. Ålem, Kalm l, 7/9 08, son of agronomist, Baron H R Rappe and Anna Dieden, m. Vera Kayser. Completed high school in 1928, completed Textile Technology studies in Reutlingen, Germany in 1931. Served as reserve officer from 1940. Worked practically in textile and machinery factories both in Sweden and abroad. Joined Schwinges Nord Textile Company in Malmö as sales representative and head clerk since 1938. Became managing director and chairman of the board at Scand Rabbit Co AB in Malmö. Went on annual business and study trips to Norway, Denmark, and Germany.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Claes Gotthard Rappe",
+        "givenName": "Claes Gotthard",
+        "familyName": "Rappe",
+        "birthDate": "1908-09-07",
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Ålem, Kalm l"
+        },
+        "description": "Baron, Engineer",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "H R Rappe",
+                "givenName": "H",
+                "familyName": "Rappe",
+                "description": "Baron, Agronomist"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Dieden",
+                "givenName": "Anna",
+                "familyName": "Dieden"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Vera Kayser",
+            "givenName": "Vera",
+            "familyName": "Kayser"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Studex",
+            "educationalLevel": "HighSchool",
+            "educationalRole": "Student",
+            "startDate": "1928",
+            "endDate": "1928"
+        },
+        "alumniOf": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Textiltechn Reutlingen",
+            "educationalLevel": "CollegeOrUniversity",
+            "educationalRole": "Student",
+            "startDate": "1931",
+            "endDate": "1931"
+        },
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1940",
+                "roleName": "Reserve Officer",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Swedish Military"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1938",
+                "roleName": "Sales Representative and Head Clerk",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Schwinges Nord Textile Company",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Malmö"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "XXXX",
+                "roleName": "Managing Director and Chairman of the Board",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Scand Rabbit Co AB",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Malmö"
+                    }
+                }
+            }
+        ],
+        "studyTrips": [
+            {
+                "@type": "Trip",
+                "name": "Norway"
+            },
+            {
+                "@type": "Trip",
+                "name": "Denmark"
+            },
+            {
+                "@type": "Trip",
+                "name": "Germany"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Agronomist",
+                "workplace": "Unknown",
+                "industry": "Agriculture",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Sales Representative and Head Clerk",
+                "workplace": "Schwinges Nord Textile Company",
+                "industry": "Textile",
+                "start_date": "1938"
+            },
+            {
+                "occupational_title": "Managing Director and Chairman of the Board",
+                "workplace": "Scand Rabbit Co AB",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

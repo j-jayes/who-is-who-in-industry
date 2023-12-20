@@ -1,0 +1,127 @@
+{
+    "original": "PERSSON, Gustav Waldemar (Walle), Fabrikör, Bollnäs, f Rengsjö, Gävleb l, 10/3 11 av fabr A P o Anna Greta Bratt, gm Ellen Jonsson. Inneh sed fad:s död 25 tills m mod fma Anders Perssons skidfabr (grund 14). Resor: Finl 37, 40, Danm 38. Hälsingl IF BM (2 st), 2 DM-t i budkavlelöpn på skid, l vasaloppspenn; medl Bolin gymn- o idr.frn, d:o Rehns bandykl o ordf dess orienter.sekt i Bolin. Hobbies: Skidlöpn, orienter, sportfiske.",
+    "translated": "PERSSON, Gustav Waldemar (Walle), Entrepreneur, Bollnäs, born in Rengsjö, Gävle County, on March 10, 1911, son of factory worker A P and Anna Greta Bratt, married to Ellen Jonsson. Inherits after father's death at 25, also from Anders Persson's ski factory (established 1914). Travels: Finland 1937, 1940; Denmark 1938. Achievements: Hälsingl IF Swedish Championship (2 times), 2 district championships in relay race on skis, 1 Vasaloppet medal; member of Bolin Gymnastics and Sports Club, also member of Rehns Bandy Club and chairman of its orienteering section in Bolin. Hobbies: Cross-country skiing, orienteering, sports fishing.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Gustav Waldemar Persson",
+        "alternateName": "Walle",
+        "jobTitle": "Entrepreneur",
+        "birthDate": "1911-03-10",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Rengsjö",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Gävle County"
+            }
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "A P Persson",
+                "jobTitle": "Factory Worker"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Greta Bratt"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ellen Jonsson"
+        },
+        "inheritsFrom": [
+            {
+                "@type": "Event",
+                "name": "Father's Death",
+                "startDate": "25",
+                "description": "Inherits after father's death at 25"
+            },
+            {
+                "@type": "Thing",
+                "name": "Anders Persson's ski factory",
+                "startDate": "1914",
+                "description": "Inherits also from Anders Persson's ski factory (established 1914)"
+            }
+        ],
+        "travels": [
+            {
+                "@type": "Place",
+                "name": "Finland",
+                "startDate": "1937"
+            },
+            {
+                "@type": "Place",
+                "name": "Finland",
+                "startDate": "1940"
+            },
+            {
+                "@type": "Place",
+                "name": "Denmark",
+                "startDate": "1938"
+            }
+        ],
+        "achievements": [
+            {
+                "@type": "SportsEvent",
+                "name": "Hälsingl IF Swedish Championship",
+                "description": "2 times"
+            },
+            {
+                "@type": "SportsEvent",
+                "name": "2 district championships in relay race on skis"
+            },
+            {
+                "@type": "SportsEvent",
+                "name": "Vasaloppet medal",
+                "description": "1 time"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Bolin Gymnastics and Sports Club"
+            },
+            {
+                "@type": "Organization",
+                "name": "Rehns Bandy Club",
+                "chair": "Chairman",
+                "description": "Orienteering section in Bolin"
+            }
+        ],
+        "hobbies": [
+            "Cross-country skiing",
+            "Orienteering",
+            "Sports fishing"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Entrepreneur",
+                "workplace": "Bollnäs",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Factory worker",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Inherits after father's death",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Factory owner",
+                "workplace": "Anders Persson's ski factory",
+                "industry": "Ski manufacturing",
+                "start_date": "1914"
+            }
+        ]
+    }
+}

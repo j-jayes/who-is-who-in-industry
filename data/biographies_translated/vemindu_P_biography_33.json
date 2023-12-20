@@ -1,0 +1,105 @@
+{
+    "original": "PEHRSSON, Tage Mauritz, Direktör, Halmstad, f Hst 9/11 95 av dir P M P o Anna Hagström, gm Germaine Stael von Holstein. Hst hal, branschutb Tyskl o Schweiz. Disp AB P M Pehrsson fr 15, nu vkst dir o huv.-deläg i detta, Brukar egend Staelsbo v Hst, ag Rödsle egend v Vvik Styr.led Smal bks Hstkont. FI kommun uppdr. Frimurare, W6, Rotary. Hobbies: Jakt, fiske.",
+    "translated": "PEHRSSON, Tage Mauritz, Director, Halmstad, b. November 9th, 1895, son of director P M P and Anna Hagström, married to Germaine Stael von Holstein. Completed vocational training in Germany and Switzerland. Director and majority owner of P M Pehrsson AB since 1915. Managing the estate Staelsbo in Halmstad and owner of the estate Rödsle in Vvik. Board member of Smal bks Hstkont. Holds positions in the FI municipality. Freemason, W6, Rotary member. Hobbies: Hunting, fishing.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Tage Mauritz Pehrsson",
+        "jobTitle": "Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Halmstad"
+        },
+        "birthDate": "1895-11-09",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "P M Pehrsson",
+                "jobTitle": "Director"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Hagström"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Germaine Stael von Holstein"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "vocational",
+                "credentialOffered": "branschutb",
+                "recognizedBy": [
+                    "Germany",
+                    "Switzerland"
+                ]
+            }
+        ],
+        "employment": [
+            {
+                "@type": "OrganizationRole",
+                "title": "Director",
+                "organization": "P M Pehrsson AB",
+                "startDate": "1915-01-01"
+            }
+        ],
+        "owns": [
+            {
+                "@type": "LandmarksOrHistoricalBuildings",
+                "name": "Staelsbo",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Halmstad"
+                }
+            },
+            {
+                "@type": "LandmarksOrHistoricalBuildings",
+                "name": "Rödsle",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Vvik"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Smal bks Hstkont",
+                "category": "Board member"
+            },
+            {
+                "@type": "Organization",
+                "name": "FI municipality",
+                "category": "Position holder"
+            },
+            {
+                "@type": "Organization",
+                "name": "Freemasons"
+            },
+            {
+                "@type": "Organization",
+                "name": "W6"
+            },
+            {
+                "@type": "Organization",
+                "name": "Rotary"
+            }
+        ],
+        "hobbies": [
+            "Hunting",
+            "Fishing"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "P M Pehrsson AB",
+                "industry": "Unknown",
+                "start_date": "1915"
+            }
+        ]
+    }
+}

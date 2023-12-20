@@ -1,0 +1,147 @@
+{
+    "original": "NÄSBERG, Carl Erik, Bankdirektör, Västervik, f Kristianst 18/7 97 av fabr G N o Ingrid Håkansson, gm Annie Persson. Hal. Anst BkAB S Sv :s Krstkont 16—19, h Sv hdlsbkn sed. 19, kamr Åhus 23, styr.led där 29, kont.förest, kamr o styr.led Hässleh 38, dir o styr.led Vvik sed. 42. Ag fastigh V Boulevarden 5 i Krst. Styr.led Vviks Rotary. Hobby: Filateli.",
+    "translated": "NÄSBERG, Carl Erik, Bank Director, Västervik, born in Kristianstad on July 18th, 1897, son of factory owner G N and Ingrid Håkansson, married to Annie Persson. Half-brother. Employed at BkAB S Sv :s Krstkont from 1916 to 1919, later at Sv hdlsbkn since 1919. Clerk in Åhus in 1923, board member in 1929. Supervisor and accountant in Hässleholm from 1938, director and board member in Västervik since 1942. Owns property at Boulevarden 5 in Kristianstad. Board member of Västervik's Rotary Club. Hobby: Philately.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Erik NÄSBERG",
+        "jobTitle": "Bank Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Västervik"
+        },
+        "birthDate": "1897-07-18",
+        "birthPlace": "Kristianstad",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "G N NÄSBERG",
+                "jobTitle": "Factory Owner"
+            },
+            {
+                "@type": "Person",
+                "name": "Ingrid Håkansson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Annie Persson"
+        },
+        "siblings": [
+            {
+                "@type": "Person",
+                "name": "N/A"
+            }
+        ],
+        "jobHistory": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1916",
+                "endDate": "1919",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "BkAB S Sv :s Krstkont"
+                },
+                "roleName": "Clerk"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1919",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Sv hdlsbkn"
+                },
+                "roleName": "Clerk"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1923",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Åhus"
+                },
+                "roleName": "Clerk"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1929",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "N/A"
+                },
+                "roleName": "Board Member"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1938",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Hässleholm"
+                },
+                "roleName": "Supervisor, Accountant"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1942",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Västervik"
+                },
+                "roleName": "Director, Board Member"
+            }
+        ],
+        "owns": [
+            {
+                "@type": "Property",
+                "name": "Boulevarden 5",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Kristianstad"
+                }
+            }
+        ],
+        "affiliation": {
+            "@type": "Organization",
+            "name": "Västervik's Rotary Club"
+        },
+        "sameAs": [
+            "https://www.wikidata.org/wiki/Q123456789",
+            "https://www.example.com"
+        ],
+        "hobby": "Philately"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Clerk",
+                "workplace": "BkAB S Sv :s Krstkont",
+                "industry": "Banking",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Clerk",
+                "workplace": "Sv hdlsbkn",
+                "industry": "Banking",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Clerk",
+                "workplace": "Åhus",
+                "industry": "Unknown",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Supervisor and Accountant",
+                "workplace": "Hässleholm",
+                "industry": "Unknown",
+                "start_date": "1938"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Västervik",
+                "industry": "Unknown",
+                "start_date": "1942"
+            }
+        ]
+    }
+}

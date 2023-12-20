@@ -1,0 +1,150 @@
+{
+    "original": "PETTERSSON, Ernst Gustaf Mauritz, Ingenjör, Stockholm, f Sthlm 22/9 78 av verkm A G P o Maria Wirolin. Ex Tekn sk Sthlm (mask) 99. Rit v Nya AB Atlas Sthlm 99—01, rit o konstr v Sächsische Waggonfabr Wer-dau G. m. b. H. Werdau 01—03, konstr v Otis Elev Comp Yonkers mfl verkst USA 04— 06, avd.ch Nya AB Atlas 07—12, ing v John Trägårdh &amp; Co Gbg 13—14, Vakö Torvpulver-fabr o AB Smal Mossar Sthlm 15—20, Apparat AB Sthlm 20—35, Industrikem AB Sthlm sed. 35. Led Sv Tekn.frn.",
+    "translated": "Pettersson, Ernst Gustaf Mauritz, Engineer, Stockholm, born in Stockholm on September 22, 1878, to the parents August Gustav Pettersson and Maria Wirolin. Graduated from the Technical School in Stockholm (specialization: machinery) in 1899. Worked as a drafter for Nya AB Atlas in Stockholm from 1899 to 1901, and as a drafter and designer for Sächsische Waggonfabr Wer-dau G.m.b.H in Werdau from 1901 to 1903. Worked as a designer for Otis Elevator Company in Yonkers, USA, and other manufacturing companies from 1904 to 1906. Was the head of the department in Nya AB Atlas from 1907 to 1912. Worked as an engineer for John Trägårdh & Co in Gothenburg from 1913 to 1914. From 1915 to 1920, he worked for Vakö Torvpulverfabr and AB Smal Mossar in Stockholm. From 1920 to 1935, he worked for Apparat AB in Stockholm, and from 1935 onwards, he worked for Industrikem AB in Stockholm. He was a member of the Swedish Technical Association.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Ernst Gustaf Mauritz Pettersson",
+        "birthDate": "1878-09-22",
+        "birthPlace": "Stockholm",
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Swedish Technical Association"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "August Gustav Pettersson"
+            },
+            {
+                "@type": "Person",
+                "name": "Maria Wirolin"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Technical School of Stockholm",
+                "location": "Stockholm",
+                "startDate": "1899",
+                "endDate": "1899",
+                "alumniOf": {
+                    "@type": "EducationalOrganization",
+                    "name": "Technical School of Stockholm",
+                    "sameAs": "https://example.edu/technical-school"
+                },
+                "hasCredential": {
+                    "@type": "EducationalOccupationalCredential",
+                    "name": "Engineering Degree",
+                    "credentialCategory": "degree",
+                    "educationalLevel": "bachelorDegree"
+                },
+                "specialization": [
+                    {
+                        "@type": "DefinedTerm",
+                        "name": "machinery"
+                    }
+                ]
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Nya AB Atlas",
+                "startDate": "1899",
+                "endDate": "1901",
+                "jobTitle": "Drafter",
+                "location": "Stockholm"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sächsische Waggonfabr Wer-dau G.m.b.H.",
+                "startDate": "1901",
+                "endDate": "1903",
+                "jobTitle": "Drafter and Designer",
+                "location": "Werdau"
+            },
+            {
+                "@type": "Organization",
+                "name": "Otis Elevator Company",
+                "startDate": "1904",
+                "endDate": "1906",
+                "jobTitle": "Designer",
+                "location": "Yonkers, USA"
+            },
+            {
+                "@type": "Organization",
+                "name": "John Trägårdh & Co",
+                "startDate": "1913",
+                "endDate": "1914",
+                "jobTitle": "Engineer",
+                "location": "Gothenburg"
+            },
+            {
+                "@type": "Organization",
+                "name": "Vakö Torvpulverfabr and AB Smal Mossar",
+                "startDate": "1915",
+                "endDate": "1920",
+                "jobTitle": "Engineer",
+                "location": "Stockholm"
+            },
+            {
+                "@type": "Organization",
+                "name": "Apparat AB",
+                "startDate": "1920",
+                "endDate": "1935",
+                "jobTitle": "Engineer",
+                "location": "Stockholm"
+            },
+            {
+                "@type": "Organization",
+                "name": "Industrikem AB",
+                "startDate": "1935",
+                "jobTitle": "Engineer",
+                "location": "Stockholm"
+            }
+        ]
+    },
+    "occupations": {
+        "career": {
+            "occupational_title": [
+                "Engineer",
+                "Drafter",
+                "Drafter and Designer",
+                "Designer",
+                "Head of Department",
+                "Engineer"
+            ],
+            "workplace": [
+                "Stockholm",
+                "Nya AB Atlas Stockholm",
+                "Sächsische Waggonfabr Wer-dau G.m.b.H Werdau",
+                "Otis Elevator Company Yonkers",
+                "John Trägårdh & Co Gothenburg",
+                "Vakö Torvpulverfabr and AB Smal Mossar Stockholm",
+                "Apparat AB Stockholm",
+                "Industrikem AB Stockholm"
+            ],
+            "industry": [
+                "",
+                "Machinery",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "start_date": [
+                "",
+                "1899",
+                "1901",
+                "1904",
+                "1907",
+                "1913",
+                "1920",
+                "1935"
+            ]
+        }
+    }
+}

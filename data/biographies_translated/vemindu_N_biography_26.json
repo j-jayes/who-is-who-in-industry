@@ -1,0 +1,133 @@
+{
+    "original": "NIBELL, Sven Olof Albin, Civilingenjör, Stockholm, f Gtmnebrobruk 1/9 94 av bruks-disp K O W Petersson o Olga Nibelius, gm Elsa Bogren. Studex 12, Gbgs Hdlsinst 13, CTH 19. Anst AB Welin Gbg 19—20, Deutsche Welin GmbH Hamburg 21—25, AB Atlas Diesel Sthlm sed. 26, exp.ch där sed. 33. V. ordf Chalm Ing.frns Sthlmsavd, ordf Atlas Diesels Musiksällsk. Resor: Samtl länder i Europa, USSR, Turkiet, USA 35, 38, Sydamerika 35, Sydafrika 38. Hobbies: Musik, tennis.",
+    "translated": "NIBELL, Sven Olof Albin, Civil Engineer, Stockholm, born in Gtmnebrobruk on September 1, 1894, son of factory manager K O W Petersson and Olga Nibelius, married to Elsa Bogren. Graduated with distinction in 1912, Goteborg Commercial Institute in 1913, Chalmers University of Technology in 1919. Employed at AB Welin, Gothenburg from 1919 to 1920, Deutsche Welin GmbH Hamburg from 1921 to 1925, AB Atlas Diesel Stockholm since 1926, with an extended stay in Germany from 1933. Vice-Chairman of the Engineering Society at Chalmers University, Stockholm branch, and Chairman of the Atlas Diesel Music Association. Traveled to all European countries, USSR, Turkey, USA in 1935 and 1938, South America in 1935, and South Africa in 1938. Hobbies include music and tennis.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Sven Olof Albin Nibell",
+        "jobTitle": "Civil Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "birthDate": "1894-09-01",
+        "birthPlace": "Gtmnebrobruk",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "K O W Petersson",
+                "jobTitle": "Factory Manager"
+            },
+            {
+                "@type": "Person",
+                "name": "Olga Nibelius"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Elsa Bogren"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Graduated with Distinction",
+                "educationalLevel": "Studex",
+                "educationalCredentialAwarded": "1912"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Degree",
+                "educationalLevel": "Goteborg Commercial Institute",
+                "educationalCredentialAwarded": "1913"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Degree",
+                "educationalLevel": "Chalmers University of Technology",
+                "educationalCredentialAwarded": "1919"
+            }
+        ],
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "AB Welin",
+                "startDate": "1919",
+                "endDate": "1920",
+                "location": "Gothenburg"
+            },
+            {
+                "@type": "Organization",
+                "name": "Deutsche Welin GmbH Hamburg",
+                "startDate": "1921",
+                "endDate": "1925",
+                "location": "Hamburg"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Atlas Diesel",
+                "startDate": "1926",
+                "location": "Stockholm"
+            }
+        ],
+        "extendedStay": {
+            "@type": "Organization",
+            "name": "Germany",
+            "startDate": "1933"
+        },
+        "affiliations": [
+            {
+                "@type": "Organization",
+                "name": "Engineering Society at Chalmers University (Vice-Chairman)",
+                "location": "Stockholm"
+            },
+            {
+                "@type": "Organization",
+                "name": "Atlas Diesel Music Association (Chairman)"
+            }
+        ],
+        "travels": [
+            "All European countries",
+            "USSR",
+            "Turkey",
+            {
+                "name": "USA",
+                "startDate": "1935",
+                "endDate": "1938"
+            },
+            {
+                "name": "South America",
+                "startDate": "1935"
+            },
+            {
+                "name": "South Africa",
+                "startDate": "1938"
+            }
+        ],
+        "hobbies": [
+            "Music",
+            "Tennis"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "AB Welin",
+                "industry": "Engineering",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Deutsche Welin GmbH Hamburg",
+                "industry": "Engineering",
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "AB Atlas Diesel Stockholm",
+                "industry": "Engineering",
+                "start_date": "1926"
+            }
+        ]
+    }
+}

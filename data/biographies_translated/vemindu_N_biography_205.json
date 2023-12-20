@@ -1,0 +1,68 @@
+{
+    "original": "NORRWIE, Carl Edvin, Köpman, Tranås, f N Vi 5/10 98 av nmdem A J Karlsson o Anna Pettersson, gm Bojan Andersson. Realsk, hdlssk, yjälvstud språk o aff.utb. Eg div.-aff Mjölby 31—34, inneh fma Lagerboden, manuf- o kortvaruaff, Tranås, sed. 34.",
+    "translated": "NORRWIE, Carl Edvin, Merchant, Tranås, b. Vimmerby 5/10 98 to farmer A J Karlsson and Anna Pettersson, m. Bojan Andersson. Attended junior high school, commerce school and self-studied languages and business education. Owns various businesses in Mjölby from 1931 to 1934, currently managing the Lagerboden, manufacturing and retail store in Tranås since 1934.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "NORRWIE, Carl Edvin",
+        "birthDate": "1898-10-05",
+        "birthPlace": "Vimmerby",
+        "father": {
+            "@type": "Person",
+            "name": "A J Karlsson"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Anna Pettersson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Bojan Andersson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Realsk",
+                "educationalLevel": "Junior High School"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "hdlssk",
+                "educationalLevel": "Commerce School"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "yjälvstud språk o aff.utb",
+                "description": "Self-studied languages and business education"
+            }
+        ],
+        "business": [
+            {
+                "@type": "LocalBusiness",
+                "name": "Lagerboden",
+                "description": "Manufacturing and retail store",
+                "openingDate": "1934"
+            }
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Tranås"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Tranås",
+                "industry": "Retail",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Owner of various businesses",
+                "workplace": "Mjölby",
+                "industry": "Various",
+                "start_date": "1931"
+            }
+        ]
+    }
+}

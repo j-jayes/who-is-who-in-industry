@@ -1,0 +1,130 @@
+{
+    "original": "OHLSSON, Erik Arvid, Intendent, Stockholm, f Sthlm 14/6 99 av grhdl A O o Maria Hallendorff, gm Astrid Nyman. Studex ö Real 18, ekon ex HHS 20. Avd.ch AB Wahlen &amp; Block Sthlm 23—38, intend o ch f inköpsavd St Kopparb Bergsl AB 38—43, anst i Statens Bränslekommission, Sthlm, sed. okt 43. Resor: Tyskl 20—21, Engl 22—23.",
+    "translated": "OHLSSON, Erik Arvid, Manager, Stockholm, born in Stockholm on June 14, 1899, son of A.O. and Maria Hallendorff, married to Astrid Nyman. Completed exams at the Real Gymnasium in 1918, graduated in economics from HHS (Handelshögskolan) in 1920. Department chief at AB Wahlen & Block, Stockholm, from 1923 to 1938, then became manager and head of purchasing department at Stora Kopparbergs Bergslags AB from 1938 to 1943. Employed at the State Fuel Commission, Stockholm, since October 1943. Traveled to Germany from 1920 to 1921, and to England from 1922 to 1923.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Erik Arvid Ohlsson",
+        "birthDate": "1899-06-14",
+        "birthPlace": "Stockholm",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "A.O. Ohlsson"
+            },
+            {
+                "@type": "Person",
+                "name": "Maria Hallendorff"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Astrid Nyman"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Diploma",
+                "credentialEarned": "Studex",
+                "issuer": "Real Gymnasium",
+                "dateIssued": "1918"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Diploma",
+                "credentialEarned": "Economics",
+                "issuer": "HHS (Handelshögskolan)",
+                "dateIssued": "1920"
+            }
+        ],
+        "occupation": [
+            {
+                "@type": "Role",
+                "name": "Department Chief",
+                "startDate": "1923-01-01",
+                "endDate": "1938-12-31",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "AB Wahlen & Block",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm"
+                    }
+                }
+            },
+            {
+                "@type": "Role",
+                "name": "Manager and Head of Purchasing Department",
+                "startDate": "1938-01-01",
+                "endDate": "1943-12-31",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Stora Kopparbergs Bergslags AB",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm"
+                    }
+                }
+            },
+            {
+                "@type": "Role",
+                "name": "Employed at the State Fuel Commission",
+                "startDate": "1943-10-01",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "State Fuel Commission",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm"
+                    }
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "State Fuel Commission",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm"
+                }
+            }
+        ],
+        "traveler": [
+            {
+                "@type": "Trip",
+                "name": "Germany",
+                "startDate": "1920-01-01",
+                "endDate": "1921-12-31"
+            },
+            {
+                "@type": "Trip",
+                "name": "England",
+                "startDate": "1922-01-01",
+                "endDate": "1923-12-31"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Department Chief",
+                "workplace": "AB Wahlen & Block",
+                "industry": "Unknown",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Manager and Head of Purchasing Department",
+                "workplace": "Stora Kopparbergs Bergslags AB",
+                "industry": "Mining",
+                "start_date": "1938"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "State Fuel Commission",
+                "industry": "Government",
+                "start_date": "October 1943"
+            }
+        ]
+    }
+}

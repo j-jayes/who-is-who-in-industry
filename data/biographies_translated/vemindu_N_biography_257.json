@@ -1,0 +1,109 @@
+{
+    "original": "NYVAI/L, Per Oscar Herman, Järnhandlare, Nybro, f Nybro 15/9 84 av järnhand! Per Aug .Tonsson o Dora Siltberg, gm Ada Johansson. Inneh fma P A Jonsson &amp; Co järnhdl (grund ay fad 74) samt Åsheda järnhdl. Ordf o vkst dir Nybro sparbk, kommun.flm 17—31, stdsflm, beredn.utsk o dräts.kamm sed. 31.",
+    "translated": "New information/New person, Per Oscar Herman, Ironmonger, Nybro, b. Nybro 15/9 1884 of ironmonger Per Aug. Tonsson and Dora Siltberg, m. Ada Johansson. Involved in P.A Jonsson & Co Ironmongery (established by father in 1874) and Åsheda Ironmongery. Chairman and managing director of Nybro Savings Bank, municipality committee member from 1917 to 1931, member of the board of directors, preparedness committee, and finance committee since 1931.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Per Oscar Herman Nyvai/L",
+        "givenName": "Per Oscar Herman",
+        "familyName": "Nyvai/L",
+        "birthDate": "1884-09-15",
+        "birthPlace": "Nybro",
+        "occupation": "Ironmonger",
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "P.A Jonsson & Co Ironmongery",
+                "foundingDate": "1874"
+            },
+            {
+                "@type": "Organization",
+                "name": "Åsheda Ironmongery"
+            }
+        ],
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Per Aug. Tonsson"
+            },
+            {
+                "@type": "Person",
+                "name": "Dora Siltberg"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ada Johansson"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Nybro Savings Bank"
+            }
+        ],
+        "positions": [
+            {
+                "@type": "Role",
+                "title": "Chairman",
+                "startDate": "1917"
+            },
+            {
+                "@type": "Role",
+                "title": "Managing Director"
+            }
+        ],
+        "committees": [
+            {
+                "@type": "Organization",
+                "name": "Municipality Committee",
+                "startDate": "1917",
+                "endDate": "1931"
+            },
+            {
+                "@type": "Organization",
+                "name": "Board of Directors"
+            },
+            {
+                "@type": "Organization",
+                "name": "Preparedness Committee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Finance Committee",
+                "startDate": "1931"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Ironmonger",
+                "workplace": "P.A Jonsson & Co Ironmongery",
+                "industry": "Ironmongery",
+                "start_date": "1874"
+            },
+            {
+                "occupational_title": "Ironmonger",
+                "workplace": "Åsheda Ironmongery",
+                "industry": "Ironmongery"
+            },
+            {
+                "occupational_title": "Chairman and Managing Director",
+                "workplace": "Nybro Savings Bank",
+                "industry": "Finance and Banking"
+            },
+            {
+                "occupational_title": "Municipality Committee Member",
+                "workplace": "Nybro Municipality"
+            },
+            {
+                "occupational_title": "Board of Directors Member",
+                "workplace": "Preparedness Committee"
+            },
+            {
+                "occupational_title": "Board of Directors Member",
+                "workplace": "Finance Committee"
+            }
+        ]
+    }
+}

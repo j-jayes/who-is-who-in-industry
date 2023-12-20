@@ -1,0 +1,93 @@
+{
+    "original": "OLSSON, Olof Edvard Daniel, Direktör, Tranås, f Västra Tunhem, Älvsb l, 5/1 83 av verkmäst Svante O o h h Eva, gm Nelly Johansson. Började i körsnärsyrket 99, gesällbrev 04, start eg fma 19 o ombild den t AB Daniel Olssons Pälsvarufabrik 27. Medl av Körsnärsmäst.frn, hed.ordf i Tranås Ind- o Hantv.frn.",
+    "translated": "OLSSON, Olof Edvard Daniel, Director, Tranås, born in Västra Tunhem, Älvsborg county, 5th January 1883, son of foreman Svante O and his wife Eva, married to Nelly Johansson. Started in the carpentry profession in 1899, received journeyman's certificate in 1904, started own company in 1919 and transformed it into AB Daniel Olsson's Fur Goods Factory in 1927. Member of the Master Cabinetmakers Association, honorary chairman of the Tranås Industry and Crafts Association.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Olof Edvard Daniel Olsson",
+        "jobTitle": "Director",
+        "birthDate": "1883-01-05",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Västra Tunhem",
+                "addressRegion": "Älvsborg",
+                "addressCountry": "Sweden"
+            }
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Svante Olsson",
+                "jobTitle": "Foreman"
+            },
+            {
+                "@type": "Person",
+                "name": "Eva Olsson",
+                "jobTitle": "Housewife"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Nelly Johansson"
+        },
+        "occupation": [
+            "Carpenter",
+            "Director"
+        ],
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialAwarded": "Journeyman's Certificate",
+            "educationalLevel": "Professional qualification",
+            "startDate": "1899",
+            "endDate": "1904"
+        },
+        "affiliation": [
+            {
+                "@type": "Organization",
+                "name": "AB Daniel Olsson's Fur Goods Factory",
+                "startDate": "1919",
+                "endDate": "1927",
+                "location": "Tranås, Sweden"
+            },
+            {
+                "@type": "Organization",
+                "name": "Master Cabinetmakers Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Tranås Industry and Crafts Association",
+                "roleName": "Honorary Chairman"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Cabinetmaker",
+                "workplace": "Unknown",
+                "industry": "Carpentry",
+                "start_date": "1899"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Tranås",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Founder and Owner",
+                "workplace": "Own company",
+                "industry": "Carpentry",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "AB Daniel Olsson's Fur Goods Factory",
+                "industry": "Fur Goods Manufacturing",
+                "start_date": "1927"
+            }
+        ]
+    }
+}

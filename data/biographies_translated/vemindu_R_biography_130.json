@@ -1,0 +1,109 @@
+{
+    "original": "RUDBERG, Mac Sigurd, Civilingenjör, Storvik, f Karlskrona 19/6 89 av l:e marinläk J A R o Ellen Åström, gm Agnes Price. Mog.ex Kkrona 09, StHS 10—11, KTH (kemi) 11— 14. Ing v AB Difosfat i Trollhättan 14—15, v AB Ergon Sthlm 15—17, v KTH:s mtrl-provn.anst 17—18 o v Storviks Sulfit AB sed. 18.",
+    "translated": "RUDBERG, Mac Sigurd, Civil Engineer, Storvik, b. Karlskrona 19/6 89, son of l:e naval doctor J A R and Ellen Åström, m. Agnes Price. Former student at Kkrona 09, StHS 10—11, KTH (chemistry) 11—14. Employed at AB Difosfat in Trollhättan 14—15, AB Ergon in Stockholm 15—17, KTH Materials Testing Institute 17—18, and Storviks Sulfit AB since 18..",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Mac Sigurd Rudberg",
+        "jobTitle": "Civil Engineer",
+        "birthPlace": "Karlskrona",
+        "birthDate": "1889-06-19",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "J A R",
+                "jobTitle": "Naval Doctor",
+                "relatedTo": "Mac Sigurd Rudberg"
+            },
+            {
+                "@type": "Person",
+                "name": "Ellen Åström",
+                "relatedTo": "Mac Sigurd Rudberg"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Agnes Price",
+            "relatedTo": "Mac Sigurd Rudberg"
+        },
+        "education": [
+            {
+                "@type": "Organization",
+                "name": "Kkrona",
+                "startDate": "1909",
+                "endDate": "1909"
+            },
+            {
+                "@type": "Organization",
+                "name": "StHS",
+                "startDate": "1910",
+                "endDate": "1911"
+            },
+            {
+                "@type": "Organization",
+                "name": "KTH",
+                "subOrganization": {
+                    "@type": "Organization",
+                    "name": "KTH (Chemistry)"
+                },
+                "startDate": "1911",
+                "endDate": "1914"
+            }
+        ],
+        "affiliation": [
+            {
+                "@type": "Organization",
+                "name": "AB Difosfat",
+                "startDate": "1914",
+                "endDate": "1915",
+                "location": "Trollhättan"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Ergon",
+                "startDate": "1915",
+                "endDate": "1917",
+                "location": "Stockholm"
+            },
+            {
+                "@type": "Organization",
+                "name": "KTH Materials Testing Institute",
+                "startDate": "1917",
+                "endDate": "1918"
+            },
+            {
+                "@type": "Organization",
+                "name": "Storviks Sulfit AB",
+                "startDate": "1918"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "AB Difosfat",
+                "industry": "Chemical",
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "AB Ergon",
+                "industry": "Chemical",
+                "start_date": "1915"
+            },
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "KTH Materials Testing Institute",
+                "industry": "Research and Development",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Storviks Sulfit AB",
+                "industry": "Pulp and Paper",
+                "start_date": "1918"
+            }
+        ]
+    }
+}

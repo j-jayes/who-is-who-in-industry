@@ -1,0 +1,106 @@
+{
+    "original": "NILSON, Nils Åke Gottfrid, Ingenjör, Fellingsbro, f Kinna 28/8 03 av bktjm C G N o Alida Gustafsson, gm Maja Hedlund. Ingex Tekn Elem.sk Borås. Anst Borås Mek Verkst AB 25—27 o 31—33, E A Rosengrens Kassa-skåpsfabr AB 28—30, Luth &amp; Roséns El AB Eskilstuna 34—36, platschef AB Fellingsbro Verkstäder sed. 36. Ordf Fellingsbro Skytte-frn o Hantv- o Ind.frn. Hobby: Skytte.",
+    "translated": "NILSON, Nils Åke Gottfrid, Engineer, Fellingsbro, born in Kinna on August 28th, 1903, to parents Carl Gustaf Nilson and Alida Gustafsson. Married to Maja Hedlund. Graduated from Borås Technical Elementary School. Employed at Borås Mek Verkst AB from 1925 to 1927 and from 1931 to 1933. Worked at E A Rosengrens Kassa-skåpsfabr AB from 1928 to 1930 and at Luth & Roséns El AB Eskilstuna from 1934 to 1936. Became the site manager at AB Fellingsbro Verkstäder in 1936. Served as chairman of Fellingsbro Shooting Club and the Handicraft and Industry Association. Hobby: Shooting.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "givenName": "Nils Åke Gottfrid",
+        "familyName": "Nilson",
+        "jobTitle": "Engineer",
+        "birthPlace": "Kinna",
+        "birthDate": "1903-08-28",
+        "parents": [
+            {
+                "@type": "Person",
+                "givenName": "Carl Gustaf",
+                "familyName": "Nilson"
+            },
+            {
+                "@type": "Person",
+                "givenName": "Alida",
+                "familyName": "Gustafsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "givenName": "Maja",
+            "familyName": "Hedlund"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Borås Technical Elementary School"
+        },
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "Borås Mek Verkst AB",
+                "startDate": "1925",
+                "endDate": "1927"
+            },
+            {
+                "@type": "Organization",
+                "name": "E A Rosengrens Kassa-skåpsfabr AB",
+                "startDate": "1928",
+                "endDate": "1930"
+            },
+            {
+                "@type": "Organization",
+                "name": "Luth & Roséns El AB Eskilstuna",
+                "startDate": "1934",
+                "endDate": "1936"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Fellingsbro Verkstäder",
+                "startDate": "1936"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Fellingsbro Shooting Club"
+            },
+            {
+                "@type": "Organization",
+                "name": "Handicraft and Industry Association"
+            }
+        ],
+        "sameAs": [
+            "Hobby: Shooting"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Borås Mek Verkst AB",
+                "industry": "Mechanical Engineering",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Borås Mek Verkst AB",
+                "industry": "Mechanical Engineering",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "E A Rosengrens Kassa-skåpsfabr AB",
+                "industry": "Metalworking",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Luth & Roséns El AB Eskilstuna",
+                "industry": "Electrical Engineering",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Site Manager",
+                "workplace": "AB Fellingsbro Verkstäder",
+                "industry": "Manufacturing",
+                "start_date": "1936"
+            }
+        ]
+    }
+}

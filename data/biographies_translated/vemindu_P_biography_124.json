@@ -1,0 +1,78 @@
+{
+    "original": "PHILIP, Sven Olof, Civilingenjör, Norrköping, f Norrkp 11/5 88 av med lic S S P o Alva Heijman, gm Marna Booty. Studex Norrkp 17, KTH (E) 17—21. Anst v Holmens Bruks- &amp; Fabr AB i Norrkp sed. 22, nu drifts-ing där. Kommunalflm i Styrestad, led av tax.nmd o rev i öl nmdr i Styrestad. Ordf i Berga Fastigh.äg.frn. Resor: Danm, Tyskl, Holl, Engl, Frankr, Span, Finl o Ryssl v öl tillf 20—38. KAK, Tekn Frn mfl. Hobbies: Segling, filateli.",
+    "translated": "PHILIP, Sven Olof, Engineer, Norrköping, born in Norrköping on November 5, 1888, son of S S P Philip and Alva Heijman. Married to Marna Booty. Started studying in Norrköping in 1917, and continued at the Royal Institute of Technology (Engineering) from 1917 to 1921. Employed at Holmens Bruks- & Fabr AB in Norrköping since 1922, currently holding a managerial position there. Involved in local politics as a member of the Municipal Council and serving on the Tax Committee and the Review Committee for alcohol regulations in Styrestad. Chairman of the Berga Property Owners' Association. Travels: Denmark, Germany, Holland, England, France, Spain, Finland, and Russia before 1938. Member of the Royal Swedish Academy of Engineering Sciences, Technical section. Hobbies include sailing and philately.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Sven Olof Philip",
+        "birthDate": "1888-05-11",
+        "birthPlace": "Norrköping",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "S S P Philip"
+            },
+            {
+                "@type": "Person",
+                "name": "Alva Heijman"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Marna Booty"
+        },
+        "alumniOf": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Norrköping"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Royal Institute of Technology",
+                "department": "Engineering",
+                "startDate": "1917-01-01",
+                "endDate": "1921-12-31"
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Holmens Bruks- & Fabr AB",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Norrköping"
+            },
+            "startDate": "1922-01-01"
+        },
+        "jobTitle": "Engineer",
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Royal Swedish Academy of Engineering Sciences",
+            "memberOfCategory": "Technical section"
+        },
+        "honorificSuffix": "Chairman, Berga Property Owners' Association",
+        "traveled": [
+            "Denmark",
+            "Germany",
+            "Holland",
+            "England",
+            "France",
+            "Spain",
+            "Finland",
+            "Russia"
+        ],
+        "hobbies": [
+            "Sailing",
+            "Philately"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civilingenjör",
+                "workplace": "Holmens Bruks- & Fabr AB",
+                "industry": "Engineering and Manufacturing",
+                "start_date": "1922"
+            }
+        ]
+    }
+}

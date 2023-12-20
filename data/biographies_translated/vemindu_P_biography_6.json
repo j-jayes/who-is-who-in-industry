@@ -1,0 +1,162 @@
+{
+    "original": "PALMGREN, Nils Arvid, Tekn Dr, Göteborg, f Falun 30/4 90 av major J G P o h h f Lindskog, gm Mary Ann Roempke. Studex Sthlm 09, civilingex KTH 16, tekn dr KTH 30; resoffex 11. Anst Väg- o vatt.byggn.styr 16, AB Byggn.konstr.byr 17, SKF sed. 17. Resor: Flert europ länd samt USA 20—39. Av trycket: Upps i in- p utl tekn tidskr, läroboken »Kullagerteknikens grunder». IVA:s GM, Arméns skyt.M, fi skyt.m.",
+    "translated": "PALMGREN, Nils Arvid, D.Eng., Gothenburg, b. in Falun on April 30, 1890, son of Major J.G.P. and his wife, neé Lindskog, married to Mary Ann Roempke. Completed secondary education in Stockholm in 1909, received a Master's degree in Engineering from the Royal Institute of Technology (KTH) in 1916, and a Doctorate in Engineering from KTH in 1930. In 1911, completed officer candidate school. Employed by the Road and Water Construction Board in 1916, AB Construction Engineering Bureau in 1917, and SKF since 1917. Traveled extensively in several European countries as well as the United States between 1920 and 1939. Published in various national and international technical journals and authored the textbook \"Fundamentals of Ball Bearing Technology.\" Member of the Royal Swedish Academy of Engineering Sciences (IVA), Military Shooting Association, and Rifle Association.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Nils Arvid Palmgren",
+        "birthDate": "1890-04-30",
+        "birthPlace": "Falun",
+        "deathDate": "",
+        "nationality": "Swedish",
+        "educationalAttainment": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "secondaryEducation",
+                "educationalLevel": "HighSchool",
+                "educationalProgram": "Studex",
+                "educationalInstitution": "Stockholm",
+                "endDate": "1909"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "undergraduateEducation",
+                "educationalLevel": "Bachelor",
+                "educationalProgram": "Civil Engineering",
+                "educationalInstitution": "Royal Institute of Technology (KTH)",
+                "endDate": "1916"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "graduateEducation",
+                "educationalLevel": "Doctorate",
+                "educationalProgram": "Engineering",
+                "educationalInstitution": "Royal Institute of Technology (KTH)",
+                "endDate": "1930"
+            }
+        ],
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Major J.G.P. Palmgren",
+                "gender": "male"
+            },
+            {
+                "@type": "Person",
+                "name": "Lindskog",
+                "gender": "female"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Mary Ann Roempke"
+        },
+        "occupation": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Corporation",
+                    "name": "Road and Water Construction Board",
+                    "location": "Sweden"
+                },
+                "startDate": "1916",
+                "endDate": ""
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Corporation",
+                    "name": "AB Construction Engineering Bureau",
+                    "location": "Sweden"
+                },
+                "startDate": "1917",
+                "endDate": ""
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Employee",
+                "organization": {
+                    "@type": "Corporation",
+                    "name": "SKF",
+                    "location": "Sweden"
+                },
+                "startDate": "1917",
+                "endDate": ""
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Royal Swedish Academy of Engineering Sciences (IVA)"
+            },
+            {
+                "@type": "Organization",
+                "name": "Military Shooting Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Rifle Association"
+            }
+        ],
+        "description": "Swedish engineer and author",
+        "worksFor": [
+            {
+                "@type": "Corporation",
+                "name": "Road and Water Construction Board",
+                "location": "Sweden"
+            },
+            {
+                "@type": "Corporation",
+                "name": "AB Construction Engineering Bureau",
+                "location": "Sweden"
+            },
+            {
+                "@type": "Corporation",
+                "name": "SKF",
+                "location": "Sweden"
+            }
+        ],
+        "publication": [
+            "Upps i in- p utl tekn tidskr",
+            "Kullagerteknikens grunder"
+        ],
+        "travelHistory": [
+            {
+                "@type": "Event",
+                "location": "Europe",
+                "startDate": "1920",
+                "endDate": "1939"
+            },
+            {
+                "@type": "Event",
+                "location": "United States",
+                "startDate": "1920",
+                "endDate": "1939"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Anst Väg- o vatt.byggn.styr",
+                "workplace": "Road and Water Construction Board",
+                "industry": "Construction",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "AB Byggn.konstr.byr",
+                "workplace": "AB Construction Engineering Bureau",
+                "industry": "Construction",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "SKF",
+                "workplace": "SKF",
+                "industry": "Manufacturing",
+                "start_date": "1917"
+            }
+        ]
+    }
+}

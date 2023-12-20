@@ -1,0 +1,152 @@
+{
+    "original": "PATRICKS, Per Malte Sune, Civilingenjör, Stockholm, f Förslöv, Krstds l, 20/5 04 av köpm P B Persson o Nanna Svensson, gm tandläk Märta Lindhagen. Studex Malmö 23, KTH (E) 24—28. Anst v Telefon AB L M Ericsson sed. 28, varav ss montageled i Tallin Estl 29—31, v tekn avd i Sthlm 32, v stations-tekn avd 33—35, v försäljn.avd 35—40 o ss sektionschef f telefonavd:s sv försäljningssektion sed. 40. Styr.ordf i Trävaru AB P B Persson, FÖrslövsholm.",
+    "translated": "PATRICKS, Per Malte Sune, Civil Engineer, Stockholm, b. Förslöv, Kristianstad county, 20/5 04, son of merchant P B Persson and Nanna Svensson, m. dentist Märta Lindhagen. Graduated from Malmö in 1923, Royal Institute of Technology (Electrical Engineering) 1924-1928. Employed at Telefon AB L M Ericsson since 1928, including as installation supervisor in Tallinn, Estonia, 1929-1931, technical department in Stockholm 1932, station-technical department 1933-1935, sales department 1935-1940, and as section chief of the telephone department's Swedish sales section since 1940. Chairman of the Board at Timber AB P B Persson, Förslövsholm.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Per Malte Sune",
+        "familyName": "PATRICKS",
+        "jobTitle": [
+            {
+                "@type": "Role",
+                "name": "Installation Supervisor",
+                "startDate": "1929",
+                "endDate": "1931",
+                "namedPosition": "Tallinn, Estonia"
+            },
+            {
+                "@type": "Role",
+                "name": "Technical Department Employee",
+                "startDate": "1932",
+                "namedPosition": "Stockholm"
+            },
+            {
+                "@type": "Role",
+                "name": "Station-Technical Department Employee",
+                "startDate": "1933",
+                "endDate": "1935"
+            },
+            {
+                "@type": "Role",
+                "name": "Sales Department Employee",
+                "startDate": "1935",
+                "endDate": "1940"
+            },
+            {
+                "@type": "Role",
+                "name": "Section Chief",
+                "startDate": "1940",
+                "namedPosition": "Swedish Sales Section",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Telephone Department"
+                }
+            }
+        ],
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Förslöv",
+                "addressRegion": "Kristianstad county"
+            }
+        },
+        "birthDate": "1904-05-20",
+        "father": {
+            "@type": "Person",
+            "givenName": "P B",
+            "familyName": "Persson",
+            "jobTitle": "Merchant"
+        },
+        "mother": {
+            "@type": "Person",
+            "givenName": "Nanna",
+            "familyName": "Svensson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "givenName": "Märta",
+            "familyName": "Lindhagen",
+            "jobTitle": "Dentist"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "educationalLevel": "Bachelor's Degree",
+                "alumniOf": {
+                    "@type": "CollegeOrUniversity",
+                    "name": "Malmö"
+                },
+                "startDate": "1923",
+                "endDate": "1924"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "educationalLevel": "Bachelor's Degree",
+                "alumniOf": {
+                    "@type": "CollegeOrUniversity",
+                    "name": "Royal Institute of Technology"
+                },
+                "studyType": "Electrical Engineering",
+                "startDate": "1924",
+                "endDate": "1928"
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Telefon AB L M Ericsson",
+            "startDate": "1928"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Trävaru AB P B Persson",
+                "namedPosition": "Chairman of the Board"
+            },
+            {
+                "@type": "Organization",
+                "name": "Förslövsholm"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Telefon AB L M Ericsson",
+                "industry": "Telecommunications",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Installation Supervisor",
+                "workplace": "Telefon AB L M Ericsson (Tallinn, Estonia)",
+                "industry": "Telecommunications",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Technical Department",
+                "workplace": "Telefon AB L M Ericsson (Stockholm)",
+                "industry": "Telecommunications",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Station-Technical Department",
+                "workplace": "Telefon AB L M Ericsson (Stockholm)",
+                "industry": "Telecommunications",
+                "start_date": "1933"
+            },
+            {
+                "occupational_title": "Sales Department",
+                "workplace": "Telefon AB L M Ericsson (Stockholm)",
+                "industry": "Telecommunications",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Section Chief",
+                "workplace": "Telefon AB L M Ericsson (Sweden)",
+                "industry": "Telecommunications",
+                "start_date": "1940"
+            }
+        ]
+    }
+}

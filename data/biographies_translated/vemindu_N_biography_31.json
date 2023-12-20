@@ -1,0 +1,84 @@
+{
+    "original": "NIELSON, Nathanael (Nath), Ingenjör, Nässjö, f Nässjö 2/9 85 av köpman J N o Sofia Jacobsson, gm Nanny Rosenqvist. Inneh Es-pings Mek Verkst o Vaddfabrikeri Drott, båda i Nässjö. Stdsflm 27, led av drätselk 18—35, fd ordf i skattenmd samt led av kyrko- o skolråd.",
+    "translated": "NIELSON, Nathanael (Nath), Engineer, Nässjö, born in Nässjö on September 2nd, 1885 to merchant J N and Sofia Jacobsson, married to Nanny Rosenqvist. Owner of Es-pings Mechanical Workshop and Drott Fabric Factory, both in Nässjö. Member of the City Council from 1927, served as a member of the Finance Committee from 1918 to 1935, former chairman of the Taxation Committee, and a member of the Church and School Board.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Nathanael Nielson",
+        "givenName": "Nathanael",
+        "familyName": "Nielson",
+        "jobTitle": "Engineer",
+        "birthDate": "1885-09-02",
+        "birthPlace": "Nässjö",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "J N"
+            },
+            {
+                "@type": "Person",
+                "name": "Sofia Jacobsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Nanny Rosenqvist"
+        },
+        "owns": [
+            {
+                "@type": "Organization",
+                "name": "Es-pings Mechanical Workshop",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Nässjö"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Drott Fabric Factory",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Nässjö"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Nässjö City Council",
+                "startDate": "1927-01-01"
+            },
+            {
+                "@type": "Organization",
+                "name": "Finance Committee",
+                "startDate": "1918-01-01",
+                "endDate": "1935-12-31"
+            },
+            {
+                "@type": "Organization",
+                "name": "Taxation Committee",
+                "formerName": "Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Church and School Board"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Es-pings Mek Verkst",
+                "industry": "Mechanical Workshop",
+                "start_date": null
+            },
+            {
+                "occupational_title": null,
+                "workplace": "Drott",
+                "industry": "Fabric Factory",
+                "start_date": null
+            }
+        ]
+    }
+}

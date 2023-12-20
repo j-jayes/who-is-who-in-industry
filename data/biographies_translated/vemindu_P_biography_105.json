@@ -1,0 +1,78 @@
+{
+    "original": "PETTERSSON, Ernst, Disponent, Gallo, f Sundsjö, Jämtl l, 18/3 90. Vkst dir i Gallo Ångsågs AB. Ordf i Sv Hdlsbkns avd.kont. Led av kristidsstyr o länsarb.nindn i Jämtl län.",
+    "translated": "Pettersson, Ernst, Manager, Gallo, born in Sundsjö, Jämtland county, on March 18, 1890. Executive Director at Gallo Steam Sawmill Co. Chairman of the Swedish Trade Association branch office. Member of the Crisis Management Authority and County Labor Board in Jämtland county.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Ernst Pettersson",
+        "jobTitle": "Manager",
+        "birthDate": "1890-03-18",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Sundsjö",
+                "addressRegion": "Jämtland",
+                "addressCountry": "Sweden"
+            }
+        },
+        "affiliation": [
+            {
+                "@type": "Organization",
+                "name": "Gallo Steam Sawmill Co.",
+                "jobTitle": "Executive Director"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Trade Association",
+                "jobTitle": "Chairman",
+                "department": "branch office"
+            },
+            {
+                "@type": "Organization",
+                "name": "Crisis Management Authority"
+            },
+            {
+                "@type": "Organization",
+                "name": "County Labor Board",
+                "jobTitle": "Member",
+                "areaServed": {
+                    "@type": "GeoShape",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressRegion": "Jämtland",
+                        "addressCountry": "Sweden"
+                    }
+                }
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Executive Director",
+                "workplace": "Gallo Ångsågs AB",
+                "industry": "Steam Sawmill Co.",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Chairman",
+                "workplace": "Swedish Trade Association branch office",
+                "industry": null,
+                "start_date": null
+            },
+            {
+                "occupational_title": "Member",
+                "workplace": "Crisis Management Authority",
+                "industry": null,
+                "start_date": null
+            },
+            {
+                "occupational_title": "Member",
+                "workplace": "County Labor Board (Jämtland)",
+                "industry": null,
+                "start_date": null
+            }
+        ]
+    }
+}

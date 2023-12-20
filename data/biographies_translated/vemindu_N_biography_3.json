@@ -1,0 +1,156 @@
+{
+    "original": "NJESLUND, Johan Gustaf Bertil, Civilingenjör, Stockholm, f Boden 10/4 10 av köpm J A N o Sofia Blomqvist, gm Mona-Lisa Elwing. Studex Luleå 29, civ.ing KTH (V o V) 33. Arist h major Hans Nilsson i Luleå 33—34, arb.chef v L E Hellstedt AB i Sthlm 34—43, eg byggn.fma i Sthlm sed. 43. Studieresa m stip fr KTH i Danm, Tyskl, Schweiz, Frankr, Belg o Holl 37. Led av Sv Tekn.frn, Sthlms Byggmästarefrn o Sthlms Byggn.frn.",
+    "translated": "NJESLUND, Johan Gustaf Bertil, Civil Engineer, Stockholm, b. Boden 10/4 10, son of merchant J A N and Sofia Blomqvist, married to Mona-Lisa Elwing. Luleå University of Technology graduate in 1929, Civil Engineering degree from the Royal Institute of Technology (V and V) in 1933. Military service under Major Hans Nilsson in Luleå from 1933 to 1934. Worked as Chief Engineer at L E Hellstedt AB in Stockholm from 1934 to 1943, and then started his own construction company in Stockholm from 1943 onwards. Took study trips with scholarships from the Royal Institute of Technology to Denmark, Germany, Switzerland, France, Belgium, and the Netherlands in 1937. Member of the Swedish Institute of Engineering, Stockholm Master Builders' Association, and Stockholm Building Owners' Association.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Johan Gustaf Bertil Njeslund",
+        "birthDate": "1910-04-10",
+        "birthPlace": "Boden",
+        "description": "Civil Engineer",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Institute of Engineering"
+            },
+            {
+                "@type": "Organization",
+                "name": "Stockholm Master Builders' Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Stockholm Building Owners' Association"
+            }
+        ],
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "J A N Njeslund"
+            },
+            {
+                "@type": "Person",
+                "name": "Sofia Blomqvist"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Mona-Lisa Elwing"
+        },
+        "education": [
+            {
+                "@type": "CollegeOrUniversity",
+                "name": "Luleå University of Technology",
+                "startDate": "1929",
+                "endDate": "1933"
+            },
+            {
+                "@type": "CollegeOrUniversity",
+                "name": "Royal Institute of Technology",
+                "startDate": "1933",
+                "endDate": "1933"
+            }
+        ],
+        "alumniOf": [
+            {
+                "@type": "CollegeOrUniversity",
+                "name": "Luleå University of Technology"
+            },
+            {
+                "@type": "CollegeOrUniversity",
+                "name": "Royal Institute of Technology"
+            }
+        ],
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1934",
+                "endDate": "1943",
+                "roleName": "Chief Engineer",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "L E Hellstedt AB"
+                },
+                "areaServed": "Stockholm"
+            },
+            {
+                "@type": "Organization",
+                "name": "Johan Njeslund Construction Company",
+                "foundingDate": "1943",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm"
+                    }
+                }
+            }
+        ],
+        "militaryService": {
+            "@type": "MilitaryService",
+            "startDate": "1933",
+            "endDate": "1934",
+            "militaryRank": "Major",
+            "organization": {
+                "@type": "Organization",
+                "name": "Luleå Military Base"
+            }
+        },
+        "studyTrip": {
+            "@type": "Trip",
+            "startDate": "1937",
+            "endDate": "1937",
+            "fromLocation": {
+                "@type": "Country",
+                "name": "Sweden"
+            },
+            "toLocation": [
+                {
+                    "@type": "Country",
+                    "name": "Denmark"
+                },
+                {
+                    "@type": "Country",
+                    "name": "Germany"
+                },
+                {
+                    "@type": "Country",
+                    "name": "Switzerland"
+                },
+                {
+                    "@type": "Country",
+                    "name": "France"
+                },
+                {
+                    "@type": "Country",
+                    "name": "Belgium"
+                },
+                {
+                    "@type": "Country",
+                    "name": "Netherlands"
+                }
+            ]
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Stockholm",
+                "industry": "",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Chief Engineer",
+                "workplace": "L E Hellstedt AB",
+                "industry": "",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Owner of Construction Company",
+                "workplace": "Stockholm",
+                "industry": "Construction",
+                "start_date": "1943"
+            }
+        ]
+    }
+}

@@ -1,0 +1,125 @@
+{
+    "original": "NILSON, Eric Alfred, Juvelerare, Halmstad, f Hedeskoga, Malmöh l, 22/6 00 av lagerch A Nilsson o Kerstin Larsson, gm Karin Jönsson. Skolutb i Ystad. Anst i branschföret i Sölvesb 16, Strängnäs 17, Sthlm 18, Halmst 19, etabl fma Eric A Nilson &amp; Co 22. Styr.led V Sv juv- &amp; guldsm.frn. Resor: Norge 36, Danm, Tyskl årl 37—39. Stat mästarebr.",
+    "translated": "NILSON, Eric Alfred, Jeweler, Halmstad, b. Hedeskoga, Malmöh l, 22/6 00, to father Lagerch A Nilsson and mother Kerstin Larsson, m. Karin Jönsson. Educated in Ystad. Employed in industry companies in Sölvesborg 16, Strängnäs 17, Stockholm 18, Halmstad 19, established the company Eric A Nilson & Co in 22. Board member of the Swedish Jewelers' and Goldsmiths' Association. Travels: Norway 36, Denmark and Germany annually 37-39. State Master Craftsman.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Eric Alfred Nilson",
+        "jobTitle": "Jeweler",
+        "birthDate": "1900-06-22",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Hedeskoga",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Malmöh",
+                "addressRegion": "l"
+            }
+        },
+        "father": {
+            "@type": "Person",
+            "name": "Lagerch A Nilsson"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Kerstin Larsson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Karin Jönsson"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Skolutb",
+            "educationalLevel": "Ystad"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Industry Company in Sölvesborg",
+                "startDate": "1916"
+            },
+            {
+                "@type": "Organization",
+                "name": "Industry Company in Strängnäs",
+                "startDate": "1917"
+            },
+            {
+                "@type": "Organization",
+                "name": "Industry Company in Stockholm",
+                "startDate": "1918"
+            },
+            {
+                "@type": "Organization",
+                "name": "Industry Company in Halmstad",
+                "startDate": "1919"
+            },
+            {
+                "@type": "Organization",
+                "name": "Eric A Nilson & Co",
+                "startDate": "1922"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Swedish Jewelers' and Goldsmiths' Association",
+            "position": "Board member"
+        },
+        "hasOccupation": {
+            "@type": "State Master Craftsman"
+        },
+        "travelHistory": [
+            {
+                "@type": "Country",
+                "name": "Norway",
+                "startDate": "1936",
+                "endDate": "1936"
+            },
+            {
+                "@type": "Country",
+                "name": "Denmark",
+                "startDate": "1937"
+            },
+            {
+                "@type": "Country",
+                "name": "Germany",
+                "startDate": "1937",
+                "endDate": "1939"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Jeweler",
+                "workplace": "Industry company in Sölvesborg",
+                "industry": "Jewelry",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Jeweler",
+                "workplace": "Industry company in Strängnäs",
+                "industry": "Jewelry",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Jeweler",
+                "workplace": "Industry company in Stockholm",
+                "industry": "Jewelry",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Jeweler",
+                "workplace": "Industry company in Halmstad",
+                "industry": "Jewelry",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Jeweler",
+                "workplace": "Eric A Nilson & Co",
+                "industry": "Jewelry",
+                "start_date": "1922"
+            }
+        ]
+    }
+}

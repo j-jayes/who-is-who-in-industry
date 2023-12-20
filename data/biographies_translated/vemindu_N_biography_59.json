@@ -1,0 +1,108 @@
+{
+    "original": "NILSSON, David Sten Algot, Agronom, Disponent, Halmstad, f Harplinge, Hall l, 4/7 86 av lantbr N P N o Severina Jönsson, gm Maria Nanneson. Lantbr.sk, kontrollassist.kurs, kurser i lantbr :s binäringar, h lantbr.avd, agronomex v Alnarp 13. Lärare-, förvaltare-o konsulentbefattn inom jordbr 13—23, disp v hdlsfma i Skåne 23—28, disp o ch v W Weibull AB i Halmstad sed. 28. Resor: Skand länderna v öl tillf 09—39. Sv Scoutfrbs Vita Hederslilja. Hobby: Växter.",
+    "translated": "NILSSON, David Sten Algot, Agriculturalist, Manager, Halmstad, born in Harplinge, Halland county, on April 7, 1886, to farmer Nils Peter Nilsson and Severina Jönsson. Married to Maria Nanneson. Agricultural school, control assistant course, courses in agriculture's subsistence branches, agricultural department in Halmstad, agricultural expert at Alnarp in 1913. Teacher, administrator, and consultant in agriculture from 1913 to 1923, manager of trading companies in Skåne from 1923 to 1928, manager and chief executive of W Weibull AB in Halmstad since 1928. Travelled to the Scandinavian countries regularly from 1909 to 1939. Swedish Scout Association's White Honorary Lily. Hobby: Plants.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "David Sten Algot Nilsson",
+        "birthDate": "1886-04-07",
+        "birthPlace": "Harplinge, Halland county",
+        "nationality": "Swedish",
+        "jobTitle": "Agriculturalist",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Scout Association",
+                "memberOf": "Vita Hederslilja"
+            }
+        ],
+        "hobby": "Plants",
+        "spouse": {
+            "@type": "Person",
+            "name": "Maria Nanneson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Agricultural school"
+            }
+        ],
+        "employer": [
+            {
+                "@type": "Organization",
+                "name": "W Weibull AB",
+                "startDate": "1928-01-01"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Halmstad"
+            }
+        ],
+        "workLocation": [
+            {
+                "@type": "Place",
+                "name": "Alnarp",
+                "startDate": "1913-01-01",
+                "endDate": "1923-01-01"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "Halmstad",
+                "startDate": "1923-01-01",
+                "endDate": "1928-01-01"
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "Place",
+                "name": "Scandinavian countries",
+                "startDate": "1909-01-01",
+                "endDate": "1939-01-01"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Agriculturist",
+                "workplace": "Alnarp",
+                "industry": "Agriculture",
+                "start_date": 1913
+            },
+            {
+                "occupational_title": "Teacher",
+                "workplace": "Unknown",
+                "industry": "Education",
+                "start_date": 1913
+            },
+            {
+                "occupational_title": "Administrator",
+                "workplace": "Unknown",
+                "industry": "Education",
+                "start_date": 1913
+            },
+            {
+                "occupational_title": "Consultant",
+                "workplace": "Unknown",
+                "industry": "Agriculture",
+                "start_date": 1913
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Skåne",
+                "industry": "Trading",
+                "start_date": 1923
+            },
+            {
+                "occupational_title": "Chief Executive",
+                "workplace": "Halmstad",
+                "industry": "W Weibull AB",
+                "start_date": 1928
+            }
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "original": "OHLSSON, Ivar Otto, Disponent, Gävle, f Gävle 24/12 13. Studex 32, DHS 35, prakt i herrbeklädn.branschen i Engl 30 o 32 o i Tyskl 36. Disp f Carl A Ohlsson Gefle AB sed. 38.",
+    "translated": "OHLSSON, Ivar Otto, Manager, Gävle, b. Gävle 24/12 13. Graduated 32, Diploma in Commerce and Administration 35, practical experience in the men's clothing industry in England 30 and 32, and in Germany 36. Became manager of the Carl A Ohlsson Gefle AB starting in 38.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Ivar Otto Ohlsson",
+        "jobTitle": "Manager",
+        "birthPlace": "Gävle",
+        "birthDate": "1913-12-24",
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Studex",
+                "dateIssued": "1932"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "DHS",
+                "dateIssued": "1935"
+            }
+        ],
+        "workExperience": [
+            {
+                "@type": "WorkExperience",
+                "startDate": "1930",
+                "endDate": "1932",
+                "description": "Practical experience in the men's clothing industry in England"
+            },
+            {
+                "@type": "WorkExperience",
+                "startDate": "1932",
+                "endDate": "1932",
+                "description": "Practical experience in the men's clothing industry in Germany"
+            },
+            {
+                "@type": "WorkExperience",
+                "startDate": "1938",
+                "description": "Manager at Carl A Ohlsson Gefle AB"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Manager",
+                "workplace": "Carl A Ohlsson Gefle AB",
+                "industry": "Unknown",
+                "start_date": "1938"
+            },
+            {
+                "occupational_title": "Practical Experience",
+                "workplace": "Germany",
+                "industry": "Men's Clothing",
+                "start_date": "1936"
+            },
+            {
+                "occupational_title": "Practical Experience",
+                "workplace": "England",
+                "industry": "Men's Clothing",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Diploma in Commerce and Administration",
+                "workplace": "",
+                "industry": "",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Graduated",
+                "workplace": "",
+                "industry": "",
+                "start_date": "1932"
+            }
+        ]
+    }
+}

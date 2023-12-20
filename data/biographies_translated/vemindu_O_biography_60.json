@@ -1,0 +1,130 @@
+{
+    "original": "OLSSON, Olof Anton, Bedaktör, Västerås, f Sala Idsförs 24/5 99 av hemm.äg A G O o Anna Olsson. Tärna fhsk. Jordbr t 33, red. Västml Nyh sed. 33. Styr.led Lantm tryckeri-frn upa V.ås. Stärbh.deläg 1/4 mtl Hattskär, Sala Idsförs. Studieres Finl, Norge o Danm.",
+    "translated": "OLSSON, Olof Anton, Editor, Västerås, born in Sala Parish on May 24th, 1899, son of A G O and Anna Olsson, homeowners. Attended a maidenship school. Farmed until 1933, then became editor of Västmanlands Nyheter since 1933. Board member of Lantmäteri tryckeri-fören (a publishing company) until its dissolution in Västerås. Partial owner (1/4) of Hattskär farm in Sala Parish. Studied in Finland, Norway, and Denmark.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Olof Anton Olsson",
+        "birthDate": "1899-05-24",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Sala",
+                "addressCountry": "Sweden"
+            }
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "A G O Olsson"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Olsson"
+            }
+        ],
+        "jobTitle": "Editor",
+        "workLocation": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Västerås",
+                "addressCountry": "Sweden"
+            }
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "educationalLevel": "Maidenship school"
+        },
+        "occupation": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Editor",
+                "startDate": "1933",
+                "endDate": "present",
+                "worksFor": {
+                    "@type": "Organization",
+                    "name": "Västmanlands Nyheter",
+                    "location": {
+                        "@type": "Place",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressLocality": "Västerås",
+                            "addressCountry": "Sweden"
+                        }
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Board member",
+                "startDate": "until dissolution",
+                "worksFor": {
+                    "@type": "Organization",
+                    "name": "Lantmäteri tryckeri-fören",
+                    "location": {
+                        "@type": "Place",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressLocality": "Västerås",
+                            "addressCountry": "Sweden"
+                        }
+                    }
+                }
+            }
+        ],
+        "ownershipFundingInfo": [
+            {
+                "@type": "OwnershipInfo",
+                "ownedFrom": "1/4",
+                "ownedThrough": "present",
+                "ownedProperty": {
+                    "@type": "LandmarksOrHistoricalBuildings",
+                    "name": "Hattskär farm",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Sala",
+                        "addressCountry": "Sweden"
+                    }
+                }
+            }
+        ],
+        "additionalEducation": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "educationalLevel": "Studied in Finland"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "educationalLevel": "Studied in Norway"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "educationalLevel": "Studied in Denmark"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Editor",
+                "workplace": "Västmanlands Nyheter",
+                "industry": "Media",
+                "start_date": "1933"
+            },
+            {
+                "occupational_title": "Board member",
+                "workplace": "Lantmäteri tryckeri-fören",
+                "industry": "Publishing",
+                "start_date": "unknown"
+            },
+            {
+                "occupational_title": "Partial owner",
+                "workplace": "Hattskär farm",
+                "industry": "Agriculture",
+                "start_date": "unknown"
+            }
+        ]
+    }
+}

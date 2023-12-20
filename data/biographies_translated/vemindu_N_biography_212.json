@@ -1,0 +1,127 @@
+{
+    "original": "NYBERG, Gunnar Arvid, Civilingenjör, Malmö, f Gråmanstorp, Krstds l, 31/8 98 av fabr A o Elise Carlsson. Studex Hbg 15, civing-ex KTH (maskinbyggn o mek tekn) 22. Ma-skining v Bröder Åström AB i Uleåborg Finl 23—30, ing v Ruthsaccumulators Nord AB 30 —34, v Mell o N:a Sv:s Ångpannefrn 35—36, nu anst v Sydsv Kraft AB i Malmö.",
+    "translated": "NYBERG, Gunnar Arvid, Master of Science in Engineering, Malmö, born in Gråmanstorp, Kristianstad county, on August 31st, 1898, son of factory worker A and Elise Carlsson. Graduated in Helsingborg in 1915, obtained engineering degree in mechanical engineering and technical mechanics from the Royal Institute of Technology (KTH) in 1922. Worked as a machine operator at Bröder Åström AB in Uleåborg, Finland from 1923 to 1930, engineer at Ruth's Accumulators Nord AB from 1930 to 1934, and at Mell and North Swedish Steam Boiler Company from 1935 to 1936. Currently employed at South Swedish Power Company AB in Malmö.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Gunnar Arvid Nyberg",
+        "birthDate": "1898-08-31",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Gråmanstorp",
+                "addressRegion": "Krstds l",
+                "addressCountry": "Sweden"
+            }
+        },
+        "nationality": "Swedish",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "A Nyberg"
+            },
+            {
+                "@type": "Person",
+                "name": "Elise Carlsson"
+            }
+        ],
+        "educationalCredentialAwarded": [
+            {
+                "@type": "CollegeOrUniversity",
+                "name": "Helsingborg",
+                "startDate": "1915"
+            },
+            {
+                "@type": "CollegeOrUniversity",
+                "name": "Royal Institute of Technology (KTH)",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm",
+                        "addressCountry": "Sweden"
+                    }
+                },
+                "startDate": "1922",
+                "endDate": "1922",
+                "studyType": "Mechanical Engineering and Technical Mechanics",
+                "awards": {
+                    "@type": "EducationalOccupationalCredential",
+                    "name": "Engineering degree"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Bröder Åström AB",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "Finland"
+                    }
+                },
+                "startDate": "1923",
+                "endDate": "1930",
+                "roleName": "Machine Operator"
+            },
+            {
+                "@type": "Organization",
+                "name": "Ruth's Accumulators Nord AB",
+                "startDate": "1930",
+                "endDate": "1934",
+                "roleName": "Engineer"
+            },
+            {
+                "@type": "Organization",
+                "name": "Mell and North Swedish Steam Boiler Company",
+                "startDate": "1935",
+                "endDate": "1936",
+                "roleName": "Engineer"
+            },
+            {
+                "@type": "Organization",
+                "name": "South Swedish Power Company AB",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Malmö",
+                        "addressCountry": "Sweden"
+                    }
+                },
+                "roleName": "Employee"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Machine Operator",
+                "workplace": "Bröder Åström AB",
+                "industry": "Machinery",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Ruth's Accumulators Nord AB",
+                "industry": "Electrical Equipment",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Mell and North Swedish Steam Boiler Company",
+                "industry": "Power Generation",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "South Swedish Power Company AB",
+                "industry": "Power Generation",
+                "start_date": "Currently Employed"
+            }
+        ]
+    }
+}

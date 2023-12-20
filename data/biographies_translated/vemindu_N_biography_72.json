@@ -1,0 +1,156 @@
+{
+    "original": "NILSSON, Per Gunnar Anders, Ingenjör, Linköping, f Malmö 12/3 98 av grossh P N o Anna Frankel, gm Paula Boldt. Mmö hal (t.o.m. 2 Rg), Mmö Tekn Elem.sk. Anst Sydsv Kraft AB Mmö 20—22 o M H Lissauer &amp; Co Lubeck 22—23. Deläg Per Nilssons Söner Mmö 23—28, egen firma Ing Gunnar Nilsson Linkp (skrot en gros o minut) sed. 29. Styr.led Sv tes Råvaruhdlfrn, led Sv Järn- o Metall-skrothdlsfrn o dess metallavd. Resor: Tyskl 22—23, Danm uppr ggr. Odd Fellow, Linkps Skyttegille.",
+    "translated": "NILSSON, Per Gunnar Anders, Engineer, Linköping, b. Malmö 12/3 98, son of wholesale merchant P N and Anna Frankel, m. Paula Boldt. Completed lower secondary education (up to grade 2), attended technical elementary school in Malmö. Employed by Sydsvenska Kraft AB in Malmö from 1920 to 1922 and M.H. Lissauer & Co in Lubeck from 1922 to 1923. Co-owner of Per Nilssons Söner in Malmö from 1923 to 1928, and established his own company Ing Gunnar Nilsson in Linköping in 1929 (wholesale and retail scrap metal). Board member of Swedish Tes Råvaruhdlfrn, member of Swedish Iron and Metal Scrap Trade Association and its metal department. Traveled to Germany from 1922 to 1923, established contacts in Denmark. Member of the Odd Fellow fraternal organization and the Linköping Shooting Society.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Per Gunnar Anders",
+        "familyName": "Nilsson",
+        "description": "Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Linköping"
+        },
+        "birthDate": "1898-03-12",
+        "birthPlace": "Malmö",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "P N"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Frankel"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Paula Boldt"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Technical Elementary School in Malmö"
+            }
+        ],
+        "employment": [
+            {
+                "@type": "Organization",
+                "name": "Sydsvenska Kraft AB",
+                "startDate": "1920",
+                "endDate": "1922",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Malmö"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "M.H. Lissauer & Co",
+                "startDate": "1922",
+                "endDate": "1923",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Lubeck"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Per Nilssons Söner",
+                "startDate": "1923",
+                "endDate": "1928",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Malmö"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Ing Gunnar Nilsson",
+                "startDate": "1929",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Linköping"
+                }
+            }
+        ],
+        "boardMemberIn": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Tes Råvaruhdlfrn"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Iron and Metal Scrap Trade Association"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Odd Fellow"
+            },
+            {
+                "@type": "Organization",
+                "name": "Linköping Shooting Society"
+            }
+        ],
+        "travelHistories": [
+            {
+                "@type": "Place",
+                "name": "Germany",
+                "startDate": "1922",
+                "endDate": "1923"
+            },
+            {
+                "@type": "Place",
+                "name": "Denmark"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Linköping",
+                "industry": "Engineering",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Sydsvenska Kraft AB",
+                "industry": "Energy",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "M.H. Lissauer & Co",
+                "industry": "Trading",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Co-owner",
+                "workplace": "Per Nilssons Söner",
+                "industry": "Trading",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "Ing Gunnar Nilsson",
+                "industry": "Scrap Metal",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Board member",
+                "workplace": "Swedish Tes Råvaruhdlfrn",
+                "industry": "Trade Association",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Member",
+                "workplace": "Swedish Iron and Metal Scrap Trade Association",
+                "industry": "Trade Association",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

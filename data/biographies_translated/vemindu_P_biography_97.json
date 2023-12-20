@@ -1,0 +1,100 @@
+{
+    "original": "PETTERSSON, Per Albert, Köpman, Mjölby, f 10/12 94 av Per August Magnusson o Margareta Nilsson, gm Elsa Westergren. Folksk, Hermodskurser i bokf mm, aftonsk :r. Anst i mek verkst 11—14, start cykel- &amp; elektr aff m rep.verkst 16, Firma Westergren &amp; Co Konditori 29, ch f sistn fma. Led Mby ved-komm; kass o omb.m Sv cykelhandl.frns Lin-kpsavd, styr.led fi ideella frniar. Medl TR mfl nykterh.org; hantv.frn, hembygdsfrn mfl.",
+    "translated": "PETTERSSON, Per Albert, Merchant, Mjölby, b. 10/12 94, to Per August Magnusson and Margareta Nilsson, m. Elsa Westergren. Elementary school, Hermod courses in bookkeeping, etc., evening school. Employed in a mechanical workshop from 1911 to 1914, started a bicycle and electrical store with a repair shop in 1916, the firm Westergren & Co Confectionery in 1929, and became the sole owner of the latter. Member of the Mjölby board committee; treasurer and deputy member of the Swedish Bicycle Merchants Association's Lin-kps department; board member of several non-profit organizations. Member of the local branch of the Temperance Society and other craft and local heritage associations.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Per Albert Pettersson",
+        "birthDate": "1894-12-10",
+        "birthPlace": "Mjölby",
+        "father": {
+            "@type": "Person",
+            "name": "Per August Magnusson"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Margareta Nilsson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Elsa Westergren"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Elementary School"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Hermod Courses in Bookkeeping"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "Mechanical Workshop",
+                "startDate": "1911",
+                "endDate": "1914"
+            },
+            {
+                "@type": "Organization",
+                "name": "Bicycle and Electrical Store with Repair Shop",
+                "startDate": "1916"
+            },
+            {
+                "@type": "Organization",
+                "name": "Westergren & Co Confectionery",
+                "startDate": "1929"
+            }
+        ],
+        "organizations": [
+            {
+                "@type": "Organization",
+                "name": "Mjölby Board Committee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Bicycle Merchants Association",
+                "department": "Lin-kps",
+                "roleName": "Treasurer",
+                "deputy": true
+            }
+        ],
+        "nonProfitOrganizations": [
+            {
+                "@type": "Organization",
+                "name": "Temperance Society"
+            },
+            {
+                "@type": "Organization",
+                "name": "Craft Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Local Heritage Association"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Employee in mechanical workshop",
+                "workplace": null,
+                "industry": null,
+                "start_date": "1911"
+            },
+            {
+                "occupational_title": "Owner of a bicycle and electrical store with repair shop",
+                "workplace": null,
+                "industry": null,
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Westergren & Co Confectionery",
+                "industry": "Confectionery",
+                "start_date": "1929"
+            }
+        ]
+    }
+}

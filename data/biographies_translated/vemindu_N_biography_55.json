@@ -1,0 +1,136 @@
+{
+    "original": "NILSSON, Johan August, Bankdirektör, Lund, f Kkrona 30/1 89 av Johan Nilsson o Hedvig Carlsson, gm Tora Holmberg. Studex 08. Bokh i Blek bk 08—12, d :o Smal mfl prov hyp.frn 13, kamr Blek bk Karlskr 13—16, d:o Sk bkn Malmö 16—39, dir Lundkont sed. 39, fd lär Malmö hdlsgymn o led tax.nmdn där. Styr.led AB Lunds mek verkst, AB Rosenfors br Sthlm.",
+    "translated": "NILSSON, Johan August, Bank Director, Lund, b. Kkrona 30/1 89, son of Johan Nilsson and Hedvig Carlsson, married to Tora Holmberg. Completed studies in 1908. Accounting clerk in Blek bank 1908-1912, deputy in Smal and other mortgage institutions from 1913, cashier in Blek bank Karlskr 1913-1916, same position in Sk bkn Malmö 1916-1939, director of the Lund branch since 1939, former teacher at Malmö Commercial Gymnasium and member of the tax committee there. Board member of AB Lunds mek verkst, AB Rosenfors br Sthlm.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Johan August Nilsson",
+        "birthDate": "1889-01-30",
+        "birthPlace": "Kkrona",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Johan Nilsson"
+            },
+            {
+                "@type": "Person",
+                "name": "Hedvig Carlsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Tora Holmberg"
+        },
+        "description": "Bank Director",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Lund Branch"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Studex",
+            "credentialEarned": "1908"
+        },
+        "occupation": [
+            {
+                "@type": "Occupation",
+                "name": "Accounting Clerk",
+                "startDate": "1908",
+                "endDate": "1912",
+                "worksFor": {
+                    "@type": "Organization",
+                    "name": "Blek Bank"
+                }
+            },
+            {
+                "@type": "Occupation",
+                "name": "Deputy",
+                "startDate": "1913",
+                "description": "Smal and other mortgage institutions"
+            },
+            {
+                "@type": "Occupation",
+                "name": "Cashier",
+                "startDate": "1913",
+                "endDate": "1916",
+                "worksFor": {
+                    "@type": "Organization",
+                    "name": "Blek Bank Karlskr"
+                }
+            },
+            {
+                "@type": "Occupation",
+                "name": "Cashier",
+                "startDate": "1916",
+                "endDate": "1939",
+                "worksFor": {
+                    "@type": "Organization",
+                    "name": "Sk Bkn Malmö"
+                }
+            },
+            {
+                "@type": "Occupation",
+                "name": "Director",
+                "startDate": "1939",
+                "worksFor": {
+                    "@type": "Organization",
+                    "name": "Lund Branch"
+                }
+            },
+            {
+                "@type": "Occupation",
+                "name": "Former Teacher",
+                "description": "Malmö Commercial Gymnasium"
+            },
+            {
+                "@type": "Occupation",
+                "name": "Member of Tax Committee",
+                "description": "Malmö Commercial Gymnasium"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "AB Lunds mek verkst"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Rosenfors br Sthlm"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Accounting Clerk",
+                "workplace": "Blek Bank",
+                "industry": "Banking",
+                "start_date": "1908-01-01"
+            },
+            {
+                "occupational_title": "Deputy",
+                "workplace": "Smal and other mortgage institutions",
+                "industry": "Mortgage",
+                "start_date": "1913-01-01"
+            },
+            {
+                "occupational_title": "Cashier",
+                "workplace": "Blek Bank Karlskr",
+                "industry": "Banking",
+                "start_date": "1913-01-01"
+            },
+            {
+                "occupational_title": "Cashier",
+                "workplace": "Sk Bkn Malmö",
+                "industry": "Banking",
+                "start_date": "1916-01-01"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Lund Branch",
+                "industry": "Banking",
+                "start_date": "1939-01-01"
+            }
+        ]
+    }
+}

@@ -1,0 +1,135 @@
+{
+    "original": "PAUES, Johan Wilhelm, Bergsingenjör, Hällefors, f Oslo, Norge, 6/12 13 av envoyé Joh Th P o Kari Falster, gm Inga Falkman. Studex öReal Sthlm 33, avg.ex KTH (bergs-vetensk) 39. Assist v Jernkont 39, hytt- o martining v Boxholms AB 39—42, försäljn.ing v Hellefors Bruks AB Hällefors, sed. 42. Studieresa t Tyskl 37. Av trycket: Instrumenten driftskontroll v en sv sur martinugn (Jernkont Ann 39).",
+    "translated": "PAUES, Johan Wilhelm, Mining Engineer, Hällefors, b Oslo, Norway, 6/12 13, son of envoy Joh Th P and Kari Falster, married to Inga Falkman. Graduated from Real Sthlm in 1933, completed studies at KTH (Mining Science) in 1939. Assistant at Jernkont in 1939, furnace and machinery work at Boxholms AB from 1939 to 1942, sales engineer at Hellefors Bruks AB Hällefors since 1942. Study trip to Germany in 1937. Published article: Instrument control of a Swedish acid furnace (Jernkont Ann 39).",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "givenName": "Johan Wilhelm",
+        "familyName": "Paues",
+        "jobTitle": "Mining Engineer",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Oslo",
+            "addressCountry": "Norway"
+        },
+        "birthDate": "1913-12-06",
+        "parent": [
+            {
+                "@type": "Person",
+                "givenName": "Joh",
+                "additionalName": "Th",
+                "familyName": "P"
+            },
+            {
+                "@type": "Person",
+                "givenName": "Kari",
+                "familyName": "Falster"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "givenName": "Inga",
+            "familyName": "Falkman"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "diploma",
+                "credentialLevel": {
+                    "@type": "DefinedTerm",
+                    "name": "Bachelor's degree"
+                },
+                "educationalLevel": "undergraduate",
+                "educationalProgram": "Real Sthlm",
+                "educationalRole": "graduate",
+                "endDate": "1933"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "diploma",
+                "credentialLevel": {
+                    "@type": "DefinedTerm",
+                    "name": "Bachelor's degree"
+                },
+                "educationalLevel": "undergraduate",
+                "educationalProgram": "KTH (Mining Science)",
+                "educationalRole": "graduate",
+                "endDate": "1939"
+            }
+        ],
+        "workExperience": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Assistant",
+                "startDate": "1939",
+                "endDate": "1939",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Jernkont"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Furnace and Machinery",
+                "startDate": "1939",
+                "endDate": "1942",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Boxholms AB"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Sales Engineer",
+                "startDate": "1942",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Hellefors Bruks AB Hällefors"
+                }
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Hellefors Bruks AB Hällefors"
+        },
+        "sameAs": {
+            "@type": "Article",
+            "name": "Instrument control of a Swedish acid furnace",
+            "isPartOf": {
+                "@type": "PublicationVolume",
+                "volumeNumber": "39",
+                "issueNumber": "Ann",
+                "name": "Jernkont"
+            },
+            "datePublished": "1939"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Mining Engineer",
+                "workplace": "Hällefors",
+                "industry": "Mining",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Assistant",
+                "workplace": "Jernkont",
+                "industry": "Iron and Steel",
+                "start_date": "1939"
+            },
+            {
+                "occupational_title": "Furnace and Machinery Worker",
+                "workplace": "Boxholms AB",
+                "industry": "Manufacturing",
+                "start_date": "1939"
+            },
+            {
+                "occupational_title": "Sales Engineer",
+                "workplace": "Hellefors Bruks AB",
+                "industry": "Manufacturing",
+                "start_date": "1942"
+            }
+        ]
+    }
+}

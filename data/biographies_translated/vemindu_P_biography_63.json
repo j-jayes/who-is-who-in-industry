@@ -1,0 +1,68 @@
+{
+    "original": "PERSSON, Ture Walter, Ingenjör, Knäred, f Malmö 13/6 04 av muraren o riksdagsm N P 0 Mathilda Isberg, gm Gudrun Zetterberg. Ex tekn gymn Malmö 23. Anst v Sydsv Kraft AB i Malmö 24—29, driftsing v samma bol 1 Knäred sed. 29.",
+    "translated": "PERSSON, Ture Walter, Engineer, Knäred, b Malmö 13/6 04 to the mason and member of parliament N P 0 Mathilda Isberg, m Gudrun Zetterberg. Former student of technical gymnastics Malmö at the age of 23. Employed at Southern Electricity Company in Malmö from 1924 to 1929, and then as a head engineer at the same company in Knäred since 1929.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Ture Walter Persson",
+        "birthDate": "1904-06-13",
+        "birthPlace": "Malmö",
+        "description": "Engineer",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "N. P. O. Mathilda Isberg",
+                "jobTitle": "Mason",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Riksdag"
+                }
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Gudrun Zetterberg"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Technical Gymnastics",
+            "educationalLevel": "Former student",
+            "educationalRole": "Technical gymnastics Malmö",
+            "endDate": "1923",
+            "startDate": "1924"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Southern Electricity Company",
+                "startDate": "1924",
+                "endDate": "1929",
+                "jobTitle": "Employee",
+                "location": "Malmö"
+            },
+            {
+                "@type": "Organization",
+                "name": "Southern Electricity Company",
+                "startDate": "1929",
+                "jobTitle": "Head Engineer",
+                "location": "Knäred"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Southern Electricity Company",
+                "industry": "Energy",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Head Engineer",
+                "workplace": "Southern Electricity Company",
+                "industry": "Energy",
+                "start_date": "1929"
+            }
+        ]
+    }
+}

@@ -1,0 +1,136 @@
+{
+    "original": "NILSSON, Fritz August, Disponent, Linköping, f Linkp 4/7 86 av fabr O F N o h h f Olsson, gm Hertha Åkesson. Folksk, Ljungstedtska sk Linkp (innan den blev omb t yrkesskola), hdlsskola. Kont h fma Tannefors Bolagskvarn 03—05, disp vid Nordstjernan Knäckebröds AB, Tannefors, sed. 06. Led av tax.nmd Linkp sed. fi år. Tidigare und fi år styr.led num styr.suppl Oskarsh Knäckebröds AB, Nordstjernans Knäckebröds AB, Hackefors Porslins AB o Frn Sv :es Spisbr.-fabr:ter. Resor: Danm 10, 12, 14, Norge 27. Hobby: Jakt.",
+    "translated": "NILSSON, Fritz August, Disponent (Manager), Linköping, born in Linköping on April 7th, 1886, son of factory owner O.F.N. and his wife H.H.F. Olsson, married to Hertha Åkesson. Attended primary school at Ljungstedtska skolan in Linköping (before it became a vocational school) and trade school. Started working at Tannefors Bolagskvarn as a clerk from 1903 to 1905, then became manager at Nordstjernan Knäckebröds AB in Tannefors, since 1906. Served as a member of the tax committee in Linköping for five years. Previously served for five years as a board member and later as a board supervisor for Oskarsh Knäckebröds AB, Nordstjernans Knäckebröds AB, Hackefors Porslins AB, and Från Sveriges Spisbrödfabriker. Traveled to Denmark in 1910, 1912, and 1914, and to Norway in 1927. Hobby: Hunting.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Fritz August Nilsson",
+        "birthDate": "1886-04-07",
+        "birthPlace": "Linköping, Sweden",
+        "spouse": {
+            "@type": "Person",
+            "name": "Hertha Åkesson"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "O.F.N. Olsson",
+                "gender": "male"
+            },
+            {
+                "@type": "Person",
+                "name": "H.H.F. Olsson",
+                "gender": "female"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Ljungstedtska skolan",
+                "endDate": "before becoming a vocational school"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Trade school"
+            }
+        ],
+        "jobTitle": "Manager",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Nordstjernan Knäckebröds AB",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Tannefors, Linköping, Sweden"
+            }
+        },
+        "workExperience": [
+            {
+                "@type": "Organization",
+                "name": "Tannefors Bolagskvarn",
+                "startDate": "1903",
+                "endDate": "1905",
+                "jobTitle": "Clerk"
+            },
+            {
+                "@type": "Organization",
+                "name": "Nordstjernan Knäckebröds AB",
+                "startDate": "1906",
+                "jobTitle": "Manager"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Linköping Tax Committee",
+                "startDate": "unknown",
+                "endDate": "unknown",
+                "roleName": "Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Oskarsh Knäckebröds AB"
+            },
+            {
+                "@type": "Organization",
+                "name": "Hackefors Porslins AB"
+            },
+            {
+                "@type": "Organization",
+                "name": "Från Sveriges Spisbrödfabriker"
+            }
+        ],
+        "travelHistory": [
+            "Denmark - 1910",
+            "Denmark - 1912",
+            "Denmark - 1914",
+            "Norway - 1927"
+        ],
+        "hobby": "Hunting"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Clerk",
+                "workplace": "Tannefors Bolagskvarn",
+                "industry": "Flour Milling",
+                "start_date": "1903"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Nordstjernan Knäckebröds AB",
+                "industry": "Bakery",
+                "start_date": "1906"
+            },
+            {
+                "occupational_title": "Tax Committee Member",
+                "workplace": "Linköping",
+                "industry": "Government",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Oskarsh Knäckebröds AB",
+                "industry": "Bakery",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Board Supervisor",
+                "workplace": "Nordstjernans Knäckebröds AB",
+                "industry": "Bakery",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Board Supervisor",
+                "workplace": "Hackefors Porslins AB",
+                "industry": "Porcelain Manufacturing",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Board Supervisor",
+                "workplace": "Från Sveriges Spisbrödfabriker",
+                "industry": "Bakery",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

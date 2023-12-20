@@ -1,0 +1,137 @@
+{
+    "original": "PETERSSON, Joel Arnold Hildebard, Boktryckare, Oskarshamn, f Oskhn 26/10 93 av maskinist J E P o Hilda Honeth, gm Birgit Samuelson. Folksk. Anst Oskh-Bladets boktr 05, ekon.ch o ansv utg f Oskhns Nyh sed. 34. Rev Sydsv kraftAB m dtrbol. Stdflm, ordf dräts.kamm, folksk.styr, yrkessk, stdsbibl mm. Resor: Tyskl 14. Red f Sv typograf -frbs tidn:r Julblommor o Påskliljor mfl.",
+    "translated": "PETERSSON, Joel Arnold Hildebard, Printer, Oskarshamn, born in Oskarshamn on October 26, 1893, son of engine driver J.E.P. and Hilda Honeth, married to Birgit Samuelson. Attended elementary school. Employed at Oskarshamn-Bladet's printing house since 1905, later becoming an economic manager and responsible for publishing Oskarshamns Nyheter since 1934. Revised the South Swedish Power Company with its subsidiary. City council member in Stdflm, chairman of the finance committee, school board, vocational school, and public library, among others. Traveled to Germany in 1914. Edited the Swedish typographer union's magazine: Christmas flowers and Easter lilies, among others.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Joel Arnold Hildebard Pettersson",
+        "jobTitle": "Printer",
+        "birthDate": "1893-10-26",
+        "birthPlace": "Oskarshamn",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "J.E.P."
+            },
+            {
+                "@type": "Person",
+                "name": "Hilda Honeth"
+            }
+        ],
+        "spouse": "Birgit Samuelson",
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "name": "Elementary School"
+        },
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "title": "Printer",
+                "startDate": "1905",
+                "endDate": null,
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Oskarshamn-Bladet's Printing House"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Economic Manager",
+                "startDate": "1934",
+                "endDate": null,
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Oskarshamns Nyheter"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Editor",
+                "startDate": null,
+                "endDate": null,
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Swedish Typographer Union"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "South Swedish Power Company"
+            },
+            {
+                "@type": "Organization",
+                "name": "City Council of Stdflm"
+            },
+            {
+                "@type": "Organization",
+                "name": "Finance Committee (chairperson)"
+            },
+            {
+                "@type": "Organization",
+                "name": "School Board"
+            },
+            {
+                "@type": "Organization",
+                "name": "Vocational School"
+            },
+            {
+                "@type": "Organization",
+                "name": "Public Library"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Typographer Union"
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "Trip",
+                "name": "Germany",
+                "startDate": "1914",
+                "endDate": "1914"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Printer",
+                "workplace": "Oskarshamn-Bladet's printing house",
+                "industry": "Printing",
+                "start_date": "1905"
+            },
+            {
+                "occupational_title": "Economic Manager",
+                "workplace": "Oskarshamns Nyheter",
+                "industry": "Publishing",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Chairman of the Finance Committee",
+                "workplace": "Stdflm City Council",
+                "industry": "Government",
+                "start_date": "unknown"
+            },
+            {
+                "occupational_title": "Chairman of School Board",
+                "workplace": "Stdflm City Council",
+                "industry": "Government",
+                "start_date": "unknown"
+            },
+            {
+                "occupational_title": "Chairman of Vocational School",
+                "workplace": "Stdflm City Council",
+                "industry": "Education",
+                "start_date": "unknown"
+            },
+            {
+                "occupational_title": "Chairman of Public Library",
+                "workplace": "Stdflm City Council",
+                "industry": "Libraries",
+                "start_date": "unknown"
+            }
+        ]
+    }
+}

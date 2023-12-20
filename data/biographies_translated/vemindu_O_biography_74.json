@@ -1,0 +1,68 @@
+{
+    "original": "OLSSON, Karl Gustaf (Gösta), Civilingenjör, Råsunda, f Sala Idsförsaml 26/5 01 av lantbr A G O o Matilda Olsson, gm Anna-Lisa Swan. Civingex KTH (maskinbyggn o mek tekn) 30. Anst v IVA:s ångvärmeinst i Sthlm, nu övering v Sthlms Siporexfabr AB. Studieresa som Possehlstipendiat i Tyskl 34.",
+    "translated": "OLSSON, Karl Gustaf (Gösta), Engineer, Råsunda, born in Sala Parish on May 26th, 1901 to farmer A G O and Matilda Olsson. Married to Anna-Lisa Swan. Graduated from the Royal Institute of Technology (KTH) in mechanical engineering in 1930. Employed at the Institute for Steam Heating in Stockholm, currently working as an executive at Sthlms Siporexfabr AB. Went on a study trip as a Possehl grant recipient to Germany in 1934.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Karl Gustaf Olsson",
+        "alternateName": "Gösta",
+        "jobTitle": "Engineer",
+        "birthPlace": "Råsunda",
+        "birthDate": "1901-05-26",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "A G O"
+            },
+            {
+                "@type": "Person",
+                "name": "Matilda Olsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Anna-Lisa Swan"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "bachelor's degree",
+            "educationalLevel": "Bachelor's degree",
+            "awardingInstitution": {
+                "@type": "EducationalOrganization",
+                "name": "Royal Institute of Technology (KTH)"
+            },
+            "dateEarned": "1930"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Institute for Steam Heating in Stockholm"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sthlms Siporexfabr AB"
+            }
+        ],
+        "studyGrant": {
+            "@type": "Scholarship",
+            "description": "Possehl grant",
+            "dateAwarded": "1934"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "IVA's Institute for Steam Heating in Stockholm",
+                "industry": "Engineering",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Executive",
+                "workplace": "Sthlms Siporexfabr AB",
+                "industry": "Construction",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

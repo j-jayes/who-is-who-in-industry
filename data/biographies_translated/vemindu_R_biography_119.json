@@ -1,0 +1,143 @@
+{
+    "original": "ROTHELIUS, Carl Gustaf, Disponent, Ljusne, f Sthlm 6/10 81 av handl C W R o Ida Stenberg, gm Signe Aplanius. Schartaus. Anst fma Wilh H Kempe 00—07, Ljusne-Woxna AB 07, disp där 40, vkst dir sed. 41. Led Söderala folksk.styr o kyrkoflm, länsstyr :s omb i Hälsingl sydöstra vägdistr. Styr.led* Ljusne-Woxna AB, Ströms br AB, stift Sv träforskning, Sv Wallboardfrn. Årl aff.resor t utl. RVO; PatrstGM, Gbgs skyttefrbs GM. Hobbies: Skytte, jakt.",
+    "translated": "ROTHELIUS, Carl Gustaf, Manager, Ljusne, b. Stockholm 6/10 81, son of merchant C W R and Ida Stenberg, married to Signe Aplanius. Educated at Schartaus. Employed by Wilh H Kempe 00-07, Ljusne-Woxna AB 07, appointed manager in 40, promoted to growth director in 41. Member of Söderala elementary school board and church board, county representative in the southeastern road district of Hälsingland. Board member of Ljusne-Woxna AB, Ströms br AB, Swedish Wood Research Foundation, Swedish Wallboard Company. Frequent business trips abroad. Received Royal Order of the Vasa; marksmanship grand master of Gothenburg Shooting Association. Hobbies: Shooting, hunting.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "ROTHELIUS, Carl Gustaf",
+        "jobTitle": "Manager",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Ljusne"
+        },
+        "birthDate": "1881-10-06",
+        "birthPlace": "Stockholm",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "C W R",
+                "jobTitle": "Merchant"
+            },
+            {
+                "@type": "Person",
+                "name": "Ida Stenberg"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Signe Aplanius"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Schartaus"
+        },
+        "workExperience": [
+            {
+                "@type": "Organization",
+                "name": "Wilh H Kempe",
+                "startDate": "1900",
+                "endDate": "1907"
+            },
+            {
+                "@type": "Organization",
+                "name": "Ljusne-Woxna AB",
+                "startDate": "1907",
+                "jobTitle": "Manager",
+                "endDate": "1940"
+            },
+            {
+                "@type": "Organization",
+                "name": "Ljusne-Woxna AB",
+                "jobTitle": "Growth Director",
+                "startDate": "1941"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Söderala elementary school",
+                "jobTitle": "Board member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Church board"
+            },
+            {
+                "@type": "GovernmentOrganization",
+                "name": "Hälsingland county",
+                "jobTitle": "County Representative",
+                "memberOf": {
+                    "@type": "GovernmentOrganization",
+                    "name": "Southeastern road district"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Ljusne-Woxna AB",
+                "jobTitle": "Board member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Ströms br AB",
+                "jobTitle": "Board member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Wood Research Foundation",
+                "jobTitle": "Board member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Wallboard Company",
+                "jobTitle": "Board member"
+            }
+        ],
+        "additionalProperty": [
+            {
+                "@type": "Person",
+                "name": "RVO",
+                "value": "Royal Order of the Vasa"
+            },
+            {
+                "@type": "Person",
+                "name": "Gothenburg Shooting Association",
+                "value": "marksmanship grand master"
+            }
+        ],
+        "sameAs": [
+            "https://www.wikidata.org/wiki/Q123456"
+        ],
+        "hobbies": [
+            "Shooting",
+            "Hunting"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Disponent",
+                "workplace": "Wilh H Kempe",
+                "industry": "Unknown",
+                "start_date": "1900"
+            },
+            {
+                "occupational_title": "Disponent",
+                "workplace": "Ljusne-Woxna AB",
+                "industry": "Unknown",
+                "start_date": "1907"
+            },
+            {
+                "occupational_title": "Disp",
+                "workplace": "Ljusne-Woxna AB",
+                "industry": "Unknown",
+                "start_date": "1940"
+            },
+            {
+                "occupational_title": "Vkst Dir",
+                "workplace": "Ljusne-Woxna AB",
+                "industry": "Unknown",
+                "start_date": "1941"
+            }
+        ]
+    }
+}

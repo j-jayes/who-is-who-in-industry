@@ -1,0 +1,141 @@
+{
+    "original": "OHLSSON, Sture, Direktör Landskrona, f Lkr 1/3 04 av köpm Chr O o Lydia Sjöstedt, gm Signe Bellander. Realsk. Anst fma A J Petersson &amp; Co 19—34, dir, deläg samt styr.led AB Sydsv biljettryck :t o AB Paramill sed. 34. Styr.led AB Nya kafferost :t o Sv boktr.-frns S krets. Led kyrkoråd, kyrkoflm, lönenmd, v. ordf idr.platsstyr, huv.m Röniiebergs sparbk. Hobby: Idrott.",
+    "translated": "OHLSSON, Sture, Director Landskrona, born 1st March 1904 to merchant Chr O and Lydia Sjöstedt, married Signe Bellander. Attended Realskola. Employed at A J Petersson & Co 1919-1934, later director, co-owner, and board member of AB Sydsv biljettryck and AB Paramill sed from 1934. Board member of AB Nya kafferost and Swedish Book Printing Federation South Division. Member of church council, church board, salary committee, vice chairman of sports facility management, and main board of Rönnebergs savings bank. Hobby: Sports.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Sture Ohlsson",
+        "birthDate": "1904-03-01",
+        "birthPlace": "Landskrona, Sweden",
+        "nationality": "Swedish",
+        "familyName": "Ohlsson",
+        "givenName": "Sture",
+        "jobTitle": "Director",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Landskrona",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Landskrona",
+                "addressCountry": "Sweden"
+            }
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Chr O",
+                "gender": "male",
+                "jobTitle": "Merchant"
+            },
+            {
+                "@type": "Person",
+                "name": "Lydia Sjöstedt",
+                "gender": "female"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Signe Bellander",
+            "gender": "female"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Realskola"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "A J Petersson & Co",
+                "startDate": "1919",
+                "endDate": "1934",
+                "jobTitle": "Employee"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Sydsv biljettryck",
+                "roleName": "Director",
+                "ownershipFundingInfo": "Co-owner",
+                "boardMember": true
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Paramill sed",
+                "roleName": "Director",
+                "ownershipFundingInfo": "Co-owner",
+                "boardMember": true,
+                "startDate": "1934"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Nya kafferost",
+                "roleName": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Book Printing Federation South Division",
+                "roleName": "Board Member"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Church Council"
+            },
+            {
+                "@type": "Organization",
+                "name": "Church Board"
+            },
+            {
+                "@type": "Organization",
+                "name": "Salary Committee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Rönnebergs Savings Bank",
+                "roleName": "Main Board"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sports Facility Management",
+                "roleName": "Vice Chairman"
+            }
+        ],
+        "hobbies": "Sports"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Employee",
+                "workplace": "A J Petersson & Co",
+                "industry": "Unknown",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "AB Sydsv biljettryck",
+                "industry": "Printing",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "AB Paramill sed",
+                "industry": "Unknown",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Board member",
+                "workplace": "AB Nya kafferost",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Board member",
+                "workplace": "Swedish Book Printing Federation South Division",
+                "industry": "Printing",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

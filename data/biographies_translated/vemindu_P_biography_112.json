@@ -1,0 +1,153 @@
+{
+    "original": "PETTERSSON, Laurentius Hugo, Civilingenjör, Stocksund, f Skövde 29/8 83 av byggm P J P o Anna Larsson, gm Selma Högström. Mog.ex Kristianstad 04, ex KTH (mask) 08, stud Polytechnikum Zurich 08—09. Ing v AB Sthlms Patentbyrå 09—10, v ing.-fma Fritz Egnell 10—12, v AB Vattenbyggn.-byråns mek avd Sthlm sed. 12, konsult där sed. 24. Resor: Schweiz 08—09 o 14, Engl 09, 27 o 29, USA 36. Led Sv Konsult ing frn o ST Tekn.frn. RVO.",
+    "translated": "Pettersson, Laurentius Hugo, Civil Engineer, Stocksund, b Skövde 29/8 83 son of builder P J P and Anna Larsson, m Selma Högström. Former student of Kristianstad (graduated 1904), former student of KTH (Mechanical Engineering) (graduated 1908), studied at Polytechnikum Zurich 1908-1909. Employed at AB Stockholm Patent Office 1909-1910, employed at engineering firm Fritz Egnell 1910-1912, employed at mechanical department of AB Water Construction Bureau in Stockholm since 1912, consultant there since 1924. Travelled to Switzerland 1908-1909 and 1914, England 1909, 1927 and 1929, USA 1936. Member of Swedish Consultant Engineering Association and Member of the Royal Swedish Academy of Engineering Sciences. Received the Order of Vasa.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Laurentius Hugo Pettersson",
+        "givenName": "Laurentius Hugo",
+        "familyName": "Pettersson",
+        "jobTitle": "Civil Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stocksund"
+        },
+        "birthDate": "1883-08-29",
+        "birthPlace": "Skövde",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "P J P"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Larsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Selma Högström"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Kristianstad",
+                "degree": "Civil Engineering",
+                "endDate": "1904"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "KTH",
+                "degree": "Mechanical Engineering",
+                "endDate": "1908"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Polytechnikum Zurich",
+                "startDate": "1908",
+                "endDate": "1909"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "AB Stockholm Patent Office",
+                "startDate": "1909",
+                "endDate": "1910"
+            },
+            {
+                "@type": "Organization",
+                "name": "Fritz Egnell",
+                "startDate": "1910",
+                "endDate": "1912"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Water Construction Bureau",
+                "department": "Mechanical",
+                "startDate": "1912",
+                "endDate": "1924"
+            }
+        ],
+        "travelled": [
+            {
+                "@type": "Place",
+                "name": "Switzerland",
+                "startDate": "1908",
+                "endDate": "1909"
+            },
+            {
+                "@type": "Place",
+                "name": "Switzerland",
+                "startDate": "1914",
+                "endDate": "1914"
+            },
+            {
+                "@type": "Place",
+                "name": "England",
+                "startDate": "1909",
+                "endDate": "1909"
+            },
+            {
+                "@type": "Place",
+                "name": "England",
+                "startDate": "1927",
+                "endDate": "1927"
+            },
+            {
+                "@type": "Place",
+                "name": "England",
+                "startDate": "1929",
+                "endDate": "1929"
+            },
+            {
+                "@type": "Place",
+                "name": "USA",
+                "startDate": "1936",
+                "endDate": "1936"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Consultant Engineering Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Royal Swedish Academy of Engineering Sciences"
+            }
+        ],
+        "awards": {
+            "@type": "Order",
+            "name": "Order of Vasa"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "AB Vattenbyggn.-byråns mek avd Sthlm",
+                "industry": "Engineering",
+                "start_date": "1912"
+            },
+            {
+                "occupational_title": "Consultant",
+                "workplace": "AB Vattenbyggn.-byråns mek avd Sthlm",
+                "industry": "Engineering",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "AB Sthlms Patentbyrå",
+                "industry": "Patent Office",
+                "start_date": "1909"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Fritz Egnell",
+                "industry": "Engineering",
+                "start_date": "1910"
+            }
+        ]
+    }
+}

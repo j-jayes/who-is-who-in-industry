@@ -1,0 +1,114 @@
+{
+    "original": "RYDBERG, Arne Irgens Emanuel, Civilingenjör, Linköping, f Kroppa, Värml l, 18/1 10 av inrj D T R o Ester Södersten. Ex tekn gymn Örebro 30, KTH (maskinbyggn o mek tekn) 30—34. Anst v Flygstyr :s tekn byrå Sthlm 35—36, Flygförvaltn :s kontr.ing v AB Sv Jvgsverkstädernas aeroplanavd i Linkp 36, nu h Sv Aeroplan AB (SAAB) där. Resor: USA. Tyskl. Finl.",
+    "translated": "RYDBERG, Arne Irgens Emanuel, Civil Engineer, Linköping, born in Kroppa, Värmland county, on January 18th, 1910, to parents Dagmar Theresia Rydberg and Ester Södersten. Former student at the Technical Gymnasium in Örebro until 1930, then attended the Royal Institute of Technology (specializing in mechanical engineering and technology) from 1930 to 1934. Employed at the Technical Bureau of the Swedish Air Force Headquarters in Stockholm from 1935 to 1936, then worked as a contract engineer for the Aircraft Department of AB Svenska Järnvägsverkstaderna in Linköping in 1936. Currently employed at the Swedish Aeroplane Corporation (SAAB). Traveled to the United States, Germany, and Finland. Note that '\\d{2} m. partners name' indicates that the person got married in the year 19xx.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Arne Irgens Emanuel Rydberg",
+        "birthDate": "1910-01-18",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Kroppa"
+        },
+        "nationality": "Swedish",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Dagmar Theresia Rydberg",
+                "gender": "female"
+            },
+            {
+                "@type": "Person",
+                "name": "Ester Södersten",
+                "gender": "female"
+            }
+        ],
+        "educationalCredentialAwarded": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Civil engineering",
+                "credentialEarned": "Civilingenjör"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Technical Gymnasium",
+                "credentialEarned": "Former student"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Mechanical engineering",
+                "credentialEarned": "KTH, Royal Institute of Technology"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Swedish Air Force Headquarters"
+                },
+                "startDate": "1935",
+                "endDate": "1936",
+                "roleName": "Technical Bureau employee"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Svenska Järnvägsverkstaderna"
+                },
+                "startDate": "1936",
+                "endDate": "present",
+                "roleName": "Contract Engineer"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Swedish Aeroplane Corporation (SAAB)"
+                },
+                "startDate": "present",
+                "roleName": "Employee"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "partner's name"
+        },
+        "sibling": [],
+        "memberOf": [],
+        "knowsAbout": [
+            "USA",
+            "Germany",
+            "Finland"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Linköping",
+                "industry": "Engineering",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Technical Bureau Employee",
+                "workplace": "Swedish Air Force HQ, Stockholm",
+                "industry": "Defense",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Contract Engineer",
+                "workplace": "AB Svenska Järnvägsverkstaderna, Linköping",
+                "industry": "Aviation",
+                "start_date": "1936"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Swedish Aeroplane Corporation (SAAB)",
+                "industry": "Aviation",
+                "start_date": "1936"
+            }
+        ]
+    }
+}

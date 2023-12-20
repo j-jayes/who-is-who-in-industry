@@ -1,0 +1,107 @@
+{
+    "original": "NIECKELS, John Harry, Civilingenjör, Stockholm, f Sthlm 27/6 97 av kamrer JAN 0 Matilda Bendix, gm Vera Zanders. Studex NReal Sthlm 15. avg.ex KTH (E) 22. Offex v Kustart 17, kapt i res 40. Driftsass v Rie-gos y Fuerzas del Ebro SA (Union Electrica de Cataluna) i Tremp Span 22—23, offerting v Sv Ackumulator AB Jungner i Sthlm 24, vkst dir f dess dtrbol Acumuladores Nife SA 1 Madrid 25—36, nu åter v bol i Sthlm.",
+    "translated": "NIECKELS, John Harry, Civil Engineer, Stockholm, b. Stockholm on June 27, 1897, to bookkeeper JAN 0 Matilda Bendix, married to Vera Zanders. Graduated from Real Gymnasium in Stockholm in 1915. Graduated from KTH (Royal Institute of Technology) in 1922 with a degree in Engineering. Officer in the Coastal Artillery from 1917, promoted to captain in 1940. Worked as a plant manager at Rie-gos y Fuerzas del Ebro SA (Union Electrica de Cataluna) in Tremp, Spain, from 1922 to 1923. Offered a position at the Swedish Accumulator AB Jungner in Stockholm in 1924. Served as the director of its subsidiary Acumuladores Nife SA in Madrid from 1925 to 1936. Currently back with the company in Stockholm.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "John Harry Nieckels",
+        "birthDate": "1897-06-27",
+        "birthPlace": "Stockholm, Sweden",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm",
+            "addressCountry": "Sweden"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Jan O. Bendix",
+                "jobTitle": "Bookkeeper"
+            },
+            {
+                "@type": "Person",
+                "name": "Matilda Bendix"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Vera Zanders"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "educationalLevel": "High school",
+                "alumniOf": {
+                    "@type": "HighSchool",
+                    "name": "Real Gymnasium",
+                    "location": "Stockholm, Sweden"
+                },
+                "endDate": "1915"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "educationalLevel": "Bachelor's degree",
+                "alumniOf": {
+                    "@type": "CollegeOrUniversity",
+                    "name": "KTH (Royal Institute of Technology)",
+                    "location": "Stockholm, Sweden"
+                },
+                "endDate": "1922",
+                "studyBranch": "Engineering"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Rie-gos y Fuerzas del Ebro SA",
+                "location": "Tremp, Spain",
+                "startDate": "1922",
+                "endDate": "1923",
+                "jobTitle": "Plant Manager"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Accumulator AB Jungner",
+                "location": "Stockholm, Sweden",
+                "startDate": "1924",
+                "jobTitle": "Offered Position"
+            },
+            {
+                "@type": "Organization",
+                "name": "Acumuladores Nife SA",
+                "location": "Madrid, Spain",
+                "startDate": "1925",
+                "endDate": "1936",
+                "jobTitle": "Director"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Stockholm",
+                "industry": "Engineering",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Officer",
+                "workplace": "Coastal Artillery",
+                "industry": "Military",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Plant Manager",
+                "workplace": "Rie-gos y Fuerzas del Ebro SA (Union Electrica de Cataluna)",
+                "industry": "Power Generation",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Acumuladores Nife SA (subsidiary of Swedish Accumulator AB Jungner)",
+                "industry": "Battery Manufacturing",
+                "start_date": "1925"
+            }
+        ]
+    }
+}

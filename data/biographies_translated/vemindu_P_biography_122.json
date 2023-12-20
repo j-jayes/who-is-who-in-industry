@@ -1,0 +1,140 @@
+{
+    "original": "PHARMANSON, Karl Alfred Martin, Bankkamrer, Söderköping, f St Åby, Ögl, 7/9 97 av lantbr J A P o Kalmina Pihl, gm Tyra Johansson. Studex 16. Anst AB Mälareprov:s bk i Etuna 18, Ögl ensk bks Vadstenakont 19—36, styr.led o kont.ch där 34—36, d:o Södkpskont sed. 36. Stdflm, led dräts.kamm, samrealsk:s styr o folksk.styr, överförmynd, rev fam.bidr.nmdn o Brunnslasarettet. Odd Fellow.",
+    "translated": "PHARMANSON, Karl Alfred Martin, Bank Clerk, Söderköping, born in Åby, Ögl, on September 7th, 1897, to farmer J.A.P. and Kalmina Pihl. Married to Tyra Johansson. Completed high school at the age of 16. Employed at AB Mälareprov:s bank in Etuna from 1918, then at enskilda bank's Vadstenakont from 1919 to 1936, serving as board member and branch manager from 1934 to 1936. Transferred to Söderköping's branch since 1936. Involved in local politics, served as a member of the municipal council, board member of samrealskolan (secondary school), and public school board. Also served as guardian, a member of the family benefits committee, and Brunnslasarettet. Member of Odd Fellow.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Karl Alfred Martin Pharmanson",
+        "birthDate": "1897-09-07",
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Åby, Ögl"
+        },
+        "description": "Bank Clerk, Söderköping",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "J.A.P.",
+                "description": "Farmer"
+            },
+            {
+                "@type": "Person",
+                "name": "Kalmina Pihl"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Tyra Johansson"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "highSchool",
+            "name": "Studex",
+            "description": "Completed high school at the age of 16"
+        },
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Bank Clerk",
+                "startDate": "1918",
+                "endDate": "1936",
+                "namedPosition": "AB Mälareprov:s bank",
+                "description": "Employed at AB Mälareprov:s bank in Etuna from 1918"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Bank Clerk",
+                "startDate": "1919",
+                "endDate": "1936",
+                "namedPosition": "enskilda bank's Vadstenakont",
+                "description": "Employed at enskilda bank's Vadstenakont from 1919 to 1936"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Board Member",
+                "startDate": "1934",
+                "endDate": "1936",
+                "namedPosition": "enskilda bank's Vadstenakont",
+                "description": "Served as a board member and branch manager from 1934 to 1936"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Bank Clerk",
+                "startDate": "1936",
+                "namedPosition": "Söderköping's branch",
+                "description": "Transferred to Söderköping's branch since 1936"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Odd Fellow"
+        },
+        "positions": [
+            {
+                "@type": "GovernmentOrganizationRole",
+                "roleName": "Member",
+                "namedPosition": "municipal council",
+                "endDate": "present"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Board Member",
+                "namedPosition": "samrealskolan (secondary school)",
+                "endDate": "present"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Board Member",
+                "namedPosition": "public school board",
+                "endDate": "present"
+            }
+        ],
+        "services": [
+            {
+                "@type": "GovernmentOrganizationRole",
+                "roleName": "Guardian",
+                "endDate": "present"
+            },
+            {
+                "@type": "GovernmentOrganizationRole",
+                "roleName": "Member",
+                "namedPosition": "family benefits committee",
+                "endDate": "present"
+            },
+            {
+                "@type": "GovernmentOrganizationRole",
+                "roleName": "Member",
+                "namedPosition": "Brunnslasarettet",
+                "endDate": "present"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Bank Clerk",
+                "workplace": "AB Mälareprov:s bank",
+                "industry": "Banking",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Branch Manager",
+                "workplace": "enskilda bank's Vadstenakont",
+                "industry": "Banking",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "enskilda bank's Vadstenakont",
+                "industry": "Banking",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Branch Manager",
+                "workplace": "Söderköping's branch",
+                "industry": "Banking",
+                "start_date": "1936"
+            }
+        ]
+    }
+}

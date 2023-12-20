@@ -1,0 +1,78 @@
+{
+    "original": "RAMEN, Åke Gunnar, Direktör, Nyköping, f Hälsingborg 6/3 02 av övering A R o h h, f Jansson, gin Ebba Josephson. Studex 21, Schartaus. Ag Autoinobilfman Åke Ramen AB, gr 29, o Ramens Bilservice AB, gr 33, Nykp. Styr.led i östra Sv Automobilhandl.-frn. Resor: Engl 24, Tyskl 25. Odd Fellow. Hobby : Segling.",
+    "translated": "RAMEN, Åke Gunnar, Director, Nyköping, born Hälsingborg 6/3 02, son of deceased A R and h h, born Jansson, to Ebba Josephson. Graduated at 21, Schartaus. Founder of Ag Autoinobilfman Åke Ramen AB, established in 29, and Ramens Bilservice AB, established in 33, in Nyköping. Board member in Eastern Swedish Automobile Dealers Association. Travelled to England in 24 and Germany in 25. Member of Odd Fellow. Hobby: Sailing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Åke Gunnar Ramen",
+        "jobTitle": "Director",
+        "birthPlace": "Hälsingborg",
+        "birthDate": "1902-03-06",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "A R",
+                "deathDate": "<insert date>"
+            },
+            {
+                "@type": "Person",
+                "name": "h h"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ebba Josephson",
+            "birthDate": "<insert date>"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Schartaus"
+        },
+        "graduationDate": "1921",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Ag Autoinobilfman Åke Ramen AB",
+                "foundingDate": "1929"
+            },
+            {
+                "@type": "Organization",
+                "name": "Ramens Bilservice AB",
+                "foundingDate": "1933"
+            },
+            {
+                "@type": "Organization",
+                "name": "Eastern Swedish Automobile Dealers Association",
+                "roleName": "Board member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Odd Fellow"
+            }
+        ],
+        "hobbies": "Sailing",
+        "additionalProperty": [
+            {
+                "@type": "PropertyValue",
+                "name": "Resor",
+                "value": "England (1924), Germany (1925)"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Ag Autoinobilfman Åke Ramen AB",
+                "industry": "Automotive",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Founder",
+                "workplace": "Ramens Bilservice AB",
+                "industry": "Automotive",
+                "start_date": "1933"
+            }
+        ]
+    }
+}

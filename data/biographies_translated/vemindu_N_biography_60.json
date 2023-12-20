@@ -1,0 +1,68 @@
+{
+    "original": "NILSSON, Carl Edvard, Skohandlare, Arboga, f Fellingsbro, öbr l, 10/8 76, gm Milda Carlsson. Anst h fma Jonsson &amp; Blom Arboga 99—19. Gr eg fma, Edvard Nilsson, skodon, Arboga, 19, inneh dna. Led Sv Skomak.idk o Sv Skohandl.frb, styr.ordf ds Arb.avd. Odd Fellow.",
+    "translated": "NILSSON, Carl Edvard, Shoe merchant, Arboga, b. Fellingsbro, p.o.r.l, 10/8 1876, m. Milda Carlsson. Employed at Jonsson & Blom Arboga 1899-1919. Started own business, Edvard Nilsson, shoes, Arboga, 1919, owner. Member of the Swedish Shoe Industry Association and Swedish Shoe Merchants' Association, board chairman of the Arboga department. Member of Odd Fellow's Lodge.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Edvard Nilsson",
+        "birthDate": "1876-08-10",
+        "birthPlace": "Fellingsbro",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Shoe Industry Association",
+                "url": "https://example.com/swedish-shoe-industry-association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Shoe Merchants' Association",
+                "url": "https://example.com/swedish-shoe-merchants-association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Odd Fellow's Lodge",
+                "url": "https://example.com/odd-fellows-lodge"
+            }
+        ],
+        "jobTitle": "Shoe Merchant",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Jonsson & Blom",
+            "url": "https://example.com/jonsson-blom-arboga"
+        },
+        "employmentStartDate": "1899",
+        "employmentEndDate": "1919",
+        "owns": {
+            "@type": "Organization",
+            "name": "Edvard Nilsson Shoes",
+            "url": "https://example.com/edvard-nilsson-shoes"
+        },
+        "ownsStartDate": "1919",
+        "ownsEndDate": null,
+        "boardChairmanOf": {
+            "@type": "Organization",
+            "name": "Arboga department",
+            "url": "https://example.com/arboga-department"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Milda Carlsson"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Shoe merchant",
+                "workplace": "Jonsson & Blom Arboga",
+                "industry": "Shoe industry",
+                "start_date": "1899-01-01"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "Edvard Nilsson, shoes, Arboga",
+                "industry": "Shoe industry",
+                "start_date": "1919-01-01"
+            }
+        ]
+    }
+}

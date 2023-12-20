@@ -1,0 +1,124 @@
+{
+    "original": "NYBERG, Emil, Bankkamrer, Lindesberg, f Näsby 31/10 83 av Per Erik Nyberg o Maria Larson, gm Ida Anderson. Ldbgs samsk. Anst brukskont 02, kronofogdekont 02—05, Lindes sparbk sed. 05, tf kamr 08—11, ord sed. 11. öv.förmynd, huv.m sparbkn, styr.led öbr l sparbksfrn, ordf Ldbgs städs pens.-kassa, v. ordf o kass Ldbgs skyt.frn. Frimurare; Västmanl l Istfrbs samt öbr l skyt.-frbs ftjSM:er.",
+    "translated": "NYBERG, Emil, Bank Clerk, Lindesberg, born in Näsby on October 31, 1883, son of Per Erik Nyberg and Maria Larson, married to Ida Anderson. Attended school in Lindesberg. Employed at the factory office from 1902, at the district court office from 1902 to 1905, Lindes Savings Bank since 1905. Became acting cashier in 1908, regular cashier since 1911. Also served as trustee, head of the savings bank, and board member of other savings bank associations. Chairman of the Lindesberg Retirement Fund, vice chairman and treasurer of the Lindesberg shooting association. Member of the Freemasons; member of the Västmanland County Rifle Association and other shooting associations, where he has achieved several Swedish championship medals.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Emil Nyberg",
+        "jobTitle": [
+            {
+                "@type": "Role",
+                "title": "Acting Cashier",
+                "startDate": "1908",
+                "endDate": "1911"
+            },
+            {
+                "@type": "Role",
+                "title": "Regular Cashier",
+                "startDate": "1911"
+            },
+            {
+                "@type": "Role",
+                "title": "Trustee"
+            }
+        ],
+        "birthDate": "1883-10-31",
+        "birthPlace": "Näsby",
+        "father": {
+            "@type": "Person",
+            "name": "Per Erik Nyberg"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Maria Larson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Ida Anderson"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Lindesberg School"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Factory Office",
+                "startDate": "1902"
+            },
+            {
+                "@type": "Organization",
+                "name": "District Court Office",
+                "startDate": "1902",
+                "endDate": "1905"
+            },
+            {
+                "@type": "Organization",
+                "name": "Lindes Savings Bank",
+                "startDate": "1905"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Lindesberg Retirement Fund",
+                "roleName": "Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Lindesberg Shooting Association",
+                "roleName": "Vice Chairman and Treasurer"
+            },
+            {
+                "@type": "Organization",
+                "name": "Freemasons"
+            },
+            {
+                "@type": "Organization",
+                "name": "Västmanland County Rifle Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Other Shooting Associations"
+            }
+        ],
+        "additionalName": "Emil Nyberg",
+        "award": [
+            {
+                "@type": [
+                    "Achievement",
+                    "Medal"
+                ],
+                "title": "Swedish Championship Medal"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Bank Clerk",
+                "workplace": "Lindesberg",
+                "industry": "Banking",
+                "start_date": "1902"
+            },
+            {
+                "occupational_title": "District Court Clerk",
+                "workplace": "Lindesberg",
+                "industry": "Legal",
+                "start_date": "1902"
+            },
+            {
+                "occupational_title": "Acting Cashier",
+                "workplace": "Lindes Savings Bank",
+                "industry": "Banking",
+                "start_date": "1908"
+            },
+            {
+                "occupational_title": "Regular Cashier",
+                "workplace": "Lindes Savings Bank",
+                "industry": "Banking",
+                "start_date": "1911"
+            }
+        ]
+    }
+}

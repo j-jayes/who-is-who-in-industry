@@ -1,0 +1,141 @@
+{
+    "original": "PEBSSON, Carl Wilhelm (C W), Direktör, Frölundaberg, f Gbg 20/11 68 av Carl Persson o h h Sofia, gm Gerda Pettersson. Nääs slöjdsk, ges.brev f org o glasmäst. Anst Magnus Lind o Louis Fehr 82—90, eg fma Ferm &amp; Persson, glasm, nietallfabr, f or g mm, grund 94, AB 97, vkst dir där sed. 97. Ag fastigh Gbg. Komm.flm, komm.st.ordf V Frölunda. Fd v. ordf Sv Mässan, styr.led Gbgs Hantv-o Ind.frn, Sv Hantv.org, Gbgs srlasmästerifrn mfl. Resor: Tyskl, Engl, Frankr mfl. RVO, Sv Hantv.org GM. Hobby: Den dagl syssels.",
+    "translated": "PEBSSON, Carl Wilhelm (C W), Director, Frölundaberg, b. Gothenburg 20/11 68, son of Carl Persson and Sofia, md Gerda Pettersson. Nääs craft school, certificate of proficiency in crafts and glassblowing. Employee Magnus Lind and Louis Fehr 82—90, owner of Ferm & Persson, glassworks and metal factory, founded in 94, AB 97, appointed managing director since 97. Owns property in Gothenburg. Member of the municipal film committee, municipal deputy chairman of V Frölunda. Former vice chairman of the Swedish Fair, board member of the Gothenburg Crafts and Industry Association, Swedish Crafts Organization, Gothenburg Glassmasters, and others. Has traveled to Germany, England, France, and others. Knight of the Royal Order of Vasa, member of the Swedish Crafts Organization's gold medal committee. Hobby: Needlework.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Carl Wilhelm",
+        "additionalName": "C W",
+        "familyName": "Pebsson",
+        "birthDate": "1868-11-20",
+        "birthPlace": "Gothenburg",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Carl Persson",
+                "sameAs": "father"
+            },
+            {
+                "@type": "Person",
+                "name": "Sofia",
+                "sameAs": "mother"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Gerda Pettersson",
+            "sameAs": "wife"
+        },
+        "occupation": "Director",
+        "workLocation": "Frölundaberg",
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "educationLevel": "Crafts Certificate",
+            "educationalRole": "Nääs Craft School"
+        },
+        "employment": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1882",
+                "endDate": "1890",
+                "roleName": "Employee",
+                "namedPosition": "Ferm & Persson (Glassworks and Metal Factory)"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1894",
+                "namedPosition": "Owner",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Ferm & Persson (Glassworks and Metal Factory)"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1897",
+                "roleName": "Managing Director",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "AB (Ferm & Persson)"
+                }
+            }
+        ],
+        "owns": {
+            "@type": "Place",
+            "name": "Property in Gothenburg"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Municipal Film Committee"
+            },
+            {
+                "@type": "Organization",
+                "name": "V Frölunda"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Fair",
+                "formerViceChair": true
+            },
+            {
+                "@type": "Organization",
+                "name": "Gothenburg Crafts and Industry Association",
+                "boardMember": true
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Crafts Organization",
+                "goldMedalCommitteeMember": true
+            },
+            {
+                "@type": "Organization",
+                "name": "Gothenburg Glassmasters",
+                "boardMember": true
+            }
+        ],
+        "hobby": "Needlework",
+        "travel": [
+            "Germany",
+            "England",
+            "France"
+        ],
+        "honorificPrefix": "Sir",
+        "awards": {
+            "@type": "Order",
+            "name": "Royal Order of Vasa"
+        },
+        "additionalProperty": {
+            "@type": "OrganizationalCredential",
+            "name": "Swedish Crafts Organization's Gold Medal"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Frölundaberg",
+                "industry": null,
+                "start_date": null
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Magnus Lind and Louis Fehr",
+                "industry": null,
+                "start_date": "1882"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "Ferm & Persson",
+                "industry": "Glassworks and Metal Factory",
+                "start_date": "1894"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "AB",
+                "industry": null,
+                "start_date": "1997"
+            }
+        ]
+    }
+}

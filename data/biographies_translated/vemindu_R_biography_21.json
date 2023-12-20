@@ -1,0 +1,156 @@
+{
+    "original": "RASCH, Lars Herman, Civilingenjör Stockholm, f Forssån, Gävleb l, 4/4 79 av konsul E R o Carolina Ferner, gm (2) El Sofie Tisell. Ex CTH 00, prakt inom textil- o papp.-bransch. Dir f papp- o pappersfabr :r i Ryssl 01—16, eg aff.verksh f imp av råmtrl fr Ryssl sed. 16. Iscensatt film :a Karl XII o Fänr Ståls sägn 23—26. Ordf sv hdlskomm i Petro-grad 16—17. Omf studieres Europa o Amerika 19—39. RVO, FrdeMagr, TyRKHt mkrgd, olymp komm :s plak. Hobbies: Konststud o saml av äldre konst (ag värdef saml höll, fr, «p o ital tavl), ridning (segr i fi ryttartävl).",
+    "translated": "RASCH, Lars Herman, Engineer Stockholm, b. Forssån, Gävle county, 4th April 1879 to Consul E R and Carolina Ferner. m. (2) El Sofie Tisell. Former student at CTH (Swedish Royal Institute of Technology) in 1900, worked within the textile and paper industry. Director of paper and paper mill companies in Russia from 1901 to 1916, owned own import business for raw materials from Russia since 1916. Produced films about Karl XII and Fänr Ståls sägn from 1923 to 1926. Chairman of the Swedish Trade Commission in Petrograd (St. Petersburg) from 1916 to 1917. Extensive studies in Europe and America from 1919 to 1939. Received Royal Order of Vasa, Commander of the First Class (RVO), Order of the Polar Star, Knight of the First Class (FrdeMagr), Turkish Red Crescent Medal (TyRKHt mkrgd), and Olympic Committee's plaque. Hobbies: Art studies and collection of older art (possessing valuable collection including paintings from France and Italy), horseback riding (won in equestrian competitions).\n\nNote: The abbreviation \"gm\" means \"married.\"",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "givenName": "Lars Herman",
+        "familyName": "Rasch",
+        "birthDate": "1879-04-04",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Forssån",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Gävle county"
+            }
+        },
+        "description": "Civil Engineer",
+        "nationality": "Swedish",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Consul E R Rasch"
+            },
+            {
+                "@type": "Person",
+                "name": "Carolina Ferner"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "El Sofie Tisell"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "civilingenjör",
+                "alumniOf": {
+                    "@type": "CollegeOrUniversity",
+                    "name": "Swedish Royal Institute of Technology"
+                },
+                "endDate": "1900"
+            }
+        ],
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "title": "Textile and Paper Industry",
+                "startDate": "1901",
+                "endDate": "1916"
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Director",
+                "startDate": "1901",
+                "endDate": "1916",
+                "organization": {
+                    "@type": "Corporation",
+                    "name": "Paper and Paper Mill Companies in Russia"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Import Business Owner",
+                "startDate": "1916",
+                "ownedThrough": "Russia",
+                "description": "Raw Materials"
+            }
+        ],
+        "filmographic": [
+            {
+                "@type": "CreativeWork",
+                "name": "Karl XII"
+            },
+            {
+                "@type": "CreativeWork",
+                "name": "Fänr Ståls sägn"
+            }
+        ],
+        "positions": [
+            {
+                "@type": "OrganizationRole",
+                "title": "Chairman",
+                "startDate": "1916",
+                "endDate": "1917",
+                "organization": {
+                    "@type": "Corporation",
+                    "name": "Swedish Trade Commission in Petrograd"
+                }
+            }
+        ],
+        "studies": [
+            {
+                "@type": "Intangible",
+                "name": "Extensive Studies in Europe and America",
+                "startDate": "1919",
+                "endDate": "1939"
+            }
+        ],
+        "awards": [
+            {
+                "@type": "Order",
+                "name": "Royal Order of Vasa",
+                "awardCategory": "Commander of the First Class"
+            },
+            {
+                "@type": "Order",
+                "name": "Order of the Polar Star",
+                "awardCategory": "Knight of the First Class"
+            },
+            {
+                "@type": "Order",
+                "name": "Turkish Red Crescent Medal",
+                "awardCategory": "mkrgd"
+            }
+        ],
+        "hobbies": [
+            "Art studies and collection of older art",
+            "Horseback riding"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Stockholm",
+                "industry": "Engineering",
+                "start_date": "unknown"
+            },
+            {
+                "occupational_title": "Director of paper and paper mill companies",
+                "workplace": "Russia",
+                "industry": "Textile and Paper",
+                "start_date": "1901"
+            },
+            {
+                "occupational_title": "Owner of import business",
+                "workplace": "own business",
+                "industry": "Raw Material",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Film Producer",
+                "workplace": "unknown",
+                "industry": "Film",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Chairman of the Swedish Trade Commission",
+                "workplace": "Petrograd (St. Petersburg)",
+                "industry": "Trade",
+                "start_date": "1916"
+            }
+        ]
+    }
+}

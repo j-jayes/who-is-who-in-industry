@@ -1,0 +1,130 @@
+{
+    "original": "PERSSON, Oscar, Ingenjör, Fagersta, f Lund 7/10 96 av stationsmäst N P P o Maria Jönsson, gm Inez Hansson. Ex tekn gymn i Örebro (maskintekn) 24. Verkst.prakt 10—21, anst v örlogsvarvet i Kkrona, ing.dep, 24—29, Eriksbergs Mek Verkst i Gbg 29—34, Jönkps Mek Verkst 34—37, verkst.ing f plåtslageri-o svetsn.verkstäderna v Fagersta Bruks AB sed. 37. Led av Västanfors arb.lösh.kté. Resor: Danm 35, Norge 39.",
+    "translated": "PERSSON, Oscar, Engineer, Fagersta, b Lund 7/10 96 to station master N P P and Maria Jönsson, m Inez Hansson. Former technical gymnastics student in Örebro (mechanical engineering) '24. Practical work from '10-'21, employed at the naval yard in Karlskrona, engineering department, '24-'29, Eriksberg Mechanical Workshop in Gothenburg '29-'34, Jönköping Mechanical Workshop '34-'37, chief engineer at the metalworking and welding workshops of Fagersta Bruks AB since '37. Member of the Västanfors unemployment committee. Travels: Denmark '35, Norway '39.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Oscar",
+        "familyName": "Persson",
+        "additionalName": "Ingenjör",
+        "birthPlace": "Fagersta",
+        "birthDate": "1896-10-07",
+        "father": {
+            "@type": "Person",
+            "givenName": "N P P",
+            "familyName": "Persson"
+        },
+        "mother": {
+            "@type": "Person",
+            "givenName": "Maria",
+            "familyName": "Jönsson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "givenName": "Inez",
+            "familyName": "Hansson"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "mechanical engineering",
+            "educationalLevel": "Technical Gymnasium",
+            "educationalRole": "student",
+            "alumniOf": {
+                "@type": "EducationalOrganization",
+                "name": "Örebro"
+            },
+            "startDate": "1924"
+        },
+        "workExperience": [
+            {
+                "@type": "WorkExperience",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Örlogsvarvet i Karlskrona"
+                },
+                "position": "Employed",
+                "startDate": "1924",
+                "endDate": "1929"
+            },
+            {
+                "@type": "WorkExperience",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Eriksbergs Mekaniska Verkstads AB"
+                },
+                "position": "Employed",
+                "startDate": "1929",
+                "endDate": "1934"
+            },
+            {
+                "@type": "WorkExperience",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Jönköpings Mekaniska Verkstad AB"
+                },
+                "position": "Chief Engineer",
+                "startDate": "1934",
+                "endDate": "1937"
+            },
+            {
+                "@type": "WorkExperience",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Fagersta Bruks AB (plåtslageri- och svetsn. verkstäderna)"
+                },
+                "position": "Chief Engineer",
+                "startDate": "1937"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Västanfors arbetslöshetskassa"
+        },
+        "travelHistory": [
+            {
+                "@type": "Place",
+                "name": "Denmark",
+                "startDate": "1935"
+            },
+            {
+                "@type": "Place",
+                "name": "Norway",
+                "startDate": "1939"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Technical Gymnastics Student",
+                "workplace": "Örebro",
+                "industry": "Mechanical Engineering",
+                "start_date": "'24"
+            },
+            {
+                "occupational_title": "Practical Worker",
+                "workplace": "Naval Yard in Karlskrona",
+                "industry": "Engineering",
+                "start_date": "'10"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Eriksberg Mechanical Workshop in Gothenburg",
+                "industry": "Mechanical Engineering",
+                "start_date": "'29"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Jönköping Mechanical Workshop",
+                "industry": "Mechanical Engineering",
+                "start_date": "'34"
+            },
+            {
+                "occupational_title": "Chief Engineer",
+                "workplace": "Fagersta Bruks AB",
+                "industry": "Metalworking and Welding",
+                "start_date": "'37"
+            }
+        ]
+    }
+}

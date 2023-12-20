@@ -1,0 +1,97 @@
+{
+    "original": "PERSON, Karl Fredrik Göran, Disponent, Stockholm, f Sthlm 15/8 98 av köpm F O P o Hanna Lundberg, gm Gunhild Pettersson. Realex NReal 14, språk- o hdlskrs. Kont i kemik- o metallbr 17—27, kamrer o styr.led Holmströms Metallaff AB 27—36, kamr AB Bil- o Metallprod 37—41, disp sed. 41. Resor: Tyskl 21, 23, 24. Hobby: Fiske.",
+    "translated": "PERSON, Karl Fredrik Göran, Manager, Stockholm, born in Stockholm on August 15, 1898, to merchant F O P and Hanna Lundberg, married to Gunhild Pettersson. Completed lower secondary education in 1914, followed by language and commerce studies. Worked in the chemical and metal industry from 1917 to 1927, then served as treasurer and board member at Holmström's Metal Shop AB from 1927 to 1936. Became treasurer at AB Car and Metal Products from 1937 to 1941, and has been manager since 1941. Traveled to Germany in 1921, 1923, and 1924. Hobby: Fishing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Karl Fredrik Göran Person",
+        "jobTitle": "Manager",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "birthDate": "1898-08-15",
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Stockholm"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "F O P"
+            },
+            {
+                "@type": "Person",
+                "name": "Hanna Lundberg"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Gunhild Pettersson"
+        },
+        "education": {
+            "@type": "EducationEvent",
+            "startDate": "1914",
+            "endDate": "1914",
+            "educationalLevel": "Lower Secondary"
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "AB Car and Metal Products",
+            "jobTitle": "Treasurer",
+            "startDate": "1937-01-01",
+            "endDate": "1941-12-31"
+        },
+        "hobbies": [
+            "Fishing"
+        ],
+        "travels": [
+            {
+                "@type": "TravelEvent",
+                "name": "Trip to Germany",
+                "startDate": "1921-01-01",
+                "endDate": "1921-12-31"
+            },
+            {
+                "@type": "TravelEvent",
+                "name": "Trip to Germany",
+                "startDate": "1923-01-01",
+                "endDate": "1923-12-31"
+            },
+            {
+                "@type": "TravelEvent",
+                "name": "Trip to Germany",
+                "startDate": "1924-01-01",
+                "endDate": "1924-12-31"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Disponent",
+                "workplace": "Stockholm",
+                "industry": "Unknown",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Kamrer o styr.led",
+                "workplace": "Holmströms Metallaff AB",
+                "industry": "Metal Shop",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Kamr AB Bil- o Metallprod",
+                "workplace": "AB Car and Metal Products",
+                "industry": "Car and Metal Products",
+                "start_date": "1937"
+            },
+            {
+                "occupational_title": "Disp",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "1941"
+            }
+        ]
+    }
+}

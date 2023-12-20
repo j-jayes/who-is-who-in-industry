@@ -1,0 +1,224 @@
+{
+    "original": "NYGREN, Erik Wilhelm, Direktör, Smedslätten, f Alvesta 28/3 97 av handl O N o Elin Johansson, gm Greta Carlsson. Studex 16, ex Malmö hdlsgymn 18. Tf kont.skr statjvgsbyggn 18, bokh o kass Grytgöls br AB 18—22, omb.m Sv köpmfrb 22—31, dir.ass AB Hakon Swenson 31—42, vkst dir Sv järn-handl.frns centralstyr sed. 42. Styr.led AB Hakon Swenson, Etuna jernmanuf.AB, förs.-bol Hermes, ol.fallsförs.bol Mercur, Sv köpmfrb o dess arb.utskott. Stdsflm Sthlm 27—29, 2:a kamm 29—32. Resor: Tyskl (stip) 22, Engl Holl, Frankr, Belg-, Ital de Skand länd, USA 31. Av trycket: fi smaskr, omf journ verksamh, medförf t Bilder ur lanthdlns hist (43). Sv köpmfrbs ftjt.",
+    "translated": "NYGREN, Erik Wilhelm, Director, Smedslätten, born in Alvesta on March 28, 1897, to the merchant O N and Elin Johansson. Married to Greta Carlsson. Studied until age 16, graduated from Malmö Commercial High School in 1918. Acting accountant for state road construction in 1918, bookkeeper and cashier for Grytgöls Brass AB from 1918 to 1922, representative for the Swedish Commercial Federation from 1922 to 1931, assistant director of AB Hakon Swenson from 1931 to 1942, and growth director of the Swedish Ironmongery Association's central board since 1942. Board member of AB Hakon Swenson, Etuna Iron Manufacturing AB, insurance company Hermes, oil spill insurance company Mercur, Swedish Commercial Federation, and its working committee. City councilor in Stockholm from 1927 to 1929, member of the second chamber from 1929 to 1932. Travels: Germany (fellowship) in 1922, England, Netherlands, France, Belgium, Italy, the Scandinavian countries, and the USA in 1931. Published: several small-scale works, extensive journal activity, co-author of \"Pictures from the History of Rural Trade\" (1943). Swedish Commercial Federation's honorary member.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Erik Wilhelm Nygren",
+        "jobTitle": "Director",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Smedslätten",
+            "addressLocality": "Alvesta"
+        },
+        "birthDate": "1897-03-28",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "O. N. Nygren",
+                "jobTitle": "Merchant"
+            },
+            {
+                "@type": "Person",
+                "name": "Elin Johansson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Greta Carlsson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "secondary",
+                "name": "Malmö Commercial High School",
+                "startDate": "1918",
+                "endDate": "1918"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "State Road Construction"
+                },
+                "startDate": "1918",
+                "endDate": "1918",
+                "roleName": "Acting Accountant"
+            },
+            {
+                "@type": "OrganizationRole",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Grytgöls Brass AB"
+                },
+                "startDate": "1918",
+                "endDate": "1922",
+                "roleName": "Bookkeeper and Cashier"
+            },
+            {
+                "@type": "OrganizationRole",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Swedish Commercial Federation"
+                },
+                "startDate": "1922",
+                "endDate": "1931",
+                "roleName": "Representative"
+            },
+            {
+                "@type": "OrganizationRole",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "AB Hakon Swenson"
+                },
+                "startDate": "1931",
+                "endDate": "1942",
+                "roleName": "Assistant Director"
+            },
+            {
+                "@type": "OrganizationRole",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Swedish Ironmongery Association"
+                },
+                "startDate": "1942",
+                "roleName": "Growth Director"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "AB Hakon Swenson"
+            },
+            {
+                "@type": "Organization",
+                "name": "Etuna Iron Manufacturing AB"
+            },
+            {
+                "@type": "Organization",
+                "name": "Hermes",
+                "alternateName": "Insurance Company"
+            },
+            {
+                "@type": "Organization",
+                "name": "Mercur",
+                "alternateName": "Oil Spill Insurance Company"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Commercial Federation"
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Swedish Commercial Federation",
+            "memberOf": [
+                {
+                    "@type": "Organization",
+                    "name": "Working Committee"
+                }
+            ]
+        },
+        "politicalCareer": [
+            {
+                "@type": "GovernmentOrganization",
+                "name": "Stockholm City Council",
+                "startDate": "1927",
+                "endDate": "1929"
+            },
+            {
+                "@type": "GovernmentOrganization",
+                "name": "Second Chamber",
+                "startDate": "1929",
+                "endDate": "1932"
+            }
+        ],
+        "travels": [
+            {
+                "@type": "Trip",
+                "name": "Germany",
+                "startDate": "1922",
+                "fellowship": true
+            },
+            {
+                "@type": "Trip",
+                "name": "England"
+            },
+            {
+                "@type": "Trip",
+                "name": "Netherlands"
+            },
+            {
+                "@type": "Trip",
+                "name": "France"
+            },
+            {
+                "@type": "Trip",
+                "name": "Belgium"
+            },
+            {
+                "@type": "Trip",
+                "name": "Italy"
+            },
+            {
+                "@type": "Trip",
+                "name": "Scandinavian Countries"
+            },
+            {
+                "@type": "Trip",
+                "name": "United States"
+            }
+        ],
+        "publications": [
+            {
+                "@type": "Book",
+                "name": "Pictures from the History of Rural Trade",
+                "datePublished": "1943",
+                "authors": [
+                    "Erik Wilhelm Nygren"
+                ]
+            }
+        ],
+        "award": {
+            "@type": "Organization",
+            "name": "Swedish Commercial Federation",
+            "alternateName": "Honorary Member"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Acting accountant",
+                "workplace": "State road construction",
+                "industry": "Government",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Bookkeeper and cashier",
+                "workplace": "Grytgöls Brass AB",
+                "industry": "Manufacturing",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Representative",
+                "workplace": "Swedish Commercial Federation",
+                "industry": "Commerce",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Assistant director",
+                "workplace": "AB Hakon Swenson",
+                "industry": "Commerce",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Growth director",
+                "workplace": "Swedish Ironmongery Association's central board",
+                "industry": "Commerce",
+                "start_date": "1942"
+            }
+        ]
+    }
+}

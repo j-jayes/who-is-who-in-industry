@@ -1,0 +1,103 @@
+{
+    "original": "OLSEN, Sture Ejnar Adrian, Bokhandlare, Ronneby, f Runsten, Kalm l, 16/1 92 av hdls-res J P A O o Jenny Johansson, gm Julia Nilsson. Realex Kmr 08. Anst fma N-A Dillbergs bokhdl Kmr 09, bokhdl Gävle, Ljusdal, Etuna, Malmö, Oskarsh, förest AB G Berlings bokhdl Rby (omf av papp.dhl o accid.tr m bokbind) fr 28, vkst dir sed. 35 o ag av aktiemaj. Styr.led Blek boktr.frn, rev Rby köpmfrn, v. ordf Rby manskör. Studieres Danm o Tyskl 25. Blek sångarfrbs ftJM. Hobby: Manskörsång.",
+    "translated": "OLSEN, Sture Ejnar Adrian, Bookstore owner, Ronneby, born in Runsten, Kalmar l, on January 16, 1892, son of merchant-res J P A O and Jenny Johansson, married to Julia Nilsson. Attended Realex (Ronneby Secondary School) from 1908. Employed at N-A Dillbergs bookstore from 1909, worked at bookstores in Gävle, Ljusdal, Etuna, Malmö, and Oskarshamn. Became the manager of AB G Berlings bookstore in Ronneby in 1928, which included paper trade and bookbinding. Promoted to growth director in 1935 and became a shareholder in the company. Serves as a board member of Blek boktryckeri AB, chairman of Rby köpmannaförening (Ronneby Merchants Association), and vice chairman of Rby manskör (Ronneby Men's Choir). Studied in Denmark and Germany in 1925. Active member of the Blekinge Singers' Association from the Maritime Administration. Hobby: Male choir singing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Sture Ejnar Adrian Olsen",
+        "birthDate": "1892-01-16",
+        "birthPlace": "Runsten, Kalmar l",
+        "nationality": "Swedish",
+        "occupation": "Bookstore owner",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "AB G Berlings bokhdl",
+                "startDate": "1928",
+                "jobTitle": "Manager"
+            },
+            {
+                "@type": "Organization",
+                "name": "N-A Dillbergs bokhdl",
+                "startDate": "1909",
+                "endDate": "1928",
+                "jobTitle": "Employee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Blek boktryckeri AB",
+                "jobTitle": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Rby köpmannaförening",
+                "jobTitle": "Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Rby manskör",
+                "jobTitle": "Vice Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Blekinge Singers' Association",
+                "startDate": "1925",
+                "jobTitle": "Active Member"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Julia Nilsson"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "J P A O"
+            },
+            {
+                "@type": "Person",
+                "name": "Jenny Johansson"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Realex",
+                "location": "Ronneby",
+                "startDate": "1908",
+                "endDate": null
+            }
+        ],
+        "hobbies": [
+            "Manskörsång"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Bookstore owner",
+                "workplace": "Ronneby",
+                "industry": "Retail",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "AB G Berlings bookstore, Ronneby",
+                "industry": "Retail (Bookstore)",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "N-A Dillbergs bookstore",
+                "industry": "Retail (Bookstore)",
+                "start_date": "1909"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Bookstores in Gävle, Ljusdal, Etuna, Malmö, and Oskarshamn",
+                "industry": "Retail (Bookstore)",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

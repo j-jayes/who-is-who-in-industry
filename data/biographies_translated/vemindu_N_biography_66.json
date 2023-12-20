@@ -1,0 +1,101 @@
+{
+    "original": "NILSSON, Ernst, Möbelhandlare, Vislanda, f 22/10 85 av byggm N P Andersson o Ingrid-Lena Andersson, gm Ester Samuelsson. Folksk, hdlssk. Anst John O Brain Co, Somers, Mont, USA, f heminredn 03—07, försälj Montgomery Ward &amp; Co Chicago 07—09. Eg möb-leringsaff und fma Ernst Nilsson, Vislanda, sed. 09, fil Ryd sed. 15. Resor: Danm, Engl, Irl, Canada, USA. Hobby: Affärsrörelsen.",
+    "translated": "NILSSON, Ernst, Furniture dealer, Vislanda, b. 22/10 1885 to builder N P Andersson and Ingrid-Lena Andersson, m. Ester Samuelsson. Primary school, trade school. Employed at John O Brain Co, Somers, Mont, USA, working in interior design from 1903 to 1907, sales at Montgomery Ward & Co Chicago from 1907 to 1909. Established own furniture store named Ernst Nilsson, Vislanda, since 1909, moved to Ryd in 1915. Travels: Denmark, England, Ireland, Canada, USA. Hobby: Business ventures.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Ernst Nilsson",
+        "birthDate": "1885-10-22",
+        "birthPlace": "Vislanda, Sweden",
+        "description": "Furniture dealer",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "N P Andersson",
+                "description": "Builder"
+            },
+            {
+                "@type": "Person",
+                "name": "Ingrid-Lena Andersson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ester Samuelsson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Primary school"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Trade school"
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "John O Brain Co"
+        },
+        "workLocation": [
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Somers",
+                    "addressRegion": "Montana",
+                    "addressCountry": "USA"
+                }
+            },
+            {
+                "@type": "Place",
+                "name": "Montgomery Ward & Co",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Chicago",
+                    "addressCountry": "USA"
+                }
+            }
+        ],
+        "occupation": "Furniture dealer",
+        "owns": {
+            "@type": "Organization",
+            "name": "Ernst Nilsson"
+        },
+        "moveLocation": {
+            "@type": "Place",
+            "name": "Ryd",
+            "startDate": "1915"
+        },
+        "traveled": [
+            "Denmark",
+            "England",
+            "Ireland",
+            "Canada",
+            "USA"
+        ],
+        "hobby": "Business ventures"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Furniture dealer",
+                "workplace": "Ernst Nilsson",
+                "industry": "Furniture retail",
+                "start_date": "1909"
+            },
+            {
+                "occupational_title": "Interior designer",
+                "workplace": "John O Brain Co",
+                "industry": "Interior design",
+                "start_date": "1903"
+            },
+            {
+                "occupational_title": "Salesperson",
+                "workplace": "Montgomery Ward & Co",
+                "industry": "Retail",
+                "start_date": "1907"
+            }
+        ]
+    }
+}

@@ -1,0 +1,179 @@
+{
+    "original": "NYSTRÖM, Carl Olof Axel, överstelöjtnant, Äppelviken, f Sthlm 11/12 74 av fil o med dr C L H N o Emily Skiöldebrand, gm Frida Colliander. Uljt v Fort 95, övljt 24, kurs KTH 01—02. Stdflm Sthlm 23—27, kyrkoflm Bromma sed. 32, led kyrkoråd o kyrkog.nmd. Styr.led Skånska Cement AB, AB Ifövkn, Slite Cement- o Kalk AB, AB Rörstrands Porslins-fabr o (29—43) Gbgs Kexfabr AB. Resor: USA 21. RSO, RVO, GM medb förtjänst.",
+    "translated": "NYSTRÖM, Carl Olof Axel, Lieutenant Colonel, Äppelviken, b. Stockholm 11/12 74, son of C L H N, PhD, and Emily Skiöldebrand, married to Frida Colliander. Joined the army in 1895, promoted to Colonel in 1924, attended a course at KTH in 1901-1902. Resided in Stockholm from 1923 to 1927, then moved to Bromma. Served on the church council and cemetery board. Board member of Skånska Cement AB, AB Ifövkn, Slite Cement and Lime AB, AB Rörstrands Porslins-fabr, and (from 1929 to 1943) Gbgs Kexfabr AB. Travelled to the USA in 1921. Received Royal Order of the Sword, Royal Order of Vasa, and Medal for Merit..",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Olof Axel Nyström",
+        "givenName": "Carl Olof Axel",
+        "familyName": "Nyström",
+        "birthDate": "1874-12-11",
+        "birthPlace": "Stockholm",
+        "nationality": "Swedish",
+        "description": "Lieutenant Colonel",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Äppelviken"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "C L H N",
+                "description": "PhD"
+            },
+            {
+                "@type": "Person",
+                "name": "Emily Skiöldebrand"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Frida Colliander"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "DoctoralDegree",
+                "alumniOf": "KTH"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1895",
+                "endDate": "1924",
+                "roleName": "Colonel"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1924",
+                "roleName": "Lieutenant Colonel"
+            }
+        ],
+        "locationHistory": [
+            {
+                "@type": "Place",
+                "name": "Stockholm",
+                "startDate": "1923",
+                "endDate": "1927"
+            },
+            {
+                "@type": "Place",
+                "name": "Bromma"
+            }
+        ],
+        "communityAffiliations": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Church Council",
+                "startDate": "continued from 1932"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Cemetery Board",
+                "startDate": "continued from 1932"
+            }
+        ],
+        "boardMemberships": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Skånska Cement AB",
+                "startDate": "unknown"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "AB Ifövkn",
+                "startDate": "unknown"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Slite Cement and Lime AB",
+                "startDate": "unknown"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "AB Rörstrands Porslins-fabr",
+                "startDate": "unknown"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Gbgs Kexfabr AB",
+                "startDate": "1929",
+                "endDate": "1943"
+            }
+        ],
+        "travels": [
+            {
+                "@type": "TravelEvent",
+                "name": "USA",
+                "startDate": "1921"
+            }
+        ],
+        "awards": [
+            {
+                "@type": "Order",
+                "awardName": "Royal Order of the Sword"
+            },
+            {
+                "@type": "Order",
+                "awardName": "Royal Order of Vasa"
+            },
+            {
+                "@type": "Medal",
+                "awardName": "Medal for Merit"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Lieutenant Colonel",
+                "workplace": "Swedish Army",
+                "industry": "Military",
+                "start_date": "1895"
+            },
+            {
+                "occupational_title": "Colonel",
+                "workplace": "Swedish Army",
+                "industry": "Military",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": null,
+                "workplace": "KTH",
+                "industry": "Education",
+                "start_date": "1901"
+            },
+            {
+                "occupational_title": null,
+                "workplace": "KTH",
+                "industry": "Education",
+                "start_date": "1902"
+            },
+            {
+                "occupational_title": null,
+                "workplace": "Unknown/Not specified",
+                "industry": null,
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": null,
+                "workplace": "Unknown/Not specified",
+                "industry": null,
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": null,
+                "workplace": "Bromma",
+                "industry": null,
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": null,
+                "workplace": "Unknown/Not specified",
+                "industry": null,
+                "start_date": "1943"
+            }
+        ]
+    }
+}

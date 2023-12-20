@@ -1,0 +1,216 @@
+{
+    "original": "PAULSON, Joël, fd Direktör, Halmstad, f Knäred, Hall l, 17/4 78 av lantbr Paul Svenson o Botilda Bengtson, gm Augusta Hanson. Frälsningsarméns krigssk i Sthlm 98. Anst h grosshandl Alfr Jacobson i Knäred 92—93, h handl Fred Andrén i Gbg 94—96 o h dir David Hedenberg i Horred 97, etabl eg fma i Horred 99, flyttade den t Varberg 13, ombild den t bolag 16 o flyttade detta t Halmstad 17 (fma Hallands Varuhus, filial i Fritsla 05, i Falkenberg, Båstad o Oskarström 15). Ag två fastigh i Halmstad samt minnesparken Nebo i Veinge. Resor: Tyskl 21 o 28, Norge 31, Danm 34, Engl 37. Publ tidn.artiklar om rese- o 50-årsminnen, sysselsatt m arb på en ordspråks- o historiesamling, inneh halländsk foto- o husgerådssarnling, init.tag t minnesstenen öv freden i Knäred 1613.",
+    "translated": "PAULSON, Joël, retired Director, Halmstad, born in Knäred, Halland county, 17/4 1878, son of farmer Paul Svenson and Botilda Bengtson, married to Augusta Hanson. Graduated from the Salvation Army War College in Stockholm in 1898. Employed by wholesale merchant Alfr Jacobson in Knäred from 1892 to 1893, merchant Fred Andrén in Gothenburg from 1894 to 1896, and Director David Hedenberg in Horred in 1897. Established own business in Horred in 1899, moved to Varberg in 1913, reorganized as a company in 1916, and relocated to Halmstad in 1917 (Hallands Varuhus branch in Fritsla since 1905, in Falkenberg, Båstad, and Oskarström since 1915). Owner of two properties in Halmstad and the memorial park Nebo in Veinge. Travelled to Germany in 1921 and 1928, Norway in 1931, Denmark in 1934, and England in 1937. Published newspaper articles about travel and 50-year memories, engaged in work on a collection of proverbs and history, housed a collection of photos and household items from Halland, and initiated the memorial stone for the peace in Knäred in 1613.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Joël Paulson",
+        "jobTitle": "Retired Director",
+        "birthDate": "1878-04-17",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Knäred",
+                "addressRegion": "Halland",
+                "addressCountry": "Sweden"
+            }
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Paul Svenson",
+                "jobTitle": "Farmer"
+            },
+            {
+                "@type": "Person",
+                "name": "Botilda Bengtson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Augusta Hanson"
+        },
+        "education": {
+            "@type": "CollegeOrUniversity",
+            "name": "Salvation Army War College",
+            "location": "Stockholm",
+            "startDate": "1898"
+        },
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "Alfr Jacobson",
+                "jobTitle": "Wholesale Merchant",
+                "location": "Knäred",
+                "startDate": "1892",
+                "endDate": "1893"
+            },
+            {
+                "@type": "Organization",
+                "name": "Fred Andrén",
+                "jobTitle": "Merchant",
+                "location": "Gothenburg",
+                "startDate": "1894",
+                "endDate": "1896"
+            },
+            {
+                "@type": "Organization",
+                "name": "David Hedenberg",
+                "jobTitle": "Director",
+                "location": "Horred",
+                "startDate": "1897"
+            },
+            {
+                "@type": "Organization",
+                "name": "Joël Paulson",
+                "jobTitle": "Founder",
+                "location": "Horred",
+                "startDate": "1899"
+            },
+            {
+                "@type": "Organization",
+                "name": "Hallands Varuhus",
+                "jobTitle": "Branch Manager",
+                "location": [
+                    "Fritsla",
+                    "Falkenberg",
+                    "Båstad",
+                    "Oskarström"
+                ],
+                "startDate": "1905",
+                "endDate": "1917"
+            }
+        ],
+        "owns": [
+            {
+                "@type": "OwnershipInfo",
+                "typeOfGood": "Property",
+                "ownedFrom": "1917"
+            },
+            {
+                "@type": "OwnershipInfo",
+                "typeOfGood": "Property",
+                "ownedFrom": "Year of purchase"
+            },
+            {
+                "@type": "OwnershipInfo",
+                "typeOfGood": "Park",
+                "ownedFrom": "Year of establishment",
+                "name": "Nebo",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Veinge"
+                    }
+                }
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "Place",
+                "name": "Germany",
+                "startDate": "1921",
+                "endDate": "1921"
+            },
+            {
+                "@type": "Place",
+                "name": "Germany",
+                "startDate": "1928",
+                "endDate": "1928"
+            },
+            {
+                "@type": "Place",
+                "name": "Norway",
+                "startDate": "1931",
+                "endDate": "1931"
+            },
+            {
+                "@type": "Place",
+                "name": "Denmark",
+                "startDate": "1934",
+                "endDate": "1934"
+            },
+            {
+                "@type": "Place",
+                "name": "England",
+                "startDate": "1937",
+                "endDate": "1937"
+            }
+        ],
+        "publications": {
+            "@type": "Article",
+            "headline": "Published Articles",
+            "articleBody": "Newspaper articles about travel and 50-year memories."
+        },
+        "work": [
+            {
+                "@type": "CreativeWork",
+                "name": "Collection of Proverbs and History"
+            },
+            {
+                "@type": "CreativeWork",
+                "name": "Collection of Photos and Household Items from Halland"
+            }
+        ],
+        "initiatives": {
+            "@type": "Monument",
+            "name": "Memorial Stone for Peace in Knäred",
+            "dateCreated": "Year of foundation",
+            "location": {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Knäred"
+                }
+            }
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Retired Director",
+                "workplace": "Halmstad",
+                "industry": "N/A",
+                "start_date": "N/A"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Alfr Jacobson",
+                "industry": "Wholesale",
+                "start_date": "1892"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Fred Andrén",
+                "industry": "Merchant",
+                "start_date": "1894"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "David Hedenberg",
+                "industry": "Director",
+                "start_date": "1897"
+            },
+            {
+                "occupational_title": "Business Owner/Entrepreneur",
+                "workplace": "Own business",
+                "industry": "N/A",
+                "start_date": "1899"
+            },
+            {
+                "occupational_title": "Company Owner/Entrepreneur",
+                "workplace": "Hallands Varuhus (branch in Fritsla)",
+                "industry": "Retail",
+                "start_date": "1905"
+            },
+            {
+                "occupational_title": "Company Owner/Entrepreneur",
+                "workplace": "Hallands Varuhus (branches in Falkenberg, Båstad, Oskarström)",
+                "industry": "Retail",
+                "start_date": "1915"
+            }
+        ]
+    }
+}

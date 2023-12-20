@@ -1,0 +1,207 @@
+{
+    "original": "NILSON, Nils Olof, Civilingenjör, Stockholm, f Linkp 3/3 11 av handl John N o Gurli Petersson, gm Sonia Dorff. Studex Jönkp 30, civingex KTH (V o V) 34. Arb.led i Norrl 34, kontrollant i Väg- o vattenbyggn.styr 35— 36, anst v Sv Kraftkontoret i Sthlm sed. 36. Resor: Tyskl, Holl o Belg 33, Finl 38, Tyskl 0 Norge 39, Danm uppr ggr. Av trycket: Kap »Vattenkraft» i Sv Tekn Uppslagsbok del III, studiekurser i vattenbyggn.lära f Noréns Korresp.inst. Hobby: Fiske.",
+    "translated": "NILSON, Nils Olof, Civil Engineer, Stockholm, born in Linköping on March 3, 19xx, son of the merchant John N and Gurli Petersson, married to Sonia Dorff. Studied at Jönköping until 1930, obtained a degree in civil engineering from KTH (Royal Institute of Technology) in Stockholm in 1934. Worked as a project manager in Norrland from 1934, inspector at the Road and Water Construction Authority from 1935 to 1936, and employed at the Swedish Power Office in Stockholm since 1936. Traveled to Germany, the Netherlands, and Belgium in 1933, to Finland in 1938, to Germany and Norway in 1939, and to Denmark on undisclosed occasions. Published a chapter on \"Hydropower\" in the Swedish Technical Encyclopaedia, Part III, attended water engineering courses at Norén's Correspondence Institute. Hobbies: fishing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Nils Olof Nilson",
+        "birthDate": "19xx-03-03",
+        "birthPlace": "Linköping",
+        "nationality": "Swedish",
+        "jobTitle": "Civil Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "John N",
+                "jobTitle": "Merchant"
+            },
+            {
+                "@type": "Person",
+                "name": "Gurli Petersson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Sonia Dorff"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "educationalLevel": "Undergraduate",
+            "educationCredentialAwarded": "Civil Engineering",
+            "educationalInstitution": {
+                "@type": "CollegeOrUniversity",
+                "name": "Royal Institute of Technology"
+            },
+            "startDate": "1930",
+            "endDate": "1934"
+        },
+        "work": [
+            {
+                "@type": "JobPosting",
+                "title": "Project Manager",
+                "startDate": "1934",
+                "endDate": null,
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Norrl"
+                    }
+                }
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Inspector",
+                "startDate": "1935",
+                "endDate": "1936",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Road and Water Construction Authority"
+                }
+            },
+            {
+                "@type": "JobPosting",
+                "title": "",
+                "startDate": "1936",
+                "endDate": null,
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Swedish Power Office"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Norén's Correspondence Institute"
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "Trip",
+                "departureTime": "1933",
+                "arrivalTime": "1933",
+                "departureAirport": {
+                    "@type": "Airport",
+                    "name": "Stockholm"
+                },
+                "arrivalAirport": {
+                    "@type": "Airport",
+                    "name": "Germany"
+                }
+            },
+            {
+                "@type": "Trip",
+                "departureTime": "1933",
+                "arrivalTime": "1933",
+                "departureAirport": {
+                    "@type": "Airport",
+                    "name": "Stockholm"
+                },
+                "arrivalAirport": {
+                    "@type": "Airport",
+                    "name": "Netherlands"
+                }
+            },
+            {
+                "@type": "Trip",
+                "departureTime": "1933",
+                "arrivalTime": "1933",
+                "departureAirport": {
+                    "@type": "Airport",
+                    "name": "Stockholm"
+                },
+                "arrivalAirport": {
+                    "@type": "Airport",
+                    "name": "Belgium"
+                }
+            },
+            {
+                "@type": "Trip",
+                "departureTime": "1938",
+                "arrivalTime": "1938",
+                "departureAirport": {
+                    "@type": "Airport",
+                    "name": "Stockholm"
+                },
+                "arrivalAirport": {
+                    "@type": "Airport",
+                    "name": "Finland"
+                }
+            },
+            {
+                "@type": "Trip",
+                "departureTime": "1939",
+                "arrivalTime": "1939",
+                "departureAirport": {
+                    "@type": "Airport",
+                    "name": "Stockholm"
+                },
+                "arrivalAirport": {
+                    "@type": "Airport",
+                    "name": "Germany"
+                }
+            },
+            {
+                "@type": "Trip",
+                "departureTime": "1939",
+                "arrivalTime": "1939",
+                "departureAirport": {
+                    "@type": "Airport",
+                    "name": "Stockholm"
+                },
+                "arrivalAirport": {
+                    "@type": "Airport",
+                    "name": "Norway"
+                }
+            }
+        ],
+        "publications": [
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Hydropower",
+                "articleSection": "Chapter",
+                "isPartOf": {
+                    "@type": "PublicationVolume",
+                    "name": "Swedish Technical Encyclopaedia, Part III"
+                }
+            }
+        ],
+        "hasHobby": {
+            "@type": "CreativeWork",
+            "name": "Fishing"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Stockholm",
+                "industry": "Engineering",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Project Manager",
+                "workplace": "Norrl",
+                "industry": "Construction",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Inspector",
+                "workplace": "Road and Water Construction Authority",
+                "industry": "Infrastructure",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Swedish Power Office",
+                "industry": "Energy",
+                "start_date": "1936"
+            }
+        ]
+    }
+}

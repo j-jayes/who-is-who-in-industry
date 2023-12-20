@@ -1,0 +1,183 @@
+{
+    "original": "QVARNSTRÖM, Ernst Helge Engelbrekt, Advokat, Västervik, f Askerya, Jkp l, 18/6 01 av kyrkoh K J Q o Amy Petersson, gm Annie Lundqvist. Studex Linkp 20, jur kand Upps 25. Bitr jur i Lindskogs adv. by rå, Vvik, 25, kompanjon 34, ens inneh sed. 42. Led Sv adv.-samf sed. 29. Led dräts.kamm sed. 34, stdflm 35—42, beredn.utsk 39—42, ersätt f öv.-förmynd sed. 34, ordf Aankarsrums hyres-nmd sed. 43 mm. Styr.led i fi föret o sam-manslutn.",
+    "translated": "QVARNSTRÖM, Ernst Helge Engelbrekt, Lawyer, Västervik, born in Askerya, Jönköping county, on June 18th, 1901, of Pastor K J Q and Amy Petersson. Married to Annie Lundqvist. Graduated from the University of Lund in 1920. Obtained a law degree from Uppsala University in 1925. Assistant to lawyer Lindskog's firm in Västervik in 1925, became a partner in 1934 and remained a sole proprietor since 1942. Member of the Swedish Bar Association since 1929. Member of the municipal finance committee since 1934, town councilor from 1935 to 1942, member of various committees from 1939 to 1942. Appointed substitute guardian in 1934 and chairman of the Aankarsrum rent control board since 1943, among others. Board member in several financial corporations and associations, excluding the specific names (fi föret o sam-manslutn).",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Ernst Helge Engelbrekt Qvarnström",
+        "description": "Lawyer",
+        "birthDate": "1901-06-18",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Askerya",
+                "addressRegion": "Jönköping",
+                "addressCountry": "Sweden"
+            }
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Pastor K J Q"
+            },
+            {
+                "@type": "Person",
+                "name": "Amy Petersson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Annie Lundqvist"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "educationalLevel": "Bachelor's degree",
+                "educationalProgram": {
+                    "@type": "EducationalProgram",
+                    "name": "Law",
+                    "provider": {
+                        "@type": "Organization",
+                        "name": "University of Lund"
+                    }
+                },
+                "endDate": "1920"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "educationalLevel": "Master's degree",
+                "educationalProgram": {
+                    "@type": "EducationalProgram",
+                    "name": "Law",
+                    "provider": {
+                        "@type": "Organization",
+                        "name": "Uppsala University"
+                    }
+                },
+                "endDate": "1925"
+            }
+        ],
+        "jobTitle": "Lawyer",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Bar Association",
+                "startDate": "1929"
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Lindskog's Law Firm",
+            "startDate": "1925",
+            "endDate": "1934"
+        },
+        "owns": {
+            "@type": "Organization",
+            "name": "Law Firm",
+            "startDate": "1934",
+            "endDate": "2021"
+        },
+        "governmentMembership": [
+            {
+                "@type": "Organization",
+                "name": "Municipal Finance Committee",
+                "startDate": "1934",
+                "endDate": "1942"
+            },
+            {
+                "@type": "Organization",
+                "name": "Town Council",
+                "startDate": "1935",
+                "endDate": "1942"
+            }
+        ],
+        "appointments": [
+            {
+                "@type": "Person",
+                "name": "Substitute Guardian",
+                "startDate": "1934"
+            },
+            {
+                "@type": "Person",
+                "name": "Chairman",
+                "additionalName": "Aankarsrum rent control board",
+                "startDate": "1943"
+            }
+        ],
+        "boardMembership": [
+            {
+                "@type": "Organization",
+                "name": "Financial Corporation"
+            },
+            {
+                "@type": "Organization",
+                "name": "Association"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Lawyer",
+                "workplace": "Västervik",
+                "industry": "Legal",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Assistant Lawyer",
+                "workplace": "Lindskogs adv. byrå, Vvik",
+                "industry": "Legal",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Partner Lawyer",
+                "workplace": "Lindskogs adv. byrå, Vvik",
+                "industry": "Legal",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Sole Proprietor Lawyer",
+                "workplace": "Västervik",
+                "industry": "Legal",
+                "start_date": "1942"
+            },
+            {
+                "occupational_title": "Member",
+                "workplace": "Swedish Bar Association",
+                "industry": "Legal",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Member",
+                "workplace": "Municipal Finance Committee",
+                "industry": "Government",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Town Councilor",
+                "workplace": "Västervik",
+                "industry": "Government",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Committee Member",
+                "workplace": null,
+                "industry": "Government",
+                "start_date": "1939"
+            },
+            {
+                "occupational_title": "Substitute Guardian",
+                "workplace": null,
+                "industry": null,
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Chairman",
+                "workplace": "Aankarsrum Rent Control Board",
+                "industry": null,
+                "start_date": "1943"
+            }
+        ]
+    }
+}

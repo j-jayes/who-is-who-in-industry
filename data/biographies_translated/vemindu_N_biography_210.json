@@ -1,0 +1,91 @@
+{
+    "original": "NYBERG, Folke, Elof, Köpman, Boden, f Boden 7/1 07 av Levi Nyberg o Hedvig Clas-son, gm Märta Anger. Hdlssk. Anst fma Hedvig Nyberg 25, deläg fma Hedv Nyberg &amp; Co sed. 39. Styr.led Bodens köpmfrn. Resor:Norge 28, 35, Finl 37, 39, Tyskl 41. Odd Fellow. Hobbies: Sportfiske, jakt, foto (spec smalfilmn).",
+    "translated": "NYBERG, Folke, Elof, Merchant, Boden, b. Boden 7/1 07 to Levi Nyberg and Hedvig Clas-son, m. Märta Anger. Secondary school graduate. Employee at the company Hedvig Nyberg 25, co-owner of the company Hedv Nyberg & Co since 39. Board member of Bodens köpmfrn. Travelled to Norway in 28 and 35, Finland in 37 and 39, Germany in 41. Member of the Odd Fellow society. Hobbies: Sport fishing, hunting, photography (especially with small films).",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Folke Elof Nyberg",
+        "birthDate": "1907-01-07",
+        "birthPlace": "Boden, Sweden",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Levi Nyberg",
+                "sameAs": "<link to Levi Nyberg's biography>"
+            },
+            {
+                "@type": "Person",
+                "name": "Hedvig Clas-son",
+                "sameAs": "<link to Hedvig Clas-son's biography>"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Märta Anger",
+            "sameAs": "<link to Märta Anger's biography>"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Secondary school graduate"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Hedvig Nyberg",
+                "startDate": "1925"
+            },
+            {
+                "@type": "Organization",
+                "name": "Hedv Nyberg & Co"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Odd Fellow"
+        },
+        "travelHistory": [
+            {
+                "@type": "Place",
+                "name": "Norway",
+                "startDate": "1928"
+            },
+            {
+                "@type": "Place",
+                "name": "Norway",
+                "startDate": "1935"
+            },
+            {
+                "@type": "Place",
+                "name": "Finland",
+                "startDate": "1937"
+            },
+            {
+                "@type": "Place",
+                "name": "Finland",
+                "startDate": "1939"
+            },
+            {
+                "@type": "Place",
+                "name": "Germany",
+                "startDate": "1941"
+            }
+        ],
+        "hobbies": "Sport fishing, hunting, photography (especially with small films)"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Hedvig Nyberg",
+                "industry": "Retail",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Co-owner",
+                "workplace": "Hedv Nyberg & Co",
+                "industry": "Retail",
+                "start_date": "1939"
+            }
+        ]
+    }
+}

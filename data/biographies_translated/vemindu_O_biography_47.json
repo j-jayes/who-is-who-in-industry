@@ -1,0 +1,91 @@
+{
+    "original": "OHLSSON, John Robert, Direktör, Trelleborg, f 10/10 10 av dir N O o Wendela Westerlund, gm Annie Jönsson. Anst Tryck.AB Allen i Tbg sed. 27; kont 27—32, kamr 32— 35, vkst dir sed. 35. Led fattigv.styr, rev.-suppl arb.lösh.nikd, rev Tboj hantv.frn o dess kred.kassa.",
+    "translated": "OHLSSON, John Robert, Director, Trelleborg, b. 10/10 1910, son of director N O and Wendela Westerlund, married Annie Jönsson. Employed at Tryck.AB Allen in Tbg since 1927; clerk from 1927 to 1932, assistant manager from 1932 to 1935, then promoted to Deputy Director. Member of the poor relief board, revised supplementary unemployment insurance, revised Tboj handicraft from and its credit fund.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "John Robert Ohlsson",
+        "jobTitle": [
+            {
+                "@type": "DefinedTerm",
+                "name": "Clerk",
+                "startDate": "1927",
+                "endDate": "1932"
+            },
+            {
+                "@type": "DefinedTerm",
+                "name": "Assistant Manager",
+                "startDate": "1932",
+                "endDate": "1935"
+            },
+            {
+                "@type": "DefinedTerm",
+                "name": "Deputy Director",
+                "startDate": "1935",
+                "endDate": ""
+            }
+        ],
+        "birthDate": "1910-10-10",
+        "familyName": "Ohlsson",
+        "givenName": "John Robert",
+        "nationality": "Swedish",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Trelleborg"
+        },
+        "father": {
+            "@type": "Person",
+            "name": "N O Ohlsson"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Wendela Westerlund"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Annie Jönsson"
+        },
+        "employment": {
+            "@type": "Organization",
+            "name": "Tryck.AB Allen",
+            "startDate": "1927",
+            "endDate": ""
+        },
+        "memberships": [
+            {
+                "@type": "Organization",
+                "name": "Poor Relief Board"
+            },
+            {
+                "@type": "Organization",
+                "name": "Revised Supplementary Unemployment Insurance"
+            },
+            {
+                "@type": "Organization",
+                "name": "Revised Tboj Handicraft and Credit Fund"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Clerk",
+                "workplace": "Tryck.AB Allen",
+                "industry": "Printing",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Assistant Manager",
+                "workplace": "Tryck.AB Allen",
+                "industry": "Printing",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Deputy Director",
+                "workplace": "Tryck.AB Allen",
+                "industry": "Printing",
+                "start_date": "1935"
+            }
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "original": "OLSSON, Emil Folke, Fabrikör, Kumla, f Kumla 9/5 99 av Erik Olsson o Maria Nilsson, gm Edla Gullie. Folksk, fackkurser. Start tills m fabr Otto R fma Olsson &amp; Rosén sko-fabr 23. Led pens.nmdn mfl kommun uppdr. Resor: Tyskl, Österr, Ung mfl länd. TR. Hobby: Friluftsliv.",
+    "translated": "OLSSON, Emil Folke, Manufacturer, Kumla, b. Kumla May 9th, 1899, to Erik Olsson and Maria Nilsson, m. Edla Gullie. Elementary school education, vocational training. Started working at his father's company, Olsson & Rosén shoemaking factory, in 1923. Served as a member of the pension committee and other municipal duties. Traveled to Germany, Austria, Hungary, and other countries. Treasurer. Hobby: Outdoor activities.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Emil Folke Olsson",
+        "jobTitle": "Manufacturer",
+        "birthPlace": "Kumla",
+        "birthDate": "1899-05-09",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Erik Olsson"
+            },
+            {
+                "@type": "Person",
+                "name": "Maria Nilsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Edla Gullie"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Elementary school education"
+        },
+        "occupation": "Manufacturer",
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Olsson & Rosén shoemaking factory"
+        },
+        "startDate": "1923",
+        "committeeMember": {
+            "@type": "Organization",
+            "name": "Pension Committee"
+        },
+        "municipalDuties": "Other municipal duties",
+        "travelledTo": [
+            "Germany",
+            "Austria",
+            "Hungary"
+        ],
+        "treasurer": "Treasurer",
+        "hobby": "Outdoor activities"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Manufacturer",
+                "workplace": "Olsson & Rosén shoemaking factory",
+                "industry": "Shoemaking",
+                "start_date": "1923"
+            }
+        ]
+    }
+}

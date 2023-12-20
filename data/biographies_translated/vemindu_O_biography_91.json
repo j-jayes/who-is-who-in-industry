@@ -1,0 +1,38 @@
+{
+    "original": "OÖM, Gustaf Magnus Bernhard, Civilingenjör, Halmstad, f Malmö 1/3 90. KTH. Verkst.ch v Aug Hansons gjuteri i Hst.",
+    "translated": "OÖM, Gustaf Magnus Bernhard was born in Malmö on March 1, 1890. He obtained a degree in Engineering from KTH (Royal Institute of Technology). He worked as a Chief Engineer at Aug Hanson's foundry in Halmstad.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Gustaf Magnus Bernhard",
+        "birthDate": "1890-03-01",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Malmö"
+        },
+        "educationalCredentialAwarded": "Engineering degree",
+        "alumniOf": {
+            "@type": "CollegeOrUniversity",
+            "name": "KTH - Royal Institute of Technology"
+        },
+        "jobTitle": "Chief Engineer",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Aug Hanson's foundry"
+        },
+        "workLocation": {
+            "@type": "City",
+            "name": "Halmstad"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Aug Hanson's Foundry",
+                "industry": "Engineering",
+                "start_date": "unknown"
+            }
+        ]
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "original": "NILSSON, Karl Johan, Bryggmästare, Sundsvall, f Skönsberg 12/11 01 av brygg.äg Nils N o Hanna Hedvall, gm Siri Öhman. Studex Sundsvall 21, Dr Doemeus bryggarsk 1 Munchen 24—25, prakt v sv o tyska bryggerier 25—28. Bryggmäst v AB Svagdricks-bryggeriet i Sdsv 28, disp där sed. 35, tillika bryggmäst v Bryggeri AB Nordstjernan i Sdsv sed. 41. Frimurare, Odd Fellow.",
+    "translated": "NILSSON, Karl Johan, Master Brewer, Sundsvall, b. Skönsberg 12/11 01 to brew. owner Nils N and Hanna Hedvall, m. Siri Öhman. Graduated Sundsvall 21, studied at Doemeus Brewing School in Munich 24-25, practiced in Swedish and German breweries 25-28. Master Brewer at AB Svenska Dricka-Bryggeriet in Sundsvall 28, became manager there in 35, also Master Brewer at Bryggeri AB Nordstjernan in Sundsvall since 41. Freemason, Odd Fellow.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Karl Johan Nilsson",
+        "birthDate": "1901-11-12",
+        "birthPlace": "Skönsberg, Sundsvall",
+        "nationality": "Swedish",
+        "occupation": "Master Brewer",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "AB Svenska Dricka-Bryggeriet",
+                "startDate": "1928",
+                "endDate": "1941",
+                "jobTitle": "Master Brewer"
+            },
+            {
+                "@type": "Organization",
+                "name": "Bryggeri AB Nordstjernan",
+                "startDate": "1941",
+                "jobTitle": "Master Brewer"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Sundsvall",
+                "endDate": "1921"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Doemeus Brewing School",
+                "location": "Munich",
+                "startDate": "1924",
+                "endDate": "1925"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "AB Svenska Dricka-Bryggeriet",
+                "jobTitle": "Manager",
+                "startDate": "1935"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Siri Öhman"
+        },
+        "fraternalMembership": [
+            "Freemasons",
+            "Odd Fellows"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Master Brewer",
+                "workplace": "AB Svenska Dricka-Bryggeriet",
+                "industry": "Brewing",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "AB Svenska Dricka-Bryggeriet",
+                "industry": "Brewing",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Master Brewer",
+                "workplace": "Bryggeri AB Nordstjernan",
+                "industry": "Brewing",
+                "start_date": "1941"
+            }
+        ]
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "original": "PETTERSSON, Josef Harry, Köpman, Kristinehamn, f Kristinehamn 5/10 02 av köpm And P o Cecilia Nilsson, gm Signe Andersson. Folksk o Kristinehamns Prakt Sk. Eft öl anställningar medarb 18 i den av fadern 13 start skrädderi- o herrekip.fman A Pettersson &amp; Co, vilk senare överg t enbart konf o herrekip, förest o prok f fmaii 25 o ensam inneh sed. 41. Ag fastigh Spelmansg 11. österlångg 11, Vallabro, Kristinehamn, samt lantegend Bäck i Visnum, Värml 1. Resor: Tyskl 39, Danm o Norge uppr ggr. Hobbies: Friluftsliv, cykelturer, bad mm.",
+    "translated": "PETTERSSON, Josef Harry, Merchant, Kristinehamn, b Kristinehamn 5/10 02 to merchant Anders Pettersson and Cecilia Nilsson, m Signe Andersson. Attended primary school and Kristinehamn Practical School. After several jobs, became a partner in his father's tailoring and menswear company A Pettersson & Co at the age of 18, which later transitioned to focus solely on menswear. Became manager and co-owner of the company at the age of 25 and eventually became the sole owner in 1941. Owns properties at Spelmansgatan 11, Österlånggatan 11, Vallabro, Kristinehamn, as well as the farm Bäck in Visnum, Värmland. Traveled to Germany in 1939 and established business connections in Denmark and Norway. Hobbies include outdoor activities, cycling, and swimming, among others.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Josef Harry Pettersson",
+        "birthDate": "1902-10-05",
+        "birthPlace": "Kristinehamn, Sweden",
+        "description": "Merchant in Kristinehamn, Sweden",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Anders Pettersson"
+            },
+            {
+                "@type": "Person",
+                "name": "Cecilia Nilsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Signe Andersson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Primary School, Kristinehamn"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Kristinehamn Practical School"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "startDate": "1920",
+                "endDate": "1941",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "A Pettersson & Co"
+                },
+                "position": "Partner"
+            },
+            {
+                "startDate": "1941",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "A Pettersson & Co"
+                },
+                "position": "Manager and Owner"
+            }
+        ],
+        "owns": [
+            {
+                "@type": "House",
+                "address": "Spelmansgatan 11, Kristinehamn, Sweden"
+            },
+            {
+                "@type": "House",
+                "address": "Österlånggatan 11, Vallabro, Kristinehamn, Sweden"
+            },
+            {
+                "@type": "Farm",
+                "name": "Bäck",
+                "address": "Visnum, Värmland, Sweden"
+            }
+        ],
+        "travels": [
+            {
+                "startDate": "1939",
+                "endDate": "1939",
+                "place": "Germany"
+            },
+            {
+                "place": "Denmark"
+            },
+            {
+                "place": "Norway"
+            }
+        ],
+        "hobbies": [
+            "Outdoor activities",
+            "Cycling",
+            "Swimming"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "A Pettersson & Co",
+                "industry": "Tailoring and Menswear",
+                "start_date": "1920s"
+            },
+            {
+                "occupational_title": "Manager and Co-owner",
+                "workplace": "A Pettersson & Co",
+                "industry": "Menswear",
+                "start_date": "1930s"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "A Pettersson & Co",
+                "industry": "Menswear",
+                "start_date": "1941"
+            }
+        ]
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "original": "NYSTRÖM, Carl Axel, Handlande, Sala, f Gunnilbo, Vstml, 12/9 91 av A A N o Anna Norstedt, gm Elsa Lindberg. Hdlssk.kurs öbr prakt språk- o hdlssk. Hdlsbitr Farna brukshld 06—11, anst J. E. Wikholm Kärrgruvan 12— 22, sed. 22 eg fma Nyströms Garnbod, Sala. Ag fastigh Bergmästaregat 6 Sala. Styr.led Sala sparbk. Tempelriddare. Hobby: Sportfiske.",
+    "translated": "NYSTRÖM, Carl Axel, Merchant, Sala, b. Gunnilbo, Västmanland, 12/9 1891 to A. A. Nyström and Anna Norstedt, m. Elsa Lindberg. Completed a commercial school course in practical language and commerce. Worked as a salesperson at Farna ironworks from 1906 to 1911, and then employed at J. E. Wikholm's Kärrgruvan from 1912 to 1922. Since 1922, owner of Nyströms Garnbod, a knitting store in Sala. Owns property at 6 Bergmästaregatan, Sala. Member of the board of directors at Sala Savings Bank. Member of the Templar Knights. Hobby: Sport fishing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Axel Nyström",
+        "birthDate": "1891-09-12",
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Gunnilbo, Västmanland"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "A. A. Nyström"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Norstedt"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Elsa Lindberg"
+        },
+        "jobTitle": "Merchant",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Sala"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Commercial",
+            "credentialSubject": {
+                "@type": "Course",
+                "name": "Practical language and commerce"
+            }
+        },
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "Farna Ironworks",
+                "startDate": "1906",
+                "endDate": "1911",
+                "jobTitle": "Salesperson"
+            },
+            {
+                "@type": "Organization",
+                "name": "J. E. Wikholm's Kärrgruvan",
+                "startDate": "1912",
+                "endDate": "1922",
+                "jobTitle": "Employee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Nyström's Garnbod",
+                "startDate": "1922",
+                "jobTitle": "Owner"
+            }
+        ],
+        "owns": {
+            "@type": "Property",
+            "name": "6 Bergmästaregatan, Sala"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Sala Savings Bank",
+                "memberOf": "Board of Directors"
+            },
+            {
+                "@type": "Organization",
+                "name": "Templar Knights"
+            }
+        ],
+        "hobby": "Sport fishing"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Salesperson",
+                "workplace": "Farna ironworks",
+                "industry": "Iron industry",
+                "start_date": "1906"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "J. E. Wikholm's Kärrgruvan",
+                "industry": "Mining",
+                "start_date": "1912"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "Nyströms Garnbod",
+                "industry": "Retail (Knitting store)",
+                "start_date": "1922"
+            }
+        ]
+    }
+}

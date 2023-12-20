@@ -1,0 +1,157 @@
+{
+    "original": "PEHRSSON, Yngve Johan Magnus, Direktör, Stockholm, f Halmstad 7/12 01 av fabr P M P o Anna Hagström, gm Ingeborg Plym. Studex Hst 21, hdlsstud Tyskl 22. reklamstud Boston Univ USA 26—27. Anst AB P M Pehrsson Hst 24—25, J Walther Thompson Co, Kp- 410 PERSSON hmn o Sthlm, 27—30, Törnbloms annonsbyrå 30—33, v. vkst dir annonsbyr Sten-Krantz AB sed. 33. Styr.led AB Neglingevarvet, Saltsjö-bad. Resor: Tyskl 22, USA 26—27, Engl 32, 34.",
+    "translated": "PEHRSSON, Yngve Johan Magnus, Director, Stockholm, born in Halmstad on December 7, 1901, to factory worker P M P and Anna Hagström. Married to Ingeborg Plym. Completed high school in the fall of 1921, studied commerce in Germany in 1922. Studied advertising at Boston University, USA from 1926 to 1927.\n\nEmployed at AB P M Pehrsson from 1924 to 1925, J Walther Thompson Co, Copenhagen and Stockholm, from 1927 to 1930, Törnblom's advertising agency from 1930 to 1933. Vice Managing Director at Sten-Krantz AB advertising agency since 1933. Board member of AB Neglingevarvet, Saltsjö-bad.\n\nTravels include Germany in 1922, USA in 1926-1927, and England in 1932 and 1934.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Yngve Johan Magnus Pehrsson",
+        "jobTitle": "Director",
+        "birthDate": "1901-12-07",
+        "birthPlace": "Halmstad",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "P M P"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Hagström"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ingeborg Plym"
+        },
+        "educationalCredentialAwarded": {
+            "@type": "CollegeOrUniversity",
+            "name": "Boston University",
+            "startDate": "1926",
+            "endDate": "1927"
+        },
+        "alumniOf": {
+            "@type": "HighSchool",
+            "name": "Unknown High School",
+            "endDate": "1921"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "AB P M Pehrsson",
+                "startDate": "1924",
+                "endDate": "1925"
+            },
+            {
+                "@type": "Organization",
+                "name": "J Walther Thompson Co",
+                "location": [
+                    {
+                        "@type": "Place",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressLocality": "Copenhagen",
+                            "addressCountry": "Denmark"
+                        }
+                    },
+                    {
+                        "@type": "Place",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressLocality": "Stockholm",
+                            "addressCountry": "Sweden"
+                        }
+                    }
+                ],
+                "startDate": "1927",
+                "endDate": "1930"
+            },
+            {
+                "@type": "Organization",
+                "name": "Törnblom's Advertising Agency",
+                "startDate": "1930",
+                "endDate": "1933"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sten-Krantz AB Advertising Agency",
+                "startDate": "1933"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "AB Neglingevarvet"
+            },
+            {
+                "@type": "Place",
+                "name": "Saltsjö-bad"
+            }
+        ],
+        "knowsAbout": [
+            "Germany",
+            "USA",
+            "England"
+        ],
+        "knows": [
+            "Commerce",
+            "Advertising"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Stockholm",
+                "industry": "Unknown",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Factory Worker",
+                "workplace": "P M Pehrsson (unspecified)",
+                "industry": "Manufacturing",
+                "start_date": null
+            },
+            {
+                "occupational_title": "High School Student",
+                "workplace": "Unknown",
+                "industry": "Education",
+                "start_date": "Fall 1921"
+            },
+            {
+                "occupational_title": "Commerce Student",
+                "workplace": "Unknown (Germany)",
+                "industry": "Education",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Advertising Student",
+                "workplace": "Boston University",
+                "industry": "Education",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "AB P M Pehrsson",
+                "industry": "Unknown",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "J Walther Thompson Co",
+                "industry": "Advertising",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Törnblom's Advertising Agency",
+                "industry": "Advertising",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Vice Managing Director",
+                "workplace": "Sten-Krantz AB Advertising Agency",
+                "industry": "Advertising",
+                "start_date": "1933"
+            }
+        ]
+    }
+}

@@ -1,0 +1,111 @@
+{
+    "original": "NILSSON, Karl, Fabrikör, Uppsala, f Västra Skrävlinge, Malmöh l, 1/9 85, gm Maria Åkerblom. Efter slut skolstud prakt i möbelsnick h Wahlström &amp; Vriet Ystad 00—04. Anst h Myrstedt &amp; Stern Sthlm 04—10, en av gr av Uppsala Möblerings AB, verkst.ch där 10—24. Inneh K Nilssons Snick- &amp; Karosserifabr Uppsala sed. 24. ,",
+    "translated": "NILSSON, Karl, Industrialist, Uppsala, b. Västra Skrävlinge, Malmö County, September 1, 1885, m. Maria Åkerblom. After completing school, he trained as a furniture carpenter at Wahlström & Vriet in Ystad from 1900 to 1904. He worked at Myrstedt & Stern in Stockholm from 1904 to 1910 and was one of the founders of Uppsala Möblerings AB, where he served as workshop manager from 1910 to 1924. He took over as owner of Nilsson's Carpentry and Carriage Factory in Uppsala in 1924. Note that the abbreviation 'gm' signifies marriage in the year stated.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Karl Nilsson",
+        "jobTitle": "Industrialist",
+        "birthDate": "1885-09-01",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Västra Skrävlinge"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Uppsala"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Maria Åkerblom"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "skolstud prakt",
+            "startDate": "1900",
+            "endDate": "1904",
+            "educationalLevel": "Furniture Carpentry",
+            "provider": {
+                "@type": "Organization",
+                "name": "Wahlström & Vriet"
+            }
+        },
+        "employmentHistory": [
+            {
+                "@type": "JobPosting",
+                "title": "Carpenter",
+                "startDate": "1904",
+                "endDate": "1910",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Myrstedt & Stern"
+                },
+                "workLocation": {
+                    "@type": "City",
+                    "name": "Stockholm"
+                }
+            },
+            {
+                "@type": "EmployeeRole",
+                "startDate": "1910",
+                "endDate": "1924",
+                "roleName": "Workshop Manager",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Uppsala Möblerings AB"
+                },
+                "worksFor": {
+                    "@type": "Organization",
+                    "name": "Uppsala Möblerings AB"
+                }
+            },
+            {
+                "@type": "EmployeeRole",
+                "startDate": "1924",
+                "roleName": "Owner",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Nilsson's Carpentry and Carriage Factory"
+                },
+                "worksFor": {
+                    "@type": "Organization",
+                    "name": "Nilsson's Carpentry and Carriage Factory"
+                }
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Furniture Carpenter",
+                "workplace": "Wahlström & Vriet",
+                "industry": "Furniture",
+                "start_date": "1900"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Myrstedt & Stern",
+                "industry": "Unknown",
+                "start_date": "1904"
+            },
+            {
+                "occupational_title": "One of the founders",
+                "workplace": "Uppsala Möblerings AB",
+                "industry": "Furniture",
+                "start_date": "1910"
+            },
+            {
+                "occupational_title": "Workshop Manager",
+                "workplace": "Uppsala Möblerings AB",
+                "industry": "Furniture",
+                "start_date": "1910"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "Nilsson's Carpentry and Carriage Factory",
+                "industry": "Carpentry and Carriage",
+                "start_date": "1924"
+            }
+        ]
+    }
+}

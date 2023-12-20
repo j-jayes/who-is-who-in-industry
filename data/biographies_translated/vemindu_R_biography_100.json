@@ -1,0 +1,133 @@
+{
+    "original": "ROSELL, Axel Fredrik, Civilingenjör, Stockholm, f Nrkp 3/1 04 av ing C F R o Marie Eberhardsen, gm Ulla Thornquist. Studex NReal 21, KTH 25. Plan- o försäljn.ing Sv Fläktfabr Sthlm 26, ch avd f allm ventilat o luftkondit sed. 30. Div aff.res Tyskl, Engl, Frankr, Ital, Belg m fi, föredragsres Ryssl 36, studieres USA 34. Av trycket div tidn.art 1 värme- o ventilat.tekn fråg. Hobbies: Tennis, segling, foto.",
+    "translated": "ROSELL, Axel Fredrik, Civil Engineer, Stockholm, born in Norrköping on January 3, 1904 to engineer C.F.R and Marie Eberhardsen, married to Ulla Thornquist. Graduated from Real High School in 1921, studied at the Royal Institute of Technology (KTH) in 1925. Worked as a planning and sales engineer at Swedish Fan Factory in Stockholm since 1926, where he was also the head of the department for general ventilation and air conditioning since 1930. Went on various business trips to Germany, England, France, Italy, Belgium, and others. Made a lecture tour in Russia in 1936 and studied in the United States in 1934. Has published several articles on heat and ventilation technology. Hobbies include tennis, sailing, and photography.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Axel Fredrik Rosell",
+        "birthDate": "1904-01-03",
+        "birthPlace": "Norrköping, Sweden",
+        "description": "Civil Engineer from Stockholm",
+        "spouse": {
+            "@type": "Person",
+            "name": "Ulla Thornquist"
+        },
+        "education": [
+            {
+                "@type": "HighSchool",
+                "name": "Real High School",
+                "endDate": "1921"
+            },
+            {
+                "@type": "CollegeOrUniversity",
+                "name": "Royal Institute of Technology",
+                "startDate": "1925"
+            }
+        ],
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "title": "Planning and Sales Engineer",
+                "startDate": "1926",
+                "endDate": null,
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Swedish Fan Factory",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm, Sweden"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Head of Department, General Ventilation, and Air Conditioning",
+                "startDate": "1930",
+                "endDate": null,
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Swedish Fan Factory",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Stockholm, Sweden"
+                    }
+                }
+            }
+        ],
+        "nationality": "Swedish",
+        "memberOf": [
+            {
+                "@type": "SportsTeam",
+                "name": "Tennis"
+            },
+            {
+                "@type": "SportsTeam",
+                "name": "Sailing"
+            },
+            {
+                "@type": "CreativeWork",
+                "name": "Photography"
+            }
+        ],
+        "article": [
+            {
+                "@type": "Article",
+                "name": "Heat and Ventilation Technology",
+                "datePublished": null,
+                "publisher": null
+            }
+        ],
+        "travel": [
+            {
+                "@type": "Trip",
+                "name": "Germany"
+            },
+            {
+                "@type": "Trip",
+                "name": "England"
+            },
+            {
+                "@type": "Trip",
+                "name": "France"
+            },
+            {
+                "@type": "Trip",
+                "name": "Italy"
+            },
+            {
+                "@type": "Trip",
+                "name": "Belgium"
+            }
+        ],
+        "lecture": [
+            {
+                "@type": "LectureEvent",
+                "name": "Russia Lecture Tour",
+                "startDate": "1936"
+            }
+        ],
+        "study": [
+            {
+                "@type": "Place",
+                "name": "United States",
+                "startDate": "1934"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Swedish Fan Factory",
+                "industry": "Mechanical Engineering",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Head of Department for General Ventilation and Air Conditioning",
+                "workplace": "Swedish Fan Factory",
+                "industry": "Mechanical Engineering",
+                "start_date": "1930"
+            }
+        ]
+    }
+}

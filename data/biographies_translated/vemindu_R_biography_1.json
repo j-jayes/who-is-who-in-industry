@@ -1,0 +1,95 @@
+{
+    "original": "RAASCHOU, Björn A H, Auktoriserad Revisor, Stockholm, f Sthlm 17/6 06 av bkdir T R o Elsa Schager, gm Ruth Skoglund. Ex HHS 28, av Sthlms hdlskamm aukt rev. sed. 33. Eg rev.-vksnih i Sthlm sed. 33, konsult v Sv Ind.frbs rev.byrå. Led Lidingö stads rev.kté av 41. Stud.res i Sydafr 27, div res i Tyskl, Engl, Schweiz.",
+    "translated": "RAASCHOU, Björn A H, Authorized Auditor, Stockholm, b Stockholm 17/6 06 to bank director T R and Elsa Schager, married to Ruth Skoglund. Former student at HHS 28, authorized auditor by Sthlms hdlskamm since 33. Own auditing firm in Stockholm since 33, consultant at the Swedish Industrial Credit Institution's auditing bureau. Member of Lidingö city's auditing committee since 1941. Studied in South Africa in 1927, had various travels in Germany, England, Switzerland.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Björn A H Raaschou",
+        "birthDate": "1906-06-17",
+        "birthPlace": "Stockholm",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "T R Raaschou"
+            },
+            {
+                "@type": "Person",
+                "name": "Elsa Schager"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ruth Skoglund"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "HHS",
+                "endDate": "1928"
+            }
+        ],
+        "occupation": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Authorized Auditor",
+                "startDate": "1933",
+                "endDate": "2021-01-01",
+                "namedPosition": "Consultant",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Swedish Industrial Credit Institution's auditing bureau"
+                }
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Own auditing firm"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Lidingö city's auditing committee",
+                "startDate": "1941"
+            }
+        ],
+        "birthCountry": "Sweden",
+        "nationality": "Swedish",
+        "additionalProperty": [
+            {
+                "@type": "Residence",
+                "name": "Stockholm"
+            },
+            {
+                "@type": "TravelAction",
+                "name": "Studied in South Africa",
+                "startDate": "1927"
+            },
+            {
+                "@type": "TravelAction",
+                "name": "Various travels in Germany, England, Switzerland"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Authorized Auditor",
+                "workplace": "Stockholm",
+                "industry": "Accounting",
+                "start_date": "1933"
+            },
+            {
+                "occupational_title": "Consultant",
+                "workplace": "Swedish Industrial Credit Institution's auditing bureau",
+                "industry": "Financial Services",
+                "start_date": "1933"
+            },
+            {
+                "occupational_title": "Member of Lidingö City's Auditing Committee",
+                "workplace": "Lidingö",
+                "industry": "Government",
+                "start_date": "1941"
+            }
+        ]
+    }
+}

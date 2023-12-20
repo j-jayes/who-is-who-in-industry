@@ -1,0 +1,98 @@
+{
+    "original": "PEBSSON, Per Gustaf Folke, Disponent, Lund, f Hardeberga, Malmh l, 19/12 08 av egend.mäkl A P o Agda Bengtsson, gm Gunvor Nelander. Lunds katedralsk, Malmö hdlsgymn. Anst fma Sven Hylander &amp; Co :s, Gbg, Malmökont 30—35, AB Hans Bengtsson Lund sed. 35. V. styr.ordf i sistn AB.",
+    "translated": "PEBSSON, Per Gustaf Folke, Principal, Lund, born in Hardeberga, Malmö County, on December 19th, 1908, son of estate agent A P and Agda Bengtsson, married to Gunvor Nelander. Attended Lund Cathedral School and Malmö Commercial High School. Employed by Sven Hylander & Co in Gothenburg, Malmö branch from 1930 to 1935, then joined AB Hans Bengtsson in Lund. Vice chairman of the board in the latter company.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Per",
+        "additionalName": "Gustaf Folke",
+        "familyName": "Pebsson",
+        "jobTitle": "Principal",
+        "birthDate": "1908-12-19",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Hardeberga",
+                "addressRegion": "Malmö County",
+                "addressCountry": "Sweden"
+            }
+        },
+        "father": {
+            "@type": "Person",
+            "givenName": "A P",
+            "familyName": "Bengtsson",
+            "jobTitle": "Estate Agent"
+        },
+        "mother": {
+            "@type": "Person",
+            "givenName": "Agda",
+            "familyName": "Bengtsson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "givenName": "Gunvor",
+            "familyName": "Nelander"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Lund Cathedral School"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Malmö Commercial High School"
+            }
+        ],
+        "workExperience": [
+            {
+                "@type": "Organization",
+                "name": "Sven Hylander & Co",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Gothenburg",
+                        "addressCountry": "Sweden"
+                    }
+                },
+                "startDate": "1930",
+                "endDate": "1935"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Hans Bengtsson",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Lund",
+                        "addressCountry": "Sweden"
+                    }
+                },
+                "startDate": "1935"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "AB Hans Bengtsson",
+            "roleName": "Vice Chairman of the Board"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Disponent",
+                "workplace": "Sven Hylander & Co",
+                "industry": "Real Estate",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Principal",
+                "workplace": "AB Hans Bengtsson",
+                "industry": "Unknown",
+                "start_date": "1935"
+            }
+        ]
+    }
+}

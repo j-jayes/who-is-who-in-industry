@@ -1,0 +1,74 @@
+{
+    "original": "PÅLSSON, Carl Efraim »Civilingenjör, Stockholm, f Välinge, Malmöh l, 5/3 95 av tegel-mast P P o Sofia Nilsson. CTH (V o V) 26. Anst v Kockums Mek Verkst Malmö 26—27, v Allm Betongbyggn.byrån Sthlm 27—29, v Tolls Byggn AB Sthlm sed. 29.",
+    "translated": "PÅLSSON, Carl Efraim »Civilingenjör, Stockholm, born in Välinge, Malmö county, on May 3, 1895, to bricklayer-master P P and Sofia Nilsson. Studied at the Royal Institute of Technology (V o V) in 1926. Employed at Kockums Mekaniska Verkstads in Malmö from 1926 to 1927, at Allmänna Betongbyggnadsbyrån in Stockholm from 1927 to 1929, and at Tolls Byggnads AB in Stockholm since 1929. Please note that the notation '\\d\\d m. partner's name' indicates marriage in the year 19xx.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Efraim Pålsson",
+        "description": "Civilingenjör, born in Välinge, Malmö county, on May 3, 1895, to P P, a bricklayer-master, and Sofia Nilsson.",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "birthDate": "1895-05-03",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Royal Institute of Technology",
+                "startDate": "1926",
+                "endDate": "1926"
+            },
+            {
+                "@type": "Organization",
+                "name": "Kockums Mekaniska Verkstads",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Malmö"
+                },
+                "startDate": "1926",
+                "endDate": "1927"
+            },
+            {
+                "@type": "Organization",
+                "name": "Allmänna Betongbyggnadsbyrån",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm"
+                },
+                "startDate": "1927",
+                "endDate": "1929"
+            },
+            {
+                "@type": "Organization",
+                "name": "Tolls Byggnads AB",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm"
+                },
+                "startDate": "1929"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Kockums Mekaniska Verkstads",
+                "industry": "Mechanical Engineering",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Allmänna Betongbyggnadsbyrån",
+                "industry": "Concrete Construction",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Tolls Byggnads AB",
+                "industry": "Construction",
+                "start_date": "1929"
+            }
+        ]
+    }
+}

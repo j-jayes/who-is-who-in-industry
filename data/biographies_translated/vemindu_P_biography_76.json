@@ -1,0 +1,91 @@
+{
+    "original": "PETERSON, Elof Einar, Köpman, Uddevalla, f Udd 4/12 90 av skom.mäst KAP o h h, f Anderson, gm Vera May. Anst Daniel Matsson &amp; Co, Udd, 04—35, deläg fma Peterson &amp; Nordberg Herrekip, Udd, sed. 35. Styr.led Udd Motorbåtskl, frn Udd Herreki-peringar. Resor: Danm 10, Norge, Finl 39. Udd Gymn.frns o Koddklrs ftjt s.",
+    "translated": "PETERSON, Elof Einar, Merchant, Uddevalla, born in Udd on December 4, 1890, son of skilled shoemaker KAP and his wife, born Anderson. Married to Vera May. Employed at Daniel Matsson & Co, Udd, from 1904 to 1935, became a co-owner of Peterson & Nordberg Herrekip, Udd, since 1935. Served on the board of Udd Motorboat Club, engaged in Udd Herreki-peringar (possibly an organization or event). Travelled to Denmark in 1910, and to Norway and Finland in 1939. Attended Udd Gymnastics and participated in Koddklrs (unspecified activity or club).",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Elof Einar Peterson",
+        "jobTitle": "Merchant",
+        "birthDate": "1890-12-04",
+        "birthPlace": "Udd",
+        "nationality": "Swedish",
+        "spouse": "Vera May",
+        "parents": {
+            "father": {
+                "@type": "Person",
+                "name": "KAP",
+                "occupation": "Skilled Shoemaker"
+            },
+            "mother": {
+                "@type": "Person",
+                "name": "Anderson"
+            }
+        },
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "Daniel Matsson & Co",
+                "startDate": "1904",
+                "endDate": "1935",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Udd",
+                    "addressCountry": "Sweden"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Peterson & Nordberg Herrekip",
+                "startDate": "1935",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Udd",
+                    "addressCountry": "Sweden"
+                }
+            }
+        ],
+        "organizations": [
+            {
+                "@type": "Organization",
+                "name": "Udd Motorboat Club",
+                "memberOf": "Udd Herreki-peringar"
+            }
+        ],
+        "travels": [
+            {
+                "@type": "Place",
+                "name": "Denmark",
+                "startDate": "1910"
+            },
+            {
+                "@type": "Place",
+                "name": "Norway"
+            },
+            {
+                "@type": "Place",
+                "name": "Finland",
+                "startDate": "1939"
+            }
+        ],
+        "education": [
+            "Udd Gymnastics",
+            "Koddklrs"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Daniel Matsson & Co",
+                "industry": "Retail",
+                "start_date": "1904"
+            },
+            {
+                "occupational_title": "Co-owner",
+                "workplace": "Peterson & Nordberg Herrekip",
+                "industry": "Retail",
+                "start_date": "1935"
+            }
+        ]
+    }
+}

@@ -1,0 +1,140 @@
+{
+    "original": "OHLSON, Gunnar, Köpman, v. Konsul, Simrishamn, f Västervik 8/7 85 av civ.ing J A Olson o Charlotta Pihl, gm Anna Prytz. 5 kl lärov, priv.läsn, hdlsskolekurs. Kont h trä-varufma Oscar Thorin Sölvesborg 00—05, eg fma i kol, oljor o trä Gunnar Ohlson sed. 05. Ag 3 fastigh :r Simr. Dansk v. kons, fd stdflm o led dräts.kamm, hamndir, plant.dir, v. brandsch mm. Ordf drätselkamm 23—30. Styr.led Simr sparbk o Sk Brandförs.inr Simr.kté. Resor: Bornholm m prins Eugen o svit 36. RDDO, Frimurare (X), ordf Simr Brödra-frn 41. O är synrierl intress av båtförbindelserna Bornholm—Simr o har nedl myck arb härför.",
+    "translated": "OHLSON, Gunnar, Merchant, Vice Consul, Simrishamn, born in Västervik on July 8th, 1885, son of civil engineer J.A. Olson and Charlotta Pihl, married to Anna Prytz. Completed grade 5 of primary education, private reading, and attended business school. Worked at the timber-products company Oscar Thorin in Sölvesborg from 1900 to 1905, then established his own company dealing in coal, oils, and timber, Gunnar Ohlson, since 1905. Owns 3 properties in Simrishamn. Honorary Danish Vice Consul, former city council member and board member of various municipal committees, port director, plantation director, and deputy fire chief, among others. Chairman of the city council committee from 1923 to 1930. Board member of Simrishamn Savings Bank and the Simrishamn Fire Insurance Company. Traveled to Bornholm with Prince Eugen and his suite in 1936. Member of the Freemasons (X), chairman of the Simrishamn Brotherhood from 1941. He has a significant interest in the boat connections between Bornholm and Simrishamn and has dedicated a lot of work to this cause.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Gunnar Ohlson",
+        "birthDate": "1885-07-08",
+        "birthPlace": "Västervik",
+        "father": {
+            "@type": "Person",
+            "name": "J.A. Olson",
+            "occupation": "Civil Engineer"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Charlotta Pihl"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Anna Prytz"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "educationalLevel": "Grade 5",
+            "identifier": "kl lärov"
+        },
+        "occupation": [
+            {
+                "@type": "Merchant"
+            },
+            {
+                "@type": "ViceConsul"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Freemasons"
+            },
+            {
+                "@type": "Organization",
+                "name": "Simrishamn Brotherhood",
+                "startDate": "1941"
+            }
+        ],
+        "owns": {
+            "@type": "OwnershipInfo",
+            "ownedFrom": "Simrishamn"
+        },
+        "work": {
+            "@type": "Organization",
+            "name": "Gunnar Ohlson",
+            "startDate": "1905"
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Oscar Thorin",
+            "location": "Sölvesborg",
+            "startDate": "1900",
+            "endDate": "1905"
+        },
+        "interests": "Boat connections between Bornholm and Simrishamn",
+        "traveledWith": {
+            "@type": "Person",
+            "name": "Prince Eugen"
+        },
+        "traveledIn": "1936"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Oscar Thorin",
+                "industry": "Timber-products",
+                "start_date": "1900"
+            },
+            {
+                "occupational_title": "Owner, coal, oils, and timber",
+                "workplace": "Gunnar Ohlson",
+                "industry": "Coal, oils, timber",
+                "start_date": "1905"
+            },
+            {
+                "occupational_title": "Honorary Danish Vice Consul",
+                "workplace": "-",
+                "industry": "Diplomatic service",
+                "start_date": "-"
+            },
+            {
+                "occupational_title": "City Council Member",
+                "workplace": "-",
+                "industry": "Local government",
+                "start_date": "-"
+            },
+            {
+                "occupational_title": "Port Director",
+                "workplace": "-",
+                "industry": "Port management",
+                "start_date": "-"
+            },
+            {
+                "occupational_title": "Plantation Director",
+                "workplace": "-",
+                "industry": "Plantation management",
+                "start_date": "-"
+            },
+            {
+                "occupational_title": "Deputy Fire Chief",
+                "workplace": "-",
+                "industry": "Firefighting",
+                "start_date": "-"
+            },
+            {
+                "occupational_title": "Chairman, City Council Committee",
+                "workplace": "-",
+                "industry": "Local government",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Board Member, Simrishamn Savings Bank",
+                "workplace": "-",
+                "industry": "Banking",
+                "start_date": "-"
+            },
+            {
+                "occupational_title": "Board Member, Simrishamn Fire Insurance Company",
+                "workplace": "-",
+                "industry": "Insurance",
+                "start_date": "-"
+            },
+            {
+                "occupational_title": "Chairman, Simrishamn Brotherhood",
+                "workplace": "-",
+                "industry": "Fraternity",
+                "start_date": "1941"
+            }
+        ]
+    }
+}

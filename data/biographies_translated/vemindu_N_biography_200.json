@@ -1,0 +1,92 @@
+{
+    "original": "NOBSELL,, Knut Birger, Civilingenjör, Ålsten, f 14/1 99 av länsass K A R N o Signe Hallgren, gm Nanny Carlsson. Studex öbr, KTH (mek). Anst ss konstrukt i USA 25— 28, i AB Vattenbyggn.byrån Sthlm sed. 28. Resor: USA 25—28, Ryssl 34—35. Av trycket: kap »Vattenmotorer o pumpar» i medförfat-tarskap med K J Karlsson i Uppfinn Bok, upps Tekn Tidskr 29, 43, Sv Vattenkraftfrns publ 40. Sv Konsult Ing Frn, Sv Vattenkraft -frn, Sv Tekn.frn.",
+    "translated": "NOBSELL, Knut Birger, Civil Engineer, Ålsten, born January 14, 1899, son of county policeman K A R N and Signe Hallgren, married to Nanny Carlsson. Studied additional subjects at the Royal Institute of Technology (mechanical). Employed as a constructor in the USA from 1925 to 1928, and at AB Vattenbyggnadsbyrån in Stockholm since 1928. Traveled to the USA from 1925 to 1928 and to Russia from 1934 to 1935. Published work includes the chapter \"Water Motors and Pumps\" co-authored with K J Karlsson in the book Uppfinn Bok, published in Technical Journal in 1929 and 1943, and in Swedish Publications on Hydropower in 1940. Member of the Swedish Consulting Engineers Association, Swedish Hydropower Association, and Swedish Technical Association.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Knut Birger Nobsell",
+        "birthDate": "1899-01-14",
+        "birthPlace": "Ålsten",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "K A R N",
+                "jobTitle": "County Policeman"
+            },
+            {
+                "@type": "Person",
+                "name": "Signe Hallgren"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Nanny Carlsson"
+        },
+        "additionalName": "Civil Engineer",
+        "alumniOf": {
+            "@type": "CollegeOrUniversity",
+            "name": "Royal Institute of Technology",
+            "additionalType": "mechanical"
+        },
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1925",
+                "endDate": "1928",
+                "roleName": "Constructor",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "AB Vattenbyggnadsbyrån"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1928",
+                "roleName": "Constructor",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "AB Vattenbyggnadsbyrån"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Consulting Engineers Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Hydropower Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Technical Association"
+            }
+        ],
+        "sameAs": [
+            "published work"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "AB Vattenbyggnadsbyrån",
+                "industry": "Engineering",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Constructor",
+                "workplace": "AB Vattenbyggn.byrån",
+                "industry": "Engineering",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Constructor",
+                "workplace": "USA",
+                "industry": "Engineering",
+                "start_date": "1925"
+            }
+        ]
+    }
+}

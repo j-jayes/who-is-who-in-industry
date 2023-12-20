@@ -1,0 +1,120 @@
+{
+    "original": "OHLSSON, Sture Ludvig, Civilingenjör, Direktör, Malmö, f Malmö 25/8 01 av dir J Olsson o Nanna Carlo, gm Ingrid Hermansson. Studex Sthlm 20, KTH (maskinbyggn o mek tekn) 21—26, Columbia Univ i New York 26— 27. Konsult reklamman v Esselte 27—29, konsult i försäljn.frågor där 30—31, vkst dir f AB E Ohlssons Beklädnadsmagasin i Malmö sed. 31. Styr.led i AB Olof Eric Bergström i Gbg, i Fastigh AB Norra Hamngatan 38 i Gbg samt i Sv Hdlsbkn i Malmö. Har varit styr.ordf i Malmö Reklamfrn o v. ordf i Sv Reklamfrb.",
+    "translated": "OHLSSON, Sture Ludvig, Civil Engineer, Director, Malmö, born in Malmö on August 25, 1901, to director J Olsson and Nanna Carlo, married to Ingrid Hermansson. Graduated from Stockholm University in 1920, KTH (Mechanical Engineering) from 1921 to 1926, Columbia University in New York from 1926 to 1927. Consultant at Esselte from 1927 to 1929, consultant in sales matters from 1930 to 1931, Vice Director of AB E Ohlssons Beklädnadsmagasin in Malmö since 1931. Board member of AB Olof Eric Bergström in Gothenburg, Fastigh AB Norra Hamngatan 38 in Gothenburg, and Svenska Handelsbanken in Malmö. Former chairman of Malmö Reklamfrn and vice chairman of Svenska Reklamförbundet.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Sture Ludvig Ohlsson",
+        "jobTitle": "Civil Engineer",
+        "worksFor": "Malmö",
+        "birthDate": "1901-08-25",
+        "birthPlace": "Malmö",
+        "father": {
+            "@type": "Person",
+            "name": "J Olsson"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Nanna Carlo"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Ingrid Hermansson"
+        },
+        "alumniOf": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Stockholm University",
+                "location": "Stockholm",
+                "endDate": "1920"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "KTH Royal Institute of Technology",
+                "location": "Stockholm",
+                "startDate": "1921",
+                "endDate": "1926",
+                "alumniOf": {
+                    "@type": "EducationalOrganization",
+                    "name": "Columbia University",
+                    "location": "New York",
+                    "startDate": "1926",
+                    "endDate": "1927"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Esselte",
+                "startDate": "1927",
+                "endDate": "1929",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "AB E Ohlssons Beklädnadsmagasin",
+                    "location": "Malmö",
+                    "startDate": "1931"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Olof Eric Bergström",
+                "location": "Gothenburg"
+            },
+            {
+                "@type": "Organization",
+                "name": "Fastigh AB Norra Hamngatan 38",
+                "location": "Gothenburg"
+            },
+            {
+                "@type": "Organization",
+                "name": "Svenska Handelsbanken",
+                "location": "Malmö"
+            },
+            {
+                "@type": "Organization",
+                "name": "Malmö Reklamfrn",
+                "position": "chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Svenska Reklamförbundet",
+                "position": "vice chairman"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Malmö",
+                "industry": "Engineering",
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Malmö",
+                "industry": "Unknown",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Consultant",
+                "workplace": "Esselte",
+                "industry": "Advertising",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Consultant",
+                "workplace": "Unknown",
+                "industry": "Sales",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Vice Director",
+                "workplace": "AB E Ohlssons Beklädnadsmagasin",
+                "industry": "Clothing",
+                "start_date": "1931"
+            }
+        ]
+    }
+}

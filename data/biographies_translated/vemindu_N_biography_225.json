@@ -1,0 +1,123 @@
+{
+    "original": "NYGREN, John Folke, Kamrer, Linköping, f Skillingmark, Värml, 1/7 05 av folkskollär G W E N o Kristina Wirén, gm Ella Peterson. Studex, resoffex, DHS. Kamr.ass AB Bofors 32—39, kamr o kontch Sv aeroplanAB sed. 39. Kronoomb i taxnmd 37—39, led särsk tax.nmd sed. 42. Medl Wiknings-Commissio-nen. Hobbies: Motorsport, hästsport.",
+    "translated": "NYGREN, John Folke, Accountant, Linköping, born in Skillingmark, Värmland, on July 1st, 1905, son of elementary school teacher G. W. E. N. (initials) and Kristina Wirén. Married to Ella Peterson. Bachelor's degree, reserve officer's exam, Licentiate of Humanities. Accountant assistant at AB Bofors from 1932 to 1939, and accountant and office manager at Swedish Aeroplane AB since 1939. Member of the Crown Administration's Tax Committee from 1937 to 1939, and member of the separate tax committee since 1942. Member of the Development Commission. Hobbies: Motorsport, equestrian sports.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "John Folke Nygren",
+        "jobTitle": "Accountant",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Linköping"
+        },
+        "birthDate": "1905-07-01",
+        "birthPlace": "Skillingmark, Värmland",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "G. W. E. N.",
+                "jobTitle": "Elementary School Teacher"
+            },
+            {
+                "@type": "Person",
+                "name": "Kristina Wirén"
+            }
+        ],
+        "spouse": [
+            {
+                "@type": "Person",
+                "name": "Ella Peterson"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "bachelor's degree"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "reserve officer's exam"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Licentiate of Humanities"
+            }
+        ],
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Accountant Assistant",
+                "startDate": "1932-01-01",
+                "endDate": "1939-12-31",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Bofors"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Accountant and Office Manager",
+                "startDate": "1939-01-01",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Swedish Aeroplane AB"
+                }
+            }
+        ],
+        "membership": [
+            {
+                "@type": "Organization",
+                "name": "Crown Administration's Tax Committee",
+                "startDate": "1937-01-01",
+                "endDate": "1939-12-31"
+            },
+            {
+                "@type": "Organization",
+                "name": "Separate Tax Committee",
+                "startDate": "1942-01-01"
+            },
+            {
+                "@type": "Organization",
+                "name": "Development Commission"
+            }
+        ],
+        "hasOccupation": [
+            {
+                "@type": "SportsTeam",
+                "name": "Motorsport"
+            },
+            {
+                "@type": "SportsTeam",
+                "name": "Equestrian Sports"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Accountant",
+                "workplace": "AB Bofors",
+                "industry": "Manufacturing",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Accountant and Office Manager",
+                "workplace": "Swedish Aeroplane AB",
+                "industry": "Aerospace",
+                "start_date": "1939"
+            },
+            {
+                "occupational_title": "Member of the Crown Administration's Tax Committee",
+                "workplace": "Crown Administration",
+                "industry": "Government",
+                "start_date": "1937"
+            },
+            {
+                "occupational_title": "Member of the separate Tax Committee",
+                "workplace": "Separate Tax Committee",
+                "industry": "Government",
+                "start_date": "1942"
+            }
+        ]
+    }
+}

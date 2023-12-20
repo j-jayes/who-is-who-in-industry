@@ -1,0 +1,105 @@
+{
+    "original": "NILSSON, Otto Bågnar, Direktör, Västervik, f Karlshamn 29/1 96 av byggmäst C N o ’Olivia Olsson, gm Signe Olsson. Realex 12, fadlssk i Kalmar, stud i utl. Skeppsredare o skeppsklarerare, dir i Rederi AB Ragne o Kommanditbol Fredr Olsson &amp; Co, båda i Vvik. Styr.led i Manufaktur AB Enander o 1 AB Gbgs Bks avd.kont. Stdsflm 31, tillh arb.lösh.ktén o polisnämnden.",
+    "translated": "NILSSON, Otto Bågnar, Director, Västervik, born in Karlshamn on January 29, 1896, son of the builder C N and Olivia Olsson, married to Signe Olsson. Completed primary school at the age of 12 and attended vocational school in Kalmar. Studied abroad. Shipowner and ship agent, director of Rederi AB Ragne and Kommanditbol Fredr Olsson & Co, both located in Vvik. Board member of Manufaktur AB Enander and 1 AB Gbgs Bks branch office. Moved to Stockholm in 1931, became a member of the unemployment agency and the police commission.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Otto Bågnar Nilsson",
+        "jobTitle": "Director",
+        "birthDate": "1896-01-29",
+        "birthPlace": "Karlshamn",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "C N Nilsson",
+                "jobTitle": "Builder"
+            },
+            {
+                "@type": "Person",
+                "name": "Olivia Olsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Signe Olsson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "title": "Realex",
+                "fromLocation": "Kalmar"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "title": "Vocational School",
+                "fromLocation": "Kalmar"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "title": "Foreign Studies"
+            }
+        ],
+        "occupation": [
+            {
+                "@type": "Organization",
+                "name": "Rederi AB Ragne",
+                "jobTitle": "Shipowner and Ship Agent"
+            },
+            {
+                "@type": "Organization",
+                "name": "Kommanditbol Fredr Olsson & Co",
+                "jobTitle": "Shipowner and Ship Agent"
+            },
+            {
+                "@type": "Organization",
+                "name": "Manufaktur AB Enander",
+                "jobTitle": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "1 AB Gbgs Bks Branch Office",
+                "jobTitle": "Board Member"
+            }
+        ],
+        "location": "Västervik",
+        "moveDate": "1931",
+        "membership": [
+            {
+                "@type": "Organization",
+                "name": "Unemployment Agency"
+            },
+            {
+                "@type": "Organization",
+                "name": "Police Commission"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Shipowner and ship agent",
+                "workplace": "Rederi AB Ragne",
+                "industry": "Shipping",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Shipowner and ship agent",
+                "workplace": "Kommanditbol Fredr Olsson & Co",
+                "industry": "Shipping",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Manufaktur AB Enander",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "1 AB Gbgs Bks branch office",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "original": "NILSSON, Sven Halfdan, överingenjör, Eskilstuna, f Luleå 29/2 80, gm Wera Bos-sing. Ex Tekn Elem.sk i Malmö 01 o tekn högsk i Darmstadt Tyskl 04. Anst h AB Separator Sthlm 05—10, Eskilstuna Stålpressn AB 10—18 o Eskilstuna Jernmanufaktur AB sed. 18, nu överingenjör v dettas avd Tuna-fors Fabriker.",
+    "translated": "NILSSON, Sven Halfdan, chief engineer, Eskilstuna, born in Luleå on February 29, 1880, married to Wera Bossing. Formerly studied at Technical Elementary School in Malmö in 1901 and at the Technical University in Darmstadt, Germany in 1904. Employed at AB Separator Stockholm from 1905 to 1910, Eskilstuna Stålpressn AB from 1910 to 1918, and Eskilstuna Jernmanufaktur AB since 1918. Currently serving as chief engineer for the Tuna-fors Fabriker department within Eskilstuna Jernmanufaktur AB.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Sven Halfdan Nilsson",
+        "jobTitle": "Chief Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Eskilstuna"
+        },
+        "birthDate": "1880-02-29",
+        "birthPlace": "Luleå",
+        "spouse": {
+            "@type": "Person",
+            "name": "Wera Bossing"
+        },
+        "educationalCredentialAwarded": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "Technical Elementary School",
+                "educationalLevel": "Elementary School",
+                "awardDate": "1901",
+                "awardingInstitution": "Malmö"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "Technical University Darmstadt",
+                "educationalLevel": "University",
+                "awardDate": "1904",
+                "awardingInstitution": "Darmstadt, Germany"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1905",
+                "endDate": "1910",
+                "roleName": "AB Separator",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Separator Stockholm"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1910",
+                "endDate": "1918",
+                "roleName": "Eskilstuna Stålpressn AB",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Eskilstuna Stålpressn AB"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1918",
+                "roleName": "Eskilstuna Jernmanufaktur AB",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Eskilstuna Jernmanufaktur AB"
+                }
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Tuna-fors Fabriker",
+            "department": "Eskilstuna Jernmanufaktur AB"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Chief Engineer",
+                "workplace": "AB Separator",
+                "industry": "",
+                "start_date": "1905"
+            },
+            {
+                "occupational_title": "Chief Engineer",
+                "workplace": "Eskilstuna Stålpressn AB",
+                "industry": "",
+                "start_date": "1910"
+            },
+            {
+                "occupational_title": "Chief Engineer",
+                "workplace": "Eskilstuna Jernmanufaktur AB",
+                "industry": "",
+                "start_date": "1918"
+            }
+        ]
+    }
+}

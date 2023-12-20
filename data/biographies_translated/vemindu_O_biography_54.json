@@ -1,0 +1,107 @@
+{
+    "original": "OLSON, Frej Adolf Herman, Bankkamrer, Lysekil, f Brastad, Gbg o Boh l, 95 av förv F F O o Helena Rödström, gm Ebba Olsson. Hdlsskolor. Anst Skand granit 16—18, Gbg bk Lysekil 18, Kungsbacka 24, kont.förest Smål.stenar 38, d:o Lysekil sed. 41. Kommun.rev 26—31, stdflm Kba 30—34.",
+    "translated": "OLSON, Frej Adolf Herman, Bank Clerk, Lysekil, born in Brastad, Gothenburg and Bohus County, 1895, son of F. F. O. (first name initials) and Helena Rödström, married to Ebba Olsson. Primary schools only. Employed at Skand granit 1916-1918, Gothenburg bank Lysekil 1918, Kungsbacka 1924, departmental manager in Smålandsstenar 1938, the same position in Lysekil since 1941. Municipal auditor 1926-1931, cinema trustee in Kungsbacka 1930-1934.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Frej Adolf Herman Olson",
+        "givenName": "Frej Adolf Herman",
+        "familyName": "Olson",
+        "jobTitle": "Departmental Manager",
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Brastad, Gothenburg and Bohus County"
+        },
+        "birthDate": "1895-01-01",
+        "parents": [
+            {
+                "@type": "Person",
+                "givenName": "F. F. O.",
+                "familyName": ""
+            },
+            {
+                "@type": "Person",
+                "givenName": "Helena",
+                "familyName": "Rödström"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ebba Olsson",
+            "familyName": "Olsson"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Primary school"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Skand granit",
+                "startDate": "1916-01-01",
+                "endDate": "1918-12-31"
+            },
+            {
+                "@type": "Organization",
+                "name": "Gothenburg bank Lysekil",
+                "startDate": "1918-01-01",
+                "endDate": "1918-12-31"
+            },
+            {
+                "@type": "Organization",
+                "name": "Kungsbacka",
+                "startDate": "1924-01-01"
+            },
+            {
+                "@type": "Organization",
+                "name": "Smålandsstenar"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Lysekil"
+            }
+        ],
+        "governmentalUse": {
+            "@type": "GovernmentOrganization",
+            "name": "Municipal auditor",
+            "startDate": "1926-01-01",
+            "endDate": "1931-12-31"
+        },
+        "trustee": {
+            "@type": "Organization",
+            "name": "Cinema trustee",
+            "startDate": "1930-01-01",
+            "endDate": "1934-12-31"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Bank Clerk",
+                "workplace": "Lysekil",
+                "industry": "Banking",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Departmental Manager",
+                "workplace": "Smålandsstenar",
+                "industry": "Stone industry",
+                "start_date": "1938"
+            },
+            {
+                "occupational_title": "Municipal Auditor",
+                "workplace": "Unknown",
+                "industry": "Government",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Cinema Trustee",
+                "workplace": "Kungsbacka",
+                "industry": "Entertainment",
+                "start_date": "1930"
+            }
+        ]
+    }
+}

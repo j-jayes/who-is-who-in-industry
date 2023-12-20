@@ -1,0 +1,131 @@
+{
+    "original": "OLOVSON, Olov August Birger, Ingenjör, Kallinge, f Luleå 3/9 95 av filaren L O o Erika Sundin, gm Dagmar Johansson. Realex Haparanda 13, Filipstads bergssk övre avd 16, emaljkurs Bergakademie, Clausthal, Tyskl, 38. Anst Gruv AB Stark 17—18, ch.kem Kockums Jernvks AB 19, driftsing emaljervkt sed. 35. Ag Villa Ekliden i Kallinge. V. brandch Ronneby s :n, led lönenmd. Ordf avd 27 o distr 4 av SIF. Resor: Norge, Finl, 13—16, Danm 19, 32, Tyskl 38. Hobby: Trädgårdsodling.",
+    "translated": "OLOVSON, Olov August Birger, Engineer, Kallinge, born in Luleå on September 3rd, 1895, to the sawyer L.O. and Erika Sundin. Married to Dagmar Johansson. Completed Realex (secondary education) in Haparanda in 1913, upper division of Filipstads bergssk (mining school) in 1916, enamel course at Bergakademie in Clausthal, Germany, in 1938. Worked at Gruv AB Stark from 1917 to 1918, as a chemical engineer at Kockums Jernvks AB in 1919, and as a superintendent at an enamel ironworks since 1935. Resided at Villa Ekliden in Kallinge. Member of the local fire brigade in Ronneby, chairman of division 27 and district 4 of the Swedish Workers' Union (SIF). Traveled to Norway and Finland from 1913 to 1916, Denmark in 1919 and 1932, and Germany in 1938. Hobbies: Gardening.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Oolvson, Olov August Birger",
+        "birthDate": "1895-09-03",
+        "birthPlace": "Luleå, Sweden",
+        "jobTitle": "Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Kallinge"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "L.O.",
+                "jobTitle": "Sawyer"
+            },
+            {
+                "@type": "Person",
+                "name": "Erika Sundin"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Dagmar Johansson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Realex",
+                "location": "Haparanda"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Filipstads bergssk (mining school)",
+                "location": "Filipstad",
+                "endDate": "1916"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Bergakademie",
+                "location": "Clausthal",
+                "endDate": "1938"
+            }
+        ],
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "Gruv AB Stark",
+                "startDate": "1917",
+                "endDate": "1918"
+            },
+            {
+                "@type": "Organization",
+                "name": "Kockums Jernvks AB",
+                "startDate": "1919",
+                "jobTitle": "Chemical Engineer"
+            },
+            {
+                "@type": "Organization",
+                "name": "Enamel Ironworks",
+                "startDate": "1935",
+                "jobTitle": "Superintendent"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Place",
+                "name": "Villa Ekliden"
+            }
+        ],
+        "hobbies": "Gardening",
+        "travel": [
+            {
+                "@type": "Country",
+                "name": "Norway",
+                "startDate": "1913",
+                "endDate": "1916"
+            },
+            {
+                "@type": "Country",
+                "name": "Finland",
+                "startDate": "1913",
+                "endDate": "1916"
+            },
+            {
+                "@type": "Country",
+                "name": "Denmark",
+                "startDate": "1919",
+                "endDate": "1919"
+            },
+            {
+                "@type": "Country",
+                "name": "Denmark",
+                "startDate": "1932",
+                "endDate": "1932"
+            },
+            {
+                "@type": "Country",
+                "name": "Germany",
+                "startDate": "1938",
+                "endDate": "1938"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Gruv AB Stark",
+                "industry": "Mining",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Chemical Engineer",
+                "workplace": "Kockums Jernvks AB",
+                "industry": "Ironworks",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Superintendent",
+                "workplace": "Enamel Ironworks",
+                "industry": "Enamel",
+                "start_date": "1935"
+            }
+        ]
+    }
+}

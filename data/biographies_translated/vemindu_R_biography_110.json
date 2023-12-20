@@ -1,0 +1,101 @@
+{
+    "original": "ROSENGREN, Folke Arvid Sten, Kamrer, Kosta, f Åseda 8/11 94 av kronolänsm E G R 0 Thekla Fagerström, gm Helga Axelsson. Realex. Anst Kosta Glasbr 11, kamr sed. 33, styr.siiDpl där. Vkst dir Kosta Nya Järnv AB, AB De Sv Kristallglasbr Sthlm. Av trycket: Kosta Glasbr historia i glasbr 200-års-jub.skrift (42). PatrstGM. Hobbies: Träslöjd, trädgårdsskötsel.",
+    "translated": "ROSENGREN, Folke Arvid Sten, Clerk, Kosta, born in Åseda on November 8, 1894, son of Kronolänsm E G R 0 Thekla Fagerström, married to Helga Axelsson. Completed Realexams. Employed at Kosta Glassworks since 1911, became clerk in 1933, and served as a board member. Promoted to the position of Managing Director at Kosta Nya Järnv AB and AB De Sv Kristallglasbr in Stockholm. Published in the book: \"Kosta Glassworks history in glass production 200th-anniversary publication (1942)\". Active in the Paternal Grandmasters as a member.\n\nHobbies: Woodworking, gardening. Note: '\\d\\d m. partners name' indicates the year of marriage, in this case, sometime in the 1900s.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Folke Arvid Sten",
+        "familyName": "Rosengren",
+        "jobTitle": "Clerk",
+        "birthDate": "1894-11-08",
+        "birthPlace": "Åseda",
+        "father": {
+            "@type": "Person",
+            "givenName": "Kronolänsm E G R 0",
+            "familyName": "Rosengren"
+        },
+        "mother": {
+            "@type": "Person",
+            "givenName": "Thekla",
+            "familyName": "Fagerström"
+        },
+        "spouse": {
+            "@type": "Person",
+            "givenName": "Helga",
+            "familyName": "Axelsson"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Realexams"
+        },
+        "startDate": "1911",
+        "employerHistory": [
+            {
+                "@type": "Organization",
+                "name": "Kosta Glassworks",
+                "startDate": "1911"
+            },
+            {
+                "@type": "Organization",
+                "name": "Kosta Nya Järnv AB"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB De Sv Kristallglasbr"
+            }
+        ],
+        "boardMember": {
+            "@type": "Organization",
+            "name": "Kosta Glassworks"
+        },
+        "promotions": [
+            {
+                "@type": "PromotionEvent",
+                "name": "Managing Director",
+                "startDate": "unknown"
+            }
+        ],
+        "publishedWorks": [
+            {
+                "@type": "CreativeWork",
+                "name": "Kosta Glassworks history in glass production 200th-anniversary publication (1942)"
+            }
+        ],
+        "affiliation": {
+            "@type": "Organization",
+            "name": "Paternal Grandmasters"
+        },
+        "hobbies": [
+            "Woodworking",
+            "Gardening"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Clerk",
+                "workplace": "Kosta Glassworks",
+                "industry": "Glass production",
+                "start_date": "1911"
+            },
+            {
+                "occupational_title": "Clerk",
+                "workplace": "Kosta Glassworks",
+                "industry": "Glass production",
+                "start_date": "1933"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "Kosta Nya Järnv AB",
+                "industry": "Ironworks",
+                "start_date": "unknown"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "AB De Sv Kristallglasbr",
+                "industry": "Crystal glass production",
+                "start_date": "unknown"
+            }
+        ]
+    }
+}

@@ -1,0 +1,168 @@
+{
+    "original": "OLOW, Knut Hilding, Bankdirektör, Varberg, f Malmö 8/4 88 av kont.ch R Olofsson 0 Karna Jönsson, gm Anna Svensson. 6 kl lärov, hdlssk. Anst fma Larsson &amp; Malmgren 06—09, AB Malmö Folkbk 09—15, kamr AB Marks Bk Kinna 15—16, i AB Hall Lantm.bk Varberg 17—24, ch AB Gbgs Hdlsbks Var-bergskont sed. 24. Styr.led Frimurarfrn Fyrbåken, Varb Radioklb, Frn Varb Idr.plats, Varb Hvfrn, Sv Brukshundsklbs Varb.avd. Resor: Ryssl, Tyskl, Frankr 12—13. Frimurare (IX), Odd Fellow. Hobby: Hundar.",
+    "translated": "OLOW, Knut Hilding, Bank Director, Varberg, born in Malmö on April 8th, 1888, son of accountant R Olofsson and Karna Jönsson, married to Anna Svensson. Completed six years of primary school and trade school. Employed by Larsson & Malmgren 1906-1909, AB Malmö Folkbk 1909-1915, Assistant Manager at AB Marks Bk Kinna 1915-1916, in AB Hall Lantm.bk Varberg 1917-1924, and currently Chief of the Varberg branch of AB Gbgs Hdlsbks since 1924. Board member of the Freemasonry lodge Fyrbåken, Varberg Radio Club, Varberg Sports Arena, Varberg Sea Rescue, and the Swedish Working Dog Club's Varberg section. Traveled to Russia, Germany, and France in 1912-1913. Freemason (IX), member of the Odd Fellow lodge. Hobby: dogs.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Knut Hilding OLOW",
+        "jobTitle": "Bank Director",
+        "birthDate": "1888-04-08",
+        "birthPlace": "Malmö",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "R Olofsson",
+                "jobTitle": "Accountant"
+            },
+            {
+                "@type": "Person",
+                "name": "Karna Jönsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Anna Svensson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "six years of primary school"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "trade school"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Larsson & Malmgren"
+                },
+                "startDate": "1906",
+                "endDate": "1909"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Malmö Folkbk"
+                },
+                "startDate": "1909",
+                "endDate": "1915"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Marks Bk Kinna"
+                },
+                "startDate": "1915",
+                "endDate": "1916",
+                "roleName": "Assistant Manager"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Hall Lantm.bk Varberg"
+                },
+                "startDate": "1917",
+                "endDate": "1924"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Gbgs Hdlsbks"
+                },
+                "startDate": "1924",
+                "roleName": "Chief",
+                "description": "Varberg branch"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Frimurarfrn Fyrbåken"
+            },
+            {
+                "@type": "Organization",
+                "name": "Varb Radioklb"
+            },
+            {
+                "@type": "Organization",
+                "name": "Frn Varb Idr.plats"
+            },
+            {
+                "@type": "Organization",
+                "name": "Varb Hvfrn"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sv Brukshundsklbs Varb.avd"
+            }
+        ],
+        "event": [
+            {
+                "@type": "Trip",
+                "name": "Russia",
+                "startDate": "1912",
+                "endDate": "1913"
+            },
+            {
+                "@type": "Trip",
+                "name": "Germany",
+                "startDate": "1912",
+                "endDate": "1913"
+            },
+            {
+                "@type": "Trip",
+                "name": "France",
+                "startDate": "1912",
+                "endDate": "1913"
+            }
+        ],
+        "additionalProperty": [
+            {
+                "@type": "PropertyValue",
+                "name": "Frimason",
+                "value": "IX"
+            },
+            {
+                "@type": "PropertyValue",
+                "name": "Hobby",
+                "value": "dogs"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Bank Director",
+                "workplace": "AB Gbgs Hdlsbks Varbergskont",
+                "industry": "Banking",
+                "start_date": 1924
+            },
+            {
+                "occupational_title": "Assistant Manager",
+                "workplace": "AB Marks Bk Kinna",
+                "industry": "Banking",
+                "start_date": 1915
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "AB Malmö Folkbk",
+                "industry": "Banking",
+                "start_date": 1909
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Larsson & Malmgren",
+                "industry": "Unknown",
+                "start_date": 1906
+            }
+        ]
+    }
+}

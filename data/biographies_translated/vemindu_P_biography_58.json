@@ -1,0 +1,260 @@
+{
+    "original": "PERSSON, Olof, Förvaltare, Avesta, f Dala-Floda 10/4 82 av lantbr Per L o Brita Jansson, gm Maria Andersson. Folksk, eg utb. Anst Lissfors sågvk 07—15, Björka såg 16—21, Avesta sågvk 22—39, Krylbo träförädl.AB sed. 39, styr.led där, chef även f Lissfors o Björbo sågvk samt Snickarbo ångsåg. Odd Fellow. °PERSSON, Olof, Köpman, Rydsgård, f Västra Nöbbelöv 18/3 82 av köprn O P o h h. Ag fröaff 06—17, övert 19 fad aff i Lugnet, div, gr 87, inneh dna. Styr.led AB Mattssons Eftr Klagstorp o Vemmenhögs o Ljunits köpm.frn; ordf o ch Villie friv brandkår, kassör Villie Energlfrn.",
+    "translated": "PERSSON, Olof, Administrator, Avesta, b. Dala-Floda 10/4 82 to farmer Per L and Brita Jansson, m. Maria Andersson. Primary school, self-educated. Employed at Lissfors sawmill 07-15, Björka sawmill 16-21, Avesta sawmill 22-39, Krylbo wood processing AB since 39, board member there, also manager of Lissfors and Björbo sawmills, and Snickarbo steam sawmill. Member of the Odd Fellow organization. \n\n°PERSSON, Olof, Merchant, Rydsgård, b. Västra Nöbbelöv 18/3 82 to merchant O P and h h. Agricultural seed supplier 06-17, took over father's business in Lugnet in 19xx, diversified, established in the area since 87, sole owner. Board member of AB Mattssons Eftr in Klagstorp, Vemmenhög, and Ljunits merchants' associations; chairman and member of the Villie volunteer fire brigade, cashier of Villie Energy Company.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Olof Persson",
+        "birthDate": "1882-04-10",
+        "birthPlace": "Dala-Floda",
+        "description": "Administrator and Merchant",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Odd Fellow"
+            },
+            {
+                "@type": "Organization",
+                "name": "Villie Energy Company",
+                "roleName": "Cashier"
+            },
+            {
+                "@type": "Organization",
+                "name": "Villie Volunteer Fire Brigade",
+                "roleName": "Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Mattssons Eftr",
+                "roleName": "Board Member",
+                "memberOf": [
+                    {
+                        "@type": "Organization",
+                        "name": "Klagstorp Merchants' Association"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "Vemmenhög Merchants' Association"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "Ljunits Merchants' Association"
+                    }
+                ]
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Primary school"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Self-educated"
+            }
+        ],
+        "jobTitle": [
+            "Administrator",
+            "Merchant"
+        ],
+        "hasOccupation": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Administrator",
+                "startDate": "1907-01-01",
+                "endDate": "1921-12-31",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Lissfors Sawmill"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Administrator",
+                "startDate": "1922-01-01",
+                "endDate": "1939-12-31",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Avesta Sawmill"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Administrator",
+                "startDate": "1939-01-01",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Krylbo Wood Processing AB"
+                },
+                "subOrganization": [
+                    {
+                        "@type": "Organization",
+                        "name": "Lissfors Sawmill"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "Björbo Sawmill"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "Snickarbo Steam Sawmill"
+                    }
+                ]
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Merchant",
+                "startDate": "1906-01-01",
+                "endDate": "1917-12-31",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Agricultural Seed Supplier"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Merchant",
+                "startDate": "19xx-01-01",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Father's Business in Lugnet"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Merchant",
+                "startDate": "19xx-01-01",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Diversified Business"
+                }
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Maria Andersson"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Per L"
+            },
+            {
+                "@type": "Person",
+                "name": "Brita Jansson"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Administrator",
+                "workplace": "Avesta",
+                "industry": "Sawmill",
+                "start_date": "1907"
+            },
+            {
+                "occupational_title": "Administrator",
+                "workplace": "Björka",
+                "industry": "Sawmill",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Administrator",
+                "workplace": "Avesta",
+                "industry": "Sawmill",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Administrator",
+                "workplace": "Krylbo träförädl.AB",
+                "industry": "Wood processing",
+                "start_date": "1939"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Lissfors sågvk",
+                "industry": "Sawmill",
+                "start_date": "1907"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Björka såg",
+                "industry": "Sawmill",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Avesta sågvk",
+                "industry": "Sawmill",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Krylbo träförädl.AB",
+                "industry": "Wood processing",
+                "start_date": "1939"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Lissfors",
+                "industry": "Sawmill",
+                "start_date": "1939"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Björbo sågvk",
+                "industry": "Sawmill",
+                "start_date": "1939"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Snickarbo ångsåg",
+                "industry": "Steam sawmill",
+                "start_date": "1939"
+            },
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Rydsgård",
+                "industry": "Fröaffär (seed supplier)",
+                "start_date": "1906"
+            },
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Lugnet",
+                "industry": "Various",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Merchant",
+                "workplace": "AB Mattssons Eftr",
+                "industry": "Merchant association",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Vemmenhögs köpm.frn",
+                "industry": "Merchant association",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Ljunits köpm.frn",
+                "industry": "Merchant association",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Chairman",
+                "workplace": "Villie friv brandkår",
+                "industry": "Volunteer fire brigade",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Cashier",
+                "workplace": "Villie Energlfrn",
+                "industry": "Energy company",
+                "start_date": null
+            }
+        ]
+    }
+}

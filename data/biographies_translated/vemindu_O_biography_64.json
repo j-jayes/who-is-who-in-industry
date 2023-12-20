@@ -1,0 +1,111 @@
+{
+    "original": "OLSSON, Carl-Victor, Disponent, Ystad, f Loshult, Kristianst l, 20/10 83. Hdlssk 05. Anst i div.aff o i sågv Tormansbygd 01, filialförest i Råstorp, kamr i Gussing &amp; Persson Co Ystad 06, disp AB Carl Engström Ystad sed. 20. Styr.ordf i Ystads Stufv.AB; led av Yst Köpmfrn, hdls- o sjöf.nmd, tax.nmdn, yrkes-sk; suppl i inskrivn.nmdn f sjömansh; av magistr i Yst utsedd besiktn.man. ProPstGM; Odd Fellow. Hobbies: Gymnastik, jakt, sportfiske.",
+    "translated": "OLSSON, Carl-Victor, manager, Ystad, born in Loshult, Kristianstads län, on October 20, 1883. Completed compulsory schooling in 1905. Employed in various trade companies and in the sawmill of Tormansbygd since 1901. Branch manager in Råstorp, partner in Gussing & Persson Co Ystad in 1906, and became manager of AB Carl Engström in Ystad since 1920. Chairman of the board in Ystads Stufv.AB; member of Ystads Köpmänner, trade and shipping committee, tax committee, vocational school committee; substitute in the shipping registry committee of sailors' housing; appointed inspector by the magistrate of Ystad. ProPstGM; Odd Fellow member. Hobbies: Gymnastics, hunting, sport fishing. \n\nNote: '\\d\\d m. partner's name' indicates that the person got married in the year 19xx.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl-Victor Olsson",
+        "jobTitle": "Manager",
+        "birthDate": "1883-10-20",
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Loshult, Kristianstads län"
+        },
+        "education": "Completed compulsory schooling in 1905",
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "AB Carl Engström",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Ystad"
+                },
+                "startDate": "1920"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Ystads Stufv.AB",
+                "roleName": "Chairman of the Board",
+                "startDate": "unknown"
+            },
+            {
+                "@type": "Organization",
+                "name": "Ystads Köpmänner"
+            },
+            {
+                "@type": "Organization",
+                "name": "Trade and Shipping Committee of Ystad"
+            },
+            {
+                "@type": "Organization",
+                "name": "Tax Committee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Vocational School Committee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Shipping Registry Committee of Sailors' Housing",
+                "roleName": "Substitute"
+            }
+        ],
+        "additionalProperty": [
+            {
+                "@type": "PropertyValue",
+                "name": "Inspector appointed by",
+                "value": "Magistrate of Ystad"
+            }
+        ],
+        "memberOfHobbies": [
+            {
+                "@type": "Hobby",
+                "name": "Gymnastics"
+            },
+            {
+                "@type": "Hobby",
+                "name": "Hunting"
+            },
+            {
+                "@type": "Hobby",
+                "name": "Sport Fishing"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Employee",
+                "workplace": "Various trade companies",
+                "industry": "Trade",
+                "start_date": "1901"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Tormansbygd Sawmill",
+                "industry": "Sawmill",
+                "start_date": "1901"
+            },
+            {
+                "occupational_title": "Branch Manager",
+                "workplace": "Råstorp",
+                "industry": "Trade",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Partner",
+                "workplace": "Gussing & Persson Co Ystad",
+                "industry": "Trade",
+                "start_date": "1906"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "AB Carl Engström Ystad",
+                "industry": "Trade",
+                "start_date": "1920"
+            }
+        ]
+    }
+}

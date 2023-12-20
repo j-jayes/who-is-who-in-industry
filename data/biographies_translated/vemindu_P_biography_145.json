@@ -1,0 +1,209 @@
+{
+    "original": "PÅHLMAN, Johan Magnus Gösta, Hektor, Stockholm, f Sthlm 18/2 95 av rekt John Po Sara Bredenberg, gm Dagmar Ekman. Studex, jur kand, stud v hdlssk o hdlshögsk, studieres Europ o USA 20—21, tjg häradsr, länsstyr o adv.kont, förordn s domhav o borg-mast. Ord lär Bröd Påhlmaiis hdlsinst sed, 21, rektor där sed. 33, styr.led. Styr.led i Vpl off riksförbund, riddarhusrevisor. RVO, RJohO, Lstoff GM, Frimurare, T. O.",
+    "translated": "PÅHLMAN, Johan Magnus Gösta, Hektor, Stockholm, b. Stockholm 18/2 1895, son of rector John Po Sara Bredenberg, m. Dagmar Ekman. Graduated, studied law, studied at commercial school and commercial high school, studied abroad in Europe and the USA in 1920-1921, worked as a district court employee, county board employee, and at a law firm, appointed as a judge and city magistrate. Appointed as a teacher at Bröd Påhlmaiis commercial institute since 1921, became a rector there in 1933, board member. Also served as a board member of the Armed Forces National Association, and as an auditor at the House of Nobility. Received the Royal Order of Vasa, the Royal Johan Order, the Medal of Merit, and was a Freemason. Member of the T. O. association. (Note: '\\d\\d m. partners name' means married in the year 19xx.)",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Johan Magnus Gösta Påhlman",
+        "givenName": "Johan Magnus Gösta",
+        "familyName": "Påhlman",
+        "additionalName": "Hektor",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Stockholm"
+            }
+        },
+        "birthDate": "1895-02-18",
+        "father": {
+            "@type": "Person",
+            "name": "John"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Sara Bredenberg"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Dagmar Ekman",
+            "dateOfMarriage": "19xx"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Studex"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Jur kand"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Hdlssk o hdlshögsk"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Studieres Europ o USA 20—21"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "namedPosition": "District Court Employee",
+                "startDate": "yyyy-mm-dd"
+            },
+            {
+                "@type": "OrganizationRole",
+                "namedPosition": "County Board Employee",
+                "startDate": "yyyy-mm-dd"
+            },
+            {
+                "@type": "OrganizationRole",
+                "namedPosition": "Law Firm Employee",
+                "startDate": "yyyy-mm-dd"
+            },
+            {
+                "@type": "OrganizationRole",
+                "namedPosition": "Judge",
+                "startDate": "yyyy-mm-dd"
+            },
+            {
+                "@type": "OrganizationRole",
+                "namedPosition": "City Magistrate",
+                "startDate": "yyyy-mm-dd"
+            },
+            {
+                "@type": "OrganizationRole",
+                "namedPosition": "Teacher",
+                "startDate": "1921-01-01",
+                "endDate": "1933-12-31",
+                "worksFor": {
+                    "@type": "Organization",
+                    "name": "Bröd Påhlmaiis Commercial Institute"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "namedPosition": "Rector",
+                "startDate": "1933-01-01",
+                "worksFor": {
+                    "@type": "Organization",
+                    "name": "Bröd Påhlmaiis Commercial Institute"
+                }
+            }
+        ],
+        "boardMember": [
+            {
+                "@type": "Organization",
+                "name": "Vpl Off Riksförbund"
+            },
+            {
+                "@type": "Organization",
+                "name": "Armed Forces National Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "The House of Nobility"
+            }
+        ],
+        "auditor": {
+            "@type": "Organization",
+            "name": "The House of Nobility"
+        },
+        "awards": [
+            {
+                "@type": "Order",
+                "name": "Royal Order of Vasa"
+            },
+            {
+                "@type": "Order",
+                "name": "Royal Johan Order"
+            },
+            {
+                "@type": "Medal",
+                "name": "Medal of Merit"
+            }
+        ],
+        "membership": [
+            {
+                "@type": "Organization",
+                "name": "Frimurare"
+            },
+            {
+                "@type": "Organization",
+                "name": "T. O. Association"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Jurist",
+                "workplace": "Unknown",
+                "industry": "Law",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "District Court Employee",
+                "workplace": "Unknown",
+                "industry": "Law",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "County Board Employee",
+                "workplace": "Unknown",
+                "industry": "Government",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Law Firm Employee",
+                "workplace": "Unknown",
+                "industry": "Law",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Judge",
+                "workplace": "Unknown",
+                "industry": "Law",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "City Magistrate",
+                "workplace": "Unknown",
+                "industry": "Government",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Teacher",
+                "workplace": "Bröd Påhlmaiis Commercial Institute",
+                "industry": "Education",
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Rector",
+                "workplace": "Bröd Påhlmaiis Commercial Institute",
+                "industry": "Education",
+                "start_date": "1933"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Armed Forces National Association",
+                "industry": "Military",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Auditor",
+                "workplace": "House of Nobility",
+                "industry": "Government",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "original": "ROSWAI/L, Erik Albert, Direktör, Malmö, f Hässleh 29/11 78 av byggm Th R o Beate Finnvall, gm Bina Grönwall. Elem.lärov, hdlsinst. Anst Mazettis kont Malmö 96, fr 97 i fma Fredrik Nyström AB Malmö (grund 62), övertog denna 20, vkst dir där o i AB Hult-bergs konservfabr. Ag fastigh i Malmö. Ordf Malmö hdlskl, v. ordf Sk Köpm.frb, styr.led Mmö fattigv.styr, Skånemässan, Jordbrukar-bkn o Vattenfabr AB Gripen, styr.suppl Sv Köpm.frb, fullm i Skånes Hdlskammare. Resor: Tyskl, Tjeckoslov, Österr, Ung, Danm, Norge. RVO; Sv köpm.frbs ftjt g, Skån gymn.frbs GM.",
+    "translated": "ROSWAI/L, Erik Albert, Director, Malmö, born in Hässleh on November 29th, 1878, son of builder Th R and Beate Finnvall, married to Bina Grönwall. Elementary education and commercial institute. Employed at Mazetti's office in Malmö since 1896, then in 1897 joined Fredrik Nyström AB Malmö (established in 1862), took over the company in 1920, serving as managing director there and at AB Hultbergs konservfabr. Also involved in real estate in Malmö. Chairman of Malmö Chamber of Commerce, Vice Chairman of Skåne Merchants' Association, board member of Malmö Poor Relief Board, Skånemässan, Jordbrukar-banken, and Vattenfabr AB Gripen. Deputy member of the Swedish Merchants' Association, representative in Skånes Chamber of Commerce. Traveled to Germany, Czechoslovakia, Austria, Hungary, Denmark, and Norway. Received Order of the Polar Star; recipient of the Swedish Merchants' Association's gold medal and Skåne Gymnasium's gold medal.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Erik Albert Roswai",
+        "jobTitle": "Director",
+        "birthDate": "1878-11-29",
+        "birthPlace": "Hässleh",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Th R Roswai",
+                "jobTitle": "Builder"
+            },
+            {
+                "@type": "Person",
+                "name": "Beate Finnvall"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Bina Grönwall"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Elementary education"
+        },
+        "memberOf": {
+            "@type": "Organization",
+            "name": "AB Hultbergs konservfabr"
+        },
+        "startDate": "1897",
+        "endDate": "1920",
+        "owned": [
+            {
+                "@type": "Place",
+                "address": "Malmö"
+            }
+        ],
+        "chairmanOf": {
+            "@type": "Organization",
+            "name": "Malmö Chamber of Commerce"
+        },
+        "viceChairmanOf": {
+            "@type": "Organization",
+            "name": "Skåne Merchants' Association"
+        },
+        "boardMember": [
+            {
+                "@type": "Organization",
+                "name": "Malmö Poor Relief Board"
+            },
+            {
+                "@type": "Organization",
+                "name": "Skånemässan"
+            },
+            {
+                "@type": "Organization",
+                "name": "Jordbrukar-banken"
+            },
+            {
+                "@type": "Organization",
+                "name": "Vattenfabr AB Gripen"
+            }
+        ],
+        "deputyMember": {
+            "@type": "Organization",
+            "name": "Swedish Merchants' Association"
+        },
+        "representativeIn": {
+            "@type": "Organization",
+            "name": "Skånes Chamber of Commerce"
+        },
+        "travel": [
+            "Germany",
+            "Czechoslovakia",
+            "Austria",
+            "Hungary",
+            "Denmark",
+            "Norway"
+        ],
+        "award": {
+            "@type": "Medal",
+            "name": "Skåne Gymnasium's Gold Medal"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Malmö",
+                "industry": "",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Mazetti",
+                "industry": "Office",
+                "start_date": "1896"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Fredrik Nyström AB",
+                "industry": "Unknown",
+                "start_date": "1897"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "Fredrik Nyström AB",
+                "industry": "Unknown",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "AB Hultbergs konservfabr",
+                "industry": "Unknown",
+                "start_date": ""
+            }
+        ]
+    }
+}

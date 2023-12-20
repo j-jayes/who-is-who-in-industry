@@ -1,0 +1,70 @@
+{
+    "original": "PEHRSSON, Per Emil, Direktör, Sölvesborg, f Vitaby, Krstds l, 28/11 93. Prakt 12— 28, start fma Bilbolaget Emil Pehrsson &amp; Co AB i Sölvesborg 26 m fil i Karlshamn o Ronneby. Bilbesiktn.man i Blek 21—24. Ordf i SölvbgH l F.",
+    "translated": "PEHRSSON, Per Emil, Director, Sölvesborg, born in Vitaby, Kristianstad county, on November 28th, 1893. Worked as an apprentice from 1912 to 1918, and then started his own company called Bilbolaget Emil Pehrsson & Co AB in Sölvesborg in 1926, after completing his studies in Karlshamn and Ronneby. He worked as a car inspector in Blekinge from 1921 to 1924. He served as chairman of the Sölvesborg Hunting Association.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Per Emil Pehrsson",
+        "jobTitle": "Director",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Vitaby"
+        },
+        "birthDate": "1893-11-28",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Bilbolaget Emil Pehrsson & Co AB",
+            "foundingDate": "1926",
+            "location": [
+                {
+                    "@type": "City",
+                    "name": "Sölvesborg"
+                }
+            ]
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Karlshamn"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Ronneby"
+            }
+        ],
+        "apprenticeshipStartDate": "1912",
+        "apprenticeshipEndDate": "1918",
+        "carInspector": {
+            "@type": "City",
+            "name": "Blekinge"
+        },
+        "carInspectorStartDate": "1921",
+        "carInspectorEndDate": "1924",
+        "huntingAssociationChairman": {
+            "@type": "City",
+            "name": "Sölvesborg"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Apprentice",
+                "workplace": "",
+                "industry": "",
+                "start_date": "1912"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Bilbolaget Emil Pehrsson & Co AB",
+                "industry": "Automotive",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Car Inspector",
+                "workplace": "Blekinge",
+                "industry": "Automotive",
+                "start_date": "1921"
+            }
+        ]
+    }
+}

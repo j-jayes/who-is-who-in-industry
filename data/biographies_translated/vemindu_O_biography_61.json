@@ -1,0 +1,106 @@
+{
+    "original": "OLSSON, Arvid Conrad, Civilingenjör, Milano (sv adr: Hbg), f Hbg 20/3 01 av disp H O o Ida Augusta Håkansson, gm Gerda Adlerz. Studex Hbg 19, KTH (E) 21—26. Ing v Telefon AB L M Ericsson fr 26, varav i Sthlm 26—30, v Corporacion Sudamericana de Teléfonos y Telégrafos i Buenos Aires 30—33, 1 Rom 34, nu v Societå Elettro Telefonica Meridionale i Milano. Led Sv Tekn.frn.",
+    "translated": "OLSSON, Arvid Conrad, Civil Engineer, Milano (Swedish address: Hbg), born in Hbg on March 20, 1901, the son of H O and Ida Augusta Håkansson (nee disp). Married to Gerda Adlerz. Attended Hbg 19, KTH (E) 21-26. Started working at Telefon AB L M Ericsson in 1926, of which in Stockholm from 1926 to 1930, at Corporacion Sudamericana de Teléfonos y Telégrafos in Buenos Aires from 1930 to 1933, in Rome in 1934, and currently working at Societa Elettro Telefonica Meridionale in Milano. Member of the Swedish Technical Association.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Arvid Conrad Olsson",
+        "birthDate": "1901-03-20",
+        "address": [
+            {
+                "@type": "PostalAddress",
+                "addressLocality": "Milano"
+            },
+            {
+                "@type": "PostalAddress",
+                "addressCountry": "Sweden",
+                "addressLocality": "Hbg"
+            }
+        ],
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "H O Olsson"
+            },
+            {
+                "@type": "Person",
+                "name": "Ida Augusta Håkansson"
+            }
+        ],
+        "spouse": [
+            {
+                "@type": "Person",
+                "name": "Gerda Adlerz"
+            }
+        ],
+        "education": [
+            {
+                "@type": "School",
+                "name": "Hbg"
+            },
+            {
+                "@type": "School",
+                "name": "KTH",
+                "location": "E",
+                "startDate": "1921",
+                "endDate": "1926"
+            }
+        ],
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "Telefon AB L M Ericsson",
+                "startDate": "1926",
+                "endDate": "1930",
+                "location": "Stockholm"
+            },
+            {
+                "@type": "Organization",
+                "name": "Corporacion Sudamericana de Teléfonos y Telégrafos",
+                "startDate": "1930",
+                "endDate": "1933",
+                "location": "Buenos Aires"
+            },
+            {
+                "@type": "Organization",
+                "name": "Società Elettro Telefonica Meridionale",
+                "startDate": "1934",
+                "location": "Milano"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Technical Association"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Milano",
+                "industry": "Engineering",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Telefon AB L M Ericsson",
+                "industry": "Telecommunications",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Corporacion Sudamericana de Teléfonos y Telégrafos",
+                "industry": "Telecommunications",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Societa Elettro Telefonica Meridionale",
+                "industry": "Telecommunications",
+                "start_date": "1934"
+            }
+        ]
+    }
+}

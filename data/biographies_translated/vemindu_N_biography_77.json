@@ -1,0 +1,71 @@
+{
+    "original": "NILSSON, Hilding Oscar, Direktör, Värnamo, f Billesholm 81 av Sven Nilsson o Botilda Persson, gm Ida Olsson. Folksk, Br Bendz Hdlssk. Dir AB Victor Westring Vmo sed. 11. Ag fastigh Triangeln 12, Vmo, led Vmo tax.nmd, ordf i lokalstyr f AB Smal Bk i Vmo. Resor: Tyskl, Belg, Frankr. Frimurare.",
+    "translated": "NILSSON, Hilding Oscar, Director, Värnamo, born in Billesholm in 1881 to Sven Nilsson and Botilda Persson, married to Ida Olsson. Completed primary school and commercial school at Br Bendz. Director of AB Victor Westring in Värnamo since 1911. Owns property at Triangeln 12, Värnamo. Member of the Värnamo tax committee, chairman of the local board of AB Smal Bk in Värnamo. Travelled to Germany, Belgium, and France. Freemason.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Hilding Oscar Nilsson",
+        "jobTitle": "Director",
+        "birthDate": "1881-01-01",
+        "birthPlace": "Billesholm",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Sven Nilsson",
+                "gender": "male"
+            },
+            {
+                "@type": "Person",
+                "name": "Botilda Persson",
+                "gender": "female"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ida Olsson",
+            "gender": "female"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Folksk"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Br Bendz Hdlssk"
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "AB Victor Westring",
+            "startDate": "1911-01-01"
+        },
+        "owns": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Värnamo",
+                "streetAddress": "Triangeln 12"
+            }
+        },
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Frimurare"
+        },
+        "travelled": [
+            "Germany",
+            "Belgium",
+            "France"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "AB Victor Westring",
+                "industry": "unknown",
+                "start_date": "1911"
+            }
+        ]
+    }
+}

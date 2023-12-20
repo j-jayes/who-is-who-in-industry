@@ -1,0 +1,151 @@
+{
+    "original": "PEDERSEN, Carl Walfred, fd Driftsingeii-jör, Slite, Gotl, f Visby 14/9 77 av sjökapt R E L P o Johanna Gardelin, gm Berta Ru-barth. H a l 87—92, priv tekn stud. Bitr laborant v Visby Cementfabr 92—94, ord laborant 94—97, lab.förest 97, senare av verk-mast samt tekn ledare f hela driften t 17, driftsing v Slite Cement &amp; Kalk AB 17-^42 (pensionerad). Resor: Tyskl, Norge o Finl v öl tillf 26—31. Led Sv Tekn.frn. Frimurare, Odd Fellow. PatrstGM.",
+    "translated": "PEDERSEN, Carl Walfred, formerly Chief Engineer, Slite, Gotland, born in Visby on September 14, 1877, son of sea captain R E L P and Johanna Gardelin, married to Berta Rubarth. He attended school from 1887 to 1892, studied engineering privately. Assistant laboratory technician at Visby Cement Works from 1892 to 1894, regular laboratory technician from 1894 to 1897, laboratory supervisor from 1897, later promoted to head of technical operations until 1917. Worked as Chief Engineer at Slite Cement & Lime AB from 1917 until his retirement in 1942. Travels: Germany, Norway, and Finland occasionally from 1926 to 1931. Member of the Swedish Technical Association. Freemason, Odd Fellow. Patriotic Grand Master.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Walfred Pedersen",
+        "jobTitle": "formerly Chief Engineer",
+        "birthDate": "1877-09-14",
+        "birthPlace": "Visby, Gotland, Sweden",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "R E L P",
+                "jobTitle": "sea captain"
+            },
+            {
+                "@type": "Person",
+                "name": "Johanna Gardelin"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Berta Rubarth"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "startDate": "1887",
+            "endDate": "1892"
+        },
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Visby Cement Works"
+                },
+                "startDate": "1892",
+                "endDate": "1894",
+                "roleName": "Assistant laboratory technician"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Visby Cement Works"
+                },
+                "startDate": "1894",
+                "endDate": "1897",
+                "roleName": "Regular laboratory technician"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Visby Cement Works"
+                },
+                "startDate": "1897",
+                "roleName": "Laboratory supervisor"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Slite Cement & Lime AB"
+                },
+                "startDate": "1917",
+                "endDate": "1942",
+                "roleName": "Chief Engineer"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Technical Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Freemasons"
+            },
+            {
+                "@type": "Organization",
+                "name": "Odd Fellow"
+            }
+        ],
+        "award": {
+            "@type": "Achievement",
+            "name": "Patriotic Grand Master"
+        },
+        "travel": [
+            {
+                "@type": "TravelAction",
+                "toLocation": "Germany",
+                "startDate": "1926",
+                "endDate": "1931"
+            },
+            {
+                "@type": "TravelAction",
+                "toLocation": "Norway",
+                "startDate": "1926",
+                "endDate": "1931"
+            },
+            {
+                "@type": "TravelAction",
+                "toLocation": "Finland",
+                "startDate": "1926",
+                "endDate": "1931"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Chief Engineer",
+                "workplace": "Slite Cement & Lime AB",
+                "industry": "Cement and Lime",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Head of Technical Operations",
+                "workplace": "Slite Cement & Lime AB",
+                "industry": "Cement and Lime",
+                "start_date": "1897"
+            },
+            {
+                "occupational_title": "Laboratory Supervisor",
+                "workplace": "Visby Cement Works",
+                "industry": "Cement",
+                "start_date": "1897"
+            },
+            {
+                "occupational_title": "Regular Laboratory Technician",
+                "workplace": "Visby Cement Works",
+                "industry": "Cement",
+                "start_date": "1894"
+            },
+            {
+                "occupational_title": "Assistant Laboratory Technician",
+                "workplace": "Visby Cement Works",
+                "industry": "Cement",
+                "start_date": "1892"
+            },
+            {
+                "occupational_title": "Private Technical Studies",
+                "workplace": "n/a",
+                "industry": "Education",
+                "start_date": "n/a"
+            }
+        ]
+    }
+}

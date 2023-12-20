@@ -1,0 +1,74 @@
+{
+    "original": "NILSSON, E T, Handlande, Skärblacka, f Nykil, Ögl, 16/11 72. Eft slut skolgång eg aff.rör, övert 97 div.aff Skärblacka und fma E T Nilsson, AB 36, filialer i Åkersta o Marie-hult, vkst dir dta. Kass Skärblacka miss.frn, förest dess söndagssk, fd led dess musikfrn.",
+    "translated": "NILSSON, E T, Merchant, Skärblacka, born Nykil, Ögl, 16/11 72. After completing school, engaged in business affairs. Took over 97 divisions of Skärblacka and established E T Nilsson, AB in 1936, with branches in Åkersta and Marie-hult. Served as Director for business development. Treasurer for Skärblacka Missionary Association and former leader of its music department.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "E T Nilsson",
+        "birthDate": "1872-11-16",
+        "birthPlace": "Nykil, Ögl",
+        "description": "Merchant, Skärblacka",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Skärblacka Missionary Association"
+            }
+        ],
+        "occupation": "Merchant",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "E T Nilsson, AB",
+            "foundingDate": "1936",
+            "founder": "E T Nilsson",
+            "location": [
+                {
+                    "@type": "Place",
+                    "name": "Åkersta"
+                },
+                {
+                    "@type": "Place",
+                    "name": "Marie-hult"
+                }
+            ],
+            "department": {
+                "@type": "Department",
+                "name": "Business Development",
+                "director": "E T Nilsson"
+            }
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "School"
+        },
+        "treasurer": {
+            "@type": "Organization",
+            "name": "Skärblacka Missionary Association"
+        },
+        "formerLeaderOf": {
+            "@type": "Organization",
+            "name": "Music Department, Skärblacka Missionary Association"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Skärblacka",
+                "industry": "Business",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Director of business development",
+                "workplace": "E T Nilsson, AB",
+                "industry": "Business",
+                "start_date": 1936
+            },
+            {
+                "occupational_title": "Treasurer",
+                "workplace": "Skärblacka Missionary Association",
+                "industry": "Non-profit",
+                "start_date": null
+            }
+        ]
+    }
+}

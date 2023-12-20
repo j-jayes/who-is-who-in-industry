@@ -1,0 +1,135 @@
+{
+    "original": "PAULSSON, Nils Peter, Grosshandlare, Hälsingborg, f V Kattarp, Malmöh l, 7/1 73 av handl Pål Nilsson o Maria Persson, gm Enieli Jönsson. Förest fad lantaff 94—98, eg kläd-o manuf.aff Hbg tills m A Telenius 98, övert 04 helt aff, s 18 ombild t AB N P Paulsson, Hbg, partiaff klädesvar, vkst dir där. Flm Hbgs hdlsfrn, styr.led Wällufs sparbk o Hbgs köpm.frn, f d styr.led Textilgross riksfrb o v. ordf Frn S Sv Manufakturgross, stift o f d styr.led Hbgs hdlsklubb.",
+    "translated": "PAULSSON, Nils Peter, Merchant, Hälsingborg, born in Kattarp, Malmöh l, on July 1st, 1873 to the merchant Pål Nilsson and Maria Persson, married Enieli Jönsson. Formerly managed the agricultural store from 1894 to 1898, then owned a clothing and manufacturing business in Hbg until Mr. A Telenius took over in 1898. Later in 1904, completely acquired the business and in 1918 restructured it into AB N P Paulsson, Hbg, a wholesale clothing company, where he served as Sales Director. Active member of Hbg's Commercial Association, member of the Board of Directors at Wällufs Savings Bank and Hbg's Merchant Association, former member of the Board of Directors at the Textile Wholesalers National Association and vice-chairman of the Swedish Manufacturer Wholesalers Association, and a founding member and former member of the Board of Directors at Hbg's Commercial Club.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Nils Peter Paulsson",
+        "jobTitle": "Merchant",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Hälsingborg"
+        },
+        "birthDate": "1873-07-01",
+        "birthPlace": "Kattarp, Malmöh l",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Pål Nilsson",
+                "jobTitle": "Merchant"
+            },
+            {
+                "@type": "Person",
+                "name": "Maria Persson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Enieli Jönsson"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Hbg's Commercial Association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Wällufs Savings Bank",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Board of Directors"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Hbg's Merchant Association",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Board of Directors"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Textile Wholesalers National Association",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Board of Directors"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Manufacturer Wholesalers Association",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Board of Directors"
+                },
+                "vicePresident": true
+            },
+            {
+                "@type": "Organization",
+                "name": "Hbg's Commercial Club",
+                "lastBoardMember": true
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "AB N P Paulsson",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Hälsingborg"
+            },
+            "jobTitle": "Sales Director",
+            "startDate": "1918-01-01"
+        },
+        "hasOccupation": [
+            {
+                "@type": "Organization",
+                "name": "Agricultural Store",
+                "jobTitle": "Manager",
+                "startDate": "1894-01-01",
+                "endDate": "1898-12-31"
+            },
+            {
+                "@type": "Organization",
+                "name": "Clothing and Manufacturing Business",
+                "jobTitle": "Owner",
+                "startDate": "1898-01-01",
+                "endDate": "1904-12-31"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB N P Paulsson",
+                "jobTitle": "Owner",
+                "startDate": "1904-01-01"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Hälsingborg",
+                "industry": "Retail",
+                "start_date": "Unclear"
+            },
+            {
+                "occupational_title": "Manager of agricultural store",
+                "workplace": "Hälsingborg",
+                "industry": "Agriculture",
+                "start_date": "1894"
+            },
+            {
+                "occupational_title": "Owner of clothing and manufacturing business",
+                "workplace": "Hälsingborg",
+                "industry": "Clothing and manufacturing",
+                "start_date": "1898"
+            },
+            {
+                "occupational_title": "Sales Director",
+                "workplace": "AB N P Paulsson, Hälsingborg",
+                "industry": "Wholesale clothing",
+                "start_date": "1918"
+            }
+        ]
+    }
+}

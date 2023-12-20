@@ -1,0 +1,109 @@
+{
+    "original": "OLOFSON, Bror W, Direktör, Malmö, f Farstorp, Krst l, 25/2 77 av lantbr Olof Jonsson o Hanna Valdemarsdtr, gm Lia Trägårdh. Gr o deläg fma Bröd Olofson, Malmö, 09, ens inneh dna sed. 13, vkst dir dta AB sed. 29. Styr.led Frn S Sv Manufakturgross, Textil-gross riksfrb, AB Ljungskogens Strandbad m fi AB. RVO.",
+    "translated": "OLOFSON, Bror W, Director, Malmö, b Farstorp, Bap l, 25/2 77 of farmer Olof Jonsson and Hanna Valdemarsdtr, m Lia Trägårdh. Owns and co-owns company Bröd Olofson, Malmö, since 1909, solely managing since 1913. Deputy Managing Director of dta AB since 1929. Board member and Chairman From S Swedish Manufacture Wholesale, Textile Wholesale national federation, AB Ljungskogens Strandbad and other companies. Received Royal Order of Vasa.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Bror W OLOFSON",
+        "jobTitle": "Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Malmö"
+        },
+        "birthPlace": "Farstorp",
+        "birthDate": "1877-02-25",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Olof Jonsson",
+                "jobTitle": "farmer"
+            },
+            {
+                "@type": "Person",
+                "name": "Hanna Valdemarsdtr"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Lia Trägårdh"
+        },
+        "owns": {
+            "@type": "Organization",
+            "name": "Bröd Olofson",
+            "foundingDate": "1909",
+            "isOwnedBy": "Bror W OLOFSON",
+            "managementPosition": "solely managing"
+        },
+        "deputy": {
+            "@type": "Organization",
+            "name": "dta AB",
+            "managementPosition": "Deputy Managing Director",
+            "startDate": "1929"
+        },
+        "boardMember": [
+            {
+                "@type": "Organization",
+                "name": "S Swedish Manufacture Wholesale",
+                "position": "Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Textile Wholesale national federation"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Ljungskogens Strandbad"
+            }
+        ],
+        "awards": {
+            "@type": "Order",
+            "name": "Royal Order of Vasa"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Malmö",
+                "industry": "",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Owner and Co-owner",
+                "workplace": "Bröd Olofson, Malmö",
+                "industry": "Food Manufacturing",
+                "start_date": "1909"
+            },
+            {
+                "occupational_title": "Sole Manager",
+                "workplace": "Bröd Olofson, Malmö",
+                "industry": "Food Manufacturing",
+                "start_date": "1913"
+            },
+            {
+                "occupational_title": "Deputy Managing Director",
+                "workplace": "dta AB",
+                "industry": "",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Board Member and Chairman",
+                "workplace": "From S Swedish Manufacture Wholesale",
+                "industry": "Wholesale",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Board Member and Chairman",
+                "workplace": "Textile Wholesale national federation",
+                "industry": "Wholesale",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Board Member and Chairman",
+                "workplace": "AB Ljungskogens Strandbad and other companies",
+                "industry": "",
+                "start_date": ""
+            }
+        ]
+    }
+}

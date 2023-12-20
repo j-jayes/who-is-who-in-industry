@@ -1,0 +1,121 @@
+{
+    "original": "RUDEBORN, Erik, Disponent, Hälsingborg, f Hbg 26/11 02 av guldsmed Aug Pettersson o Bertha Olsson, gm Dag-ny Dahlberg. Folksk 0 högre folksk. Anst v Öresunds-Posten 18— 29, v AB Boktryck i Hbs sed. 29, inneh sistn fma samt Gutenbergförlaget i Hbg. Styr.led 1 Södra kretseri av Sv Boktryckarefrn, Hbgs Boktryckarefrn o Hbgs Reklamfrn.",
+    "translated": "RUDEBORN, Erik, Manager, Helsingborg, born in Helsingborg on November 26, 1902 to goldsmith Aug Pettersson and Bertha Olsson, married Dag-ny Dahlberg. Elementary school and higher elementary school education. Employed at Öresunds-Posten from 1918 to 1929, then at AB Boktryck in Helsingborg since 1929. Currently holds positions at the famous Gutenberg Publishing House in Helsingborg. Serving as a board member in the Southern Districts of the Swedish Printers' Association, Helsingborg Printers' Association, and Helsingborg Advertising Association.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Erik",
+        "familyName": "Rudeborn",
+        "jobTitle": "Manager",
+        "birthDate": "1902-11-26",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Helsingborg"
+        },
+        "father": {
+            "@type": "Person",
+            "givenName": "Aug",
+            "familyName": "Pettersson",
+            "jobTitle": "Goldsmith"
+        },
+        "mother": {
+            "@type": "Person",
+            "givenName": "Bertha",
+            "familyName": "Olsson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "givenName": "Dag-ny",
+            "familyName": "Dahlberg"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "educationalLevel": {
+                    "@type": "DefinedTerm",
+                    "name": "Elementary school"
+                }
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "educationalLevel": {
+                    "@type": "DefinedTerm",
+                    "name": "Higher elementary school"
+                }
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Öresunds-Posten",
+                "startDate": "1918",
+                "endDate": "1929"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Boktryck",
+                "location": "Helsingborg",
+                "startDate": "1929"
+            },
+            {
+                "@type": "Organization",
+                "name": "Gutenberg Publishing House",
+                "location": "Helsingborg"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Printers' Association",
+                "position": [
+                    {
+                        "@type": "DefinedTerm",
+                        "name": "Board Member"
+                    },
+                    {
+                        "@type": "DefinedTerm",
+                        "name": "Southern Districts"
+                    }
+                ]
+            },
+            {
+                "@type": "Organization",
+                "name": "Helsingborg Printers' Association",
+                "position": {
+                    "@type": "DefinedTerm",
+                    "name": "Board Member"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Helsingborg Advertising Association",
+                "position": {
+                    "@type": "DefinedTerm",
+                    "name": "Board Member"
+                }
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Manager",
+                "workplace": "AB Boktryck",
+                "industry": "Printing industry",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Öresunds-Posten",
+                "industry": "Newspaper industry",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Gutenberg Publishing House",
+                "industry": "Publishing industry",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

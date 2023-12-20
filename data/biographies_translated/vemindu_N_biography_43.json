@@ -1,0 +1,135 @@
+{
+    "original": "NILSON, Gustav, Civilingenjör, Ålsten, f N Kyrketorp, Vgl, 11/12 88 av disp K G N o Thekla Liljeblad, gm Elsa Hultmark. CTH (VoV) 09. Anst Gbgs hamnstyr 10—12, Nord Järnv.byggn AB (hvdsakl brobyggn) 12—15, Trollh Kraftv 15—31 (förest f linjekont där fr 17), linjechef Krångede AB Sthlm sed. 31, tillika vkst dir AB Linjebyggnad Sthlm sed. dess bild 40. RVO.",
+    "translated": "NILSON, Gustav, Civil Engineer, Ålsten, b. Kyrketorp, Vgl, 11/12 88, son of discontinued Lieutenant Colonel K G N and Thekla Liljeblad, m. Elsa Hultmark. Graduated from Chalmers University of Technology (VoV) in 1909. Employed by Gothenburg Port Authority from 1910 to 1912, Northern Railway Construction Company (mainly bridge construction) from 1912 to 1915, Trollhättan Power Company from 1915 to 1931 (as line superintendent from 1917), line manager at Krångede AB in Stockholm since 1931, also acting managing director of AB Linjebyggnad in Stockholm since its establishment in 1940. Awarded Royal Order of Vasa (RVO).",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Gustav Nilson",
+        "jobTitle": "Civil Engineer",
+        "birthPlace": "Kyrketorp, Vgl",
+        "birthDate": "1888-11-12",
+        "father": {
+            "@type": "Person",
+            "name": "Lieutenant Colonel K G N"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Thekla Liljeblad"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Elsa Hultmark"
+        },
+        "alumniOf": {
+            "@type": "EducationalOrganization",
+            "name": "Chalmers University of Technology",
+            "location": "Gothenburg"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "degree",
+                "credentialEarned": {
+                    "@type": "EducationalDegree",
+                    "name": "Civil Engineering"
+                },
+                "educationLevel": "graduate",
+                "educationalLevel": {
+                    "@type": "DefinedTerm",
+                    "termCode": "VoV",
+                    "inDefinedTermSet": "https://www.chalmers.se/en/about-chalmers/Chalmers-educational-terms-of-admission/Pages/Examination-levels-and-abbreviation-codes.aspx"
+                },
+                "startDate": "1909"
+            }
+        ],
+        "jobTitleHistory": [
+            {
+                "@type": "JobPosting",
+                "title": "Employee",
+                "hiringOrganization": {
+                    "@type": "Organization",
+                    "name": "Gothenburg Port Authority"
+                },
+                "startDate": "1910",
+                "endDate": "1912"
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Employee",
+                "hiringOrganization": {
+                    "@type": "Organization",
+                    "name": "Northern Railway Construction Company"
+                },
+                "startDate": "1912",
+                "endDate": "1915",
+                "description": "Mainly involved in bridge construction"
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Line Superintendent",
+                "hiringOrganization": {
+                    "@type": "Organization",
+                    "name": "Trollhättan Power Company"
+                },
+                "startDate": "1915",
+                "endDate": "1931",
+                "description": "Promoted to Line Superintendent in 1917"
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Line Manager",
+                "hiringOrganization": {
+                    "@type": "Organization",
+                    "name": "Krångede AB"
+                },
+                "startDate": "1931",
+                "description": "Also acting Managing Director at AB Linjebyggnad since its establishment in 1940"
+            }
+        ],
+        "awards": {
+            "@type": "Order",
+            "name": "Royal Order of Vasa",
+            "description": "RVO"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Chalmers University of Technology",
+                "industry": "Education",
+                "start_date": "1909"
+            },
+            {
+                "occupational_title": "Employed by Gothenburg Port Authority",
+                "workplace": "Gothenburg Port Authority",
+                "industry": "Transportation",
+                "start_date": "1910"
+            },
+            {
+                "occupational_title": "Northern Railway Construction Company",
+                "workplace": "Northern Railway Construction Company",
+                "industry": "Construction",
+                "start_date": "1912"
+            },
+            {
+                "occupational_title": "Trollhättan Power Company",
+                "workplace": "Trollhättan Power Company",
+                "industry": "Energy",
+                "start_date": "1915"
+            },
+            {
+                "occupational_title": "Line Manager at Krångede AB",
+                "workplace": "Krångede AB",
+                "industry": "Construction",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Acting Managing Director of AB Linjebyggnad",
+                "workplace": "AB Linjebyggnad",
+                "industry": "Construction",
+                "start_date": "1940"
+            }
+        ]
+    }
+}

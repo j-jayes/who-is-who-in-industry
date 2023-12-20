@@ -1,0 +1,127 @@
+{
+    "original": "NYMAN, John Ruben, Advokat, Västerås, f V.ås 7/7 86 av urfabr Ad N o Alma Nyberg, gm Emma Ekman. Studex V.ås, jur kand Upps. Etabl V.ås försäkr.byrå 18, Nymans adv.byrå 23, vkst dir Bergsl-Mälarbygd köpmfrn 32, omb.m Gbg bk i V.ås 35, d :o Västml l trä- &amp; byggn.frn 38. Styr.ordf Ad Nymans AB, V.ås konstfrn, v. styr.ordf V.ås omnibus-AB, styr.led V.ås teaterAB, byggn.AB Miener samt fi bost.rättsfrn :ar, styr-suppl S-W-B Nya JvgsAB, led nmdn f Sv adv.samf o styr f dess mell avd. Stdflm sed. 34, led dräts.kamm sed. 37, vägnmdn, polisnmdn. Resor: Tyskl 21, Engl 26, Span 29, Ung, Tjeckoslov 36, Finl 37, 41. Styr.ordf Sällsk V.ås; Brand-o livförs.AB Skånes GM. Hobbies: Målning, sportfiske.",
+    "translated": "NYMAN, John Ruben, Lawyer, Västerås, born in Västerås on July 7, 1886, son of watch factory worker Ad N and Alma Nyberg, married to Emma Ekman. Graduated from Västerås, law degree from Uppsala. Established Västerås insurance agency in 1918, Nyman's law firm in 1923, became managing director of the Bergsl-Mälarbygd department store in 1932, representative of Gbg Bank in Västerås in 1935, and director of Västml l wood and construction company from 1938. Chairman of the board at Ad Nymans AB, Västerås art society, vice chairman of Västerås omnibus company, board member of Västerås theater company, Miener construction company, and several housing cooperatives, board substitute of S-W-B Nya Jvgs AB, and member of the Swedish Bar Association. Also served on the board of the local cinema since 1934 and the municipal finance committee since 1937, as well as the road committee and police committee. Traveled to Germany in 1921, England in 1926, Spain in 1929, Hungary and Czechoslovakia in 1936, Finland in 1937 and 1941. Chairman of the Västerås Society; Chairman of Skånes GM Fire and Life Insurance Company. Hobbies include painting and sport fishing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "John Ruben Nyman",
+        "jobTitle": "Lawyer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Västerås"
+        },
+        "birthDate": "1886-07-07",
+        "birthPlace": "Västerås",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Ad N Nyberg",
+                "jobTitle": "Watch Factory Worker"
+            },
+            {
+                "@type": "Person",
+                "name": "Alma Nyberg"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Emma Ekman"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Västerås",
+            "alumniOf": {
+                "@type": "EducationalOrganization",
+                "name": "Uppsala"
+            }
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Skånes GM Fire and Life Insurance Company",
+                "jobTitle": "Chairman of the Board"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Västerås Society",
+                "jobTitle": "Chairman"
+            }
+        ],
+        "additionalName": "Ruben",
+        "description": "Advokat",
+        "hobbies": [
+            "Målning",
+            "Sportfiske"
+        ],
+        "travelHistory": {
+            "@type": "ItemList",
+            "itemListElement": [
+                {
+                    "@type": "Place",
+                    "name": "Germany",
+                    "departureDate": "1921"
+                },
+                {
+                    "@type": "Place",
+                    "name": "England",
+                    "departureDate": "1926"
+                },
+                {
+                    "@type": "Place",
+                    "name": "Spain",
+                    "departureDate": "1929"
+                },
+                {
+                    "@type": "Place",
+                    "name": "Hungary",
+                    "departureDate": "1936"
+                },
+                {
+                    "@type": "Place",
+                    "name": "Czechoslovakia",
+                    "departureDate": "1936"
+                },
+                {
+                    "@type": "Place",
+                    "name": "Finland",
+                    "departureDate": "1937"
+                },
+                {
+                    "@type": "Place",
+                    "name": "Finland",
+                    "departureDate": "1941"
+                }
+            ]
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Lawyer",
+                "workplace": "Västerås",
+                "industry": "Law",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "Bergsl-Mälarbygd department store",
+                "industry": "Retail",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Representative",
+                "workplace": "Gbg Bank",
+                "industry": "Banking",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Västml l wood and construction company",
+                "industry": "Construction",
+                "start_date": "1938"
+            }
+        ]
+    }
+}

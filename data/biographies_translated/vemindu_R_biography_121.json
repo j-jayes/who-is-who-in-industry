@@ -1,0 +1,186 @@
+{
+    "original": "ROTHLIN, Carl Ivan Georg, Direktör, Göteborg, f Kkrona 23/4 87 av sjökapt C M R o Elvira Silow, gm Maj Hedelius. Studex Kkr 07, farm kand 10. Anst apot Lejonet o Ejdern Gbg 10—13, avd.ch fma Malmsten &amp; Bergvall 13—20, dir Apot:s droghdlsAB sed.20, inneh fma Dr Queisser &amp; Co. Styr.led Apot droghdlsAB, AB Pharmacia Sthlm, An-derséngruppens annonsexp Sthlm. Resor: Norge, Danm, Finl, Estl, Tyskl, Holl, Belg, Frankr, Ung, Jugoslav, Ital, Engl, USA.",
+    "translated": "ROTHLIN, Carl Ivan Georg, Director, Gothenburg, b. Kkrona 23/4 87, son of sea captain C M R and Elvira Silow, married Maj Hedelius. Student, Kkr 07, agricultural candidate 10. Employed at the pharmacy Lejonet and Ejdern in Gothenburg 10-13, department head at Malmsten & Bergvall 13-20, director of Apot:s droghdlsAB since 20, owner of Dr Queisser & Co. Member of the board of directors of Apot droghdlsAB, AB Pharmacia Stockholm, and Anderséngruppens annonsexp Stockholm. Traveled to Norway, Denmark, Finland, Estonia, Germany, Holland, Belgium, France, Hungary, Yugoslavia, Italy, England, USA.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Carl Ivan Georg",
+        "familyName": "Rothlin",
+        "name": "Carl Ivan Georg Rothlin",
+        "jobTitle": "Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Gothenburg"
+        },
+        "birthDate": "1887-04-23",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "C M R",
+                "jobTitle": "Sea Captain"
+            },
+            {
+                "@type": "Person",
+                "name": "Elvira Silow"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Maj Hedelius"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Student",
+                "name": "Studex Kkr 07"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Agricultural Candidate",
+                "name": "Farm kand 10"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Lejonet apotek"
+                },
+                "startDate": "1910",
+                "endDate": "1913",
+                "title": "Employee"
+            },
+            {
+                "@type": "OrganizationRole",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Malmsten & Bergvall"
+                },
+                "startDate": "1913",
+                "endDate": "1920",
+                "title": "Department Head"
+            },
+            {
+                "@type": "OrganizationRole",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Apot:s droghdlsAB"
+                },
+                "startDate": "1920",
+                "title": "Director"
+            },
+            {
+                "@type": "OrganizationRole",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Dr Queisser & Co"
+                },
+                "startDate": "1920",
+                "title": "Owner"
+            }
+        ],
+        "boardMember": [
+            {
+                "@type": "Organization",
+                "name": "Apot droghdlsAB"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Pharmacia Stockholm"
+            },
+            {
+                "@type": "Organization",
+                "name": "Anderséngruppens annonsexp Stockholm"
+            }
+        ],
+        "hasPOS": [
+            {
+                "@type": "Place",
+                "name": "Norway"
+            },
+            {
+                "@type": "Place",
+                "name": "Denmark"
+            },
+            {
+                "@type": "Place",
+                "name": "Finland"
+            },
+            {
+                "@type": "Place",
+                "name": "Estonia"
+            },
+            {
+                "@type": "Place",
+                "name": "Germany"
+            },
+            {
+                "@type": "Place",
+                "name": "Holland"
+            },
+            {
+                "@type": "Place",
+                "name": "Belgium"
+            },
+            {
+                "@type": "Place",
+                "name": "France"
+            },
+            {
+                "@type": "Place",
+                "name": "Hungary"
+            },
+            {
+                "@type": "Place",
+                "name": "Yugoslavia"
+            },
+            {
+                "@type": "Place",
+                "name": "Italy"
+            },
+            {
+                "@type": "Place",
+                "name": "England"
+            },
+            {
+                "@type": "Place",
+                "name": "USA"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Apotekare",
+                "workplace": "Apoteket Lejonet",
+                "industry": "Pharmacy",
+                "start_date": "1910"
+            },
+            {
+                "occupational_title": "Apotekare",
+                "workplace": "Apoteket Ejdern",
+                "industry": "Pharmacy",
+                "start_date": "1910"
+            },
+            {
+                "occupational_title": "Avdelningschef",
+                "workplace": "Malmsten & Bergvall",
+                "industry": "Pharmaceuticals",
+                "start_date": "1913"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Apot:s droghdlsAB",
+                "industry": "Pharmaceuticals",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "Dr Queisser & Co.",
+                "industry": "Pharmaceuticals",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

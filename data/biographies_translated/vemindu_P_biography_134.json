@@ -1,0 +1,107 @@
+{
+    "original": "PLYM, Bengt August, Civilingenjör, Direktör, Saltsjöbaden, f Saltsjöbaden 9/5 06 av ing Aug P o Fredrique Bengtzén. Studex Saltsjöb 24, KTH (maskinbyggn o mek tekn) 25—30. Ing v Sthlms Båtbyggeri AB i Saltsjöb 30, vkst dir där 31, nu vkst dir i AB Neglingevarvet där. KSSS, KMK, SXK, styr.led i Sthlms Isyachtklubb.",
+    "translated": "PLYM, Bengt August, Civil Engineer, Director, Saltsjöbaden, b. Saltsjöbaden 9/5 06 to Engineer Aug P and Fredrique Bengtzén. Completed studies at Saltsjöbaden School in 1924, KTH (Mechanical Engineering) 1925-1930. Engineer at Sthlms Båtbyggeri AB in Saltsjöbaden from 1930, promoted to Managing Director in 1931, currently serving as Managing Director at AB Neglingevarvet. Member of KSSS, KMK, SXK, and on the board of directors of Sthlms Isyachtklubb.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Bengt August Plym",
+        "givenName": "Bengt August",
+        "familyName": "Plym",
+        "jobTitle": "Civil Engineer, Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Saltsjöbaden"
+        },
+        "birthDate": "1906-05-09",
+        "birthPlace": "Saltsjöbaden",
+        "parents": [
+            {
+                "@type": "Person",
+                "givenName": "Aug",
+                "familyName": "Plym",
+                "jobTitle": "Engineer"
+            },
+            {
+                "@type": "Person",
+                "givenName": "Fredrique",
+                "familyName": "Bengtzén"
+            }
+        ],
+        "education": [
+            {
+                "@type": "Organization",
+                "name": "Saltsjöbaden School",
+                "location": "Saltsjöbaden",
+                "endDate": "1924"
+            },
+            {
+                "@type": "Organization",
+                "name": "KTH",
+                "department": "Mechanical Engineering",
+                "location": "Stockholm",
+                "startDate": "1925",
+                "endDate": "1930"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Sthlms Båtbyggeri AB",
+                "location": "Saltsjöbaden",
+                "startDate": "1930",
+                "endDate": "present",
+                "jobTitle": "Engineer"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Neglingevarvet",
+                "jobTitle": "Managing Director",
+                "startDate": "1931",
+                "endDate": "present"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "KSSS"
+            },
+            {
+                "@type": "Organization",
+                "name": "KMK"
+            },
+            {
+                "@type": "Organization",
+                "name": "SXK"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sthlms Isyachtklubb",
+                "jobTitle": "Board Member"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Saltsjöbaden",
+                "industry": "Engineering",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Sthlms Båtbyggeri AB",
+                "industry": "Shipbuilding",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": [
+                    "AB Neglingevarvet"
+                ],
+                "industry": "Shipbuilding",
+                "start_date": "n/a"
+            }
+        ]
+    }
+}

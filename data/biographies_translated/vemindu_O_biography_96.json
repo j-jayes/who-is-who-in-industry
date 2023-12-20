@@ -1,0 +1,111 @@
+{
+    "original": "ORSANDER, Nils, Köpman, Hälsingborg, f Aspö, Malmöh l, 19/10 86, gm Hildur Larsson. Prakt v öl lantaffärer, stud v hdlssk, anst v AB Bröderna Åberg i Kattarp 5 år, res i fma Joh Ahlbom &amp; Co i Hbg 7 år, representant f Hbgs Kolonialvaru AB 19, styr.-suppl där, styr.led i Hbgs Färg- &amp; Kemikalie AB o i Olssons Kraftfoder AB, kassör i Hbgs-klubben av Frn Sv Aktiva Hdlsresande, medl av Sv Hdlsresandefrn.",
+    "translated": "ORSANDER, Nils, Merchant, Helsingborg, b. Aspö, Malmöhus län, 19/10 1886, m. Hildur Larsson. Worked in various agricultural businesses, studied at a commercial school, employed for 5 years at AB Bröderna Åberg in Kattarp, 7 years travel experience with Joh Ahlbom &amp; Co in Helsingborg, representative for Helsingborgs Kolonialvaru AB since 1919, board member and treasurer at Helsingborgs Färg- &amp; Kemikalie AB and Olssons Kraftfoder AB, cashier at the Helsingborg Club of Swedish Active Merchants, member of the Swedish Merchants Association.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Nils Orsander",
+        "jobTitle": "Merchant",
+        "birthDate": "1886-10-19",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Aspö",
+            "address": {
+                "@type": "PostalAddress",
+                "addressRegion": "Malmöhus län"
+            }
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Helsingborg"
+        },
+        "spouse": "Hildur Larsson",
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "AB Bröderna Åberg",
+                "startDate": "yyyy-mm-dd",
+                "endDate": "yyyy-mm-dd",
+                "jobTitle": "Employee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Joh Ahlbom & Co",
+                "startDate": "yyyy-mm-dd",
+                "endDate": "yyyy-mm-dd",
+                "jobTitle": "Travel Experience"
+            },
+            {
+                "@type": "Organization",
+                "name": "Helsingborgs Kolonialvaru AB",
+                "startDate": "1919",
+                "jobTitle": "Representative"
+            },
+            {
+                "@type": "Organization",
+                "name": "Helsingborgs Färg- & Kemikalie AB",
+                "jobTitle": "Board Member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Olssons Kraftfoder AB",
+                "jobTitle": "Board Member"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Helsingborg Club of Swedish Active Merchants",
+            "jobTitle": "Cashier"
+        },
+        "affiliation": {
+            "@type": "Organization",
+            "name": "Swedish Merchants Association"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Practical in agricultural businesses",
+                "workplace": "Unknown",
+                "industry": "Agriculture",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "AB Bröderna Åberg",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Travel representative",
+                "workplace": "Joh Ahlbom & Co",
+                "industry": "Travel",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Representative",
+                "workplace": "Helsingborgs Kolonialvaru AB",
+                "industry": "Wholesale trade",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Board member",
+                "workplace": "Helsingborgs Färg- & Kemikalie AB",
+                "industry": "Chemical",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Board member",
+                "workplace": "Olssons Kraftfoder AB",
+                "industry": "Animal feed",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Cashier",
+                "workplace": "Helsingborg Club of Swedish Active Merchants",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

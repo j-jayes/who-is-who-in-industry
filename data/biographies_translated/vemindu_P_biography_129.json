@@ -1,0 +1,116 @@
+{
+    "original": "PIHX, Axel Harald, Grosshandlare, Stockholm, f Trollhättan 23/8 74 av bkdir John P o Ida Hellberg, gm Dagmar Geijer. Studex Vbg, dipl Dr Boyes Handelsinst, Rostock, Tyskl. Anst Nord Metall AB (Sv Metallvkn) 00—02, prok Fma Victor Berg Sthlm 03—12, egen fma Harald Pihl Sthlm sed. 12. Förtroendeman o Kominissionär Ind.komm Metallbyrån 14—18. Vistats i Tyskl, Belg, Frankr, Engl 95—99 för kommersiella studier.",
+    "translated": "PIHX, Axel Harald, Merchant, Stockholm, b. Trollhättan 23/8 1874 to parents John P and Ida Hellberg, m. Dagmar Geijer. Studex Vbg, dipl. Dr. Boyes Business Institute, Rostock, Germany. Employed at Nord Metall AB (Swedish Metalworks) 1900-1902, deputy at Fma Victor Berg Stockholm 1903-1912, owner of Harald Pihl Stockholm since 1912. Trusted advisor and commissioner at the Industrial Committee Metal Bureau 1914-1918. Resided in Germany, Belgium, France, and England from 1895-1899 for commercial studies.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Axel",
+        "additionalName": "Harald",
+        "familyName": "PIHX",
+        "gender": "Male",
+        "birthDate": "1874-08-23",
+        "birthPlace": {
+            "@type": "Place",
+            "name": "Trollhättan"
+        },
+        "nationality": "Swedish",
+        "description": "Merchant",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "givenName": "John",
+                "additionalName": "P",
+                "familyName": "PIHX",
+                "gender": "Male"
+            },
+            {
+                "@type": "Person",
+                "givenName": "Ida",
+                "familyName": "Hellberg",
+                "gender": "Female"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "givenName": "Dagmar",
+            "familyName": "Geijer",
+            "gender": "Female"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "Studex Vbg"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "dipl Dr. Boyes Handelsinst, Rostock, Tyskl"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Nord Metall AB",
+                "startDate": "1900-01-01",
+                "endDate": "1902-12-31"
+            },
+            {
+                "@type": "Organization",
+                "name": "Fma Victor Berg Stockholm",
+                "startDate": "1903-01-01",
+                "endDate": "1912-12-31"
+            },
+            {
+                "@type": "Organization",
+                "name": "Harald Pihl Stockholm",
+                "startDate": "1912-01-01"
+            },
+            {
+                "@type": "Organization",
+                "name": "Ind.komm Metallbyrån",
+                "startDate": "1914-01-01",
+                "endDate": "1918-12-31"
+            }
+        ],
+        "sameAs": [
+            "https://www.example.com/axel-harald-pihx"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Stockholm",
+                "industry": "Unknown",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Nord Metall AB (Swedish Metalworks)",
+                "industry": "Metallurgy",
+                "start_date": "1900"
+            },
+            {
+                "occupational_title": "Deputy",
+                "workplace": "Fma Victor Berg Stockholm",
+                "industry": "Unknown",
+                "start_date": "1903"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "Harald Pihl Stockholm",
+                "industry": "Unknown",
+                "start_date": "1912"
+            },
+            {
+                "occupational_title": "Trusted advisor and commissioner",
+                "workplace": "Industrial Committee Metal Bureau",
+                "industry": "Unknown",
+                "start_date": "1914"
+            }
+        ]
+    }
+}

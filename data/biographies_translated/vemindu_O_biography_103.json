@@ -1,0 +1,130 @@
+{
+    "original": "OTTERBECK, Sten Birger Leonarth M:sen, Civilingenjör, Finspång, f Sthlm 19/4 05 av disp Leonarth Morthensen o Elin Anrep, gm Ulla Larsson. Studex Djursh 24, civingex KTH (maskinbyggn o mek tekn) 29. Anst v AB Separator 29—31; Eskilstuna Stålpressn AB 31—42, verkst.ing där 31—38, ritkont.ch 34—38 o arb.studiech 38—42; arb.studiech v STAL i Finspång sed. 43. Resor: Danm 25, Tyskl 26, Frankr 30, Norge 33, Tyskl 39. Hobbies : Idrott, friluftsliv, Skytte, bridge.",
+    "translated": "OTTERBECK, Sten Birger Leonarth M:sen, Civil Engineer, Finspång, born in Stockholm on April 19, 1905, son of Leonarth Morthensen and Elin Anrep, married to Ulla Larsson. Graduated from Djursh High School in 1924, received a degree in Civil Engineering from the Royal Institute of Technology (specialization in mechanical engineering) in 1929. Employed at AB Separator from 1929 to 1931; Eskilstuna Stålpressn AB from 1931 to 1942, serving as an engineer from 1931 to 1938, head of the drafting department from 1934 to 1938, and engaged in work-related studies from 1938 to 1942; engaged in work-related studies at STAL in Finspång since 1943. Travel: Denmark 1925, Germany 1926, France 1930, Norway 1933, Germany 1939. Hobbies: Sports, outdoor activities, shooting, bridge.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Sten Birger Leonarth M:sen Otterbeck",
+        "birthDate": "1905-04-19",
+        "birthPlace": "Stockholm",
+        "father": {
+            "@type": "Person",
+            "name": "Leonarth Morthensen"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Elin Anrep"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Ulla Larsson"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "diploma",
+            "educationalLevel": "Bachelor's Degree",
+            "earnedBy": {
+                "@type": "Person",
+                "name": "Sten Birger Leonarth M:sen Otterbeck"
+            },
+            "issuedBy": {
+                "@type": "CollegeOrUniversity",
+                "name": "Royal Institute of Technology"
+            },
+            "specialization": "Mechanical Engineering",
+            "dateIssued": "1929"
+        },
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1929",
+                "endDate": "1931",
+                "roleName": "Employed at AB Separator"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1931",
+                "endDate": "1942",
+                "roleName": "Employed at Eskilstuna Stålpressn AB",
+                "subOrganization": {
+                    "@type": "OrganizationRole",
+                    "startDate": "1938",
+                    "endDate": "1942",
+                    "roleName": "Engaged in work-related studies"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1943",
+                "roleName": "Engaged in work-related studies at STAL in Finspång"
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "Place",
+                "name": "Denmark",
+                "startDate": "1925"
+            },
+            {
+                "@type": "Place",
+                "name": "Germany",
+                "startDate": "1926"
+            },
+            {
+                "@type": "Place",
+                "name": "France",
+                "startDate": "1930"
+            },
+            {
+                "@type": "Place",
+                "name": "Norway",
+                "startDate": "1933"
+            },
+            {
+                "@type": "Place",
+                "name": "Germany",
+                "startDate": "1939"
+            }
+        ],
+        "hobbies": [
+            "Sports",
+            "Outdoor activities",
+            "Shooting",
+            "Bridge"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "AB Separator",
+                "industry": "Mechanical Engineering",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Eskilstuna Stålpressn AB",
+                "industry": "Metal Industry",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Head of the Drafting Department",
+                "workplace": "Eskilstuna Stålpressn AB",
+                "industry": "Metal Industry",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Work-Related Studies",
+                "workplace": "Eskilstuna Stålpressn AB",
+                "industry": "Metal Industry",
+                "start_date": "1938"
+            },
+            {
+                "occupational_title": "Work-Related Studies",
+                "workplace": "STAL in Finspång",
+                "industry": "Metal Industry",
+                "start_date": "1943"
+            }
+        ]
+    }
+}

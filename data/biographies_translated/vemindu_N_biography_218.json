@@ -1,0 +1,106 @@
+{
+    "original": "NYCANDER, Curt Gregorson, Konsul, Strömstad, f Morlanda 11/6 97 av ing G N o Sigrid Smith, gm Martha Jacobson. GbgReal, Gbgs hdlsinst. Anst i kolexp.fmor i Tyskl o Engl 20—24, i kolimpfmor i Malmö o Gbg 24—28. Ag kolimp.fma Curt Nycander, skppsmäkl, Strst, sed. 29. Tysk v. kons. Resor: Tyskl o Engl 20—24. RTyöO. Hobbies: Tennis, jakt, fiske.",
+    "translated": "NYCANDER, Curt Gregorson, Consul, Strömstad, born in Morlanda on 11/6 1897, son of engineer G. N. and Sigrid Smith, married to Martha Jacobson. Educated at Gothenburg Realgymnasium and Gothenburg Trade Institute. Worked as a trainee in coal exports to Germany and England from 1920 to 1924, and as a coal importer in Malmö and Gothenburg from 1924 to 1928. Became co-owner of the coal importing firm Curt Nycander, shipbroker, in Strömstad in 1929. Honorary German Vice-Consul. Traveled to Germany and England from 1920 to 1924. Member of the Royal Swedish Yacht Club. Hobbies include tennis, hunting, and fishing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Curt Gregorson Nycander",
+        "birthDate": "1897-11-06",
+        "birthPlace": "Morlanda, Sweden",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "G. N. Nycander",
+                "jobTitle": "Engineer"
+            },
+            {
+                "@type": "Person",
+                "name": "Sigrid Smith"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Martha Jacobson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "secondary education",
+                "credentialAwarded": "Gothenburg Realgymnasium"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "trade education",
+                "credentialAwarded": "Gothenburg Trade Institute"
+            }
+        ],
+        "jobTitle": "Consul",
+        "worksFor": "Strömstad",
+        "workExperience": [
+            {
+                "@type": "EmploymentEvent",
+                "startDate": "1920",
+                "endDate": "1924",
+                "employer": "Coal Export Company",
+                "jobTitle": "Trainee in Coal Exports",
+                "jobLocation": "Germany and England"
+            },
+            {
+                "@type": "EmploymentEvent",
+                "startDate": "1924",
+                "endDate": "1928",
+                "employer": "Coal Import Company",
+                "jobTitle": "Coal Importer",
+                "jobLocation": "Malmö and Gothenburg"
+            },
+            {
+                "@type": "EmploymentEvent",
+                "startDate": "1929",
+                "employer": "Curt Nycander",
+                "jobTitle": "Co-owner, Shipbroker",
+                "jobLocation": "Strömstad"
+            }
+        ],
+        "honorificPrefix": "Honorary German Vice-Consul",
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Royal Swedish Yacht Club"
+        },
+        "hasOccupation": [
+            {
+                "@type": "SportsTeam",
+                "name": "Tennis"
+            },
+            {
+                "@type": "SportsTeam",
+                "name": "Hunting"
+            },
+            {
+                "@type": "SportsTeam",
+                "name": "Fishing"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Trainee in coal exports",
+                "workplace": "Germany and England",
+                "industry": "Coal",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Coal importer",
+                "workplace": "Malmö and Gothenburg",
+                "industry": "Coal",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Co-owner of coal importing firm",
+                "workplace": "Curt Nycander, shipbroker, Strömstad",
+                "industry": "Coal",
+                "start_date": "1929"
+            }
+        ]
+    }
+}

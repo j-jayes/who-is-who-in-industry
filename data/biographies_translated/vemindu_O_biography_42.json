@@ -1,0 +1,64 @@
+{
+    "original": "OHLSSON, Joel Leonard, Köpman, Värnanio, f Ausås, Kristianst l, 9/7 88, gm Hulda Carlsson. Verksam i branschen sed. 02, prakt i Fingal Carlssons Speceriaffär i Värnamo 12 —15, etabl Joel Ohlssons Diversehdl där 16. Kassör i Värnamo Köpm.frn sed. 35.",
+    "translated": "OHLSSON, Joel Leonard, Merchant, Värnamio, b. Ausås, Kristianstad county, 9/7 1888, m. Hulda Carlsson. Engaged in the industry since 1902, apprentice at Fingal Carlssons Speceriaffär in Värnamo 1912-1915, established Joel Ohlssons Diversehdl there in 1916. Cashier at Värnamo Köpm.frn since 1935.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Joel Leonard Ohlsson",
+        "birthDate": "1888-07-09",
+        "birthPlace": "Ausås, Kristianstad County",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Fingal Carlssons Speceriaffär",
+                "startDate": "1912-01-01",
+                "endDate": "1915-12-31",
+                "description": "Apprenticeship"
+            },
+            {
+                "@type": "Organization",
+                "name": "Joel Ohlssons Diversehdl",
+                "startDate": "1916-01-01",
+                "description": "Established his own business"
+            },
+            {
+                "@type": "Organization",
+                "name": "Värnamo Köpm.frn",
+                "startDate": "1935-01-01",
+                "description": "Cashier"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Hulda Carlsson"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Värnamio",
+                "industry": "Unknown",
+                "start_date": "1902"
+            },
+            {
+                "occupational_title": "Apprentice",
+                "workplace": "Fingal Carlssons Speceriaffär",
+                "industry": "Grocery store",
+                "start_date": "1912"
+            },
+            {
+                "occupational_title": "Founder",
+                "workplace": "Joel Ohlssons Diversehdl",
+                "industry": "Retail",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Cashier",
+                "workplace": "Värnamo Köpm.frn",
+                "industry": "Retail",
+                "start_date": "1935"
+            }
+        ]
+    }
+}

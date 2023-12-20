@@ -1,0 +1,89 @@
+{
+    "original": "OLSSON, Bengt Fredrik, Civilingenjör, Ludvika, f Sthlm 25/9 92 av måleriarb J F O o Maria Andersson, gm Elsa Moberg. Studex Sthlm 11, KTH (E) 12—16. Ing.elev v ASEA i Västerås 17—18, ing där 18—20 o v Ludvikaverken sed. 21.",
+    "translated": "OLSSON, Bengt Fredrik, Civil Engineer, Ludvika, born in Stockholm on September 25, 1892, son of paint worker J F O and Maria Andersson, married to Elsa Moberg. Passed student exams in Stockholm in 1911, studied at the Royal Institute of Technology (Engineering) from 1912 to 1916. Engineering apprentice at ASEA in Västerås from 1917 to 1918, engineer there from 1918 to 1920, and engineer at Ludvikaverken since 1921.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Bengt Fredrik Olsson",
+        "jobTitle": "Civil Engineer",
+        "birthPlace": "Stockholm, Sweden",
+        "birthDate": "1892-09-25",
+        "spouse": {
+            "@type": "Person",
+            "name": "Elsa Moberg"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "J F O"
+            },
+            {
+                "@type": "Person",
+                "name": "Maria Andersson"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "studentExam",
+                "educationalLevel": "Passed",
+                "provider": {
+                    "@type": "Organization",
+                    "name": "Stockholm"
+                },
+                "startDate": "1911",
+                "endDate": "1911"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "degree",
+                "educationalLevel": "Bachelor's Degree",
+                "provider": {
+                    "@type": "Organization",
+                    "name": "Royal Institute of Technology"
+                },
+                "startDate": "1912",
+                "endDate": "1916"
+            }
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "ASEA"
+            },
+            {
+                "@type": "Organization",
+                "name": "Ludvikaverken"
+            }
+        ],
+        "affiliations": [
+            {
+                "@type": "Organization",
+                "name": "ASEA",
+                "startDate": "1917",
+                "endDate": "1920"
+            },
+            {
+                "@type": "Organization",
+                "name": "Ludvikaverken",
+                "startDate": "1921"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "ASEA",
+                "industry": "Electrical engineering",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Ludvikaverken",
+                "industry": "Industrial manufacturing",
+                "start_date": "1921"
+            }
+        ]
+    }
+}

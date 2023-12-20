@@ -1,0 +1,80 @@
+{
+    "original": "ROSENBAUM, Albert, Köpman, Sundsvall, f Hudiksvall 27/12 86 av köpm S R o Lina Adelsohn, gm Annie Herson. Hal, hdlssk i Sdsv, 3 års aff.utb i Tyskl. Anst NK 07—09, Övert jämte mod v fad :s död 11 dennes fma und fmanamn L Rosenbaum &amp; Co, ens inneh sed. 27 (fman grund 97). Resor: Europa, Afr 0 USA v öl tillf 19—39. Odd Fellow, W6.",
+    "translated": "ROSENBAUM, Albert, Merchant, Sundsvall, b. Hudiksvall 27/12 1886, son of merchant S R and Lina Adelsohn, m. Annie Herson. Completed trade school in Sundsvall, received 3 years of business education in Germany. Employed at NK (department store) 1907-1909. Took over father's business upon his death in 1911, firm name L Rosenbaum & Co, sole proprietorship since. Traveled to Europe, Africa and the USA multiple times between 1919 and 1939. Member of the Odd Fellow lodge since 1906.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Albert Rosenbaum",
+        "birthDate": "1886-12-27",
+        "birthPlace": "Hudiksvall, Sweden",
+        "nationality": "Swedish",
+        "occupation": "Merchant",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "L Rosenbaum & Co"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "trade school",
+                "educationalLevel": "secondary",
+                "startDate": "1907",
+                "endDate": "1909",
+                "educationalFramework": "Germany"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Annie Herson"
+        },
+        "children": [],
+        "residence": "Sundsvall, Sweden",
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "NK (Nordiska Kompaniet)",
+                "startDate": "1907",
+                "endDate": "1909"
+            },
+            {
+                "@type": "Organization",
+                "name": "L Rosenbaum & Co",
+                "startDate": "1911"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Odd Fellow",
+                "startDate": "1906"
+            }
+        ],
+        "travelHistory": [
+            "Europe",
+            "Africa",
+            "USA"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Sundsvall",
+                "industry": "Commerce",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "NK (department store)",
+                "industry": "Commerce",
+                "start_date": "1907"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "L Rosenbaum & Co",
+                "industry": "Commerce",
+                "start_date": "1911"
+            }
+        ]
+    }
+}

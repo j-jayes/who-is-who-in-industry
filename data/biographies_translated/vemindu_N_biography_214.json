@@ -1,0 +1,135 @@
+{
+    "original": "NYBLAEUS, Carl-Axel Edvard Cooper, Kapten, Stockholm, f Södertälje 28/10 86 av ing C A N o Charlotta Bruce, gm Hildur Löfgren. Reallärov i Södertälje, sjökapt.ex 12. Verksam i sjöbranschen 12—17, vkst dir i Sv Varvs &amp; Rederi AB i Sthlm 17—19, verksam 1 försäkr.branschen 21—25, repres f Vacuum Oil Company o Sv Bensin &amp; Petroleum AB BP i Sthlm 25—33, anst v Sv Stötdämparefabr i Sthlm 33, vkst dir där 34 o inneh sed. 36, ombild bol t Försäljn AB SSF 41 (tillv o försälj stötdämp SSF), tillika vkst dir i AB Kambi i Sthlm sed. grund 38 (tillverkn o för-säljn av friktionskopplingar). Resor: Nord-o Sydamerika, Austr, Söderhavet, Afr mfl. Medl av Aurora-Orden. Hobby: Filateli.",
+    "translated": "NYBLAEUS, Carl-Axel Edvard Cooper, Captain, Stockholm, born in Södertälje on 28/10 1886, son of engineer C A N and Charlotta Bruce, married Hildur Löfgren. Completed secondary education in Södertälje, obtained a merchant marine captain's degree in 1912. Active in the maritime industry from 1912 to 1917, then served as a managing director at the Swedish Shipyard and Shipping Company in Stockholm from 1917 to 1919. Worked in the insurance industry from 1921 to 1925, representing the Vacuum Oil Company and Swedish Benzene & Petroleum Company in Stockholm from 1925 to 1933. Joined the Swedish Shock Absorber Factory in Stockholm in 1933, serving as a managing director from 1934 and shareholder from 1936. Participated in the formation of Sales AB SSF in 1941 (manufacturer and seller of shock absorbers SSF), also served as a managing director at AB Kambi in Stockholm since its establishment in 1938 (manufacturer and seller of friction couplings). Traveled to North and South America, Australia, the South Pacific, Africa, and more. Member of the Aurora Order. Hobby: Philately.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl-Axel Edvard Cooper Nyblaeus",
+        "birthDate": "1886-10-28",
+        "birthPlace": "Södertälje, Sweden",
+        "nationality": "Swedish",
+        "occupation": "Captain",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm",
+            "addressCountry": "Sweden"
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "C. A. N Nyblaeus",
+                "jobTitle": "Engineer"
+            },
+            {
+                "@type": "Person",
+                "name": "Charlotta Bruce"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Hildur Löfgren"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "educationalLevel": "Secondary",
+            "educationalProgram": "Reallärov",
+            "school": {
+                "@type": "EducationalOrganization",
+                "name": "Södertälje School"
+            }
+        },
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Shipyard and Shipping Company",
+                "jobTitle": "Managing Director",
+                "startDate": "1917-01-01",
+                "endDate": "1919-12-31"
+            },
+            {
+                "@type": "Organization",
+                "name": "Vacuum Oil Company",
+                "jobTitle": "Representative",
+                "startDate": "1925-01-01",
+                "endDate": "1933-12-31"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Benzene & Petroleum Company",
+                "jobTitle": "Representative",
+                "startDate": "1925-01-01",
+                "endDate": "1933-12-31"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish Shock Absorber Factory",
+                "jobTitle": "Managing Director",
+                "startDate": "1934-01-01"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sales AB SSF",
+                "jobTitle": "Managing Director",
+                "startDate": "1941-01-01"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Kambi",
+                "jobTitle": "Managing Director",
+                "startDate": "1938-01-01"
+            }
+        ],
+        "travelHistory": "North and South America, Australia, the South Pacific, Africa, and more",
+        "membership": {
+            "@type": "Organization",
+            "name": "Aurora-Orden"
+        },
+        "hobby": "Philately"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant Marine Captain",
+                "workplace": "Maritime industry",
+                "industry": "Shipping",
+                "start_date": "1912"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "Swedish Shipyard and Shipping Company",
+                "industry": "Shipping",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Representative",
+                "workplace": "Vacuum Oil Company & Swedish Benzene & Petroleum Company",
+                "industry": "Insurance",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "Swedish Shock Absorber Factory",
+                "industry": "Manufacturing",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Shareholder",
+                "workplace": "Swedish Shock Absorber Factory",
+                "industry": "Manufacturing",
+                "start_date": "1936"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "AB Kambi",
+                "industry": "Manufacturing",
+                "start_date": "1938"
+            },
+            {
+                "occupational_title": "Founder",
+                "workplace": "Sales AB SSF",
+                "industry": "Manufacturing",
+                "start_date": "1941"
+            }
+        ]
+    }
+}

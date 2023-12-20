@@ -1,0 +1,93 @@
+{
+    "original": "PETERSON, Erik Gunnar, Disponent, Vadstena, f Vadstena 27/9 90 av poliskonstapel Joh P o Emma Gustafsson, gm Elsa Karlsson. Chef f AB Vadstena Byggnadssnickerier. Styr.led i Jordbr.bkns avd.kont. Stdsflm 31, led av drätselk, byggn.nmd o brandstyr 38, av städernas brandstodskté 35.",
+    "translated": "PETERSON, Erik Gunnar, Manager, Vadstena, born in Vadstena on September 27, 1890, son of police officer Johan P and Emma Gustafsson, married to Elsa Karlsson. Head of AB Vadstena Byggnadssnickerier. Board member at Jordbr.bkns avd.kont. Stdsflm 31, board member of drätselk, byggn.nmd and brandstyr in 1938, and member of the city's brandstodskté in 1935. Please note that \"gm\" stands for \"gift med\" which means \"married to\" in English, and \"Styr.led\" means board member.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Erik Gunnar Peterson",
+        "birthDate": "1890-09-27",
+        "birthPlace": "Vadstena",
+        "father": {
+            "@type": "Person",
+            "name": "Johan Peterson",
+            "occupation": "Police Officer"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Emma Gustafsson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Elsa Karlsson"
+        },
+        "occupation": "Manager",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "AB Vadstena Byggnadssnickerier"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Jordbr.bkns avd.kont. Stdsflm 31"
+            },
+            {
+                "@type": "Organization",
+                "name": "Drätselk"
+            },
+            {
+                "@type": "Organization",
+                "name": "Byggn.nmd"
+            },
+            {
+                "@type": "Organization",
+                "name": "Brandstyr",
+                "startDate": "1938"
+            },
+            {
+                "@type": "Organization",
+                "name": "Städernas Brandstodskté",
+                "startDate": "1935"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Manager",
+                "workplace": "AB Vadstena Byggnadssnickerier",
+                "industry": "Construction",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Board member",
+                "workplace": "Jordbr.bkns avd.kont. Stdsflm 31",
+                "industry": null,
+                "start_date": null
+            },
+            {
+                "occupational_title": "Board member",
+                "workplace": "Drätselk",
+                "industry": null,
+                "start_date": null
+            },
+            {
+                "occupational_title": "Board member",
+                "workplace": "Byggn.nmd",
+                "industry": null,
+                "start_date": null
+            },
+            {
+                "occupational_title": "Board member",
+                "workplace": "Brandstyr",
+                "industry": null,
+                "start_date": 1938
+            },
+            {
+                "occupational_title": "Member",
+                "workplace": "Brandstodskté",
+                "industry": null,
+                "start_date": 1935
+            }
+        ]
+    }
+}

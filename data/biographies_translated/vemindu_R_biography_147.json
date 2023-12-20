@@ -1,0 +1,90 @@
+{
+    "original": "RYD, Sven Erik, Bergsingenjör, Djursholm, f Sthlm 14/9 97 av ing G A R o Sofia Andersson, gm Karin Tyssling. Studex NReal 16, KTH (bergs) 22. Anst AB Atlas Diesel sed. 23, försäljn.chef där.",
+    "translated": "RYD, Sven Erik, Mining Engineer, Djursholm, b Stockholm 14/9 97 son of engineer G A R and Sofia Andersson, married to Karin Tyssling. Graduated with a Bachelor's degree in Natural Sciences in 1916 from KTH (Mining Engineering) in 1922. Employed at Atlas Diesel AB since 1923, serving as a Sales Manager.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Sven Erik Ryd",
+        "givenName": "Sven Erik",
+        "familyName": "Ryd",
+        "birthDate": "1897-09-14",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Stockholm",
+                "addressCountry": "Sweden"
+            }
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "G A R",
+                "jobTitle": "Engineer"
+            },
+            {
+                "@type": "Person",
+                "name": "Sofia Andersson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Karin Tyssling"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Bachelor's degree",
+            "educationalLevel": "Undergraduate",
+            "degreeName": "Natural Sciences",
+            "educationalProgram": "Mining Engineering",
+            "institution": {
+                "@type": "EducationalOrganization",
+                "name": "KTH Royal Institute of Technology",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressCountry": "Sweden"
+                    }
+                }
+            },
+            "startDate": "1916",
+            "endDate": "1922"
+        },
+        "jobTitle": "Mining Engineer",
+        "workLocation": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Djursholm",
+                "addressCountry": "Sweden"
+            }
+        },
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Atlas Diesel AB"
+        },
+        "startDate": "1923",
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Atlas Diesel AB",
+            "jobTitle": "Sales Manager"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Mining Engineer",
+                "workplace": "AB Atlas Diesel",
+                "industry": "Engineering and Mining",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Sales Manager",
+                "workplace": "AB Atlas Diesel",
+                "industry": "Engineering and Mining",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

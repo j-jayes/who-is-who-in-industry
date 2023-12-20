@@ -1,0 +1,88 @@
+{
+    "original": "PALMQVIST, Carl Erik Gunnar, Bankkamrer, Hässleholm, f Hshlm 27/4 11 av snick.-mäst C E P o Ellen Nilsson, gm Birgit Eklund. Folksk, korresp- samt Sv sparbksfrns kurser. Anst Hshlm sparbk sed. 25 samt dessut å hdsskriv.kont 27 o å stdsfiskalkont 23—38. Kronoomb i Hshlm S tax.distr. Ordf snkomin f Göinge hds oms brand- o kreat.förs.frn.",
+    "translated": "PALMQVIST, Carl Erik Gunnar, Bank Clerk, Hässleholm, b. Hshlm 27/4 11, son of carpenter master C E P and Ellen Nilsson, m. Birgit Eklund. Primary school, correspondence and courses at the Swedish Savings Bank Association. Employed at Hshlm Savings Bank since 1925, as well as in the bank's letter writing office from 1927 and in the accounting office from 1923 to 1938. Crown tenant in Hshlm South tax district. Chairman of the Göinge Diseased Cattle and Livestock Insurance Association.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Carl Erik Gunnar Palmqvist",
+        "jobTitle": "Bank Clerk",
+        "birthDate": "1911-04-27",
+        "birthPlace": {
+            "@type": "PostalAddress",
+            "addressLocality": "Hässleholm",
+            "addressCountry": "Sweden"
+        },
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Carpenter Master C E P"
+            },
+            {
+                "@type": "Person",
+                "name": "Ellen Nilsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Birgit Eklund"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Primary school"
+        },
+        "employment": [
+            {
+                "@type": "Organization",
+                "name": "Hässleholm Savings Bank",
+                "startDate": "1925-01-01",
+                "endDate": null
+            },
+            {
+                "@type": "Organization",
+                "name": "Bank's Letter Writing Office",
+                "startDate": "1927-01-01",
+                "endDate": "1938-12-31"
+            },
+            {
+                "@type": "Organization",
+                "name": "Accounting Office",
+                "startDate": "1923-01-01",
+                "endDate": "1938-12-31"
+            }
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Hässleholm South",
+            "addressCountry": "Sweden"
+        },
+        "affiliation": [
+            {
+                "@type": "Organization",
+                "name": "Göinge Diseased Cattle and Livestock Insurance Association",
+                "roleName": "Chairman"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Bank Clerk",
+                "workplace": "Hässleholm Savings Bank",
+                "industry": "Banking",
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Letter Writing Office Clerk",
+                "workplace": "Hässleholm Savings Bank",
+                "industry": "Banking",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Accountant",
+                "workplace": "Hässleholm Savings Bank",
+                "industry": "Banking",
+                "start_date": "1923"
+            }
+        ]
+    }
+}

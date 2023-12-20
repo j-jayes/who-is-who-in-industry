@@ -1,0 +1,222 @@
+{
+    "original": "PÅLSSON, Per, Fabrikör, Sölvesborg, f Eslöv 15/8 79 av lagerföreståndare Pål Persson o Anna Olsson. Folksk. Lärl h S Mar-cusson i Eslöv 93, prakt h A Gustafsson, J Partsch o J Marcusson i Hbg, förest f ny-öppn charkuterifma i Sölvesborg 99, etabl fma P Pålssons Kött- &amp; Charkuteriaffär där 00 o inneh den t 43. Ag två fastigh o tomt i Sölvesborg1. Styr;.led i , Sölvesborgs Varvs &amp; Rederi AB, Rederi AB Falkvik o Fastigh.frn Tredenborg. Huvudm i Sölvesb Sparbk. Led av drätselk, hälsov.nmdn, fattigv.styr (varav 4 år ss ordf) samt tax.nmdn. Resor: Danm, Tyskl o Norge. Odd Fellow (samtl grader o veterantecken).",
+    "translated": "PÅLSSON, Per, Manufacturer, Sölvesborg, born in Eslöv on August 15, 1879, to warehouse supervisor Pål Persson and Anna Olsson. Attended elementary school. Apprenticed under S. Marcusson in Eslöv in 1893, and received practical training from A. Gustafsson, J. Partsch, and J. Marcusson in Helsingborg. Became manager of a newly opened butcher shop in Sölvesborg in 1899, established the firm P Pålssons Meat & Charcuterie Shop in 1900, and owned it until 1943. Owned two properties and a plot of land in Sölvesborg. Board member of Sölvesborgs Varvs & Rederi AB, Rederi AB Falkvik, and Tredenborg Real Estate. Chairman of Sölvesb Savings Bank. Member of the finance committee, health board, poor relief board (including 4 years as chairman), and tax committee. Traveled to Denmark, Germany, and Norway. Member of the Order of Odd Fellows (all degrees and veteran insignia). Note: '\\d\\d m. partners name' indicates that the person married in the year 19xx.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Per Pålsson",
+        "jobTitle": "Manufacturer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Sölvesborg"
+        },
+        "birthDate": "1879-08-15",
+        "birthPlace": "Eslöv",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Pål Persson",
+                "jobTitle": "Warehouse Supervisor"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Olsson"
+            }
+        ],
+        "education": {
+            "@type": "EducationalOccupationalProgram",
+            "eduProgramName": "Elementary School",
+            "startDate": "188?",
+            "endDate": "189?"
+        },
+        "apprenticeship": {
+            "@type": "EducationalOccupationalProgram",
+            "eduProgramName": "Apprenticeship",
+            "startDate": "1893",
+            "endDate": "189?"
+        },
+        "training": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Practical Training",
+                "startDate": "189?",
+                "endDate": "189?"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Practical Training",
+                "startDate": "189?",
+                "endDate": "189?"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Practical Training",
+                "startDate": "189?",
+                "endDate": "189?"
+            }
+        ],
+        "businesses": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Manager",
+                "startDate": "1899",
+                "endDate": "1900",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Newly Opened Butcher Shop"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Owner",
+                "startDate": "1900",
+                "endDate": "1943",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "P Pålssons Meat & Charcuterie Shop"
+                }
+            }
+        ],
+        "propertiesOwned": [
+            {
+                "@type": "Place",
+                "name": "Property 1"
+            },
+            {
+                "@type": "Place",
+                "name": "Property 2"
+            },
+            {
+                "@type": "Place",
+                "name": "Plot of Land"
+            }
+        ],
+        "boardMemberships": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Board Member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Sölvesborgs Varvs & Rederi AB"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Board Member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Rederi AB Falkvik"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Board Member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Tredenborg Real Estate"
+                }
+            }
+        ],
+        "chairmanships": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Chairman",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Sölvesb Savings Bank"
+                }
+            }
+        ],
+        "committeeMemberships": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Finance Committee"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Health Board"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Poor Relief Board"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Chairman",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Poor Relief Board"
+                },
+                "startDate": "19??",
+                "endDate": "19??"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Member",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Tax Committee"
+                }
+            }
+        ],
+        "travels": [
+            "Denmark",
+            "Germany",
+            "Norway"
+        ],
+        "memberships": [
+            {
+                "@type": "Organization",
+                "name": "Order of Odd Fellows",
+                "additionalName": "Odd Fellow",
+                "hasCredential": "All degrees and veteran insignia"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Warehouse Supervisor",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Apprentice",
+                "workplace": "S. Marcusson in Eslöv",
+                "industry": "Unknown",
+                "start_date": "1893"
+            },
+            {
+                "occupational_title": "Practical Training",
+                "workplace": "A. Gustafsson, J. Partsch, and J. Marcusson in Helsingborg",
+                "industry": "Unknown",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "Newly opened butcher shop in Sölvesborg",
+                "industry": "Butcher",
+                "start_date": "1899"
+            },
+            {
+                "occupational_title": "Founder/Owner",
+                "workplace": "P Pålssons Meat & Charcuterie Shop",
+                "industry": "Butcher",
+                "start_date": "1900"
+            }
+        ]
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "original": "NILSON, Karl Gustav, Direktör, Askersund, f Hallsberg 13/3 80 av Gustav Nilson o Maria Nilson, gm Signe Nilson. Folsk. Eg aff.rör sed. omynd år, minuthdl i Lerbäck 99, grhdl o tillverkn fr 05, etabl 09 AB Askersunds tri-kåfabr, vkst dir f denna sed. start o mim ag. Led stads- o kyrkoflm samt fattigv- o gatu-förvaltn. Resor: Flert europ länd uppr ggr, USA 35. Tempelriddare. Hobby: Läsning.",
+    "translated": "NILSON, Karl Gustav, Director, Askersund, b. Hallsberg 13/3 1880 to Gustav Nilson and Maria Nilson, m. Signe Nilson. Folk. Owned businesses as a minor, trade in Lerbäck 1899, land and manufacturing from 1905, established AB Askersund tri-hat factory in 1909, growth director of this since its inception and until his death. Served as a leader in the city and church council as well as the poor relief and street administration. Traveled: Multiple trips to various European countries, USA in 1935. Templar Knight. Hobby: Reading.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Karl Gustav Nilson",
+        "birthDate": "1880-03-13",
+        "birthPlace": "Hallsberg",
+        "deathDate": "<INSERT DEATH DATE>",
+        "description": "Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Askersund"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Gustav Nilson"
+            },
+            {
+                "@type": "Person",
+                "name": "Maria Nilson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Signe Nilson"
+        },
+        "occupation": "Owned businesses as a minor, trade in Lerbäck (1899), land and manufacturing (from 1905)",
+        "business": [
+            {
+                "@type": "Organization",
+                "name": "AB Askersunds tri-kåfabr",
+                "foundingDate": "1909"
+            }
+        ],
+        "positions": [
+            {
+                "@type": "Role",
+                "title": "Growth Director",
+                "startDate": "1909",
+                "endDate": "<INSERT DEATH DATE>",
+                "roleName": "AB Askersunds tri-kåfabr"
+            },
+            {
+                "@type": "Role",
+                "title": "Leader",
+                "roleName": "City Council"
+            },
+            {
+                "@type": "Role",
+                "title": "Leader",
+                "roleName": "Church Council"
+            },
+            {
+                "@type": "Role",
+                "title": "Leader",
+                "roleName": "Poor Relief"
+            },
+            {
+                "@type": "Role",
+                "title": "Leader",
+                "roleName": "Street Administration"
+            }
+        ],
+        "travels": [
+            {
+                "@type": "Place",
+                "name": "United States",
+                "startDate": "1935"
+            }
+        ],
+        "memberships": [
+            {
+                "@type": "Organization",
+                "name": "Templar Knights"
+            }
+        ],
+        "hobbies": "Reading"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "AB Askersunds tri-hat factory",
+                "industry": "Manufacturing",
+                "start_date": "1909"
+            },
+            {
+                "occupational_title": "Trade",
+                "workplace": "Lerbäck",
+                "industry": "Undefined",
+                "start_date": "1899"
+            }
+        ]
+    }
+}

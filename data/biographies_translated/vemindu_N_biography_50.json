@@ -1,0 +1,166 @@
+{
+    "original": "NILSSON, Gustaf Adolf, Köpman, Växjö, f Öja, Kronob l, 3/7 80, gm (1) Jenny Svensson (d), (2) Anna Friberg. Hdlssk 98, tekn yrkessk 00—02. Anst i Postvkt 01—15, insp h försäkr.bol Trygg 16—24, repr f försäkr.-bol Gothia sed. 03 o Ocean sed. 16, inneh eg, trav.rörelse sed. 16 o fma Jenny Nilssons Ma-nuf.aff i Växjö sed. 21, tillika deläg o styr.led i Trav AB Kronoberg i Räppe samt ag av Marklanda gård.",
+    "translated": "NILSSON, Gustaf Adolf, Merchant, Växjö, born in Öja, Kronoberg County, on July 3, 1880, married (1) Jenny Svensson (deceased), (2) Anna Friberg. Graduated from business school in 1898 and attended technical vocational school from 1900 to 1902. Employed at Postvkt from 1901 to 1915, then worked as an inspector for the insurance company Trygg from 1916 to 1924. Also served as a representative for the insurance companies Gothia since 1903 and Ocean since 1916. Owned a horse racing business since 1916 and was a joint owner and board member of Trav AB Kronoberg in Räppe. Additionally, he was the agent of Marklanda Farm.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Gustaf Adolf Nilsson",
+        "givenName": "Gustaf Adolf",
+        "familyName": "Nilsson",
+        "birthDate": "1880-07-03",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Växjö"
+        },
+        "deathPlace": {
+            "@type": "City",
+            "name": "Öja"
+        },
+        "nationality": "Swedish",
+        "occupation": "Merchant",
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "Business School",
+                "endDate": "1898"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "Technical Vocational School",
+                "startDate": "1900",
+                "endDate": "1902"
+            }
+        ],
+        "spouse": [
+            {
+                "@type": "Person",
+                "name": "Jenny Svensson",
+                "deathDate": "unknown"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Friberg",
+                "deathDate": "unknown"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1901",
+                "endDate": "1915",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Postvkt"
+                },
+                "roleName": "Employee"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1916",
+                "endDate": "1924",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Trygg"
+                },
+                "roleName": "Inspector"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1903",
+                "endDate": null,
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Gothia"
+                },
+                "roleName": "Insurance Representative"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1916",
+                "endDate": null,
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Ocean"
+                },
+                "roleName": "Insurance Representative"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1921",
+                "endDate": null,
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Jenny Nilssons Manufakturaffär"
+                },
+                "roleName": "Owner"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1916",
+                "endDate": null,
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Horse Racing Business"
+                },
+                "roleName": "Owner"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": null,
+                "endDate": null,
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Trav AB Kronoberg i Räppe"
+                },
+                "roleName": "Joint Owner and Board Member"
+            }
+        ],
+        "additionalProperty": [
+            {
+                "@type": "PropertyValue",
+                "name": "Agent of",
+                "value": "Marklanda Farm"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Växjö",
+                "industry": "Retail",
+                "start_date": "Not available"
+            },
+            {
+                "occupational_title": "Employee at Postvkt",
+                "workplace": "Not available",
+                "industry": "Postal service",
+                "start_date": "1901"
+            },
+            {
+                "occupational_title": "Inspector at Trygg insurance company",
+                "workplace": "Not available",
+                "industry": "Insurance",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Representative for Gothia insurance company",
+                "workplace": "Not available",
+                "industry": "Insurance",
+                "start_date": "1903"
+            },
+            {
+                "occupational_title": "Representative for Ocean insurance company",
+                "workplace": "Not available",
+                "industry": "Insurance",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Owner of a horse racing business",
+                "workplace": "Not available",
+                "industry": "Sports",
+                "start_date": "1916"
+            }
+        ]
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "original": "QUIST, Sture Axel Ludvig, Direktör, Örnsköldsvik, f övik 1/10 08. Studex Härnösand 27. Anst i AB F W Nordemans Jernhdl i övik 27—29, försälj o däreft förest f AB F W Nordemans Bilaffär i övik 30—34, vkst dir f AB F W Nordemans Jernhdl sed. 35.",
+    "translated": "QUIST, Sture Axel Ludvig, Director, Örnsköldsvik, b. Örnsköldsvik 1/10 08. Completed studies in Härnösand in 1927. Employed at AB F W Nordemans Jernhdl in Örnsköldsvik from 1927 to 1929, then worked in sales and later became the manager of AB F W Nordemans Bilaffär in Örnsköldsvik from 1930 to 1934. Since 1935, he has served as the Director of AB F W Nordemans Jernhdl. Please note that '\\d\\d m. partner's name' indicates that the person married in the year 19xx.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Sture Axel Ludvig Quist",
+        "birthDate": "1908-10-01",
+        "birthPlace": "Örnsköldsvik",
+        "description": "Director",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "AB F W Nordemans Jernhdl",
+                "startDate": "1927-01-01",
+                "endDate": "1929-01-01",
+                "description": "Employed"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB F W Nordemans Bilaffär",
+                "startDate": "1930-01-01",
+                "endDate": "1934-01-01",
+                "description": "Sales and later Manager"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB F W Nordemans Jernhdl",
+                "startDate": "1935-01-01",
+                "description": "Director"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Studex",
+                "workplace": "Härnösand",
+                "industry": "Education",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "AB F W Nordemans Jernhdl",
+                "industry": "Iron trade",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Salesman",
+                "workplace": "AB F W Nordemans Bilaffär",
+                "industry": "Automobile trade",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "AB F W Nordemans Bilaffär",
+                "industry": "Automobile trade",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "AB F W Nordemans Jernhdl",
+                "industry": "Iron trade",
+                "start_date": "1935"
+            }
+        ]
+    }
+}

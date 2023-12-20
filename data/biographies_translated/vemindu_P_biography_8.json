@@ -1,0 +1,95 @@
+{
+    "original": "PALMGREN, Erik August Även, Civilingenjör, Lidingö, f Sthlm 23/9 02 av civ.ing G E P o Mathilda Även. Studex Sthlm 21, StHS 22, KTH (skeppsbyggn) 22—26. Anst v civ.ing Eric Palmgrens konstr- o besiktn.byrå 27—29, Yrkesinsp:s kompetensintyg f besiktn av ångpannor, kontrollantskap av svetsning mm, konstr v Sv AB Gasaccumulator sed. 29.",
+    "translated": "PALMGREN, Erik August Även, Civil Engineer, Lidingö, b. Stockholm 23/9 02, son of civil engineer G. E. P and Mathilda Även. Passed high school exam in Stockholm 21, attended the Stockholm School of Technology 22, and the Royal Institute of Technology (shipbuilding) 22-26. Employed at civil engineer Eric Palmgren's construction and inspection office 27-29. Received professional inspector's certificate for steam boilers, inspection of welding, etc. Engaged in design at Swedish AB Gasaccumulator since 29..",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Erik August Även Palmgren",
+        "jobTitle": "Civil Engineer",
+        "birthDate": "1902-09-23",
+        "birthPlace": "Stockholm",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Eric Palmgren's Construction and Inspection Office",
+                "startDate": "1927",
+                "endDate": "1929"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swedish AB Gasaccumulator",
+                "startDate": "1929"
+            }
+        ],
+        "father": {
+            "@type": "Person",
+            "name": "G. E. P"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Mathilda Även"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "High School Exam",
+                "issuer": {
+                    "@type": "Organization",
+                    "name": "Stockholm"
+                },
+                "dateReceived": "1921"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Bachelor's Degree",
+                "issuer": {
+                    "@type": "Organization",
+                    "name": "Stockholm School of Technology"
+                },
+                "dateReceived": "1922"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Bachelor's Degree",
+                "issuer": {
+                    "@type": "Organization",
+                    "name": "Royal Institute of Technology"
+                },
+                "specialty": "Shipbuilding",
+                "dateReceived": "1926"
+            }
+        ],
+        "qualifications": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Professional Inspector's Certificate",
+                "description": "Steam Boilers",
+                "issuer": {
+                    "@type": "Organization",
+                    "name": "Professional Inspector's Competence",
+                    "description": "Inspection of welding, etc."
+                }
+            }
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Lidingö"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Civil Engineer Eric Palmgren's construction and inspection office",
+                "industry": "Engineering",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Design Engineer",
+                "workplace": "Swedish AB Gasaccumulator",
+                "industry": "Engineering",
+                "start_date": "1929"
+            }
+        ]
+    }
+}

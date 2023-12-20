@@ -1,0 +1,71 @@
+{
+    "original": "NESTIUS, Gustaf Adolf (Gösta) Bogislaus, Civilingenjör, Traneberg, f Sthlm 6/11 95 av åkeriäg O B N o Mathilda Eriksson, gm Edith Källgren. Studex NReal Sthlm 14, KTH (E) 14—19. Lab- o provrumschef v Elektr AB AEG:s verkstad i Midsommarkransen Sthlm sed. 19.",
+    "translated": "NESTIUS, Gustaf Adolf (Gösta) Bogislaus, Civil Engineer, Traneberg, b. Stockholm 6/11/1895, son of transport company owner O.B.N. and Mathilda Eriksson, m. Edith Källgren. Graduated from Real School in Stockholm in 1914, and from the Royal Institute of Technology in 1914-1919. Laboratory and testing manager at Elektr AB AEG's workshop in Midsommarkransen, Stockholm since 19.. (Incomplete information about the year).",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Gustaf Adolf Nestius",
+        "additionalName": "Gösta Bogislaus",
+        "jobTitle": "Civil Engineer",
+        "birthDate": "1895-06-11",
+        "birthPlace": "Stockholm",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "O.B.N.",
+                "jobTitle": "Transport Company Owner"
+            },
+            {
+                "@type": "Person",
+                "name": "Mathilda Eriksson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Edith Källgren"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Studex",
+                "educationalLevel": "Real School",
+                "educationalCredentialAwarded": "Graduated"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "educationalLevel": "Royal Institute of Technology",
+                "educationalCredentialAwarded": "Graduated",
+                "startDate": "1914",
+                "endDate": "1919"
+            }
+        ],
+        "work": {
+            "@type": "OrganizationRole",
+            "roleName": "Laboratory and Testing Manager",
+            "startDate": "19..",
+            "endDate": "Present",
+            "namedPosition": "Elektr AB AEG's Workshop",
+            "worksFor": {
+                "@type": "Organization",
+                "name": "Elektr AB AEG",
+                "location": "Midsommarkransen, Stockholm"
+            }
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Traneberg",
+                "industry": "Engineering",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Laboratory and Testing Manager",
+                "workplace": "Elektr AB AEG's workshop",
+                "industry": "Electronics",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

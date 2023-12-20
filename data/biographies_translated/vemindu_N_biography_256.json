@@ -1,0 +1,110 @@
+{
+    "original": "NYVAI/L, Enoch Theodor, Fabrikör, Nybro, f Nybro 22/6 91 av järnhandl Per Aug Jonsson o Dora Siltberg, gm Maja Ohlsson. Anst i järnhdl 03—08, verkst.prakt 09—13, etabl Nybro gjuteri &amp; verkst AB 14 (repr f AGA o The Texas Comp sed. 23, Ford Motor Comp sed. 24). Led S Sv bilverkstad frn. V. ordf brandstyr. Hobbies: Musik, skönlitt, historia.NYVAIX 38",
+    "translated": "NYVAI/L, Enoch Theodor, Industrialist, Nybro, b. Nybro 22/6 91 to iron merchant Per Aug Jonsson and Dora Siltberg, m. Maja Ohlsson. Employed in the iron trade 03—08, workshop apprentice 09—13, established Nybro Foundry & Engineering AB in 14 (representative for AGA and The Texas Company until 23, Ford Motor Company until 24). Member of the Board of Directors of the South Swedish Car Workshop. Vice Chair of the Fire Brigade. Hobbies: Music, literature, history. Married in 1938.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Enoch Theodor Nyvai",
+        "jobTitle": "Industrialist",
+        "birthDate": "1891-06-22",
+        "birthPlace": "Nybro",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Per Aug Jonsson",
+                "jobTitle": "Iron Merchant"
+            },
+            {
+                "@type": "Person",
+                "name": "Dora Siltberg"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Maja Ohlsson"
+        },
+        "employment": [
+            {
+                "@type": "Organization",
+                "name": "Iron Trade",
+                "startDate": "1903",
+                "endDate": "1908"
+            },
+            {
+                "@type": "Organization",
+                "name": "Workshop Apprentice",
+                "startDate": "1909",
+                "endDate": "1913"
+            },
+            {
+                "@type": "Organization",
+                "name": "Nybro Foundry & Engineering AB",
+                "startDate": "1914",
+                "representativeOf": [
+                    {
+                        "@type": "Organization",
+                        "name": "AGA"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "The Texas Company"
+                    }
+                ]
+            },
+            {
+                "@type": "Organization",
+                "name": "Ford Motor Company",
+                "startDate": "1923",
+                "endDate": "1924"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "South Swedish Car Workshop",
+                "roleName": "Board of Directors"
+            }
+        ],
+        "honorificSuffix": "Vice Chair",
+        "hobbies": [
+            "Music",
+            "Literature",
+            "History"
+        ],
+        "marriageDate": "1938"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Iron Merchant",
+                "workplace": "Unknown",
+                "industry": "Iron Trade",
+                "start_date": "1903"
+            },
+            {
+                "occupational_title": "Workshop Apprentice",
+                "workplace": "Unknown",
+                "industry": "Iron Trade",
+                "start_date": "1909"
+            },
+            {
+                "occupational_title": "Industrialist",
+                "workplace": "Nybro Foundry & Engineering AB",
+                "industry": "Manufacturing",
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Representative",
+                "workplace": "AGA and The Texas Company",
+                "industry": "Gas and Oil",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Representative",
+                "workplace": "Ford Motor Company",
+                "industry": "Automotive",
+                "start_date": "1924"
+            }
+        ]
+    }
+}

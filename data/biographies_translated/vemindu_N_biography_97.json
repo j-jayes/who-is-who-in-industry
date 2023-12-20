@@ -1,0 +1,137 @@
+{
+    "original": "NILSSON, Nils Oswald, överingenjör, Göte-feorg, f Gbg 18/9 83 av handl N N o Maria Jonasson, gm Hanna Norrman. Gbgs Real-Ivk, CTH 06. Anst AB Götaverken Gbg 06—08 0 09, Lindholmens Verkstads AB Gbg 10, Fore River Shipbldg Co Quincy USA 10—12, AB »Götaverken Gbg sed. 13. Styr.suppl Götaverkens tjms o befäls pens.kassa. Resor: Med Ked AB Transatl:s s/s Australic t Sydafr, Austr o Indien 08. RVO. Odd Fellow, Par Bricole, medl Institution of Nåväl Architects.",
+    "translated": "NILSSON, Nils Oswald, chief engineer, Gothenburg, b. Gothenburg 18/9 83 to merchant N N and Maria Jonasson, m. Hanna Norrman. Gothenburg Real-Gymnasium, Chalmers University of Technology 06. Employed at AB Götaverken Gothenburg 06—08 and 09, Lindholmen Verkstads AB Gothenburg 10, Fore River Shipbldg Co Quincy USA 10—12, and AB Götaverken Gothenburg since 13. Member of the supervisory board for Götaverken's employees' pension fund. Travel: With Ked AB Transatlantic Line's s/s Australic to South Africa, Australia, and India in 08. Awarded the Royal Swedish Order of Vasa. Member of the Odd Fellow fraternity, Par Bricole, and a member of the Institution of Naval Architects.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Nils Oswald Nilsson",
+        "description": "Chief Engineer",
+        "birthDate": "1883-09-18",
+        "birthPlace": "Gothenburg",
+        "father": {
+            "@type": "Person",
+            "name": "N. N. (merchant)"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Maria Jonasson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Hanna Norrman"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "Gothenburg Real-Gymnasium"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "Chalmers University of Technology",
+                "startDate": "1906"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "Organization",
+                "name": "AB Götaverken",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Gothenburg"
+                },
+                "startDate": "1906",
+                "endDate": "1908"
+            },
+            {
+                "@type": "Organization",
+                "name": "Lindholmen Verkstads AB",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Gothenburg"
+                },
+                "startDate": "1910"
+            },
+            {
+                "@type": "Organization",
+                "name": "Fore River Shipbldg Co",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Quincy, USA"
+                },
+                "startDate": "1910",
+                "endDate": "1912"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Götaverken",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Gothenburg"
+                },
+                "startDate": "1913"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Götaverken's Employees' Pension Fund Supervisory Board"
+            },
+            {
+                "@type": "Organization",
+                "name": "Odd Fellow fraternity"
+            },
+            {
+                "@type": "Organization",
+                "name": "Par Bricole"
+            },
+            {
+                "@type": "Organization",
+                "name": "Institution of Naval Architects"
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "Trip",
+                "name": "Trip to South Africa, Australia, and India",
+                "provider": {
+                    "@type": "Organization",
+                    "name": "Ked AB Transatlantic Line"
+                },
+                "startDate": "1908",
+                "endDate": "1908"
+            }
+        ],
+        "award": {
+            "@type": "Order",
+            "name": "Royal Swedish Order of Vasa"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Chief Engineer",
+                "workplace": "AB Götaverken",
+                "industry": "Shipbuilding",
+                "start_date": "1906"
+            },
+            {
+                "occupational_title": "Chief Engineer",
+                "workplace": "Lindholmen Verkstads AB",
+                "industry": "Shipbuilding",
+                "start_date": "1910"
+            },
+            {
+                "occupational_title": "Chief Engineer",
+                "workplace": "Fore River Shipbldg Co",
+                "industry": "Shipbuilding",
+                "start_date": "1910"
+            },
+            {
+                "occupational_title": "Chief Engineer",
+                "workplace": "AB Götaverken",
+                "industry": "Shipbuilding",
+                "start_date": "1913"
+            }
+        ]
+    }
+}

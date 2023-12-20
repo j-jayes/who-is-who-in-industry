@@ -1,0 +1,99 @@
+{
+    "original": "NYBORG, Karl Fredrik, Disponent, Norrköping, f Norrkp 22/11 99 av dir F N o Caro-line Ellström. Ex Gbgs hdlsinst 17, HHS 18 —19, Technical Coll of Huddersfield 19—20, École Supérieure de Commerce Lyon 20—21. Intr i AB Nyborgs Yllefabr 22, vkst dir där sed. 25 samt styr.ordf. Styr.led östergötl Ensk Bk. Stdsflm.",
+    "translated": "NYBORG, Karl Fredrik, Manager, Norrköping, b. Norrkp 22/11 99, son of director F N and Caroline Ellström. Formerly employed in Gbgs hdlsinst (Gothenburg commerce institution) in 1917. Attended HHS (High School of Commerce) from 1918 to 1919. Furthered education at Technical College of Huddersfield from 1919 to 1920. Studied at École Supérieure de Commerce Lyon from 1920 to 1921. Joined AB Nyborgs Yllefabr (Nyborg's Wool Factory) in 1922 and has been the company's managing director since 1925. Also serves as chairman of the board at östergötl Ensk Bk (Bank of East Gothland). Member of the Stdsflm (not specified).",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Karl Fredrik Nyborg",
+        "birthDate": "1899-11-22",
+        "birthPlace": "Norrköping, Sweden",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "F N Nyborg",
+                "jobTitle": "Director"
+            },
+            {
+                "@type": "Person",
+                "name": "Caroline Ellström"
+            }
+        ],
+        "jobTitle": "Manager",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Norrköping",
+            "addressCountry": "Sweden"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Primary",
+                "educationalLevel": "High School",
+                "endDate": "1917",
+                "institution": {
+                    "@type": "Organization",
+                    "name": "Gbgs hdlsinst"
+                }
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Secondary",
+                "educationalLevel": "High School",
+                "startDate": "1918",
+                "endDate": "1919",
+                "institution": {
+                    "@type": "Organization",
+                    "name": "HHS"
+                }
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Degree",
+                "educationalLevel": "Bachelor",
+                "startDate": "1919",
+                "endDate": "1920",
+                "institution": {
+                    "@type": "Organization",
+                    "name": "Technical College of Huddersfield"
+                }
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Degree",
+                "educationalLevel": "Bachelor",
+                "startDate": "1920",
+                "endDate": "1921",
+                "institution": {
+                    "@type": "Organization",
+                    "name": "École Supérieure de Commerce Lyon"
+                }
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "AB Nyborgs Yllefabr",
+            "startDate": "1922",
+            "jobTitle": "Managing Director"
+        },
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Stdsflm"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Disponent",
+                "workplace": "Norrköping",
+                "industry": "Unknown",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Manager",
+                "workplace": "AB Nyborgs Yllefabr",
+                "industry": "Wool Manufacturing",
+                "start_date": "1925"
+            }
+        ]
+    }
+}

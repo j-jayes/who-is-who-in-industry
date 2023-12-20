@@ -1,0 +1,132 @@
+{
+    "original": "ROTHELIUS, Ernst Johan Axel, Bergsingenjör, Traneberg, f Eskilstuna 24/7 00 av vaktmäst J R R o Kristina Berg, gm Agda Andersson. Studex Eskilstuna 19, bergsingex KTH 26. Anst v KTH 26, l :e ass å gruv-vetenskapl lab där 27, uppeh professuren i allm bergsmek o gruvmek v KTH 36—38, konsult ing, red f Tekn Tidskr Bergsvetensk sed. 36. Av trycket: Upps i facktidskr. Studieresor : Tyskl, Engl, Frankr, Belg, Span o Tjeckoslov.",
+    "translated": "ROTHELIUS, Ernst Johan Axel, Mining Engineer, Traneberg, b. Eskilstuna 24/7 1900, son of caretaker J R R and Kristina Berg, m. Agda Andersson. Graduated Eskilstuna 1919, mining engineering degree from KTH (Royal Institute of Technology) 1926. Employed at KTH from 1926, initially as an assistant at the mining science laboratory until 1927, later held the position of professor in general mining mechanics and mining mechanics at KTH from 1936 to 1938. Also worked as a consultant engineer and served as the editor of the Technical Journal Bergsvetensk since 1936. Published in various professional journals. Undertook study trips to Germany, England, France, Belgium, Spain, and Czechoslovakia.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Ernst Johan Axel Rothelius",
+        "birthDate": "1900-07-24",
+        "birthPlace": "Traneberg, Eskilstuna, Sweden",
+        "deathDate": "",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "J R R",
+                "jobTitle": "Caretaker"
+            },
+            {
+                "@type": "Person",
+                "name": "Kristina Berg"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Agda Andersson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Graduation",
+                "educationalLevel": "HighSchoolDiploma",
+                "educationalCredentialAwarded": "Studex",
+                "educationalInstitution": "Eskilstuna"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Degree",
+                "educationalLevel": "Bachelor'sDegree",
+                "educationalCredentialAwarded": "Mining Engineering",
+                "educationalInstitution": "KTH (Royal Institute of Technology)",
+                "startDate": "1926",
+                "endDate": "1926"
+            }
+        ],
+        "employment": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1926",
+                "endDate": "",
+                "roleName": "Assistant",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "KTH (Royal Institute of Technology)"
+                },
+                "description": "Mining Science Laboratory"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1936",
+                "endDate": "1938",
+                "roleName": "Professor",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "KTH (Royal Institute of Technology)"
+                },
+                "description": "General Mining Mechanics and Mining Mechanics"
+            },
+            {
+                "@type": "Organization",
+                "name": "Consultant Engineer"
+            },
+            {
+                "@type": "Organization",
+                "name": "Technical Journal Bergsvetensk"
+            }
+        ],
+        "publication": [
+            {
+                "@type": "Article",
+                "name": "Upps i facktidskr",
+                "publicationType": "ProfessionalJournal"
+            }
+        ],
+        "studyTrip": [
+            "Germany",
+            "England",
+            "France",
+            "Belgium",
+            "Spain",
+            "Czechoslovakia"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Mining Engineer",
+                "workplace": "KTH (Royal Institute of Technology)",
+                "industry": "Education/Research",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Assistant at Mining Science Laboratory",
+                "workplace": "KTH (Royal Institute of Technology)",
+                "industry": "Education/Research",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Professor in General Mining Mechanics",
+                "workplace": "KTH (Royal Institute of Technology)",
+                "industry": "Education/Research",
+                "start_date": "1936"
+            },
+            {
+                "occupational_title": "Professor in Mining Mechanics",
+                "workplace": "KTH (Royal Institute of Technology)",
+                "industry": "Education/Research",
+                "start_date": "1936"
+            },
+            {
+                "occupational_title": "Consultant Engineer",
+                "workplace": "Not specified",
+                "industry": "Engineering",
+                "start_date": "Not specified"
+            },
+            {
+                "occupational_title": "Editor of Technical Journal",
+                "workplace": "Bergsvetensk",
+                "industry": "Publishing",
+                "start_date": "1936"
+            }
+        ]
+    }
+}

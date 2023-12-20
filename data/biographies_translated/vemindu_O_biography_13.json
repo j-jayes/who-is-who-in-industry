@@ -1,0 +1,103 @@
+{
+    "original": "OLANDER, Karl Reinhold, Civilingenjör, Karlstad, f Skee, Gbgs o Boh l, 16/7 88 av folkskoll B G O o Hilda Adamsdotter, gm Hilma Christiansen. Avg.ex Tekn Elem.skolan Borås 07. Rit o konstr AB Karlstads Mek Verkst 07—09, KTH 09—12, avg.ex där sistn år. Offerting AB Karlstads Mek Verkstad sed. 12.",
+    "translated": "OLANDER, Karl Reinhold, Civil Engineer, Karlstad, born in Skee, Gothenburg and Bohus County, on July 16th, 1888, to parents B.G.O. and Hilda Adamsdotter. Married to Hilma Christiansen. Completed his technical elementary school education in Borås in 1907. Worked in drawing and design at AB Karlstads Mekaniska Verkstäder from 1907 to 1909. Attended the Royal Institute of Technology (KTH) from 1909 to 1912, completing his studies there. Employed at Offerting AB Karlstads Mekaniska Verkstad since 1912.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Karl Reinhold OLANDER",
+        "jobTitle": "Civil Engineer",
+        "birthPlace": {
+            "@type": "City",
+            "name": "Skee"
+        },
+        "nationality": "Swedish",
+        "birthDate": "1888-07-16",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "B.G.O."
+            },
+            {
+                "@type": "Person",
+                "name": "Hilda Adamsdotter"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Hilma Christiansen"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "technical elementary school education",
+                "educationalLevel": "HighSchool",
+                "alumniOf": {
+                    "@type": "School",
+                    "name": "Tekniska Elementarskolan Borås"
+                },
+                "endDate": "1907"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "alumniOf": {
+                    "@type": "CollegeOrUniversity",
+                    "name": "Royal Institute of Technology"
+                },
+                "startDate": "1909",
+                "endDate": "1912"
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Offerting AB Karlstads Mekaniska Verkstad"
+        },
+        "workExperience": [
+            {
+                "@type": "Organization",
+                "name": "AB Karlstads Mekaniska Verkstäder",
+                "startDate": "1907",
+                "endDate": "1909",
+                "jobTitle": "Drawing and Design"
+            },
+            {
+                "@type": "Organization",
+                "name": "Offerting AB Karlstads Mekaniska Verkstad",
+                "startDate": "1912"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Karlstad",
+                "industry": "",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Technical Elementary School Student",
+                "workplace": "Borås",
+                "industry": "",
+                "start_date": "1907"
+            },
+            {
+                "occupational_title": "Drawing and Design",
+                "workplace": "AB Karlstads Mekaniska Verkstäder",
+                "industry": "",
+                "start_date": "1907"
+            },
+            {
+                "occupational_title": "Student at Royal Institute of Technology (KTH)",
+                "workplace": "",
+                "industry": "",
+                "start_date": "1909"
+            },
+            {
+                "occupational_title": "Offerting AB Karlstads Mekaniska Verkstad",
+                "workplace": "",
+                "industry": "",
+                "start_date": "1912"
+            }
+        ]
+    }
+}

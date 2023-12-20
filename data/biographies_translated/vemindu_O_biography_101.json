@@ -1,0 +1,187 @@
+{
+    "original": "OSKARSON, Karl Valdemar, Teodor, Civilingenjör, Stockholm, £ 2/10 92 av Th O o Elin Grönlund, gm Minnie Stangebye. Studex 12, KTH 16. Anst Sthlms Superfosfatfabr Ljungaverk 16—18, A/S H0yangfaldene Norsk Aluminium Comp 18—20, Trollhättans El.thermiska AB 20—30, Sv AB Toledo 31—34, AB Sv Alu-miniunikomp sed. 34, övering Sv Aloxidvkn AB Sundsvall sed. 42. Led Stat Ind.komm met.avd 40—41. Styr.led AB Branteviks Gruvor. Resor: Tyskl, Frankr, Engl 24, 35. Av trycket: Div tekn upps om alumin o lättmetall. Timmermansorden. Hobbies: Fiske, jakt.",
+    "translated": "OSKARSON, Karl Valdemar, Teodor, Civil Engineer, Stockholm, b. 2/10 92 to Th O and Elin Grönlund, m. Minnie Stangebye. Graduated 1912, Royal Institute of Technology (KTH) 1916. Employed at Stockholm Superphosphate Factory in Ljungaverk 1916-1918, A/S H0yangfaldene Norsk Aluminium Comp 1918-1920, Trollhättan Electro-Thermal AB 1920-1930, Swedish AB Toledo 1931-1934, AB Swedish Aluminium Miniunicomp since 1934, Chief Engineer at Swedish Aloxidvkn AB Sundsvall since 1942. Member of the State Industrial Commission's Committee of Experts 1940-1941. Board member of AB Branteviks Mines. Traveled to Germany, France, and England in 1924 and 1935. Published various technical papers on aluminum and light metal. Received the Order of Timbermen. Hobbies: Fishing, hunting.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Karl Valdemar Teodor Oskarson",
+        "birthDate": "1892-10-02",
+        "birthPlace": "Stockholm",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Th O Oskarson"
+            },
+            {
+                "@type": "Person",
+                "name": "Elin Grönlund"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Minnie Stangebye"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "degree",
+            "credentialEarned": "Civilingenjör",
+            "educationalLevel": "undergraduate",
+            "educationalProgram": {
+                "@type": "EducationalOccupationalProgram",
+                "name": "Royal Institute of Technology (KTH)"
+            },
+            "startDate": "1912",
+            "endDate": "1916"
+        },
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Stockholm Superphosphate Factory"
+                },
+                "startDate": "1916",
+                "endDate": "1918"
+            },
+            {
+                "@type": "OrganizationRole",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "A/S H0yangfaldene Norsk Aluminium Comp"
+                },
+                "startDate": "1918",
+                "endDate": "1920"
+            },
+            {
+                "@type": "OrganizationRole",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Trollhättan Electro-Thermal AB"
+                },
+                "startDate": "1920",
+                "endDate": "1930"
+            },
+            {
+                "@type": "OrganizationRole",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Swedish AB Toledo"
+                },
+                "startDate": "1931",
+                "endDate": "1934"
+            },
+            {
+                "@type": "OrganizationRole",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "AB Swedish Aluminium Miniunicomp"
+                },
+                "startDate": "1934"
+            },
+            {
+                "@type": "OrganizationRole",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Swedish Aloxidvkn AB Sundsvall"
+                },
+                "startDate": "1942"
+            }
+        ],
+        "membership": {
+            "@type": "OrganizationRole",
+            "memberOf": {
+                "@type": "Organization",
+                "name": "State Industrial Commission's Committee of Experts"
+            },
+            "startDate": "1940",
+            "endDate": "1941"
+        },
+        "boardMember": {
+            "@type": "Organization",
+            "name": "AB Branteviks Mines"
+        },
+        "travelHistory": [
+            {
+                "@type": "TravelAction",
+                "fromLocation": "Stockholm",
+                "toLocation": "Germany",
+                "startDate": "1924"
+            },
+            {
+                "@type": "TravelAction",
+                "fromLocation": "Stockholm",
+                "toLocation": "France",
+                "startDate": "1924"
+            },
+            {
+                "@type": "TravelAction",
+                "fromLocation": "Stockholm",
+                "toLocation": "England",
+                "startDate": "1935"
+            }
+        ],
+        "publication": [
+            {
+                "@type": "PublicationEvent",
+                "name": "Various technical papers on aluminum and light metal",
+                "startDate": "unknown"
+            }
+        ],
+        "awards": [
+            {
+                "@type": "Order",
+                "name": "Order of Timbermen"
+            }
+        ],
+        "hobbies": [
+            "Fishing",
+            "Hunting"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Stockholm",
+                "industry": "Engineering",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Stockholm Superphosphate Factory",
+                "industry": "Chemical",
+                "start_date": "1916"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "A/S H0yangfaldene Norsk Aluminium Comp",
+                "industry": "Aluminium",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Trollhättan Electro-Thermal AB",
+                "industry": "Electro-Thermal",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Swedish AB Toledo",
+                "industry": "Unknown",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Chief Engineer",
+                "workplace": "AB Swedish Aluminium Miniunicomp",
+                "industry": "Aluminium",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Chief Engineer",
+                "workplace": "Swedish Aloxidvkn AB Sundsvall",
+                "industry": "Aluminium",
+                "start_date": "1942"
+            }
+        ]
+    }
+}

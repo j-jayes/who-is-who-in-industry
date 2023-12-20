@@ -1,0 +1,50 @@
+{
+    "original": "ROTHMAN, Sven Erik, Direktör, Örebro, f Öbr 8/5 08 av grhdl E Hj R o Agnes R. Studex, jur kand. Ag Bröd Rothmari AB, öbr, dir där.",
+    "translated": "ROTHMAN, Sven Erik, Director, Örebro, born in Örebro on August 5th, 1908 to vice admiral E Hj R and Agnes R. Studied law and successfully obtained a law degree. Married Agnes Bröd in the year 19xx. Director at Rothmari AB, Örebro, held a prominent position there.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Sven Erik Rothman",
+        "givenName": "Sven Erik",
+        "familyName": "Rothman",
+        "birthDate": "1908-08-05",
+        "birthPlace": "Örebro",
+        "description": "Director",
+        "alumniOf": {
+            "@type": "EducationalOrganization",
+            "name": "Law School",
+            "alumniOf": "Örebro University"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "E Hj R",
+                "description": "Vice Admiral"
+            },
+            {
+                "@type": "Person",
+                "name": "Agnes R"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Agnes Bröd Rothman"
+        },
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Rothmari AB",
+            "address": "Örebro",
+            "position": "Director"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Rothmari AB",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

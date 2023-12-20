@@ -1,0 +1,104 @@
+{
+    "original": "PEHRSON, Sven Harald, Ingenjör, Stockholm, f Norrköping 1/10 81 av smidesfabr O P o Kristina Hallgren, gm Sigrid Ringdahl. Hal Nrkp, ex Tekn elem.sk Nrkp 99. Kem o förest experim.avd Ackumulator AB Jungner, Kneippbaden, Sthlm o Fliseryd 01— 18, avd.ch AB A Bonthron Sthlm 18—27, AB Gerber &amp; Hesslow Sthlm sed. 27. Led Sv Tekn.frn.",
+    "translated": "PEHRSON, Sven Harald, Engineer, Stockholm, born in Norrköping on October 1, 1881, son of blacksmith O P and Kristina Hallgren, married to Sigrid Ringdahl. Studied at Technical Elementary School in Norrköping until 1899. Chemical and experimental department manager at Ackumulator AB Jungner in Kneippbaden, Stockholm, and Fliseryd from 1901 to 1918. Department chief at AB A Bonthron in Stockholm from 1918 to 1927, and at AB Gerber & Hesslow in Stockholm from 1927 onwards. Member of the Swedish Engineering Association.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Sven Harald Pehrson",
+        "birthDate": "1881-10-01",
+        "birthPlace": "Norrköping, Sweden",
+        "jobTitle": "Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm",
+            "addressCountry": "Sweden"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "O P"
+            },
+            {
+                "@type": "Person",
+                "name": "Kristina Hallgren"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Sigrid Ringdahl"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Technical Elementary School",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Norrköping",
+                "addressCountry": "Sweden"
+            },
+            "endDate": "1899"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Ackumulator AB Jungner",
+                "department": "Chemical and Experimental",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Kneippbaden",
+                    "addressCountry": "Sweden"
+                },
+                "startDate": "1901",
+                "endDate": "1918"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB A Bonthron",
+                "department": "Department Chief",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm",
+                    "addressCountry": "Sweden"
+                },
+                "startDate": "1918",
+                "endDate": "1927"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Gerber & Hesslow",
+                "department": "Department Chief",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm",
+                    "addressCountry": "Sweden"
+                },
+                "startDate": "1927"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Swedish Engineering Association"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "Ackumulator AB Jungner",
+                "industry": "Chemical and experimental department",
+                "start_date": "1901"
+            },
+            {
+                "occupational_title": "Department Chief",
+                "workplace": "AB A Bonthron",
+                "industry": "Unknown",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Department Chief",
+                "workplace": "AB Gerber & Hesslow",
+                "industry": "Unknown",
+                "start_date": "1927"
+            }
+        ]
+    }
+}

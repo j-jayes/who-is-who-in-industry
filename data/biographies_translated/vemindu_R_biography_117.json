@@ -1,0 +1,106 @@
+{
+    "original": "ROSSWAI/L, Axel Edvin, Ingenjör, Stockholm, f Tierp, Upps l, 10/4 92 av handl P J Pettersson o Mathilda Anderén. Gävle Borgarskola, Tekn Sk i Sthlm avd Maskinyrkessk 18, spec.lev KTH, prakt Tyskl 17—18. Bitr verkst.ing v AB Halda Fabriker 18—19, anst v Riksb Sedeltryckeri 19, nu driftsing där. Studieresor: Norge, Finl, Danm, Estl, Tyskl, Engl, Holl, Belg, Tjeckoslov, Österr, Ung, Ital. RVO.",
+    "translated": "ROSSWAI/L, Axel Edvin, Engineer, Stockholm, born in Tierp, Uppsala County, on April 10th, 1892, son of merchant P J Pettersson and Mathilda Anderén. Attended Gävle Borgarskola (Gävle Civic School), Technical School in Stockholm, specializing in Mechanical Engineering, class of 1918. Continued studies at the Royal Institute of Technology (KTH), with a practical training period in Germany from 1917 to 1918. Assistant Engineer at AB Halda Fabriker from 1918 to 1919, employed by Riksbank Note Printing Works in 1919, currently holding a managerial position there. Participated in study trips to Norway, Finland, Denmark, Estonia, Germany, England, the Netherlands, Belgium, Czechoslovakia, Austria, Hungary, and Italy. Received the Royal Order of Vasa (RVO).",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Axel Edvin Rosswai",
+        "jobTitle": "Engineer",
+        "birthPlace": "Tierp, Uppsala County",
+        "birthDate": "1892-04-10",
+        "parents": {
+            "@type": "Person",
+            "parent": [
+                {
+                    "@type": "Person",
+                    "name": "P J Pettersson",
+                    "jobTitle": "Merchant"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Mathilda Anderén"
+                }
+            ]
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Gävle Borgarskola",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Gävle"
+                }
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Technical School in Stockholm",
+                "department": "Mechanical Engineering",
+                "endDate": "1918"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Royal Institute of Technology (KTH)",
+                "startDate": "1918",
+                "endDate": "1919"
+            }
+        ],
+        "workExperience": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1918",
+                "endDate": "1919",
+                "roleName": "Assistant Engineer",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "AB Halda Fabriker"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1919",
+                "roleName": "Manager",
+                "employer": {
+                    "@type": "Organization",
+                    "name": "Riksbank Note Printing Works"
+                },
+                "description": "Currently holding a managerial position"
+            }
+        ],
+        "studyTrip": [
+            "Norway",
+            "Finland",
+            "Denmark",
+            "Estonia",
+            "Germany",
+            "England",
+            "the Netherlands",
+            "Belgium",
+            "Czechoslovakia",
+            "Austria",
+            "Hungary",
+            "Italy"
+        ],
+        "awards": [
+            {
+                "@type": "Order",
+                "name": "Royal Order of Vasa (RVO)"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Assistant Engineer",
+                "workplace": "AB Halda Fabriker",
+                "industry": "Engineering",
+                "start_date": "1918"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Riksbank Note Printing Works",
+                "industry": "Printing",
+                "start_date": "1919"
+            }
+        ]
+    }
+}

@@ -1,0 +1,235 @@
+{
+    "original": "OLSON, Carl-Gustaf, Disponent, Malmö, f Kävlinge, Malmöh l, 4/3 84 av fabr Lars O o Hanna Persson, gm Ester Nilsson. Anst h Ludv Lindgren &amp; Co i Malmö 98—01, C M Ljungbergs Eftr i Hörby 01—02, AB F W Hasselblad &amp; Co i Gbg 03—05, res f Gbgs Mössfabr 05—06, anst h Leopold Otto 07—09, 26 Brännö Väveri AB 10—11 samt Almedahls Fabriker sed. 11, eft sammanslagn av Almedahls Fabriker, Dalsjöfors Fabriker, Holma-Hel-singlands o Häggådalens Fabriker dessa bolags representant f Södra Sv o ch f avd.kont i Malmö. Aff.resor i Norge o Danm. Styr.led i Gbgs Hdlsresandefrn 30—36. Hobby: Filateli.",
+    "translated": "OLSON, Carl-Gustaf, Sales Manager, Malmö, born in Kävlinge, Malmöhus County, on March 4th, 1884, to factory worker Lars O and Hanna Persson. Married to Ester Nilsson. Employed at Ludv Lindgren &amp; Co in Malmö from 1898 to 1901, C M Ljungbergs Eftr in Hörby from 1901 to 1902, AB F W Hasselblad &amp; Co in Gothenburg from 1903 to 1905, resigned from Gothenburg's Mössfabr in 1905 to 1906, employed at Leopold Otto from 1907 to 1909, 26 Brännö Väveri AB from 1910 to 1911, and Almedahls Fabriker since 1911, following the merger of Almedahls Fabriker, Dalsjöfors Fabriker, Holma-Helsinglands, and Häggådalens Fabriker. Represents these companies in southern Sweden and has branch offices in Malmö. Has made business trips to Norway and Denmark. Board member of Gbgs Hdlsresandefrn from 1930 to 1936. Hobby: Philately.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Carl-Gustaf",
+        "familyName": "Olson",
+        "jobTitle": "Sales Manager",
+        "birthPlace": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Kävlinge",
+                "addressRegion": "Malmöhus County"
+            }
+        },
+        "birthDate": "1884-03-04",
+        "parents": [
+            {
+                "@type": "Person",
+                "givenName": "Lars",
+                "familyName": "O"
+            },
+            {
+                "@type": "Person",
+                "givenName": "Hanna",
+                "familyName": "Persson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "givenName": "Ester",
+            "familyName": "Nilsson"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Ludv Lindgren & Co",
+                "startDate": "1898-01-01",
+                "endDate": "1901-12-31",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Malmö"
+                    }
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "C M Ljungbergs Eftr",
+                "startDate": "1901-01-01",
+                "endDate": "1902-12-31",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Hörby"
+                    }
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "AB F W Hasselblad & Co",
+                "startDate": "1903-01-01",
+                "endDate": "1905-12-31",
+                "location": {
+                    "@type": "Place",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Gothenburg"
+                    }
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Gothenburg's Mössfabr",
+                "startDate": "1905-01-01",
+                "endDate": "1906-12-31"
+            },
+            {
+                "@type": "Organization",
+                "name": "Leopold Otto",
+                "startDate": "1907-01-01",
+                "endDate": "1909-12-31"
+            },
+            {
+                "@type": "Organization",
+                "name": "26 Brännö Väveri AB",
+                "startDate": "1910-01-01",
+                "endDate": "1911-12-31"
+            },
+            {
+                "@type": "Organization",
+                "name": "Almedahls Fabriker"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Almedahls Fabriker"
+            },
+            {
+                "@type": "Organization",
+                "name": "Dalsjöfors Fabriker"
+            },
+            {
+                "@type": "Organization",
+                "name": "Holma-Helsinglands"
+            },
+            {
+                "@type": "Organization",
+                "name": "Häggådalens Fabriker"
+            }
+        ],
+        "hasOccupation": [
+            {
+                "@type": "Occupation",
+                "name": "Sales Manager"
+            }
+        ],
+        "address": [
+            {
+                "@type": "PostalAddress",
+                "addressLocality": "Malmö",
+                "streetAddress": "Main Street"
+            }
+        ],
+        "hasBranch": [
+            {
+                "@type": "Organization",
+                "name": "Malmö branch",
+                "memberOf": [
+                    {
+                        "@type": "Organization",
+                        "name": "Almedahls Fabriker"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "Dalsjöfors Fabriker"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "Holma-Helsinglands"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "Häggådalens Fabriker"
+                    }
+                ]
+            }
+        ],
+        "hasHobby": [
+            {
+                "@type": "Thing",
+                "name": "Philately"
+            }
+        ],
+        "hasBusinessTrip": [
+            {
+                "@type": "BusinessEvent",
+                "name": "Business trip to Norway"
+            },
+            {
+                "@type": "BusinessEvent",
+                "name": "Business trip to Denmark"
+            }
+        ],
+        "boardMember": {
+            "@type": "Organization",
+            "name": "Gbgs Hdlsresandefrn",
+            "startDate": "1930-01-01",
+            "endDate": "1936-12-31"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Sales Manager",
+                "workplace": "Almedahls Fabriker",
+                "industry": "Textiles",
+                "start_date": "1911"
+            },
+            {
+                "occupational_title": "Sales Representative",
+                "workplace": "Dalsjöfors Fabriker",
+                "industry": "Textiles",
+                "start_date": "1911"
+            },
+            {
+                "occupational_title": "Sales Representative",
+                "workplace": "Holma-Helsinglands",
+                "industry": "Textiles",
+                "start_date": "1911"
+            },
+            {
+                "occupational_title": "Sales Representative",
+                "workplace": "Häggådalens Fabriker",
+                "industry": "Textiles",
+                "start_date": "1911"
+            },
+            {
+                "occupational_title": "Sales Representative",
+                "workplace": "Leopold Otto",
+                "industry": "Unknown",
+                "start_date": "1907"
+            },
+            {
+                "occupational_title": "Sales Representative",
+                "workplace": "26 Brännö Väveri AB",
+                "industry": "Textiles",
+                "start_date": "1910"
+            },
+            {
+                "occupational_title": "Sales Representative",
+                "workplace": "AB F W Hasselblad & Co",
+                "industry": "Unknown",
+                "start_date": "1903"
+            },
+            {
+                "occupational_title": "Sales Representative",
+                "workplace": "C M Ljungbergs Eftr",
+                "industry": "Unknown",
+                "start_date": "1901"
+            },
+            {
+                "occupational_title": "Sales Representative",
+                "workplace": "Ludv Lindgren & Co",
+                "industry": "Unknown",
+                "start_date": "1898"
+            }
+        ]
+    }
+}

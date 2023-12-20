@@ -1,0 +1,138 @@
+{
+    "original": "OTTERSTRÖM, Johan Sigurd, Disponent, Sollefteå, f Östersund 2/12 98 av fabrikör S L Otterström o Emelie Johansson, gm Anna-Lisa Bergman. Hdlsgymn. Anst Strömsunds brygg-AB 23—31, Soll brygg.AB sed. 31.. Styr.led i fi bol o frnar. Resor: Ryssl 17—19, Tyskl 26, Engl 36, Danm o Norge uppr ggr. Ett flert idrottsl mfl utm.t. Hobbies: Boxning, tennis, skidor.",
+    "translated": "OTTERSTRÖM, Johan Sigurd, Superintendent, Sollefteå, b. Östersund 2/12 98, son of manufacturer S L Otterström and Emelie Johansson, married to Anna-Lisa Bergman. High school graduate. Employed at Strömsunds brygg-AB from 23-31, Soll brygg.AB since 31. Board member of several companies and associations. Travel: Russia 17-19, Germany 26, England 36, Denmark and Norway on several occasions. Participated in multiple sports with several awards. Hobbies: Boxing, tennis, skiing.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Johan Sigurd Otterström",
+        "jobTitle": "Superintendent",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Sollefteå"
+        },
+        "birthDate": "1898-12-02",
+        "birthPlace": "Östersund",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "S L Otterström",
+                "jobTitle": "Manufacturer"
+            },
+            {
+                "@type": "Person",
+                "name": "Emelie Johansson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Anna-Lisa Bergman"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "High school graduate"
+        },
+        "workExperience": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1923",
+                "endDate": "1931",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Strömsunds brygg-AB"
+                },
+                "roleName": "Employee"
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1931",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Soll brygg.AB"
+                },
+                "roleName": "Employee"
+            }
+        ],
+        "affiliation": [
+            {
+                "@type": "Organization",
+                "name": "Strömsunds brygg-AB"
+            },
+            {
+                "@type": "Organization",
+                "name": "Soll brygg.AB"
+            }
+        ],
+        "boardMember": [
+            {
+                "@type": "Organization",
+                "name": "Board member of several companies"
+            },
+            {
+                "@type": "Organization",
+                "name": "Board member of several associations"
+            }
+        ],
+        "travelHistory": [
+            {
+                "@type": "Place",
+                "name": "Russia",
+                "startDate": "1917",
+                "endDate": "1919"
+            },
+            {
+                "@type": "Place",
+                "name": "Germany",
+                "startDate": "1926"
+            },
+            {
+                "@type": "Place",
+                "name": "England",
+                "startDate": "1936"
+            },
+            {
+                "@type": "Place",
+                "name": "Denmark"
+            },
+            {
+                "@type": "Place",
+                "name": "Norway"
+            }
+        ],
+        "sports": [
+            {
+                "@type": "SportsActivity",
+                "name": "Boxing"
+            },
+            {
+                "@type": "SportsActivity",
+                "name": "Tennis"
+            },
+            {
+                "@type": "SportsActivity",
+                "name": "Skiing"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Superintendent",
+                "workplace": "Sollefteå",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Employee, Strömsunds brygg-AB",
+                "workplace": "Strömsunds brygg-AB",
+                "industry": "Brewery",
+                "start_date": "1923"
+            },
+            {
+                "occupational_title": "Employee, Soll brygg.AB",
+                "workplace": "Soll brygg.AB",
+                "industry": "Brewery",
+                "start_date": "1931"
+            }
+        ]
+    }
+}

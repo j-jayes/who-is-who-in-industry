@@ -1,0 +1,173 @@
+{
+    "original": "NATHORST-BÖÖS, Ernst Jonas, v. Häradshövding, Lännersta, f Erska förs, Älvsb l, 20/11 61 av v. hhövd J B o Louise Nathorst, gm Hedvig Liedholm. Växjö hal, Lunds univ, jur utr kand. Aman i Eckl.dep, ord not Svea Hovrätt, auditör Sv Livgarde, sekr Riksd 2:a kam, bankdir Sthlm-övre Norrl, advokat. Ag Högbo i Lännersta. Under årens lopp led 1 ett antal bolags- o fören.styrelser. Resa: USA 36. RNO. Hobby: Trädgårdsarbete.",
+    "translated": "NATHORST-BÖÖS, Ernst Jonas, v. Häradshövding, Lännersta, born in Erska förs, Älvsb l, on November 20, 1861, to v. hhövd J B and Louise Nathorst, married to Hedvig Liedholm. Education: Växjö School of Law, Lund University, graduated with a law degree. Clerk in the Ministry of Justice, official at Svea Court of Appeal, auditor in the Swedish Life Guards, secretary for the 2nd Chamber of Parliament, bank director in Stockholm Upper Norrland, lawyer. Owns Högbo in Lännersta. Throughout the years, he has held positions on several boards of companies and associations. Travel: USA 1936. RNO (Royal Norwegian Order of Merit). Hobby: Gardening.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "givenName": "Ernst Jonas",
+        "familyName": "Nathorst-Böös",
+        "honorificPrefix": "v. Häradshövding",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Lännersta"
+        },
+        "birthDate": "1861-11-20",
+        "birthPlace": "Erska förs, Älvsb l",
+        "parent": [
+            {
+                "@type": "Person",
+                "givenName": "J B",
+                "familyName": "Nathorst",
+                "honorificPrefix": "v. hhövd"
+            },
+            {
+                "@type": "Person",
+                "givenName": "Louise",
+                "familyName": "Nathorst"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "givenName": "Hedvig",
+            "familyName": "Liedholm"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Växjö School of Law"
+        },
+        "alumniOf": {
+            "@type": "CollegeOrUniversity",
+            "name": "Lund University"
+        },
+        "degrees": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "law",
+                "degreeName": "jur utr kand"
+            }
+        ],
+        "employment": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Clerk",
+                "startDate": "Unspecified",
+                "endDate": "Unspecified",
+                "namedPosition": "Ministry of Justice"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Official",
+                "startDate": "Unspecified",
+                "endDate": "Unspecified",
+                "namedPosition": "Svea Court of Appeal"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Auditor",
+                "startDate": "Unspecified",
+                "endDate": "Unspecified",
+                "namedPosition": "Swedish Life Guards"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Secretary",
+                "startDate": "Unspecified",
+                "endDate": "Unspecified",
+                "namedPosition": "2nd Chamber of Parliament"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Bank Director",
+                "startDate": "Unspecified",
+                "endDate": "Unspecified",
+                "namedPosition": "Stockholm Upper Norrland"
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Lawyer",
+                "startDate": "Unspecified",
+                "endDate": "Unspecified",
+                "namedPosition": "Private Law Firm"
+            }
+        ],
+        "owns": [
+            {
+                "@type": "Place",
+                "name": "Högbo",
+                "containedInPlace": {
+                    "@type": "Place",
+                    "name": "Lännersta"
+                }
+            }
+        ],
+        "boardMember": [
+            {
+                "@type": "Organization",
+                "name": "Unspecified"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Unspecified"
+            }
+        ],
+        "hasOccupation": [
+            {
+                "@type": "Occupation",
+                "name": "Gardening"
+            }
+        ],
+        "hasCredential": [
+            {
+                "@type": "Credential",
+                "name": "RNO (Royal Norwegian Order of Merit)"
+            }
+        ],
+        "travel": {
+            "@type": "Trip",
+            "departureTime": "1936",
+            "name": "USA"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Clerk in the Ministry of Justice",
+                "workplace": "Eckl.dep",
+                "industry": "Government",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Official at Svea Court of Appeal",
+                "workplace": "Svea Hovrätt",
+                "industry": "Law",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Auditor in the Swedish Life Guards",
+                "workplace": "Sv Livgarde",
+                "industry": "Military",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Secretary for the 2nd Chamber of Parliament",
+                "workplace": "Riksd 2:a kam",
+                "industry": "Government",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Bank Director",
+                "workplace": "Sthlm-övre Norrl",
+                "industry": "Banking",
+                "start_date": ""
+            },
+            {
+                "occupational_title": "Lawyer",
+                "workplace": "",
+                "industry": "Law",
+                "start_date": ""
+            }
+        ]
+    }
+}

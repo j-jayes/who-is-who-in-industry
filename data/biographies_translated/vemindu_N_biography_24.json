@@ -1,0 +1,126 @@
+{
+    "original": "NETJENDORF, Edvin Georg Samuel, Arkitekt, Direktör, Skövde, f Veinge, Hall, 14/5 96 av ark F A Neuendorf o Elvira Palmgren, gm Ebba Alm. Skövde elem.lärov, byggn.praktik Tyskl 12—13. Anst fad. ark.fma 14—19, deläg 20 —36. Eg ark.kont sed. 37, ag Västgöta Cement-gjuteri Skövde, vkst dir dta, ag fastigh nr 3 kv Bofinken Skövde. Led brandstyr. Ch frn Silor upa Skövde, led byggn.frn Västergyllen Skövde. Resor: Tyskl 07, 12, 13, 39, Danmark 38, 39. Inneh 4 beviljade patent. Frimurare (VIII), Odd Fellow (III), Skövde hantv- o ind.frn, Konstfrn, Luftv.frn, Lst.frn, Tekn frn i Skövde, Fastigh.äg.frn, Flygklb, Sv Slöjdfrn, Sv Lst.frn :s Centralfrb :s garantifrn, Riksfrn f Sv Försvar, M mm. Hobbies: Konst, segelflygning, trä- o metallslöjd.",
+    "translated": "NETJENDORF, Edvin Georg Samuel, Architect, Director, Skövde, born in Veinge, Hall, on May 14, 1896, son of architect F A Neuendorf and Elvira Palmgren, married to Ebba Alm. Attended primary school in Skövde, construction practice in Germany in 1912-1913. Employed by his father's architectural firm from 1914 to 1919, became a partner from 1920 to 1936. Established his own architectural office in 1937 and was appointed as the managing director of Västgöta Cement Foundry in Skövde. Also owned property number 3 in the Bofinken quarter of Skövde. Served as a member of the fire brigade. Chairman of the Silor hunting club in Skövde and member of the building committee of Västergyllen in Skövde. Traveled to Germany in 1907, 1912, 1913, and 1939, and Denmark in 1938 and 1939. Holds 4 granted patents. Freemason (8th degree), Odd Fellow (3rd degree), member of the Skövde Craft and Industrial Association, Art Association, Air Force Association, Shooting Association, Technical Association in Skövde, Property Owners Association, Flying Club, Swedish Handicraft Association, Swedish Shooting Association's Central Federation's Guarantee Company, National Defense Association, etc. Hobbies: Art, gliding, woodworking, and metalworking.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Edvin Georg Samuel Netjendorf",
+        "birthDate": "1896-05-14",
+        "birthPlace": "Veinge, Hall, Sweden",
+        "nationality": "Swedish",
+        "jobTitle": "Architect, Director",
+        "spouse": {
+            "@type": "Person",
+            "name": "Ebba Alm"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Skövde Elementary School"
+        },
+        "workExperience": [
+            {
+                "@type": "Organization",
+                "name": "F A Neuendorf Architectural Firm",
+                "startDate": "1914",
+                "endDate": "1919",
+                "description": "Employed as an architect"
+            },
+            {
+                "@type": "Organization",
+                "name": "F A Neuendorf Architectural Firm",
+                "startDate": "1920",
+                "endDate": "1936",
+                "description": "Partner"
+            },
+            {
+                "@type": "Organization",
+                "name": "Edvin Netjendorf Architectural Office",
+                "startDate": "1937",
+                "description": "Established own architectural office"
+            },
+            {
+                "@type": "Organization",
+                "name": "Västgöta Cement Foundry",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Skövde",
+                    "addressCountry": "Sweden"
+                },
+                "startDate": "Unknown",
+                "position": "Managing Director"
+            }
+        ],
+        "owns": [
+            {
+                "@type": "RealEstateAgent",
+                "name": "Bofinken Skövde",
+                "propertyID": "3"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Freemasons",
+                "membershipLevel": "8th degree"
+            },
+            {
+                "@type": "Organization",
+                "name": "Odd Fellow",
+                "membershipLevel": "3rd degree"
+            }
+        ],
+        "hobbies": [
+            "Art",
+            "Gliding",
+            "Woodworking",
+            "Metalworking"
+        ],
+        "patent": [
+            {
+                "@type": "CreativeWork",
+                "name": "Patent 1"
+            },
+            {
+                "@type": "CreativeWork",
+                "name": "Patent 2"
+            },
+            {
+                "@type": "CreativeWork",
+                "name": "Patent 3"
+            },
+            {
+                "@type": "CreativeWork",
+                "name": "Patent 4"
+            }
+        ],
+        "gender": "Male"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Architect",
+                "workplace": "F A Neuendorf Architectural Firm",
+                "industry": "Architecture",
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "F A Neuendorf Architectural Firm",
+                "industry": "Architecture",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Architect",
+                "workplace": "Own Architectural Office",
+                "industry": "Architecture",
+                "start_date": "1937"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "Västgöta Cement Foundry",
+                "industry": "Cement",
+                "start_date": "unknown"
+            }
+        ]
+    }
+}

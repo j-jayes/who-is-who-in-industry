@@ -1,0 +1,111 @@
+{
+    "original": "OHLSSON, Nils Harald Germund, Spannmålshandlare, Jordholmen, f Jordholmen 14/3 01 av grhdl N O o Maria Jönsson, gm Elly Ljungström. Studex Malmö 21. Anst AB Allan Nilssons Kraftfoderimp, Malmö, 22—25, AB N Ohlsson, Spannmålsaffär, Jordholmen (gr 98, AB 33), sed. 25, vkst dir o styr.ordf där. Ag villa o två lantbr.egend. Led komm.nmd, led o kass kyrkoråd, skolråd o barnav.-nmd. Resor: Tyskl, Frankr, Belg, Norge, Danm. Frimurare.",
+    "translated": "OHLSSON, Nils Harald Germund, Grain merchant, Jordholmen, b. Jordholmen 14/3 01 to farmer Nils O and Maria Jönsson, m. Elly Ljungström. Graduated from Malmö 21. Employed at AB Allan Nilssons Kraftfoderimp, Malmö, 22-25, AB N Ohlsson, Grain store, Jordholmen (founded 1898, AB 1933), since 1925, general manager and chairman of the board there. Owns a villa and two agricultural properties. Member of the municipal committee, member and treasurer of the church council, school board, and child welfare committee. Travels to Germany, France, Belgium, Norway, and Denmark. Freemason.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Nils Harald Germund Ohlsson",
+        "birthDate": "1901-03-14",
+        "birthPlace": "Jordholmen",
+        "father": {
+            "@type": "Person",
+            "name": "Nils O"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Maria Jönsson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Elly Ljungström"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "studex",
+            "educationalLevel": "Malmö",
+            "startDate": "1921",
+            "endDate": "1921"
+        },
+        "employment": [
+            {
+                "@type": "Organization",
+                "name": "AB Allan Nilssons Kraftfoderimp",
+                "location": "Malmö",
+                "startDate": "1922",
+                "endDate": "1925"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB N Ohlsson, Spannmålsaffär, Jordholmen",
+                "foundingDate": "1898",
+                "startDate": "1925",
+                "hasOccupation": [
+                    {
+                        "@type": "Role",
+                        "name": "General Manager"
+                    },
+                    {
+                        "@type": "Role",
+                        "name": "Chairman of the Board"
+                    }
+                ]
+            }
+        ],
+        "owns": [
+            {
+                "@type": "Place",
+                "name": "Villa"
+            },
+            {
+                "@type": "Place",
+                "name": "Agricultural Property 1"
+            },
+            {
+                "@type": "Place",
+                "name": "Agricultural Property 2"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Freemason"
+        },
+        "hasTravelExperience": [
+            {
+                "@type": "Country",
+                "name": "Germany"
+            },
+            {
+                "@type": "Country",
+                "name": "France"
+            },
+            {
+                "@type": "Country",
+                "name": "Belgium"
+            },
+            {
+                "@type": "Country",
+                "name": "Norway"
+            },
+            {
+                "@type": "Country",
+                "name": "Denmark"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Grain merchant",
+                "workplace": "AB Allan Nilssons Kraftfoderimp",
+                "industry": "Agriculture",
+                "start_date": "1922-1925"
+            },
+            {
+                "occupational_title": "Grain merchant",
+                "workplace": "AB N Ohlsson",
+                "industry": "Agriculture",
+                "start_date": "1925"
+            }
+        ]
+    }
+}

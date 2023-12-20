@@ -1,0 +1,126 @@
+{
+    "original": "NYSTRÖM, Johan Tage, Direktör, Råsunda, f Alnö 14/11 07 av insp G N o Maria Hjerpe, gm Karin Johansson. Norrtälje lärov, Hdlssk. Kontorist h C F Fredriksson AB 24, kamrer 32, styr.led 35, v. vkst dir sed. 40. Ordf i Solna luftsk.frn vkst utsk, led kristidsnmd, v. ordf idr.styr. V. ordf Råsunda tennisklb. Resor: Finl 35, Norge 37. Luftsk ftjSM, skidlöpmbr. Hobbies: Sport, skogen, träförädling.",
+    "translated": "NYSTRÖM, Johan Tage, Director, Råsunda, born in Alnö on November 14th, 1907, son of inspector G.N. and Maria Hjerpe, married to Karin Johansson. Attended Norrtälje school, commercial school. Office clerk at C.F. Fredriksson AB in 1924, treasurer in 1932, board member in 1935, acting vice managing director since 1940. Chairman of the Solna Air School's growth committee, member of the crisis committee, vice chairman of the sports committee. Vice chairman of the Råsunda Tennis Club. Travel: Finland in 1935, Norway in 1937. Participated in the Air School's flight sports and cross-country skiing competition. Hobbies: Sports, the forest, wood processing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Johan Tage Nyström",
+        "jobTitle": "Office Clerk",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Råsunda"
+        },
+        "birthDate": "1907-11-14",
+        "birthPlace": "Alnö",
+        "father": {
+            "@type": "Person",
+            "name": "G.N. Nyström"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Maria Hjerpe"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Karin Johansson"
+        },
+        "alumniOf": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Norrtälje school"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Commercial school"
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "C.F. Fredriksson AB"
+        },
+        "startDate": "1924",
+        "endDate": "1932",
+        "positions": [
+            {
+                "@type": "OrganizationRole",
+                "title": "Treasurer",
+                "startDate": "1932"
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Board Member",
+                "startDate": "1935"
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Acting Vice Managing Director",
+                "startDate": "1940"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Solna Air School",
+                "memberOf": [
+                    {
+                        "@type": "Organization",
+                        "name": "Growth Committee",
+                        "roleName": "Chairman"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "Crisis Committee",
+                        "roleName": "Member"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "Sports Committee",
+                        "roleName": "Vice Chairman"
+                    }
+                ]
+            },
+            {
+                "@type": "Organization",
+                "name": "Råsunda Tennis Club",
+                "roleName": "Vice Chairman"
+            }
+        ],
+        "travelHistory": [
+            "1935 Finland",
+            "1937 Norway"
+        ],
+        "hobbies": [
+            "Sports",
+            "The forest",
+            "Wood processing"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Office clerk",
+                "workplace": "C.F. Fredriksson AB",
+                "industry": "Unknown",
+                "start_date": 1924
+            },
+            {
+                "occupational_title": "Treasurer",
+                "workplace": "C.F. Fredriksson AB",
+                "industry": "Unknown",
+                "start_date": 1932
+            },
+            {
+                "occupational_title": "Board member",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": 1935
+            },
+            {
+                "occupational_title": "Acting Vice Managing Director",
+                "workplace": "Unknown",
+                "industry": "Unknown",
+                "start_date": 1940
+            }
+        ]
+    }
+}

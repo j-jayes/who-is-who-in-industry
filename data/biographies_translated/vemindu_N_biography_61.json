@@ -1,0 +1,129 @@
+{
+    "original": "NILSSON, Karl Einar, Direktör, Stockholm, f Ö Stenby, Ögl, 25/8 95 av Jolin August N o Anna Andersson, gm Gunhild Wirström. Hdlssk 11—12. Anst Holmens br- &amp; fabr AB Nrkp 12—19, Nrkp red.AB 20—34, vkst dir red.AB Novator Nrkp sed. 33, red.ch v Holmens br sed 34, ch Stat reservförr.nmds be-fraktn.avd sed. 42. Suppl i dir f Nrkp sjö-mansh. Resor: Engl 21, 27, Frankr 27, 36, Tyskl 36. Frimurare. Hobbies: Tennis, friluftsliv.",
+    "translated": "NILSSON, Karl Einar, Director, Stockholm, born in Stenby, Ögl, August 25, 1895, to parents Jolin August N and Anna Andersson, married to Gunhild Wirström. Elementary school attended from 1911 to 1912. Employed at Holmens br- & fabr AB in Norrköping from 1912 to 1919, Norrköping editor at AB from 1920 to 1934, Vice director and editor at AB Novator in Norrköping since 1933, chief of the shipping department at Stat reservförr.nmds since 1942. Substituting director at Nrkp sjö-mansh. Travels: England in 1921 and 1927, France in 1927 and 1936, Germany in 1936. Freemason. Hobbies: Tennis, outdoor activities.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Karl Einar Nilsson",
+        "jobTitle": "Director",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "birthDate": "1895-08-25",
+        "birthPlace": "Stenby, Ögl",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Jolin August N"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Andersson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Gunhild Wirström"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Elementary school",
+            "startDate": "1911",
+            "endDate": "1912"
+        },
+        "employment": [
+            {
+                "@type": "Organization",
+                "name": "Holmens br- & fabr AB",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Norrköping"
+                },
+                "startDate": "1912",
+                "endDate": "1919"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Norrköping"
+                },
+                "startDate": "1920",
+                "endDate": "1934",
+                "jobTitle": "Editor"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Novator",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Norrköping"
+                },
+                "startDate": "1933",
+                "jobTitle": "Vice director and editor"
+            },
+            {
+                "@type": "Organization",
+                "name": "Stat reservförr.nmds",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Norrköping"
+                },
+                "startDate": "1942",
+                "jobTitle": "Chief of shipping department"
+            },
+            {
+                "@type": "Organization",
+                "name": "Nrkp sjö-mansh",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Norrköping"
+                },
+                "jobTitle": "Substituting director"
+            }
+        ],
+        "memberOf": {
+            "@type": "Organization",
+            "name": "Frimurare"
+        },
+        "knowsLanguage": [
+            "English",
+            "French",
+            "German"
+        ],
+        "hobbies": [
+            "Tennis",
+            "Outdoor activities"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Holmens br- & fabr AB",
+                "industry": "Paper and pulp industry",
+                "start_date": "1912"
+            },
+            {
+                "occupational_title": "Norrköping Editor",
+                "workplace": "AB",
+                "industry": "Newspaper publishing",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Vice Director and Editor",
+                "workplace": "AB Novator",
+                "industry": "Newspaper publishing",
+                "start_date": "1933"
+            },
+            {
+                "occupational_title": "Chief of Shipping Department",
+                "workplace": "Stat reservförr.nmds",
+                "industry": "Government agency",
+                "start_date": "1942"
+            }
+        ]
+    }
+}

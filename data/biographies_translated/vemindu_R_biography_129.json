@@ -1,0 +1,129 @@
+{
+    "original": "RUDBERG, Henry Julius, Bergsingenjör, Hällekis, f Ludvika 27/3 03 av gruvfogde J R o Olga Larsson, gm Berit Rudberg. Studex 23, KTH (bergs) 29. Bitr gruving Saxbergets gruv 29, driftsing o platschef Orijärvi gruv Finl 30—36, ch.ass Skånska Cement AB Hällekis 39, disp o vkst dir Hidinge Kalkvk sed. 43. Ordf komm.flm österplana. V. ordf o styr.led Mell Sv Kalkbr Centralf rn. Resor: Norge, Finl, Engl, Danm. Av trycket: upps i bergs-tekn f råg. Hobbies: Friluftsliv, sport.",
+    "translated": "RUDBERG, Henry Julius, Mining Engineer, Hällekis, born in Ludvika on March 27th, 1903, son of mine overseer J R and Olga Larsson, married to Berit Rudberg. Graduated 1923, Royal Institute of Technology (mining) 1929. Assistant mining engineer at Saxbergets mine 1929, mining superintendent and site manager at Orijärvi mine in Finland 1930-1936, chief assistant at Skånska Cement AB in Hällekis 1939, supervisor and director of operations at Hidinge Limestone Quarry since 1943. Chairman of the municipal council in österplana. Vice chairman and director of the board of the Central Swedish Limestone Quarry Center. Travels: Norway, Finland, England, Denmark. Published in mining technical issues. Hobbies: Outdoor activities, sports.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Henry Julius Rudberg",
+        "jobTitle": "Mining Engineer",
+        "birthPlace": "Ludvika",
+        "birthDate": "1903-03-27",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "J R Rudberg",
+                "jobTitle": "Mine Overseer"
+            },
+            {
+                "@type": "Person",
+                "name": "Olga Larsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Berit Rudberg"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Studex",
+            "educationalLevel": {
+                "@type": "DefinedTerm",
+                "name": "Studex 23"
+            },
+            "educationalCredentialAwarded": {
+                "@type": "CollegeOrUniversity",
+                "name": "Royal Institute of Technology"
+            },
+            "studyMode": {
+                "@type": "DefinedTerm",
+                "name": "Full-time"
+            },
+            "startDate": "1923",
+            "endDate": "1929"
+        },
+        "occupation": [
+            {
+                "@type": "OrganizationRole",
+                "namedPosition": "Assistant Mining Engineer",
+                "startDate": "1929",
+                "endDate": "1929",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Saxbergets Mine"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "namedPosition": "Mining Superintendent and Site Manager",
+                "startDate": "1930",
+                "endDate": "1936",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Orijärvi Mine"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "namedPosition": "Chief Assistant",
+                "startDate": "1939",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Skånska Cement AB"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "namedPosition": "Supervisor and Director of Operations",
+                "startDate": "1943",
+                "memberOf": {
+                    "@type": "Organization",
+                    "name": "Hidinge Limestone Quarry"
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Municipal Council in österplana",
+                "roleName": "Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "Central Swedish Limestone Quarry Center",
+                "roleName": "Vice Chairman and Director of the Board"
+            }
+        ],
+        "nationality": "Swedish",
+        "sameAs": "https://example.com/henry-julius-rudberg",
+        "description": "Published in mining technical issues. Hobbies include outdoor activities and sports.",
+        "hasOccupation": "Mining Engineer"
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Assistant mining engineer",
+                "workplace": "Saxbergets mine",
+                "industry": "",
+                "start_date": "1929"
+            },
+            {
+                "occupational_title": "Mining superintendent and site manager",
+                "workplace": "Orijärvi mine",
+                "industry": "",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Chief assistant",
+                "workplace": "Skånska Cement AB",
+                "industry": "",
+                "start_date": "1939"
+            },
+            {
+                "occupational_title": "Supervisor and director of operations",
+                "workplace": "Hidinge Limestone Quarry",
+                "industry": "",
+                "start_date": "1943"
+            }
+        ]
+    }
+}

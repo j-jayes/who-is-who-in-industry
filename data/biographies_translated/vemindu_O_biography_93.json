@@ -1,0 +1,126 @@
+{
+    "original": "ORRE, John Warner, Grosshandlare, Jönköping, f ölsremma 20/7 87 av dist.korpr o handl M Orre o Amanda Johanson, gm Märta Nystrand. Hdlssk. Hdlsbitr 05—11, hdlsförest 11—19, kont.ch AB Felix Hamrin &amp; Co Jkp 19—24, start kolonialv.fma AB Orre &amp; Co Jkp 24. Styr.led där samt i Jkp fastigh.äg.frn o Jkp stadsmiss.frn, ordf KaffeAB Telma Gbg, Gbg konstförlag AB, Kinds yllefabr.AB Ul-riceh. Stdflm, led dräts.kamm, byggn.nmd o polisnmd.",
+    "translated": "ORRE, John Warner, Wholesale Merchant, Jönköping, b. July 20, 1887, son of the district corporal and merchant M. Orre and Amanda Johanson, married to Märta Nystrand. Business school. Clerk 1905-1911, sales manager 1911-1919, accountant at AB Felix Hamrin & Co in Jönköping 1919-1924. Started colonial goods company AB Orre & Co in Jönköping in 1924. Board member there as well as owner of properties in Jönköping and member of Jönköping city mission. Chairman of KaffeAB Telma in Gothenburg, Gothenburg art publishing AB, Kinds wool factory AB Ul-riceh. Also served on the finance committee, building committee, and police committee.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "John Warner Orre",
+        "birthDate": "1887-07-20",
+        "birthPlace": "Jönköping",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "M. Orre"
+            },
+            {
+                "@type": "Person",
+                "name": "Amanda Johanson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Märta Nystrand"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Business School"
+        },
+        "career": [
+            {
+                "startDate": "1905",
+                "endDate": "1911",
+                "position": "Clerk"
+            },
+            {
+                "startDate": "1911",
+                "endDate": "1919",
+                "position": "Sales Manager"
+            },
+            {
+                "startDate": "1919",
+                "endDate": "1924",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Felix Hamrin & Co"
+                },
+                "position": "Accountant"
+            },
+            {
+                "startDate": "1924",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Orre & Co"
+                },
+                "position": "Founder"
+            }
+        ],
+        "boardMembership": [
+            {
+                "@type": "Organization",
+                "name": "AB Orre & Co"
+            },
+            {
+                "@type": "Organization",
+                "name": "Jönköping city mission"
+            },
+            {
+                "@type": "Organization",
+                "name": "KaffeAB Telma"
+            },
+            {
+                "@type": "Organization",
+                "name": "Gothenburg art publishing AB"
+            },
+            {
+                "@type": "Organization",
+                "name": "Kinds wool factory AB Ul-riceh"
+            }
+        ],
+        "ownership": {
+            "@type": "Place",
+            "name": "Jönköping"
+        },
+        "committees": [
+            {
+                "@type": "Organization",
+                "name": "Finance Committee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Building Committee"
+            },
+            {
+                "@type": "Organization",
+                "name": "Police Committee"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Clerk",
+                "workplace": "Hdlsbitr",
+                "industry": "Business",
+                "start_date": "1905"
+            },
+            {
+                "occupational_title": "Sales Manager",
+                "workplace": "Hdlsförest",
+                "industry": "Business",
+                "start_date": "1911"
+            },
+            {
+                "occupational_title": "Accountant",
+                "workplace": "AB Felix Hamrin & Co",
+                "industry": "Wholesale",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Founder",
+                "workplace": "AB Orre & Co",
+                "industry": "Colonial Goods",
+                "start_date": "1924"
+            }
+        ]
+    }
+}

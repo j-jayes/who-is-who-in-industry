@@ -1,0 +1,126 @@
+{
+    "original": "PEHRSSON, Sven Gösta, Agronom, Göteborg, f öved, Malmöh l, 3/8 04 av lantbr A P o Sigrid Nordfeldt, gm Birgit Hagman. Studex 23, resoff 26, agr.ex Alnarp 28, DHS 30. Dir.ass SMR 32—34, d:o Gbgs Smörexp.frn 35—36, avd.ch Västsv Mejerifrb sed. 37. Resor: Engl 31, 32, Tyskl 32.",
+    "translated": "PEHRSSON, Sven Gösta, Agronom (Agricultural economist), Göteborg, born Öved, Malmöhus County, 3rd August 1904, son of lantbr (farmer) A P and Sigrid Nordfeldt, married Birgit Hagman. Studied at Examen 23, reserve officer 26, agricultural examiner at Alnarp 28, DHS (Doctor of Horticultural Science) 30. Assistant director at SMR (Swedish Dairy Association) 32-34, the same at Gothenburg Dairy Export Company from 35-36, department chief at Västsv (West Sweden) Dairy Association since 37. Travels: England 31, 32, Germany 32.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Sven Gösta Pehrsson",
+        "birthDate": "1904-08-03",
+        "birthPlace": "Öved, Malmöhus County",
+        "description": "Agronom (Agricultural economist)",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "A P",
+                "jobTitle": "Farmer"
+            },
+            {
+                "@type": "Person",
+                "name": "Sigrid Nordfeldt"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Birgit Hagman"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Examination",
+            "credentialOffered": "Studex",
+            "startDate": "1923"
+        },
+        "occupation": {
+            "@type": "Reservation",
+            "reservationFor": {
+                "@type": "LodgingBusiness",
+                "name": "Reserve officer"
+            },
+            "startDate": "1926"
+        },
+        "alumniOf": {
+            "@type": "CollegeOrUniversity",
+            "name": "Alnarp",
+            "startDate": "1928",
+            "alumniOf": {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Degree",
+                "credentialOffered": "DHS (Doctor of Horticultural Science)",
+                "startDate": "1930"
+            }
+        },
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Assistant Director",
+                "startDate": "1932-01-01",
+                "endDate": "1934-12-31",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Swedish Dairy Association",
+                    "acronym": "SMR"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Assistant Director",
+                "startDate": "1935-01-01",
+                "endDate": "1936-12-31",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Gothenburg Dairy Export Company"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "roleName": "Department Chief",
+                "startDate": "1937",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "West Sweden Dairy Association",
+                    "acronym": "Västsv"
+                }
+            }
+        ],
+        "travel": [
+            {
+                "@type": "Place",
+                "name": "England",
+                "startDate": "1931",
+                "endDate": "1932"
+            },
+            {
+                "@type": "Place",
+                "name": "Germany",
+                "startDate": "1932"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Agronom",
+                "workplace": "Göteborg",
+                "industry": "Agricultural",
+                "start_date": null
+            },
+            {
+                "occupational_title": "Assistant director",
+                "workplace": "SMR (Swedish Dairy Association)",
+                "industry": "Dairy",
+                "start_date": "1932-01-01"
+            },
+            {
+                "occupational_title": "Assistant director",
+                "workplace": "Gothenburg Dairy Export Company",
+                "industry": "Dairy Export",
+                "start_date": "1935-01-01"
+            },
+            {
+                "occupational_title": "Department chief",
+                "workplace": "Västsv (West Sweden) Dairy Association",
+                "industry": "Dairy",
+                "start_date": "1937-01-01"
+            }
+        ]
+    }
+}

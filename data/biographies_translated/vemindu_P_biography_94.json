@@ -1,0 +1,148 @@
+{
+    "original": "PETTERSON, Carl Erik (»Petterson-Sverige»), Direktör, Stockholm, f Nrkp 17/5 93 av köpm C G P o Maria Jansson, gm Gerd Andersson. Studex Nrkp 11, dipl HHS 14. Fondch o börsomb 15—22, etabl eg fma i tennisart 22, gen.ag f En-tout-cas tennisbanor. Sekr Kgl Lawn Tennis Klubben o Styr.led i dess fastigh.bol. Konungens partner sed. ett 30-1 år. Ett flert idr-, studie- mfl res t europ länd sed. 11. Inneh idr-, skyt- o segl.m, SvM-o DM-1 i tennis o bandy samt fi hundra priser. Hobbies: All sport o friluftsliv, spec tennis, segl o skidor.",
+    "translated": "PETTERSON, Carl Erik (\"Petterson-Sweden\"), Director, Stockholm, b. Norrköping 17/5 1893, son of merchant C G P and Maria Jansson, m. Gerd Andersson. Graduated from Norrköping High School in 1911, diploma from Stockholm School of Economics in 1914. Worked in finance and stock market from 1915 to 1922, established his own company specializing in tennis courts in 1922, and became a general agent for En-tout-cas tennis courts. Secretary of the Royal Lawn Tennis Club and board member in its property company. Partner of the King since around 1930. Engaged in various sports, studies, and travels across Europe since 1911. Won several titles and prizes in athletics, shooting, sailing, Swedish Championship and Swedish Masters titles in tennis and bandy, as well as numerous other prizes. Hobbies: All sports and outdoor life, with a particular interest in tennis, sailing, and skiing.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "PETTERSON, Carl Erik",
+        "alternateName": "Petterson-Sweden",
+        "jobTitle": "Director",
+        "birthDate": "1893-05-17",
+        "birthPlace": "Norrköping",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "C G P",
+                "jobTitle": "Merchant"
+            },
+            {
+                "@type": "Person",
+                "name": "Maria Jansson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Gerd Andersson"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "High school diploma",
+                "recognizedCredential": "Studex",
+                "educationLevel": "HighSchool",
+                "educationalLevel": "SecondaryEducation",
+                "dateIssued": "1911"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Diploma",
+                "recognizedCredential": "HHS",
+                "dateIssued": "1914"
+            }
+        ],
+        "work": [
+            {
+                "@type": "OrganizationRole",
+                "title": "Finance and Stock Market",
+                "startDate": "1915",
+                "endDate": "1922"
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Company Owner",
+                "startDate": "1922"
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "General Agent",
+                "startDate": "1922",
+                "endDate": "present",
+                "description": "En-tout-cas tennis court"
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Secretary",
+                "roleName": "Secretary of the Royal Lawn Tennis Club"
+            },
+            {
+                "@type": "OrganizationRole",
+                "title": "Board Member",
+                "roleName": "Board member in the property company of the Royal Lawn Tennis Club"
+            }
+        ],
+        "additionalProperty": [
+            {
+                "@type": "PropertyValue",
+                "name": "Hobbies",
+                "value": "All sports and outdoor life, with a particular interest in tennis, sailing, and skiing."
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "SportsOrganization",
+                "name": "Kgl Lawn Tennis Klubben",
+                "description": "Secretary"
+            }
+        ],
+        "award": [
+            {
+                "@type": "SportsActivityAward",
+                "name": "Swedish Championship",
+                "description": "Tennis and Bandy",
+                "dateReceived": "unknown"
+            },
+            {
+                "@type": "SportsActivityAward",
+                "name": "Swedish Masters",
+                "description": "Tennis and Bandy",
+                "dateReceived": "unknown"
+            },
+            {
+                "@type": "SportsActivityAward",
+                "name": "SvM-o DM-1",
+                "description": "Tennis and Bandy",
+                "dateReceived": "unknown"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "Stockholm",
+                "industry": "-",
+                "start_date": "-"
+            },
+            {
+                "occupational_title": "Finance and Stock Market",
+                "workplace": "-",
+                "industry": "-",
+                "start_date": "1915"
+            },
+            {
+                "occupational_title": "Established own company",
+                "workplace": "-",
+                "industry": "Tennis courts",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "General Agent",
+                "workplace": "-",
+                "industry": "En-tout-cas tennis courts",
+                "start_date": "-"
+            },
+            {
+                "occupational_title": "Secretary",
+                "workplace": "Royal Lawn Tennis Club",
+                "industry": "-",
+                "start_date": "-"
+            },
+            {
+                "occupational_title": "Board Member",
+                "workplace": "Royal Lawn Tennis Club (property company)",
+                "industry": "-",
+                "start_date": "-"
+            }
+        ]
+    }
+}

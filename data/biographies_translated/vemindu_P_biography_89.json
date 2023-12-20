@@ -1,0 +1,104 @@
+{
+    "original": "PETERSSON, Thor Gunnar, Köpman, Ånge, f Ånge 12/12 87 av köpm G F P o Inga Bäckström, gm Gerda Ringqvist. Tre klass Sundsvalls allm lärov, hdlskurs i bokför. Anst fad spec- o järnhäl t 09, övert rör o ändr fma-namnet t Thor Petersson 09. Ag fastigh Ånge. Turistres Danm, Norge. Medelpads Köpm.-frbs Htg; Frimurare (VIII) Odd Fellow. Hobby: Fiske.",
+    "translated": "PETERSSON, Thor Gunnar, Merchant, Ånge, b. Ånge 12/12 87 to merchant G F P and Inga Bäckström, m. Gerda Ringqvist. Attended three years of Sundsvall public school, commercial course in bookkeeping. Employed by father in special and iron trade from 1909, took over the business and changed the company name to Thor Petersson in 1909. Owns property in Ånge. Tourist trips to Denmark, Norway. Member of the Medelpad Merchant Association; Freemason (VIII) Odd Fellow. Hobby: Fishing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Thor Gunnar Petersson",
+        "birthDate": "1887-12-12",
+        "birthPlace": "Ånge",
+        "father": {
+            "@type": "Person",
+            "name": "G F P"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Inga Bäckström"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Gerda Ringqvist"
+        },
+        "occupation": "Merchant",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Ånge"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "educationalLevel": "SecondaryEducation",
+                "schoolName": "Sundsvalls allm lärov",
+                "endDate": "1900"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "educationalLevel": "VocationalSchool",
+                "courseName": "Bookkeeping",
+                "endDate": "N/A"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Father's Special and Iron Trade"
+                },
+                "startDate": "1909",
+                "endDate": "N/A",
+                "title": "Employee"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Thor Petersson (formerly Father's Special and Iron Trade)"
+                },
+                "startDate": "1909",
+                "endDate": "N/A",
+                "title": "Owner"
+            }
+        ],
+        "owns": {
+            "@type": "OwnershipInfo",
+            "ownedFrom": "N/A",
+            "ownedThrough": "N/A",
+            "typeOfGood": {
+                "@type": "RealEstate",
+                "name": "Ånge property"
+            }
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Medelpads Köpm.-frbs Htg"
+            },
+            {
+                "@type": "Organization",
+                "name": "Frimurare (VIII) Odd Fellow"
+            }
+        ],
+        "hobbies": [
+            "Fishing"
+        ],
+        "nationality": "Swedish",
+        "description": "Merchant from Ånge, Sweden."
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Ånge",
+                "industry": "Trade",
+                "start_date": "1909"
+            },
+            {
+                "occupational_title": "Special and Iron Trader",
+                "workplace": "Unknown",
+                "industry": "Trade",
+                "start_date": "1909"
+            }
+        ]
+    }
+}

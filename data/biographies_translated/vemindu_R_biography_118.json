@@ -1,0 +1,79 @@
+{
+    "original": "ROTH, Anund Jakob, Riksbanks direktör, Karlstad, f Krist 26/8 82 av lärov.adj Hj R o Helmina Hollberg, gm Brita Bäckström. Studex 01. E.o. tjm Riksbkns Krlstkont 01, dir där 39, sekr Värml l hush.sällskaps egnahems-nmd 17—39. Ordf Värml l vpllånenmd. RVO, Värml hush.sällsk GM.",
+    "translated": "ROTH, Anund Jakob, Governor of the Swedish central bank, Karlstad, born on 26th August 1882, son of a teacher, Hj R and Helmina Hollberg. Married to Brita Bäckström. Graduated from college in 1901. Joined the Swedish central bank as a temporary employee in Karlstad in 1901, became a director in 1939. Secretary of the Värmland rural housing society's housing committee from 1917 to 1939. Chairman of the Värmland rural mortgage committee. Received Royal Order of Vasa, Värmland rural housing society's gold medal.",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Anund Jakob Roth",
+        "birthDate": "1882-08-26",
+        "birthPlace": "Karlstad, Sweden",
+        "father": {
+            "@type": "Person",
+            "name": "Hj R Roth"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Helmina Hollberg"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Brita Bäckström"
+        },
+        "alumniOf": {
+            "@type": "EducationalOrganization",
+            "name": "College"
+        },
+        "jobTitle": "Governor of the Swedish central bank",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish central bank",
+                "startDate": "1901-01-01",
+                "endDate": "1939-12-31",
+                "roleName": "Temporary employee",
+                "memberOf": {
+                    "@type": "Place",
+                    "name": "Karlstad"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "Värmland rural housing society's housing committee",
+                "startDate": "1917-01-01",
+                "endDate": "1939-12-31",
+                "roleName": "Secretary"
+            },
+            {
+                "@type": "Organization",
+                "name": "Värmland rural mortgage committee",
+                "roleName": "Chairman"
+            }
+        ],
+        "award": {
+            "@type": "Medal",
+            "name": "Värmland rural housing society's gold medal"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Temporary Employee",
+                "workplace": "Riksbank's Karlstad Office",
+                "industry": "Banking",
+                "start_date": "1901"
+            },
+            {
+                "occupational_title": "Director",
+                "workplace": "Riksbank's Karlstad Office",
+                "industry": "Banking",
+                "start_date": "1939"
+            },
+            {
+                "occupational_title": "Secretary",
+                "workplace": "Värmland Rural Housing Society's Housing Committee",
+                "industry": "Housing",
+                "start_date": "1917"
+            }
+        ]
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "original": "NYSTRÖM, Rudolf Robert, Direktör, Saltsjöbaden, f Vasa ,Finl, 18/3 84 av fabr O N o h h f Pihlström. Realsk, hdlssk. Dir AB Poulsen &amp; Ragoczy Sthlm 14—29, eg fma AB Rudolf Nyström &amp; Co, Sthlm, Borås o öre-bro, sed. 29, styr.led där. Ag fastigh St Nygatan 10—12 o N Smedjegatan 12. Resor: Europ o Amer. Hobby: Konst.",
+    "translated": "NYSTRÖM, Rudolf Robert, Director, Saltsjöbaden, b. Vasa, Finland, 18/3 84, son of factory owner O.N. and his wife Pihlström. Educated in secondary school and business school. Director of AB Poulsen & Ragoczy, Stockholm, 1914-1929, then established AB Rudolf Nyström & Co in Stockholm, Borås, and Örebro, serving as the managing director since 1929. Member of the board of directors. Owns properties at Nygatan 10-12 and Smedjegatan 12. Traveled extensively in Europe and America. Hobby: Art.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Rudolf Robert Nyström",
+        "birthDate": "1884-03-18",
+        "birthPlace": "Vasa, Finland",
+        "description": "Director of AB Rudolf Nyström & Co",
+        "address": {
+            "@type": "PostalAddress",
+            "addressRegion": "Saltsjöbaden"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "O.N. Nyström",
+                "jobTitle": "Factory Owner"
+            },
+            {
+                "@type": "Person",
+                "name": "Pihlström Nyström"
+            }
+        ],
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Realsk",
+            "alternateName": "Secondary School"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "AB Poulsen & Ragoczy",
+                "foundingDate": "1914",
+                "dissolutionDate": "1929"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Rudolf Nyström & Co",
+                "foundingDate": "1929"
+            }
+        ],
+        "owns": [
+            {
+                "@type": "RealEstateAgent",
+                "name": "Nyström properties",
+                "properties": [
+                    {
+                        "@type": "SingleFamilyResidence",
+                        "streetAddress": "Nygatan 10-12"
+                    },
+                    {
+                        "@type": "SingleFamilyResidence",
+                        "streetAddress": "Smedjegatan 12"
+                    }
+                ]
+            }
+        ],
+        "knowsAbout": "Art",
+        "nationality": {
+            "@type": "Country",
+            "name": "Finland"
+        },
+        "sameAs": {
+            "@type": "URL",
+            "url": "https://example.com/rudolf-nystrom"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "AB Poulsen & Ragoczy",
+                "industry": "Unknown",
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "AB Rudolf Nyström & Co",
+                "industry": "Unknown",
+                "start_date": "1929"
+            }
+        ]
+    }
+}

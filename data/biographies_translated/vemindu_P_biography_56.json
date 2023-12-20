@@ -1,0 +1,102 @@
+{
+    "original": "PERSSON, Nils Emanuel, Köpman, Sölvesborg, f Näsurn, Krst l, 14/6 99 av lantbr Per Nilsson o Anna Larsson, gm Ellen Axelsson. Etabl lanthdl i Kylinge 38, kol- o vedaff i Solv 27. Styr.led Solv kolhandl.frn, medl Sv kolimp :s frn. Pred i No Ska miss.frn sed. 23. Resor: USA o Canada 23—26.",
+    "translated": "PERSSON, Nils Emanuel, Merchant, Sölvesborg, b. Näsurn, Christened on June 14, 1899, son of farmer Per Nilsson and Anna Larsson, married to Ellen Axelsson. Established a country store in Kylinge in 1938, and a coal and firewood business in Sölvesborg in 1927. Board member and chairman of Sölvesborg's coal trade federation, member of the Swedish coal importers' association. Preacher in the North Swedish Mission since 1923. Traveled to the USA and Canada from 1923 to 1926.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Nils Emanuel Persson",
+        "birthDate": "1899-06-14",
+        "birthPlace": "Näsurn",
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish coal importers' association"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sölvesborg's coal trade federation",
+                "position": "Chairman"
+            },
+            {
+                "@type": "Organization",
+                "name": "North Swedish Mission",
+                "position": "Preacher",
+                "startDate": "1923"
+            }
+        ],
+        "sibling": [
+            {
+                "@type": "Person",
+                "name": "Per Nilsson"
+            },
+            {
+                "@type": "Person",
+                "name": "Anna Larsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ellen Axelsson"
+        },
+        "jobTitle": [
+            "Merchant",
+            "Preacher"
+        ],
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "Kylinge country store",
+                "startDate": "1938"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sölvesborg coal and firewood business",
+                "startDate": "1927"
+            }
+        ],
+        "hasOccupation": [
+            {
+                "@type": "Occupation",
+                "name": "Merchant"
+            },
+            {
+                "@type": "Occupation",
+                "name": "Preacher"
+            }
+        ],
+        "startDate": "1923",
+        "endDate": "1926",
+        "location": [
+            {
+                "@type": "Place",
+                "name": "United States"
+            },
+            {
+                "@type": "Place",
+                "name": "Canada"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Kylinge country store",
+                "industry": "Retail",
+                "start_date": "1938"
+            },
+            {
+                "occupational_title": "Merchant",
+                "workplace": "Sölvesborg coal and firewood business",
+                "industry": "Retail",
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Preacher",
+                "workplace": "North Swedish Mission",
+                "industry": "Religion",
+                "start_date": "1923"
+            }
+        ]
+    }
+}

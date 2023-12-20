@@ -1,0 +1,65 @@
+{
+    "original": "OSCAR, Oscar Algot, Köpman, Örebro, f Vänersborg 15/3 91. Verksam inom klädesbranschen sed. 03 m anst i fma André &amp; Heij-denberg i öbr, varav ss resande 17—34, vkst dir f AB Oscar &amp; Co i Örebro sed. 34. Styr.led i Sv Hdlsresandefrn. Odd Fellow, W6.",
+    "translated": "OSCAR, Oscar Algot, Merchant, Örebro, born Vänersborg 15/3 91. Engaged in the clothing industry since 1903, employed at the André & Heij-denberg company in Örebro, of which he was a traveling salesman from 1917 to 1934. Became the managing director of AB Oscar & Co in Örebro in 1934. Board member of the Swedish Sales Representative Association. Member of the Odd Fellow fraternity, lodge W6.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Oscar Algot Oscar",
+        "birthDate": "1891-03-15",
+        "birthPlace": "Vänersborg",
+        "jobTitle": "Merchant",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Örebro"
+        },
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "André & Heij-denberg",
+                "location": "Örebro",
+                "startDate": "1903"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Oscar & Co",
+                "location": "Örebro",
+                "startDate": "1934"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Sales Representative Association"
+            }
+        ],
+        "affiliation": [
+            {
+                "@type": "Organization",
+                "name": "Odd Fellow",
+                "identifier": "W6"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Merchant",
+                "workplace": "André & Heij-denberg company",
+                "industry": "Clothing",
+                "start_date": "1903"
+            },
+            {
+                "occupational_title": "Traveling Salesman",
+                "workplace": "André & Heij-denberg company",
+                "industry": "Clothing",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "AB Oscar & Co",
+                "industry": "Clothing",
+                "start_date": "1934"
+            }
+        ]
+    }
+}

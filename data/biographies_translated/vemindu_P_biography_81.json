@@ -1,0 +1,74 @@
+{
+    "original": "PETERSSON, Joel Einar, Direktör, Göteborg, f Bergum, Älvsb l, 1/2 98 av riksd.man O P o Augusta Johannesdtr, gm Evy Krook. Hdlssk. Anst i AB J B Colldéns Möbelaff sed. 21, vkst dir där sed. 27. Styr.led där samt i Fagernäs Väveri AB i Mölnbo. Ag fastigh Borgarg 5.",
+    "translated": "PETERSSON, Joel Einar, Director, Gothenburg, son of Bergum, Älvsborg County, born 1/2 1898, son of MP O P and Augusta Johannesdtr, married to Evy Krook. High school education. Employed at AB J B Colldén's Furniture Store since 1921, promoted to deputy director in 1927. Board member at AB J B Colldén's and Fagernäs Väveri AB in Mölnbo. Owns property at Borgargatan 5.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Peter Petersson",
+        "givenName": "Joel Einar",
+        "birthDate": "1898-02-01",
+        "birthPlace": "Bergum, Älvsborg County",
+        "nationality": "Swedish",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "O P Petersson",
+                "familyName": "Petersson",
+                "givenName": "O P",
+                "jobTitle": "Member of Parliament"
+            },
+            {
+                "@type": "Person",
+                "name": "Augusta Johannesdtr",
+                "familyName": "Johannesdtr",
+                "givenName": "Augusta"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Evy Krook"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "High School"
+        },
+        "jobTitle": "Director",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "AB J B Colldén's Möbelaffär",
+            "startDate": "1921"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "AB J B Colldén's",
+                "roleName": "Board member"
+            },
+            {
+                "@type": "Organization",
+                "name": "Fagernäs Väveri AB",
+                "roleName": "Board member"
+            }
+        ],
+        "owns": {
+            "@type": "Place",
+            "name": "Borgargatan 5"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Director",
+                "workplace": "AB J B Colldén's Furniture Store",
+                "industry": "Retail",
+                "start_date": "1921"
+            },
+            {
+                "occupational_title": "Deputy Director",
+                "workplace": "AB J B Colldén's Furniture Store",
+                "industry": "Retail",
+                "start_date": "1927"
+            }
+        ]
+    }
+}

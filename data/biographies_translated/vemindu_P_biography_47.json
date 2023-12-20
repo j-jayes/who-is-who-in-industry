@@ -1,0 +1,104 @@
+{
+    "original": "PEBSSON, Karl Enar, Civilingenjör, Stockholm, f Gbg 25/9 04 av övermaskinist C R P 0 Augusta Gustavsson, gm Ebba Thorén. Studex Sthlm 24, KTH (maskinbyggn o mek tekn) 25—30. Konstr v Vaplans Mek Verkst 1 Nälden 29—30. v AB Pentaverken i Skövde 30—33, v AB Volvo Gbg 33—37, chef f tidstu-dieavd v AB Volvo-Pentaverken, Skövde, sed. 37. Visats sed. 40 i Sthlm f uppdrag h Kungl Krigsmaterielverket.",
+    "translated": "PEBSSON, Karl Enar, Engineer, Stockholm, b. Gothenburg September 25, 1904, son of chief engineer C R P 0 Augusta Gustavsson, m. Ebba Thorén. Graduated from Stockholm 1924, Royal Institute of Technology (Mechanical Engineering) 1925-1930. Design engineer at Vaplans Mechanical Works in Nälden 1929-1930. Employed at AB Pentaverken in Skövde 1930-1933, AB Volvo in Gothenburg 1933-1937, head of the production department at AB Volvo-Pentaverken in Skövde since 1937. Displayed his work in Stockholm since 1940 under the authorization of the Royal Swedish Army Materiel Administration.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Karl Enar Pebsson",
+        "birthDate": "1904-09-25",
+        "birthPlace": "Gothenburg, Sweden",
+        "description": "Engineer",
+        "parent": {
+            "@type": "Person",
+            "name": "C R P 0 Augusta Gustavsson",
+            "jobTitle": "Chief Engineer"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Ebba Thorén"
+        },
+        "education": {
+            "@type": "EducationalOrganization",
+            "name": "Royal Institute of Technology",
+            "location": "Stockholm, Sweden"
+        },
+        "alumniOf": {
+            "@type": "CollegeOrUniversity",
+            "name": "KTH (Royal Institute of Technology)",
+            "location": "Stockholm, Sweden",
+            "startDate": "1925",
+            "endDate": "1930",
+            "educationalProgram": "Mechanical Engineering"
+        },
+        "work": [
+            {
+                "@type": "Organization",
+                "name": "Vaplans Mechanical Works",
+                "location": "Nälden, Sweden",
+                "startDate": "1929",
+                "endDate": "1930",
+                "jobTitle": "Design Engineer"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Pentaverken",
+                "location": "Skövde, Sweden",
+                "startDate": "1930",
+                "endDate": "1933",
+                "jobTitle": "Engineer"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Volvo",
+                "location": "Gothenburg, Sweden",
+                "startDate": "1933",
+                "endDate": "1937",
+                "jobTitle": "Engineer"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Volvo-Pentaverken",
+                "location": "Skövde, Sweden",
+                "startDate": "1937",
+                "jobTitle": "Head of Production Department"
+            }
+        ],
+        "award": {
+            "@type": "GovernmentOrganization",
+            "name": "Royal Swedish Army Materiel Administration"
+        },
+        "display": {
+            "@type": "Place",
+            "name": "Stockholm, Sweden",
+            "startDate": "1940"
+        }
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Design engineer",
+                "workplace": "Vaplans Mechanical Works",
+                "industry": "Mechanical engineering",
+                "start_date": "1929-01-01"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "AB Pentaverken",
+                "industry": "Engineering",
+                "start_date": "1930-01-01"
+            },
+            {
+                "occupational_title": "Engineer",
+                "workplace": "AB Volvo",
+                "industry": "Automotive",
+                "start_date": "1933-01-01"
+            },
+            {
+                "occupational_title": "Head of production department",
+                "workplace": "AB Volvo-Pentaverken",
+                "industry": "Automotive",
+                "start_date": "1937-01-01"
+            }
+        ]
+    }
+}

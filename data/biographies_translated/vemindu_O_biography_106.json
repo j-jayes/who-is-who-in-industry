@@ -1,0 +1,127 @@
+{
+    "original": "OTTEESTKÖM, Gilbert, Direktör, Stockholm, f 12/2 83 av grhdl John O o Franziska Engel, gm Magali Falk. Studex Gbg, KTH, Bergshögsk, prakt i utl. Ch.ing v E A Rosengrens Kassaskåpsfabr i Gbg 05—09, vkst dir f AB Optimus i Uppl-Väsby 09—33, tekn dir v Finspångs Metallverks AB 17—19, eg fma m fabr, G Otterström AB, i Sthlm sed. 33 (cykel- o hänglås, glödstrumpor). Hobbies : Filateli, det egna arbetet.",
+    "translated": "OTTEESTKÖM, Gilbert, Director, Stockholm, b. 12/2/1883, son of Chief Judge John O and Franziska Engel, m. Magali Falk. Studied in Gothenburg, Royal Institute of Technology, and Bergs College of Engineering. gained experience abroad. Engineer at E A Rosengrens Safes Factory in Gothenburg from 1905 to 1909. Vice President and Managing Director of AB Optimus in Uppland-Väsby from 1909 to 1933. Technical Director at Finspångs Metallverks AB from 1917 to 1919. Established own company, G Otterström AB, in Stockholm in 1933 (producing bicycles, padlocks, and incandescent mantles). Hobbies: Philately, own work.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Gilbert Otteestköm",
+        "birthDate": "1883-12-02",
+        "familyName": "Otteestköm",
+        "givenName": "Gilbert",
+        "gender": "Male",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "John O"
+            },
+            {
+                "@type": "Person",
+                "name": "Franziska Engel"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Magali Falk"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Gothenburg"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Royal Institute of Technology"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Bergs College of Engineering"
+            }
+        ],
+        "workExperience": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1905",
+                "endDate": "1909",
+                "roleName": "Engineer",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "E A Rosengrens Kassaskåpsfabr",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Gothenburg"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1909",
+                "endDate": "1933",
+                "roleName": "Vice President and Managing Director",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Optimus",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Uppland-Väsby"
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1917",
+                "endDate": "1919",
+                "roleName": "Technical Director",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Finspångs Metallverks AB"
+                }
+            },
+            {
+                "@type": "Organization",
+                "name": "G Otterström AB",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Stockholm"
+                },
+                "foundingDate": "1933",
+                "industry": "Production of bicycles, padlocks, and incandescent mantles"
+            }
+        ],
+        "interests": [
+            "Philately",
+            "Own work"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Engineer",
+                "workplace": "E A Rosengrens Safes Factory",
+                "industry": "Manufacturing",
+                "start_date": "1905"
+            },
+            {
+                "occupational_title": "Vice President and Managing Director",
+                "workplace": "AB Optimus",
+                "industry": "Manufacturing",
+                "start_date": "1909"
+            },
+            {
+                "occupational_title": "Technical Director",
+                "workplace": "Finspångs Metallverks AB",
+                "industry": "Manufacturing",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Owner",
+                "workplace": "G Otterström AB",
+                "industry": "Manufacturing",
+                "start_date": "1933"
+            }
+        ]
+    }
+}

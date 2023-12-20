@@ -1,0 +1,105 @@
+{
+    "original": "NYLIN, Sven, Handelslärare, Stockholm, f Axberg 06. Studex Örebro 28, ex öbr hdlsgymn 30, DHS 38. Anst ss kassör i byggn.fma 30—36, hdlslär v Vaxholms samrealsk 38—41, v Sthlms städs yrkesskolor 41—43, lär v Köp-inannainstitutet sed. 43.",
+    "translated": "NYLIN, Sven, Business teacher, Stockholm, born in Axberg in 1906. Graduated from Örebro in 1928, finished tradesman's high school in 1930, and got a diploma in Higher Commercial Studies in 1938. Employed as a treasurer in a construction company from 1930 to 1936, a business teacher at Vaxholm Secondary School from 1938 to 1941, and at Stockholm's Vocational Schools from 1941 to 1943. Became a teacher at the Institute of Buying and Selling since 1943.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Sven Nylin",
+        "jobTitle": "Business teacher",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm"
+        },
+        "birthDate": "1906-01-01",
+        "birthPlace": {
+            "@type": "PostalAddress",
+            "addressLocality": "Axberg"
+        },
+        "educationalCredentialAwarded": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "graduation",
+                "name": "Studex Örebro 28"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "graduation",
+                "name": "öbr hdlsgymn 30"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "diploma",
+                "name": "DHS 38"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1930-01-01",
+                "endDate": "1936-12-31",
+                "roleName": "Treasurer",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Construction Company"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1938-01-01",
+                "endDate": "1941-12-31",
+                "roleName": "Business Teacher",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Vaxholm Secondary School"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1941-01-01",
+                "endDate": "1943-12-31",
+                "roleName": "Business Teacher",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Stockholm's Vocational Schools"
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1943-01-01",
+                "roleName": "Teacher",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Institute of Buying and Selling"
+                }
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Treasurer",
+                "workplace": "Construction company",
+                "industry": "Construction",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Business Teacher",
+                "workplace": "Vaxholm Secondary School",
+                "industry": "Education",
+                "start_date": "1938"
+            },
+            {
+                "occupational_title": "Business Teacher",
+                "workplace": "Stockholm's Vocational Schools",
+                "industry": "Education",
+                "start_date": "1941"
+            },
+            {
+                "occupational_title": "Teacher",
+                "workplace": "Institute of Buying and Selling",
+                "industry": "Education",
+                "start_date": "1943"
+            }
+        ]
+    }
+}

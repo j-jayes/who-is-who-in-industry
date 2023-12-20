@@ -1,0 +1,136 @@
+{
+    "original": "NYBERG, Karl Erik, Direktör, Stockholm, f Västerås 4/7 97 av Carl-Axel Nyberg o Mathilda Nilsson, gm Elsa Kaeding. Studex Västerås 16, KTH (maskinbyggn o mek tekn) 18—22. Offerting v AB Sv Maskinverken i Södertälje 22—25, v AB Ljungströms Ångturbin m plac i Tyskl 25—27, driftsing v Svartviks Sulfitfabr 27—30, ing v Sv Cellulosa AB:s tekn avd fr 30 m plac i Skönvik 30—35 o i östrand 35, sed. 41 dir i samma bol i Sthlm. Led Sv Tekn.frn.",
+    "translated": "NYBERG, Karl Erik, Director, Stockholm, born in Västerås on 4th July 1897, son of Carl-Axel Nyberg and Mathilda Nilsson, married to Elsa Kaeding. Graduated from Västerås 16, KTH (mechanical engineering) 18—22. Worked for AB Sv Maskinverken in Södertälje 22—25, AB Ljungströms Ångturbin with a position in Germany 25—27, Shift Supervisor at Svartviks Sulfitfabrik 27—30, Engineer at Sv Cellulosa AB's technical department from 30 with a position in Skönvik 30—35 and in Östrand 35, currently since 41 serving as a Director in the same company in Stockholm. Member of the Swedish Technical Society since...",
+    "structured": {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "NYBERG Karl Erik",
+        "birthDate": "1897-07-04",
+        "birthPlace": "Västerås",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "Carl-Axel Nyberg",
+                "gender": "male"
+            },
+            {
+                "@type": "Person",
+                "name": "Mathilda Nilsson",
+                "gender": "female"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Elsa Kaeding",
+            "gender": "female"
+        },
+        "education": [
+            {
+                "@type": "EducationalOrganization",
+                "name": "Västerås"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "KTH",
+                "courseMode": "full-time",
+                "startDate": "1918",
+                "endDate": "1922",
+                "educationalCredentialAwarded": "Mechanical Engineering"
+            }
+        ],
+        "jobTitle": "Director",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "AB Sv Maskinverken"
+        },
+        "workExperience": [
+            {
+                "@type": "Organization",
+                "name": "AB Sv Maskinverken",
+                "startDate": "1922",
+                "endDate": "1925",
+                "jobTitle": "Offerting"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Ljungströms Ångturbin",
+                "jobTitle": "Shift Supervisor",
+                "location": "Germany",
+                "startDate": "1925",
+                "endDate": "1927"
+            },
+            {
+                "@type": "Organization",
+                "name": "Svartviks Sulfitfabr",
+                "jobTitle": "Shift Supervisor",
+                "startDate": "1927",
+                "endDate": "1930"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sv Cellulosa AB",
+                "jobTitle": "Engineer",
+                "department": "Technical",
+                "location": [
+                    "Skönvik",
+                    "Östrand"
+                ],
+                "startDate": "1930",
+                "endDate": "1935"
+            },
+            {
+                "@type": "Organization",
+                "name": "Sv Cellulosa AB",
+                "jobTitle": "Director",
+                "startDate": "1941",
+                "location": "Stockholm"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Technical Society"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Studex",
+                "workplace": "Västerås 16",
+                "industry": null,
+                "start_date": "unknown"
+            },
+            {
+                "occupational_title": "Offerting",
+                "workplace": "AB Sv Maskinverken in Södertälje",
+                "industry": null,
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": null,
+                "workplace": "AB Ljungströms Ångturbin",
+                "industry": null,
+                "start_date": "1925"
+            },
+            {
+                "occupational_title": "Driftsing",
+                "workplace": "Svartviks Sulfitfabr",
+                "industry": null,
+                "start_date": "1927"
+            },
+            {
+                "occupational_title": "Ing",
+                "workplace": "Sv Cellulosa AB's tekn avd",
+                "industry": null,
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Dir",
+                "workplace": "Sv Cellulosa AB",
+                "industry": null,
+                "start_date": "1941"
+            }
+        ]
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "original": "NILSSON, Nils Bo, Disponent, Lotorp, f Norrkp 1/8 14 av grhdl Gust N o Maja Håkansson, gmJBritta Bäckström. Realex, Norr-kps Hdlsgymn. Anst i AB Gustaf E Nilsson fr 32, vilket företag ombild t Lotorps Fabriks AB, vkst dir där sed. 43. Resor: Tyskl 34 o 36. Hobbies: Jakt o fiske.",
+    "translated": "NILSSON, Nils Bo, Administrator, Lotorp, b. Norrköping on August 1, 1914, the son of farmer Gustav Nilsson and Maja Håkansson, married to Britta Bäckström. Completed Realex [a type of diploma], attended Norrköping Commercial School. Employed by AB Gustaf E Nilsson since 1932, which company later transformed into Lotorps Fabriks AB, serving as Managing Director there since 1943. Travel: Germany in 1934 and 1936. Hobbies: Hunting and fishing.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "NILSSON, Nils Bo",
+        "jobTitle": "Administrator",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Lotorp"
+        },
+        "birthDate": "1914-08-01",
+        "birthPlace": "Norrköping",
+        "parents": [
+            {
+                "name": "Gustav Nilsson",
+                "jobTitle": "Farmer"
+            },
+            {
+                "name": "Maja Håkansson"
+            }
+        ],
+        "spouse": {
+            "name": "Britta Bäckström"
+        },
+        "education": [
+            {
+                "@type": "Diploma",
+                "name": "Realex"
+            },
+            {
+                "@type": "EducationalOrganization",
+                "name": "Norrköping Commercial School"
+            }
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Lotorps Fabriks AB",
+            "startDate": "1943-01-01",
+            "endDate": "9999-12-31",
+            "jobTitle": "Managing Director",
+            "url": "<website url of the organization>"
+        },
+        "memberOf": {
+            "@type": "Organization",
+            "name": "AB Gustaf E Nilsson",
+            "startDate": "1932-01-01",
+            "endDate": "1942-12-31",
+            "url": "<website url of the organization>"
+        },
+        "travel": [
+            {
+                "name": "Germany",
+                "startDate": "1934-01-01",
+                "endDate": "1934-12-31"
+            },
+            {
+                "name": "Germany",
+                "startDate": "1936-01-01",
+                "endDate": "1936-12-31"
+            }
+        ],
+        "hobbies": [
+            "Hunting",
+            "Fishing"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Administrator",
+                "workplace": "Lotorps Fabriks AB",
+                "industry": "Unknown",
+                "start_date": "1943"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "Lotorps Fabriks AB",
+                "industry": "Unknown",
+                "start_date": "1943"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "AB Gustaf E Nilsson",
+                "industry": "Unknown",
+                "start_date": "1932"
+            }
+        ]
+    }
+}

@@ -1,0 +1,161 @@
+{
+    "original": "ROSENBLAD, Nils Mathias, Civilingenjör, Karlstad, f Sthlm 4/1 96 av l:e hovstallmäst friherre E R o Augusta Burenstam, gm Ruth Lundberg. Studex öReal Sthlm 18, ord stud KTH 25—27, e. stud 27—28 o ord stud 28—30 (maskinbyggn o mek tekn). Offex o fänr v Skånska dragonreg 20, ulöjtn 22, löjtn 24, löjtn på övgst v reg 28, ryttmäst på övgst i Skånska kav.reg 35, övgst Kgl Livreg t häst 42. Anst v Curt Rosenblads Ing.byrå i Sundsvall 30—32, repr f AB Rosenblads Patenter o AB Sv Maskinverkens ångtekn avd sed. 32.",
+    "translated": "ROSENBLAD, Nils Mathias, Civil Engineer, Karlstad, born in Stockholm on January 4, 1896, the eldest son of Baron E R and Augusta Burenstam. Married to Ruth Lundberg. Graduated from Real Gymnasium in Stockholm in 1918, started studying at KTH (Royal Institute of Technology) in 1925-1927, continued as a regular student from 1927-1928, and completed his studies from 1928-1930 (majoring in mechanical engineering). Commissioned officer and second lieutenant in the Skånska dragonregiment in 1920, promoted to lieutenant in 1922, lieutenant on detachment in regiment in 1924, captain on detachment in the Skånska kavalleriregiment in 1935, officer in the Royal Life Guards cavalry regiment in 1942. Employed at Curt Rosenblad's Engineering Office in Sundsvall from 1930-1932, representative for AB Rosenblads Patents and AB Svenska Maskinverkens steam technology department since 1932.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Nils Mathias Rosenblad",
+        "birthDate": "1896-01-04",
+        "birthPlace": "Stockholm",
+        "jobTitle": "Civil Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Karlstad"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "E R Rosenblad"
+            },
+            {
+                "@type": "Person",
+                "name": "Augusta Burenstam"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Ruth Lundberg"
+        },
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "educationalLevel": "High school diploma",
+                "educationalCredentialAwarded": "Studex (Real)"
+            },
+            {
+                "@type": "EducationalOccupationalCredential",
+                "educationalLevel": "Bachelor's degree",
+                "educationalCredentialAwarded": "KTH (Royal Institute of Technology)"
+            }
+        ],
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Curt Rosenblad's Engineering Office"
+                },
+                "startDate": "1930",
+                "endDate": "1932",
+                "roleName": "Employed"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Rosenblads Patents"
+                },
+                "startDate": "1932",
+                "roleName": "Representative"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "AB Svenska Maskinverkens"
+                },
+                "startDate": "1932",
+                "roleName": "Representative",
+                "department": "Steam Technology"
+            }
+        ],
+        "militaryService": [
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Skånska dragonregiment"
+                },
+                "startDate": "1920",
+                "endDate": "1924",
+                "rank": "Commissioned Officer"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Skånska kavalleriregiment"
+                },
+                "startDate": "1935",
+                "rank": "Captain"
+            },
+            {
+                "@type": "OrganizationRole",
+                "organization": {
+                    "@type": "Organization",
+                    "name": "Royal Life Guards cavalry regiment"
+                },
+                "startDate": "1942",
+                "rank": "Officer"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Karlstad",
+                "industry": "Engineering",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Commissioned Officer",
+                "workplace": "Skånska Dragonregiment",
+                "industry": "Military",
+                "start_date": "1920"
+            },
+            {
+                "occupational_title": "Second Lieutenant",
+                "workplace": "Skånska Dragonregiment",
+                "industry": "Military",
+                "start_date": "1922"
+            },
+            {
+                "occupational_title": "Lieutenant (Detachment in Regiment)",
+                "workplace": "Skånska Dragonregiment",
+                "industry": "Military",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Captain (Detachment in Skånska Kavalleriregiment)",
+                "workplace": "Skånska Kavalleriregiment",
+                "industry": "Military",
+                "start_date": "1935"
+            },
+            {
+                "occupational_title": "Officer (Royal Life Guards Cavalry Regiment)",
+                "workplace": "Royal Life Guards Cavalry Regiment",
+                "industry": "Military",
+                "start_date": "1942"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Curt Rosenblad's Engineering Office",
+                "industry": "Engineering",
+                "start_date": "1930"
+            },
+            {
+                "occupational_title": "Representative",
+                "workplace": "AB Rosenblads Patents",
+                "industry": "Engineering",
+                "start_date": "1932"
+            },
+            {
+                "occupational_title": "Representative",
+                "workplace": "AB Svenska Maskinverkens Steam Technology Department",
+                "industry": "Engineering",
+                "start_date": "1932"
+            }
+        ]
+    }
+}

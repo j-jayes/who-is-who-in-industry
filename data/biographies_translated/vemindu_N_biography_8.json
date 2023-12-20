@@ -1,0 +1,134 @@
+{
+    "original": "NATHORST, Per Alfred Helmer, Bergsingenjör, Fagersta, f Malmberget 12/8 10 av bergsing H J H N o Elisabeth Larsson, gm Inga-Lill Sylwan. Studex NReal 28, KTH (bergs) 33. Arist f forskn.arb av ing Torkel Berglund 33—34, l:e ass metallogr avd v KTH 34—36, lab.ing Fagersta Br- AB Dannemora -vkn österbybruk 36—39, lab.ch 40—42, ing f rostfritt stål Fagersta Br AB sed. 42. Resor: KTH-stip f Tyskl 34, Jernkont.stip f USA 38 —39. Av trycket: Upps i Jernkont Annaler 0 Tekn Tidskr.",
+    "translated": "NATHORST, Per Alfred Helmer, Mining Engineer, Fagersta, born in Malmberget on August 12, 1910, son of Mining Engineer H J H N and Elisabeth Larsson, married to Inga-Lill Sylwan. Graduated with a bachelor's degree in Natural Science in 1928 from the Royal Institute of Technology (mining specialization) in 1933. Worked as a research assistant under Engineer Torkel Berglund from 1933 to 1934, and as a first assistant in the metallurgy department at the Royal Institute of Technology from 1934 to 1936. Employed as a laboratory engineer at Fagersta Ironworks AB Dannemora - Österbybruk from 1936 to 1939, and as a laboratory chief from 1940 to 1942. Became an engineer for stainless steel at Fagersta Ironworks AB starting in 1942. Traveled on a scholarship from the Royal Institute of Technology to Germany in 1934, and on a scholarship from Jernkontoret to the USA from 1938 to 1939. Published in the Jernkontores Annaler and Teknisk Tidskrift.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Per Alfred Helmer Nathorst",
+        "jobTitle": "Mining Engineer",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Fagersta"
+        },
+        "birthDate": "1910-08-12",
+        "familyName": "Nathorst",
+        "givenName": "Per Alfred Helmer",
+        "gender": "Male",
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "H J H N"
+            },
+            {
+                "@type": "Person",
+                "name": "Elisabeth Larsson"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Inga-Lill Sylwan"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "bachelor's degree",
+            "educationalLevel": "Bachelor's Degree",
+            "alumniOf": {
+                "@type": "CollegeOrUniversity",
+                "name": "Royal Institute of Technology (KTH)",
+                "specialization": "Mining"
+            },
+            "startDate": "1928",
+            "endDate": "1933"
+        },
+        "workExperience": [
+            {
+                "@type": "JobPosting",
+                "title": "Research Assistant",
+                "employer": "Engineer Torkel Berglund",
+                "startDate": "1933",
+                "endDate": "1934"
+            },
+            {
+                "@type": "JobPosting",
+                "title": "First Assistant",
+                "employer": "Royal Institute of Technology",
+                "startDate": "1934",
+                "endDate": "1936"
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Laboratory Engineer",
+                "employer": "Fagersta Ironworks AB Dannemora - Österbybruk",
+                "startDate": "1936",
+                "endDate": "1939"
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Laboratory Chief",
+                "employer": "Fagersta Ironworks AB",
+                "startDate": "1940",
+                "endDate": "1942"
+            },
+            {
+                "@type": "JobPosting",
+                "title": "Engineer for Stainless Steel",
+                "employer": "Fagersta Ironworks AB",
+                "startDate": "1942"
+            }
+        ],
+        "hasOccupation": "Mining Engineer",
+        "scholarships": [
+            {
+                "@type": "ScholarlyArticle",
+                "name": "KTH scholarship to Germany",
+                "publisher": "Royal Institute of Technology",
+                "startDate": "1934"
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Jernkontoret scholarship to the USA",
+                "publisher": "Jernkontoret",
+                "startDate": "1938",
+                "endDate": "1939"
+            }
+        ],
+        "publications": [
+            "Upps i Jernkont Annaler",
+            "Teknisk Tidskrift"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Research Assistant",
+                "workplace": "KTH (Royal Institute of Technology)",
+                "industry": "Education",
+                "start_date": "1933"
+            },
+            {
+                "occupational_title": "First Assistant",
+                "workplace": "KTH (Royal Institute of Technology)",
+                "industry": "Education",
+                "start_date": "1934"
+            },
+            {
+                "occupational_title": "Laboratory Engineer",
+                "workplace": "Fagersta Ironworks AB Dannemora - Österbybruk",
+                "industry": "Iron and Steel",
+                "start_date": "1936"
+            },
+            {
+                "occupational_title": "Laboratory Chief",
+                "workplace": "Fagersta Ironworks AB Dannemora - Österbybruk",
+                "industry": "Iron and Steel",
+                "start_date": "1940"
+            },
+            {
+                "occupational_title": "Engineer for Stainless Steel",
+                "workplace": "Fagersta Ironworks AB",
+                "industry": "Iron and Steel",
+                "start_date": "1942"
+            }
+        ]
+    }
+}

@@ -1,0 +1,165 @@
+{
+    "original": "PERSON, Josef Waldemar Tyreus, Disponent, Blomstermåla, f Ryssby, Kalmar l, 23/9 86 av lantbr Per P o Emma Börjesson, gm Ruth Johansson. Hdlssk. Disp i AB Bohman &amp; Johansson samt AB Broholms Fanérfabr, Blomstermåla. Styr.led i Ålems Sparbk fr 26. Ldstingsman fr 31 o rev i ldst fr 36, led av Ålems s :ns kommunalflm fr 19 o dess ordf fr 24, fd led av fattigv.styr, kommunalnmd o skolråd.",
+    "translated": "PERSON, Josef Waldemar Tyreus, Disponent (Manager), Blomstermåla, f Ryssby, Kalmar l (County), 23/9 86 (born on September 23, 1886) av lantbr (farmer) Per P o Emma Börjesson, gm (married) Ruth Johansson. Hdlssk. (Graduated from trade school). Disp (Manager) in AB Bohman & Johansson and AB Broholms Fanérfabr (veneer factory), Blomstermåla. Styr.led (Board member) in Ålems Sparbk (Ålem's Savings Bank) from 1926. Ldstingsman (Member of the County Council) from 1931 and auditor in the council from 1936. Member of Ålems s:ns (Ålem's Social Democratic Party) kommunalflm (Local Board) from 1919 and its chairman from 1924. Former member of the poor relief board, municipal board, and school board.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Josef Waldemar Tyreus",
+        "birthDate": "1886-09-23",
+        "birthPlace": "Blomstermåla, Ryssby, Kalmar l",
+        "father": {
+            "@type": "Person",
+            "name": "Per P"
+        },
+        "mother": {
+            "@type": "Person",
+            "name": "Emma Börjesson"
+        },
+        "spouse": {
+            "@type": "Person",
+            "name": "Ruth Johansson"
+        },
+        "education": "Trade School",
+        "worksFor": [
+            {
+                "@type": "Organization",
+                "name": "AB Bohman & Johansson"
+            },
+            {
+                "@type": "Organization",
+                "name": "AB Broholms Fanérfabr"
+            }
+        ],
+        "jobTitle": [
+            "Disponent (Manager)",
+            "Disp (Manager)"
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Blomstermåla",
+            "addressRegion": "Kalmar l"
+        },
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Ålems Sparbk (Ålem's Savings Bank)",
+                "startDate": "1926"
+            },
+            {
+                "@type": "Organization",
+                "name": "Ålems s:ns (Ålem's Social Democratic Party)",
+                "startDate": "1919"
+            }
+        ],
+        "boardMembership": [
+            {
+                "@type": "Organization",
+                "name": "Ålems Sparbk (Ålem's Savings Bank)",
+                "roleName": "Board member",
+                "startDate": "1926"
+            }
+        ],
+        "countyCouncilMembership": {
+            "@type": "Organization",
+            "name": "Kalmar County Council",
+            "roleName": "Member",
+            "startDate": "1931"
+        },
+        "countyCouncilAuditor": {
+            "@type": "Organization",
+            "name": "Kalmar County Council",
+            "roleName": "Auditor",
+            "startDate": "1936"
+        },
+        "localBoardMembership": {
+            "@type": "Organization",
+            "name": "Ålems s:ns kommunalflm (Ålem's Local Board)",
+            "roleName": "Member",
+            "startDate": "1919"
+        },
+        "localBoardChairman": {
+            "@type": "Organization",
+            "name": "Ålems s:ns kommunalflm (Ålem's Local Board)",
+            "roleName": "Chairman",
+            "startDate": "1924"
+        },
+        "formerMembership": [
+            {
+                "@type": "Organization",
+                "name": "Poor relief board"
+            },
+            {
+                "@type": "Organization",
+                "name": "Municipal board"
+            },
+            {
+                "@type": "Organization",
+                "name": "School board"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Disponent",
+                "workplace": "AB Bohman & Johansson",
+                "industry": "Unknown",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Disponent",
+                "workplace": "AB Broholms Fanérfabr",
+                "industry": "Veneer manufacturing",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Styr.led",
+                "workplace": "Ålems Sparbk",
+                "industry": "Financial institution",
+                "start_date": "1926"
+            },
+            {
+                "occupational_title": "Ldstingsman",
+                "workplace": "Unknown",
+                "industry": "County Council",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Rev",
+                "workplace": "Unknown",
+                "industry": "County Council",
+                "start_date": "1936"
+            },
+            {
+                "occupational_title": "Led av Ålems s:ns kommunalflm",
+                "workplace": "Ålems kommunalflm",
+                "industry": "Local government",
+                "start_date": "1919"
+            },
+            {
+                "occupational_title": "Ordf",
+                "workplace": "Ålems kommunalflm",
+                "industry": "Local government",
+                "start_date": "1924"
+            },
+            {
+                "occupational_title": "Former member",
+                "workplace": "Unknown",
+                "industry": "Poor relief board",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Former member",
+                "workplace": "Unknown",
+                "industry": "Municipal board",
+                "start_date": "Unknown"
+            },
+            {
+                "occupational_title": "Former member",
+                "workplace": "Unknown",
+                "industry": "School board",
+                "start_date": "Unknown"
+            }
+        ]
+    }
+}

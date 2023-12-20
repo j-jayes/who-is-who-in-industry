@@ -1,0 +1,104 @@
+{
+    "original": "NILSSON, Gunnar, Civilingenjör, Stockholm, f Fritsla, Älvsb l, 10/9 03 av fabr N E N o Alfhild Schlichting, gm Brita Roberg. Studex Borås 22, CTI (E) 23—27. Bedrivit propaganda-, undervisnings- o konsultations-verksamh v Sv Frn f Ljuskultur i Sthlm 28— 43, assist i belysn.tekn v KTH 31—43. Anst v ASEA, avd IM, Sthlm sed. 43. Sekr i Sv Be-lysningssällsk sed. 42. Klubbm i sällsk Boråspojkarna sed. 38. Av trycket bl a. kompendier o kurser i belysn.teknik samt broschyrer o uppsatser om ljus o belysning.",
+    "translated": "NILSSON, Gunnar, Engineer, Stockholm, b. Fritsla, Älvsborgs län, 10/9 03, son of factory owner N.E.N and Alfhild Schlichting, married to Brita Roberg. Completed studies in Borås in 1922, CTI (E) 1923-1927. Engaged in propagandizing, teaching, and consulting activities for the Swedish Society for Lighting Culture in Stockholm from 1928 to 1943, as well as assisting in lighting technology at KTH (Royal Institute of Technology) from 1931 to 1943. Employed at ASEA, IM department, in Stockholm since 1943. Secretary of the Swedish Illuminating Society since 1942. Member of the Boråspojkarna society since 1938. Published various compendiums and courses on lighting technology, as well as brochures and essays on light and illumination.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Gunnar Nilsson",
+        "jobTitle": "Engineer",
+        "birthPlace": "Fritsla, Älvsborgs län",
+        "birthDate": "1903-09-10",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "N.E.N Nilsson",
+                "jobTitle": "Factory Owner"
+            },
+            {
+                "@type": "Person",
+                "name": "Alfhild Schlichting"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Brita Roberg"
+        },
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Studex",
+            "issuer": "Borås",
+            "issueDate": "1922"
+        },
+        "workExperience": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Society for Lighting Culture",
+                "location": "Stockholm",
+                "startDate": "1928",
+                "endDate": "1943",
+                "jobTitle": "Propagation, Teaching, and Consulting Activities"
+            },
+            {
+                "@type": "Organization",
+                "name": "KTH (Royal Institute of Technology)",
+                "location": "Stockholm",
+                "startDate": "1931",
+                "endDate": "1943",
+                "jobTitle": "Assistant in Lighting Technology"
+            },
+            {
+                "@type": "Organization",
+                "name": "ASEA",
+                "department": "IM department",
+                "location": "Stockholm",
+                "startDate": "1943"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Swedish Illuminating Society",
+                "startDate": "1942",
+                "jobTitle": "Secretary"
+            },
+            {
+                "@type": "Organization",
+                "name": "Boråspojkarna",
+                "startDate": "1938",
+                "jobTitle": "Member"
+            }
+        ],
+        "works": [
+            "Compendiums and Courses in Lighting Technology",
+            "Brochures and Essays on Light and Illumination"
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "Swedish Society for Lighting Culture",
+                "industry": "Lighting",
+                "start_date": "1928"
+            },
+            {
+                "occupational_title": "Assistant in Lighting Technology",
+                "workplace": "Royal Institute of Technology (KTH)",
+                "industry": "Education",
+                "start_date": "1931"
+            },
+            {
+                "occupational_title": "Secretary",
+                "workplace": "Swedish Illuminating Society",
+                "industry": "Lighting",
+                "start_date": "1942"
+            },
+            {
+                "occupational_title": "Civil Engineer",
+                "workplace": "ASEA",
+                "industry": "Electrical engineering",
+                "start_date": "1943"
+            }
+        ]
+    }
+}

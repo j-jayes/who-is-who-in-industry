@@ -1,0 +1,230 @@
+{
+    "original": "OHLSON, Carl Bertil, Konsul, Söderhamn, f Södhn 31/1 86 av dir C Alfr O o Elin Gårdlund, gm Ebba Bohlin. Schartaus, resoffexKarlbg 07. Anst mjölfma Thomas Pugh &amp; Co London 07—08, kass fma C Alf Ohlsons imp.aff Härnösand 09—13, v vkst dir AB C Alf Ohlson Södhn (grund av fad 85, AB 10) 13—28, vkst dir sed. 28. Styr.led AB Sv kolon.varuengr :s riksförb Sthlm, Skand bkns avd.kont, ordf So Hälsingl eng.frn Södhn. Dansk v.kons Södhn 24. Resor: Tyskl, Schweiz 04, Engl 07—08, Frankr 10, Norge 18, Danm 21. UDDO, Frimurare, Odd Fellow, Rotary. Hobbies: Skidåkning, segling, ridning, filateli.",
+    "translated": "OHLSON, Carl Bertil, Consul, Söderhamn, born in Södhn on January 31, 1886, son of director C Alfr O and Elin Gårdlund, married to Ebba Bohlin. Graduated from Schartaus, reserve officer in Karlstad 1907. Employed at the flour company Thomas Pugh & Co in London 1907-1908, cashier at C Alf Ohlson's import business in Härnösand 1909-1913, deputy managing director at AB C Alf Ohlson Södhn (established by father in 1885, AB founded in 1910) 1913-1928, managing director since 1928. Board member of the Swedish Colonial Goods Traders' Federation in Stockholm, Scandinavian Bank's branch office, chairman of the South Hälsingland Engineering Association from Söderhamn. Danish vice-consul in Söderhamn 1924. Travelled to Germany, Switzerland 1904, England 1907-1908, France 1910, Norway 1918, Denmark 1921. Freemason, Odd Fellow, Rotary Club member. Hobbies: skiing, sailing, horseback riding, philately.",
+    "structured": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Carl Bertil Ohlson",
+        "birthDate": "1886-01-31",
+        "birthPlace": "Södhn, Sweden",
+        "description": "Consul, Söderhamn",
+        "spouse": {
+            "@type": "Person",
+            "name": "Ebba Bohlin"
+        },
+        "parents": [
+            {
+                "@type": "Person",
+                "name": "C Alfr O Ohlson"
+            },
+            {
+                "@type": "Person",
+                "name": "Elin Gårdlund"
+            }
+        ],
+        "education": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "Graduate",
+            "educationalLevel": "Schartaus"
+        },
+        "employmentHistory": [
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1907",
+                "endDate": "1908",
+                "roleName": "Employed at Thomas Pugh & Co",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Thomas Pugh & Co",
+                    "location": {
+                        "@type": "Place",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "England",
+                            "addressLocality": "London"
+                        }
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1909",
+                "endDate": "1913",
+                "roleName": "Cashier at C Alf Ohlson's import business",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "C Alf Ohlson's import business",
+                    "location": {
+                        "@type": "Place",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "Sweden",
+                            "addressLocality": "Härnösand"
+                        }
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1913",
+                "endDate": "1928",
+                "roleName": "Deputy managing director at AB C Alf Ohlson Södhn",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "AB C Alf Ohlson Södhn",
+                    "location": {
+                        "@type": "Place",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "Sweden",
+                            "addressLocality": "Söderhamn"
+                        }
+                    }
+                }
+            },
+            {
+                "@type": "OrganizationRole",
+                "startDate": "1928",
+                "roleName": "Managing director at AB C Alf Ohlson Södhn",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "AB C Alf Ohlson Södhn",
+                    "location": {
+                        "@type": "Place",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressCountry": "Sweden",
+                            "addressLocality": "Söderhamn"
+                        }
+                    }
+                }
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Freemason"
+            },
+            {
+                "@type": "Organization",
+                "name": "Odd Fellow"
+            },
+            {
+                "@type": "Organization",
+                "name": "Rotary Club"
+            }
+        ],
+        "honorificSuffix": "Consul",
+        "nationality": "Swedish",
+        "dansihViceConsulIn": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressCountry": "Sweden",
+                "addressLocality": "Söderhamn"
+            },
+            "name": "Söderhamn"
+        },
+        "travelHistory": [
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Germany"
+                },
+                "name": "Germany",
+                "startDate": "1904"
+            },
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Switzerland"
+                },
+                "name": "Switzerland",
+                "startDate": "1904"
+            },
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "England"
+                },
+                "name": "England",
+                "startDate": "1907",
+                "endDate": "1908"
+            },
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "France"
+                },
+                "name": "France",
+                "startDate": "1910"
+            },
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Norway"
+                },
+                "name": "Norway",
+                "startDate": "1918"
+            },
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Denmark"
+                },
+                "name": "Denmark",
+                "startDate": "1921"
+            }
+        ],
+        "sameAs": [
+            "https://example.com/carl-bertil-ohlson"
+        ],
+        "additionalProperty": [
+            {
+                "@type": "PropertyValue",
+                "name": "Hobbies",
+                "value": "Skiing, sailing, horseback riding, philately"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Reserve Officer",
+                "workplace": "Karlstad",
+                "industry": null,
+                "start_date": "1907"
+            },
+            {
+                "occupational_title": "Employee",
+                "workplace": "Thomas Pugh & Co",
+                "industry": "Flour Company",
+                "start_date": "1907"
+            },
+            {
+                "occupational_title": "Cashier",
+                "workplace": "C Alf Ohlson's import business",
+                "industry": null,
+                "start_date": "1909"
+            },
+            {
+                "occupational_title": "Deputy Managing Director",
+                "workplace": "AB C Alf Ohlson Södhn",
+                "industry": null,
+                "start_date": "1913"
+            },
+            {
+                "occupational_title": "Managing Director",
+                "workplace": "AB C Alf Ohlson Södhn",
+                "industry": null,
+                "start_date": "1928"
+            }
+        ]
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "original": "ORUP, John Valdemar Reinhold, Bergsingenjör, Vikmanshyttan, f Hbg 16/7 90 av förtroendeman J Jönsson o Johanna Persson-Orup, gm Ruth Sandberg. Mog.ex Hbg 08, bergsingex KTH 12. Ass v KTH :s mtrlprovn.-anst 12—14, ing v Larsbo-Norns AB i Vik-manshyttan 14—17, förest f KTH:s mtrl-provn.ansts bergskemiska avd 17—19, ing v Wikmanshytte Bruks AB sed. 20.",
+    "translated": "ORUP, John Valdemar Reinhold, Mining Engineer, Vikmanshyttan, b. Helsingborg 16/7 90 to foreman J Jönsson and Johanna Persson-Orup, m. Ruth Sandberg. Formerly from Helsingborg in 1908, graduated as a mining engineer from the Royal Institute of Technology (KTH) in 1912. Assistant at KTH's Material Testing Institution 1912-1914, engineer at Larsbo-Norns AB in Vikmanshyttan 1914-1917, head of the mountain-chemical department at KTH's Material Testing Institution 1917-1919, engineer at Wikmanshytte Bruks AB since 1920.",
+    "structured": {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "John Valdemar Reinhold Orup",
+        "birthDate": "1890-07-16",
+        "birthPlace": "Helsingborg, Sweden",
+        "spouse": {
+            "@type": "Person",
+            "name": "Ruth Sandberg"
+        },
+        "formerName": [
+            "John Valdemar Reinhold Orup"
+        ],
+        "nationality": "Swedish",
+        "occupation": "Mining Engineer",
+        "affiliation": [
+            {
+                "@type": "Organization",
+                "name": "Royal Institute of Technology (KTH)"
+            },
+            {
+                "@type": "Organization",
+                "name": "Larsbo-Norns AB"
+            },
+            {
+                "@type": "Organization",
+                "name": "Wikmanshytte Bruks AB"
+            }
+        ],
+        "education": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "degree",
+                "educationalLevel": "Graduated",
+                "educationalCredentialAwarded": "Mining Engineer",
+                "educationalInstitution": {
+                    "@type": "EducationalOrganization",
+                    "name": "Royal Institute of Technology (KTH)"
+                },
+                "startDate": "1908",
+                "endDate": "1912",
+                "description": "Mining Engineering program"
+            }
+        ],
+        "work": [
+            {
+                "@type": "Role",
+                "name": "Assistant",
+                "startDate": "1912",
+                "endDate": "1914",
+                "description": "KTH's Material Testing Institution"
+            },
+            {
+                "@type": "Role",
+                "name": "Engineer",
+                "startDate": "1914",
+                "endDate": "1917",
+                "description": "Larsbo-Norns AB in Vikmanshyttan"
+            },
+            {
+                "@type": "Role",
+                "name": "Head of Mountain-Chemical Department",
+                "startDate": "1917",
+                "endDate": "1919",
+                "description": "KTH's Material Testing Institution"
+            },
+            {
+                "@type": "Role",
+                "name": "Engineer",
+                "startDate": "1920",
+                "description": "Wikmanshytte Bruks AB"
+            }
+        ]
+    },
+    "occupations": {
+        "career": [
+            {
+                "occupational_title": "Bergsingenjör",
+                "workplace": "Vikmanshyttan",
+                "industry": "Mining",
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Assistant",
+                "workplace": "KTH's Material Testing Institution",
+                "industry": "Education",
+                "start_date": "1912"
+            },
+            {
+                "occupational_title": "Ingenjör",
+                "workplace": "Larsbo-Norns AB",
+                "industry": "Mining",
+                "start_date": "1914"
+            },
+            {
+                "occupational_title": "Föreståndare",
+                "workplace": "KTH's Material Testing Institution (Bergskemisk avd)",
+                "industry": "Education",
+                "start_date": "1917"
+            },
+            {
+                "occupational_title": "Ingenjör",
+                "workplace": "Wikmanshytte Bruks AB",
+                "industry": "Mining",
+                "start_date": "1920"
+            }
+        ]
+    }
+}
